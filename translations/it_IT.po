@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2020-02-07 04:20\n"
+"PO-Revision-Date: 2020-02-07 07:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -63,7 +63,7 @@ msgstr "Nome utente:"
 #: wp-activate.php:178 wp-admin/includes/meta-boxes.php:167
 #: wp-includes/post-template.php:1611
 msgid "Password:"
-msgstr ""
+msgstr "Password:"
 
 #: wp-activate.php:188
 msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Log in</a>"
@@ -94,11 +94,11 @@ msgstr "Versione %s"
 
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr ""
+msgstr "Grazie per aver scelto ClassicPress il <a href=\"%s\">CMS per le Aziende</a>."
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
-msgstr ""
+msgstr "Potente. Versatile. Prevedibile."
 
 #: wp-admin/about.php:38 wp-admin/credits.php:37 wp-admin/freedoms.php:40
 msgid "What&#8217;s New"
@@ -116,7 +116,7 @@ msgstr "Libertà"
 
 #: wp-admin/about.php:41 wp-admin/credits.php:40 wp-admin/freedoms.php:43
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
