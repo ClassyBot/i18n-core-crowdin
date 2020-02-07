@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-02-07 17:32\n"
+"PO-Revision-Date: 2020-02-07 17:45\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -160,7 +160,7 @@ msgstr "Сервисные релизы и обновления безопасн
 
 #: wp-admin/about.php:103
 msgid "ClassicPress currently includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "ClassicPress в настоящее время включает в себя все изменения из следующих версий WordPress:"
 
 #: wp-admin/about.php:109
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
