@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2020-02-07 04:19\n"
+"PO-Revision-Date: 2020-02-07 04:23\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -25437,7 +25437,7 @@ msgstr "Schermnaam mag niet langer zijn dan 50 tekens."
 #: wp-includes/user.php:1600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s op %2$s"
 
 #: wp-includes/user.php:1877
 msgid "Hi ###USERNAME###,\n\n"
