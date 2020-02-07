@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-02-07 04:20\n"
+"PO-Revision-Date: 2020-02-07 17:12\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -94,11 +94,11 @@ msgstr "Версия %s"
 
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr ""
+msgstr "Благодарим вас за использование ClassicPress, <a href=\"%s\">бизнес-ориентированной CMS</a>."
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
-msgstr ""
+msgstr "Мощная. Универсальная. Предсказуемая."
 
 #: wp-admin/about.php:38 wp-admin/credits.php:37 wp-admin/freedoms.php:40
 msgid "What&#8217;s New"
@@ -120,7 +120,7 @@ msgstr "Конфиденциальность"
 
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Помогите нам перевести ClassicPress на ваш язык! <a href=\"%s\">Узнайте больше</a>."
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
