@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-02-16 22:02\n"
+"PO-Revision-Date: 2020-02-16 22:12\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -128,7 +128,7 @@ msgstr ""
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "ClassicPress es una bifurcación de la rama 4.9 de WordPress, que incluye la confiable y probada interfaz clásica de editor con TinyMCE."
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
