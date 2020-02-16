@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-02-07 04:20\n"
+"PO-Revision-Date: 2020-02-16 22:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -120,7 +120,7 @@ msgstr "Privacidad"
 
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "¡Ayúdanos a traducir ClassicPress a tu idioma! <a href=\"%s\">Más información</a>."
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
