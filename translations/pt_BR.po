@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2020-02-17 01:51\n"
+"PO-Revision-Date: 2020-02-17 02:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4756,7 +4756,7 @@ msgstr "Registrado"
 #: wp-admin/network/menu.php:39 wp-admin/network/sites.php:19
 #: wp-admin/network/sites.php:333 wp-includes/admin-bar.php:454
 msgid "Sites"
-msgstr ""
+msgstr "sites"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:242
 #: wp-admin/includes/class-wp-users-list-table.php:399
