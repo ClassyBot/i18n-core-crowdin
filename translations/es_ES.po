@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2020-02-17 02:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -233,7 +233,7 @@ msgstr "Versiones de mantenimiento y seguridad"
 #. translators: %s: ClassicPress version number
 #: wp-admin/about.php:282
 msgid "<strong>Version %s</strong> addressed one security issue."
-msgstr "<strong>Versión %s</strong> mostr&oacute; un problema de seguridad."
+msgstr "<strong>Versión %s</strong> soluciona un problema de seguridad."
 
 #. translators: %s: ClassicPress version number
 #: wp-admin/about.php:284
@@ -1000,7 +1000,7 @@ msgstr "En la mayoría de los temas el texto de cabecera es tu Título y descrip
 
 #: wp-admin/custom-header.php:117
 msgid "In the Header Text section of this page, you can choose whether to display this text or hide it. You can also choose a color for the text by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr "En la sección del texto de la cabecera de esta página puedes elegir si mostrarlo u ocultarlo. También puedes elegir el color del texto haciendo clic en el botón de selección del color o escribiendo un valor hexadecimal HTML válido. Por ejemplo &#8220;#ff0000&#8221 para rojo, o utilizando el selector de color."
+msgstr "En la sección del texto de la cabecera de esta página puedes elegir si mostrarlo u ocultarlo. También puedes elegir el color del texto haciendo clic en el botón de selección del color o escribiendo un valor hexadecimal HTML válido. Por ejemplo &#8220;#ff0000&#8221; para rojo, o utilizando el selector de color."
 
 #: wp-admin/custom-header.php:118
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
@@ -1085,7 +1085,7 @@ msgstr "Imágenes por defecto"
 
 #: wp-admin/custom-header.php:618
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers, or show a random one."
-msgstr "Si no quieres subir tu propia imagen puedes usar una de estas cabeceras tan chulas o ir mostrándolas aleatoriamente."
+msgstr "Si no quieres subir tu propia imagen puedes usar una de estas cabeceras tan chulas o ir mostrándolas aleatoreamente."
 
 #: wp-admin/custom-header.php:620
 msgid "You can use one of these cool headers or show a random one on each page."
