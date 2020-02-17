@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2020-02-17 09:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -101,7 +101,7 @@ msgstr "Версия %s"
 #. translators: link to "business-focused CMS" article
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr "Спасибо за то, что вы используете ClassicPress, <a href=\"%s\">бизнес-ориентированную CMS</a>."
+msgstr "Благодарим вас за использование ClassicPress, <a href=\"%s\">бизнес-ориентированной CMS</a>."
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
@@ -128,50 +128,50 @@ msgstr "Конфиденциальность"
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr "Помогите нам перевести ClassicPress на ваш язык! <a href=\"%s\">Узнать больше</a>."
+msgstr "Помогите нам перевести ClassicPress на ваш язык! <a href=\"%s\">Узнайте больше</a>."
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
-msgstr "Представляем ClassicPress"
+msgstr ""
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr "ClassicPress это ответвление WordPress 4.9, которое включает заслуженный и проверенный в боевых условиях интерфейс классического редактора на основе TinyMCE."
+msgstr ""
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr "Платформа долгие годы была фундаментом для миллионов сайтов, и мы верим, что она также будет отличным фундаментом для будущих."
+msgstr ""
 
 #: wp-admin/about.php:68
 msgid "Join our growing community"
-msgstr "Присоединяйтесь к нашему растущему сообществу"
+msgstr ""
 
 #. translators: 1: link with instructions to join ClassicPress Slack, 2: link
 #. to community forums
 #: wp-admin/about.php:72
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Slack group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr "Для общих дискуссий по поводу ClassicPress, <a href=\"%1$s\"><strong>присоединяйтесь к нашей группе Slack</strong></a> или <a href=\"%2$s\"><strong>Форуму нашего сообщества</strong></a>."
+msgstr ""
 
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80
 msgid "Suggestions for improvements to future versions of ClassicPress are welcome at <a href=\"%s\"><strong>our petitions site</strong></a>."
-msgstr "Предложения по улучшению будущих версий ClassicPress приветствуются на <a href=\"%s\"><strong>нашем сайте петиций</strong></a>."
+msgstr ""
 
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress
 #. support forum
 #: wp-admin/about.php:87
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr "Если вам нужна помощь с чем-то ещё, пожалуйста, ознакомьтесь с нашей <a href=\"%1$s\"><strong>страницей частых вопросов</strong></a>. Если там нет ответа на ваш вопрос, вы можете создать новый пост на нашем <a href=\"%2$s\"><strong>Форуме поддержки</strong></a>."
+msgstr ""
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub
 #. issues list
 #: wp-admin/about.php:95
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%1$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr "ClassicPress разрабатывается <a href=\"%1$s\"><strong>на&nbsp;GitHub'е</strong></a>. Для отчетов о конкретных ошибках или технических предложений ознакомьтесь со&nbsp;<a href=\"%1$s\"><strong>списком&nbsp;проблем</strong> и добавьте свой отчет, если он ещё не присутствует в списке."
+msgstr ""
 
 #: wp-admin/about.php:101
 msgid "WordPress Maintenance and Security Releases"
-msgstr "Сервисные релизы и обновления безопасности WordPress"
+msgstr ""
 
 #: wp-admin/about.php:103
 msgid "ClassicPress currently includes all changes from the following versions of WordPress:"
@@ -180,7 +180,7 @@ msgstr "ClassicPress в настоящее время включает в себ
 #. translators: %s: WordPress version number
 #: wp-admin/about.php:109
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr "WordPress версии %s с учётом некоторых обновлений безопасности."
+msgstr ""
 
 #. translators: %s: Codex URL
 #: wp-admin/about.php:113 wp-admin/about.php:132 wp-admin/about.php:152
@@ -195,9 +195,9 @@ msgstr "Дополнительную информацию можно найти 
 #: wp-admin/about.php:213
 msgid "<strong>WordPress version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed %2$s bugs."
-msgstr[0] "<strong>WordPress версии %1$s</strong> учитывает %2$s ошибку."
-msgstr[1] "<strong>WordPress версии %1$s</strong> учитывает %2$s ошибки."
-msgstr[2] "<strong>WordPress версии %1$s</strong> учитывает %2$s ошибок."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 msgstr[3] ""
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
@@ -205,9 +205,9 @@ msgstr[3] ""
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] "<strong>WordPress версии %1$s</strong> учитывает некоторые проблемы безопасности и исправляет %2$s ошибку."
-msgstr[1] "<strong>WordPress версии %1$s</strong> учитывает некоторые проблемы безопасности и исправляет %2$s ошибки."
-msgstr[2] "<strong>WordPress версии %1$s</strong> учитывает некоторые проблемы безопасности и исправляет %2$s ошибок."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 msgstr[3] ""
 
 #: wp-admin/about.php:272
@@ -485,7 +485,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\">
 #: wp-admin/upload.php:67 wp-admin/upload.php:213 wp-admin/user-edit.php:62
 #: wp-admin/user-new.php:221 wp-admin/users.php:69 wp-admin/widgets.php:77
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr "<a href=\"https://forums.classicpress.net/c/support\">Форумы поддержки</a>"
+msgstr ""
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:255
 #: wp-admin/edit-comments.php:234 wp-includes/class-wp-xmlrpc-server.php:3312
@@ -707,12 +707,12 @@ msgstr "Неизвестное действие."
 #. translators: %s: https://www.classicpress.net/contributors/
 #: wp-admin/credits.php:48
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr "ClassicPress создан <a href=\"%1$s\">всемирной командой</a> увлечённых личностей."
+msgstr ""
 
 #. translators: %s: https://www.classicpress.net/get-involved/
 #: wp-admin/credits.php:54
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr "Хотите помочь с разработкой? <a href=\"%s\">Вливайтесь в ClassicPress</a>."
+msgstr ""
 
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
@@ -1713,7 +1713,7 @@ msgstr "Вы можете загружать и вставлять медиаф�
 
 #: wp-admin/edit-form-advanced.php:431
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. Please refer to the Codex to <a href=\"https://codex.wordpress.org/Embeds\">learn more about embeds</a>."
-msgstr "Вы также можете внедрять медиафайлы из многих популярных сайтов, включая Twitter, YouTube, Flickr и другие, вставляя URL медиафайла отдельной строкой в тело своей заметки или страницы. Пожалуйста, обратитесь к «Кодексу», чтобы <a href=\"https://codex.wordpress.org/Embeds\">узнать больше о медиавставках</a>."
+msgstr ""
 
 #: wp-admin/edit-form-advanced.php:435
 msgid "Inserting Media"
@@ -1729,7 +1729,7 @@ msgstr "<strong>Опубликовать</strong> &#8212; можно задат�
 
 #: wp-admin/edit-form-advanced.php:447
 msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
-msgstr "<strong>Формат</strong> &mdash; форматы записей определяют, как ваша тема будет отображать специальные записи. Например, у вас может быть <em>стандартный</em> пост блога с заголовком и абзацами, или короткая <em>врезка</em>, которая опускает заголовок и содержит коротенький текстовый анонс. Пожалуйста, обратитесь к «Кодексу» за <a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\">описанием каждого формата записи</a>. Ваша тема может включать их все, либо некоторые из 10 возможных."
+msgstr ""
 
 #. translators: %s: Featured Image
 #: wp-admin/edit-form-advanced.php:452
@@ -1980,7 +1980,7 @@ msgstr "Адрес"
 
 #: wp-admin/edit-link-form.php:111
 msgid "Example: <code>https://www.classicpress.net</code> &#8212; don&#8217;t forget the <code>https://</code>"
-msgstr "Пример: <code>https://www.classicpress.net</code> &#8212; не забудьте <code>https://</code>"
+msgstr ""
 
 #: wp-admin/edit-link-form.php:116 wp-admin/edit-tag-form.php:175
 #: wp-admin/edit-tags.php:449
@@ -2336,8 +2336,8 @@ msgstr[3] ""
 msgid "%s post permanently deleted."
 msgid_plural "%s posts permanently deleted."
 msgstr[0] "%s запись удалена навсегда."
-msgstr[1] "%s записи удалены навсегда."
-msgstr[2] "%s записей удалены навсегда."
+msgstr[1] "%s записи удалены навсегда"
+msgstr[2] "%s записей удалены навсегда"
 msgstr[3] ""
 
 #: wp-admin/edit.php:277
@@ -2518,27 +2518,27 @@ msgstr "Время от времени ваш сайт ClassicPress может �
 
 #: wp-admin/freedoms.php:51
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, and how we use it, please visit <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr "Мы очень серьезно относимся к конфиденциальности и прозрачности. Чтобы узнать больше о том, какую информацию мы собираем и как используем её, пожалуйста, посетите «<a href=\"%s\">Политику конфиденциальности ClassicPress</a>»."
+msgstr ""
 
 #: wp-admin/freedoms.php:56
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr "ClassicPress — свободное и открытое программное обеспечение, разработанное децентрализованным сообществом волонтеров-разработчиков из разных уголков мира. ClassicPress несёт с собой несколько чудесных, изменяющих мировоззрение прав, любезно предоставляемых <a href=\"%s\">лицензией</a>, GPL."
+msgstr ""
 
 #: wp-admin/freedoms.php:59
 msgid "You have the freedom to run the program, for any purpose. (freedom 0)"
-msgstr "У вас есть свобода запускать программу, для любых целей (Свобода № 0)."
+msgstr ""
 
 #: wp-admin/freedoms.php:60
 msgid "You have access to the source code, the freedom to study how the program works, and the freedom to change it to make it do what you wish. (freedom 1)"
-msgstr "У вас есть доступ к исходному коду, свобода изучать работу программ, и свобода изменять код, чтобы он делал то, что вам хочется. (Свобода № 1)."
+msgstr ""
 
 #: wp-admin/freedoms.php:61
 msgid "You have the freedom to redistribute copies of the original program so you can help your neighbor. (freedom 2)"
-msgstr "У вас есть свобода распространения копий оригинальных программ, поэтому вы можете помочь своему соседу. (Свобода № 2)"
+msgstr ""
 
 #: wp-admin/freedoms.php:62
 msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. (freedom 3)"
-msgstr "У вас есть свобода распространения копий ваших модифицированных версий. Делая это, вы можете дать шанс целому сообществу извлечь пользу из ваших изменений. (Свобода № 3)."
+msgstr ""
 
 #: wp-admin/freedoms.php:67 wp-admin/includes/plugin-install.php:239
 #: wp-admin/includes/plugin-install.php:654 wp-admin/plugin-install.php:82
@@ -2553,7 +2553,7 @@ msgstr "https://ru.wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:70
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s GPL first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr "Каждый плагин и тема в каталоге ClassicPress.net на 100% соответствует GPL или аналогичной бесплатной и совместимой лицензии, так что вы можете спокойно находить <a href=\"%1$s\">плагины</a> и <a href=\"%2$s\">темы</a> здесь. Если вы получаете плагин или тему из другого источника, не забудьте сначала поинтересоваться, соответствуют ли они GPL. Если они не поддерживают лицензиию ClassicPress, мы не рекомендуем их."
+msgstr ""
 
 #: wp-admin/freedoms.php:72
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -3149,7 +3149,7 @@ msgstr "Вернуться на страницу плагинов"
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:49
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:70
 msgid "Return to ClassicPress Updates page"
-msgstr "Вернуться на страницу «Обновления ClassicPress»"
+msgstr "Вернуться на страницу &laquo;Обновления ClassicPress&raquo;"
 
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:23
 msgid "Updating Theme %1$s (%2$d/%3$d)"
@@ -3194,7 +3194,7 @@ msgstr "Используется свежая версия ClassicPress."
 
 #: wp-admin/includes/class-core-upgrader.php:30
 msgid "Another update was started but has not completed yet."
-msgstr "Другое обновление было начато, но ещё не завершилось."
+msgstr ""
 
 #: wp-admin/includes/class-core-upgrader.php:31
 #: wp-admin/includes/class-language-pack-upgrader.php:114
@@ -3666,7 +3666,7 @@ msgstr "[%1$s] СРОЧНО: Ваш сайт может быть недосту�
 
 #: wp-admin/includes/class-wp-automatic-updater.php:636
 msgid "Hello! Your site at %1$s has been updated automatically to ClassicPress %2$s."
-msgstr "Здравствуйте! Ваш сайт «%1$s» был автоматически обновлён до ClassicPress %2$s."
+msgstr ""
 
 #: wp-admin/includes/class-wp-automatic-updater.php:639
 msgid "No further action is needed on your part."
@@ -3817,13 +3817,7 @@ msgid "BETA TESTING?\n"
 " * If you need general support: https://docs.classicpress.net/faq-support/\n"
 " * Or, if you're comfortable writing a bug report: https://docs.classicpress.net/testing-classicpress/#reporting-bugs\n\n"
 "Thanks! -- The ClassicPress Team"
-msgstr "БЕТА-ТЕСТИРОВАНИЕ?\n"
-"=============\n\n"
-"Это отладочное сообщение отправляется, когда вы используете девелоперскую версию ClassicPress.\n\n"
-"Если вы считаете, что эти неполадки могли быть вызваны багом в ClassicPress, не могли бы вы сообщить о нём?\n"
-" * Если вам нужна общая поддержка: https://docs.classicpress.net/faq-support/\n"
-" * Или, если вы умеете составлять баг-репорт: https://docs.classicpress.net/testing-classicpress/#reporting-bugs\n\n"
-"Спасибо! -- Команда ClassicPress"
+msgstr ""
 
 #: wp-admin/includes/class-wp-automatic-updater.php:845
 msgid "[%s] There were failures during background updates"
@@ -4868,7 +4862,7 @@ msgstr "Популярные"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr "Категории"
+msgstr ""
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -7758,11 +7752,11 @@ msgstr "Ваши недавние черновики"
 
 #: wp-admin/includes/dashboard.php:56
 msgid "ClassicPress News"
-msgstr "Новости ClassicPress"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:59
 msgid "ClassicPress Petitions"
-msgstr "Петиции ClassicPress"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:115
 msgid "View all"
@@ -7914,7 +7908,7 @@ msgstr "Недавно опубликованы"
 
 #: wp-admin/includes/dashboard.php:787
 msgid "No activity yet!"
-msgstr "Активности ещё не было!"
+msgstr "Активности пока не было."
 
 #: wp-admin/includes/dashboard.php:848 wp-includes/script-loader.php:1175
 msgid "Today"
@@ -7968,7 +7962,7 @@ msgstr "Неизвестная лента"
 #. translators: link to ClassicPress blog
 #: wp-admin/includes/dashboard.php:1088
 msgid "You can always find the latest ClassicPress news on our <a href=\"%s\">official&nbsp;blog</a>."
-msgstr "Вы всегда можете найти последние новости ClassicPress в нашем <a href=\"%s\">официальном&nbsp;блоге</a>."
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1133
 msgid "ClassicPress Blog"
@@ -8012,33 +8006,33 @@ msgstr "Скрыть панель с предупреждением о брау�
 
 #: wp-admin/includes/dashboard.php:1350
 msgid "Thank you for trying ClassicPress&nbsp;%s!"
-msgstr "Спасибо за то, что попробовали ClassicPress&nbsp;%s!"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1352
 msgid "<strong>Join our growing community</strong> and help us build the platform <strong>you</strong> want to see!"
-msgstr "<strong>Присоединяйтесь к нашему растущему сообществу</strong> и помогите нам построить платформу, которую <strong>вы</strong> хотите видеть!"
+msgstr ""
 
 #. translators: link to "About ClassicPress" dashboard page
 #: wp-admin/includes/dashboard.php:1361
 msgid "To see how you can help, visit the <a href=\"%s\">About ClassicPress</a> page."
-msgstr "Чтобы узнать, как ещё вы можете помочь, посетите страницу «О ClassicPress»."
+msgstr ""
 
 #. translators: link to "About ClassicPress" dashboard page
 #: wp-admin/includes/dashboard.php:1373
 msgid "For other ways you can help, visit the <a href=\"%s\">About ClassicPress</a> page."
-msgstr "Другие способы помочь вы найдете на странице «<a href=\"%s\">О ClassicPress</a>»."
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1391
 msgid "Trending"
-msgstr "Тенденции"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1394
 msgid "Most Wanted"
-msgstr "Самые желаемые"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1397
 msgid "Recent"
-msgstr "Недавние"
+msgstr ""
 
 #. translators: %d: numeric HTTP status code, e.g. 400, 403, 500, 504, etc.
 #: wp-admin/includes/dashboard.php:1434
@@ -8047,15 +8041,15 @@ msgstr "Неверный код ответа API (%d)"
 
 #: wp-admin/includes/dashboard.php:1443
 msgid "Invalid API response (invalid JSON)"
-msgstr "Неправильный ответ API (некорректный JSON)"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1450
 msgid "Error:"
-msgstr "Ошибка:"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1457
 msgid "Your voice counts, create and vote on petitions."
-msgstr "Ваш голос учитывается. Создавайте петиции и голосуйте за них."
+msgstr ""
 
 #. translators: accessibility text
 #: wp-admin/includes/dashboard.php:1457 wp-admin/includes/dashboard.php:1506
@@ -8070,11 +8064,11 @@ msgstr "(откроется в новом окне)"
 
 #: wp-admin/includes/dashboard.php:1494
 msgid "Votes"
-msgstr "Голоса"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1495
 msgid "Petitions"
-msgstr "Петиции"
+msgstr ""
 
 #: wp-admin/includes/dashboard.php:1509
 msgid " - "
@@ -8316,7 +8310,7 @@ msgstr "Всплывающие комментарии"
 
 #: wp-admin/includes/file.php:89
 msgid "%s Page Template"
-msgstr "Шаблон страницы «%s»"
+msgstr "Шаблон страницы &laquo;%s&raquo;"
 
 #. translators: %$1s is line number and %1$s is file path.
 #: wp-admin/includes/file.php:303
@@ -8622,15 +8616,7 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте,\n\n"
-"ваш запрос на экспорт персональных данных выполнен. Вы можете\n"
-"скачать ваши персональные данные, нажав на ссылку ниже. Ради конфиденциальности\n"
-"и безопасности мы автоматически удалим файл ###EXPIRATION###,\n"
-"поэтому, пожалуйста, скачайте его до этого времени.\n\n"
-"###LINK###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #: wp-admin/includes/file.php:2115
 msgid "[%s] Personal Data Export"
@@ -8843,7 +8829,7 @@ msgstr "Не удалось сохранить изображение."
 
 #: wp-admin/includes/image-edit.php:911
 msgid "Image saved"
-msgstr "Изображение сохранено"
+msgstr "Изображение сохранено."
 
 #: wp-admin/includes/import.php:165
 msgid "Blogger"
@@ -9272,7 +9258,7 @@ msgstr "Извините, вы заполнили всё пространств�
 
 #: wp-admin/includes/media.php:2833
 msgid "Displayed on attachment pages."
-msgstr "Отображается на страницах вложений."
+msgstr "Отображается на страницах вложений"
 
 #: wp-admin/includes/media.php:2865
 msgid "File URL:"
@@ -9445,7 +9431,7 @@ msgstr ""
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:623
 msgid "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. <a href=\"%s\">Learn more about manual excerpts</a>."
-msgstr "Фрагменты — необязательные и созданные вручную выжимки из вашего текста, которе можно использовать в шаблонах темы. <a href=\"%s\">Узнать больше о фрагментах.</a>"
+msgstr "Отрывок — необязательное краткое содержание вашего текста, которое можно использовать в шаблонах темы. <a href=\"%s\">Узнать больше.</a>"
 
 #: wp-admin/includes/meta-boxes.php:624
 msgid "https://codex.wordpress.org/Excerpt"
@@ -9709,7 +9695,7 @@ msgstr "(Оставьте 0, если рейтинг не важен.)"
 #. translators: current development commit on GitHub
 #: wp-admin/includes/misc.php:42
 msgid "commit %s"
-msgstr "коммит %s"
+msgstr ""
 
 #: wp-admin/includes/misc.php:429 wp-admin/includes/misc.php:518
 msgid "folder"
@@ -9752,17 +9738,7 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте, ###USERNAME###.\n\n"
-"Вы недавно запросили изменение адреса электронной почты администратора\n"
-"на своем сайте.\n\n"
-"Если это верно, пожалуйста, нажмите на ссылку ниже, чтобы сменить его:\n"
-"###ADMIN_URL###\n\n"
-"Вы можете спокойно проигнорировать или удалить это письмо,\n"
-"если не хотите предпринимать указанное действие.\n\n"
-"Это письмо отправлено на ###EMAIL###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #: wp-admin/includes/misc.php:1317
 msgid "[%s] New Admin Email Address"
@@ -9903,7 +9879,7 @@ msgstr "Если посетитель оставляет комментарий 
 
 #: wp-admin/includes/misc.php:1808
 msgid "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
-msgstr "Анонимизированная строка (так называемый «хэш»), созданная на основе вашего адреса электронной почты, может быть отправлена в сервис Gravatar, чтобы проверить, используете ли вы его. Политика конфиденциальности сервиса Gravatar доступна здесь: https://automattic.com/privacy/. После одобрения вашего комментария, изображение вашего профиля станет видимым для всех в контексте комментария."
+msgstr ""
 
 #: wp-admin/includes/misc.php:1812
 msgid "In this subsection you should note what information may be disclosed by users who can upload media files. All uploaded files are usually publicly accessible."
@@ -10215,7 +10191,7 @@ msgstr "Сайт: %s"
 
 #: wp-admin/includes/ms.php:825 wp-admin/users.php:273
 msgid "Delete all content."
-msgstr "Удалить всё содержимое."
+msgstr "Удалить всё содержимое"
 
 #: wp-admin/includes/ms.php:827 wp-admin/users.php:275
 msgid "Attribute all content to:"
@@ -10269,7 +10245,7 @@ msgstr "<strong>Пользователи</strong> &mdash; Тут показан�
 
 #: wp-admin/includes/ms.php:982
 msgid "<strong>Themes</strong> &mdash; This area shows themes that are not already enabled across the network. Enabling a theme in this menu makes it accessible to this site. It does not activate the theme, but allows it to show in the site&#8217;s Appearance menu. To enable a theme for the entire network, see the <a href=\"%s\">Network Themes</a> screen."
-msgstr "<strong>Темы</strong> &mdash; эта область показывает темы, которые пока не были включены по всей сети. Включение темы в этом меню сделает ее доступной для этого сайта. Это не активирует тему, но сделает ее доступной в меню сайта «Внешний вид». Чтобы включить тему для всей сети, смотрите экран «<a href=\"%s\">Темы сети</a>»."
+msgstr "<strong>Темы</strong> &mdash; Эта область показывает темы, которые не были разрешены для сети. Включение темы в этом меню сделает ее доступной для этого сайта, это не активирует тему, но сделает ее доступной в меню сайта \"Внешний вид\". Для включения темы для всей сети смотрите экран <a href=\"%s\">Темы сети</a>,"
 
 #: wp-admin/includes/ms.php:983
 msgid "<strong>Settings</strong> &mdash; This page shows a list of all settings associated with this site. Some are created by ClassicPress and others are created by plugins you activate. Note that some fields are grayed out and say Serialized Data. You cannot modify these values due to the way the setting is stored in the database."
@@ -10284,7 +10260,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Sites_Screen\">До�
 #: wp-admin/network/site-new.php:31 wp-admin/network/sites.php:43
 #: wp-admin/network/user-new.php:27 wp-admin/network/users.php:180
 msgid "<a href=\"https://docs.classicpress.net/faq-support/\">Support</a>"
-msgstr "<a href=\"https://docs.classicpress.net/faq-support/\">Поддержка</a>"
+msgstr ""
 
 #: wp-admin/includes/nav-menu.php:141
 #: wp-includes/class-wp-customize-nav-menus.php:1102
@@ -10573,7 +10549,7 @@ msgstr "Добавьте следующие строки в файл %1$s в к�
 #. version>/dist/wp-config-sample.php
 #: wp-admin/includes/network.php:436
 msgid "That&#8217;s all, stop editing! Happy blogging."
-msgstr "Это всё, дальше не редактируем! Успехов!"
+msgstr "Это всё, дальше не редактируем. Успехов!"
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:473
@@ -10628,7 +10604,7 @@ msgstr "(Не удалось установить защищённое соед�
 
 #: wp-admin/includes/plugin-install.php:239
 msgid "Plugins extend and expand the functionality of ClassicPress. You may automatically install plugins from the <a href=\"%1$s\">WordPress Plugin Directory</a> or upload a plugin in .zip format by clicking the button at the top of this page."
-msgstr "Плагины дополняют и расширяют функциональность ClassicPress. Вы можете автоматически устанавливать плагины из <a href=\"%1$s\">Каталога плагинов WordPress</a> или загрузить плагин в формате .zip, щёлкнув по кнопке вверху этой страницы."
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:244
 msgid "Popular tags"
@@ -10679,11 +10655,11 @@ msgstr "Архив плагина"
 
 #: wp-admin/includes/plugin-install.php:325
 msgid "If you have marked plugins as favorites on WordPress.org, you can browse them here."
-msgstr "Если вы пометили плагины как избранные на WordPress.org, вы сможете увидеть из здесь."
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:329
 msgid "Your WordPress.org username:"
-msgstr "Ваше имя пользователя на WordPress.org:"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:331
 msgid "Get Favorites"
@@ -10691,7 +10667,7 @@ msgstr "Получить список"
 
 #: wp-admin/includes/plugin-install.php:346
 msgid "Forms"
-msgstr "Формы"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:347 wp-admin/widgets.php:48
 #: wp-includes/admin-bar.php:827 wp-includes/class-wp-customize-widgets.php:412
@@ -10701,27 +10677,27 @@ msgstr "Виджеты"
 
 #: wp-admin/includes/plugin-install.php:348
 msgid "Admin Utilities"
-msgstr "Утилиты администратора"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:349
 msgid "Page Builders"
-msgstr "Конструкторы страниц"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:350
 msgid "eCommerce"
-msgstr "Электронная торговля"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:352
 msgid "SEO"
-msgstr "Поисковая оптимизация"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:353
 msgid "Advertising"
-msgstr "Реклама"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:354
 msgid "Social Networking"
-msgstr "Социальные сети"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:355 wp-admin/options-general.php:123
 #: wp-admin/options-general.php:124
@@ -10730,15 +10706,15 @@ msgstr "Членство"
 
 #: wp-admin/includes/plugin-install.php:356
 msgid "Newsletters"
-msgstr "Рассылки"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:357
 msgid "Forums"
-msgstr "Форумы"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:361
 msgid "These are some of the most common types of plugins. Not all categories are represented here."
-msgstr "Это самые распространенные типы плагинов. Здесь предствлены не все категории."
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:396
 msgid "These suggestions are based on the plugins you and other users have installed."
@@ -10815,7 +10791,7 @@ msgstr "Активные установки:"
 
 #: wp-admin/includes/plugin-install.php:654
 msgid "WordPress.org Plugin Page &#187;"
-msgstr "Страница плагинов WordPress.org &#187;"
+msgstr ""
 
 #: wp-admin/includes/plugin-install.php:656
 msgid "Plugin Homepage &#187;"
@@ -10844,7 +10820,7 @@ msgstr "Отзывы"
 
 #: wp-admin/includes/plugin-install.php:669
 msgid "Read all reviews on WordPress.org or write your own!"
-msgstr "Читать все отзывы на WordPress.org или написать свой!"
+msgstr ""
 
 #. translators: 1: number of stars (used to determine singular/plural), 2:
 #. number of reviews
@@ -11137,7 +11113,7 @@ msgstr "Мой сайт"
 #. translators: site tagline
 #: wp-admin/includes/schema.php:398
 msgid "Another great website powered by ClassicPress"
-msgstr "Еще один отличный сайт на платформе ClassicPress"
+msgstr ""
 
 #. translators: default start of the week. 0 = Sunday, 1 = Monday
 #: wp-admin/includes/schema.php:402
@@ -11154,7 +11130,7 @@ msgstr "d.m.Y H:i"
 #. translators: site tagline
 #: wp-admin/includes/schema.php:536
 msgid "Another great %s website powered by ClassicPress"
-msgstr "Еще один отличный сайт %s на платформе ClassicPress"
+msgstr ""
 
 #. translators: user role
 #: wp-admin/includes/schema.php:623
@@ -11799,7 +11775,7 @@ msgstr "Обновить до %s"
 
 #: wp-admin/includes/update.php:278
 msgid "Latest"
-msgstr "самой свежей"
+msgstr "текущей"
 
 #. translators: 1: version number, 2: theme name
 #: wp-admin/includes/update.php:282
@@ -11910,8 +11886,7 @@ msgstr "Автор комментария"
 msgid "Hi, this is a comment.\n"
 "To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\n"
 "Commenter avatars come from <a href=\"https://gravatar.com\">Gravatar</a>."
-msgstr "Привет, это комментарий.\n"
-"Чтобы начать модерировать, редактировать и удалять комментарии, пожалуйста, посетите экран «Комментарии» в Консоли. Аватары комментаторов подключаются из <a href=\"https://gravatar.com\">Gravatar</a>."
+msgstr ""
 
 #: wp-admin/includes/upgrade.php:224
 msgid "This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:\n\n"
@@ -11951,15 +11926,7 @@ msgid "Your new ClassicPress site has been successfully set up at:\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The ClassicPress Team\n"
 "https://www.classicpress.net/\n"
-msgstr "Ваш новый сайт на платформе ClassicPress успешно установлен по адресу:\n\n"
-"%1$s\n\n"
-"Вы можете войти в аккаунт администратора с помощью этих сведений:\n\n"
-"Имя пользователя: %2$s\n"
-"Пароль: %3$s\n"
-"Входить здесь: %4$s\n\n"
-"Надеемся, вам нравится ваш новый сайт. Спасибо!\n\n"
-"-- Команда ClassicPress\n"
-"https://www.classicpress.net/\n"
+msgstr ""
 
 #: wp-admin/includes/upgrade.php:444
 msgid "New ClassicPress Site"
@@ -12297,7 +12264,7 @@ msgstr "<strong>Быстрый черновик</strong> &#8212; позволя�
 #. translators: %s: ClassicPress Planet URL
 #: wp-admin/index.php:73
 msgid "<strong>ClassicPress News</strong> &mdash; Latest news from the official <a href=\"%s\">ClassicPress blog</a>."
-msgstr "<strong>Новости ClassicPress</strong> &mdash; Последние новости из&nbsp;официального <a href=\"%s\">блога ClassicPress</a>."
+msgstr ""
 
 #: wp-admin/index.php:74
 msgid "https://www.classicpress.net/blog/"
@@ -12317,15 +12284,15 @@ msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Screen\">Докумен�
 
 #: wp-admin/index.php:110
 msgid "Dismiss the welcome panel"
-msgstr "Скрыть приветственную панель"
+msgstr ""
 
 #: wp-admin/install.php:55
 msgid "ClassicPress Already Installed"
-msgstr "ClassicPress уже установлен"
+msgstr ""
 
 #: wp-admin/install.php:56
 msgid "It seems that ClassicPress is already installed. If you are trying to reinstall ClassicPress, you must first delete the database tables associated with the previous installation."
-msgstr "Кажется, ClassicPress уже установлен. Если вы пытаетесь переустановить ClassicPress, вы должны сначала удалить таблицы базы данных, связанные с предыдущей установкой."
+msgstr ""
 
 #: wp-admin/install.php:113
 msgid "Insufficient Requirements"
@@ -12347,11 +12314,11 @@ msgstr "Константа %s не может быть активна при у�
 
 #: wp-admin/install.php:188 wp-admin/install.php:342
 msgid "Admin Setup"
-msgstr "Настройка администратора"
+msgstr ""
 
 #: wp-admin/install.php:190
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
-msgstr "Дайте своему сайту отличное название и заполните данные своего администраторского аккаунта. Запомните свои логин и пароль — через минутку они понадобятся вам снова."
+msgstr ""
 
 #: wp-admin/install.php:227
 msgid "Please provide a valid username."
@@ -12375,11 +12342,11 @@ msgstr "Извините, это некорректный адрес e-mail. П�
 
 #: wp-admin/install.php:247
 msgid "Installation Complete"
-msgstr "Установка выполнена"
+msgstr ""
 
 #: wp-admin/install.php:248
 msgid "Your ClassicPress site is ready to go!"
-msgstr "Ваш сайт ClassicPress готов к полёту!"
+msgstr ""
 
 #: wp-admin/install.php:303
 msgid "ClassicPress &rsaquo; Installation"
@@ -12394,7 +12361,7 @@ msgstr "Название сайта"
 
 #: wp-admin/install.php:356
 msgid "Admin Username"
-msgstr "Логин администратора"
+msgstr ""
 
 #: wp-admin/install.php:360
 msgid "User(s) already exists."
@@ -12402,11 +12369,11 @@ msgstr "Пользователь уже существует."
 
 #: wp-admin/install.php:364
 msgid "Letters, numbers, spaces, underscores, hyphens, periods, and the @ symbol only. Usernames cannot be changed."
-msgstr "Только буквы, цифры, пробелы, нижние подчеркивания, дефисы, точки и символ «@». Имена пользователей не могут быть изменены."
+msgstr ""
 
 #: wp-admin/install.php:375
 msgid "Admin Password"
-msgstr "Пароль администратора"
+msgstr ""
 
 #: wp-admin/install.php:391 wp-admin/user-new.php:465
 msgid "Repeat Password"
@@ -12435,7 +12402,7 @@ msgstr "E-mail администратора"
 
 #: wp-admin/install.php:413
 msgid "Double-check your email address."
-msgstr "Дважды проверьте свой адрес электронной почты."
+msgstr ""
 
 #: wp-admin/install.php:417 wp-admin/install.php:420
 #: wp-admin/options-reading.php:31 wp-admin/options-reading.php:111
@@ -12596,7 +12563,7 @@ msgstr "Не удалось оптимизировать таблицу %1$s. О
 
 #: wp-admin/maint/repair.php:147
 msgid "Some database problems could not be repaired. Please copy-and-paste the following list of errors into the <a href=\"%s\">support forum</a> for additional assistance."
-msgstr "Некоторые проблемы базы данных не могут быть исправлены. Пожалуйста, скопируйте последующий перечень ошибок и опубликуйте его на <a href=\"%s\">Форумах поддержки</a> для дополнительной помощи."
+msgstr ""
 
 #: wp-admin/maint/repair.php:147
 msgid "https://forums.classicpress.net/c/support/"
@@ -12863,7 +12830,7 @@ msgstr "Извините, вам не разрешено удалять этот
 
 #: wp-admin/ms-delete-site.php:21
 msgid "Thank you for using %s, your site has been deleted. Happy trails to you until we meet again."
-msgstr "Спасибо за работу в сети &laquo;%s&raquo;, ваш сайт удалён. Счастливого пути и до встречи."
+msgstr "Спасибо за работу в сети &laquo;%s&raquo;, ваш сайт удалён. Счастливого пути и до встречи!"
 
 #: wp-admin/ms-delete-site.php:23
 msgid "Sorry, the link you clicked is stale. Please select another option."
@@ -12884,18 +12851,7 @@ msgid "Hello ###USERNAME###,\n\n"
 "Thanks for using the site,\n"
 "Webmaster\n"
 "###SITE_NAME###"
-msgstr "Здравствуйте, ###USERNAME###.\n\n"
-"Вы недавно нажали на ссылку 'Удалить сайт' на своём сайте и заполнили\n"
-"форму на соответствующей странице.\n\n"
-"Если вы действительно хотите удалить свой сайт, нажмите на ссылку ниже. Вы не\n"
-"получите других просьб о подтверждении, поэтому кликайте по ссылке только если вы абсолютно уверены:\n"
-"###URL_DELETE###\n\n"
-"Если вы удалите сайт, пожалуйста, подумайте о том, чтобы открыть здесь новый\n"
-"когда-нибудь в будущем! (Но помните что текущий сайт и имя пользователя\n"
-"будут утрачены навсегда).\n\n"
-"Спасибо за использование сайта,\n"
-"Вебмастер\n"
-"###SITE_NAME###"
+msgstr ""
 
 #: wp-admin/ms-delete-site.php:77
 msgid "Delete My Site"
@@ -13260,7 +13216,7 @@ msgstr "Обновлять свою сеть."
 
 #: wp-admin/network/index.php:27
 msgid "Modify global network settings"
-msgstr "Изменять глобальные параметры сети"
+msgstr "Изменять глобальные параметры сети."
 
 #: wp-admin/network/index.php:35
 msgid "The Right Now widget on this screen provides current user and site counts on your network."
@@ -13393,19 +13349,19 @@ msgstr "Настройки регистрации"
 
 #: wp-admin/network/settings.php:171
 msgid "Registration is disabled"
-msgstr "Регистрация отключена"
+msgstr "Регистрация отключена."
 
 #: wp-admin/network/settings.php:172
 msgid "User accounts may be registered"
-msgstr "Можно создавать учётные записи"
+msgstr "Можно создавать учётные записи."
 
 #: wp-admin/network/settings.php:173
 msgid "Logged in users may register new sites"
-msgstr "Авторизованные пользователи могут создавать новые сайты"
+msgstr "Авторизованные пользователи могут создавать новые сайты."
 
 #: wp-admin/network/settings.php:174
 msgid "Both sites and user accounts can be registered"
-msgstr "Можно создавать и сайты, и учётные записи"
+msgstr "Можно создавать сайты и учётные записи."
 
 #. translators: 1: NOBLOGREDIRECT 2: wp-config.php
 #: wp-admin/network/settings.php:178
@@ -13418,7 +13374,7 @@ msgstr "Уведомление о регистрации"
 
 #: wp-admin/network/settings.php:195
 msgid "Send the network admin an email notification every time someone registers a site or user account"
-msgstr "Отправлять администратору сети письмо каждый раз, когда кто-то регистрирует сайт или учётную запись"
+msgstr "Отправлять администратору сети письмо каждый раз, когда кто-то регистрирует сайт или учётную запись."
 
 #: wp-admin/network/settings.php:200
 msgid "Add New Users"
@@ -14276,7 +14232,7 @@ msgstr "Выбор режима подкаталогов недоступен, �
 
 #: wp-admin/network.php:66 wp-admin/network.php:77
 msgid "<a href=\"https://codex.wordpress.org/Create_A_Network\">Documentation on Creating a Network</a>"
-msgstr "<a href=\"https://codex.wordpress.org/Create_A_Network\">Документация по созданию сети</a>"
+msgstr ""
 
 #: wp-admin/network.php:67 wp-admin/network.php:78
 msgid "<a href=\"https://codex.wordpress.org/Tools_Network_Screen\">Documentation on the Network Screen</a>"
@@ -14333,11 +14289,11 @@ msgstr "Автор комментария должен указать имя и 
 
 #: wp-admin/options-discussion.php:67
 msgid "Users must be registered and logged in to comment"
-msgstr "Пользователи должны быть зарегистрированы и авторизованы для комментирования"
+msgstr "Пользователи должны быть зарегистрированы и авторизованы для комментирования."
 
 #: wp-admin/options-discussion.php:68
 msgid "(Signup has been disabled. Only members of this site can comment.)"
-msgstr "(Регистрация отключена. Только участники сайта могут комментировать.)"
+msgstr " (Регистрация отключена. Только участники сайта могут комментировать.)"
 
 #: wp-admin/options-discussion.php:75
 msgid "Automatically close comments on articles older than %s days"
@@ -14522,7 +14478,7 @@ msgstr "Большинство тем оформления отображают 
 
 #: wp-admin/options-general.php:29
 msgid "The ClassicPress URL and the Site URL can be the same (example.com) or different; for example, having the ClassicPress core files (example.com/classicpress) in a subdirectory instead of the root directory."
-msgstr "Адрес ClassicPress и адрес Сайта могут совпадать (example.com) или различаться. Например, в случае когда файлы ядра ClassicPress расположены в поддиректории (example.com/classicpress) вместо корневой директории."
+msgstr ""
 
 #: wp-admin/options-general.php:30
 msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
@@ -14656,7 +14612,7 @@ msgstr "Произвольный формат времени:"
 
 #: wp-admin/options-general.php:358
 msgid "<a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\">Documentation on date and time formatting</a>."
-msgstr "<a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\">Документация по форматированию даты и времени</a>."
+msgstr ""
 
 #: wp-admin/options-general.php:364
 msgid "Week Starts On"
@@ -15099,7 +15055,7 @@ msgstr "Преобразовывать смайлики наподобие <code
 
 #: wp-admin/options-writing.php:66
 msgid "ClassicPress should correct invalidly nested XHTML automatically"
-msgstr "ClassicPress должен исправлять некорректный XHTML-код автоматически"
+msgstr "ClassicPress должен исправлять некорректный XHTML-код автоматически."
 
 #: wp-admin/options-writing.php:71
 msgid "Default Post Category"
@@ -15335,7 +15291,7 @@ msgstr "Если вы просто хотите получить предста�
 
 #: wp-admin/plugin-install.php:92
 msgid "You can also browse a user&#8217;s favorite plugins, by using the Favorites link above the plugins list and entering their WordPress.org username."
-msgstr "Вы можете также просмотреть любимые плагины пользователей, используя ссылку «Избранные» над списком плагинов и вводя имена пользователей WordPress.org."
+msgstr ""
 
 #: wp-admin/plugin-install.php:93
 msgid "If you want to install a plugin that you&#8217;ve downloaded elsewhere, click the Upload Plugin button above the plugins list. You will be prompted to upload the .zip package, and once uploaded, you can activate the new plugin."
@@ -15653,7 +15609,7 @@ msgstr "Использовать эту страницу"
 
 #: wp-admin/privacy.php:236
 msgid "Or:"
-msgstr "Или:"
+msgstr "или:"
 
 #: wp-admin/privacy.php:238
 msgid "There are no pages."
@@ -15702,39 +15658,39 @@ msgstr "<a href=\"https://codex.wordpress.org/Revision_Management\">Управл
 
 #: wp-admin/setup-config.php:59
 msgid "Sample Config File Missing"
-msgstr "Отсутствует образец конфигурационного файла"
+msgstr ""
 
 #. translators: 1: wp-config-sample.php, 2: link to the contents of this file
 #: wp-admin/setup-config.php:62
 msgid "A %s file was not found. Please upload it to the root of your ClassicPress installation, or one level higher, and then try again. Need a <a href=\"%s\" target=\"_blank\" rel=\"noopener\">fresh copy</a>?"
-msgstr "Файл %s не был найден. Пожалуйста, загрузите его в корень вашей инсталляции ClassicPress или на один уровень выше, а затем попробуйте снова. Нужна <a href=\"%s\" target=\"_blank\" rel=\"noopener\">свежая копия</a>?"
+msgstr ""
 
 #: wp-admin/setup-config.php:72 wp-admin/setup-config.php:85
 msgid "Config File Found"
-msgstr "Найден файл конфигурации"
+msgstr ""
 
 #. translators: 1: wp-config.php, 2: link to install.php
 #: wp-admin/setup-config.php:75
 msgid "A %1$s file was found in your ClassicPress installation. If you are trying to reinstall ClassicPress, you must first delete that file.</p><p> If you created and uploaded your own config file, you can <a href=\"%2$s\">continue installing</a>."
-msgstr "Файл %1$s был обнаружен в вашей инсталляции ClassicPress. Если вы пытаетесь переустановить ClassicPress, вы должны сначала удалить этот файл.</p><p>Если вы создали из загрузили свой собственный файл конфигурации, вы можете <a href=\"%2$s\">продолжить установку</a>."
+msgstr ""
 
 #. translators: 1: wp-config.php 2: install.php
 #: wp-admin/setup-config.php:88
 msgid "A %1$s file was found one level above your ClassicPress installation. If you are trying to reinstall ClassicPress, you must first delete that file.</p><p> If you created and uploaded your own config file, you can <a href=\"%2$s\">continue installing</a>."
-msgstr "Файл %1$s был обнаружен на одном уровне выше вашей инсталляции ClassicPress. Если вы пытаетесь переустановить ClassicPress, вы должны сначала удалить этот файл.</p><p>Если вы создали из загрузили свой собственный файл конфигурации, вы можете <a href=\"%2$s\">продолжить установку</a>."
+msgstr ""
 
 #: wp-admin/setup-config.php:143
 msgid "Database setup"
-msgstr "Настройка базы данных"
+msgstr ""
 
 #: wp-admin/setup-config.php:147
 msgid "Database Setup"
-msgstr "Настройка базы данных"
+msgstr ""
 
 #. translators: link to support forums for more help
 #: wp-admin/setup-config.php:152
 msgid "To get started, fill in your database information. If you don&#8217;t have this information, it can be requested from your web host. Need more <a href=\"%s\" target=\"_blank\" rel=\"noopener\">help</a>?"
-msgstr "Чтобы начать, заполните информацию о своей базе данных.  Если у вас нет этой информации, её можно запросить у вашего хостера. Нужна дополнительная <a href=\"%s\" target=\"_blank\" rel=\"noopener\">помощь</a>?"
+msgstr ""
 
 #: wp-admin/setup-config.php:159
 msgid "Database Name"
@@ -15742,7 +15698,7 @@ msgstr "Имя базы данных"
 
 #: wp-admin/setup-config.php:163
 msgid "Database Username"
-msgstr "Имя пользователя базы данных"
+msgstr ""
 
 #: wp-admin/setup-config.php:164
 msgctxt "example username"
@@ -15751,7 +15707,7 @@ msgstr "имя пользователя"
 
 #: wp-admin/setup-config.php:167
 msgid "Database Password"
-msgstr "Пароль базы данных"
+msgstr ""
 
 #: wp-admin/setup-config.php:171
 msgid "Database Host"
@@ -15763,36 +15719,36 @@ msgstr "Префикс таблиц"
 
 #: wp-admin/setup-config.php:178
 msgid "Learn More"
-msgstr "Узнать больше"
+msgstr ""
 
 #: wp-admin/setup-config.php:239
 msgid "Missing Table Prefix"
-msgstr "Отсутствует префикс таблиц"
+msgstr ""
 
 #: wp-admin/setup-config.php:240
 msgid "The table prefix field cannot be empty."
-msgstr "Префикс таблицы не может быть пустым."
+msgstr ""
 
 #: wp-admin/setup-config.php:248 wp-admin/setup-config.php:289
 msgid "Invalid Table Prefix"
-msgstr "Недопустимый префикс таблицы"
+msgstr ""
 
 #: wp-admin/setup-config.php:249
 msgid "The table prefix field can only contain numbers, letters, and underscores."
-msgstr "Префикс таблицы может содержать только цифры, буквы и нижние подчеркивания."
+msgstr ""
 
 #: wp-admin/setup-config.php:290
 msgid "Your table prefix seems to be invalid. Try a different prefix using only letters, numbers, and underscores."
-msgstr "Ваш префикс таблиц кажется недопустимым. Попробуйте другой префикс, используя только буквы, цифры и нижние подчеркивания."
+msgstr ""
 
 #: wp-admin/setup-config.php:372
 msgid "Config File Permissions Insufficient"
-msgstr "Недостаточные права на файл конфигурации"
+msgstr ""
 
 #. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:375
 msgid "The %s file is not writable."
-msgstr "Файл «%s» недоступен для записи."
+msgstr ""
 
 #. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:378
@@ -15801,7 +15757,7 @@ msgstr "Можно создать файл %s вручную и вставить
 
 #: wp-admin/setup-config.php:386
 msgid "After you&#8217;ve done that, click &#8220;Continue&#8221;."
-msgstr "После того, как вы сделали это, нажмите «Продолжить»."
+msgstr ""
 
 #: wp-admin/setup-config.php:465
 msgid "ClassicPress &rsaquo; Setup Configuration File"
@@ -15946,7 +15902,7 @@ msgstr "Можно искать темы по ключевому слову, а�
 
 #: wp-admin/theme-install.php:95
 msgid "Alternately, you can browse the themes that are Popular, or Latest. When you find a theme you like, you can preview it or install it."
-msgstr "Вы можете просматривать Популярные или Новые темы поочередно. Когда найдёте тему, которая вам понравится, вы сможете провести предпросмотр или установить её."
+msgstr ""
 
 #. translators: %s: /wp-content/themes
 #: wp-admin/theme-install.php:98
@@ -16036,15 +15992,15 @@ msgstr "Этот экран используется для управления
 
 #: wp-admin/themes.php:74
 msgid "Hover or tap to see Activate and Live Preview buttons"
-msgstr "Навести курсор на тему или &laquo;тапнуть&raquo;, чтобы увидеть кнопки «Активировать» и «Просмотреть»"
+msgstr "Навести курсор на тему или &laquo;тапнуть&raquo;, чтобы увидеть кнопки &laquo;Активировать&raquo; и &laquo;Просмотреть&raquo;."
 
 #: wp-admin/themes.php:75
 msgid "Click on the theme to see the theme name, version, author, description, tags, and the Delete link"
-msgstr "Нажать на тему, чтобы увидеть её название, версию, автора, описание, метки и ссылку &laquo;Удалить&raquo;"
+msgstr "Нажать на тему, чтобы увидеть её название, версию, автора, описание, метки и ссылку &laquo;Удалить&raquo;."
 
 #: wp-admin/themes.php:76
 msgid "Click Customize for the current theme or Live Preview for any other theme to see a live preview"
-msgstr "Нажать кнопку &laquo;Настроить&raquo; для текущей темы или &laquo;Просмотреть&raquo; для любой другой, чтобы открыть окно предварительного просмотра"
+msgstr "Нажать кнопку &laquo;Настроить&raquo; для текущей темы или &laquo;Просмотреть&raquo; для любой другой, чтобы открыть окно предварительного просмотра."
 
 #: wp-admin/themes.php:77
 msgid "The current theme is displayed highlighted as the first theme."
@@ -16199,25 +16155,25 @@ msgstr "Переустановить"
 #. number, 5: Current MySQL version number
 #: wp-admin/update-core.php:72 wp-admin/upgrade.php:81
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr "Вы не сможете провести обновление, потому что <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> требует PHP версии %2$s или выше и MySQL версии %3$s или выше. Вы используете PHP версии %4$s и PHP версии %5$s."
+msgstr ""
 
 #. translators: 1: ClassicPress version number, 2: Minimum required PHP version
 #. number, 3: Current PHP version number
 #: wp-admin/update-core.php:75 wp-admin/upgrade.php:83
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher. You are running version %3$s."
-msgstr "Вы не сможете провести обновление, потому что <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> требует PHP версии %2$s или выше. Вы используете версию %3$s."
+msgstr ""
 
 #. translators: 1: ClassicPress version number, 2: Minimum required MySQL
 #. version number, 3: Current MySQL version number
 #: wp-admin/update-core.php:78 wp-admin/upgrade.php:85
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires MySQL version %2$s or higher. You are running version %3$s."
-msgstr "Вы не сможете провести обновление, потому что <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> требует MySQL версии %2$s или выше. Вы используете версию %3$s."
+msgstr ""
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number
 #. including locale if necessary
 #: wp-admin/update-core.php:81
 msgid "You can update to <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> automatically:"
-msgstr "Вы можете обновиться до <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> автоматически:"
+msgstr ""
 
 #: wp-admin/update-core.php:105
 msgid "Hide this update"
@@ -16245,19 +16201,19 @@ msgstr "Спрятать скрытые обновления"
 
 #: wp-admin/update-core.php:167
 msgid "You are running a development version of ClassicPress."
-msgstr "Вы используете девелоперскую версию ClassicPress."
+msgstr ""
 
 #: wp-admin/update-core.php:170
 msgid "Development versions of ClassicPress do not receive automatic updates."
-msgstr "Девелоперские версии ClassicPress не получают автоматических обновлений."
+msgstr ""
 
 #: wp-admin/update-core.php:174
 msgid "Unable to determine whether a ClassicPress update is available."
-msgstr "Не удаётся определить наличие нового обновления ClassicPress."
+msgstr ""
 
 #: wp-admin/update-core.php:177
 msgid "You may be running a customized build of ClassicPress, or your server may be having internet connectivity problems."
-msgstr "Возможно вы используете нестандартную сборку ClassicPress или у вашего сервера проблемы с интернет-соединением."
+msgstr ""
 
 #: wp-admin/update-core.php:182
 msgid "You have the latest version of ClassicPress."
@@ -16271,7 +16227,7 @@ msgstr "Следующие обновления безопасности буд�
 #. documentation page
 #: wp-admin/update-core.php:205
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
-msgstr "<strong>Важно:</strong> перед обновлением, пожалуйста, <a href=\"%1$s\">сделайте резервную копию своей базы данных и файлов</a>. Для получения помощи с обновлениями, посетите справочную страницу «<a href=\"%2$s\">Обновление ClassicPress</a>»."
+msgstr ""
 
 #: wp-admin/update-core.php:212
 msgid "An updated version of ClassicPress is available."
@@ -16354,20 +16310,20 @@ msgstr "Обновить ClassicPress"
 
 #: wp-admin/update-core.php:539
 msgid "It's possible that an update started, but the server encountered a temporary issue and could not continue."
-msgstr "Возможно, что обновление началось, но сервер столкнулся с временными неполадками и не смог продолжить."
+msgstr ""
 
 #: wp-admin/update-core.php:542
 msgid "Or, you may have clicked the update button multiple times."
-msgstr "Или, возможно, вы нажали на кнопку обновления несколько раз."
+msgstr ""
 
 #: wp-admin/update-core.php:545
 msgid "Please wait <strong>15 minutes</strong> and try again."
-msgstr "Пожалуйста, подождите <strong>15 минут</strong> и попробуйте снова."
+msgstr ""
 
 #. translators: URL to support forum
 #: wp-admin/update-core.php:550
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
-msgstr "Если вы видите это сообщение после 15 минут ожидания и повторной попытки обновиться, оставьте заметку в нашем <a href=\"%s\">Форуме поддержки</a>, пожалуйста."
+msgstr ""
 
 #: wp-admin/update-core.php:612 wp-admin/update-core.php:651
 msgid "ClassicPress Updates"
@@ -16416,7 +16372,7 @@ msgstr "Пожалуйста, выберите один или нескольк�
 #. translators: %1 date, %2 time.
 #: wp-admin/update-core.php:671
 msgid "Last checked on %1$s at %2$s."
-msgstr "Последняя проверка: %1$s в %2$s."
+msgstr "Последняя проверка: %1$s в %2$s"
 
 #: wp-admin/update-core.php:672
 msgid "Check Again"
@@ -16893,7 +16849,7 @@ msgstr "Завершить все сессии"
 #. translators: 1: User's display name.
 #: wp-admin/user-edit.php:638
 msgid "Log %s out of all locations."
-msgstr "Завершить все сессии пользователя %s."
+msgstr "Завершить все сессии пользователя %s"
 
 #: wp-admin/user-edit.php:687
 msgid "Additional Capabilities"
@@ -17302,7 +17258,7 @@ msgstr "Переместите виджеты сюда, чтобы убрать 
 
 #: wp-admin/widgets.php:271
 msgid "Widget %s"
-msgstr "Виджет «%s»"
+msgstr "Виджет &laquo;%s&raquo;"
 
 #: wp-admin/widgets.php:282
 msgid "Select both the sidebar for this widget and the position of the widget in that sidebar."
@@ -17372,7 +17328,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
-msgstr "Поддержка"
+msgstr ""
 
 #: wp-includes/admin-bar.php:168
 msgid "https://docs.classicpress.net/faq-support/"
@@ -17515,7 +17471,7 @@ msgstr "Слишком много перенаправлений."
 
 #: wp-includes/class-walker-category.php:132
 msgid "Feed for all posts filed under %s"
-msgstr "RSS-лента всех записей в рубрике «%s»"
+msgstr "RSS-лента всех записей в рубрике &laquo;%s&raquo;"
 
 #: wp-includes/class-walker-comment.php:236
 msgid "Pingback:"
@@ -17603,7 +17559,7 @@ msgstr "Набор изменений редактируется другим п
 
 #: wp-includes/class-wp-customize-manager.php:2563
 msgid "The previous set of changes has already been published. Please try saving your current set of changes again."
-msgstr "Предыдущий набор изменений уже был опубликован. Пожалуйста, попробуйте снова сохранить ваш текущий набор изменений."
+msgstr "Предыдущий набор изменений уже был опубликован. Пожалуйста попробуйте снова сохранить ваш текущий набор изменений."
 
 #: wp-includes/class-wp-customize-manager.php:2586
 #: wp-includes/class-wp-customize-manager.php:2601
@@ -17623,7 +17579,7 @@ msgstr[3] ""
 
 #: wp-includes/class-wp-customize-manager.php:2997
 msgid "There was an authentication problem. Please reload and try again."
-msgstr "Возникла проблема с авторизацией. Пожалуйста, перезагрузите и попробуйте снова."
+msgstr "Возникла проблема с авторизацией. Пожалуйста перезагрузите и попробуйте снова."
 
 #: wp-includes/class-wp-customize-manager.php:3005
 msgid "No changes saved yet, so there is nothing to trash."
@@ -17673,7 +17629,7 @@ msgstr "%s уже редактирует этот набор изменений.
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3968
 msgid "%s is already customizing this site. Please wait until they are done to try customizing. Your latest changes have been autosaved."
-msgstr "Пользователь %s уже настраивает этот сайт. Пожалуйста, подождите пока он закончит. Ваши последние изменения были автоматически сохранены."
+msgstr "Пользователь %s уже настраивает этот сайт. Пожалуйста подождите пока он закончит. Ваши последние изменения были автоматически сохранены."
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3970
@@ -17747,7 +17703,7 @@ msgstr "Войти в мобильный режим просмотра"
 
 #: wp-includes/class-wp-customize-manager.php:4820
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr "Ищете тему? Вы можете использовать поиск или просмотреть директорию тем WordPress.org, устанавливать и предпросматривать темы, а затем активировать их прямо здесь."
+msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:4821
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
@@ -17759,7 +17715,7 @@ msgstr "Установленные темы"
 
 #: wp-includes/class-wp-customize-manager.php:4837
 msgid "WordPress.org themes"
-msgstr "Темы WordPress.org"
+msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:4854
 msgid "Site Identity"
@@ -17772,7 +17728,7 @@ msgstr "Отображать название и описание"
 
 #: wp-includes/class-wp-customize-manager.php:4905
 msgid "Site Icons are what you see in browser tabs and bookmark bars. Upload one here!"
-msgstr "Иконки сайта — это то, что вы видите на вкладках браузера и на панелях закладок. Загрузите сюда свою!"
+msgstr ""
 
 #. translators: %s: site icon size in pixels
 #: wp-includes/class-wp-customize-manager.php:4907
@@ -17952,7 +17908,7 @@ msgstr "Только файлы %1$s или %2$s могут быть испол�
 
 #: wp-includes/class-wp-customize-manager.php:5658
 msgid "Please enter a valid YouTube URL."
-msgstr "Пожалуйста, введите правильный URL YouTube."
+msgstr "Пожалуйста введите правильный URL YouTube."
 
 #: wp-includes/class-wp-customize-nav-menus.php:155
 #: wp-includes/class-wp-customize-nav-menus.php:382
@@ -19101,7 +19057,7 @@ msgstr "Показать/скрыть панель инструментов"
 
 #: wp-includes/class-wp-editor.php:1251 wp-includes/script-loader.php:155
 msgid "Insert Read More tag"
-msgstr "Вставить тег «Далее...»"
+msgstr "Вставить тег &laquo;Далее&raquo;"
 
 #: wp-includes/class-wp-editor.php:1252
 msgid "Insert Page Break tag"
@@ -19109,7 +19065,7 @@ msgstr "Вставить тег разрыва страницы"
 
 #: wp-includes/class-wp-editor.php:1253
 msgid "Read more..."
-msgstr "Тег &laquo;Далее...&raquo;"
+msgstr "Тег &laquo;Далее&raquo;"
 
 #: wp-includes/class-wp-editor.php:1254 wp-includes/script-loader.php:134
 msgid "Distraction-free writing mode"
@@ -19647,7 +19603,7 @@ msgstr ""
 #. translators: %s: Name of the directory (build)
 #: wp-includes/class-wp-locale.php:239
 msgid "The %s directory of the source repository must be used for RTL."
-msgstr "Для левостороннего письма (RTL) должна использоваться директория %s исходного репозитория."
+msgstr ""
 
 #: wp-includes/class-wp-metadata-lazyloader.php:77
 #: wp-includes/class-wp-metadata-lazyloader.php:117
@@ -19715,7 +19671,7 @@ msgstr "Таблица стилей недоступна для чтения."
 #. translators: %s: Template
 #: wp-includes/class-wp-theme.php:255
 msgid "The theme defines itself as its parent theme. Please check the %s header."
-msgstr "Тема определяет себя как родительскую для себя же. Пожалуйста, проверьте заголовок %s."
+msgstr "Тема определяет себя как родительскую для себя же. Пожалуйста проверьте заголовок %s."
 
 #. translators: 1: index.php, 2: Codex URL, 3: style.css
 #: wp-includes/class-wp-theme.php:267
@@ -19724,7 +19680,7 @@ msgstr "Шаблон не найден. Автономные темы должн
 
 #: wp-includes/class-wp-theme.php:291
 msgid "The parent theme is missing. Please install the \"%s\" parent theme."
-msgstr "Отсутствует родительская тема. Пожалуйста, установите родительскую тему &laquo;%s&raquo;."
+msgstr "Отсутствует родительская тема. Пожалуйста, установите родительскую тему &laquo;%s&raquo;"
 
 #: wp-includes/class-wp-theme.php:303 wp-includes/class-wp-theme.php:307
 msgid "The \"%s\" theme is not a valid parent theme."
@@ -19778,7 +19734,7 @@ msgstr "Серебряный"
 
 #: wp-includes/class-wp-theme.php:783
 msgid "Tan"
-msgstr "Коричневый"
+msgstr ""
 
 #: wp-includes/class-wp-theme.php:783
 msgid "White"
@@ -19971,7 +19927,7 @@ msgstr "Извините, вам не разрешено публиковать�
 #: wp-includes/class-wp-xmlrpc-server.php:1399
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1111
 msgid "Sorry, you are not allowed to create private posts in this post type."
-msgstr "Извините, вам не разрешено создавать личные записи этого типа."
+msgstr "Извините, вам не разрешено создавать личные записи этого типа"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1404
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1117
@@ -20183,11 +20139,11 @@ msgstr "Требуется комментарий."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3678
 msgid "Comment author name and email are required."
-msgstr "Имя и электронная почта автора комментария обязательны."
+msgstr "Требуются имя и e-mail автора комментария"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3680
 msgid "A valid email address is required."
-msgstr "Требуется корректный адрес электронной почты."
+msgstr "Требуется корректный адрес e-mail"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3736
 #: wp-includes/class-wp-xmlrpc-server.php:3817
@@ -20249,7 +20205,7 @@ msgstr "Извините, вам не разрешено публиковать 
 #: wp-includes/class-wp-xmlrpc-server.php:4987
 #: wp-includes/class-wp-xmlrpc-server.php:5320
 msgid "Invalid post format."
-msgstr "Неправильный формат записи."
+msgstr "Неверный формат записи"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5367
 msgid "Sorry, you are not allowed to change the post author as this user."
@@ -20278,7 +20234,7 @@ msgstr "Не удалось записать файл %1$s (%2$s)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6348
 msgid "Is there no link to us?"
-msgstr "Похоже, нет ссылки на наш сайт?"
+msgstr "Похоже, что ссылки на наш сайт нет."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6383
 #: wp-includes/class-wp-xmlrpc-server.php:6390
@@ -20907,7 +20863,7 @@ msgstr "Вы просматриваете %s"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:84
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"https://forums.classicpress.net/c/support\">support forums</a>."
-msgstr "Произошла непредвиденная ошибка. Кажется, что-то не так с ClassicPress.net или конфигурацией этого сервера. Если проблема не исчезнет, пожалуйста попробуйте обратиться на <a href=\"https://forums.classicpress.net/c/support\">Форумы поддержки</a>."
+msgstr ""
 
 #. translators: %s: "Search WordPress.org themes" button
 #: wp-includes/customize/class-wp-customize-themes-section.php:91
@@ -20916,7 +20872,7 @@ msgstr "Темы не найдены. Попробуйте поискать за
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:92
 msgid "Search WordPress.org themes"
-msgstr "Искать темы WordPress.org"
+msgstr ""
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:113
 msgid "Back to theme sources"
@@ -20965,7 +20921,7 @@ msgstr "Следующие значения не соответствуют ко
 
 #: wp-includes/deprecated.php:64
 msgid "new WordPress Loop"
-msgstr "новый Цикл WordPress"
+msgstr ""
 
 #: wp-includes/deprecated.php:963
 msgid "Last updated"
@@ -21274,7 +21230,7 @@ msgstr "Одна или несколько таблиц базы данных н
 #. translators: %s: directory path
 #: wp-includes/functions.php:1918 wp-includes/functions.php:2187
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr "Не могу создать директорию %s. Доступна ли её родительская директория для записи сервером?"
+msgstr "Не могу создать директорию %s. Проверьте, доступна ли родительская директория для записи."
 
 #: wp-includes/functions.php:2149
 msgid "Empty filename"
@@ -21287,12 +21243,12 @@ msgstr "Не удалось сохранить файл %s"
 #. translators: %s: site name
 #: wp-includes/functions.php:2645
 msgid "You are attempting to log out of %s"
-msgstr "Вы пытаетесь выйти с сайта «%s»"
+msgstr "Вы пытаетесь выйти с сайта &laquo;%s&raquo;"
 
 #. translators: %s: logout URL
 #: wp-includes/functions.php:2652
 msgid "Do you really want to <a href=\"%s\">log out</a>?"
-msgstr "Вы действительно хотите <a href=\"%s\">выйти</a>?"
+msgstr ""
 
 #: wp-includes/functions.php:2656
 msgid "The link you followed has expired."
@@ -21352,7 +21308,7 @@ msgstr "Вызванный метод конструктора класса %1$s
 #. regarding the change
 #: wp-includes/functions.php:4067
 msgid "%1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
-msgstr "Функция %1$s вызвана с аргументом, который <strong>считается устаревшим</strong> с версии %2$s! %3$s"
+msgstr "Функция %1$s вызвана с аргументом, который <strong>считается устаревшим</strong> с версии %2$s! %3$s."
 
 #. translators: 1: PHP function name, 2: version number
 #: wp-includes/functions.php:4070
@@ -21669,7 +21625,7 @@ msgstr "%1$s %2$s Лента комментариев"
 #. translators: 1: blog name, 2: separator(raquo), 3: post title
 #: wp-includes/general-template.php:2690
 msgid "%1$s %2$s %3$s Comments Feed"
-msgstr "%1$s %2$s Лента комментариев к «%3$s»"
+msgstr "%1$s %2$s Лента комментариев к &laquo;%3$s&raquo;"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: category name
 #: wp-includes/general-template.php:2692
@@ -21695,12 +21651,12 @@ msgstr "%1$s %2$s Лента записей автора %3$s"
 #. translators: 1: blog name, 2: separator(raquo), 3: search phrase
 #: wp-includes/general-template.php:2700
 msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
-msgstr "%1$s %2$s Лента результатов поиска «%3$s»"
+msgstr "%1$s %2$s Лента результатов поиска &laquo;%3$s&raquo;"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: post type name
 #: wp-includes/general-template.php:2702
 msgid "%1$s %2$s %3$s Feed"
-msgstr "%1$s %2$s Лента записей типа «%3$s»"
+msgstr "%1$s %2$s Лента записей типа &laquo;%3$s&raquo;"
 
 #: wp-includes/general-template.php:3734
 msgid "&laquo; Previous"
@@ -22163,7 +22119,7 @@ msgstr "Как иконка приложения"
 #: wp-includes/media.php:1832 wp-includes/media.php:1847
 msgctxt "playlist item title"
 msgid "&#8220;%s&#8221;"
-msgstr "&laquo;%s&raquo;"
+msgstr "«%s»"
 
 #: wp-includes/media.php:2181
 msgid "Genre"
@@ -22534,9 +22490,9 @@ msgstr "Это имя недопустимо."
 #: wp-includes/ms-functions.php:616
 msgid "Site name must be at least %s character."
 msgid_plural "Site name must be at least %s characters."
-msgstr[0] "Имя сайта должно быть не короче %s символа."
-msgstr[1] "Имя сайта должно быть не короче %s символов."
-msgstr[2] "Имя сайта должно быть не короче %s символов."
+msgstr[0] "Имя сайта должно быть не короче %s символа"
+msgstr[1] "Имя сайта должно быть не короче %s символов"
+msgstr[2] "Имя сайта должно быть не короче %s символов"
 msgstr[3] ""
 
 #: wp-includes/ms-functions.php:621
@@ -22698,14 +22654,7 @@ msgid "Hello USERNAME,\n\n"
 "LOGINLINK\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr "Здравствуйте, USERNAME.\n\n"
-"Ваш новый аккаунт настроен.\n\n"
-"Вы можете войти с помощью этих сведений:\n"
-"Имя пользователя: USERNAME\n"
-"Пароль: PASSWORD\n"
-"LOGINLINK\n\n"
-"Спасибо!\n\n"
-"-- Команда @ SITE_NAME"
+msgstr ""
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL:
 #. those are placeholders.
@@ -22721,17 +22670,7 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте ###USERNAME###,\n\n"
-"вы недавно запросили изменение адреса электронной почты\n"
-"\\vадминистратора своей сети.\n\n"
-"Если это верно, пожалуйста, нажмите на эту ссылку:\n"
-"###ADMIN_URL###\n\n"
-"Вы можете спокойно проигнорировать или удалить это письмо,\n"
-"если не хотите предпринимать указанное действие.\n\n"
-"Это письмо отправлено на электронную почту: ###EMAIL###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #: wp-includes/ms-functions.php:2647
 msgid "[%s] New Network Admin Email Address"
@@ -23002,7 +22941,7 @@ msgstr "Новая обратная ссылка к записи \"%s\" ожид
 
 #: wp-includes/pluggable.php:1640
 msgid "Trackback excerpt: "
-msgstr "Фрагмент обратной ссылки: "
+msgstr "Отрывок обратной ссылки:"
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1644
@@ -23011,7 +22950,7 @@ msgstr "Новое уведомление к записи \"%s\" ожидает 
 
 #: wp-includes/pluggable.php:1650
 msgid "Pingback excerpt: "
-msgstr "Фрагмент уведомления: "
+msgstr "Отрывок уведомления:"
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1654
@@ -23041,7 +22980,7 @@ msgstr "[%1$s] Проверьте, пожалуйста: \"%2$s\""
 #. translators: %s: user name
 #: wp-includes/pluggable.php:1755
 msgid "Password changed for user: %s"
-msgstr "Изменён пароль пользователя: %s"
+msgstr "Пароль пользователя %s изменён."
 
 #. translators: Password change notification email subject. %s: Site title
 #: wp-includes/pluggable.php:1763
@@ -23294,11 +23233,11 @@ msgstr "Искать наборы изменений"
 
 #: wp-includes/post.php:166
 msgid "No changesets found."
-msgstr "Наборов изменений не найдено."
+msgstr "Наборов изменений не найдено"
 
 #: wp-includes/post.php:167
 msgid "No changesets found in Trash."
-msgstr "В корзине не найдено наборов изменений."
+msgstr "В корзине не найдено наборов изменений"
 
 #: wp-includes/post.php:200
 msgid "oEmbed Responses"
@@ -24275,7 +24214,7 @@ msgstr "Таксономии ассоциированные с типом зап
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:298
 msgid "REST base route for the post type."
-msgstr "Базовый путь REST для типа записи."
+msgstr "базовый путь REST для типа записи."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:152
 msgid "You need to define a search term to order by relevance."
@@ -24305,7 +24244,7 @@ msgstr "Извините, вам не разрешено назначать ук
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:633
 msgid "Sorry, you are not allowed to update posts as this user."
-msgstr "Вам не разрешено обновлять записи от лица этого пользователя."
+msgstr "Вам не разрешено обновлять записи от лица этого пользователя"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:809
@@ -24585,7 +24524,7 @@ msgstr "Типы ассоциированные с таксономией."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:326
 msgid "REST base route for the taxonomy."
-msgstr "Базовый путь REST для таксономии."
+msgstr "базовый путь REST для таксономии."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:347
 msgid "Limit results to taxonomies associated with a specific post type."
@@ -25155,7 +25094,7 @@ msgstr "перемещён в корзину."
 
 #: wp-includes/script-loader.php:397
 msgid "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https://get.adobe.com/flashplayer/"
-msgstr "Flash player плагин был отключен или не был установлен в вашем браузере. Пожалуйста, включите плагин Flash player или скачайте последнюю версию с https://get.adobe.com/flashplayer/"
+msgstr "Flash player плагин был отключен или не был установлен в вашем браузере. Пожалуйста включите плагин Flash player или скачайте последнюю версию с https://get.adobe.com/flashplayer/"
 
 #: wp-includes/script-loader.php:398
 msgid "Turn off Fullscreen"
@@ -25319,7 +25258,7 @@ msgstr "Датский"
 
 #: wp-includes/script-loader.php:438
 msgid "Dutch"
-msgstr "Голландский"
+msgstr ""
 
 #: wp-includes/script-loader.php:440
 msgid "Estonian"
@@ -25563,7 +25502,7 @@ msgstr "Ключ неверен"
 
 #: wp-includes/script-loader.php:592
 msgid "Please save your changes in order to share the preview."
-msgstr "Пожалуйста, сохраните ваши изменения для того чтобы иметь возможность поделиться предпросмотром."
+msgstr "Пожалуйста сохраните ваши изменения для того чтобы иметь возможность поделиться предпросмотром."
 
 #: wp-includes/script-loader.php:595 wp-includes/script-loader.php:769
 msgid "Saved"
@@ -25651,7 +25590,7 @@ msgstr "Извините, вы не можете сделать предпрос
 #. translators: %s: URL to Add Themes admin screen
 #: wp-includes/script-loader.php:637
 msgid "You won&#8217;t be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
-msgstr "Вы не сможете устанавливать новые темы отсюда, так как ваша установка требует ввода данных для SFTP входа. Пожалуйста, воспользуйтесь <a href=\"%s\">добавлением тем через консоль</a>."
+msgstr "Вы не сможете устанавливать новые темы отсюда, так как ваша установка требует ввода данных для SFTP входа. Пожалуйста воспользуйтесь <a href=\"%s\">добавлением тем через консоль</a>."
 
 #: wp-includes/script-loader.php:687
 msgid "Approve and Reply"
@@ -25679,7 +25618,7 @@ msgstr "Все найденные персональные данные для �
 
 #: wp-includes/script-loader.php:701
 msgid "Personal data was found for this user but was not erased."
-msgstr "Персональные данные этого пользователя были найдены, но не были удалены."
+msgstr "Персональные данные для этого пользователя найдены, но они не были удалены. "
 
 #: wp-includes/script-loader.php:702
 msgid "Personal data was found for this user but some of the personal data found was not erased."
@@ -25799,7 +25738,7 @@ msgstr "Обновить %s сейчас"
 
 #: wp-includes/script-loader.php:823
 msgid "Update Failed!"
-msgstr "Обновление не удалось!"
+msgstr "Обновление не удалось"
 
 #. translators: %s: Error string for a failed update
 #: wp-includes/script-loader.php:825
@@ -26092,7 +26031,7 @@ msgstr "Имена таксономий должны быть от 1 до 20 с�
 
 #: wp-includes/taxonomy.php:427
 msgid "Unregistering a built-in taxonomy is not allowed."
-msgstr "Удаление встроенных таксономий не допускается."
+msgstr "Удаление встроенных таксономий не допускается"
 
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
@@ -26235,7 +26174,7 @@ msgstr "&larr; Назад к рубрикам"
 #: wp-includes/taxonomy.php:748 wp-includes/taxonomy.php:2657
 #: wp-includes/taxonomy.php:3958
 msgid "Empty Term."
-msgstr "Пустой элемент."
+msgstr "Пустой элемент"
 
 #: wp-includes/taxonomy.php:1144 wp-includes/taxonomy.php:1226
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
@@ -26255,16 +26194,16 @@ msgstr "Элемент с указанным именем и ярлыком уж
 
 #: wp-includes/taxonomy.php:2165
 msgid "Could not insert term into the database."
-msgstr "Не удалось вставить элемент в базу данных."
+msgstr "Не удалось вставить элемент в базу данных"
 
 #: wp-includes/taxonomy.php:2389
 msgid "Could not insert term relationship into the database."
-msgstr "Не удалось вставить связь элемента в базу данных."
+msgstr "Не удалось вставить связь элемента в базу данных"
 
 #. translators: 1: Taxonomy term slug
 #: wp-includes/taxonomy.php:2743
 msgid "The slug &#8220;%s&#8221; is already in use by another term."
-msgstr "Ярлык &#8220;%s&#8221; уже используется другим элементом."
+msgstr "Ярлык &#8220;%s&#8221; уже используется другим элементом"
 
 #: wp-includes/taxonomy.php:3595
 msgid "Could not split shared term."
@@ -26278,7 +26217,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:4170
 msgid "Invalid object ID."
-msgstr "Неправильный ID объекта."
+msgstr "Неверный ID объекта"
 
 #. translators: %s: template name
 #: wp-includes/theme-compat/comments.php:12
@@ -26294,7 +26233,7 @@ msgstr "Тема без %s"
 #: wp-includes/theme-compat/header.php:15
 #: wp-includes/theme-compat/sidebar.php:15
 msgid "Please include a %s template in your theme."
-msgstr "Пожалуйста, включите шаблон «%s» в свою тему."
+msgstr ""
 
 #: wp-includes/theme-compat/comments.php:24
 msgid "This post is password protected. Enter the password to view comments."
@@ -26303,15 +26242,15 @@ msgstr "Эта запись защищена паролем. Введите па
 #. translators: %s: post title
 #: wp-includes/theme-compat/comments.php:37
 msgid "One response to %s"
-msgstr "Один комментарий на «%s»"
+msgstr "Один комментарий на &laquo;%s&raquo;"
 
 #. translators: 1: number of comments, 2: post title
 #: wp-includes/theme-compat/comments.php:40
 msgid "%1$s response to %2$s"
 msgid_plural "%1$s responses to %2$s"
-msgstr[0] "%1$s ответ на «%2$s»"
-msgstr[1] "%1$s ответа на «%2$s»"
-msgstr[2] "%1$s ответа на «%2$s»"
+msgstr[0] "%1$s комментарий на &laquo;%2$s&raquo;"
+msgstr[1] "%1$s комментария на &laquo;%2$s&raquo;"
+msgstr[2] "%1$s комментариев на &laquo;%2$s&raquo;"
 msgstr[3] ""
 
 #: wp-includes/theme-compat/comments.php:66
@@ -26325,7 +26264,7 @@ msgstr "Ой! Объект не найден."
 #. translators: %s: a link to the embedded site
 #: wp-includes/theme-compat/embed-404.php:21
 msgid "It looks like nothing was found at this location. Maybe try visiting %s directly?"
-msgstr "По данному адресу ничего не найдено. Может, попробовать перейти на сайт %s напрямую?"
+msgstr "По данному адресу ничего не найдено. Попробуйте перейти на сайт %s."
 
 #. translators: 1: blog name, 2: ClassicPress
 #: wp-includes/theme-compat/footer.php:26
@@ -26363,7 +26302,7 @@ msgstr "Вы просматриваете архив блога %1$s за %2$s �
 #. translators: 1: site link, 2: search query
 #: wp-includes/theme-compat/sidebar.php:70
 msgid "You have searched the %1$s blog archives for <strong>&#8216;%2$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
-msgstr "Вы искали <strong>«%2$s»</strong> в архивах блога «%1$s». Если у вас не получается найти что-либо среди этих результатов поиска, вы можете попробовать одну из этих ссылок."
+msgstr ""
 
 #. translators: %s: site link
 #: wp-includes/theme-compat/sidebar.php:78
@@ -26580,21 +26519,21 @@ msgstr "Настройка темы"
 #. translators: %s: support forums URL
 #: wp-includes/update.php:157
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr "Произошла непредвиденная ошибка. Что-то могло пойти не так с сайтом ClassicPress.net или конфигурацией этого сервера. Если проблема не исчезает, пожалуйста, сообщите об этой неполадке на нашем <a href=\"%s\">Форуме поддержки</a>."
+msgstr ""
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:348 wp-includes/update.php:530
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr "Произошла непредвиденная ошибка. Кажется, что-то не так с WordPress.org или конфигурацией этого сервера. Если проблема не исчезнет, пожалуйста попробуйте обратиться на <a href=\"%s\">Форумы поддержки</a>."
+msgstr ""
 
 #: wp-includes/update.php:350 wp-includes/update.php:532
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr "(WordPress не удалось установить безопасное подключение к WordPress.org. Пожалуйста, свяжитесь с администратором своего сервера.)"
+msgstr ""
 
 #. translators: 1: Number of updates available to WordPress
 #: wp-includes/update.php:628
 msgid "%d WordPress Update"
-msgstr "%d обновлений WordPress"
+msgstr ""
 
 #. translators: 1: Number of updates available to plugins
 #: wp-includes/update.php:632
@@ -26784,16 +26723,7 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте ###USERNAME###,\n\n"
-"вы недавно запросили изменение адреса электронной почты для своего аккаунта.\n\n"
-"Если это верно, пожалуйста, нажмите на эту ссылку:\n"
-"###ADMIN_URL###\n\n"
-"Вы можете спокойно проигнорировать или удалить это письмо,\n"
-"если не хотите предпринимать указанное действие.\n\n"
-"Это письмо отправлено на электронную почту: ###EMAIL###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #: wp-includes/user.php:2708
 msgid "[%s] New Email Address"
@@ -26868,15 +26798,7 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте,\n\n"
-"запрос конфиденциальности пользовательских данных был подтвержден на сайте ###SITENAME###:\n\n"
-"User: ###USER_EMAIL###\n"
-"Request: ###DESCRIPTION###\n\n"
-"Вы можете просматривать эти запросы конфиденциальности и управлять ими здесь:\n\n"
-"###MANAGE_URL###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #. translators: 1: Site name. 2: Name of the confirmed action.
 #: wp-includes/user.php:2978
@@ -26896,12 +26818,7 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте,\n\n"
-"ваш запрос на стирание персональных данных на сайте ###SITENAME### выполнен.\n\n"
-"Если у вас есть какие-нибудь последующие вопросы или опасения, пожалуйста, свяжитесь с администратором.\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those
 #. are placeholders.
@@ -26913,13 +26830,7 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте,\n\n"
-"ваш запрос на стирание персональных данных на сайте ###SITENAME### выполнен.\n\n"
-"Если у вас есть какие-нибудь последующие вопросы или опасения, пожалуйста, свяжитесь с администратором.\n\n"
-"Для получения дополнительной информации, вы можете также ознакомиться с нашей политикой конфиденциальности: ###PRIVACY_POLICY_URL###\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #: wp-includes/user.php:3160
 msgid "Action has been confirmed."
@@ -26956,7 +26867,7 @@ msgstr "Запрос для этого адреса email уже существ�
 #. translators: %s: action name
 #: wp-includes/user.php:3259
 msgid "Confirm the \"%s\" action"
-msgstr "Подтвердите действие «%s»"
+msgstr "Подтверждение действия \"%s\" "
 
 #. translators: Do not translate DESCRIPTION, CONFIRM_URL, SITENAME, SITEURL:
 #. those are placeholders.
@@ -26971,16 +26882,7 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr "Здравствуйте,\n\n"
-"был сделан запрос на следующие изменения в вашем аккаунте:\n\n"
-"     ###DESCRIPTION###\n\n"
-"Чтобы подтвердить это, пожалуйста, нажмите на эту ссылку:\n"
-"###CONFIRM_URL###\n\n"
-"Вы можете спокойно проигнорировать или удалить это письмо,\n"
-"если не хотите предпринимать указанное действие.\n\n"
-"С уважением,\n"
-"команда ###SITENAME###\n"
-"###SITEURL###"
+msgstr ""
 
 #. translators: Privacy data request subject. 1: Site name, 2: Name of the
 #. action
@@ -27006,7 +26908,7 @@ msgstr "Добавить меню навигации на боковую пан�
 
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:133
 msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
-msgstr "Ни одного меню ещё не создано. <a href=\"%s\">Создать</a>."
+msgstr "Ни одного меню ещё не создано. <a href=\"%s\">Создать</a>"
 
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:137
 #: wp-includes/widgets/class-wp-widget-archives.php:160
@@ -27208,7 +27110,7 @@ msgstr "Выглядит как некорректный тип файла. По
 #. translators: %s: audio extension
 #: wp-includes/widgets/class-wp-widget-media-audio.php:81
 msgid "URL to the %s audio source file"
-msgstr "URL источника %s аудиофайла"
+msgstr "URL источника %s аудиофайла."
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:192
 #: wp-includes/widgets/class-wp-widget-media-image.php:335
@@ -27721,7 +27623,7 @@ msgstr ""
 #. translators: %s: wp-config.php
 #: wp-load.php:87
 msgid "You can create a %s file through a web interface, but this doesn't work for all server setups. The safest way is to manually create the file."
-msgstr "Вы можете создать файл «%s» с помощью веб-интерфейса, но это сработает не на всех серверных конфигурациях. Самый надёжный путь — создать файл вручную."
+msgstr ""
 
 #: wp-load.php:90
 msgid "Create a Configuration File"
@@ -27735,7 +27637,7 @@ msgstr "Сайт работает на ClassicPress"
 #: wp-login.php:254
 msgctxt "site"
 msgid "&larr; Back to %s"
-msgstr "&larr; Назад к сайту «%s»"
+msgstr "&larr; Назад к сайту &laquo;%s&raquo;"
 
 #: wp-login.php:314
 msgid "<strong>ERROR</strong>: Enter a username or email address."
@@ -27789,7 +27691,7 @@ msgstr "Срок действия ссылки для сброса пароля 
 
 #: wp-login.php:578
 msgid "Lost Password"
-msgstr "Забытый пароль"
+msgstr "Забыли пароль?"
 
 #: wp-login.php:578
 msgid "Please enter your username or email address. You will receive a link to create a new password via email."
@@ -27899,7 +27801,7 @@ msgstr "Это действие запрещено администраторо�
 
 #: wp-mail.php:40
 msgid "Slow down cowboy, no need to check for new mails so often!"
-msgstr "Притормози, ковбой! Не нужно проверять почту так часто!"
+msgstr "Притормози, ковбой! Не нужно проверять почту так часто."
 
 #: wp-mail.php:60
 msgid "There doesn&#8217;t seem to be any new mail."
@@ -28133,7 +28035,7 @@ msgstr "Вы уже вошли на сайт. Нет нужды регистри
 #. translators: %s: site address
 #: wp-signup.php:901
 msgid "The site you were looking for, %s, does not exist, but you can create it now!"
-msgstr "Сайт, который вы ищете, %s, не существует, но вы можете создать его сейчас!"
+msgstr ""
 
 #. translators: %s: site address
 #: wp-signup.php:906
