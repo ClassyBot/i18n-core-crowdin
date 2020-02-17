@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-02-17 02:02\n"
+"PO-Revision-Date: 2020-02-17 02:12\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1085,7 +1085,7 @@ msgstr "Imágenes por defecto"
 
 #: wp-admin/custom-header.php:618
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers, or show a random one."
-msgstr "Si no quieres subir tu propia imagen puedes usar una de estas cabeceras tan chulas o ir mostrándolas aleatoreamente."
+msgstr "Si no quieres subir tu propia imagen puedes usar una de estas cabeceras tan chulas o ir mostrándolas aleatoriamente."
 
 #: wp-admin/custom-header.php:620
 msgid "You can use one of these cool headers or show a random one on each page."
