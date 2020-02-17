@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2020-02-17 02:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20526,7 +20526,7 @@ msgstr "(現在: %s)"
 #. translators: 1: original menu name, 2: duplicate count
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:512
 msgid "%1$s (%2$d)"
-msgstr ""
+msgstr "%1$s (%2$d 名)"
 
 #: wp-includes/customize/class-wp-customize-partial.php:207
 msgid "Partial render must echo the content or return the content string (or array), but not both."
@@ -20942,7 +20942,7 @@ msgstr ""
 #. translators: used to join items in a list with more than 2 items
 #: wp-includes/formatting.php:4504
 msgid "%s, %s"
-msgstr ""
+msgstr "%s %s"
 
 #. translators: used to join last two items in a list with more than 2 times
 #: wp-includes/formatting.php:4506
@@ -25657,7 +25657,7 @@ msgstr "このメニューを完全に削除しようとしています。\n"
 #: wp-includes/script-loader.php:984
 msgctxt "Open Sans font: on or off"
 msgid "on"
-msgstr ""
+msgstr "日時"
 
 #. translators: To add an additional Open Sans character subset specific to
 #. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
@@ -26293,7 +26293,7 @@ msgstr "<strong>エラー</strong>: あなたのアカウントはスパマー�
 #: wp-includes/user.php:1126
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s 名)"
 
 #: wp-includes/user.php:1480
 msgid "Cannot create a user with an empty login name."
