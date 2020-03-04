@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-04 21:33\n"
+"PO-Revision-Date: 2020-03-04 21:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2988,17 +2988,17 @@ msgstr "La función del exportador no es una función válida: %s."
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4103
 msgid "Expected response as an array from exporter: %s."
-msgstr "Se esperaba respuesta como array del exportador: %s"
+msgstr "Se esperaba respuesta como array del exportador: %s."
 
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4109
 msgid "Expected data in response array from exporter: %s."
-msgstr "Se esperaban datos en el array de respuesta del exportador: %s"
+msgstr "Se esperaban datos en el array de respuesta del exportador: %s."
 
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4115
 msgid "Expected data array in response array from exporter: %s."
-msgstr "Se esperaba array de datos en el array de respuesta del exportador: %s"
+msgstr "Se esperaba array de datos en el array de respuesta del exportador: %s."
 
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4121
@@ -3064,7 +3064,7 @@ msgstr "Se esperaban mensajes clave en el array de respuesta %1$s del borrador (
 #. translators: 1: eraser friendly name, 2: array index
 #: wp-admin/includes/ajax-actions.php:4325
 msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
-msgstr "Se esperaban mensajes claves a la referencia en la respuesta del array %1$s del borrador (índice %2$d)"
+msgstr "Se esperaban mensajes claves a la referencia en la respuesta del array %1$s del borrador (índice %2$d)."
 
 #. translators: 1: eraser friendly name, 2: array index
 #: wp-admin/includes/ajax-actions.php:4336
@@ -3078,15 +3078,15 @@ msgstr "Lo siento, no tienes permisos para editar los enlaces en este sitio."
 
 #: wp-admin/includes/bookmark.php:200
 msgid "Could not update link in the database"
-msgstr "No ha sido posible actualizar el enlace en la base de datos."
+msgstr "No ha sido posible actualizar el enlace en la base de datos"
 
 #: wp-admin/includes/bookmark.php:208
 msgid "Could not insert link into the database"
-msgstr "No ha sido posible insertar el enlace en la base de datos."
+msgstr "No ha sido posible insertar el enlace en la base de datos"
 
 #: wp-admin/includes/bookmark.php:312
 msgid "If you are looking to use the link manager, please install the <a href=\"%s\">Link Manager</a> plugin."
-msgstr "Si quieres usar el gestor de enlaces, por favor, instala el plugin <a href=\"%s\">Link Manager</a>"
+msgstr "Si quieres usar el gestor de enlaces, por favor, instala el plugin <a href=\"%s\">Link Manager</a>."
 
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:23
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
@@ -4021,7 +4021,7 @@ msgstr "Encontrado %s"
 
 #: wp-admin/includes/class-wp-filesystem-ftpext.php:29
 msgid "The ftp PHP extension is not available"
-msgstr "La extensión PHP de FTP no está disponible."
+msgstr "La extensión de FTP para PHP no está disponible"
 
 #: wp-admin/includes/class-wp-filesystem-ftpext.php:44
 #: wp-admin/includes/class-wp-filesystem-ftpsockets.php:42
@@ -4909,7 +4909,7 @@ msgstr "No se encontraron plugins para &#8220;%s&#8221;."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:336
 msgid "Search for plugins in the ClassicPress Plugin Directory."
-msgstr "Buscar plugins en el directorio de plugins de ClassicPress"
+msgstr "Buscar plugins en el directorio de plugins de ClassicPress."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:339
 msgid "No plugins found."
@@ -5463,7 +5463,7 @@ msgstr "La carpeta ya existe."
 #: wp-admin/includes/file.php:1281 wp-admin/includes/file.php:1339
 #: wp-admin/includes/update-core.php:635
 msgid "Could not create directory."
-msgstr "No ha sido posible crear el directorio"
+msgstr "No ha sido posible crear el directorio."
 
 #: wp-admin/includes/class-wp-upgrader.php:163
 msgid "The package could not be installed."
