@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-04 21:57\n"
+"PO-Revision-Date: 2020-03-04 22:13\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12896,7 +12896,7 @@ msgstr "Para editar un menú existente, <strong>elige un menú del desplegable y
 
 #: wp-admin/nav-menus.php:535
 msgid "If you haven&#8217;t yet created any menus, <strong>click the &#8217;create a new menu&#8217; link</strong> to get started"
-msgstr "Si no has creado ningún menú todavía, <strong>haz clic en el enlace de &#8217;crear un nuevo menú &#8217;</strong>."
+msgstr "Si no has creado ningún menú todavía, <strong>haz clic en el enlace de &#8217;crear un nuevo menú&#8217;</strong> para comenzar"
 
 #: wp-admin/nav-menus.php:536
 msgid "You can assign theme locations to individual menus by <strong>selecting the desired settings</strong> at the bottom of the menu editor. To assign menus to all theme locations at once, <strong>visit the Manage Locations tab</strong> at the top of the screen."
@@ -12924,7 +12924,7 @@ msgstr "Para añadir un enlace personalizado, <strong>expande la sección Enlace
 
 #: wp-admin/nav-menus.php:548
 msgid "To reorganize menu items, <strong>drag and drop items with your mouse or use your keyboard</strong>. Drag or move a menu item a little to the right to make it a submenu"
-msgstr "Para reorganizar elementos del menú <strong>arrastra y suelta elementos con el ratón o usa el teclado</strong>. Arrastrando o moviendo  un elemento de menú un poco a la derecha lo convierte en submenú."
+msgstr "Para reorganizar elementos del menú <strong>arrastra y suelta elementos con el ratón o usa el teclado</strong>. Arrastrando o moviendo un elemento de menú un poco a la derecha lo conviertes en submenú"
 
 #: wp-admin/nav-menus.php:549
 msgid "Delete a menu item by <strong>expanding it and clicking the Remove link</strong>"
@@ -13230,7 +13230,7 @@ msgstr "El registro está inhabilitado"
 
 #: wp-admin/network/settings.php:172
 msgid "User accounts may be registered"
-msgstr "Se pueden crear cuentas de usuario."
+msgstr "Se pueden crear cuentas de usuario"
 
 #: wp-admin/network/settings.php:173
 msgid "Logged in users may register new sites"
@@ -13243,7 +13243,7 @@ msgstr "Pueden registrarse sitios y cuentas de usuario"
 #. translators: 1: NOBLOGREDIRECT 2: wp-config.php
 #: wp-admin/network/settings.php:178
 msgid "If registration is disabled, please set %1$s in %2$s to a URL you will redirect visitors to if they visit a non-existent site."
-msgstr "Si el registro de usuarios está desactivado , establece como valor de %1$s en %2$s una URL donde redirigir a los visitantes que accedan a un sitio inexistente."
+msgstr "Si el registro de usuarios está desactivado, establece como valor de %1$s en %2$s una URL donde redirigir a los visitantes que accedan a un sitio inexistente."
 
 #: wp-admin/network/settings.php:189
 msgid "Registration notification"
@@ -13259,7 +13259,7 @@ msgstr "Añadir nuevos usuarios"
 
 #: wp-admin/network/settings.php:202
 msgid "Allow site administrators to add new users to their site via the \"Users &rarr; Add New\" page"
-msgstr "Permite a los administradores de sitio añadir nuevos usuarios a su sitio a través de la página \"Usuarios &rarr; Añadir nuevo\"."
+msgstr "Permite a los administradores de sitio añadir nuevos usuarios a su sitio a través de la página \"Usuarios &rarr; Añadir nuevo\""
 
 #: wp-admin/network/settings.php:207
 msgid "Banned Names"
@@ -13555,7 +13555,7 @@ msgstr "Lista de temas del sitio"
 
 #: wp-admin/network/site-themes.php:173 wp-admin/network/themes.php:269
 msgid "Theme enabled."
-msgstr "Tema activado"
+msgstr "Tema activado."
 
 #: wp-admin/network/site-themes.php:175 wp-admin/network/themes.php:271
 msgid "%s theme enabled."
@@ -13719,7 +13719,7 @@ msgstr "Estás a punto de activar el sitio %s."
 
 #: wp-admin/network/sites.php:60
 msgid "You are about to deactivate the site %s."
-msgstr "Estás a punto desactivar el sitio %s"
+msgstr "Estás a punto de desactivar el sitio %s."
 
 #: wp-admin/network/sites.php:61
 msgid "You are about to unarchive the site %s."
@@ -14223,7 +14223,7 @@ msgstr "Para que un comentario aparezca"
 
 #: wp-admin/options-discussion.php:157
 msgid "Comment must be manually approved"
-msgstr "El comentario debe aprobarse manualmente."
+msgstr "El comentario debe aprobarse manualmente"
 
 #: wp-admin/options-discussion.php:159
 msgid "Comment author must have a previously approved comment"
@@ -14235,11 +14235,11 @@ msgstr "Moderación de comentarios"
 
 #: wp-admin/options-discussion.php:165
 msgid "Hold a comment in the queue if it contains %s or more links. (A common characteristic of comment spam is a large number of hyperlinks.)"
-msgstr "Mantener un comentario en espera si contiene más de %s enlaces (una característica común del spam en comentarios es el gran número de enlaces)."
+msgstr "Mantener un comentario en espera si contiene %s o más enlaces. (Una característica común del spam en comentarios es un gran número de enlaces.)"
 
 #: wp-admin/options-discussion.php:167
 msgid "When a comment contains any of these words in its content, name, URL, email, or IP address, it will be held in the <a href=\"edit-comments.php?comment_status=moderated\">moderation queue</a>. One word or IP address per line. It will match inside words, so &#8220;press&#8221; will match &#8220;ClassicPress&#8221;."
-msgstr "Cuando un comentario contiene alguna de estas palabras en su contenido, nombre, URL, correo electrónico o IP se mantendrá en la <a href=\"edit-comments.php?comment_status=moderated\">cola de moderación</a>. Pon una palabra o dirección IP por línea. También afectará a las palabras contenidas dentro de otras, como &#8220;press&#8221;, que está dentro de  &#8220;ClassicPress&#8221;"
+msgstr "Cuando un comentario contiene alguna de estas palabras en su contenido, nombre, URL, correo electrónico o IP se mantendrá en la <a href=\"edit-comments.php?comment_status=moderated\">cola de moderación</a>. Pon una palabra o dirección IP por línea. También se aplica por palabras parciales, entonces &#8220;press&#8221;, servirá para filtrar comentarios que contienen &#8220;ClassicPress&#8221;."
 
 #: wp-admin/options-discussion.php:174 wp-admin/options-discussion.php:175
 msgid "Comment Blacklist"
@@ -14291,7 +14291,7 @@ msgstr "R &#8212; Destinado a un público adulto mayor de 17"
 #. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
 #: wp-admin/options-discussion.php:218
 msgid "X &#8212; Even more mature than above"
-msgstr "X &#8212; Contenido más adulto que los anteriores."
+msgstr "X &#8212; Contenido más adulto que los anteriores"
 
 #: wp-admin/options-discussion.php:229 wp-admin/options-discussion.php:230
 msgid "Default Avatar"
@@ -14358,7 +14358,7 @@ msgstr "Si quieres que los visitantes puedan registrarse por su cuenta, no que s
 
 #: wp-admin/options-general.php:34
 msgid "UTC means Coordinated Universal Time."
-msgstr "UTC quiere decir  Hora universal coordinada (Coordinated Universal Time)"
+msgstr "UTC quiere decir Hora universal coordinada (Coordinated Universal Time)."
 
 #: wp-admin/options-general.php:45
 msgid "<a href=\"https://codex.wordpress.org/Settings_General_Screen\">Documentation on General Settings</a>"
