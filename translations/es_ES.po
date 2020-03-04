@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-02-17 02:12\n"
+"PO-Revision-Date: 2020-03-04 18:25\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -386,7 +386,7 @@ msgstr "Descartar"
 
 #: wp-admin/async-upload.php:85 wp-includes/script-loader.php:345
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr "Ha habido un error al subir &#8220;%s&#8221;"
+msgstr "Ha habido un error al subir &#8220;%s&#8221;."
 
 #: wp-admin/comment.php:39 wp-admin/edit-form-comment.php:16
 #: wp-admin/includes/template.php:406
