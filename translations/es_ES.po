@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-04 22:13\n"
+"PO-Revision-Date: 2020-03-04 22:23\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14629,11 +14629,11 @@ msgstr "Deberías actualizar tu archivo web.config ahora."
 
 #: wp-admin/options-permalink.php:133
 msgid "Permalink structure updated. Remove write access on web.config file now!"
-msgstr "La estructura de enlaces permanentes se ha actualizado. Elimina el acceso de escritura en el archivo web.config ahora mismo."
+msgstr "La estructura de enlaces permanentes se ha actualizado. Puedes eliminar el acceso de escritura en el archivo web.config ahora!"
 
 #: wp-admin/options-permalink.php:136
 msgid "You should update your .htaccess now."
-msgstr "Ahora debes actualizar tu .htaccess"
+msgstr "Ahora debes actualizar tu .htaccess."
 
 #. translators: %s: Codex URL
 #: wp-admin/options-permalink.php:162
@@ -14855,7 +14855,7 @@ msgstr "Página de entradas: %s"
 
 #: wp-admin/options-reading.php:87
 msgid "<strong>Warning:</strong> these pages should not be the same!"
-msgstr "<strong>Atención</strong>: estas páginas no pueden ser las mismas."
+msgstr "<strong>Atención</strong>: estas páginas no deben ser las mismas!"
 
 #: wp-admin/options-reading.php:93
 msgid "Blog pages show at most"
@@ -15385,7 +15385,7 @@ msgstr "Publicar esto no está instalado. Por favor, instala Publicar esto desde
 #: wp-admin/press-this.php:62 wp-includes/deprecated.php:3927
 #: wp-includes/deprecated.php:3944
 msgid "The Press This plugin is required."
-msgstr "Se requiere el plugin Publicar esto"
+msgstr "Se requiere el plugin Press This."
 
 #: wp-admin/press-this.php:63 wp-admin/press-this.php:69
 msgid "Installation Required"
@@ -15633,7 +15633,7 @@ msgstr ""
 
 #: wp-admin/setup-config.php:465
 msgid "ClassicPress &rsaquo; Setup Configuration File"
-msgstr "ClassicPress &rsaquo; Instalación del archivo de configuración."
+msgstr "ClassicPress &rsaquo; Archivo de configuración de instalación"
 
 #: wp-admin/theme-editor.php:20
 msgid "Edit Themes"
@@ -15864,7 +15864,7 @@ msgstr "Esta pantalla se utiliza para gestionar los temas que tienes instalados.
 
 #: wp-admin/themes.php:74
 msgid "Hover or tap to see Activate and Live Preview buttons"
-msgstr "Pasa el cursor por encima o toca para activar y ver los botones de Vista previa."
+msgstr "Pasa el cursor por encima o toca para ver los botones de Activar y Vista previa"
 
 #: wp-admin/themes.php:75
 msgid "Click on the theme to see the theme name, version, author, description, tags, and the Delete link"
@@ -16483,7 +16483,7 @@ msgstr "Tu nombre de usuario no puede cambiarse, pero puedes usar los otros camp
 
 #: wp-admin/user-edit.php:49
 msgid "You can log out of other devices, such as your phone or a public computer, by clicking the Log Out Everywhere Else button."
-msgstr "Puedes desconectar de otros dispositivos, como tu teléfono o un ordenador público, haciendo clic en el botón Desconectar del resto de sitios"
+msgstr "Puedes desconectar de otros dispositivos, como tu teléfono o un ordenador público, haciendo clic en el botón Desconectar del resto de sitios."
 
 #: wp-admin/user-edit.php:50
 msgid "Required fields are indicated; the rest are optional. Profile information will only be displayed if your theme is set up to do so."
@@ -16618,7 +16618,7 @@ msgstr "Información de contacto"
 #. translators: %s: new email
 #: wp-admin/user-edit.php:470
 msgid "There is a pending change of your email to %s."
-msgstr "Hay un cambio pendiente de tu correo electrónico a %s"
+msgstr "Hay un cambio pendiente de tu correo electrónico a %s."
 
 #: wp-admin/user-edit.php:485 wp-admin/user-new.php:435
 #: wp-includes/comment-template.php:2204
@@ -16833,7 +16833,7 @@ msgstr "Ese usuario no se ha podido añadir a este sitio."
 
 #: wp-admin/user-new.php:275
 msgid "User has been created, but could not be added to this site."
-msgstr "El usuario se ha creado, pero no se ha añadido a este sitio"
+msgstr "El usuario se ha creado, pero no se pudo añadir a este sitio."
 
 #: wp-admin/user-new.php:278 wp-includes/ms-functions.php:161
 msgid "The requested user does not exist."
@@ -16952,7 +16952,7 @@ msgstr "Borrar usuarios"
 
 #: wp-admin/users.php:235
 msgid "Please select an option."
-msgstr "Por favor, elige una opción"
+msgstr "Por favor, elige una opción."
 
 #: wp-admin/users.php:240
 msgid "You have specified this user for deletion:"
@@ -17534,7 +17534,7 @@ msgstr "%d temas encontrados"
 #. consider singular vs. plural forms
 #: wp-includes/class-wp-customize-manager.php:4701
 msgid "Displaying %d themes"
-msgstr "Mostrando %d temas."
+msgstr "Mostrando %d temas"
 
 #. translators: %s: theme name
 #: wp-includes/class-wp-customize-manager.php:4703
@@ -18023,7 +18023,7 @@ msgstr "Personalización"
 
 #: wp-includes/class-wp-customize-widgets.php:413
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr "Los widgets son secciones independientes de contenido que pueden colocarse en las áreas de widgets que tenga tu tema (también llamadas barras laterales)"
+msgstr "Los widgets son secciones independientes de contenido que pueden colocarse en las áreas de widgets que tenga tu tema (también llamadas barras laterales)."
 
 #: wp-includes/class-wp-customize-widgets.php:683
 msgid "Move to another area&hellip;"
@@ -18031,7 +18031,7 @@ msgstr "Mover a otro sitio &hellip;"
 
 #: wp-includes/class-wp-customize-widgets.php:691
 msgid "Select an area to move this widget into:"
-msgstr "Selecciona un area al que mover el widget."
+msgstr "Selecciona un area al que mover el widget:"
 
 #: wp-includes/class-wp-customize-widgets.php:692
 msgctxt "Move widget"
@@ -18063,11 +18063,11 @@ msgstr[1] "Tu tema tiene %s áreas de widgets, pero esta página en concreto no 
 
 #: wp-includes/class-wp-customize-widgets.php:752
 msgid "Save and preview changes before publishing them."
-msgstr "Guardar y previsualizar cambios antes de publicarlos"
+msgstr "Guardar y previsualizar cambios antes de publicarlos."
 
 #: wp-includes/class-wp-customize-widgets.php:754
 msgid "Trash widget by moving it to the inactive widgets sidebar."
-msgstr "Envía a la papelera el widget moviéndolo a la barra lateral de widgets inactivos"
+msgstr "Envía a la papelera el widget moviéndolo a la barra lateral de widgets inactivos."
 
 #: wp-includes/class-wp-customize-widgets.php:756
 msgid "Widget moved up"
@@ -19495,7 +19495,7 @@ msgstr "Términos inexistentes."
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
-msgstr "El ID del término se ha compartido entre varias taxonomías."
+msgstr "El ID del término se ha compartido entre varias taxonomías"
 
 #: wp-includes/class-wp-theme.php:229
 msgid "The theme directory \"%s\" does not exist."
@@ -20009,7 +20009,7 @@ msgstr "Lo siento, no tienes permisos para modificar las opciones. "
 #: wp-includes/class-wp-xmlrpc-server.php:4327
 #: wp-includes/class-wp-xmlrpc-server.php:4397
 msgid "Sorry, revisions are disabled."
-msgstr "Lo siento, las revisiones están desactivadas"
+msgstr "Lo sentimos, las revisiones están desactivadas."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4520
 msgid "Sorry, you are not allowed to access user data on this site."
@@ -20940,7 +20940,7 @@ msgstr ""
 #: wp-includes/formatting.php:132
 msgctxt "Comma-separated list of words to texturize in your language"
 msgid "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
-msgstr "no es,aunque,estaba,esta es,podría,hasta,tal,suficiente,alrededor,porque,les"
+msgstr "[nothing]"
 
 #: wp-includes/formatting.php:135
 msgctxt "Comma-separated list of replacement words in your language"
@@ -21063,16 +21063,16 @@ msgstr "No se pudo crear el directorio %s. Asegúrate de que el servidor tiene p
 
 #: wp-includes/functions.php:2149
 msgid "Empty filename"
-msgstr "El nombre de archivo está vacío."
+msgstr "El nombre del archivo está vacío"
 
 #: wp-includes/functions.php:2195
 msgid "Could not write file %s"
-msgstr "No se pudo escribir el archivo %s."
+msgstr "No se pudo escribir el archivo %s"
 
 #. translators: %s: site name
 #: wp-includes/functions.php:2645
 msgid "You are attempting to log out of %s"
-msgstr "Estás intentando cerrar tu sesión en %s."
+msgstr "Estás intentando cerrar tu sesión en %s"
 
 #. translators: %s: logout URL
 #: wp-includes/functions.php:2652
