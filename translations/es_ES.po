@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-04 18:25\n"
+"PO-Revision-Date: 2020-03-04 21:33\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -975,11 +975,11 @@ msgstr "Imagen de cabecera"
 
 #: wp-admin/custom-header.php:106
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately. Alternatively, you can use an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button."
-msgstr "Puedes elegir una imagen de cabecera personalizada para tu sitio. Simplemente sube la imagen y recórtala, la nueva cabecera se verá en directo inmediatamente. Alternativamente puedes usar una imagen que ya hayas subido a tu biblioteca de medios haciendo clic en el botón &#8220;Elegir imagen&#8221;"
+msgstr "Puedes elegir una imagen de cabecera personalizada para tu sitio. Simplemente sube la imagen y recórtala, la nueva cabecera se verá en directo inmediatamente. Alternativamente puedes usar una imagen que ya hayas subido a tu biblioteca de medios haciendo clic en el botón &#8220;Elegir imagen&#8221;."
 
 #: wp-admin/custom-header.php:107
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you&#8217;d like and click the &#8220;Save Changes&#8221; button."
-msgstr "Algunos temas vienen con imágenes de cabecera adicionales. Si ves que se muestran varias imágenes elige una que te guste y haz clic en el botón &#8220;Guardar cambios&#8221;"
+msgstr "Algunos temas vienen con imágenes de cabecera adicionales. Si ves que se muestran varias imágenes elige una que te guste y haz clic en el botón &#8220;Guardar cambios&#8221;."
 
 #: wp-admin/custom-header.php:108
 msgid "If your theme has more than one default header image, or you have uploaded more than one custom header image, you have the option of having ClassicPress display a randomly different image on each page of your site. Click the &#8220;Random&#8221; radio button next to the Uploaded Images or Default Images section to enable this feature."
@@ -1531,7 +1531,7 @@ msgstr "Página enviada."
 
 #: wp-admin/edit-form-advanced.php:171
 msgid "Page scheduled for: %s."
-msgstr "Página programada para: %s"
+msgstr "Página programada para: %s."
 
 #: wp-admin/edit-form-advanced.php:172
 msgid "Page draft updated."
@@ -1627,11 +1627,11 @@ msgstr "Puedes insertar archivos multimedia haciendo clic en los iconos de la pa
 
 #: wp-admin/edit-form-advanced.php:380
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
-msgstr "Puedes activar el modo de escritura sin distracción usando el icono de la derecha. Esta función no está disponible para navegadores antiguos ni dispositivos con pantallas pequeñas , y requiere que esté habilitado el editor completo en los ajustes de pantalla."
+msgstr "Puedes activar el modo de escritura sin distracción usando el icono de la derecha. Esta función no está disponible para navegadores antiguos ni dispositivos con pantallas pequeñas, y requiere que esté habilitado el editor completo en los ajustes de pantalla."
 
 #: wp-admin/edit-form-advanced.php:381
 msgid "Keyboard users: When you&#8217;re working in the visual editor, you can use <kbd>Alt + F10</kbd> to access the toolbar."
-msgstr "Usuarios de teclado: Cuando estés trabajando con el editor visual, puede utilizar <kbd>Alt + F10</kbd> para acceder a la barra de herramientas"
+msgstr "Usuarios de teclado: Cuando estés trabajando con el editor visual, puedes utilizar <kbd>Alt + F10</kbd> para acceder a la barra de herramientas."
 
 #: wp-admin/edit-form-advanced.php:385
 msgid "Title and Post Editor"
@@ -1688,11 +1688,11 @@ msgstr "<a href=\"https://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\">
 
 #: wp-admin/edit-form-advanced.php:430
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
-msgstr "Puedes subir e insertar archivos multimedia (imágenes, audios, documentos, etc.) con solo hacer clic en el botón \"Añadir medio\". Puedes elegir entre las imágenes ya subidas a la biblioteca multimedia o subir nuevos archivos. Para crear una galería de imágenes, solo tienes que seleccionar algunas y hacer clic en el botón &#8220;Crear nueva galería&#8221;"
+msgstr "Puedes subir e insertar archivos multimedia (imágenes, audios, documentos, etc.) con solo hacer clic en el botón \"Añadir medio\". Puedes elegir entre las imágenes ya subidas a la biblioteca multimedia o subir nuevos archivos. Para crear una galería de imágenes, solo tienes que seleccionar algunas y hacer clic en el botón &#8220;Crear nueva galería&#8221;."
 
 #: wp-admin/edit-form-advanced.php:431
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. Please refer to the Codex to <a href=\"https://codex.wordpress.org/Embeds\">learn more about embeds</a>."
-msgstr "Puedes incrustar contenidos de muchos sitios web como Twitter, YouTube, Flickr y otros solo con poner la URL del medio en una línea propia en el contenido de tu entrada/página. Por favor, consulta el Codex <a href=\"https://codex.wordpress.org/Embeds\">para saber más sobre contenido incrustado</a>"
+msgstr "Puedes incrustar contenidos de muchos sitios web como Twitter, YouTube, Flickr y otros solo con poner la URL del medio en una línea propia en el contenido de tu entrada/página. Por favor, consulta el Codex <a href=\"https://codex.wordpress.org/Embeds\">para saber más sobre contenido incrustado</a>."
 
 #: wp-admin/edit-form-advanced.php:435
 msgid "Inserting Media"
@@ -2112,7 +2112,7 @@ msgstr "¿Cuál es la diferencia entre categorías y etiquetas? Normalmente, las
 
 #: wp-admin/edit-tags.php:239
 msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
-msgstr "Cuando añades una nueva categoría en esta pantalla, rellenas los siguientes campos."
+msgstr "Cuando añades una nueva categoría en esta pantalla, rellenas los siguientes campos:"
 
 #: wp-admin/edit-tags.php:241
 msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
@@ -2652,7 +2652,7 @@ msgstr "El comentario %d no existe"
 #: wp-includes/class-wp-customize-widgets.php:755
 #: wp-includes/script-loader.php:887 wp-includes/script-loader.php:913
 msgid "An error has occurred. Please reload the page and try again."
-msgstr "Ha ocurrido un error. Por favor, recarga la página y prueba de nuevo"
+msgstr "Ha ocurrido un error. Por favor, recarga la página e intenta de nuevo."
 
 #: wp-admin/includes/ajax-actions.php:1009
 msgid "ERROR: you are replying to a comment on a draft post."
@@ -2978,12 +2978,12 @@ msgstr "El índice %s del array del exportador no incluye un nombre amigable."
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4082
 msgid "Exporter does not include a callback: %s."
-msgstr "El exportador no incluye una respuesta: %s"
+msgstr "El exportador no incluye una función: %s."
 
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4088
 msgid "Exporter callback is not a valid callback: %s."
-msgstr "La respuesta del exportador no es una respuesta válida: %s"
+msgstr "La función del exportador no es una función válida: %s."
 
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4103
@@ -3029,12 +3029,12 @@ msgstr "Se esperaba un array describiendo el borrador en el índice %d."
 #. translators: %d: array index
 #: wp-admin/includes/ajax-actions.php:4255
 msgid "Eraser array at index %d does not include a callback."
-msgstr "El array del borrador en el índice %d no incluye una respuesta."
+msgstr "El array del borrador no incluye una función válida en el índice %d."
 
 #. translators: %d: array index
 #: wp-admin/includes/ajax-actions.php:4260
 msgid "Eraser callback at index %d is not a valid callback."
-msgstr "La respuesta del borrador en el índice %d no es una respuesta válida."
+msgstr "La función del borrador en el índice %d no es una función válida."
 
 #. translators: %d: array index
 #: wp-admin/includes/ajax-actions.php:4265
@@ -23503,7 +23503,7 @@ msgstr "La compatibilidad con JSONP está desactivada en este sitio."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:286
 msgid "Invalid JSONP callback function."
-msgstr "Llamada no válida a JSONP."
+msgstr "Función de JSONP no válida."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:854
 msgid "The handler for the route is invalid"
@@ -25783,7 +25783,7 @@ msgstr "Nombre de shortcode no válido: %1$s. No utilices espacios o caracteres 
 #. translators: %s: shortcode tag
 #: wp-includes/shortcodes.php:294
 msgid "Attempting to parse a shortcode without a valid callback: %s"
-msgstr "Intento de analizar un \"shortcode\" sin una devolución de llamada válida: %s"
+msgstr "Intento de analizar un \"shortcode\" sin una función válida: %s"
 
 #: wp-includes/taxonomy.php:98
 msgid "Navigation Menus"
