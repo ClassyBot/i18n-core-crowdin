@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 20:23\n"
+"PO-Revision-Date: 2020-03-05 20:33\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8287,7 +8287,7 @@ msgstr "El archivo está vacío. Por favor, sube algo con más sustancia."
 
 #: wp-admin/includes/file.php:784 wp-admin/includes/import.php:84
 msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
-msgstr "El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque que tu fichero php.ini tenga inhabilitadas las subidas o porque post_max_size esté definido más pequeño que el  upload_max_filesize en php.ini."
+msgstr "El archivo está vacío. Por favor, sube algo con más sustancia. Este error puede que lo provoque también que tu archivo php.ini tenga inhabilitadas las subidas, o porque el post_max_size esté definido más pequeño que el upload_max_filesize en php.ini."
 
 #: wp-admin/includes/file.php:792
 msgid "Specified file failed upload test."
@@ -8631,7 +8631,7 @@ msgstr "Ayuda sobre los ajustes de miniaturas"
 
 #: wp-admin/includes/image-edit.php:151
 msgid "You can edit the image while preserving the thumbnail. For example, you may wish to have a square thumbnail that displays just a section of the image."
-msgstr "Puedes editar la imagen al tiempo que conservas la miniatura. Por ejemplo, puede que quieras tener una miniatura cuadrada que  muestre solo una sección de la imagen."
+msgstr "Puedes editar la imagen al tiempo que conservas la miniatura. Por ejemplo, puede que quieras tener una miniatura cuadrada que muestre solo una sección de la imagen."
 
 #: wp-admin/includes/image-edit.php:156
 msgid "Current thumbnail"
@@ -9406,7 +9406,7 @@ msgstr "Más utilizadas"
 
 #: wp-admin/includes/meta-boxes.php:1022 wp-admin/includes/meta-boxes.php:1024
 msgid "+ Add New Category"
-msgstr "+ Añadir categoría nueva "
+msgstr "+ Añadir categoría nueva"
 
 #: wp-admin/includes/meta-boxes.php:1025
 msgid "New category name"
@@ -10128,7 +10128,7 @@ msgstr "El menú es para editar información específica de sitios individuales,
 
 #: wp-admin/includes/ms.php:980
 msgid "<strong>Info</strong> &mdash; The site URL is rarely edited as this can cause the site to not work properly. The Registered date and Last Updated date are displayed. Network admins can mark a site as archived, spam, deleted and mature, to remove from public listings or disable."
-msgstr "<strong>Información</strong> &mdash; Raramente se edita la URL del sitio, ya que esto puede provocar que el sitio no funcione correctamente. Se muestran la fecha de registro y la fecha de última actualización.  Los administradores de la red puede marcar un sitio como archivado, spam, borrado y para adultos, para borrarlo de los listados públicos o desactivarlo."
+msgstr "<strong>Información</strong> &mdash; Raramente se edita la URL del sitio, ya que esto puede provocar que el sitio no funcione correctamente. Se muestran la fecha de registro y la fecha de última actualización. Los administradores de la red puede marcar un sitio como archivado, spam, borrado y para adultos, para borrarlo de los listados públicos o desactivarlo."
 
 #: wp-admin/includes/ms.php:981
 msgid "<strong>Users</strong> &mdash; This displays the users associated with this site. You can also change their role, reset their password, or remove them from the site. Removing the user from the site does not remove the user from the network."
@@ -10251,7 +10251,7 @@ msgstr "Una vez se haya creado la red ya podrás reactivar tus plugins."
 
 #: wp-admin/includes/network.php:131
 msgid "You cannot install a network of sites with your server address."
-msgstr "No puedes instalar  una red de sitios con la dirección de tu servidor."
+msgstr "No puedes instalar una red de sitios con la dirección de tu servidor."
 
 #. translators: %s: port number
 #: wp-admin/includes/network.php:134
@@ -10293,7 +10293,7 @@ msgstr "Parece ser que el módulo de Apache %s no está instalado."
 #. search for mod_rewrite
 #: wp-admin/includes/network.php:200
 msgid "If %1$s is disabled, ask your administrator to enable that module, or look at the <a href=\"%2$s\">Apache documentation</a> or <a href=\"%3$s\">elsewhere</a> for help setting it up."
-msgstr "Si %1$s está desactivado pide a tu administrador que active ese módulo, o echa  un vistazo a la <a href=\"%2$s\">documentación de Apache</a> o <a href=\"%3$s\">donde sea</a> para saber cómo configurarlo."
+msgstr "Si %1$s está desactivado pide a tu administrador que active ese módulo, o echa un vistazo a la <a href=\"%2$s\">documentación de Apache</a> o <a href=\"%3$s\">en línea</a> para saber cómo configurarlo."
 
 #: wp-admin/includes/network.php:210
 msgid "Addresses of Sites in your Network"
@@ -10344,7 +10344,7 @@ msgstr "Dirección del servidor"
 #. translators: 1: site url 2: host name 3. www
 #: wp-admin/includes/network.php:246
 msgid "We recommend you change your siteurl to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
-msgstr "Recomendamos que cambies la url de tu sitio a %1$s antes de activar la característica de red. Todavía será posible visitar tu sitio usando el prefijo %3$s con una dirección como %2$s pero los enlaces no tendrán el prefijo %3$s. "
+msgstr "Recomendamos que cambies la url de tu sitio a %1$s antes de activar la función de red de sitios. Todavía será posible visitar tu sitio usando el prefijo %3$s con una dirección como %2$s pero los enlaces no tendrán el prefijo %3$s."
 
 #. translators: %s: host name
 #: wp-admin/includes/network.php:257 wp-admin/includes/network.php:306
@@ -10859,7 +10859,7 @@ msgstr "Lo siento, no tienes permisos para crear páginas como este usuario."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:491
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:499
 msgid "Sorry, you are not allowed to create posts as this user."
-msgstr "Lo siento, no tienes permisos con este usuario para crear entradas. "
+msgstr "Lo siento, no tienes permisos para crear entradas como este usuario."
 
 #: wp-admin/includes/post.php:162 wp-includes/post.php:3299
 #: wp-includes/rest-api.php:1151 wp-includes/script-loader.php:641
@@ -11588,7 +11588,7 @@ msgstr "No se ha podido descomprimir la actualización"
 
 #: wp-admin/includes/update-core.php:264
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr "La actualización no se pudo instalar a causa de que  ClassicPress %1$s requiere la versión %2$s o superior de PHP y la versión %3$s o superior de MySQL. Estás usando la versión %4$s de PHP y la versión %5$s de MySQL."
+msgstr "La actualización no se pudo instalar a causa de que ClassicPress %1$s requiere la versión %2$s o superior de PHP y la versión %3$s o superior de MySQL. Estás usando la versión %4$s de PHP y la versión %5$s de MySQL."
 
 #: wp-admin/includes/update-core.php:266
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
@@ -12116,7 +12116,7 @@ msgstr "Puedes usar los controles siguientes para organizar tu escritorio de mod
 
 #: wp-admin/index.php:55
 msgid "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to choose which Dashboard boxes to show."
-msgstr "<strong>Opciones de pantalla</strong> &mdash; Usa la pestaña de Opciones de pantalla para elegir qué cajas mostrar en tu escritorio.  "
+msgstr "<strong>Opciones de pantalla</strong> &mdash; Usa la pestaña de Opciones de pantalla para elegir qué cajas mostrar en tu escritorio."
 
 #: wp-admin/index.php:56
 msgid "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
@@ -12738,7 +12738,7 @@ msgstr "Eliminar mi sitio"
 
 #: wp-admin/ms-delete-site.php:84
 msgid "Thank you. Please check your email for a link to confirm your action. Your site will not be deleted until this link is clicked."
-msgstr "Gracias. Por favor, comprueba si has recibido un enlace en tu correo electrónico para confirmar esta acción. Tu sitio no se borrará hasta que hagas clic en este enlace. "
+msgstr "Gracias. Por favor, comprueba si has recibido un enlace en tu correo electrónico para confirmar esta acción. Tu sitio no se borrará hasta que hagas clic en este enlace."
 
 #: wp-admin/ms-delete-site.php:88
 msgid "If you do not want to use your %s site any more, you can delete it using the form below. When you click <strong>Delete My Site Permanently</strong> you will be sent an email with a link in it. Click on this link to delete your site."
@@ -12796,7 +12796,7 @@ msgstr "El tema actual no es compatible con menús de navegación o widgets."
 #: wp-admin/nav-menus.php:25 wp-admin/themes.php:15 wp-admin/widgets.php:18
 #: wp-includes/class-wp-customize-manager.php:571
 msgid "Sorry, you are not allowed to edit theme options on this site."
-msgstr "Lo siento, no tienes permisos para modificar las  opciones del tema en este sitio."
+msgstr "Lo siento, no tienes permisos para modificar las opciones del tema en este sitio."
 
 #: wp-admin/nav-menus.php:245
 msgid "The menu item has been successfully deleted."
@@ -12916,7 +12916,7 @@ msgstr "<strong>Si haces clic en la flecha de la derecha de cualquier elemento d
 
 #: wp-admin/nav-menus.php:546
 msgid "Add one or several items at once by <strong>selecting the checkbox next to each item and clicking Add to Menu</strong>"
-msgstr "Añade uno o varios elementos a la vez <strong>eligiendo la casilla de al lado de cada elemento  y haciendo clic en Añadir al  menú</strong>"
+msgstr "Añade uno o varios elementos a la vez <strong>eligiendo la casilla de al lado de cada elemento y haciendo clic en Añadir al menú</strong>"
 
 #: wp-admin/nav-menus.php:547
 msgid "To add a custom link, <strong>expand the Custom Links section, enter a URL and link text, and click Add to Menu</strong>"
@@ -12944,7 +12944,7 @@ msgstr "Para asignar menús a una o más ubicaciones del tema <strong>elige un m
 
 #: wp-admin/nav-menus.php:559
 msgid "To edit a menu currently assigned to a theme location, <strong>click the adjacent &#8217;Edit&#8217; link</strong>"
-msgstr "Para editar un  menú actualmente asignado a una ubicación del tema <strong>haz clic en el el enlace Editar a su lado</strong>"
+msgstr "Para editar un menú actualmente asignado a una ubicación del tema <strong>haz clic en el el enlace &#8217;Editar&#8217; a su lado</strong>"
 
 #: wp-admin/nav-menus.php:560
 msgid "To add a new menu instead of assigning an existing one, <strong>click the &#8217;Use new menu&#8217; link</strong>. Your new menu will be automatically assigned to that theme location"
@@ -13013,7 +13013,7 @@ msgstr "Elige el menú que quieras editar:"
 
 #: wp-admin/nav-menus.php:721
 msgid "or <a href=\"%s\">create a new menu</a>."
-msgstr "o <a href=\"%s\">crea un nuevo menú</a>. "
+msgstr "o <a href=\"%s\">crea un nuevo menú</a>."
 
 #: wp-admin/nav-menus.php:762 wp-includes/class-wp-customize-nav-menus.php:435
 msgid "Menu Name"
