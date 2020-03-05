@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 22:54\n"
+"PO-Revision-Date: 2020-03-05 23:04\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14768,7 +14768,7 @@ msgstr "Etiqueta base"
 #. translators: 1: web.config, 2: Codex URL, 3: CTRL + a, 4: element code
 #: wp-admin/options-permalink.php:308
 msgid "If your %1$s file was <a href=\"%2$s\">writable</a>, we could do this automatically, but it isn&#8217;t so this is the url rewrite rule you should have in your %1$s file. Click in the field and press %3$s to select all. Then insert this rule inside of the %4$s element in %1$s file."
-msgstr "Si tu archivo %1$s tuviese <a href=\"%2$s\">permisos de escritura</a> podríamos hacerlo automáticamente, pero no los tiene así que esta es la regla de reescritura que deberías tener en tu archivo %1$s. Haz clic en el siguiente campo y teclea %3$s para seleccionarlas todas.Luego inserta esta regla dentro del elemento %4$s del archivo %1$s."
+msgstr "Si tu archivo %1$s tuviese <a href=\"%2$s\">permisos de escritura</a> podríamos hacer esto automáticamente, pero no los tiene así que esta es la regla de reescritura que deberías tener en tu archivo %1$s. Haz clic en el siguiente campo y teclea %3$s para seleccionarlo todo. Luego inserta esta regla dentro del elemento %4$s del archivo %1$s."
 
 #: wp-admin/options-permalink.php:310 wp-admin/options-permalink.php:331
 #: wp-admin/options-permalink.php:358
@@ -15285,7 +15285,7 @@ msgstr "Solución de problemas"
 
 #: wp-admin/plugins.php:425
 msgid "Most of the time, plugins play nicely with the core of ClassicPress and with other plugins. Sometimes, though, a plugin&#8217;s code will get in the way of another plugin, causing compatibility issues. If your site starts doing strange things, this may be the problem. Try deactivating all your plugins and re-activating them in various combinations until you isolate which one(s) caused the issue."
-msgstr "La mayoría de las veces los plugins funcionan perfectamente con el núcleo de ClassicPress y con los otros plugins. Algunas veces, puede haber incompatibilidades entre algunos plugins produciendo problemas. Tu sitio podría comenzar a hacer cosas raras, esto podría ser un problema. Prueba a desactivar tus plugin e ir activándolos uno a uno y comprobando que el problema no reaparezca. Es la forma de detectar el plugin problemático o la combinación de plugins problemáticos."
+msgstr "La mayoría de las veces los plugins funcionan perfectamente con el núcleo de ClassicPress y con los otros plugins. Algunas veces, puede haber incompatibilidades entre algunos plugins, las cuales pueden producir problemas de compatibilidad. Si tu sitio empieza a hacer cosas raras, esto podría ser el problema. Prueba a desactivar tus plugins e ir activándolos en varias combinaciones hasta detectar el (los) plugin(s) que causaron el problema."
 
 #. translators: WP_PLUGIN_DIR constant value
 #: wp-admin/plugins.php:428
@@ -15766,7 +15766,7 @@ msgstr "Elige una o varias características de temas por las que filtrar"
 #. translators: %s: Theme Directory URL
 #: wp-admin/theme-install.php:91
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license ClassicPress uses."
-msgstr "Puedes encontrar más temas para tu sitio usando el buscador/instalador de temas que hay en esta misma página, donde se mostrarán los temas del <a href=\"%s\">directorio de temas de ClassicPress</a>. Estos temas los diseñan y desarrollan terceros y estás disponibles sin cargo (gratis), y son compatibles con la licencia que utiliza ClassicPress."
+msgstr "Puedes encontrar más temas para tu sitio usando el buscador/instalador de temas que hay en esta misma página, donde se mostrarán los temas del <a href=\"%s\">directorio de temas de ClassicPress</a>. Estos temas los diseñan y desarrollan terceros y estás disponibles gratis, y son compatibles con la licencia que utiliza ClassicPress."
 
 #: wp-admin/theme-install.php:94
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
@@ -15888,7 +15888,7 @@ msgstr "La instalación de temas en multisitio solo se puede hacer desde la secc
 
 #: wp-admin/themes.php:92
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. Themes in the ClassicPress Theme Directory are designed and developed by third parties, and are compatible with the license ClassicPress uses. Oh, and they&#8217;re free!"
-msgstr "Si quieres ver más temas entre los que elegir haz clic en el botón &#8220;Añadir nuevo&#8221; y podrás navegar o buscar temas adicionales del <a href=\"%s\">directorio de temas de ClassicPress.net</a>. Los temas del directorio de temas de ClassicPress.net están diseñados y desarrollados por otros, y son compatibles con la licencia que usa ClassicPress. ¡Ah, y son gratis!"
+msgstr "Si quieres ver más temas entre los que elegir haz clic en el botón &#8220;Añadir nuevo&#8221; y podrás navegar o buscar temas adicionales del <a href=\"%s\">directorio de temas de ClassicPress.net</a>. Los temas del directorio de temas de ClassicPress.net están diseñados y desarrollados por otros, y son compatibles con la licencia que usa ClassicPress. Ah, y ¡son gratis!"
 
 #: wp-admin/themes.php:97
 msgid "Adding Themes"
@@ -16284,7 +16284,7 @@ msgstr "Instalando tema desde el archivo: %s"
 
 #: wp-admin/upgrade.php:64
 msgid "ClassicPress &rsaquo; Update"
-msgstr "Actualización de ClassicPress"
+msgstr "ClassicPress &rsaquo; Actualización"
 
 #: wp-admin/upgrade.php:71
 msgid "https://www.classicpress.net/"
@@ -16324,7 +16324,7 @@ msgstr "%s segundos"
 
 #: wp-admin/upload.php:50
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
-msgstr "Todos los archivos que hayas subido están en la lista de la biblioteca de medios, con los subidos más recientemente en la parte superior."
+msgstr "Todos los archivos que has subido están en la lista de la biblioteca de medios, con los subidos más recientemente en la parte superior."
 
 #: wp-admin/upload.php:51 wp-admin/upload.php:195
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
@@ -16471,7 +16471,7 @@ msgstr "Tu perfil contiene información sobre ti (tu &#8220;cuenta&#8221;) así 
 
 #: wp-admin/user-edit.php:46
 msgid "You can change your password, turn on keyboard shortcuts, change the color scheme of your ClassicPress administration screens, and turn off the WYSIWYG (Visual) editor, among other things. You can hide the Toolbar (formerly called the Admin Bar) from the front end of your site, however it cannot be disabled on the admin screens."
-msgstr "Puedes cambiar tu contraseña, activar los atajos de teclado, cambiar la paleta de colores de tus pantallas de administración, desactivar el editor WYSIWYG (visual), entre otras cosas. Puedes ocultar la barra de herramientas (antes conocida como barra de administración) de la parte pública (front end) de tu sitio, aunque no es posible desactivarlo para las pantallas de administración."
+msgstr "Puedes cambiar tu contraseña, activar los atajos de teclado, cambiar la paleta de colores de tus pantallas de administración, y desactivar el editor WYSIWYG (visual), entre otras cosas. Puedes ocultar la barra de herramientas (antes conocida como barra de administración) de la parte pública (front end) de tu sitio, aunque no es posible desactivarlo para las pantallas de administración."
 
 #: wp-admin/user-edit.php:47
 msgid "You can select the language you wish to use while using the ClassicPress administration screen without affecting the language site visitors see."
