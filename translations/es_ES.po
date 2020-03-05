@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 21:43\n"
+"PO-Revision-Date: 2020-03-05 21:54\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12231,7 +12231,7 @@ msgstr ""
 
 #: wp-admin/install.php:303
 msgid "ClassicPress &rsaquo; Installation"
-msgstr "Instalación de ClassicPress"
+msgstr "ClassicPress &rsaquo; Instalación"
 
 #: wp-admin/install.php:351 wp-admin/network/site-new.php:213
 #: wp-admin/options-general.php:61
@@ -12514,7 +12514,7 @@ msgstr "Editar medios"
 
 #: wp-admin/media.php:61
 msgid "You attempted to edit an attachment that doesn&#8217;t exist. Perhaps it was deleted?"
-msgstr "Estás intentando editar un adjunto que no existe. ¿Lo has borrado?"
+msgstr "Estás intentando editar un adjunto que no existe. ¿Acaso fue borrado?"
 
 #: wp-admin/media.php:62
 msgid "You attempted to edit an item that isn&#8217;t an attachment. Please go back and try again."
@@ -12872,7 +12872,7 @@ msgstr "Esta pantalla sirve para gestionar tus menús de navegación."
 #. themes
 #: wp-admin/nav-menus.php:522
 msgid "Menus can be displayed in locations defined by your theme, even used in sidebars by adding a &#8220;Navigation Menu&#8221; widget on the <a href=\"%1$s\">Widgets</a> screen. If your theme does not support the navigation menus feature (the default themes, %2$s and %3$s, do), you can learn about adding this support by following the Documentation link to the side."
-msgstr "Los menús se pueden mostrar en distintas ubicaciones definidas por tu tema, o incluso puedes usarlos añadiendo un widget de #8220;Menú personalizado&#8221; en la pantalla de <a href=\"%1$s\">Widgets</a>. Si tu tema no es compatible con la característica de menús personalizados (los temas por defecto %2$s y %3$s sí que no son) puedes aprender añadirlos usando el enlace a la Documentación."
+msgstr "Los menús se pueden mostrar en distintas ubicaciones definidas por tu tema, o incluso puedes usarlos añadiendo un widget de &#8220;Menú personalizado&#8221; en la pantalla de <a href=\"%1$s\">Widgets</a>. Si tu tema no es compatible con la característica de menús personalizados (los temas por defecto %2$s y %3$s sí que no son) puedes aprender añadirlos usando el enlace a la Documentación."
 
 #: wp-admin/nav-menus.php:523 wp-admin/themes.php:73
 msgid "From this screen you can:"
