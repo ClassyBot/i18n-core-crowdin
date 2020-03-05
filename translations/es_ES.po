@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 23:14\n"
+"PO-Revision-Date: 2020-03-05 23:24\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -26270,7 +26270,7 @@ msgstr "Acerca de"
 #: wp-includes/theme.php:2064
 msgctxt "Theme starter content"
 msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
-msgstr "Puedes ser un artista que quiere presentarse a sí mismo y a su trabajo o eres un negocio con una misión que describir."
+msgstr "Puedes ser un artista que quiere presentarse a sí mismo y a su trabajo aquí, o tal vez eres un negocio con una misión que describir."
 
 #: wp-includes/theme.php:2068
 msgctxt "Theme starter content"
@@ -26478,7 +26478,7 @@ msgstr ""
 
 #: wp-includes/user.php:2108
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
-msgstr "Truco: La contraseña debe ser de al menos doce caracteres. Para hacerla más fuerte usa mayúsculas y minúsculas, números y símbolos como ! \" ? $ % ^ y )."
+msgstr "Truco: La contraseña debe ser de al menos doce caracteres. Para hacerla más fuerte usa mayúsculas y minúsculas, números y símbolos como ! \" ? $ % ^ &amp; )."
 
 #: wp-includes/user.php:2172
 msgid "Password reset is not allowed for this user"
@@ -26502,7 +26502,7 @@ msgstr "<strong>ERROR</strong>: Por favor, escribe tu dirección de correo elect
 
 #: wp-includes/user.php:2411
 msgid "<strong>ERROR</strong>: Couldn&#8217;t register you&hellip; please contact the <a href=\"mailto:%s\">webmaster</a> !"
-msgstr "<strong>ERROR</strong>: No te has podido registrar&hellip; por favor, ¡ponte en contacto con el <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>ERROR</strong>: No te has podido registrar&hellip; por favor, ¡ponte en contacto con el <a href=\"mailto:%s\">webmaster</a>!"
 
 #: wp-includes/user.php:2645
 msgid "<strong>ERROR</strong>: The email address is already used."
@@ -26901,7 +26901,7 @@ msgstr "Widget de audio"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:43
 msgid "Looks like this isn&#8217;t the correct kind of file. Please link to an audio file instead."
-msgstr "No parece ser un tipo de archivo correcto. Por favor, enlaza a un archivo de audio."
+msgstr "Este archivo parece no ser de un tipo aceptable. Por favor, enlaza a un archivo de audio."
 
 #. translators: %s: audio extension
 #: wp-includes/widgets/class-wp-widget-media-audio.php:81
@@ -27083,7 +27083,7 @@ msgstr "URL al archivo de medios"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:29
 msgid "Login, RSS, &amp; ClassicPress.net links."
-msgstr "Acceder, RSS y enlaces de ClassicPress.com."
+msgstr "Acceder, RSS y enlaces de ClassicPress.net."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:59
 msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
@@ -27366,7 +27366,7 @@ msgstr "¿Estás seguro de que funciona el servidor de la base de datos?"
 #. translators: %s: support forums URL
 #: wp-includes/wp-db.php:1594 wp-includes/wp-db.php:1752
 msgid "If you&#8217;re unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress Support Forums</a>."
-msgstr "Si no estás seguro de qué significan estos términos deberías contactar con tu servidor. Si aún necesitas ayuda siempre puedes visitar los <a href=\"%s\">foros de soporte de ClassicPress</a>."
+msgstr "Si no estás seguro de qué significan estos términos deberías contactar con tu proveedor de alojamiento. Si aún necesitas ayuda siempre puedes visitar los <a href=\"%s\">foros de soporte de ClassicPress</a>."
 
 #: wp-includes/wp-db.php:1737
 msgid "Error reconnecting to the database"
@@ -27375,7 +27375,7 @@ msgstr "Error al volver a conectar con la base de datos"
 #. translators: %s: database host
 #: wp-includes/wp-db.php:1741
 msgid "This means that we lost contact with the database server at %s. This could mean your host&#8217;s database server is down."
-msgstr "Esto significa que hemos pedido el contacto con la base de datos del servidor en %s. Puede que esto signifique que el servidor donde está alojada tu base de datos se haya caído."
+msgstr "Esto significa que hemos perdido el contacto con la base de datos del servidor en %s. Puede que esto signifique que el servidor donde está alojada tu base de datos se haya caído."
 
 #: wp-includes/wp-db.php:1747
 msgid "Are you sure that the database server is not under particularly heavy load?"
@@ -27663,7 +27663,7 @@ msgstr "(Deben tener como mínimo 4 caracteres, solo letras y números.)"
 
 #: wp-signup.php:238
 msgid "Email&nbsp;Address:"
-msgstr "Dirección de correo electrónico:"
+msgstr "Dirección de correo&nbsp;electrónico:"
 
 #: wp-signup.php:242
 msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
