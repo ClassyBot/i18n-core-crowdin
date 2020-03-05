@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 21:23\n"
+"PO-Revision-Date: 2020-03-05 21:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -715,11 +715,11 @@ msgstr "Puedes personalizar la imagen de tu sitio sin tocar nada del código del
 
 #: wp-admin/custom-background.php:90
 msgid "To use a background image, simply upload it or choose an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
-msgstr "Para usar una imagen de fondo, simplemente súbela o selecciona una imagen que ya esté en la biblioteca multimedia apretando el botón \"Selecciona una imagen\". Puedes mostrar toda la imagen de una vez o recortarla para que se ajuste a tu pantalla. Puedes tener la imagen de fondo fija, es decir, que el contenido de tu sitio se mueva por encima de ella, o puedes hacer que se desplace con tu sitio."
+msgstr "Para usar una imagen de fondo, simplemente súbela o selecciona una imagen que ya esté en la biblioteca multimedia apretando el botón &#8220;Selecciona una imagen&#8221;. Puedes mostrar toda la imagen de una vez o recortarla para que se ajuste a tu pantalla. Puedes tener la imagen de fondo fija, es decir, que el contenido de tu sitio se mueva por encima de ella, o puedes hacer que se desplace con tu sitio."
 
 #: wp-admin/custom-background.php:91
 msgid "You can also choose a background color by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr "Puedes elegir un color de fondo haciendo click en el botón de selección del color o escribiendo un valor hexadecimal HTML válido. Por ejemplo &#8220;#ff0000&#8221 para rojo o utilizando el selector de color."
+msgstr "Puedes elegir un color de fondo haciendo click en el botón de selección del color o escribiendo un valor hexadecimal HTML válido. Por ejemplo &#8220;#ff0000&#8221; para rojo o utilizando el selector de color."
 
 #: wp-admin/custom-background.php:92
 msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
@@ -1032,7 +1032,7 @@ msgstr "Puedes elegir una imagen para que se muestre en la parte superior de tu 
 
 #: wp-admin/custom-header.php:522
 msgid "Images of exactly <strong>%1$d &times; %2$d pixels</strong> will be used as-is."
-msgstr "Las imágenes de exactamente <strong>%1$d x %2$d pixels</strong> se utilizarán tal cual."
+msgstr "Las imágenes de exactamente <strong>%1$d &times; %2$d pixels</strong> se utilizarán tal cual."
 
 #. translators: %s: size in pixels
 #: wp-admin/custom-header.php:527
@@ -1672,7 +1672,7 @@ msgstr "Esta pantalla te permite editar los cambios de los metadatos en un archi
 
 #: wp-admin/edit-form-advanced.php:417 wp-admin/media.php:76
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
-msgstr "(Solo para imágenes) Puedes hacer clic en editar imágenes, debajo de la miniatura, para obtener el menú de edición de imágenes y recortar, rotar o invertir la imagen, así como deshacer y rehacer. Las cajas de la derecha te dan más opciones para escalar y recortar la imagen; y para recortar la miniatura de forma diferente de la imagen original. Puedes hacer clic en la ayuda en esas cajas para obtener más información."
+msgstr "Solo para imágenes, puedes hacer clic en Editar imágenes, debajo de la miniatura, para desplegar un menú de edición de imágenes con íconos para recortar, rotar o invertir la imagen, y para deshacer y rehacer cambios. Las cajas de la derecha te dan más opciones para escalar y recortar la imagen; y para recortar la miniatura de forma diferente de la imagen original. Puedes hacer clic en Ayuda en esas cajas para obtener más información."
 
 #: wp-admin/edit-form-advanced.php:418 wp-admin/media.php:77
 msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
@@ -1749,7 +1749,7 @@ msgstr "<strong>Perdida la conexión.</strong> El guardado automático se ha des
 
 #: wp-admin/edit-form-advanced.php:507
 msgid "We&#8217;re backing up this post in your browser, just in case."
-msgstr "Hemos hecho copias de seguridad de esta entrada en tu navegador por si acaso."
+msgstr "Hemos hecho copias de seguridad de esta entrada en tu navegador, por si acaso."
 
 #: wp-admin/edit-form-advanced.php:571
 msgid "Enter title here"
@@ -1918,11 +1918,11 @@ msgstr "Avanzado"
 
 #: wp-admin/edit-link-form.php:58
 msgid "You can add or edit links on this screen by entering information in each of the boxes. Only the link&#8217;s web address and name (the text you want to display on your site as the link) are required fields."
-msgstr "Puede añadir o editar enlaces desde esta pantalla introduciendo la información en cada caja. Solo son necesarios el enlace a la web y el nombre (el texto que quieres mostrar en el enlace en tu sitio)."
+msgstr "Puedes añadir o editar enlaces desde esta pantalla introduciendo la información en cada caja. Solo son necesarios el enlace a la web y el nombre (el texto que quieres mostrar en el enlace en tu sitio)."
 
 #: wp-admin/edit-link-form.php:59
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you don&#8217;t use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
-msgstr "Las cajas para el nombre del enlace, dirección web y descripción tienen una posición fija. Las otras las puedes mover y colocar mediante arrastrar y soltar. Puedes esconder cajas que no quieras usar en la pestaña Opciones de pantalla o minimizar las cajas haciendo clic en la barra del título de la caja."
+msgstr "Las cajas para el nombre del enlace, dirección web y descripción tienen una posición fija. Puedes mover las otras arrastrando y soltando. También puedes esconder cajas que no quieras usar en la pestaña Opciones de pantalla, o minimizar las cajas haciendo clic en la barra del título de la caja."
 
 #: wp-admin/edit-link-form.php:60
 msgid "XFN stands for <a href=\"http://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. ClassicPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
@@ -3980,7 +3980,7 @@ msgstr "Edición rápida integrada de este comentario"
 #: wp-admin/includes/class-wp-posts-list-table.php:1244
 #: wp-admin/includes/class-wp-terms-list-table.php:443
 msgid "Quick&nbsp;Edit"
-msgstr "Edición rápida"
+msgstr "Edición&nbsp;rápida"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:595
 #: wp-admin/includes/dashboard.php:638
@@ -5441,7 +5441,7 @@ msgstr "No ha sido posible localizar el directorio de temas de ClassicPress."
 #. translators: %s: directory name
 #: wp-admin/includes/class-wp-upgrader.php:156
 msgid "Unable to locate needed folder (%s)."
-msgstr "No ha sido posible localizar la carpeta %s."
+msgstr "No ha sido posible localizar la carpeta requerida (%s)."
 
 #: wp-admin/includes/class-wp-upgrader.php:158
 msgid "Download failed."
@@ -8064,7 +8064,7 @@ msgstr "Formulario de búsqueda"
 
 #: wp-admin/includes/file.php:22
 msgid "404 Template"
-msgstr "Error 404 (página no encontrada)"
+msgstr "Planilla de error 404"
 
 #: wp-admin/includes/file.php:23
 msgid "Links Template"
@@ -9119,7 +9119,7 @@ msgstr "Audio, vídeo u otro tipo de archivo"
 
 #: wp-admin/includes/media.php:2588
 msgid "Link text, e.g. &#8220;Ransom Demands (PDF)&#8221;"
-msgstr "Texto del enlace, por ejemplo \"Peticiones de rescate (PDF)\""
+msgstr "Texto del enlace, por ejemplo &#8220;Peticiones de rescate (PDF)&#8221;"
 
 #: wp-admin/includes/media.php:2614
 msgid "Link Image To:"
@@ -19697,7 +19697,7 @@ msgstr "Recortar la miniatura a las dimensiones exactas"
 
 #: wp-includes/class-wp-xmlrpc-server.php:580
 msgid "Medium size image width"
-msgstr "Achura de la imagen de tamaño medio"
+msgstr "Anchura de la imagen de tamaño medio"
 
 #: wp-includes/class-wp-xmlrpc-server.php:585
 msgid "Medium size image height"
@@ -21242,7 +21242,7 @@ msgstr "No pasar %1$s etiquetas a %2$s."
 #. translators: 1: script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:230
 msgid "Do not deregister the %1$s script in the administration area. To target the front-end theme, use the %2$s hook."
-msgstr "No hagas deregister del script %1$s en el área de administración. Para enlazar al tema en portada utiliza el hook %2$s."
+msgstr "No deregistres el script %1$s en el área de administración. Para enlazar al tema en portada, utiliza el hook %2$s."
 
 #: wp-includes/general-template.php:212 wp-includes/general-template.php:220
 msgctxt "label"
@@ -21633,7 +21633,7 @@ msgstr "Este es el enlace corto."
 #. 3: Minimum required PHP version number
 #: wp-includes/load.php:131
 msgid "Your server is running PHP version %1$s but ClassicPress %2$s requires at least %3$s."
-msgstr "Tu servidor está ejecutando la versión %1$s de PHP, pero WordPess %2$s necesita, al menos, la versión %3$s."
+msgstr "Tu servidor está ejecutando la versión %1$s de PHP, pero ClassicPress %2$s necesita al menos la versión %3$s."
 
 #: wp-includes/load.php:140
 msgid "Your PHP installation appears to be missing the MySQL extension which is required by ClassicPress."
@@ -22633,7 +22633,7 @@ msgstr "Convierte emoticonos como :-) y :-P en gráficos en la pantalla."
 
 #: wp-includes/option.php:1908
 msgid "Default post category."
-msgstr "Categoria por defecto de entrada."
+msgstr "Categoría por defecto de entrada."
 
 #: wp-includes/option.php:1914
 msgid "Default post format."
@@ -23828,7 +23828,7 @@ msgstr "Limita la respuesta a comentarios publicados después de una fecha dada 
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1358
 msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
-msgstr "Limitar el conjunto de resultados a comentarios asignados a identificadores de usuario específicos. Requier autorización."
+msgstr "Limitar el conjunto de resultados a comentarios asignados a identificadores de usuario específicos. Requiere autorización."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1366
 msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
@@ -24229,7 +24229,7 @@ msgstr "Limitar el conjunto de resultados a las publicaciones asignadas a autore
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2290
 msgid "Ensure result set excludes posts assigned to specific authors."
-msgstr "Asegúra que el conjunto de resultados excluye las publicaciones asignadas a autores específicos."
+msgstr "Asegura que el conjunto de resultados excluye las publicaciones asignadas a autores específicos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2300
 msgid "Limit response to posts published before a given ISO8601 compliant date."
@@ -24325,7 +24325,7 @@ msgstr "Si la nube de términos debería mostrarse o no."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:317
 msgid "Types associated with the taxonomy."
-msgstr "Tipos asociados a la taxonomia."
+msgstr "Tipos asociados a la taxonomía."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:326
 msgid "REST base route for the taxonomy."
@@ -27301,7 +27301,7 @@ msgstr "¿Tiene el usuario %1$s permisos para usar la base de datos %2$s?"
 #. translators: %s: database name
 #: wp-includes/wp-db.php:1053
 msgid "On some systems the name of your database is prefixed with your username, so it would be like <code>username_%1$s</code>. Could that be the problem?"
-msgstr "En algunos sistemas el nombre de tu base de datos tiene el prefijo de tu nombre de usuario, por lo que sería algo como <code>nombreusuario_%1$s</code>. ¿Podría ser ese el problema?"
+msgstr "En algunos sistemas el nombre de tu base de datos tiene el prefijo de tu nombre de usuario, por lo que sería algo como <code>nombre_%1$s</code>. ¿Podría ser ese el problema?"
 
 #. translators: %s: support forums URL
 #: wp-includes/wp-db.php:1061
