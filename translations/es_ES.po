@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-04 22:33\n"
+"PO-Revision-Date: 2020-03-05 20:23\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1333,7 +1333,7 @@ msgstr "En la columna <strong>Comentario</strong>, al pasar el cursor sobre cual
 
 #: wp-admin/edit-comments.php:178
 msgid "In the <strong>In Response To</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If there are pending comments, a red notification circle with the number of pending comments is displayed. Clicking the notification circle will filter the comments screen to show only pending comments on that post."
-msgstr "En la columna <strong>En respuesta a</strong>  hay tres elementos. El texto es el nombre de la entrada que inspiró el comentario, y los enlaces al editor para esa entrada. El enlace de Ver entrada te lleva a esa entrada en tu sitio. La pequeña burbuja con números muestra la cantidad de comentarios aprobados que ha recibido esa entrada. Si la burbuja es gris has aprobado todos los comentarios de esa entrada. Si es azul hay comentarios pendientes. Haciendo clic en la burbuja filtrará la pantalla de comentarios para mostrar solo los comentarios de esa entrada."
+msgstr "En la columna <strong>En respuesta a</strong> hay tres elementos. El texto es el nombre de la entrada que inspiró el comentario, y los enlaces al editor para esa entrada. El enlace de Ver entrada te lleva a esa entrada en tu sitio. La pequeña burbuja con números muestra la cantidad de comentarios aprobados que ha recibido esa entrada. Si la burbuja es gris has aprobado todos los comentarios de esa entrada. Si es azul hay comentarios pendientes. Haciendo clic en la burbuja filtrará la pantalla de comentarios para mostrar solo los comentarios de esa entrada."
 
 #: wp-admin/edit-comments.php:179
 msgid "In the <strong>Submitted On</strong> column, the date and time the comment was left on your site appears. Clicking on the date/time link will take you to that comment on your live site."
@@ -1599,7 +1599,7 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:367
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr "El campo de título y el área de edición de la entrada son fijos, pero puedes recolocar el resto de cajas arrastrando y soltando. También puedes minimizarlas o expandirlas haciendo clic en la barra de título de cada caja. Usa la pestaña de Opciones de pantalla para desvelar más cajas (Extracto, Enviar trackbacks, campos personalizados, comenetarios, slug, autor) o elige una disposición a 1 o 2 columnas para esta pantalla. "
+msgstr "El campo de título y el área de edición de la entrada son fijos, pero puedes recolocar el resto de cajas arrastrando y soltando. También puedes minimizarlas o expandirlas haciendo clic en la barra de título de cada caja. Usa la pestaña de Opciones de pantalla para desvelar más cajas (Extracto, Enviar trackbacks, campos personalizados, comenetarios, slug, autor) o elige una disposición a 1 o 2 columnas para esta pantalla."
 
 #: wp-admin/edit-form-advanced.php:371
 msgid "Customizing This Display"
@@ -1639,7 +1639,7 @@ msgstr "Título y editor de entradas"
 
 #: wp-admin/edit-form-advanced.php:390
 msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
-msgstr "También puedes crear entradas con  <a href=\"%s\">el marcador Publicar esto</a>."
+msgstr "También puedes crear entradas con <a href=\"%s\">el marcador Publicar esto</a>."
 
 #: wp-admin/edit-form-advanced.php:392
 msgid "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\">Documentation on Writing and Editing Posts</a>"
@@ -1729,7 +1729,7 @@ msgstr "Ajustes de comentarios"
 
 #: wp-admin/edit-form-advanced.php:472
 msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
-msgstr "<strong>Superior</strong> &mdash; Puedes ordenar tus páginas en jerarquías. Por ejemplo, podrías tener una página &#8220;Acerca de&#8221;  que tenga como inferiores las páginas &#8220;Mi vida&#8221; y &#8220;Mi perro&#8221;. No hay limitaciones de hasta cuantos niveles puedes anidar páginas."
+msgstr "<strong>Superior</strong> &mdash; Puedes ordenar tus páginas en jerarquías. Por ejemplo, podrías tener una página &#8220;Acerca de&#8221; que tenga como inferiores las páginas &#8220;Mi vida&#8221; y &#8220;Mi perro&#8221;. No hay limitaciones de hasta cuantos niveles puedes anidar páginas."
 
 #: wp-admin/edit-form-advanced.php:473
 msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
@@ -2070,7 +2070,7 @@ msgstr "Lo siento, no tienes permisos para editar términos en esta taxonomía."
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:87
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:145
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr "Lo siento, no tienes permisos para gestionar términos en esta taxonomía. "
+msgstr "Lo siento, no tienes permisos para gestionar términos en esta taxonomía."
 
 #: wp-admin/edit-tags.php:76 wp-includes/class-wp-xmlrpc-server.php:1950
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
@@ -2100,7 +2100,7 @@ msgstr "Puedes crear grupos de enlaces utilizando las categorías de enlaces. Lo
 
 #: wp-admin/edit-tags.php:224
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there&#8217;s no relationship from one tag to another."
-msgstr "Puedes asignar palabras clave a tu entradas utilizando las <strong>etiquetas</strong>. A diferencia de las categorías, las etiquetas no tienen jerarquía, lo que significa que no hay relación  de una etiqueta con otra."
+msgstr "Puedes asignar palabras clave a tu entradas utilizando las <strong>etiquetas</strong>. A diferencia de las categorías, las etiquetas no tienen jerarquía, lo que significa que no hay relación de una etiqueta con otra."
 
 #: wp-admin/edit-tags.php:227
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
@@ -2184,7 +2184,7 @@ msgstr "Puedes elegir las etiquetas que quieras y convertirlas en categorías ut
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:131
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:134
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr "Lo siento, no tienes permisos para editar publicaciones en este tipo de contenido. "
+msgstr "Lo siento, no tienes permisos para editar publicaciones en este tipo de contenido."
 
 #: wp-admin/edit.php:106 wp-admin/post.php:221 wp-admin/upload.php:137
 msgid "Sorry, you are not allowed to move this item to the Trash."
@@ -2249,11 +2249,11 @@ msgstr "<strong>Editar</strong> te lleva a la pantalla de edición de esa entrad
 
 #: wp-admin/edit.php:213
 msgid "<strong>Quick Edit</strong> provides inline access to the metadata of your post, allowing you to update post details without leaving this screen."
-msgstr "<strong>Edición Rápida</strong> proporciona acceso en línea a los metadatos de tu artículo, permitiéndote actualizar detalles del artículo sin dejar la pantalla. "
+msgstr "<strong>Edición Rápida</strong> proporciona acceso en línea a los metadatos de tu artículo, permitiéndote actualizar detalles del artículo sin dejar la pantalla."
 
 #: wp-admin/edit.php:214
 msgid "<strong>Trash</strong> removes your post from this list and places it in the trash, from which you can permanently delete it."
-msgstr "<strong>Papelera</strong> elimina tu artículo de esta lista y lo añade a la papelera, donde puedes borrarlo permanentemente. "
+msgstr "<strong>Papelera</strong> elimina tu artículo de esta lista y lo añade a la papelera, donde puedes borrarlo permanentemente."
 
 #: wp-admin/edit.php:215
 msgid "<strong>Preview</strong> will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
@@ -2285,7 +2285,7 @@ msgstr "Gestionar páginas es muy parecido a gestionar entradas, y las pantallas
 
 #: wp-admin/edit.php:244
 msgid "You can also perform the same types of actions, including narrowing the list by using the filters, acting on a page using the action links that appear when you hover over a row, or using the Bulk Actions menu to edit the metadata for multiple pages at once."
-msgstr "Puedes realizar el mismo tipo de acciones, incluyendo disminuir la lista utilizando filtros, utilizar los enlaces de acción que aparecen al pasar sobre una fila, o utilizando el menú de Acciones en lote para editar los metadatos de varias páginas a la vez. "
+msgstr "Puedes realizar el mismo tipo de acciones, incluyendo disminuir la lista utilizando filtros, utilizar los enlaces de acción que aparecen al pasar sobre una fila, o utilizando el menú de Acciones en lote para editar los metadatos de varias páginas a la vez."
 
 #: wp-admin/edit.php:249
 msgid "<a href=\"https://codex.wordpress.org/Pages_Screen\">Documentation on Managing Pages</a>"
@@ -3102,7 +3102,7 @@ msgstr "Volver a la página de plugins"
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:49
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:70
 msgid "Return to ClassicPress Updates page"
-msgstr "Volver a  las actualizaciones de ClassicPress"
+msgstr "Volver a la página de actualizaciones de ClassicPress"
 
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:23
 msgid "Updating Theme %1$s (%2$d/%3$d)"
@@ -3126,7 +3126,7 @@ msgstr "Ocurrió un error al actualizar %1$s: %2$s"
 #. translators: 1: Title of an update
 #: wp-admin/includes/class-bulk-upgrader-skin.php:43
 msgid "The update of %1$s failed."
-msgstr "La actualización de  %1$s ha fallado."
+msgstr "La actualización de %1$s ha fallado."
 
 #. translators: 1: Title of an update
 #: wp-admin/includes/class-bulk-upgrader-skin.php:45
@@ -4125,7 +4125,7 @@ msgstr "Filtrar por categoría"
 
 #: wp-admin/includes/class-wp-links-list-table.php:129
 msgid "Relationship"
-msgstr "Relación con el enlace (XFN)"
+msgstr "Relación"
 
 #: wp-admin/includes/class-wp-links-list-table.php:130
 msgid "Visible"
@@ -17751,7 +17751,7 @@ msgstr "Ajuste de fondo no reconocido."
 
 #: wp-includes/class-wp-customize-manager.php:5628
 msgid "This video file is too large to use as a header video. Try a shorter video or optimize the compression settings and re-upload a file that is less than 8MB. Or, upload your video to YouTube and link it with the option below."
-msgstr "Este archivo de vídeo es demasiado grande para ser empleado como un vídeo de cabecera. Inténtalo con un vídeo más corto u optimiza los ajuste de compresión y vuelve a subir el archivo con menos de 8 MB  de peso. También puedes subir tu vídeo a YouTube y enlazarlo con la opción siguiente."
+msgstr "Este archivo de vídeo es demasiado grande para ser empleado como un vídeo de cabecera. Inténtalo con un vídeo más corto u optimiza los ajuste de compresión y vuelve a subir el archivo con menos de 8MB de peso. También puedes subir tu vídeo a YouTube y enlazarlo con la opción siguiente."
 
 #. translators: 1: .mp4, 2: .mov
 #: wp-includes/class-wp-customize-manager.php:5634
