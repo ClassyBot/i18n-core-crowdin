@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 21:54\n"
+"PO-Revision-Date: 2020-03-05 22:54\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14072,7 +14072,7 @@ msgstr "El panel de creación de la Red no es para redes de ClassicPress MU."
 #. translators: 1: WP_ALLOW_MULTISITE 2: wp-config.php
 #: wp-admin/network.php:44
 msgid "You must define the %1$s constant as true in your %2$s file to allow creation of a Network."
-msgstr "Debes establecer la constante %1$s como verdadero (true) en tu archivo %2$s para permitir la creación de una red."
+msgstr "Debes establecer la constante %1$s como true (verdadero) en tu archivo %2$s para permitir la creación de una red."
 
 #: wp-admin/network.php:55
 msgid "Create a Network of ClassicPress Sites"
@@ -14177,7 +14177,7 @@ msgstr "Mostrar la casilla de aceptación de cookies de comentarios."
 
 #: wp-admin/options-discussion.php:107
 msgid "Enable threaded (nested) comments %s levels deep"
-msgstr "Activar los comentarios anidados hasta %s niveles"
+msgstr "Activar los comentarios enhilados (anidados) hasta %s niveles"
 
 #: wp-admin/options-discussion.php:116
 msgid "last"
