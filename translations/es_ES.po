@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 20:53\n"
+"PO-Revision-Date: 2020-03-05 21:03\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3003,7 +3003,7 @@ msgstr "Se esperaba array de datos en el array de respuesta del exportador: %s."
 #. translators: %s: exporter friendly name
 #: wp-admin/includes/ajax-actions.php:4121
 msgid "Expected done (boolean) in response array from exporter: %s."
-msgstr "Se esperaba hecho (boleano) en el array de respuesta del exportador: %s."
+msgstr "Se esperaba hecho (booleano) en el array de respuesta del exportador: %s."
 
 #: wp-admin/includes/ajax-actions.php:4192
 msgid "Invalid email address in request."
@@ -3688,7 +3688,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-automatic-updater.php:694
 #: wp-admin/update-core.php:616
 msgid "Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers."
-msgstr "Mantener tu sitio actualizado es importante para la seguridad. También hace que internet sea un lugar más seguro para ti y tus lectores."
+msgstr "Mantener tu sitio actualizado es importante para la seguridad. También hace que el internet sea un lugar más seguro para ti y tus lectores."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:698
 msgid "If you reach out to us, we'll also ensure you'll never have this problem again."
@@ -3712,7 +3712,7 @@ msgstr "Tenemos algunos datos que describen el error que se ha producido en tu s
 
 #: wp-admin/includes/class-wp-automatic-updater.php:713
 msgid "Your hosting company, support forum volunteers, or a friendly developer may be able to use this information to help you:"
-msgstr "Su empresa de alojamiento, los voluntarios del foro, o un desarrollador pueden utilizar esta información para ayudarte:"
+msgstr "Tu proveedor de alojamiento, los voluntarios del foro, o un desarrollador pueden utilizar esta información para ayudarte:"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:726
 msgid "Error code: %s"
@@ -4054,7 +4054,7 @@ msgstr "Nombre de usuario y/o contraseña incorrecto/s para %s"
 
 #: wp-admin/includes/class-wp-filesystem-ssh2.php:58
 msgid "The ssh2 PHP extension is not available"
-msgstr "La extesión PHP de SSH2 no está disponible"
+msgstr "La extensión PHP de SSH2 no está disponible"
 
 #. translators: %s: stream_get_contents()
 #: wp-admin/includes/class-wp-filesystem-ssh2.php:66
@@ -4830,7 +4830,7 @@ msgstr "Instalar %s ahora"
 #: wp-admin/includes/theme.php:214 wp-admin/includes/update.php:409
 #: wp-admin/includes/update.php:554
 msgid "Update %s now"
-msgstr "Atualizar %s ahora"
+msgstr "Actualizar %s ahora"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:477
 #: wp-admin/update-core.php:51 wp-includes/script-loader.php:820
@@ -7843,7 +7843,7 @@ msgstr "Cargando&#8230;"
 
 #: wp-admin/includes/dashboard.php:974
 msgid "This widget requires JavaScript."
-msgstr "Este widget requiere Javascript."
+msgstr "Este widget requiere JavaScript."
 
 #: wp-admin/includes/dashboard.php:1060
 #: wp-includes/widgets/class-wp-widget-rss.php:72
@@ -7857,7 +7857,7 @@ msgstr ""
 
 #: wp-admin/includes/dashboard.php:1133
 msgid "ClassicPress Blog"
-msgstr "Blog oficial ClassicPress"
+msgstr "Blog oficial de ClassicPress"
 
 #: wp-admin/includes/dashboard.php:1187
 msgid "Storage Space"
@@ -8418,7 +8418,7 @@ msgstr "Clave privada:"
 
 #: wp-admin/includes/file.php:1754
 msgid "Enter the location on the server where the public and private keys are located. If a passphrase is needed, enter that in the password field above."
-msgstr "Introduce la ubicación del servidor de las claves públicas y privadas. Si fuese necesaria una contraseña introdúcela arriba, en el campo de contraseña."
+msgstr "Introduce la ubicación del servidor de las claves públicas y privadas. Si es necesaria una contraseña, introdúcela arriba en el campo de contraseña."
 
 #: wp-admin/includes/file.php:1767
 msgid "Proceed"
@@ -8732,7 +8732,7 @@ msgstr "Importa entradas, comentarios y usuarios de un blog de Blogger."
 
 #: wp-admin/includes/import.php:171 wp-admin/tools.php:26 wp-admin/tools.php:59
 msgid "Categories and Tags Converter"
-msgstr "Conversor de etiquetas y categorías"
+msgstr "Convertidor de etiquetas y categorías"
 
 #: wp-admin/includes/import.php:172
 msgid "Convert existing categories to tags or tags to categories, selectively."
@@ -9330,7 +9330,7 @@ msgstr ""
 
 #: wp-admin/includes/meta-boxes.php:641
 msgid "Already pinged:"
-msgstr "Pingbacks enviados:"
+msgstr "Pingbacks ya enviados:"
 
 #: wp-admin/includes/meta-boxes.php:651
 msgid "Send trackbacks to:"
@@ -9426,7 +9426,7 @@ msgstr "<code>_none</code> &mdash; misma ventana o pestaña."
 
 #: wp-admin/includes/meta-boxes.php:1054
 msgid "Choose the target frame for your link."
-msgstr "Ellige el marco de destino para tu enlace."
+msgstr "Elige el marco de destino para tu enlace."
 
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1102
@@ -10440,7 +10440,7 @@ msgstr "Añade lo siguiente a tu archivo %1$s en %2$s <strong>por encima de</str
 #. version>/dist/wp-config-sample.php
 #: wp-admin/includes/network.php:436
 msgid "That&#8217;s all, stop editing! Happy blogging."
-msgstr "¡Eso es todo, deja de editar! Feliz blogueo."
+msgstr "That&#8217;s all, stop editing! Happy blogging."
 
 #. translators: 1: wp-config.php
 #: wp-admin/includes/network.php:473
