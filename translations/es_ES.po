@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 21:03\n"
+"PO-Revision-Date: 2020-03-05 21:14\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -11780,10 +11780,10 @@ msgid "This is an example page. It's different from a blog post because it will 
 "<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>\n\n"
 "As a new ClassicPress user, you should go to <a href=\"%s\">your dashboard</a> to delete this page and create new pages for your content. Have fun!"
 msgstr "Esta es una página de ejemplo, Es diferente a una entrada de blog porque se mantiene estática y se mostrará en la barra de navegación (en la mayoría de temas). Casi todo el mundo comienza con una página Acerca de mí para presentarse a los potenciales visitantes. Podría ser algo así:\n\n"
-"<blockquote>¡Hola!: Soy mensajero por el día, aspirante a actor por la noche y esta es mi web. Vivo en Madrid, tengo perrazo llamado Juan y me encantan las piñas coladas (y que me pille un chaparrón)</blockquote>\n\n"
+"<blockquote>¡Hola!: Soy mensajero por el día, aspirante a actor por la noche y esta es mi web. Vivo en Madrid, tengo un gran perro llamado Juan y me encantan las pi&#241;as coladas (y que me pille un chaparrón.)</blockquote>\n\n"
 "… o algo así:\n\n"
-"<blockquote>La empresa Calcetines XYZ se fundó en 1971, y ha estado produciendo calcetines de calidad para sus clientes desde entonces. Ubicada en Gothan, la empresa XYZ tiene más de 2.000 empleados e intenta ayudar en lo que puede para mejorar la vida en Gothan</blockquote>\n\n"
-"Si eres nuevo en ClassicPress deberías ir a <a href=\"%s\">tu escritorio</a> para borrar esta página y crear algunas nuevas con tu contenido. ¡Pásalo bien!"
+"<blockquote>La empresa Calcetines XYZ se fundó en 1971, y ha estado produciendo calcetines de calidad para sus clientes desde entonces. Ubicada en Gothan, la empresa XYZ tiene más de 2.000 empleados e intenta ayudar en lo que puede para mejorar la vida en Gothan.</blockquote>\n\n"
+"Si eres nuevo en ClassicPress, deberías ir a <a href=\"%s\">tu escritorio</a> para borrar esta página y crear algunas nuevas con tus contenidos. ¡Pásalo bien!"
 
 #: wp-admin/includes/upgrade.php:242
 msgid "Sample Page"
@@ -12026,7 +12026,7 @@ msgstr "La descarga ha fallado."
 #: wp-admin/includes/user.php:1461 wp-admin/includes/user.php:1525
 #: wp-admin/includes/user.php:1568 wp-admin/includes/user.php:1575
 msgid "Retry"
-msgstr "Reintentar"
+msgstr "Intentar de nuevo"
 
 #: wp-admin/includes/user.php:1435 wp-admin/includes/user.php:1549
 msgid "Waiting for confirmation"
@@ -13185,11 +13185,11 @@ msgstr "Los ajustes de subida controlan el tamaño para la subida de archivos y 
 
 #: wp-admin/network/settings.php:53 wp-admin/options-general.php:33
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
-msgstr "Puedes configurar el idioma y los archivos de traducción serán descargados e instalados automáticamente (disponible si el sistema de archivos es escribible)."
+msgstr "Puedes configurar el idioma y los archivos de traducción serán descargados e instalados automáticamente (disponible si tienes permisos de escritura en el sistema de archivos)."
 
 #: wp-admin/network/settings.php:54
 msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
-msgstr "En ajustes de menú se activa o desactiva que aparezca o no el menú plugins para los usuarios que no son Super Admin. Es decir, solo los Super Admins, no los Admin, tienen acceso a los plugins."
+msgstr "En ajustes de menú se activa o desactiva que aparezca o no el menú plugins para los usuarios que no son Super Admin. Es decir, solo los Super Admin, no los Admin, tienen acceso a los plugins."
 
 #: wp-admin/network/settings.php:55
 msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."
@@ -13205,7 +13205,7 @@ msgstr "Ajustes operacionales"
 
 #: wp-admin/network/settings.php:136 wp-admin/options-general.php:98
 msgid "This address is used for admin purposes. If you change this we will send you an email at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr "Esta dirección está siendo utilizada con propósitos administrativos. Si la cambias se te enviará un correo electrónico a la nueva direccción para confirmarla. <strong>La nueva dirección no se activará hasta que no la hayas confirmado.</strong>"
+msgstr "Esta dirección está siendo utilizada con propósitos administrativos. Si la cambias se te enviará un correo electrónico a la nueva dirección para confirmarla. <strong>La nueva dirección no se activará hasta que no la hayas confirmado.</strong>"
 
 #. translators: %s: new network admin email
 #: wp-admin/network/settings.php:145
@@ -13667,7 +13667,7 @@ msgstr "Se te enviará un enlace por email para que puedas cambiar la contraseñ
 
 #: wp-admin/network/sites.php:28
 msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
-msgstr "Añadir nuevo te lleva a la pantalla de Añadir nuevo sitiio. Puedes buscar un sitio por nombre, número de ID o dirección IP. Las Opciones de pantalla te permiten elegir cuantos sitios mostrar por página."
+msgstr "Añadir nuevo te lleva a la pantalla de Añadir nuevo sitio. Puedes buscar un sitio por nombre, número de ID o dirección IP. Las Opciones de pantalla te permiten elegir cuantos sitios mostrar por página."
 
 #: wp-admin/network/sites.php:29
 msgid "This is the main table of all sites on this network. Switch between list and excerpt views by using the icons above the right side of the table."
@@ -13723,7 +13723,7 @@ msgstr "Estás a punto de desactivar el sitio %s."
 
 #: wp-admin/network/sites.php:61
 msgid "You are about to unarchive the site %s."
-msgstr "Estás a punto de desarchiva el sitio %s."
+msgstr "Estás a punto de desarchivar el sitio %s."
 
 #: wp-admin/network/sites.php:62
 msgid "You are about to archive the site %s."
@@ -14605,7 +14605,7 @@ msgstr "Cuando asignas varias categorías o etiquetas a una entrada solo se pued
 
 #: wp-admin/options-permalink.php:37
 msgid "Custom Structures"
-msgstr "Estruturas personalizadas"
+msgstr "Estructuras personalizadas"
 
 #: wp-admin/options-permalink.php:38
 msgid "The Optional fields let you customize the &#8220;category&#8221; and &#8220;tag&#8221; base names that will appear in archive URLs. For example, the page listing all posts in the &#8220;Uncategorized&#8221; category could be <code>/topics/uncategorized</code> instead of <code>/category/uncategorized</code>."
@@ -15007,7 +15007,7 @@ msgstr "Editar plugins"
 
 #: wp-admin/plugin-editor.php:120
 msgid "You can use the editor to make changes to any of your plugins&#8217; individual PHP files. Be aware that if you make changes, plugins updates will overwrite your customizations."
-msgstr "Puedes usar el editor para realizar cambios a cualquier archivo php de tus plugins. Cuidado si realizas cambios, la actualización de los plugins producirá que tus modificaciones sean sobrescritas y se pierdan."
+msgstr "Puedes usar el editor para realizar cambios a cualquier archivo PHP de tus plugins. Cuidado si realizas cambios, la actualización de los plugins producirá que tus modificaciones sean sobrescritas y se pierdan."
 
 #: wp-admin/plugin-editor.php:121
 msgid "Choose a plugin to edit from the dropdown menu and click the Select button. Click once on any file name to load it in the editor, and make your changes. Don&#8217;t forget to save your changes (Update File) when you&#8217;re finished."
@@ -15641,7 +15641,7 @@ msgstr "Editar temas"
 
 #: wp-admin/theme-editor.php:27
 msgid "You can use the Theme Editor to edit the individual CSS and PHP files which make up your theme."
-msgstr "Puedes usar el Editor de temas para editar de forma individual los archivos css y php que crean la apariencia de tu sitio."
+msgstr "Puedes usar el Editor de temas para editar de forma individual los archivos CSS y PHP que componen tu tema."
 
 #: wp-admin/theme-editor.php:28
 msgid "Begin by choosing a theme to edit from the dropdown menu and clicking the Select button. A list then appears of the theme&#8217;s template files. Clicking once on any file name causes the file to appear in the large Editor box."
@@ -15779,7 +15779,7 @@ msgstr ""
 #. translators: %s: /wp-content/themes
 #: wp-admin/theme-install.php:98
 msgid "You can Upload a theme manually if you have already downloaded its ZIP archive onto your computer (make sure it is from a trusted and original source). You can also do it the old-fashioned way and copy a downloaded theme&#8217;s folder via FTP into your %s directory."
-msgstr "Pudes subir manualmente un tema si ya has descargado su archivo ZIP en tu ordenador (asegúrate de que sea de una fuente fiable y original). También puedes hacerlo al viejo estilo y copiar un tema descargado a través de FTP en tu directorio %s."
+msgstr "Puedes subir manualmente un tema si ya has descargado su archivo ZIP en tu ordenador (asegúrate de que sea de una fuente fiable y original). También puedes hacerlo al viejo estilo y copiar un tema descargado a través de FTP en tu directorio %s."
 
 #: wp-admin/theme-install.php:109
 msgid "Once you have generated a list of themes, you can preview and install any of them. Click on the thumbnail of the theme you&#8217;re interested in previewing. It will open up in a full-screen Preview page to give you a better idea of how that theme will look."
