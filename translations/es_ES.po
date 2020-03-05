@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 23:04\n"
+"PO-Revision-Date: 2020-03-05 23:14\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -16756,7 +16756,7 @@ msgstr "Para añadir un usuario nuevo a tu sitio, rellena el formulario de esta 
 
 #: wp-admin/user-new.php:189
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
-msgstr "En una instalación multisitio puedes añadir cuentas que ya existen en la Red especificando el nombre de usuario o la contraseña con la que están registrados en la misma, y definiendo un rol. Para más opciones, como especificar una contraseña, debes ser Administrador de la Red y utilizar el enlace que aparece al pasar sobre los nombres de usuario. Puedes encontrar esta opción bajo Administración de Red > Todos los Usuarios."
+msgstr "En una instalación multisitio, como esta, puedes añadir cuentas que ya existen en la Red especificando el nombre de usuario o la dirección de correo electrónico con que están registrados en la Red, y definiendo un rol. Para más opciones, como especificar una contraseña, debes ser Administrador de la Red y utilizar el enlace de Editar perfil que aparece al pasar sobre los nombres de usuario. Puedes encontrar esta opción bajo Administración de Red > Todos los Usuarios."
 
 #: wp-admin/user-new.php:190
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. This email will also contain their password. Check the box if you don&#8217;t want the user to receive a welcome email."
@@ -20945,7 +20945,7 @@ msgstr "[nothing]"
 #: wp-includes/formatting.php:135
 msgctxt "Comma-separated list of replacement words in your language"
 msgid "&#8217;tain&#8217;t,&#8217;twere,&#8217;twas,&#8217;tis,&#8217;twill,&#8217;til,&#8217;bout,&#8217;nuff,&#8217;round,&#8217;cause,&#8217;em"
-msgstr "no es,aunque,estaba,esta es,podría,hasta,tal,suficiente,alrededor,porque,les"
+msgstr "[nothing]"
 
 #. translators: Time difference between two dates, in minutes (min=minute). 1:
 #. Number of minutes
@@ -25330,7 +25330,7 @@ msgstr "(Sin título)"
 
 #: wp-includes/script-loader.php:608
 msgid "Looks like something&#8217;s gone wrong. Wait a couple seconds, and then try again."
-msgstr "Parece que algo salió mal. Espera un par de segundos y vuelve a intentarlo."
+msgstr "Parece que algo salió mal. Espera unos segundos y vuelve a intentarlo."
 
 #: wp-includes/script-loader.php:609
 msgid "Downloading your new theme&hellip;"
