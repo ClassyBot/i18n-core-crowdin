@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 20:43\n"
+"PO-Revision-Date: 2020-03-05 20:53\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2170,11 +2170,11 @@ msgstr "Borrar una categoría no hará que se borren sus entradas. Las entradas 
 
 #: wp-admin/edit-tags.php:555
 msgid "Categories can be selectively converted to tags using the <a href=\"%s\">category to tag converter</a>."
-msgstr "Las categorías se pueden convertir a voluntad en etiquetas usando el <a href=\"%s\">conversor de categorías a etiquetas</a>."
+msgstr "Las categorías se pueden convertir a voluntad en etiquetas usando el <a href=\"%s\">convertidor de categorías a etiquetas</a>."
 
 #: wp-admin/edit-tags.php:560
 msgid "Tags can be selectively converted to categories using the <a href=\"%s\">tag to category converter</a>."
-msgstr "Puedes elegir las etiquetas que quieras y convertirlas en categorías utilizando el <a href=\"%s\">conversor de etiquetas a categorías</a>."
+msgstr "Puedes elegir las etiquetas que quieras y convertirlas en categorías utilizando el <a href=\"%s\">convertidor de etiquetas a categorías</a>."
 
 #: wp-admin/edit.php:16 wp-admin/edit.php:40 wp-admin/post.php:119
 #: wp-includes/class-wp-xmlrpc-server.php:1867
@@ -2843,7 +2843,7 @@ msgstr "Lo siento, no tienes permisos para para instalar temas en este sitio."
 #: wp-admin/includes/ajax-actions.php:3781
 #: wp-admin/includes/ajax-actions.php:3846
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr "No ha sido posibe conectar con el sistema de archivos. Por favor, confirma tus credenciales."
+msgstr "No ha sido posible conectar con el sistema de archivos. Por favor, confirma tus credenciales."
 
 #: wp-admin/includes/ajax-actions.php:3456 wp-admin/update.php:172
 #: wp-admin/update.php:192
@@ -12104,7 +12104,7 @@ msgstr "El menú de navegación de la izquierda proporciona enlaces a todas las 
 
 #: wp-admin/index.php:46
 msgid "Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful ClassicPress information."
-msgstr "Los enlaces de la barra de herramientas de la parte superior de la pantalla conectan tu escritorio y tu sitio, y proporcionan acceso a tu perfil e información valiosa de ClassicPress. "
+msgstr "Los enlaces de la barra de herramientas de la parte superior de la pantalla conectan tu escritorio y tu sitio, y proporcionan acceso a tu perfil e información valiosa de ClassicPress."
 
 #: wp-admin/index.php:50
 msgid "Navigation"
@@ -20054,7 +20054,7 @@ msgstr "Formato de entrada no válido."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5367
 msgid "Sorry, you are not allowed to change the post author as this user."
-msgstr "Lo siento, no tienes permisos con este usuario para cambiar el autor de la entrada. "
+msgstr "Lo siento, no tienes permisos para cambiar el autor de la entrada como este usuario."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5372
 msgid "Sorry, you are not allowed to change the page author as this user."
@@ -20413,12 +20413,12 @@ msgstr "Haz clic en &#8220;Añadir nueva imagen&#8221; para subir un archivo de 
 #. translators: %s: header width in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:182
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header width of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Haz clic en &#8220;A&ntilde; nueva imagen&#8221; para subir un archivo de imagen desde tu ordenador. Tu tema funciona mejor con una imagen cuyo ancho de cabecera sea de %s píxeles &#8212; podr&aacute;s recortar la imagen cuando la hayas subido para un mejor ajuste. "
+msgstr "Haz clic en &#8220;Añadir nueva imagen&#8221; para subir un archivo de imagen desde tu ordenador. Tu tema funciona mejor con una imagen cuyo ancho de cabecera sea de %s píxeles &#8212; podrás recortar la imagen cuando la hayas subido para un mejor ajuste."
 
 #. translators: %s: header height in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:187
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header height of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Haz clic en &#8220;Añadir nueva imagen&#8221; para subir un archivo de imagen desde tu ordenador. Tu tema funciona mejor con una imagen cuya altura de cabecera sea de %s píxeles &#8212; podr&aacute;s recortar la imagen cuando la hayas subido para un mejor ajuste. "
+msgstr "Haz clic en &#8220;Añadir nueva imagen&#8221; para subir un archivo de imagen desde tu ordenador. Tu tema funciona mejor con una imagen cuya altura de cabecera sea de %s píxeles &#8212; podrás recortar la imagen cuando la hayas subido para un mejor ajuste."
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:196
 msgid "Current header"
@@ -21645,7 +21645,7 @@ msgstr "Mantenimiento"
 
 #: wp-includes/load.php:222
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
-msgstr "No disponible por mantenimiento programado.  Vuelve a comprobar el sitio en unos minutos."
+msgstr "No disponible por mantenimiento programado. Vuelve a comprobar el sitio en unos minutos."
 
 #. translators: 1: $table_prefix 2: wp-config.php
 #: wp-includes/load.php:442
@@ -21730,7 +21730,7 @@ msgstr "Subido por"
 
 #: wp-includes/media-template.php:417
 msgid "Uploaded To"
-msgstr "Subido a "
+msgstr "Subido a"
 
 #: wp-includes/media-template.php:429
 msgid "View attachment page"
@@ -22766,7 +22766,7 @@ msgstr "Un nuevo trackback en la entrada \"%s\" espera tu aprobación"
 
 #: wp-includes/pluggable.php:1640
 msgid "Trackback excerpt: "
-msgstr "Extracto del trackback:"
+msgstr "Extracto del trackback: "
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1644
@@ -22775,7 +22775,7 @@ msgstr "Un nuevo pingback en la entrada \"%s\" está esperando tu aprobación"
 
 #: wp-includes/pluggable.php:1650
 msgid "Pingback excerpt: "
-msgstr "Extracto del pingback:"
+msgstr "Extracto del pingback: "
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1654
@@ -23491,7 +23491,7 @@ msgstr "Parámetro(s) que falta(n): %s"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:861
 msgid "Invalid parameter."
-msgstr "Parámetro no válido. "
+msgstr "Parámetro no válido."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:264
 msgid "The REST API can no longer be completely disabled, the rest_authentication_errors filter can be used to restrict access to the API, instead."
@@ -24233,7 +24233,7 @@ msgstr "Asegúra que el conjunto de resultados excluye las publicaciones asignad
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2300
 msgid "Limit response to posts published before a given ISO8601 compliant date."
-msgstr "Limita la respuesta a entradas publicadas antes de  una fecha dada compatible con ISO9601."
+msgstr "Limita la respuesta a entradas publicadas antes de una fecha dada compatible con ISO9601."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2325
 msgid "Limit result set to posts with a specific menu_order value."
@@ -24494,7 +24494,7 @@ msgstr "El rol %s no existe."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1101
 msgid "Username contains invalid characters."
-msgstr "El nombre de usuario contiene caracteres no válidos. "
+msgstr "El nombre de usuario contiene caracteres no válidos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1130
 msgid "Passwords cannot be empty."
@@ -24850,7 +24850,7 @@ msgstr "Ha habido un error en la subida. Por favor inténtalo más tarde."
 
 #: wp-includes/script-loader.php:331
 msgid "There was a configuration error. Please contact the server administrator."
-msgstr "Ha habido un problema con la configuración. Por favor, contacta con el  administrador del servidor."
+msgstr "Ha habido un problema con la configuración. Por favor, contacta con el administrador del servidor."
 
 #: wp-includes/script-loader.php:332
 msgid "You may only upload 1 file."
@@ -25373,7 +25373,7 @@ msgstr "Archivos permitidos"
 #: wp-includes/widgets/class-wp-widget-custom-html.php:219
 msgid "There is %d error which must be fixed before you can save."
 msgid_plural "There are %d errors which must be fixed before you can save."
-msgstr[0] "Hay un error %d  que tienes que arreglar antes de guardar."
+msgstr[0] "Hay %d error que tienes que arreglar antes de guardar."
 msgstr[1] "Hay %d errores que tienes que arreglar antes de guardar."
 
 #: wp-includes/script-loader.php:626
@@ -25515,7 +25515,7 @@ msgstr "¿Estás seguro de querer instalar este plugin?"
 
 #: wp-includes/script-loader.php:815
 msgid "Please select at least one item to perform this action on."
-msgstr "Por favor, elige al menos un elemento en el que  llevar a cabo esta acción."
+msgstr "Por favor, elige al menos un elemento en el que llevar a cabo esta acción."
 
 #: wp-includes/script-loader.php:816
 msgid "Updating..."
@@ -27614,7 +27614,7 @@ msgstr ""
 #. translators: %s: the message ID
 #: wp-mail.php:246
 msgid "Mission complete. Message %s deleted."
-msgstr "Misión completa. El mensaje %s ha sido borrado. "
+msgstr "Misión completa. El mensaje %s ha sido borrado."
 
 #: wp-signup.php:108
 msgid "Site Name:"
