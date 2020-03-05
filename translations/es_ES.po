@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 20:33\n"
+"PO-Revision-Date: 2020-03-05 20:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -13065,7 +13065,7 @@ msgstr "Dónde se verá"
 #: wp-admin/nav-menus.php:822
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
-msgstr "(Actualmente como: %s) "
+msgstr "(Actualmente como: %s)"
 
 #: wp-admin/nav-menus.php:840 wp-includes/class-wp-customize-nav-menus.php:960
 msgid "Delete Menu"
@@ -13891,7 +13891,7 @@ msgstr "Si el administrador de la red desactiva un tema que está en uso, podrá
 
 #: wp-admin/network/themes.php:224
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
-msgstr "Los temas puede activarlos el administrador de la red sitio a sitio en la pantalla de Editar sitio (que tiene una pestaña Temas); puedes llegar ahí desde el enlace de acción Editar de la pantalla Todos los sitios. Solo los administradores de red pueden instalar o editar temas. "
+msgstr "Los temas puede activarlos el administrador de la red sitio a sitio en la pantalla de Editar sitio (que tiene una pestaña Temas); puedes llegar ahí desde el enlace de acción Editar de la pantalla Todos los sitios. Solo los administradores de red pueden instalar o editar temas."
 
 #: wp-admin/network/themes.php:229
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
@@ -14024,7 +14024,7 @@ msgstr "Puedes ordenar la tabla haciendo clic en cualquiera de los encabezados d
 
 #: wp-admin/network/users.php:173
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
-msgstr "La acción en lote borrará permanentemente los usuarios seleccionados, o marca/desmarca los seleccionados como spam. Se borrarán las entradas de los usuarios spam y no podrán acceder de nuevo con la misma dirección de correo electrónico. "
+msgstr "La acción en lote borrará permanentemente los usuarios seleccionados, o marca/desmarca los seleccionados como spam. Se borrarán las entradas de los usuarios spam y no podrán acceder de nuevo con la misma dirección de correo electrónico."
 
 #: wp-admin/network/users.php:174
 msgid "You can make an existing user an additional super admin by going to the Edit User profile page and checking the box to grant that privilege."
@@ -14207,7 +14207,7 @@ msgstr "Los comentarios se mostrarán con los comentarios %s al principio de cad
 
 #: wp-admin/options-discussion.php:141 wp-admin/options-discussion.php:142
 msgid "Email me whenever"
-msgstr "Enviarme un correo electrónico cuando "
+msgstr "Enviarme un correo electrónico cuando"
 
 #: wp-admin/options-discussion.php:145
 msgid "Anyone posts a comment"
@@ -14731,7 +14731,7 @@ msgstr "%s (Slug de la categoría. Las subcategorías anidadas aparecen como dir
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:236
 msgid "%s (A sanitized version of the author name.)"
-msgstr "%s  (una versión saneada del nombre del autor.)"
+msgstr "%s (una versión saneada del nombre del autor.)"
 
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:249
@@ -14783,7 +14783,7 @@ msgstr "Si temporalmente tienes que hacer el archivo %s editable para que podamo
 #. translators: 1: Codex URL, 2: web.config, 3: CTRL + a
 #: wp-admin/options-permalink.php:330
 msgid "If the root directory of your site was <a href=\"%1$s\">writable</a>, we could do this automatically, but it isn&#8217;t so this is the url rewrite rule you should have in your %2$s file. Create a new file, called %2$s in the root directory of your site. Click in the field and press %3$s to select all. Then insert this code into the %2$s file."
-msgstr "Si el directorio raíz de tu sitio tuviese <a href=\"%1$s\">permisos de escritura</a> podríamos hacerlo automáticamente, pro no los tiene así que esta es la regla de reescritura que deberías tener en tu archivo%2$s. Crea un nuevo archivo llamado  %2$s en el directorio raíz de tu sitio. Haz clic en el siguiente campo y teclea %3$s para seleccionarlas todas. Luego inserta este código en el archivo %2$s."
+msgstr "Si el directorio raíz de tu sitio tuviese <a href=\"%1$s\">permisos de escritura</a> podríamos hacer esto automáticamente, pero no los tiene, así que esta es la regla de reescritura que deberías tener en tu archivo %2$s. Crea un nuevo archivo llamado %2$s en el directorio raíz de tu sitio. Haz clic en el siguiente campo y teclea %3$s para seleccionarlo todo. Luego inserta este código en el archivo %2$s."
 
 #. translators: %s: web.config
 #: wp-admin/options-permalink.php:343
@@ -15787,11 +15787,11 @@ msgstr "Una vez que hayas generado una lista de temas puedes previsualizar e ins
 
 #: wp-admin/theme-install.php:110
 msgid "To install the theme so you can preview it with your site&#8217;s content and customize its theme options, click the \"Install\" button at the top of the left-hand pane. The theme files will be downloaded to your website automatically. When this is complete, the theme is now available for activation, which you can do by clicking the \"Activate\" link, or by navigating to your Manage Themes screen and clicking the \"Live Preview\" link under any installed theme&#8217;s thumbnail image."
-msgstr "Para instalar el tema puedes previsualizarlo con el contenido de tu sitio y personalizar las opciones del tema haz clc en el botón \"Instalar\" de la parte superior izquierda del panel. Los archivos del tema se descargarán automáticamente en tu sitio. Cuando se complete el tema estará listo para activarlo haciendo clic en el enlace \"Activar\", o navegar a la pantalla de Administrar temas y hacer clic en el enlace de \"Vista previa\" debajo de la miniatura de cada tema instalado. "
+msgstr "Para instalar el tema para poder previsualizarlo con el contenido de tu sitio y personalizar las opciones del tema, haz clic en el botón \"Instalar\" de la parte superior del panel izquierdo. Los archivos del tema se descargarán automáticamente en tu sitio. Cuando la descarga se complete, el tema estará listo para activarlo, haciendo clic en el enlace \"Activar\", o navegando a la pantalla de Administrar temas y haciendo clic en el enlace de \"Vista previa\" debajo de la miniatura de cada tema instalado."
 
 #: wp-admin/theme-install.php:114
 msgid "Previewing and Installing"
-msgstr "Previsualizando  e instalando"
+msgstr "Previsualizando e instalando"
 
 #: wp-admin/theme-install.php:120
 msgid "<a href=\"https://codex.wordpress.org/Using_Themes#Adding_New_Themes\">Documentation on Adding New Themes</a>"
@@ -16203,7 +16203,7 @@ msgstr "Actualizaciones de ClassicPress"
 
 #: wp-admin/update-core.php:615
 msgid "On this screen, you can update to the latest version of ClassicPress, as well as update your themes, plugins, and translations from the ClassicPress.net repositories."
-msgstr "En esta pantalla puedes actualizar a la última versión de ClassicPress, así como actualizar tus temas, plugins y traducciones desde los repositorios de ClassicPress.net. "
+msgstr "En esta pantalla puedes actualizar a la última versión de ClassicPress, así como actualizar tus temas, plugins y traducciones desde los repositorios de ClassicPress.net."
 
 #: wp-admin/update-core.php:616
 msgid "If an update is available, you&#8127;ll see a notification appear in the Toolbar and navigation menu."
@@ -16370,7 +16370,7 @@ msgstr "Puedes ordenar la lista por tipo/estado de archivo o por fecha usando lo
 
 #: wp-admin/upload.php:201
 msgid "Hovering over a row reveals action links: Edit, Delete Permanently, and View. Clicking Edit or on the media file&#8217;s name displays a simple screen to edit that individual file&#8217;s metadata. Clicking Delete Permanently will delete the file from the media library (as well as from any posts to which it is currently attached). View will take you to the display page for that file."
-msgstr "Pasar sobre una fila revela los enlaces de acción: Editar, Borrar permanentemente y Ver. Haciendo clic en Editar o en los nombres de los archivos multimedia se mostrará una pantalla simple para editar los metadatos de ese archivo. Haciendo clic en Borrar permanentemente se borrará el archivo de la biblioteca multimedia, así como de todos los artículos en los que estuviera adjuntada. Ver te llevará a la página de visualización de ese archivo. "
+msgstr "Pasar sobre una fila revela los enlaces de acción: Editar, Borrar permanentemente y Ver. Hacer clic en Editar o en los nombres de los archivos multimedia se mostrará una pantalla simple para editar los metadatos de ese archivo. Hacer clic en Borrar permanentemente se borrará el archivo de la biblioteca multimedia (y también de todos los artículos en los que estuviera adjuntada). Ver te llevará a la página de visualización de ese archivo."
 
 #: wp-admin/upload.php:205
 msgid "Attaching Files"
@@ -16378,7 +16378,7 @@ msgstr "Adjuntando archivos"
 
 #: wp-admin/upload.php:207
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
-msgstr "Si un archivo no se ha adjuntado a ningún contenido podrás verlo en la columna de Adjunto a. Puedes hacer clic en Adjuntar a para lanzar un pequeño emergente que te permitirá buscar contenido existente al que adjuntar el archivo. "
+msgstr "Si un archivo no se ha adjuntado a ningún contenido, podrás ver eso en la columna de Adjunto a. Puedes hacer clic en Adjuntar a para lanzar un pequeño emergente que te permitirá buscar contenido existente al que adjuntar el archivo."
 
 #: wp-admin/upload.php:217
 msgid "Filter media items list"
@@ -16677,7 +16677,7 @@ msgstr "Cancelar el cambio de contraseña"
 
 #: wp-admin/user-edit.php:592
 msgid "Repeat New Password"
-msgstr "Confirmar Nueva Contraseña "
+msgstr "Confirmar Nueva Contraseña"
 
 #: wp-admin/user-edit.php:595
 msgid "Type your new password again."
@@ -17098,7 +17098,7 @@ msgstr "Estás viendo este mensaje porque el tema que estás usando actualmente 
 
 #: wp-admin/widgets.php:97
 msgid "Inactive Sidebar (not used)"
-msgstr "Barra lateral inactiva (no utilizada) "
+msgstr "Barra lateral inactiva (no utilizada)"
 
 #: wp-admin/widgets.php:100
 msgid "This sidebar is no longer available and does not show anywhere on your site. Remove each of the widgets below to fully remove this inactive sidebar."
@@ -17366,7 +17366,7 @@ msgstr "Nuevo título de página"
 
 #: wp-includes/class-wp-customize-control.php:633
 msgid "New page title&hellip;"
-msgstr "Título de la nueva página&hellip; "
+msgstr "Título de la nueva página&hellip;"
 
 #: wp-includes/class-wp-customize-manager.php:525
 msgid "Invalid changeset UUID"
@@ -17891,7 +17891,7 @@ msgstr "Cerrar el modo reordenar"
 
 #: wp-includes/class-wp-customize-nav-menus.php:573
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
-msgstr "Este panel se usa para gestionar los menús de navegación de los contenidos que ya has publicado en tu sitio. Puedes crear menús y añadir elementos del contenido existente, como páginas, entradas, categorías, etiquetas, formatos, o enlaces personalizados. "
+msgstr "Este panel se usa para gestionar los menús de navegación de los contenidos que ya has publicado en tu sitio. Puedes crear menús y añadir elementos del contenido existente, como páginas, entradas, categorías, etiquetas, formatos, o enlaces personalizados."
 
 #. translators: URL to the widgets panel of the customizer
 #: wp-includes/class-wp-customize-nav-menus.php:576
@@ -18989,7 +18989,7 @@ msgstr "Para mover el foco a otros botones utiliza Tab o las teclas de flecha. P
 
 #: wp-includes/class-wp-editor.php:1283
 msgid "When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo."
-msgstr "Cuando empiezas un párrafo nuevo con uno de estos atajos de formato, seguidos por un espacio, el formato se aplica automáticamente. Pulsa la tecla Retroceso o Escape para deshacer. "
+msgstr "Cuando empiezas un párrafo nuevo con uno de estos atajos de formato, seguidos por un espacio, el formato se aplica automáticamente. Pulsa la tecla Retroceso o Escape para deshacer."
 
 #: wp-includes/class-wp-editor.php:1285
 msgid "The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo."
@@ -19898,7 +19898,7 @@ msgstr "Lo siento, no tienes permisos para asignar este término."
 #: wp-includes/class-wp-xmlrpc-server.php:2275
 #: wp-includes/class-wp-xmlrpc-server.php:2370
 msgid "Sorry, you are not allowed to assign terms in this taxonomy."
-msgstr "Lo siento, no tienes permisos para asignar términos a esta taxonomía. "
+msgstr "Lo siento, no tienes permisos para asignar términos a esta taxonomía."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2574
 msgid "Invalid role."
@@ -19942,7 +19942,7 @@ msgstr "Lo siento, la creación de la nueva categoría falló."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3217
 msgid "Sorry, you are not allowed to delete this category."
-msgstr "Lo siento, no tienes permisos para borrar esta categoría. "
+msgstr "Lo siento, no tienes permisos para borrar esta categoría."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3265
 #: wp-includes/class-wp-xmlrpc-server.php:5848
@@ -19996,20 +19996,20 @@ msgstr "Se requiere un correo electrónico válido."
 #: wp-includes/class-wp-xmlrpc-server.php:3881
 #: wp-includes/class-wp-xmlrpc-server.php:4119
 msgid "Sorry, you are not allowed access to details about this site."
-msgstr "Lo siento, no tienes permisos para acceder a los detalles de este sitio. "
+msgstr "Lo siento, no tienes permisos para acceder a los detalles de este sitio."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3777
 msgid "Sorry, you are not allowed access to details of this post."
-msgstr "Lo siento, no tienes permisos para acceder a los detalles de esta entrada. "
+msgstr "Lo siento, no tienes permisos para acceder a los detalles de esta entrada."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3975
 msgid "Sorry, you are not allowed to update options."
-msgstr "Lo siento, no tienes permisos para modificar las opciones. "
+msgstr "Lo siento, no tienes permisos para modificar las opciones."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4327
 #: wp-includes/class-wp-xmlrpc-server.php:4397
 msgid "Sorry, revisions are disabled."
-msgstr "Lo sentimos, las revisiones están desactivadas."
+msgstr "Lo siento, las revisiones están desactivadas."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4520
 msgid "Sorry, you are not allowed to access user data on this site."
@@ -20031,7 +20031,7 @@ msgstr "Lo siento, no existe esa entrada."
 #: wp-includes/class-wp-xmlrpc-server.php:5481
 #: wp-includes/class-wp-xmlrpc-server.php:6291
 msgid "Sorry, you are not allowed to publish this post."
-msgstr "Lo siento, no tienes permisos para publicar esta entrada. "
+msgstr "Lo siento, no tienes permisos para publicar esta entrada."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4811
 msgid "For some strange yet very annoying reason, this post could not be edited."
