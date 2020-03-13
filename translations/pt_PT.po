@@ -13,11 +13,11 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2020-03-13 18:12\n"
+"PO-Revision-Date: 2020-03-13 22:01\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr ""
+msgstr "Foi detectada uma discrepância no valor duma chave. Por favor, siga a ligação fornecida no seu email de activação."
 
 #: wp-activate.php:30 wp-activate.php:165
 msgid "An error occurred during the activation"
