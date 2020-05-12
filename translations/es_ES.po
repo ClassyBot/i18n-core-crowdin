@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-File: /master/en_US.pot\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-03-05 23:33\n"
+"PO-Revision-Date: 2020-05-12 10:03\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20953,7 +20953,7 @@ msgstr "[nothing]"
 msgid "%s min"
 msgid_plural "%s mins"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "%s min"
 
 #. translators: Time difference between two dates, in hours. 1: Number of hours
 #: wp-includes/formatting.php:3250
@@ -23404,7 +23404,7 @@ msgstr "Administrar audio"
 msgid "Audio <span class=\"count\">(%s)</span>"
 msgid_plural "Audio <span class=\"count\">(%s)</span>"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Audios <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
