@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: es\n"
 "X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File-ID: 3\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2020-05-12 10:03\n"
+"PO-Revision-Date: 2021-07-29 19:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20953,7 +20955,7 @@ msgstr "[nothing]"
 msgid "%s min"
 msgid_plural "%s mins"
 msgstr[0] ""
-msgstr[1] "%s min"
+msgstr[1] ""
 
 #. translators: Time difference between two dates, in hours. 1: Number of hours
 #: wp-includes/formatting.php:3250
@@ -23404,7 +23406,7 @@ msgstr "Administrar audio"
 msgid "Audio <span class=\"count\">(%s)</span>"
 msgid_plural "Audio <span class=\"count\">(%s)</span>"
 msgstr[0] ""
-msgstr[1] "Audios <span class=\"count\">(%s)</span>"
+msgstr[1] ""
 
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
