@@ -15,23 +15,23 @@ msgstr ""
 "X-Crowdin-File-ID: 3\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-11-12 05:01\n"
+"PO-Revision-Date: 2021-11-12 14:42\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr ""
+msgstr "Ketidakcocokan nilai kunci telah terdeteksi. Silikan mengikuti tautan yang disediakan di email anda."
 
 #: wp-activate.php:30 wp-activate.php:165
 msgid "An error occurred during the activation"
-msgstr ""
+msgstr "Terjadi galat selama proses aktivasi"
 
 #: wp-activate.php:125
 msgid "Activation Key Required"
-msgstr ""
+msgstr "Kunci Aktivasi Diperlukan"
 
 #: wp-activate.php:128
 msgid "Activation Key:"
-msgstr ""
+msgstr "Kunci Aktivasi:"
 
 #: wp-activate.php:132 wp-admin/includes/class-theme-installer-skin.php:76
 #: wp-admin/includes/class-theme-upgrader-skin.php:67
@@ -77,7 +77,7 @@ msgstr ""
 #. translators: 1: login URL, 2: network home URL
 #: wp-activate.php:193
 msgid "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the <a href=\"%2$s\">homepage</a>."
-msgstr ""
+msgstr "Akun Anda telah diaktifkan. <a href=\"%1$s\">Masuk log</a> atau kembali ke <a href=\"%2$s\">laman beranda</a>."
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -88,7 +88,7 @@ msgstr ""
 #: wp-admin/about.php:20 wp-admin/credits.php:18 wp-admin/freedoms.php:21
 #: wp-admin/includes/dashboard.php:1349
 msgid "Welcome to ClassicPress!"
-msgstr ""
+msgstr "Selamat Datang di ClassicPress!"
 
 #. translators: %s: Plugin version
 #: wp-admin/about.php:23 wp-admin/credits.php:21 wp-admin/freedoms.php:24
@@ -111,7 +111,7 @@ msgstr ""
 
 #: wp-admin/about.php:38 wp-admin/credits.php:37 wp-admin/freedoms.php:40
 msgid "What&#8217;s New"
-msgstr ""
+msgstr "Apa yang Baru"
 
 #: wp-admin/about.php:39 wp-admin/credits.php:12 wp-admin/credits.php:38
 #: wp-admin/freedoms.php:41
@@ -125,7 +125,7 @@ msgstr ""
 
 #: wp-admin/about.php:41 wp-admin/credits.php:40 wp-admin/freedoms.php:43
 msgid "Privacy"
-msgstr ""
+msgstr "Privasi"
 
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
@@ -134,7 +134,7 @@ msgstr ""
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
-msgstr ""
+msgstr "Perkenalan ClassicPress"
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
@@ -152,7 +152,7 @@ msgstr ""
 #. to community forums
 #: wp-admin/about.php:72
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Slack group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "Untuk diskusi umum tentang ClassicPress, <a href=\"%1$s\"><strong>mari bergabung di grup Slack</strong></a> atau <a href=\"%2$s\"><strong>bergabung di forum komunitas</strong></a>."
 
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80
@@ -173,7 +173,7 @@ msgstr ""
 
 #: wp-admin/about.php:101
 msgid "WordPress Maintenance and Security Releases"
-msgstr ""
+msgstr "Rilis Pemeliharaan dan Keamanan"
 
 #: wp-admin/about.php:103
 msgid "ClassicPress currently includes all changes from the following versions of WordPress:"
@@ -190,7 +190,7 @@ msgstr ""
 #: wp-admin/about.php:224 wp-admin/about.php:242 wp-admin/about.php:260
 #: wp-admin/about.php:299
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
-msgstr ""
+msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:120 wp-admin/about.php:159 wp-admin/about.php:195
@@ -208,27 +208,27 @@ msgstr[0] ""
 
 #: wp-admin/about.php:272
 msgid "Maintenance Release"
-msgstr ""
+msgstr "Rilis Perawatan"
 
 #: wp-admin/about.php:273
 msgid "Maintenance Releases"
-msgstr ""
+msgstr "Rilis Pemeliharaan"
 
 #: wp-admin/about.php:275
 msgid "Security Release"
-msgstr ""
+msgstr "Rilis Perbaikan Keamanan"
 
 #: wp-admin/about.php:276
 msgid "Security Releases"
-msgstr ""
+msgstr "Rilis Keamanan"
 
 #: wp-admin/about.php:278
 msgid "Maintenance and Security Release"
-msgstr ""
+msgstr "Rilis Perawatan dan Perbaikan Keamanan"
 
 #: wp-admin/about.php:279
 msgid "Maintenance and Security Releases"
-msgstr ""
+msgstr "Rilis Pemeliharaan dan Keamanan"
 
 #. translators: %s: ClassicPress version number
 #: wp-admin/about.php:282
@@ -262,7 +262,7 @@ msgstr[0] ""
 
 #: wp-admin/admin-footer.php:34
 msgid "Thank you for creating with <a href=\"%s\">ClassicPress</a>."
-msgstr ""
+msgstr "Terimakasih telah mencipta dengan <a href=\"%s\">ClassicPress</a>."
 
 #. translators: Network admin screen title. 1: Network name
 #. translators: %s: site name
@@ -279,7 +279,7 @@ msgstr ""
 #. translators: Admin screen title. 1: Admin screen name
 #: wp-admin/admin-header.php:47
 msgid "%1$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &#8212; ClassicPress"
 
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site
 #. name
@@ -287,11 +287,11 @@ msgstr ""
 #. name
 #: wp-admin/admin-header.php:50 wp-login.php:62
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #: wp-admin/admin-header.php:230
 msgid "Main content"
-msgstr ""
+msgstr "Konten utama"
 
 #. translators: default date format, see https://secure.php.net/date
 #. translators: localized date format, see https://secure.php.net/date
@@ -304,7 +304,7 @@ msgstr ""
 #: wp-admin/options-general.php:299 wp-admin/update-core.php:671
 #: wp-includes/class-wp-locale.php:383 wp-includes/media.php:3112
 msgid "F j, Y"
-msgstr ""
+msgstr "j F Y"
 
 #. translators: default time format, see https://secure.php.net/date
 #. translators: localized time format, see https://secure.php.net/date
@@ -322,7 +322,7 @@ msgstr ""
 
 #: wp-admin/admin.php:227
 msgid "Invalid plugin page."
-msgstr ""
+msgstr "Laman plugin tak valid."
 
 #: wp-admin/admin.php:231
 msgid "Cannot load %s."
@@ -330,7 +330,7 @@ msgstr ""
 
 #: wp-admin/admin.php:264 wp-admin/import.php:15
 msgid "Sorry, you are not allowed to import content."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengimpor konten."
 
 #: wp-admin/admin.php:288 wp-admin/import.php:18 wp-admin/menu.php:245
 msgid "Import"
@@ -342,7 +342,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:4075
 #: wp-includes/class-wp-xmlrpc-server.php:5912
 msgid "Sorry, you are not allowed to upload files."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengunggah berkas."
 
 #: wp-admin/async-upload.php:45 wp-admin/edit.php:13 wp-admin/edit.php:35
 #: wp-admin/post-new.php:24 wp-admin/post.php:116 wp-admin/post.php:218
@@ -383,7 +383,7 @@ msgstr ""
 
 #: wp-admin/async-upload.php:85 wp-includes/script-loader.php:345
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr ""
+msgstr "&#8220;%s&#8221; gagal diunggah."
 
 #: wp-admin/comment.php:39 wp-admin/edit-form-comment.php:16
 #: wp-admin/includes/template.php:406
@@ -421,7 +421,7 @@ msgstr ""
 
 #: wp-admin/comment.php:46
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
-msgstr ""
+msgstr "Anda juga dapat memoderasi komentar dari layar ini dengan menggunakan kotak Status, di mana anda juga dapat mengubah waktu dari komentar."
 
 #: wp-admin/comment.php:50 wp-admin/custom-background.php:96
 #: wp-admin/custom-header.php:122 wp-admin/edit-comments.php:184
@@ -496,11 +496,11 @@ msgstr ""
 
 #: wp-admin/comment.php:67
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
-msgstr ""
+msgstr "Komentar ini berada di Tong Sampah. Silakan pindahkan keluar dari Tong Sampah jika Anda ingin menyuntingnya."
 
 #: wp-admin/comment.php:80
 msgid "Moderate Comment"
-msgstr ""
+msgstr "Memoderasi Komentar"
 
 #: wp-admin/comment.php:114
 msgid "You are about to mark the following comment as spam:"
@@ -685,7 +685,7 @@ msgstr ""
 #: wp-admin/comment.php:257 wp-admin/edit-comments.php:237
 #: wp-admin/includes/comment.php:49
 msgid "Sorry, you are not allowed to edit comments on this post."
-msgstr ""
+msgstr "Maaf, Anda tak diijinkan menyunting komentar pada pos ini."
 
 #: wp-admin/comment.php:329
 msgid "Unknown action."
@@ -1937,7 +1937,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-links-list-table.php:126
 msgctxt "link name"
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: wp-admin/edit-link-form.php:103
 msgid "Example: Nifty blogging software"
@@ -1994,7 +1994,7 @@ msgstr ""
 #: wp-includes/media-template.php:1086 wp-includes/media-template.php:1175
 #: wp-includes/script-loader.php:412
 msgid "None"
-msgstr ""
+msgstr "Tak ada"
 
 #: wp-admin/edit-tag-form.php:167 wp-admin/edit-tags.php:442
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
@@ -2731,7 +2731,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:1426
 #: wp-includes/customize/class-wp-customize-date-time-control.php:127
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: wp-admin/includes/ajax-actions.php:1789 wp-admin/includes/revision.php:52
 #: wp-admin/includes/revision.php:54 wp-admin/includes/template.php:1599
@@ -3507,7 +3507,7 @@ msgstr ""
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:201
 msgid "Move"
-msgstr ""
+msgstr "Pindahkan"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:202
 msgid "Up one"
@@ -4310,7 +4310,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:283
 msgctxt "column name"
 msgid "File"
-msgstr ""
+msgstr "Berkas"
 
 #. translators: column name
 #: wp-admin/includes/class-wp-media-list-table.php:313
@@ -4421,7 +4421,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-users-list-table.php:428
 #: wp-admin/includes/dashboard.php:647
 msgid "View"
-msgstr ""
+msgstr "Tampil"
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4440,7 +4440,7 @@ msgstr ""
 #: wp-admin/network/site-info.php:174
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:41
 #: wp-admin/network/site-info.php:175
@@ -4705,7 +4705,7 @@ msgstr ""
 #: wp-admin/includes/template.php:421 wp-admin/user-edit.php:366
 #: wp-includes/comment-template.php:2200
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:171
 msgctxt "user"
@@ -5452,7 +5452,7 @@ msgstr ""
 #: wp-admin/user-edit.php:375 wp-admin/user-new.php:356
 #: wp-admin/user-new.php:488
 msgid "Role"
-msgstr ""
+msgstr "Peranan"
 
 #. translators: %s: author's display name
 #: wp-admin/includes/class-wp-users-list-table.php:427
@@ -5467,7 +5467,7 @@ msgstr[0] ""
 #: wp-admin/includes/class-wp-users-list-table.php:570
 msgctxt "no user roles"
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -5579,7 +5579,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:39
 msgid "Juba"
-msgstr ""
+msgstr "Juba"
 
 #: wp-admin/includes/continents-cities.php:40
 msgid "Kampala"
@@ -5607,7 +5607,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:46
 msgid "Lome"
-msgstr ""
+msgstr "Lome"
 
 #: wp-admin/includes/continents-cities.php:47
 msgid "Luanda"
@@ -5695,7 +5695,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:69
 msgid "Adak"
-msgstr ""
+msgstr "Adak"
 
 #: wp-admin/includes/continents-cities.php:70
 msgid "Anchorage"
@@ -5788,7 +5788,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:91
 msgid "Atka"
-msgstr ""
+msgstr "Atka"
 
 #: wp-admin/includes/continents-cities.php:92
 msgid "Bahia"
@@ -5989,7 +5989,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:144
 msgid "Knox"
-msgstr ""
+msgstr "Knox"
 
 #: wp-admin/includes/continents-cities.php:145
 msgid "Marengo"
@@ -6058,7 +6058,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:163
 msgid "Lima"
-msgstr ""
+msgstr "Lima"
 
 #: wp-admin/includes/continents-cities.php:164
 msgid "Los Angeles"
@@ -6150,7 +6150,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:188
 msgid "Nome"
-msgstr ""
+msgstr "Nome"
 
 #: wp-admin/includes/continents-cities.php:189
 msgid "Noronha"
@@ -6410,11 +6410,11 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:257
 msgid "Asia"
-msgstr ""
+msgstr "Asia"
 
 #: wp-admin/includes/continents-cities.php:258
 msgid "Aden"
-msgstr ""
+msgstr "Aden"
 
 #: wp-admin/includes/continents-cities.php:259
 msgid "Almaty"
@@ -6458,7 +6458,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:269
 msgid "Baku"
-msgstr ""
+msgstr "Baku"
 
 #: wp-admin/includes/continents-cities.php:270
 msgid "Bangkok"
@@ -6518,7 +6518,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:284
 msgid "Dili"
-msgstr ""
+msgstr "Dili"
 
 #: wp-admin/includes/continents-cities.php:285
 msgid "Dubai"
@@ -6534,7 +6534,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:288
 msgid "Gaza"
-msgstr ""
+msgstr "Gaza"
 
 #: wp-admin/includes/continents-cities.php:289
 msgid "Harbin"
@@ -6554,7 +6554,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:293
 msgid "Hovd"
-msgstr ""
+msgstr "Hovd"
 
 #: wp-admin/includes/continents-cities.php:294
 msgid "Irkutsk"
@@ -6664,11 +6664,11 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:320
 msgid "Omsk"
-msgstr ""
+msgstr "Omsk"
 
 #: wp-admin/includes/continents-cities.php:321
 msgid "Oral"
-msgstr ""
+msgstr "Oral"
 
 #: wp-admin/includes/continents-cities.php:322
 msgid "Phnom Penh"
@@ -6948,7 +6948,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:393
 msgid "West"
-msgstr ""
+msgstr "Barat"
 
 #: wp-admin/includes/continents-cities.php:394
 msgid "Yancowinna"
@@ -7076,7 +7076,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:426
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 #: wp-admin/includes/continents-cities.php:427
 msgid "Greenwich"
@@ -7097,7 +7097,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:431
 msgid "Zulu"
-msgstr ""
+msgstr "Zulu"
 
 #: wp-admin/includes/continents-cities.php:433
 msgid "Europe"
@@ -7189,7 +7189,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:456
 msgid "Kiev"
-msgstr ""
+msgstr "Kiev"
 
 #: wp-admin/includes/continents-cities.php:457
 msgid "Kirov"
@@ -7237,7 +7237,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:469
 msgid "Oslo"
-msgstr ""
+msgstr "Oslo"
 
 #: wp-admin/includes/continents-cities.php:470
 msgid "Paris"
@@ -7253,11 +7253,11 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:473
 msgid "Riga"
-msgstr ""
+msgstr "Riga"
 
 #: wp-admin/includes/continents-cities.php:474
 msgid "Rome"
-msgstr ""
+msgstr "Roma"
 
 #: wp-admin/includes/continents-cities.php:475
 msgid "Samara"
@@ -7377,7 +7377,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:505
 msgid "Mahe"
-msgstr ""
+msgstr "Mahe"
 
 #: wp-admin/includes/continents-cities.php:506
 msgid "Maldives"
@@ -7401,7 +7401,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:512
 msgid "Apia"
-msgstr ""
+msgstr "Apia"
 
 #: wp-admin/includes/continents-cities.php:513
 msgid "Auckland"
@@ -7437,7 +7437,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:521
 msgid "Fiji"
-msgstr ""
+msgstr "Fiji"
 
 #: wp-admin/includes/continents-cities.php:522
 msgid "Funafuti"
@@ -7457,7 +7457,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:526
 msgid "Guam"
-msgstr ""
+msgstr "Guam"
 
 #: wp-admin/includes/continents-cities.php:527
 msgid "Honolulu"
@@ -7497,7 +7497,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:536
 msgid "Niue"
-msgstr ""
+msgstr "Niue"
 
 #: wp-admin/includes/continents-cities.php:537
 msgid "Norfolk"
@@ -7557,11 +7557,11 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:551
 msgid "Truk"
-msgstr ""
+msgstr "Truk"
 
 #: wp-admin/includes/continents-cities.php:552
 msgid "Wake"
-msgstr ""
+msgstr "Wake"
 
 #: wp-admin/includes/continents-cities.php:553
 msgid "Wallis"
@@ -7762,7 +7762,7 @@ msgstr ""
 #. https://secure.php.net/date
 #: wp-admin/includes/dashboard.php:856
 msgid "M jS"
-msgstr ""
+msgstr "M jS"
 
 #. translators: 1: relative date, 2: time
 #: wp-admin/includes/dashboard.php:866
@@ -8293,7 +8293,7 @@ msgstr ""
 
 #: wp-admin/includes/file.php:1660
 msgid "SSH2"
-msgstr ""
+msgstr "SSH2"
 
 #: wp-admin/includes/file.php:1686
 msgid "Connection Information"
@@ -8594,7 +8594,7 @@ msgstr ""
 
 #: wp-admin/includes/image-edit.php:185
 msgid "Crop"
-msgstr ""
+msgstr "Pangkas"
 
 #: wp-admin/includes/image-edit.php:191
 msgid "Rotate counter-clockwise"
@@ -8823,7 +8823,7 @@ msgstr ""
 #: wp-includes/media-template.php:759 wp-includes/media-template.php:934
 #: wp-includes/widgets/class-wp-widget-media-image.php:64
 msgid "Size"
-msgstr ""
+msgstr "Ukuran"
 
 #: wp-admin/includes/media.php:1085 wp-admin/includes/media.php:1242
 msgid "File URL"
@@ -8881,7 +8881,7 @@ msgstr ""
 #: wp-admin/install.php:382 wp-admin/user-edit.php:582
 #: wp-admin/user-new.php:455 wp-includes/script-loader.php:544
 msgid "Hide"
-msgstr ""
+msgstr "Sembunyikan"
 
 #: wp-admin/includes/media.php:1457 wp-admin/includes/media.php:2739
 #: wp-includes/media-template.php:330 wp-includes/media-template.php:528
@@ -9260,7 +9260,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:553
 #: wp-includes/class-wp-customize-control.php:628
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:623
@@ -9374,7 +9374,7 @@ msgstr ""
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1102
 msgid "rel:"
-msgstr ""
+msgstr "rel:"
 
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1106 wp-admin/includes/meta-boxes.php:1107
@@ -9409,7 +9409,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:1126 wp-admin/includes/meta-boxes.php:1159
 #: wp-admin/includes/meta-boxes.php:1182
 msgid "none"
-msgstr ""
+msgstr "tidak ada"
 
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1131 wp-admin/includes/meta-boxes.php:1132
@@ -9489,7 +9489,7 @@ msgstr ""
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1190
 msgid "muse"
-msgstr ""
+msgstr "inspirasi"
 
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1193
@@ -9499,7 +9499,7 @@ msgstr ""
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1196
 msgid "date"
-msgstr ""
+msgstr "tanggal"
 
 #. translators: xfn: http://gmpg.org/xfn/
 #: wp-admin/includes/meta-boxes.php:1199
@@ -9607,7 +9607,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:4195
 #: wp-includes/class-wp-editor.php:1043
 msgid "Copy"
-msgstr ""
+msgstr "Salin"
 
 #: wp-admin/includes/misc.php:1693
 msgid "&uarr; Return to Top"
@@ -9919,7 +9919,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-panel.php:70
 #: wp-includes/media.php:3502
 msgid "Back"
-msgstr ""
+msgstr "Kembali"
 
 #: wp-admin/includes/ms.php:288
 msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
@@ -10049,7 +10049,7 @@ msgstr ""
 
 #: wp-admin/includes/ms.php:919
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: wp-admin/includes/ms.php:921 wp-admin/menu.php:161
 #: wp-admin/network/menu.php:50 wp-admin/network/themes.php:239
@@ -10119,7 +10119,7 @@ msgstr ""
 
 #: wp-admin/includes/nav-menu.php:363 wp-admin/includes/nav-menu.php:651
 msgid "Page"
-msgstr ""
+msgstr "Laman"
 
 #: wp-admin/includes/nav-menu.php:398
 msgid "Most Recent"
@@ -10571,7 +10571,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:538
 msgctxt "Plugin installer section title"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: wp-admin/includes/plugin-install.php:539
 msgctxt "Plugin installer section title"
@@ -10882,7 +10882,7 @@ msgstr ""
 #: wp-admin/includes/revision.php:329
 msgctxt "Button label for a next revision"
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 #: wp-admin/includes/revision.php:343
 msgid "Compare any two revisions"
@@ -10896,7 +10896,7 @@ msgstr ""
 #: wp-admin/includes/revision.php:354
 msgctxt "Followed by post revision info"
 msgid "To:"
-msgstr ""
+msgstr "Ke:"
 
 #: wp-admin/includes/revision.php:360
 msgid "Autosave by %s"
@@ -11081,7 +11081,7 @@ msgstr ""
 #: wp-admin/includes/template.php:644
 msgctxt "meta name"
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: wp-admin/includes/template.php:505 wp-admin/includes/template.php:520
 #: wp-admin/includes/template.php:584 wp-admin/includes/template.php:645
@@ -11118,18 +11118,18 @@ msgstr ""
 #: wp-admin/includes/template.php:740
 #: wp-includes/customize/class-wp-customize-date-time-control.php:146
 msgid "Day"
-msgstr ""
+msgstr "Hari"
 
 #: wp-admin/includes/template.php:741
 #: wp-includes/customize/class-wp-customize-date-time-control.php:151
 #: wp-includes/media.php:2182
 msgid "Year"
-msgstr ""
+msgstr "Tahun"
 
 #: wp-admin/includes/template.php:742
 #: wp-includes/customize/class-wp-customize-date-time-control.php:162
 msgid "Hour"
-msgstr ""
+msgstr "Jam"
 
 #: wp-admin/includes/template.php:743
 #: wp-includes/customize/class-wp-customize-date-time-control.php:167
@@ -11219,7 +11219,7 @@ msgstr ""
 #: wp-admin/includes/template.php:1856
 #: wp-includes/class-wp-customize-manager.php:4923
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-admin/includes/template.php:2008 wp-admin/nav-menus.php:659
 #: wp-admin/options.php:355
@@ -11363,7 +11363,7 @@ msgstr ""
 
 #: wp-admin/includes/theme.php:238
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-admin/includes/theme.php:239
 msgid "E-Commerce"
@@ -15398,7 +15398,7 @@ msgstr ""
 
 #: wp-admin/privacy.php:236
 msgid "Or:"
-msgstr ""
+msgstr "Atau:"
 
 #: wp-admin/privacy.php:238
 msgid "There are no pages."
