@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 3\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-11-12 14:42\n"
+"PO-Revision-Date: 2021-11-12 15:42\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19136,12 +19136,12 @@ msgstr ""
 #. translators: month name
 #: wp-includes/class-wp-locale.php:161 wp-includes/class-wp-locale.php:189
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:162 wp-includes/class-wp-locale.php:190
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:163 wp-includes/class-wp-locale.php:191
@@ -19208,7 +19208,7 @@ msgstr ""
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
@@ -19446,7 +19446,7 @@ msgstr ""
 
 #: wp-includes/class-wp-theme.php:780
 msgid "Blue"
-msgstr ""
+msgstr "Biru"
 
 #: wp-includes/class-wp-theme.php:780
 msgid "Brown"
@@ -19454,7 +19454,7 @@ msgstr ""
 
 #: wp-includes/class-wp-theme.php:781
 msgid "Gray"
-msgstr ""
+msgstr "Abu-Abu"
 
 #: wp-includes/class-wp-theme.php:781
 msgid "Green"
@@ -19466,7 +19466,7 @@ msgstr ""
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Pink"
-msgstr ""
+msgstr "Merah Muda"
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Purple"
@@ -19494,7 +19494,7 @@ msgstr ""
 
 #: wp-includes/class-wp-theme.php:784
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 #: wp-includes/class-wp-theme.php:784
 msgid "Light"
@@ -20259,7 +20259,7 @@ msgstr ""
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:160
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:170
 msgid "Meridian"
@@ -21396,7 +21396,7 @@ msgstr ""
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr ""
+msgstr "Biru"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21492,7 +21492,7 @@ msgstr ""
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr ""
+msgstr "Berikutnya"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -21782,7 +21782,7 @@ msgstr ""
 #: wp-includes/media-template.php:1084 wp-includes/media-template.php:1173
 msgctxt "auto preload"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 #: wp-includes/media-template.php:1092 wp-includes/media-template.php:1181
 msgid "Autoplay"
@@ -21792,7 +21792,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-audio.php:70
 #: wp-includes/widgets/class-wp-widget-media-video.php:72
 msgid "Loop"
-msgstr ""
+msgstr "Pengulangan"
 
 #: wp-includes/media-template.php:1134 wp-includes/media-template.php:1146
 msgid "Remove video source"
@@ -22721,7 +22721,7 @@ msgstr ""
 #: wp-includes/post-formats.php:92
 msgctxt "Post format"
 msgid "Chat"
-msgstr ""
+msgstr "Ngobrol"
 
 #: wp-includes/post-formats.php:93
 msgctxt "Post format"
@@ -22731,7 +22731,7 @@ msgstr ""
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
 msgid "Link"
-msgstr ""
+msgstr "Tautan"
 
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
@@ -22824,12 +22824,12 @@ msgstr ""
 #: wp-includes/post.php:23
 msgctxt "add new from admin bar"
 msgid "Post"
-msgstr ""
+msgstr "Postingan"
 
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
 msgid "Page"
-msgstr ""
+msgstr "Laman"
 
 #: wp-includes/post.php:64
 msgctxt "post type general name"
@@ -23055,12 +23055,12 @@ msgstr ""
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
 msgid "Post"
-msgstr ""
+msgstr "Postingan"
 
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
 msgid "Page"
-msgstr ""
+msgstr "Laman"
 
 #: wp-includes/post.php:1446
 msgctxt "post"
@@ -24783,7 +24783,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:404 wp-includes/theme.php:1396
 msgid "Play"
-msgstr ""
+msgstr "Mainkan"
 
 #: wp-includes/script-loader.php:405 wp-includes/theme.php:1395
 msgid "Pause"
@@ -24827,7 +24827,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:416
 msgid "Mute"
-msgstr ""
+msgstr "Senyap"
 
 #: wp-includes/script-loader.php:417
 msgid "Volume Slider"
@@ -24859,7 +24859,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:423
 msgid "Stop"
-msgstr ""
+msgstr "Berhenti"
 
 #: wp-includes/script-loader.php:424
 msgid "Speed Rate"
@@ -25063,7 +25063,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:475
 msgid "Thai"
-msgstr ""
+msgstr "Bahasa Thai"
 
 #: wp-includes/script-loader.php:476
 msgid "Turkish"
@@ -25108,7 +25108,7 @@ msgstr ""
 #: wp-includes/script-loader.php:533
 msgctxt "password strength"
 msgid "Weak"
-msgstr ""
+msgstr "Lemah"
 
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
@@ -25688,7 +25688,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
 msgid "Tags"
-msgstr ""
+msgstr "Tagar"
 
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
@@ -25941,7 +25941,7 @@ msgstr ""
 
 #: wp-includes/theme-compat/sidebar.php:56
 msgid "F, Y"
-msgstr ""
+msgstr "F Y"
 
 #. translators: 1: site link, 2: archive year
 #: wp-includes/theme-compat/sidebar.php:62
@@ -25962,7 +25962,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-meta.php:32
 #: wp-includes/widgets/class-wp-widget-meta.php:45
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: wp-includes/theme.php:1397
 msgid "Video is paused."
@@ -26035,7 +26035,7 @@ msgstr ""
 #: wp-includes/theme.php:1970
 msgctxt "Theme starter content"
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
