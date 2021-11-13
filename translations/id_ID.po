@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 3\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2021-11-12 15:42\n"
+"PO-Revision-Date: 2021-11-13 06:27\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -103,7 +103,7 @@ msgstr ""
 #. translators: link to "business-focused CMS" article
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr ""
+msgstr "Terima kasih telah menggunakan ClassicPress, <a href=\"%s\">CMS yang fokus pada bisnis</a>."
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
@@ -130,7 +130,7 @@ msgstr "Privasi"
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Bantulah kami menerjemahkan ClassicPress ke bahasa anda! <a href=\"%s\">Pelajari lebih lanjut</a>."
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
@@ -138,7 +138,7 @@ msgstr "Perkenalan ClassicPress"
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "ClassicPress adalah garpu dari WordPress versi 4.9, termasuk didalamnya antar muka editor klasik berbasis TinyMCE yang telah terbukti keandalannya."
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
@@ -157,19 +157,19 @@ msgstr "Untuk diskusi umum tentang ClassicPress, <a href=\"%1$s\"><strong>mari b
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80
 msgid "Suggestions for improvements to future versions of ClassicPress are welcome at <a href=\"%s\"><strong>our petitions site</strong></a>."
-msgstr ""
+msgstr "Kami mengundang anda untuk memberikan saran bagi pengembangan ClassicPress selanjutnya, kunjungi <a href=\"%s\"><strong>situs petisi kami</strong></a>."
 
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress
 #. support forum
 #: wp-admin/about.php:87
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Jika anda membutuhkan bantuan tentang hal lain, mohon kunjungi <a href=\"%1$s\"><strong>laman FAQ kami</strong></a>. Jika pertanyaan anda belum terjawab disana, anda bisa membuka Pos baru di <a href=\"%2$s\"><strong>forum bantuan</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub
 #. issues list
 #: wp-admin/about.php:95
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%1$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr ""
+msgstr "ClassicPress dikembangkan <a href=\"%1$s\"><strong>di GitHub</strong></a>. Untuk melaporkan bug dan saran teknis, kunjungi the <a href=\"%1$s\"><strong>daftar kendala</strong></a> dan tambahkan laporan anda bila belum ada."
 
 #: wp-admin/about.php:101
 msgid "WordPress Maintenance and Security Releases"
@@ -177,12 +177,12 @@ msgstr "Rilis Pemeliharaan dan Keamanan"
 
 #: wp-admin/about.php:103
 msgid "ClassicPress currently includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "Saat ini, ClassicPress telah menyertakan semua perubahan dari beberapa versi Wordpress berikut:"
 
 #. translators: %s: WordPress version number
 #: wp-admin/about.php:109
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPress versi %s</strong> mengatasi beberapa kendala keamanan."
 
 #. translators: %s: Codex URL
 #: wp-admin/about.php:113 wp-admin/about.php:132 wp-admin/about.php:152
@@ -197,14 +197,14 @@ msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>.
 #: wp-admin/about.php:213
 msgid "<strong>WordPress version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>ClassicPress versi %1$s</strong> memperbaiki %2$s bug."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:141 wp-admin/about.php:177 wp-admin/about.php:231
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>WordPress versi %1$s</strong> memperbaiki beberapa kendala keamanan dan %2$s bug."
 
 #: wp-admin/about.php:272
 msgid "Maintenance Release"
@@ -365,7 +365,7 @@ msgstr ""
 #: wp-admin/media-upload.php:46 wp-admin/post.php:20 wp-admin/post.php:44
 #: wp-admin/post.php:123 wp-admin/term.php:38
 msgid "Sorry, you are not allowed to edit this item."
-msgstr ""
+msgstr "Maaf, Anda tak diijinkan mengedit item ini."
 
 #: wp-admin/async-upload.php:53
 msgctxt "media item"
@@ -694,12 +694,12 @@ msgstr ""
 #. translators: %s: https://www.classicpress.net/contributors/
 #: wp-admin/credits.php:48
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr ""
+msgstr "ClassicPress diciptakan oleh <a href=\"%1$s\">tim sedunia</a> yang terdiri dari individu yang penuh semangat."
 
 #. translators: %s: https://www.classicpress.net/get-involved/
 #: wp-admin/credits.php:54
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "Berminat untuk membantu pengembangan perangkat lunak ini? <a href=\"%s\">Mari terlibat di ClassicPress</a>."
 
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
@@ -708,19 +708,19 @@ msgstr ""
 
 #: wp-admin/custom-background.php:89
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
-msgstr ""
+msgstr "Anda dapat menyesuaikan tampilan situs Anda tanpa menyentuh salah satu kode tema Anda dengan menggunakan latar belakang tersuai. Latar belakang Anda dapat berupa gambar atau warna."
 
 #: wp-admin/custom-background.php:90
 msgid "To use a background image, simply upload it or choose an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button. You can display a single instance of your image, or tile it to fill the screen. You can have your background fixed in place, so your site content moves on top of it, or you can have it scroll with your site."
-msgstr ""
+msgstr "Untuk menggunakan sebuah gambar latar, cukup unggah atau pilih sebuah gambar yang sudah terunggah ke Pustaka Media sebelumnya dengan tombol &#8220;Pilih Gambar&#8221;. Anda dapat menampilkan gambar tadi sekali saja, atau menampilkannya berurutan untuk memenuhi layar. Anda juga dapat memposisikan latar pada posisi permanen, jadi ketika konten situs Anda dapat bergerak di atasnya, atau juga dapat membuatnya ikut tergulung ketika menjelajah ke bawah."
 
 #: wp-admin/custom-background.php:91
 msgid "You can also choose a background color by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr ""
+msgstr "Anda juga dapat memilih warna latar dengan mengklik tombol Pilih Warna atau dengan mengetikkan nilai heksa HTML yang sah, contoh: &#8220;#ff0000&#8221; untuk merah, atau dengan memilih sebuah warna dari pemilih warna."
 
 #: wp-admin/custom-background.php:92
 msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
-msgstr ""
+msgstr "Jangan lupa untuk mengklik tombol Simpan Perubahan ketika Anda sudah selesai."
 
 #: wp-admin/custom-background.php:97
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
@@ -728,15 +728,15 @@ msgstr ""
 
 #: wp-admin/custom-background.php:222 wp-admin/includes/theme.php:251
 msgid "Custom Background"
-msgstr ""
+msgstr "Latar Belakang Tersuai"
 
 #: wp-admin/custom-background.php:229
 msgid "You can now manage and live-preview Custom Backgrounds in the <a href=\"%1$s\">Customizer</a>."
-msgstr ""
+msgstr "Kini Anda bisa mengelola dan melihat pratinjau langsung Latar Kustom melalui <a href=\"%1$s\">Customizer</a>."
 
 #: wp-admin/custom-background.php:239
 msgid "Background updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "Latar Belakang diperbarui. <a href=\"%s\">Kunjungi situs Anda</a> untuk melihat tampilannya."
 
 #: wp-admin/custom-background.php:243 wp-admin/includes/template.php:1842
 #: wp-includes/class-wp-customize-manager.php:5098
@@ -754,7 +754,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:4149
 #: wp-includes/class-wp-editor.php:1117 wp-includes/media-template.php:1247
 msgid "Preview"
-msgstr ""
+msgstr "Pratinjau"
 
 #: wp-admin/custom-background.php:287 wp-admin/custom-header.php:630
 msgid "Remove Image"
@@ -766,7 +766,7 @@ msgstr ""
 
 #: wp-admin/custom-background.php:292
 msgid "This will remove the background image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "Ini akan menghapus gambar latar. Anda tidak akan bisa mengembalikan penyesuaian yang manapun."
 
 #: wp-admin/custom-background.php:301 wp-admin/custom-background.php:305
 #: wp-admin/includes/image-edit.php:82
@@ -789,7 +789,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-theme-install-list-table.php:63
 #: wp-admin/includes/media.php:1957 wp-admin/includes/media.php:1959
 msgid "Upload"
-msgstr ""
+msgstr "Unggah"
 
 #: wp-admin/custom-background.php:324 wp-admin/custom-header.php:585
 msgid "Or choose an image from your media library:"
@@ -908,12 +908,12 @@ msgstr ""
 #: wp-admin/custom-background.php:407 wp-admin/custom-background.php:408
 msgctxt "Background Scroll"
 msgid "Scroll"
-msgstr ""
+msgstr "Bergulir"
 
 #: wp-admin/custom-background.php:410
 #: wp-includes/class-wp-customize-manager.php:5192
 msgid "Scroll with Page"
-msgstr ""
+msgstr "Bergulir bersama Laman"
 
 #: wp-admin/custom-background.php:415 wp-admin/custom-background.php:416
 #: wp-includes/class-wp-customize-manager.php:4989
@@ -923,7 +923,7 @@ msgstr ""
 #: wp-admin/custom-background.php:451 wp-admin/custom-header.php:842
 #: wp-admin/includes/ajax-actions.php:2061
 msgid "The uploaded file is not a valid image. Please try again."
-msgstr ""
+msgstr "Berkas terunggah bukan gambar valid. Sila coba kembali."
 
 #: wp-admin/custom-background.php:547 wp-admin/includes/image-edit.php:169
 #: wp-admin/includes/media.php:1004 wp-includes/media-template.php:694
@@ -972,19 +972,19 @@ msgstr ""
 
 #: wp-admin/custom-header.php:106
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately. Alternatively, you can use an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button."
-msgstr ""
+msgstr "Anda dapat menset gambar tajuk tersuai untuk situs Anda. Cukup unggah sebuah gambar dan potong gambarnya, dan tajuk baru dapat langsung go live. Selain itu, Anda juga dapat gunakan sebuah gambar yang sudah terunggah ke Pustaka Media Anda dengan mengklik tombol &#8220;Pilih Gambar&#8221;."
 
 #: wp-admin/custom-header.php:107
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you&#8217;d like and click the &#8220;Save Changes&#8221; button."
-msgstr ""
+msgstr "Beberapa tema datang bersama beberapa gambar tajuk dipaket di dalamnya. Jika Anda melihat beberapa gambar ditampilkan, pilih salah satu yang Anda sukai dan klik tombol &#8220;Simpan Perubahan&#8221;."
 
 #: wp-admin/custom-header.php:108
 msgid "If your theme has more than one default header image, or you have uploaded more than one custom header image, you have the option of having ClassicPress display a randomly different image on each page of your site. Click the &#8220;Random&#8221; radio button next to the Uploaded Images or Default Images section to enable this feature."
-msgstr ""
+msgstr "Jika tema Anda datang bersama beberapa gambar tajuk dipaket di dalamnya, atau Anda telah mengunggah lebih dari satu gambar tajuk, Anda memiliki opsi agar ClassicPress menampilkan gambar yang berbeda di setiap halamannya. Klik tombol radio &#8220;Acak&#8221; di sebelah bagian Gambar Terunggah atau Gambar Bawaan untuk mengaktifkan fitur ini."
 
 #: wp-admin/custom-header.php:109
 msgid "If you don&#8217;t want a header image to be displayed on your site at all, click the &#8220;Remove Header Image&#8221; button at the bottom of the Header Image section of this page. If you want to re-enable the header image later, you just have to select one of the other image options and click &#8220;Save Changes&#8221;."
-msgstr ""
+msgstr "Jika Anda tidak ingin sebuah gambar tajuk ditampilkan di situs Anda sama sekali, klik pada tombol &#8220;Singkirkan Gambar Tajuk&#8221; di bagian bawah Gambar Tajuk halaman ini. Jika ingin menampilkannya kembali, cukup pilih opsi satu lagi dan klik &#8220;Simpan Perubahan&#8221;."
 
 #: wp-admin/custom-header.php:114 wp-admin/custom-header.php:653
 #: wp-admin/custom-header.php:658
@@ -993,15 +993,15 @@ msgstr ""
 
 #: wp-admin/custom-header.php:116
 msgid "For most themes, the header text is your Site Title and Tagline, as defined in the <a href=\"%1$s\">General Settings</a> section."
-msgstr ""
+msgstr "Untuk sebagian besar tema, teks tajuk biasanya Judul Situs dan Slogan, yang didefinisikan di bagian <a href=\"%1$s\">Pengaturan Umum</a>."
 
 #: wp-admin/custom-header.php:117
 msgid "In the Header Text section of this page, you can choose whether to display this text or hide it. You can also choose a color for the text by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr ""
+msgstr "Pada bagian Tajuk Teks pada halaman ini, Anda dapat memilih apakah ingin menampilkan teks tadi atau menyembunyikannya. you can choose whether to display this text or hide it. Anda juga dapat memilih warna untuk teks ini dengan mengklik tombol Pilih Warna atau dengan mengetikkan nilai heksa HTML yang sah, contoh:&#8220;#ff0000&#8221; untuk merah, atau dengan memilih sebuah warna dari pemilih warna."
 
 #: wp-admin/custom-header.php:118
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
-msgstr ""
+msgstr "Jangan lupa untuk mengklik &#8220;Simpan Perubahaan&#8221; bila sudah selesai!"
 
 #: wp-admin/custom-header.php:123
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
@@ -1009,27 +1009,27 @@ msgstr ""
 
 #: wp-admin/custom-header.php:275
 msgid "<strong>Random:</strong> Show a different image on each page."
-msgstr ""
+msgstr "<strong>Acak:</strong> Menampilkan gambar berbeda pada masing-masing laman."
 
 #: wp-admin/custom-header.php:452 wp-admin/includes/theme.php:253
 msgid "Custom Header"
-msgstr ""
+msgstr "Tajuk Tersuai"
 
 #: wp-admin/custom-header.php:459
 msgid "You can now manage and live-preview Custom Header in the <a href=\"%1$s\">Customizer</a>."
-msgstr ""
+msgstr "Kini Anda bisa mengelola dan melihat pratinjau langsung Header Kustom melalui <a href=\"%1$s\">Customizer</a>."
 
 #: wp-admin/custom-header.php:469
 msgid "Header updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "Tajuk diperbarui. <a href=\"%s\">Kunjungi situs Anda</a> untuk melihat tampilannya."
 
 #: wp-admin/custom-header.php:519
 msgid "You can select an image to be shown at the top of your site by uploading from your computer or choosing from your media library. After selecting an image you will be able to crop it."
-msgstr ""
+msgstr "Anda dapat memilih sebuah gambar untuk ditampilkan pada bagian atas situs Anda dengan mengunggahnya dari komputer atau memilih dari pustaka media Anda. Setelah memilih sebuah gambar Anda dapat memotongnya."
 
 #: wp-admin/custom-header.php:522
 msgid "Images of exactly <strong>%1$d &times; %2$d pixels</strong> will be used as-is."
-msgstr ""
+msgstr "Gambar dengan ukuran tepat <strong>%1$d &times; %2$d piksel</strong> akan digunakan."
 
 #. translators: %s: size in pixels
 #: wp-admin/custom-header.php:527
@@ -1043,7 +1043,7 @@ msgstr ""
 #: wp-admin/custom-header.php:530 wp-admin/custom-header.php:541
 #: wp-admin/custom-header.php:553 wp-admin/custom-header.php:563
 msgid "%d pixels"
-msgstr ""
+msgstr "%d piksel"
 
 #. translators: %s: size in pixels
 #: wp-admin/custom-header.php:538
@@ -1062,7 +1062,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:588
 msgid "Choose a Custom Header"
-msgstr ""
+msgstr "Ciptakan Tajuk Tersuai"
 
 #: wp-admin/custom-header.php:589
 msgid "Set as header"
@@ -1070,11 +1070,11 @@ msgstr ""
 
 #: wp-admin/custom-header.php:604
 msgid "Uploaded Images"
-msgstr ""
+msgstr "Gambar yang telah Diunggah"
 
 #: wp-admin/custom-header.php:606
 msgid "You can choose one of your previously uploaded headers, or show a random one."
-msgstr ""
+msgstr "Anda dapat memilih salah satu tajuk yang telah Anda unggah sebelumnya, atau menampilkan salah satu secara acak."
 
 #: wp-admin/custom-header.php:615
 msgid "Default Images"
@@ -1082,15 +1082,15 @@ msgstr ""
 
 #: wp-admin/custom-header.php:618
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers, or show a random one."
-msgstr ""
+msgstr "Jika Anda tidak ingin mengunggah gambar Anda sendiri, Anda dapat menggunakan salah satu tajuk keren ini, atau menampilkan salah satu secara acak."
 
 #: wp-admin/custom-header.php:620
 msgid "You can use one of these cool headers or show a random one on each page."
-msgstr ""
+msgstr "Anda dapat menggunakan salah satu tajuk keren ini atau menampilkan secara acak pada masing-masing laman."
 
 #: wp-admin/custom-header.php:632
 msgid "This will remove the header image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "Ini akan membuang gambar tajuk. Anda tidak akan dapat mengembalikan penyesuaian apapun."
 
 #: wp-admin/custom-header.php:633
 msgid "Remove Header Image"
@@ -1135,7 +1135,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:723 wp-admin/custom-header.php:881
 msgid "The current theme does not support uploading a custom header image."
-msgstr ""
+msgstr "Tema saat ini tidak mendukung pengunggahan gambar tajuk kustom."
 
 #: wp-admin/custom-header.php:783 wp-admin/custom-header.php:919
 #: wp-admin/custom-header.php:1248
@@ -1144,7 +1144,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:783 wp-admin/custom-header.php:919
 msgid "Image Processing Error"
-msgstr ""
+msgstr "Kesalahan Memproses Gambar"
 
 #: wp-admin/custom-header.php:797
 msgid "Crop Header Image"
@@ -1156,7 +1156,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:801
 msgid "You need JavaScript to choose a part of the image."
-msgstr ""
+msgstr "Anda butuh Javascript untuk memilih bagian dari gambar."
 
 #: wp-admin/custom-header.php:819
 msgid "Crop and Publish"
@@ -1164,11 +1164,11 @@ msgstr ""
 
 #: wp-admin/custom-header.php:822
 msgid "Skip Cropping, Publish Image as Is"
-msgstr ""
+msgstr "Lewati Pemotongan, Terbitkan Gambar Seutuhnya"
 
 #: wp-admin/custom-header.php:847
 msgid "Image Upload Error"
-msgstr ""
+msgstr "Galat Pengunggahan Gambar"
 
 #: wp-admin/custom-header.php:889
 msgid "The current theme does not support a flexible sized header image."
@@ -1176,7 +1176,7 @@ msgstr ""
 
 #: wp-admin/custom-header.php:965
 msgid "Sorry, you are not allowed to customize headers."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengustomisasi header."
 
 #: wp-admin/customize.php:17 wp-admin/customize.php:34
 #: wp-admin/edit-comments.php:13 wp-admin/edit-tags.php:26
@@ -1196,7 +1196,7 @@ msgstr ""
 #: wp-admin/customize.php:18 wp-includes/class-wp-customize-manager.php:516
 #: wp-includes/script-loader.php:602
 msgid "Sorry, you are not allowed to customize this site."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menyesuaikan situs ini."
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
@@ -4611,7 +4611,7 @@ msgstr ""
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:412
 msgid "Network Enable %s"
-msgstr ""
+msgstr "Aktifkan Jaringan %s"
 
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
@@ -4627,11 +4627,11 @@ msgstr ""
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:454
 msgctxt "theme"
 msgid "Delete %s"
-msgstr ""
+msgstr "Hapus %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:518
 msgid "Broken Theme:"
-msgstr ""
+msgstr "Tema yang Rusak:"
 
 #. translators: %s: Theme author name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:541
@@ -5611,7 +5611,7 @@ msgstr "Lome"
 
 #: wp-admin/includes/continents-cities.php:47
 msgid "Luanda"
-msgstr ""
+msgstr "Luanda"
 
 #: wp-admin/includes/continents-cities.php:48
 msgid "Lubumbashi"
@@ -5631,7 +5631,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:52
 msgid "Maseru"
-msgstr ""
+msgstr "Maseru"
 
 #: wp-admin/includes/continents-cities.php:53
 msgid "Mbabane"
@@ -5639,7 +5639,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:54
 msgid "Mogadishu"
-msgstr ""
+msgstr "Mogadishu"
 
 #: wp-admin/includes/continents-cities.php:55
 msgid "Monrovia"
@@ -5647,7 +5647,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:56
 msgid "Nairobi"
-msgstr ""
+msgstr "Nairobi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"
@@ -5667,7 +5667,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:61
 msgid "Porto-Novo"
-msgstr ""
+msgstr "Porto-Novo"
 
 #: wp-admin/includes/continents-cities.php:62
 msgid "Sao Tome"
@@ -5725,7 +5725,7 @@ msgstr ""
 #: wp-admin/includes/continents-cities.php:76
 #: wp-admin/includes/continents-cities.php:106
 msgid "Catamarca"
-msgstr ""
+msgstr "Catamarca"
 
 #: wp-admin/includes/continents-cities.php:77
 msgid "ComodRivadavia"
@@ -5908,7 +5908,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:124
 msgid "Eirunepe"
-msgstr ""
+msgstr "Eirunepe"
 
 #: wp-admin/includes/continents-cities.php:125
 msgid "El Salvador"
@@ -5952,7 +5952,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:135
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadeloupe"
 
 #: wp-admin/includes/continents-cities.php:136
 msgid "Guatemala"
@@ -5972,7 +5972,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:140
 msgid "Havana"
-msgstr ""
+msgstr "Havana"
 
 #: wp-admin/includes/continents-cities.php:141
 msgid "Hermosillo"
@@ -5980,7 +5980,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:142
 msgid "Indiana"
-msgstr ""
+msgstr "Indiana"
 
 #: wp-admin/includes/continents-cities.php:143
 #: wp-admin/includes/continents-cities.php:151
@@ -6226,7 +6226,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:208
 msgid "Regina"
-msgstr ""
+msgstr "Regina"
 
 #: wp-admin/includes/continents-cities.php:209
 msgid "Resolute"
@@ -6234,7 +6234,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:210
 msgid "Rio Branco"
-msgstr ""
+msgstr "Rio Branco"
 
 #: wp-admin/includes/continents-cities.php:211
 msgid "Rosario"
@@ -6278,7 +6278,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:221
 msgid "St Johns"
-msgstr ""
+msgstr "St Johns"
 
 #: wp-admin/includes/continents-cities.php:222
 msgid "St Kitts"
@@ -6286,7 +6286,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:223
 msgid "St Lucia"
-msgstr ""
+msgstr "St Lucia"
 
 #: wp-admin/includes/continents-cities.php:224
 msgid "St Thomas"
@@ -6310,7 +6310,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:229
 msgid "Thunder Bay"
-msgstr ""
+msgstr "Thunder Bay"
 
 #: wp-admin/includes/continents-cities.php:230
 msgid "Tijuana"
@@ -6374,7 +6374,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:246
 msgid "McMurdo"
-msgstr ""
+msgstr "McMurdo"
 
 #: wp-admin/includes/continents-cities.php:247
 msgid "Palmer"
@@ -6514,7 +6514,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:283
 msgid "Dhaka"
-msgstr ""
+msgstr "Dhaka"
 
 #: wp-admin/includes/continents-cities.php:284
 msgid "Dili"
@@ -6748,7 +6748,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:341
 msgid "Thimbu"
-msgstr ""
+msgstr "Thimbu"
 
 #: wp-admin/includes/continents-cities.php:342
 msgid "Thimphu"
@@ -6768,7 +6768,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:346
 msgid "Ulaanbaatar"
-msgstr ""
+msgstr "Ulaanbaatar"
 
 #: wp-admin/includes/continents-cities.php:347
 msgid "Ulan Bator"
@@ -6816,7 +6816,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:359
 msgid "Bermuda"
-msgstr ""
+msgstr "Bermuda"
 
 #: wp-admin/includes/continents-cities.php:360
 msgid "Canary"
@@ -6828,7 +6828,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:362
 msgid "Faeroe"
-msgstr ""
+msgstr "Faeroe"
 
 #: wp-admin/includes/continents-cities.php:363
 msgid "Faroe"
@@ -6852,7 +6852,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:368
 msgid "St Helena"
-msgstr ""
+msgstr "St Helena"
 
 #: wp-admin/includes/continents-cities.php:369
 msgid "Stanley"
@@ -6876,7 +6876,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:375
 msgid "Broken Hill"
-msgstr ""
+msgstr "Broken Hill"
 
 #: wp-admin/includes/continents-cities.php:376
 msgid "Canberra"
@@ -7000,7 +7000,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:407
 msgid "GMT+6"
-msgstr ""
+msgstr "GMT+6"
 
 #: wp-admin/includes/continents-cities.php:408
 msgid "GMT+7"
@@ -7032,7 +7032,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:415
 msgid "GMT-12"
-msgstr ""
+msgstr "GMT-12"
 
 #: wp-admin/includes/continents-cities.php:416
 msgid "GMT-13"
@@ -7052,7 +7052,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:420
 msgid "GMT-4"
-msgstr ""
+msgstr "GMT-4"
 
 #: wp-admin/includes/continents-cities.php:421
 msgid "GMT-5"
@@ -7072,7 +7072,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:425
 msgid "GMT-9"
-msgstr ""
+msgstr "GMT-9"
 
 #: wp-admin/includes/continents-cities.php:426
 msgid "GMT0"
@@ -7093,7 +7093,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:430
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 #: wp-admin/includes/continents-cities.php:431
 msgid "Zulu"
@@ -7293,7 +7293,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:483
 msgid "Tallinn"
-msgstr ""
+msgstr "Tallinn"
 
 #: wp-admin/includes/continents-cities.php:484
 msgid "Tirane"
@@ -7301,7 +7301,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:485
 msgid "Tiraspol"
-msgstr ""
+msgstr "Tiraspol"
 
 #: wp-admin/includes/continents-cities.php:486
 msgid "Ulyanovsk"
@@ -7309,7 +7309,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:487
 msgid "Uzhgorod"
-msgstr ""
+msgstr "Uzhgorod"
 
 #: wp-admin/includes/continents-cities.php:488
 msgid "Vaduz"
@@ -7393,7 +7393,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:509
 msgid "Reunion"
-msgstr ""
+msgstr "Reunion"
 
 #: wp-admin/includes/continents-cities.php:511
 msgid "Pacific"
@@ -7409,7 +7409,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:514
 msgid "Bougainville"
-msgstr ""
+msgstr "Bougainville"
 
 #: wp-admin/includes/continents-cities.php:515
 msgid "Chatham"
@@ -7445,7 +7445,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:523
 msgid "Galapagos"
-msgstr ""
+msgstr "Galapagos"
 
 #: wp-admin/includes/continents-cities.php:524
 msgid "Gambier"
@@ -7469,7 +7469,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:529
 msgid "Kiritimati"
-msgstr ""
+msgstr "Kiritimati"
 
 #: wp-admin/includes/continents-cities.php:530
 msgid "Kosrae"
@@ -27047,11 +27047,11 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-text.php:516
 msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by pressing the &#8220;<a class=\"add-widget\" href=\"#\">Add a Widget</a>&#8221; button and searching for &#8220;HTML&#8221;. Check it out to add some custom code to your site!"
-msgstr ""
+msgstr "Tahukah Anda bahwa kami punya sebuah widget &#8220;HTML Kustom&#8221; sekarang? Anda bisa menemukannya dengan menekan tombol &#8220;<a class=\"add-widget\" href=\"#\">Tambahkan Widget</a>&#8221; dan carilah &#8220;HTML&#8221;. Cobalah untuk menambahkan beberapa kode kustom ke situs Anda!"
 
 #: wp-includes/widgets/class-wp-widget-text.php:518
 msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by scanning the list of available widgets on this screen. Check it out to add some custom code to your site!"
-msgstr ""
+msgstr "Tahuka Anda bahwa kami punya sebuah widget &#8220;HTML Kustom&#8221; sekarang? Anda bisa menemukannya dengan memperhatikan daftar widget yang tersedia di laman ini. Cobalah untuk menambahkan beberapa kode kustom ke situs Anda!"
 
 #: wp-includes/widgets/class-wp-widget-text.php:533
 msgid "Did you just paste HTML?"
@@ -27059,7 +27059,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-text.php:534
 msgid "Hey there, looks like you just pasted HTML into the &#8220;Visual&#8221; tab of the Text widget. You may want to paste your code into the &#8220;Text&#8221; tab instead. Alternately, try out the new &#8220;Custom HTML&#8221; widget!"
-msgstr ""
+msgstr "Hai, sepertinya Anda baru saja menempelkan kode HTML ke dalam tab &#8220;Visual&#8221; dalam Widget teks. Anda mungkin ingin menempelnya pada tab &#8220;Text&#8221; sebenarnya. Jika tidak, cobalah widget &#8220;HTML Khusus&#8221; yang baru!"
 
 #: wp-includes/widgets.php:177 wp-includes/widgets.php:248
 msgid "Sidebar %d"
@@ -27068,7 +27068,7 @@ msgstr ""
 #. translators: 1: the id argument, 2: sidebar name, 3: recommended id value
 #: wp-includes/widgets.php:262
 msgid "No %1$s was set in the arguments array for the \"%2$s\" sidebar. Defaulting to \"%3$s\". Manually set the %1$s to \"%3$s\" to silence this notice and keep existing sidebar content."
-msgstr ""
+msgstr "Tak ada %1$s pada jajaran argumen untuk bilah sisi \"%2$s\". Kembali ke bawaan \"%3$s\". Silakan atur %1$s untuk menggantikan \"%3$s\" secara manual untuk menutup notifikasi ini dan tetap menjaga konten bilah sisi."
 
 #. translators: %s: register_widget()
 #: wp-includes/widgets.php:1054
@@ -27089,7 +27089,7 @@ msgstr ""
 
 #: wp-includes/widgets.php:1517
 msgid "Give the feed a title (optional):"
-msgstr ""
+msgstr "Berikan umpan ini sebuah judul (opsional):"
 
 #: wp-includes/widgets.php:1520
 msgid "How many items would you like to display?"
@@ -27097,7 +27097,7 @@ msgstr ""
 
 #: wp-includes/widgets.php:1530
 msgid "Display item content?"
-msgstr ""
+msgstr "Tampilkan konten objek?"
 
 #: wp-includes/widgets.php:1533
 msgid "Display item author if available?"
@@ -27109,7 +27109,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1033
 msgid "Can&#8217;t select database"
-msgstr ""
+msgstr "Tidak dapat memilih basis data"
 
 #. translators: %s: database name
 #: wp-includes/wp-db.php:1037
