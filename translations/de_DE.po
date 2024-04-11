@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-10 09:11\n"
+"PO-Revision-Date: 2024-04-11 09:18\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -88,7 +88,7 @@ msgstr "Über"
 #: wp-admin/about.php:20 wp-admin/credits.php:18 wp-admin/freedoms.php:21
 #: wp-admin/includes/dashboard.php:1349
 msgid "Welcome to ClassicPress!"
-msgstr ""
+msgstr "Willkommen bei ClassicPress!"
 
 #. translators: %s: Plugin version
 #: wp-admin/about.php:23 wp-admin/credits.php:21 wp-admin/freedoms.php:24
