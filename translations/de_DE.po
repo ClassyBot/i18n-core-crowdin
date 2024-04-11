@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-10 08:50\n"
+"PO-Revision-Date: 2024-04-11 09:18\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -100,7 +100,7 @@ msgstr "Über"
 #: wp-admin/credits.php:22
 #: wp-admin/freedoms.php:36
 msgid "Welcome to ClassicPress!"
-msgstr ""
+msgstr "Willkommen bei ClassicPress!"
 
 #. translators: %s: Plugin version.
 #. translators: %s: Plugin version number.
@@ -128,13 +128,13 @@ msgstr "Version %s"
 #: wp-admin/credits.php:32
 #: wp-admin/freedoms.php:46
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">CMS for Creators</a>."
-msgstr ""
+msgstr "Vielen Dank für die Verwendung von ClassicPress, dem <a href=\"%s\">CMS für Creators</a>."
 
 #: wp-admin/about.php:35
 #: wp-admin/credits.php:37
 #: wp-admin/freedoms.php:51
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr ""
+msgstr "Stabil. Leicht. Sofort vertraut."
 
 #: wp-admin/about.php:40
 #: wp-admin/credits.php:43
