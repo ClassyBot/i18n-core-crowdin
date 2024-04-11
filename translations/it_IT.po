@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-10 08:50\n"
+"PO-Revision-Date: 2024-04-11 09:18\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -486,7 +486,7 @@ msgstr "Non hai i permessi per caricare i file."
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:442
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:141
 msgid "Invalid post type."
-msgstr ""
+msgstr "Tipo di contenuto (post type) non valido."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3281
@@ -851,7 +851,7 @@ msgstr "Non hai i permessi per modificare questo tipo di articoli."
 
 #: wp-admin/comment.php:87
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
-msgstr ""
+msgstr "Questo commento &egrave; nel Cestino. Spostalo altrove se vuoi modificarlo."
 
 #: wp-admin/comment.php:101
 msgid "Moderate Comment"
@@ -1035,7 +1035,7 @@ msgstr "%1$s alle %2$s"
 #: wp-admin/includes/class-wp-posts-list-table.php:1170
 #: wp-includes/class-wp-editor.php:1817
 msgid "Y/m/d"
-msgstr ""
+msgstr "d/m/Y"
 
 #. translators: Field name in comment form.
 #: wp-admin/comment.php:234
@@ -1161,7 +1161,7 @@ msgstr "Non hai i permessi per personalizzare questo sito."
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
-msgstr ""
+msgstr "Non hai il permesso di modificare questo changeset."
 
 #: wp-admin/customize.php:71
 msgid "Your scheduled changes just published"
@@ -1194,7 +1194,7 @@ msgstr "Qualcosa è andato storto."
 
 #: wp-admin/customize.php:80
 msgid "This changeset cannot be further modified."
-msgstr ""
+msgstr "Questo changeset non può essere più modificato."
 
 #: wp-admin/customize.php:147
 #: wp-admin/includes/class-wp-debug-data.php:411
@@ -1366,11 +1366,11 @@ msgstr "Una barra rossa sulla sinistra indica che il commento è in attesa di es
 
 #: wp-admin/edit-comments.php:200
 msgid "In the <strong>Author</strong> column, in addition to the author&#8217;s name, email address, and blog URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
-msgstr ""
+msgstr "Nella colonna <strong>Autore</strong>, oltre al nome dell&#8217;autore, indirizzo email e URL del blog, viene mostrato l&#8217;indirizzo IP del commentatore. Facendo clic su questo link verranno mostrati tutti i commenti scritti da quell&#8217;indirizzo IP."
 
 #: wp-admin/edit-comments.php:201
 msgid "In the <strong>Comment</strong> column, hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
-msgstr ""
+msgstr "Nella colonna <strong>commento</strong>, spostare il mouse sopra ogni commento  ti da le opzioni per approvare, rispondere (e approvare), modificare velocemente, modificare, segnalare come spam, o spostare nel cestino quel commento."
 
 #: wp-admin/edit-comments.php:202
 msgid "In the <strong>In response to</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If there are pending comments, a red notification circle with the number of pending comments is displayed. Clicking the notification circle will filter the comments screen to show only pending comments on that post."
@@ -1556,7 +1556,7 @@ msgstr "Eliminato campo personalizzato."
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:183
 msgid "Post restored to revision from %s."
-msgstr ""
+msgstr "Articolo ripristinato alla revisione da %s"
 
 #: wp-admin/edit-form-advanced.php:184
 #: wp-includes/class-wp-post-type.php:825
@@ -1589,7 +1589,7 @@ msgstr "Pagina aggiornata."
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:198
 msgid "Page restored to revision from %s."
-msgstr ""
+msgstr "Pagina ripristinata alla revisione da %s"
 
 #: wp-admin/edit-form-advanced.php:199
 #: wp-includes/class-wp-post-type.php:825
@@ -1623,11 +1623,11 @@ msgstr "File multimediale aggiornato."
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:249
 msgid "There is an autosave of this post that is more recent than the version below. <a href=\"%s\">View the autosave</a>"
-msgstr ""
+msgstr "C&#8217;è un salvataggio automatico di questo articolo che è più recente della versione sottostante. <a href=\"%s\">Visualizza il salvataggio automatico</a>"
 
 #: wp-admin/edit-form-advanced.php:278
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr ""
+msgstr "Il campo titolo e la grande area di scrittura dell'articolo sono in posizione fissa ma puoi riposizionare tutti gli altri riquadri tramite il trascina e rilascia (drag&drop). Puoi anche minimizzarli o espanderli facendo clic sulla barra del titolo di ciascun riquadro. Utilizza la scheda Impostazioni schermata per mostrare altri riquadri (Riassunto, Invia Trackback, Campi personalizzati, Discussione, Slug, Autore) o per scegliere una disposizione dello schermo su 1 o 2 colonne."
 
 #: wp-admin/edit-form-advanced.php:283
 msgid "Customizing This Display"
@@ -1635,7 +1635,7 @@ msgstr "Personalizza questa schermata"
 
 #: wp-admin/edit-form-advanced.php:288
 msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
-msgstr ""
+msgstr "<strong>Titolo</strong>  &mdash; Scrivi un titolo per l'articolo. Dopo aver scritto il titolo, si vedrà il permalink sotto al titolo, che potrà essere modificato."
 
 #: wp-admin/edit-form-advanced.php:289
 msgid "<strong>Post editor</strong> &mdash; Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab."
@@ -1669,7 +1669,7 @@ msgstr "Titolo e Editor articolo"
 #. translators: %s: URL to Press This bookmarklet.
 #: wp-admin/edit-form-advanced.php:311
 msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
-msgstr ""
+msgstr "Puoi creare un articolo anche con il <a href=\"%s\">bookmarklet Press This</a>."
 
 #: wp-admin/edit-form-advanced.php:315
 msgid "<a href=\"https://wordpress.org/documentation/article/write-posts-classic-editor/\">Documentation on Writing and Editing Posts</a>"
@@ -1678,7 +1678,7 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:319
 #: wp-admin/edit.php:302
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr ""
+msgstr "La pagine sono simili agli articoli nel senso che hanno un titolo, un corpo e dei metadati associati, ma la differenza &egrave; che non entrano nel flusso cronologico del blog. Sono una specie di articoli permanenti. Le pagine non sono categorizzate o taggate, ma possono avere una gerarchia. &Egrave; possibile annidare una pagina dentro un&#8217;altra rendendo una  &#8220;genitore&#8221; dell&#8217;altra, creando in effetti un gruppo di pagine."
 
 #: wp-admin/edit-form-advanced.php:320
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
@@ -1704,12 +1704,12 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:343
 #: wp-admin/media.php:89
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
-msgstr ""
+msgstr "Solo per le immagini, &egrave; possibile fare clic su Modifica immagine sotto la miniatura per espandere un editor di immagini in linea con le icone per il ritaglio, la rotazione ed il ribaltamento dell'immagine così come per annullare o ripetere le operazioni. I riquadri sulla destra forniscono ulteriori opzioni per scalare l'immagine, per ritagliarla e per ritagliare la miniatura in maniera diversa da come viene ritagliata l'immagine originale. &Egrave; possibile fare clic su Aiuto all'interno di questi riquadri per ottenere maggiori informazioni."
 
 #: wp-admin/edit-form-advanced.php:344
 #: wp-admin/media.php:90
 msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
-msgstr ""
+msgstr "Per ritagliare un&#8217;immagine fai clic su di essa (l'icona di Ritaglio è già selezionata) e trascina il rettangolo di ritaglio per selezionare la parte desiderata. Quindi fai clic su Salva per effettuare il ritaglio."
 
 #: wp-admin/edit-form-advanced.php:345
 #: wp-admin/media.php:91
@@ -1723,7 +1723,7 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:357
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
-msgstr ""
+msgstr "Puoi inserire oggetti multimediali (immagini, suoni, documenti...) cliccando il pulsante Aggiungi Media. Puoi scegliere tra le immagini e i file gi&agrave; caricati nella Raccolta Multimediale o caricare un nuovo oggetto multimediale da aggiungere alle pagine o agli articoli. Per creare una galleria di immagini, seleziona le immagini che vuoi aggiungere e clicca il pulsante &#8220;Crea una nuova galleria&#8221;."
 
 #: wp-admin/edit-form-advanced.php:358
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://wordpress.org/documentation/article/embeds/\">Learn more about embeds</a>."
