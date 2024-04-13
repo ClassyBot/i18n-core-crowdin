@@ -15,24 +15,24 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-04-12 18:00\n"
+"PO-Revision-Date: 2024-04-13 18:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr ""
+msgstr "A key value mismatch has been detected. Please follow the link provided in your activation email."
 
 #: wp-activate.php:30
 #: wp-activate.php:189
 msgid "An error occurred during the activation"
-msgstr ""
+msgstr "An error occurred during the activation"
 
 #: wp-activate.php:148
 msgid "Activation Key Required"
-msgstr ""
+msgstr "Activation Key Required"
 
 #: wp-activate.php:151
 msgid "Activation Key:"
-msgstr ""
+msgstr "Activation Key:"
 
 #: wp-activate.php:155
 #: wp-admin/includes/class-theme-installer-skin.php:141
@@ -52,17 +52,17 @@ msgstr ""
 #: wp-admin/js/updates.js:766
 #: wp-admin/js/updates.js:1419
 msgid "Activate"
-msgstr ""
+msgstr "Activate"
 
 #: wp-activate.php:164
 #: wp-activate.php:198
 msgid "Your account is now active!"
-msgstr ""
+msgstr "Your account is now active!"
 
 #. translators: 1: Login URL, 2: Username, 3: User email address, 4: Lost password URL.
 #: wp-activate.php:170
 msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr ""
+msgstr "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
 
 #. translators: 1: Site URL, 2: Username, 3: User email address, 4: Lost password URL.
 #: wp-activate.php:179
