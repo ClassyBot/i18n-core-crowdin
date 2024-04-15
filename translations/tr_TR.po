@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-12 18:00\n"
+"PO-Revision-Date: 2024-04-15 17:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19796,7 +19796,7 @@ msgstr "%s (Yazının eşsiz numarası, örneğin 423.)"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:294
-msgid "%s (The sanitized post title (slug).)"
+msgid "%s (The sanitised post title (slug).)"
 msgstr "%s (Temizlenmiş yazı başlığı (kısa isim).)"
 
 #. translators: %s: Permalink structure tag.
@@ -19806,7 +19806,7 @@ msgstr "%s (Kategori kısa ismi. Alt kategoriler adreste alt dizinler gibi gör�
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:298
-msgid "%s (A sanitized version of the author name.)"
+msgid "%s (A sanitised version of the author name.)"
 msgstr "%s (yazar isminin temizlenmiş sürümü.)"
 
 #. translators: %s: Permalink structure tag.
@@ -21167,7 +21167,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/site-health.php:251
-msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritized."
+msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritised."
 msgstr ""
 
 #. translators: %s: Number of recommended improvements.
@@ -21179,7 +21179,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/site-health.php:264
-msgid "Recommended items are considered beneficial to your site, although not as important to prioritize as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
+msgid "Recommended items are considered beneficial to your site, although not as important to prioritise as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
 msgstr ""
 
 #: wp-admin/site-health.php:272
@@ -22888,7 +22888,7 @@ msgid "Other users have been removed."
 msgstr "Diğer kullanıcılar çıkartıldı."
 
 #: wp-admin/widgets-form.php:45
-msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
+msgid "Widgets are independent sections of content that can be placed into any widgetised area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
 msgstr ""
 
 #: wp-admin/widgets-form.php:46
@@ -24025,7 +24025,7 @@ msgid "Press return or enter to open this section"
 msgstr "Bu bölümü açmak için enter tuşuna basın"
 
 #: wp-includes/class-wp-customize-widgets.php:417
-msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
+msgid "Widgets are independent sections of content that can be placed into widgetised areas provided by your theme (commonly called sidebars)."
 msgstr "Bileşenler temanız tarafından sağlanan (genellikle yan sütunlarda) bileşen alanlarında yer alan bağımsız içerik alanlarıdır."
 
 #: wp-includes/class-wp-customize-widgets.php:699
@@ -28039,7 +28039,7 @@ msgstr ""
 
 #. translators: 1: Option name, 2: Error code.
 #: wp-includes/formatting.php:5040
-msgid "Could not sanitize the %1$s option. Error code: %2$s"
+msgid "Could not sanitise the %1$s option. Error code: %2$s"
 msgstr ""
 
 #. translators: Used to join items in a list with more than 2 items.
