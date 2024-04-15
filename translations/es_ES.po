@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-12 17:59\n"
+"PO-Revision-Date: 2024-04-15 17:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19804,7 +19804,7 @@ msgstr "%s (el ID único de la entrada, por ejemplo 423.)"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:294
-msgid "%s (The sanitized post title (slug).)"
+msgid "%s (The sanitised post title (slug).)"
 msgstr "%s (el título (slug) de entrada saneado.)"
 
 #. translators: %s: Permalink structure tag.
@@ -19814,7 +19814,7 @@ msgstr "%s (Slug de la categoría. Las subcategorías anidadas aparecen como dir
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:298
-msgid "%s (A sanitized version of the author name.)"
+msgid "%s (A sanitised version of the author name.)"
 msgstr "%s (una versión saneada del nombre del autor.)"
 
 #. translators: %s: Permalink structure tag.
@@ -21175,7 +21175,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/site-health.php:251
-msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritized."
+msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritised."
 msgstr ""
 
 #. translators: %s: Number of recommended improvements.
@@ -21187,7 +21187,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: wp-admin/site-health.php:264
-msgid "Recommended items are considered beneficial to your site, although not as important to prioritize as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
+msgid "Recommended items are considered beneficial to your site, although not as important to prioritise as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
 msgstr ""
 
 #: wp-admin/site-health.php:272
@@ -22892,7 +22892,7 @@ msgid "Other users have been removed."
 msgstr "Otros usuarios han sido eliminados."
 
 #: wp-admin/widgets-form.php:45
-msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
+msgid "Widgets are independent sections of content that can be placed into any widgetised area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
 msgstr "Los widgets son secciones independientes de contenido que pueden ser colocados en cualquier parte de tu tema que esté preparado para ello (comúnmente llamados barras laterales/sidebars). Para colocar en tus áreas laterales/widgets con widgets de forma individual, arrastra y suelta la barra del título del widget al área deseada. Por defecto, solo la primera área está desplegada. Para poner widgets en otras aéreas haz clic en el barra del título para desplegarlas."
 
 #: wp-admin/widgets-form.php:46
@@ -24029,7 +24029,7 @@ msgid "Press return or enter to open this section"
 msgstr "Pulsa retorno o intro para abrir esta sección"
 
 #: wp-includes/class-wp-customize-widgets.php:417
-msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
+msgid "Widgets are independent sections of content that can be placed into widgetised areas provided by your theme (commonly called sidebars)."
 msgstr "Los widgets son secciones independientes de contenido que pueden colocarse en las áreas de widgets que tenga tu tema (también llamadas barras laterales)."
 
 #: wp-includes/class-wp-customize-widgets.php:699
@@ -28044,7 +28044,7 @@ msgstr ""
 
 #. translators: 1: Option name, 2: Error code.
 #: wp-includes/formatting.php:5040
-msgid "Could not sanitize the %1$s option. Error code: %2$s"
+msgid "Could not sanitise the %1$s option. Error code: %2$s"
 msgstr ""
 
 #. translators: Used to join items in a list with more than 2 items.
