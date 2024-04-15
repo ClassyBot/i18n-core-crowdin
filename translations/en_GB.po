@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-04-14 09:40\n"
+"PO-Revision-Date: 2024-04-15 09:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14745,7 +14745,7 @@ msgstr ""
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:232
 msgid "%s (The sanitized post title (slug).)"
-msgstr ""
+msgstr "%s (The sanitised post title (slug).)"
 
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:234
@@ -14755,7 +14755,7 @@ msgstr ""
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:236
 msgid "%s (A sanitized version of the author name.)"
-msgstr ""
+msgstr "%s (A sanitised version of the author name.)"
 
 #. translators: %s: permalink structure tag
 #: wp-admin/options-permalink.php:249
@@ -17077,7 +17077,7 @@ msgstr ""
 
 #: wp-admin/widgets.php:55
 msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
-msgstr ""
+msgstr "Widgets are independent sections of content that can be placed into any widgetised area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
 
 #: wp-admin/widgets.php:56
 msgid "The Available Widgets section contains all the widgets you can choose from. Once you drag a widget into a sidebar, it will open to allow you to configure its settings. When you are happy with the widget settings, click the Save button and the widget will go live on your site. If you click Delete, it will remove the widget."
@@ -18046,7 +18046,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-widgets.php:413
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr ""
+msgstr "Widgets are independent sections of content that can be placed into widgetised areas provided by your theme (commonly called sidebars)."
 
 #: wp-includes/class-wp-customize-widgets.php:683
 msgid "Move to another area&hellip;"
