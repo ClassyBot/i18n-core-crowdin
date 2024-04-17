@@ -1,7 +1,7 @@
 files:
   - source: /en_US.pot
     translation: /translations/%locale_with_underscore%.po
-  - source: /admin-en_US.pot.pot
+  - source: /admin-en_US.pot
     translation: /translations/admin-%locale_with_underscore%.po
   - source: /admin-network-en_US.pot
     translation: /translations/admin-network-%locale_with_underscore%.po
