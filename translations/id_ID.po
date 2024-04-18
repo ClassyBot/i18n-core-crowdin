@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-04-17 15:32\n"
+"PO-Revision-Date: 2024-04-18 05:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -94,7 +94,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:136
 #: wp-includes/admin-bar.php:156
 msgid "About ClassicPress"
-msgstr ""
+msgstr "Tentang ClassicPress"
 
 #: wp-includes/admin-bar.php:167
 msgid "ClassicPress.net"
@@ -280,14 +280,14 @@ msgstr "Ekstensi XML PHP tak tersedia. Silakan hubungi provider hosting Anda unt
 #. translators: 1: Error message, 2: Line number.
 #: wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "Eror XML: %1$s pada baris %2$s"
 
 #. translators: %s: get_the_author()
 #. translators: %s: get_trackback_url()
 #: wp-includes/author-template.php:71
 #: wp-includes/comment-template.php:1295
 msgid "Use %s instead if you do not want the value echoed."
-msgstr ""
+msgstr "Pergunakan %s saja jika Anda tak ingin value-nya ditampilkan."
 
 #. translators: %s: Author's display name.
 #: wp-includes/author-template.php:243
@@ -315,7 +315,7 @@ msgstr "Terakhir diperbarui: %s"
 
 #: wp-includes/bookmark-template.php:231
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marka buku"
 
 #: wp-includes/cache-compat.php:144
 msgid "Your object cache implementation does not support flushing the in-memory runtime cache."
@@ -381,7 +381,7 @@ msgstr "Administrator"
 #: wp-includes/capabilities.php:1265
 msgctxt "User role"
 msgid "Editor"
-msgstr ""
+msgstr "Penyunting"
 
 #. translators: User role for authors.
 #: wp-includes/capabilities.php:1267
@@ -403,7 +403,7 @@ msgstr "Pelanggan"
 
 #: wp-includes/category-template.php:162
 msgid "Uncategorized"
-msgstr ""
+msgstr "Tak Berkategori"
 
 #. translators: 1: "type => link", 2: "taxonomy => link_category"
 #. translators: 1: caller_get_posts, 2: ignore_sticky_posts
@@ -539,7 +539,7 @@ msgstr "Umpan untuk semua pos dalam %s"
 
 #: wp-includes/class-walker-comment.php:258
 msgid "Pingback:"
-msgstr ""
+msgstr "Ping-balik:"
 
 #: wp-includes/class-walker-comment.php:258
 #: wp-includes/class-wp-editor.php:1389
@@ -549,7 +549,7 @@ msgstr "Sunting"
 
 #: wp-includes/class-walker-comment.php:305
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Komentar Anda sedang menunggu moderasi."
 
 #: wp-includes/class-walker-comment.php:307
 msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
@@ -622,11 +622,11 @@ msgstr "+ %s"
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-control.php:639
 msgid "New page title"
-msgstr ""
+msgstr "Judul laman baru"
 
 #: wp-includes/class-wp-customize-control.php:642
 msgid "New page title&hellip;"
-msgstr ""
+msgstr "Judul laman baru&hellip;"
 
 #: wp-includes/class-wp-customize-control.php:643
 #: wp-includes/class-wp-customize-nav-menus.php:1245
@@ -653,7 +653,7 @@ msgstr "Maaf, Anda tak  menyesuaikan situs ini."
 
 #: wp-includes/class-wp-customize-manager.php:525
 msgid "Invalid changeset UUID"
-msgstr ""
+msgstr "Changeset UUID tidak sah"
 
 #: wp-includes/class-wp-customize-manager.php:552
 msgid "Non-existent changeset UUID."
@@ -661,7 +661,7 @@ msgstr "UUID changeset tidak ada."
 
 #: wp-includes/class-wp-customize-manager.php:571
 msgid "Sorry, you are not allowed to edit theme options on this site."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menyunting opsi tema pada situs ini."
 
 #: wp-includes/class-wp-customize-manager.php:581
 msgid "The requested theme does not exist."
@@ -675,15 +675,15 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:2139
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:177
 msgid "Shift-click to edit this element."
-msgstr ""
+msgstr "Tekan Shift-klik untuk mengedit elemen ini."
 
 #: wp-includes/class-wp-customize-manager.php:2140
 msgid "This link is not live-previewable."
-msgstr ""
+msgstr "Tautan ini tak bisa dipratinjau langsung."
 
 #: wp-includes/class-wp-customize-manager.php:2141
 msgid "This form is not live-previewable."
-msgstr ""
+msgstr "Formulir ini tak dapat dipratinjau langsung."
 
 #: wp-includes/class-wp-customize-manager.php:2352
 msgid "Setting does not exist or is unrecognized."
@@ -691,7 +691,7 @@ msgstr "Pengaturan tidak ada atau tidak dikenali."
 
 #: wp-includes/class-wp-customize-manager.php:2357
 msgid "Unauthorized to modify setting due to capability."
-msgstr ""
+msgstr "Tak diizinkan memodifikasi pengaturan lantaran kapabilitas."
 
 #: wp-includes/class-wp-customize-manager.php:2380
 #: wp-includes/class-wp-customize-setting.php:594
@@ -702,7 +702,7 @@ msgstr "Nilai tidak sah."
 #: wp-includes/class-wp-customize-manager.php:2538
 #: wp-includes/class-wp-customize-manager.php:3174
 msgid "Changeset is being edited by other user."
-msgstr ""
+msgstr "Changeset sedang diedit oleh pengguna lain."
 
 #: wp-includes/class-wp-customize-manager.php:2652
 msgid "The previous set of changes has already been published. Please try saving your current set of changes again."
@@ -712,7 +712,7 @@ msgstr "Beberapa setelan perubahan sebelumnya sudah diterbitkan. Silakan mencoba
 #: wp-includes/class-wp-customize-manager.php:2690
 #: wp-includes/script-loader.php:1098
 msgid "You must supply a future date to schedule."
-msgstr ""
+msgstr "Anda harus menentukan tanggal yang akan datang untuk penjadwalan."
 
 #. translators: %s: Number of invalid settings.
 #: wp-includes/class-wp-customize-manager.php:2794
@@ -724,7 +724,7 @@ msgstr[0] "Tidak bisa menyimpan selama ada %s masalah pengaturan."
 
 #: wp-includes/class-wp-customize-manager.php:3141
 msgid "There was an authentication problem. Please reload and try again."
-msgstr ""
+msgstr "Ada masalah otentikasi. Silakan dimuat ulang dan dicoba kembali."
 
 #: wp-includes/class-wp-customize-manager.php:3151
 msgid "No changes saved yet, so there is nothing to trash."
@@ -749,7 +749,7 @@ msgstr "Pemeriksaan keamanan gagal."
 
 #: wp-includes/class-wp-customize-manager.php:3396
 msgid "No changeset found to take over"
-msgstr ""
+msgstr "Tidak ada changeset untuk diambil alih"
 
 #: wp-includes/class-wp-customize-manager.php:3405
 msgid "Sorry, you are not allowed to take over."
@@ -763,12 +763,12 @@ msgstr "Menghapus %1$s secara manual akan memicu peringatan PHP. Pergunakan %2$s
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4123
 msgid "%s is already customizing this changeset. Please wait until they are done to try customizing. Your latest changes have been autosaved."
-msgstr ""
+msgstr "%s sudah menyesuaikan changeset ini. Silakan tunggu sampai mereka selesai mencoba menyesuaikan. Perubahan terbaru Anda telah disimpan secara otomatis."
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4125
 msgid "%s is already customizing this changeset. Do you want to take over?"
-msgstr ""
+msgstr "%s sudah menyesuaikan changeset ini. Apakah Anda ingin mengambil alih?"
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:4130
@@ -805,20 +805,20 @@ msgstr "Ambil alih"
 
 #: wp-includes/class-wp-customize-manager.php:4336
 msgid "Update anyway, even though it might break your site?"
-msgstr ""
+msgstr "Tetap perbarui, meskipun bisa merusak situs Anda?"
 
 #: wp-includes/class-wp-customize-manager.php:4355
 msgid "Share Preview Link"
-msgstr ""
+msgstr "Berbagi Tautan Pratinjau"
 
 #: wp-includes/class-wp-customize-manager.php:4357
 msgid "See how changes would look live on your website, and share the preview with people who can't access the Customizer."
-msgstr ""
+msgstr "Lihatlah bagaimana perubahan akan tampak langsung di website Anda, dan bagikan pratinjaunya dengan orang yang tidak bisa mengakses Penyesuaian."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4363
 msgid "Preview Link"
-msgstr ""
+msgstr "Tautan Pratinjau"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4371
@@ -849,7 +849,7 @@ msgstr "Sesuaikan: %s"
 #. translators: %s: Document title from the preview.
 #: wp-includes/class-wp-customize-manager.php:4577
 msgid "Live Preview: %s"
-msgstr ""
+msgstr "Pratinjau Langsung: %s"
 
 #: wp-includes/class-wp-customize-manager.php:4847
 #: wp-includes/script-loader.php:1089
@@ -888,19 +888,19 @@ msgstr "Menampilkan rincian untuk tema: %s"
 
 #: wp-includes/class-wp-customize-manager.php:5020
 msgid "Enter desktop preview mode"
-msgstr ""
+msgstr "Masuki mode pratinjau desktop"
 
 #: wp-includes/class-wp-customize-manager.php:5024
 msgid "Enter tablet preview mode"
-msgstr ""
+msgstr "Masuki mode pratinjau tablet"
 
 #: wp-includes/class-wp-customize-manager.php:5027
 msgid "Enter mobile preview mode"
-msgstr ""
+msgstr "Masuki mode pratinjau seluler"
 
 #: wp-includes/class-wp-customize-manager.php:5061
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr ""
+msgstr "Sedang mencari sebuah tema? Anda dapat mencari atau menjelajahi direktori tema WordPress.org, memasang dan meninjau tema-tema, lalu mengaktifkannya di sini."
 
 #: wp-includes/class-wp-customize-manager.php:5062
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
@@ -934,7 +934,7 @@ msgstr "Tampilkan Judul Situs dan Slogan"
 
 #: wp-includes/class-wp-customize-manager.php:5192
 msgid "Site Icon"
-msgstr ""
+msgstr "Ikon Situs"
 
 #. translators: %s: Site Icon size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5195
@@ -1008,17 +1008,17 @@ msgstr "Jika Anda menambahkan video, gambar tersebut akan ditampilkan sementara 
 #. translators: 1: .mp4, 2: Header size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5330
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends dimensions of %2$s pixels."
-msgstr ""
+msgstr "Unggah video Anda dalam format %1$s dan minimalkan ukurannya untuk hasil terbaik. Tema Anda menyarankan dimensi %2$s piksel."
 
 #. translators: 1: .mp4, 2: Header width in pixels.
 #: wp-includes/class-wp-customize-manager.php:5337
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a width of %2$s pixels."
-msgstr ""
+msgstr "Unggah video Anda dalam format %1$s dan minimalkan ukurannya untuk hasil terbaik. Tema Anda menyarankan lebar video %2$s piksel."
 
 #. translators: 1: .mp4, 2: Header height in pixels.
 #: wp-includes/class-wp-customize-manager.php:5344
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a height of %2$s pixels."
-msgstr ""
+msgstr "Unggah video Anda dalam format %1$s dan perkecil ukuran berkasnya untuk hasil terbaik. Tema Anda menyarankan tinggi video %2$s piksel."
 
 #: wp-includes/class-wp-customize-manager.php:5350
 #: wp-includes/customize/class-wp-customize-header-image-control.php:55
@@ -1066,7 +1066,7 @@ msgstr "Berulang"
 #: wp-includes/class-wp-customize-manager.php:5507
 msgctxt "Custom Preset"
 msgid "Custom"
-msgstr ""
+msgstr "Tersuai"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5535
@@ -1109,7 +1109,7 @@ msgstr "Pos-pos terbaru Anda"
 
 #: wp-includes/class-wp-customize-manager.php:5645
 msgid "A static page"
-msgstr ""
+msgstr "Sebuah laman statis"
 
 #: wp-includes/class-wp-customize-manager.php:5661
 msgid "Homepage"
@@ -1117,7 +1117,7 @@ msgstr "Beranda"
 
 #: wp-includes/class-wp-customize-manager.php:5679
 msgid "Posts page"
-msgstr ""
+msgstr "Laman pos-pos"
 
 #: wp-includes/class-wp-customize-manager.php:5688
 msgid "Add your own CSS code here to customize the appearance and layout of your site."
@@ -1139,23 +1139,23 @@ msgstr "Ketika menggunakan papan ketik untuk menjelajah:"
 #: wp-includes/class-wp-customize-manager.php:5700
 #: wp-includes/widgets/class-wp-widget-custom-html.php:325
 msgid "In the editing area, the Tab key enters a tab character."
-msgstr ""
+msgstr "Di area penyuntingan, tombol Tab akan mengetikkan karakter tab."
 
 #: wp-includes/class-wp-customize-manager.php:5701
 #: wp-includes/widgets/class-wp-widget-custom-html.php:326
 msgid "To move away from this area, press the Esc key followed by the Tab key."
-msgstr ""
+msgstr "Untuk meninggalkan area ini, tekan tombol Esc diikuti dengan tombol Tab."
 
 #: wp-includes/class-wp-customize-manager.php:5702
 #: wp-includes/widgets/class-wp-widget-custom-html.php:327
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
-msgstr ""
+msgstr "Layar baca pengguna: pada mode formulir, Anda harus menekan tombol Esc dua kali."
 
 #. translators: 1: Link to user profile, 2: Additional link attributes, 3: Accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5709
 #: wp-includes/widgets/class-wp-widget-custom-html.php:312
 msgid "The edit field automatically highlights code syntax. You can disable this in your <a href=\"%1$s\" %2$s>user profile%3$s</a> to work in plain text mode."
-msgstr ""
+msgstr "Bidang sunting otomatis menyoroti kode sintak. Anda bisa mematikan ini pada <a href=\"%1$s\" %2$s>profil pengguna%3$s</a> Anda untuk bekerja dalam mode teks biasa."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5722
@@ -1179,7 +1179,7 @@ msgstr "Kode CSS"
 
 #: wp-includes/class-wp-customize-manager.php:6012
 msgid "Invalid value for background repeat."
-msgstr ""
+msgstr "Nilai untuk perulangan latar belakang tidak sah."
 
 #: wp-includes/class-wp-customize-manager.php:6016
 msgid "Invalid value for background attachment."
@@ -1204,12 +1204,12 @@ msgstr "Pengaturan latar belakang tak dikenal."
 
 #: wp-includes/class-wp-customize-manager.php:6078
 msgid "This video file is too large to use as a header video. Try a shorter video or optimize the compression settings and re-upload a file that is less than 8MB. Or, upload your video to YouTube and link it with the option below."
-msgstr ""
+msgstr "File video ini terlalu besar untuk dipakai sebagai video tajuk. Cobalah video yang lebih pendek atau optimalkan pengaturan kompresi dan unggah ulang video di bawah 8MB. Atau, unggah video Anda ke YouTube dan tautkan dengan opsi di bawah ini."
 
 #. translators: 1: .mp4, 2: .mov
 #: wp-includes/class-wp-customize-manager.php:6086
 msgid "Only %1$s or %2$s files may be used for header video. Please convert your video file and try again, or, upload your video to YouTube and link it with the option below."
-msgstr ""
+msgstr "Hanya file %1$s atau %2$s yang bisa dipakai sebagai video tajuk. Silakan konversikan file video Anda can coba lagi, atau, unggah video Anda ke YouTube dan tautkan dengan opsi di bawah ini."
 
 #: wp-includes/class-wp-customize-manager.php:6111
 msgid "Please enter a valid YouTube URL."
@@ -1227,7 +1227,7 @@ msgstr "Beranda"
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:321
 #: wp-includes/nav-menu.php:914
 msgid "Custom Link"
-msgstr ""
+msgstr "Tautan Tersuai"
 
 #: wp-includes/class-wp-customize-nav-menus.php:198
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:319
@@ -1239,7 +1239,7 @@ msgstr "Arsip Tipe Pos"
 #: wp-includes/script-loader.php:733
 #: wp-includes/script-loader.php:1058
 msgid "No results found."
-msgstr ""
+msgstr "Tak ditemukan hasil apapun."
 
 #: wp-includes/class-wp-customize-nav-menus.php:494
 msgid "Your theme can display menus in one location."
@@ -1282,7 +1282,7 @@ msgstr "Nama Menu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:514
 msgid "If your theme has multiple menus, giving them clear names will help you manage them."
-msgstr ""
+msgstr "Jika tema Anda memiliki banyak menu, pemberian nama yang jelas akan menolong Anda ketika menatanya."
 
 #: wp-includes/class-wp-customize-nav-menus.php:515
 msgid "Menu item added"
@@ -1310,7 +1310,7 @@ msgstr "Item menu digeser ke bawah"
 
 #: wp-includes/class-wp-customize-nav-menus.php:521
 msgid "Menu item moved out of submenu"
-msgstr ""
+msgstr "Item menu dikeluarkan dari submenu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:522
 msgid "Menu item is now a sub-item"
@@ -1369,7 +1369,7 @@ msgstr "Tutup mode penyusunan ulang"
 
 #: wp-includes/class-wp-customize-nav-menus.php:554
 msgid "Move up one"
-msgstr ""
+msgstr "Naikkan satu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:555
 msgid "Move down one"
@@ -1377,7 +1377,7 @@ msgstr "Turunkan satu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:556
 msgid "Move to the top"
-msgstr ""
+msgstr "Naikkan ke paling atas"
 
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:558
@@ -1411,7 +1411,7 @@ msgstr "%1$s. Sub item ke-%2$d di bawah %3$s."
 
 #: wp-includes/class-wp-customize-nav-menus.php:653
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
-msgstr ""
+msgstr "Panel ini digunakan untuk mengelola menu navigasi untuk konten yang sudah Anda terbitkan. Anda bisa membuat menu-menu dan menambahkan item-item untuk konten yang sudah ada, seperti laman, pos, kategori, tag, format, atau tautan tersuai."
 
 #. translators: %s: URL to the Widgets panel of the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:657
@@ -1473,7 +1473,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:955
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2973
 msgid "Status is forbidden."
-msgstr ""
+msgstr "Status ini terlarang."
 
 #: wp-includes/class-wp-customize-nav-menus.php:1041
 msgid "Post"
@@ -1501,7 +1501,7 @@ msgstr "Pindahkan ke bawah"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1098
 msgid "Move one level up"
-msgstr ""
+msgstr "Naikkan satu tingkat"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1099
 msgid "Move one level down"
@@ -1577,7 +1577,7 @@ msgstr "Tidak ada item"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1270
 msgid "Custom Links"
-msgstr ""
+msgstr "Taut Tersuai"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1275
 #: wp-includes/class-wp-editor.php:1266
@@ -1628,7 +1628,7 @@ msgstr "Bantuan"
 
 #: wp-includes/class-wp-customize-section.php:248
 msgid "Customizing"
-msgstr ""
+msgstr "Kustomisasi"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-section.php:363
@@ -1637,7 +1637,7 @@ msgstr "Tekan return atau enter untuk membuka bagian ini"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr ""
+msgstr "Widget adalah bagian-bagian independen dari konten yang bisa ditempatkan di dalam area-area widget yang disediakan oleh tema Anda (umumnya dinamakan bilah sisi)."
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
@@ -1680,7 +1680,7 @@ msgstr "Terapkan"
 
 #: wp-includes/class-wp-customize-widgets.php:780
 msgid "Save and preview changes before publishing them."
-msgstr ""
+msgstr "Simpan dan pratinjau perubahan sebelum menerbitkannya."
 
 #: wp-includes/class-wp-customize-widgets.php:782
 msgid "Keep widget settings and move it to the inactive widgets"
@@ -1688,7 +1688,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-widgets.php:783
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "Terjadi galat. Silakan muat ulang laman ini dan coba lagi."
 
 #: wp-includes/class-wp-customize-widgets.php:784
 msgid "Widget moved up"
@@ -1705,7 +1705,7 @@ msgstr "Anda dapat berpindah ke halaman lain dari situs Anda ketika menggunakan 
 #: wp-includes/class-wp-customize-widgets.php:791
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:59
 msgid "Reorder widgets"
-msgstr ""
+msgstr "Urutkan ulang widget"
 
 #. translators: %d: The number of widgets found.
 #: wp-includes/class-wp-customize-widgets.php:793
@@ -1733,7 +1733,7 @@ msgstr "Mencari widget&hellip;"
 
 #: wp-includes/class-wp-customize-widgets.php:1210
 msgid "Shift-click to edit this widget."
-msgstr ""
+msgstr "Shift-klik untuk menyunting widget ini."
 
 #. translators: Date query invalid date message. 1: Invalid value, 2: Type of value, 3: Minimum valid value, 4: Maximum valid value.
 #: wp-includes/class-wp-date-query.php:404
@@ -1778,27 +1778,27 @@ msgstr "Judul/Heading"
 
 #: wp-includes/class-wp-editor.php:1138
 msgid "Heading 1"
-msgstr ""
+msgstr "Penajukan 1"
 
 #: wp-includes/class-wp-editor.php:1139
 msgid "Heading 2"
-msgstr ""
+msgstr "Penajukan 2"
 
 #: wp-includes/class-wp-editor.php:1140
 msgid "Heading 3"
-msgstr ""
+msgstr "Penajukan 3"
 
 #: wp-includes/class-wp-editor.php:1141
 msgid "Heading 4"
-msgstr ""
+msgstr "Penajukan 4"
 
 #: wp-includes/class-wp-editor.php:1142
 msgid "Heading 5"
-msgstr ""
+msgstr "Penajukan 5"
 
 #: wp-includes/class-wp-editor.php:1143
 msgid "Heading 6"
-msgstr ""
+msgstr "Penajukan 6"
 
 #. translators: Block tags.
 #: wp-includes/class-wp-editor.php:1146
@@ -1823,12 +1823,12 @@ msgstr "Div"
 #: wp-includes/class-wp-editor.php:1150
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "HTML tag"
 msgid "Preformatted"
-msgstr ""
+msgstr "Terformat"
 
 #: wp-includes/class-wp-editor.php:1152
 msgctxt "HTML tag"
@@ -1850,15 +1850,15 @@ msgstr "Coret"
 
 #: wp-includes/class-wp-editor.php:1157
 msgid "Subscript"
-msgstr ""
+msgstr "Tika bawah"
 
 #: wp-includes/class-wp-editor.php:1158
 msgid "Superscript"
-msgstr ""
+msgstr "Tika atas"
 
 #: wp-includes/class-wp-editor.php:1159
 msgid "Clear formatting"
-msgstr ""
+msgstr "Bersihkan pemformatan"
 
 #: wp-includes/class-wp-editor.php:1160
 #: wp-includes/script-loader.php:571
@@ -1905,11 +1905,11 @@ msgstr "Rata kanan kiri"
 
 #: wp-includes/class-wp-editor.php:1171
 msgid "Increase indent"
-msgstr ""
+msgstr "Perlebar inden"
 
 #: wp-includes/class-wp-editor.php:1172
 msgid "Decrease indent"
-msgstr ""
+msgstr "Persempit inden"
 
 #: wp-includes/class-wp-editor.php:1174
 msgid "Cut"
@@ -1929,7 +1929,7 @@ msgstr "Batalkan"
 
 #: wp-includes/class-wp-editor.php:1179
 msgid "Redo"
-msgstr ""
+msgstr "Ulangi"
 
 #: wp-includes/class-wp-editor.php:1181
 msgid "OK"
@@ -2027,7 +2027,7 @@ msgstr "Id"
 
 #: wp-includes/class-wp-editor.php:1207
 msgid "Document properties"
-msgstr ""
+msgstr "Properti dokumen"
 
 #: wp-includes/class-wp-editor.php:1208
 msgid "Robots"
@@ -2046,7 +2046,7 @@ msgstr "Kata kunci"
 
 #: wp-includes/class-wp-editor.php:1211
 msgid "Encoding"
-msgstr ""
+msgstr "Penyandian"
 
 #: wp-includes/class-wp-editor.php:1212
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:125
@@ -2088,7 +2088,7 @@ msgstr "Tepi"
 
 #: wp-includes/class-wp-editor.php:1222
 msgid "Constrain proportions"
-msgstr ""
+msgstr "Pertahankan proporsi"
 
 #: wp-includes/class-wp-editor.php:1223
 msgid "Vertical space"
@@ -2153,7 +2153,7 @@ msgstr "Sumber alternatif"
 
 #: wp-includes/class-wp-editor.php:1237
 msgid "Paste your embed code below:"
-msgstr ""
+msgstr "Tempelkan kode semat Anda dibawah ini:"
 
 #: wp-includes/class-wp-editor.php:1238
 msgid "Insert video"
@@ -2161,7 +2161,7 @@ msgstr "Sisipkan video"
 
 #: wp-includes/class-wp-editor.php:1239
 msgid "Embed"
-msgstr ""
+msgstr "Sematkan"
 
 #: wp-includes/class-wp-editor.php:1242
 msgid "Special character"
@@ -2179,7 +2179,7 @@ msgstr "Kiri ke kanan"
 
 #: wp-includes/class-wp-editor.php:1245
 msgid "Emoticons"
-msgstr ""
+msgstr "Emotikon"
 
 #: wp-includes/class-wp-editor.php:1246
 msgid "Nonbreaking space"
@@ -2188,11 +2188,11 @@ msgstr "Spasi tanpa putus"
 #: wp-includes/class-wp-editor.php:1247
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:124
 msgid "Page break"
-msgstr ""
+msgstr "Pemisah laman"
 
 #: wp-includes/class-wp-editor.php:1248
 msgid "Paste as text"
-msgstr ""
+msgstr "Tempelkan sebagai teks"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Print"
@@ -2205,7 +2205,7 @@ msgstr "Simpan"
 #: wp-includes/class-wp-editor.php:1252
 #: wp-includes/script-loader.php:866
 msgid "Fullscreen"
-msgstr ""
+msgstr "Selayar penuh"
 
 #: wp-includes/class-wp-editor.php:1253
 msgid "Horizontal line"
@@ -2213,7 +2213,7 @@ msgstr "Garis mendatar"
 
 #: wp-includes/class-wp-editor.php:1254
 msgid "Horizontal space"
-msgstr ""
+msgstr "Spasi horisontal"
 
 #: wp-includes/class-wp-editor.php:1255
 msgid "Restore last draft"
@@ -2257,7 +2257,7 @@ msgstr "URL yang Anda masukkan sepertinya merupakan alamat surel. Apakah Anda in
 
 #: wp-includes/class-wp-editor.php:1270
 msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
-msgstr ""
+msgstr "URL yang Anda masukkan sepertinya merupakan taut eksternal. Apakah Anda ingin menambah awalan http://?"
 
 #: wp-includes/class-wp-editor.php:1272
 msgid "Color"
@@ -2265,12 +2265,12 @@ msgstr "Warna"
 
 #: wp-includes/class-wp-editor.php:1273
 msgid "Custom color"
-msgstr ""
+msgstr "Warna tersuai"
 
 #: wp-includes/class-wp-editor.php:1274
 msgctxt "label for custom color"
 msgid "Custom..."
-msgstr ""
+msgstr "Tersuai..."
 
 #: wp-includes/class-wp-editor.php:1275
 msgid "No color"
@@ -2337,7 +2337,7 @@ msgstr "Gantikan semua"
 
 #: wp-includes/class-wp-editor.php:1291
 msgid "Match case"
-msgstr ""
+msgstr "Cocokkan kapitalisasi abjad"
 
 #: wp-includes/class-wp-editor.php:1292
 msgid "Check Spelling"
@@ -2372,15 +2372,15 @@ msgstr "Hapus tabel"
 
 #: wp-includes/class-wp-editor.php:1301
 msgid "Table properties"
-msgstr ""
+msgstr "Properti tabel"
 
 #: wp-includes/class-wp-editor.php:1302
 msgid "Table row properties"
-msgstr ""
+msgstr "Properti baris tabel"
 
 #: wp-includes/class-wp-editor.php:1303
 msgid "Table cell properties"
-msgstr ""
+msgstr "Properti tabel sel"
 
 #: wp-includes/class-wp-editor.php:1304
 msgid "Border color"
@@ -2500,12 +2500,12 @@ msgstr "Keterangan"
 #: wp-includes/class-wp-editor.php:1332
 #: wp-includes/media-template.php:811
 msgid "Alignment"
-msgstr ""
+msgstr "Perataan"
 
 #: wp-includes/class-wp-editor.php:1333
 msgctxt "horizontal table cell alignment"
 msgid "H Align"
-msgstr ""
+msgstr "Perataan horisontal"
 
 #: wp-includes/class-wp-editor.php:1334
 #: wp-includes/customize/class-wp-customize-background-position-control.php:57
@@ -2534,12 +2534,12 @@ msgstr "Kanan"
 #: wp-includes/class-wp-editor.php:1337
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr ""
+msgstr "Tanpa perataan"
 
 #: wp-includes/class-wp-editor.php:1338
 msgctxt "vertical table cell alignment"
 msgid "V Align"
-msgstr ""
+msgstr "Perataan vertikal"
 
 #: wp-includes/class-wp-editor.php:1339
 #: wp-includes/customize/class-wp-customize-background-position-control.php:47
@@ -2587,12 +2587,12 @@ msgstr "Cakupan"
 #: wp-includes/class-wp-editor.php:1351
 msgctxt "TinyMCE"
 msgid "Insert template"
-msgstr ""
+msgstr "Masukkan templat"
 
 #: wp-includes/class-wp-editor.php:1352
 msgctxt "TinyMCE"
 msgid "Templates"
-msgstr ""
+msgstr "Templat"
 
 #: wp-includes/class-wp-editor.php:1354
 msgid "Background color"
@@ -2618,7 +2618,7 @@ msgstr "Kata: %s"
 
 #: wp-includes/class-wp-editor.php:1362
 msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
-msgstr ""
+msgstr "Menempelkan sekarang dalam mode teks biasa. Konten akan ditempelkan sebagai teks biasa sampai Anda menonaktifkan opsi ini."
 
 #: wp-includes/class-wp-editor.php:1363
 msgid "If you are looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
@@ -2631,13 +2631,13 @@ msgstr "Area Teks Kaya. Tekan Alt-Shift-H untuk bantuan."
 #: wp-includes/class-wp-editor.php:1366
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:678
 msgid "Rich Text Area. Press Control-Option-H for help."
-msgstr ""
+msgstr "Area Teks Kaya Fitur. Tekan Control-Option-H untuk bantuan."
 
 #: wp-includes/class-wp-editor.php:1368
 #: wp-includes/script-loader.php:1099
 #: wp-includes/theme.php:3602
 msgid "The changes you made will be lost if you navigate away from this page."
-msgstr ""
+msgstr "Perubahan yang Anda buat akan hilang jika Anda meninggalkan laman ini."
 
 #: wp-includes/class-wp-editor.php:1370
 msgid "Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser&#8217;s edit menu instead."
@@ -2680,7 +2680,7 @@ msgstr "Format"
 
 #: wp-includes/class-wp-editor.php:1382
 msgid "Toolbar Toggle"
-msgstr ""
+msgstr "Nyalakan Bilah Perkakas"
 
 #: wp-includes/class-wp-editor.php:1383
 #: wp-includes/script-loader.php:591
@@ -2703,11 +2703,11 @@ msgstr "Mode menulis bebas-gangguan"
 
 #: wp-includes/class-wp-editor.php:1387
 msgid "No alignment"
-msgstr ""
+msgstr "Tanpa perataan"
 
 #: wp-includes/class-wp-editor.php:1390
 msgid "Paste URL or type to search"
-msgstr ""
+msgstr "Tempelkan URL atau ketik untuk mencari"
 
 #: wp-includes/class-wp-editor.php:1392
 msgid "Link options"
@@ -2738,15 +2738,15 @@ msgstr "Pintasan fokus:"
 
 #: wp-includes/class-wp-editor.php:1402
 msgid "Inline toolbar (when an image, link or preview is selected)"
-msgstr ""
+msgstr "Inline toolbar (saat menyeleksi suatu gambar, tautan, atau pratinjau)"
 
 #: wp-includes/class-wp-editor.php:1403
 msgid "Editor menu (when enabled)"
-msgstr ""
+msgstr "Menu penyunting (jika diaktifkan)"
 
 #: wp-includes/class-wp-editor.php:1404
 msgid "Editor toolbar"
-msgstr ""
+msgstr "Bilah perkakas penyunting"
 
 #: wp-includes/class-wp-editor.php:1405
 msgid "Elements path"
@@ -2755,7 +2755,7 @@ msgstr "Path elemen"
 #: wp-includes/class-wp-editor.php:1406
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
 msgid "Ctrl + Alt + letter:"
-msgstr ""
+msgstr "Ctrl + Alt + huruf:"
 
 #: wp-includes/class-wp-editor.php:1407
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
@@ -2764,12 +2764,12 @@ msgstr "Shift + Alt + huruf:"
 
 #: wp-includes/class-wp-editor.php:1408
 msgid "Cmd + letter:"
-msgstr ""
+msgstr "Cmd + huruf:"
 
 #: wp-includes/class-wp-editor.php:1409
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "Ctrl + letter:"
-msgstr ""
+msgstr "Ctrl + huruf:"
 
 #: wp-includes/class-wp-editor.php:1410
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
@@ -2784,17 +2784,17 @@ msgstr "Tindakan"
 
 #: wp-includes/class-wp-editor.php:1412
 msgid "Warning: the link has been inserted but may have errors. Please test it."
-msgstr ""
+msgstr "Peringatan: tautan telah disisipkan tetapi mungkin mengandung galat. Silakan diuji."
 
 #: wp-includes/class-wp-editor.php:1414
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:377
 msgid "To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons."
-msgstr ""
+msgstr "Untuk memindahkan fokus ke tombol lainnya, gunakan tombol Tab atau panah. Untuk mengembalikan fokus ke penyunting, tekan Escape atau salah satu tombol."
 
 #: wp-includes/class-wp-editor.php:1416
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:349
 msgid "When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo."
-msgstr ""
+msgstr "Saat memulai paragraf baru dengan salah satu pintasan pemformatan ini diikuti dengan sebuah spasi, pemformatan akan diterapkan secara otomatis. Klik Backspace atau Escape untuk membatalkan."
 
 #: wp-includes/class-wp-editor.php:1418
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:356
@@ -2822,7 +2822,7 @@ msgstr "Buka tautan di tab baru"
 
 #: wp-includes/class-wp-editor.php:1899
 msgid "Or link to existing content"
-msgstr ""
+msgstr "Atau pasang tautan ke konten yang ada"
 
 #: wp-includes/class-wp-editor.php:1916
 msgid "No search term specified. Showing recent items."
@@ -2887,7 +2887,7 @@ msgstr "Gagal menulis permohonan ke dalam berkas sementara."
 #: wp-includes/class-wp-http-streams.php:195
 #: wp-includes/class-wp-http-streams.php:204
 msgid "The SSL certificate for the host could not be verified."
-msgstr ""
+msgstr "Sertifikat SSL untuk host tidak dapat diverifikasi."
 
 #: wp-includes/class-wp-http.php:300
 #: wp-includes/class-wp-http.php:535
@@ -2901,7 +2901,7 @@ msgstr "Pengguna telah memblokir permintaan melalui HTTP."
 
 #: wp-includes/class-wp-http.php:324
 msgid "Destination directory for file streaming does not exist or is not writable."
-msgstr ""
+msgstr "Direktori tujuan untuk aliran berkas tidak ada atau tidak dapat ditulis."
 
 #: wp-includes/class-wp-http.php:604
 msgid "There are no HTTP transports available which can complete the requested request."
@@ -2931,7 +2931,7 @@ msgstr "Perubahan ukuran gambar gagal."
 #: wp-includes/class-wp-image-editor-gd.php:200
 #: wp-includes/class-wp-image-editor-imagick.php:321
 msgid "Could not calculate resized image dimensions"
-msgstr ""
+msgstr "Tidak dapat menghitung pengubahan ukuran dimensi gambar"
 
 #: wp-includes/class-wp-image-editor-gd.php:277
 #: wp-includes/class-wp-image-editor-imagick.php:534
@@ -2957,7 +2957,7 @@ msgstr "Pembalikan gambar gagal."
 #: wp-includes/class-wp-image-editor-gd.php:498
 #: wp-includes/class-wp-image-editor-gd.php:501
 msgid "Image Editor Save Failed"
-msgstr ""
+msgstr "Penyimpanan Penyunting Gambar Gagal"
 
 #: wp-includes/class-wp-image-editor-imagick.php:553
 msgid "The image already has the requested size."
@@ -2977,7 +2977,7 @@ msgstr ""
 #: wp-includes/functions.php:2380
 #: wp-includes/functions.php:2915
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr ""
+msgstr "Tidak dapat membuat direktori %s. Apakah direktori induknya dapat ditulis oleh server?"
 
 #. translators: %s: ImageMagick method name.
 #: wp-includes/class-wp-image-editor-imagick.php:902
@@ -3089,22 +3089,22 @@ msgstr "Sel"
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:169
 msgid "Wed"
-msgstr ""
+msgstr "Rab"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:170
 msgid "Thu"
-msgstr ""
+msgstr "Kam"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:171
 msgid "Fri"
-msgstr ""
+msgstr "Jum"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:172
 msgid "Sat"
-msgstr ""
+msgstr "Sab"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:175
@@ -3284,7 +3284,7 @@ msgstr "Jul"
 #: wp-includes/class-wp-locale.php:210
 msgctxt "August abbreviation"
 msgid "Aug"
-msgstr ""
+msgstr "Agu"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:211
@@ -3296,7 +3296,7 @@ msgstr "Sep"
 #: wp-includes/class-wp-locale.php:212
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr ""
+msgstr "Okt"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:213
@@ -3308,7 +3308,7 @@ msgstr "Nov"
 #: wp-includes/class-wp-locale.php:214
 msgctxt "December abbreviation"
 msgid "Dec"
-msgstr ""
+msgstr "Des"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
@@ -3352,7 +3352,7 @@ msgstr ", "
 #: wp-includes/js/dist/i18n.js:1941
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:395
@@ -3396,19 +3396,19 @@ msgstr ""
 #: wp-includes/class-wp-oembed-controller.php:45
 #: wp-includes/class-wp-oembed-controller.php:73
 msgid "The URL of the resource for which to fetch oEmbed data."
-msgstr ""
+msgstr "URL dari sumber dimana data oEmbed akan diperoleh."
 
 #: wp-includes/class-wp-oembed-controller.php:79
 msgid "The oEmbed format to use."
-msgstr ""
+msgstr "Format oEmbed yang akan digunakan."
 
 #: wp-includes/class-wp-oembed-controller.php:88
 msgid "The maximum width of the embed frame in pixels."
-msgstr ""
+msgstr "Lebar maksimal frame sematan dalam satuan piksel."
 
 #: wp-includes/class-wp-oembed-controller.php:94
 msgid "The maximum height of the embed frame in pixels."
-msgstr ""
+msgstr "Ketinggian maksimal frame sematan dalam satuan piksel."
 
 #: wp-includes/class-wp-oembed-controller.php:99
 msgid "Whether to perform an oEmbed discovery request for unsanctioned providers."
@@ -3416,7 +3416,7 @@ msgstr ""
 
 #: wp-includes/class-wp-oembed-controller.php:150
 msgid "Sorry, you are not allowed to make proxied oEmbed requests."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan membuat permintaan oEmbed terproxy."
 
 #: wp-includes/class-wp-oembed-controller.php:216
 msgid "Embed Handler"
@@ -3430,7 +3430,7 @@ msgstr "Pos"
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
 msgid "Pages"
-msgstr ""
+msgstr "Laman"
 
 #: wp-includes/class-wp-post-type.php:801
 msgctxt "post type singular name"
@@ -3458,7 +3458,7 @@ msgstr "Tambahkan Pos Baru"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Page"
-msgstr ""
+msgstr "Tambah Laman Baru"
 
 #: wp-includes/class-wp-post-type.php:804
 msgid "Edit Post"
@@ -3466,7 +3466,7 @@ msgstr "Sunting Pos"
 
 #: wp-includes/class-wp-post-type.php:804
 msgid "Edit Page"
-msgstr ""
+msgstr "Edit Laman"
 
 #: wp-includes/class-wp-post-type.php:805
 msgid "New Post"
@@ -3474,7 +3474,7 @@ msgstr "Pos Baru"
 
 #: wp-includes/class-wp-post-type.php:805
 msgid "New Page"
-msgstr ""
+msgstr "Laman Baru"
 
 #: wp-includes/class-wp-post-type.php:806
 msgid "View Post"
@@ -3482,7 +3482,7 @@ msgstr "Tampilkan Pos"
 
 #: wp-includes/class-wp-post-type.php:806
 msgid "View Page"
-msgstr ""
+msgstr "Lihat Laman"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Posts"
@@ -3490,7 +3490,7 @@ msgstr "Lihat Pos"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Pages"
-msgstr ""
+msgstr "Lihat Laman"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Posts"
@@ -3498,7 +3498,7 @@ msgstr "Cari Pos"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Pages"
-msgstr ""
+msgstr "Cari Laman"
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No posts found."
@@ -3506,7 +3506,7 @@ msgstr "Tidak ada pos yang ditemukan."
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No pages found."
-msgstr ""
+msgstr "Tidak ada laman yang ditemukan."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No posts found in Trash."
@@ -3514,11 +3514,11 @@ msgstr "Tidak ada pos yang ditemukan dalam Sampah."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No pages found in Trash."
-msgstr ""
+msgstr "Tidak ada laman yang ditemukan dalam Sampah."
 
 #: wp-includes/class-wp-post-type.php:811
 msgid "Parent Page:"
-msgstr ""
+msgstr "Laman Induk:"
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Posts"
@@ -3526,7 +3526,7 @@ msgstr "Semua Pos"
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Pages"
-msgstr ""
+msgstr "Semua Laman"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Post Archives"
@@ -3534,7 +3534,7 @@ msgstr "Arsip Pos"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Page Archives"
-msgstr ""
+msgstr "Arsip Laman"
 
 #: wp-includes/class-wp-post-type.php:814
 msgid "Post Attributes"
@@ -3542,7 +3542,7 @@ msgstr "Atribut Pos"
 
 #: wp-includes/class-wp-post-type.php:814
 msgid "Page Attributes"
-msgstr ""
+msgstr "Atribut Laman"
 
 #: wp-includes/class-wp-post-type.php:815
 msgid "Insert into post"
@@ -3554,11 +3554,11 @@ msgstr "Sisipkan ke lama"
 
 #: wp-includes/class-wp-post-type.php:816
 msgid "Uploaded to this post"
-msgstr ""
+msgstr "Terunggah ke pos ini"
 
 #: wp-includes/class-wp-post-type.php:816
 msgid "Uploaded to this page"
-msgstr ""
+msgstr "Unggah ke laman ini"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
@@ -3573,32 +3573,32 @@ msgstr ""
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
 msgid "Set featured image"
-msgstr ""
+msgstr "Tetapkan gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "page"
 msgid "Set featured image"
-msgstr ""
+msgstr "Tetapkan gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "post"
 msgid "Remove featured image"
-msgstr ""
+msgstr "Hapus gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "page"
 msgid "Remove featured image"
-msgstr ""
+msgstr "Hapus gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:820
 msgctxt "post"
 msgid "Use as featured image"
-msgstr ""
+msgstr "Gunakan sebagai gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:820
 msgctxt "page"
 msgid "Use as featured image"
-msgstr ""
+msgstr "Gunakan sebagai gambar unggulan"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter posts list"
@@ -3606,7 +3606,7 @@ msgstr "Saring daftar pos"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter pages list"
-msgstr ""
+msgstr "Saring daftar laman"
 
 #: wp-includes/class-wp-post-type.php:822
 #: wp-includes/media.php:4621
@@ -3619,7 +3619,7 @@ msgstr "Navigasi daftar pos"
 
 #: wp-includes/class-wp-post-type.php:823
 msgid "Pages list navigation"
-msgstr ""
+msgstr "Navigasi daftar laman"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Posts list"
@@ -3627,7 +3627,7 @@ msgstr "Daftar pos"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Pages list"
-msgstr ""
+msgstr "Daftar laman"
 
 #: wp-includes/class-wp-post-type.php:825
 msgid "Post published."
@@ -3635,7 +3635,7 @@ msgstr "Tulisan diterbitkan."
 
 #: wp-includes/class-wp-post-type.php:825
 msgid "Page published."
-msgstr ""
+msgstr "Laman telah diterbitkan."
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Post published privately."
@@ -3667,7 +3667,7 @@ msgstr "Pos telah diperbarui."
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Page updated."
-msgstr ""
+msgstr "Laman diperbarui."
 
 #: wp-includes/class-wp-post-type.php:831
 msgctxt "navigation link block title"
@@ -3852,7 +3852,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:2886
 #: wp-includes/taxonomy.php:3097
 msgid "Invalid taxonomy."
-msgstr ""
+msgstr "Taksonomi tidak sah."
 
 #: wp-includes/class-wp-tax-query.php:652
 msgid "Inexistent terms."
@@ -3864,7 +3864,7 @@ msgstr "Nama ini mencerminkan bagaimana tampil di situs Anda."
 
 #: wp-includes/class-wp-taxonomy.php:607
 msgid "The &#8220;slug&#8221; is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
-msgstr ""
+msgstr "&#8220;Slug&#8221; ialah versi ramah sebuah URL dari nama. Biasanya seluruhnya merupakan huruf kecil dan hanya mengandung huruf, angka, dan tanda strip."
 
 #: wp-includes/class-wp-taxonomy.php:608
 msgid "Assign a parent term to create a hierarchy. The term Jazz, for example, would be the parent of Bebop and Big Band."
@@ -3872,7 +3872,7 @@ msgstr "Tetapkan sebuah terma induk untuk membuat sebuah hirarki. Terma Jazz, co
 
 #: wp-includes/class-wp-taxonomy.php:609
 msgid "The description is not prominent by default; however, some themes may show it."
-msgstr ""
+msgstr "Deskripsi ini tidak tampil dalam keadaan standar. Namun, beberapa tema akan menampilkannya."
 
 #: wp-includes/class-wp-taxonomy.php:612
 msgctxt "taxonomy general name"
@@ -3940,11 +3940,11 @@ msgstr "Tampilkan Kategori"
 
 #: wp-includes/class-wp-taxonomy.php:625
 msgid "Update Tag"
-msgstr ""
+msgstr "Perbarui Tag"
 
 #: wp-includes/class-wp-taxonomy.php:625
 msgid "Update Category"
-msgstr ""
+msgstr "Perbarui Kategori"
 
 #: wp-includes/class-wp-taxonomy.php:626
 msgid "Add New Tag"
@@ -4048,7 +4048,7 @@ msgstr ""
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
-msgstr ""
+msgstr "Term ID digunakan bersama oleh beberapa taksonomi"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:119
@@ -4068,7 +4068,7 @@ msgstr ""
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:261
 msgid "The theme directory \"%s\" does not exist."
-msgstr ""
+msgstr "Direktori tema \"%s\" tidak ada."
 
 #: wp-includes/class-wp-theme.php:266
 msgid "Stylesheet is missing."
@@ -4085,7 +4085,7 @@ msgstr "Lembar-gaya tidak dapat dibaca."
 #. translators: %s: Template.
 #: wp-includes/class-wp-theme.php:317
 msgid "The theme defines itself as its parent theme. Please check the %s header."
-msgstr ""
+msgstr "Tema menentukan dirinya sendiri sebagai induk temanya. Silakan periksa tajuk ini %s."
 
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-includes/class-wp-theme.php:343
@@ -4182,19 +4182,19 @@ msgstr "Terang"
 
 #: wp-includes/class-wp-theme.php:1014
 msgid "Fixed Layout"
-msgstr ""
+msgstr "Tataletak Kaku"
 
 #: wp-includes/class-wp-theme.php:1015
 msgid "Fluid Layout"
-msgstr ""
+msgstr "Tataletak Fleksibel"
 
 #: wp-includes/class-wp-theme.php:1016
 msgid "Responsive Layout"
-msgstr ""
+msgstr "Tataletak Responsif"
 
 #: wp-includes/class-wp-theme.php:1017
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:1018
 msgid "Photoblogging"
@@ -4219,7 +4219,7 @@ msgstr "Gunakan %s saja."
 
 #: wp-includes/class-wp-user.php:774
 msgid "Usage of user levels is deprecated. Use capabilities instead."
-msgstr ""
+msgstr "Penggunaan level pengguna sudah tidak berlaku lagi. Gunakan kapabilitas sebagai penggantinya."
 
 #: wp-includes/class-wp-widget.php:144
 msgid "There are no options for this widget."
@@ -4227,7 +4227,7 @@ msgstr "Tak ada opsi untuk widget ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:288
 msgid "XML-RPC services are disabled on this site."
-msgstr ""
+msgstr "Layanan XML-RPC tidak tersedia di situs ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:299
 msgid "Incorrect username or password."
@@ -4243,7 +4243,7 @@ msgstr "Versi Perangkat Lunak"
 
 #: wp-includes/class-wp-xmlrpc-server.php:532
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "Alamat ClassicPress (URL)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:537
 msgid "Site Address (URL)"
@@ -4267,11 +4267,11 @@ msgstr "Ukuran gambar bawaan"
 
 #: wp-includes/class-wp-xmlrpc-server.php:562
 msgid "Image default align"
-msgstr ""
+msgstr "Perataan gambar bawaan"
 
 #: wp-includes/class-wp-xmlrpc-server.php:567
 msgid "Template"
-msgstr ""
+msgstr "Templat"
 
 #: wp-includes/class-wp-xmlrpc-server.php:572
 msgid "Stylesheet"
@@ -4348,17 +4348,17 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:783
 msgid "Insufficient arguments passed to this XML-RPC method."
-msgstr ""
+msgstr "Argument kurang lengkap untuk metode XML-RPC ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1380
 msgid "Sorry, you cannot stick a private post."
-msgstr ""
+msgstr "Maaf, Anda tidak dapat menempelkan sebuah pos privat."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1388
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:609
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:820
 msgid "Sorry, you are not allowed to make posts sticky."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan membuat pos tertempel."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1447
 #: wp-includes/class-wp-xmlrpc-server.php:1750
@@ -4403,7 +4403,7 @@ msgstr "ID pos tidak sah."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:489
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:804
 msgid "Sorry, you are not allowed to edit this post."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk mennyunting pos ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1453
 #: wp-includes/class-wp-xmlrpc-server.php:5748
@@ -4418,7 +4418,7 @@ msgstr "Maaf, Anda tidak  untuk mengirim pos pada situs ini."
 #: wp-includes/class-wp-xmlrpc-server.php:1467
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1443
 msgid "Sorry, you are not allowed to create private posts in this post type."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk membuat pos privat pada tipe pos ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1473
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1453
@@ -4452,12 +4452,12 @@ msgstr "ID lampiran tidak sah."
 #: wp-includes/class-wp-xmlrpc-server.php:1569
 #: wp-includes/class-wp-xmlrpc-server.php:1596
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
-msgstr ""
+msgstr "Maaf, salah satu taksonomi yang dimasukkan tidak didukung oleh tipe pos."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1573
 #: wp-includes/class-wp-xmlrpc-server.php:1600
 msgid "Sorry, you are not allowed to assign a term to one of the given taxonomies."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk menunjuk sebuah istilah pada taksonomi berikut ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1582
 #: wp-includes/class-wp-xmlrpc-server.php:2213
@@ -4470,11 +4470,11 @@ msgstr "ID istilah tidak sah."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1629
 msgid "Ambiguous term name used in a hierarchical taxonomy. Please use term ID instead."
-msgstr ""
+msgstr "Nama istilah yang ambigu digunakan pada hirarki taksonomi. Mohon gunakan ID istilah saja."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1637
 msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk menambahkan sebuah istilah pada taksonomi yang telah disebutkan."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1699
 #: wp-includes/class-wp-xmlrpc-server.php:5217
@@ -4510,12 +4510,12 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:157
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:161
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengedit pos dalam tipe pos ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2097
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:481
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan membuat terma-terma dalam taksonomi ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2107
 #: wp-includes/class-wp-xmlrpc-server.php:2224
@@ -4524,7 +4524,7 @@ msgstr "Nama istilah tidak boleh kosong."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2112
 msgid "This taxonomy is not hierarchical."
-msgstr ""
+msgstr "Taksonomi ini tidak bersifat hirarkis."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2123
 #: wp-includes/class-wp-xmlrpc-server.php:2241
@@ -4545,7 +4545,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:432
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:623
 msgid "Sorry, you are not allowed to edit this term."
-msgstr ""
+msgstr "Maaf, Anda tak diziinkan menyunting istilah ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2230
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:201
@@ -4553,11 +4553,11 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:502
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:649
 msgid "Cannot set parent term, taxonomy is not hierarchical."
-msgstr ""
+msgstr "Tidak dapat menetapkan induk istilah, taksonomi tidak hirarkis."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2262
 msgid "Sorry, editing the term failed."
-msgstr ""
+msgstr "Maaf, penyuntingan istilah gagal."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2327
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:724
@@ -4575,7 +4575,7 @@ msgstr "Maaf, Anda tak  menerapkan istilah ini."
 #: wp-includes/class-wp-xmlrpc-server.php:2462
 #: wp-includes/class-wp-xmlrpc-server.php:2568
 msgid "Sorry, you are not allowed to assign terms in this taxonomy."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menerapkan terma-terma dalam taksonomi ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2706
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:699
@@ -4596,7 +4596,7 @@ msgstr "ID pengguna tidak sah."
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:445
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:451
 msgid "Sorry, you are not allowed to list users."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan melihat daftar pengguna."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2787
 msgid "Invalid role."
@@ -4614,26 +4614,26 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:2981
 #: wp-includes/class-wp-xmlrpc-server.php:3197
 msgid "Sorry, you are not allowed to edit this page."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menyunting laman ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2992
 #: wp-includes/class-wp-xmlrpc-server.php:3126
 #: wp-includes/class-wp-xmlrpc-server.php:3192
 msgid "Sorry, no such page."
-msgstr ""
+msgstr "Maaf, tidak ada laman seperti itu."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3024
 #: wp-includes/class-wp-xmlrpc-server.php:3246
 msgid "Sorry, you are not allowed to edit pages."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan menyunting laman."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3131
 msgid "Sorry, you are not allowed to delete this page."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menghapus laman ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3137
 msgid "Failed to delete the page."
-msgstr ""
+msgstr "Gagal untuk menghapus laman ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3307
 #: wp-includes/class-wp-xmlrpc-server.php:4693
@@ -4648,7 +4648,7 @@ msgstr "Maaf, Anda harus dapat mengedit pos di situs ini untuk melihat label-lab
 
 #: wp-includes/class-wp-xmlrpc-server.php:3409
 msgid "Sorry, you are not allowed to add a category."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menambahkan kategori."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3441
 #: wp-includes/class-wp-xmlrpc-server.php:3444
@@ -4657,13 +4657,13 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:3491
 msgid "Sorry, you are not allowed to delete this category."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menghapus kategori ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3541
 #: wp-includes/class-wp-xmlrpc-server.php:6320
 #: wp-includes/class-wp-xmlrpc-server.php:6562
 msgid "Sorry, you must be able to edit posts on this site in order to view categories."
-msgstr ""
+msgstr "Maaf, Anda harus memiliki wewenang penyuntingan pos di situs ini untuk melihat kategori."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3595
 #: wp-includes/class-wp-xmlrpc-server.php:3732
@@ -4676,7 +4676,7 @@ msgstr "ID komentar tidak sah."
 #: wp-includes/class-wp-xmlrpc-server.php:3599
 #: wp-includes/class-wp-xmlrpc-server.php:3804
 msgid "Sorry, you are not allowed to moderate or edit this comment."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan memoderasi atau menyunting komentar ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3654
 #: wp-includes/class-wp-xmlrpc-server.php:3818
@@ -4736,7 +4736,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:4306
 msgid "Sorry, you are not allowed to update options."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan memperbarui opsi-opsi."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4363
 #: wp-includes/class-wp-xmlrpc-server.php:4418
@@ -4774,11 +4774,11 @@ msgstr "Maaf, tidak ada pos seperti itu."
 #: wp-includes/class-wp-xmlrpc-server.php:5924
 #: wp-includes/class-wp-xmlrpc-server.php:6803
 msgid "Sorry, you are not allowed to publish this post."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menerbitkan pos ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5362
 msgid "Sorry, you are not allowed to publish pages on this site."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk menerbitkan laman pada situs ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5375
 #: wp-includes/class-wp-xmlrpc-server.php:5389
@@ -4793,19 +4793,19 @@ msgstr "Format pos tidak sah."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5445
 msgid "Sorry, you are not allowed to create pages as this user."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan untuk membuat laman sebagai pengguna ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5807
 msgid "Sorry, you are not allowed to change the post author as this user."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengubah penulis pos sebagai pengguna ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5812
 msgid "Sorry, you are not allowed to change the page author as this user."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengubah penulis laman sebagai pengguna ini."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5922
 msgid "Sorry, you are not allowed to publish this page."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan menerbitkan laman ini."
 
 #. translators: %s: Allowed space allocation.
 #: wp-includes/class-wp-xmlrpc-server.php:6397
@@ -4851,7 +4851,7 @@ msgstr "URL sumber tersebut tidak mengandung sebuah taut ke URL target, sehingga
 #. translators: 1: URL of the page linked from, 2: URL of the page linked to.
 #: wp-includes/class-wp-xmlrpc-server.php:7062
 msgid "Pingback from %1$s to %2$s registered. Keep the web talking! :-)"
-msgstr ""
+msgstr "Pingbalik dari %1$s ke %2$s telah terdaftar. Buat web terus berbicara! :-)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:7095
 msgid "The specified target URL does not exist."
@@ -4859,7 +4859,7 @@ msgstr "URL target yang diberikan tidak ada."
 
 #: wp-includes/class-wp.php:311
 msgid "A variable mismatch has been detected."
-msgstr ""
+msgstr "Ketidakcocokan variabel telah terdeteksi."
 
 #: wp-includes/class-wp.php:311
 msgid "Sorry, you are not allowed to view this item."
@@ -4886,7 +4886,7 @@ msgstr "Apakah pengguna %1$s memiliki izin untuk menggunakan basis data %2$s?"
 #. translators: %s: Database name.
 #: wp-includes/class-wpdb.php:1225
 msgid "On some systems the name of your database is prefixed with your username, so it would be like <code>username_%1$s</code>. Could that be the problem?"
-msgstr ""
+msgstr "Pada beberapa sistem, nama basis data Anda diawali dengan nama pengguna Anda, menjadi seperti <code>username_%1$s</code>. Apa mungkin itu masalahnya?"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:1233
@@ -4918,12 +4918,12 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:1661
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
-msgstr ""
+msgstr "Kueri ini hanya memerlukan satu wadah isian, tapi sebuah jajaran dari beberapa wadah isian telah dikirimkan."
 
 #. translators: 1: Number of placeholders, 2: Number of arguments passed.
 #: wp-includes/class-wpdb.php:1677
 msgid "The query does not contain the correct number of placeholders (%1$d) for the number of arguments passed (%2$d)."
-msgstr ""
+msgstr "Kueri tidak mengandung sejumlah parameter yang benar (%1$d) untuk jumlah argumen (%2$d) yang seharusnya dilewati."
 
 #. translators: %s: Value type.
 #: wp-includes/class-wpdb.php:1721
@@ -4933,12 +4933,12 @@ msgstr "Jenis nilai tidak didukung (%s)."
 #: wp-includes/class-wpdb.php:1814
 #: wp-includes/class-wpdb.php:1831
 msgid "ClassicPress database error:"
-msgstr ""
+msgstr "Galat basis data ClassicPress:"
 
 #: wp-includes/class-wpdb.php:1985
 #: wp-includes/functions.php:5358
 msgid "Error establishing a database connection"
-msgstr ""
+msgstr "Galat mengadakan koneksi basis data"
 
 #. translators: 1: wp-config.php, 2: Database host.
 #: wp-includes/class-wpdb.php:1989
@@ -4967,7 +4967,7 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:2141
 msgid "Error reconnecting to the database"
-msgstr ""
+msgstr "Galat menghubungkan ulang ke basis data"
 
 #. translators: %s: Database host.
 #: wp-includes/class-wpdb.php:2145
@@ -4984,7 +4984,7 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:2258
 msgid "Unable to retrieve the error message from MySQL"
-msgstr ""
+msgstr "Tak mampu mengambil pesan galat dari MySQL"
 
 #. translators: %s: Database field where the error occurred.
 #: wp-includes/class-wpdb.php:2731
@@ -5161,7 +5161,7 @@ msgstr[0] "%1$s Komentar<span class=\"screen-reader-text\"> pada %2$s</span>"
 #. translators: %s: Post title.
 #: wp-includes/comment-template.php:1706
 msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
-msgstr ""
+msgstr "Komentar Dinonaktifkan<span class=\"screen-reader-text\"> pada %s</span>"
 
 #: wp-includes/comment-template.php:1715
 msgid "Enter your password to view comments."
@@ -5218,7 +5218,7 @@ msgstr "Situs Web"
 
 #: wp-includes/comment-template.php:2578
 msgid "Save my name, email, and website in this browser for the next time I comment."
-msgstr ""
+msgstr "Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya."
 
 #. translators: %s: Login URL.
 #: wp-includes/comment-template.php:2612
@@ -5268,7 +5268,7 @@ msgstr "Komentar duplikat terdeteksi. Sepertinya Anda pernah mengatakan hal itu!
 #: wp-includes/comment.php:775
 #: wp-includes/comment.php:935
 msgid "You are posting comments too quickly. Slow down."
-msgstr ""
+msgstr "Anda memposting komentar terlalu cepat. Pelankan."
 
 #: wp-includes/comment.php:1280
 msgid "<strong>Error:</strong> Your name is too long."
@@ -5325,7 +5325,7 @@ msgstr ""
 #: wp-includes/comment.php:3698
 #: wp-includes/comment.php:3808
 msgid "ClassicPress Comments"
-msgstr ""
+msgstr "Komentar ClassicPress"
 
 #: wp-includes/comment.php:3733
 msgid "Comment Author"
@@ -5353,7 +5353,7 @@ msgstr "Tanggal Komentar"
 
 #: wp-includes/comment.php:3739
 msgid "Comment Content"
-msgstr ""
+msgstr "Konten Komentar"
 
 #: wp-includes/comment.php:3740
 msgid "Comment URL"
@@ -5372,7 +5372,7 @@ msgstr ""
 #. translators: %d: Comment ID.
 #: wp-includes/comment.php:3887
 msgid "Comment %d contains personal data but could not be anonymized."
-msgstr ""
+msgstr "Komentar %d mengandung data pribadi tapi dapat dianonimkan."
 
 #: wp-includes/cron.php:45
 #: wp-includes/cron.php:238
@@ -5410,7 +5410,7 @@ msgstr ""
 
 #: wp-includes/cron.php:547
 msgid "This argument has changed to an array to match the behavior of the other cron functions."
-msgstr ""
+msgstr "Argumen ini telah berubah menjadi sebuah jajaran agar cocok dengan perilaku fungsi cron lainnya."
 
 #: wp-includes/cron.php:576
 #: wp-includes/cron.php:665
@@ -5507,7 +5507,7 @@ msgstr ""
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:124
 msgid "Randomize uploaded headers"
-msgstr ""
+msgstr "Mengacak tajuk yang terunggah"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:126
 msgid "Randomize suggested headers"
@@ -5525,7 +5525,7 @@ msgstr "Hapus Gambar"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:165
 msgid "Randomizing uploaded headers"
-msgstr ""
+msgstr "Mengacak tajuk yang terunggah"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:167
 msgid "Randomizing suggested headers"
@@ -5577,7 +5577,7 @@ msgstr "Tambahkan gambar baru"
 #: wp-includes/customize/class-wp-customize-header-image-control.php:254
 msgctxt "custom headers"
 msgid "Previously uploaded"
-msgstr ""
+msgstr "Baru saja diunggah"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:261
 msgctxt "custom headers"
@@ -5668,7 +5668,7 @@ msgstr "Opsi Menu"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:46
 msgid "Automatically add new top-level pages to this menu"
-msgstr ""
+msgstr "Tambahkan laman tingkat-atas baru ke menu ini secara otomatis"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:40
 msgid "Add Items"
@@ -5686,7 +5686,7 @@ msgstr "Tambahkan atau hapus item menu"
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:56
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:60
 msgid "Reorder"
-msgstr ""
+msgstr "Urutkan ulang"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:57
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:61
@@ -5787,7 +5787,7 @@ msgstr "Buat Menu"
 
 #: wp-includes/customize/class-wp-customize-partial.php:226
 msgid "Partial render must echo the content or return the content string (or array), but not both."
-msgstr ""
+msgstr "Render sebagian harus mewakili konten atau balikkan untaian konten (atau jajaran), tapi bukan keduanya."
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:178
 msgid "Click to edit this menu."
@@ -5813,12 +5813,12 @@ msgstr "%s dilarang"
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:69
 #: wp-includes/media-template.php:1537
 msgid "Preview as a browser icon"
-msgstr ""
+msgstr "Pratinjau sebagai ikon peramban"
 
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:73
 #: wp-includes/media-template.php:1544
 msgid "Preview as an app icon"
-msgstr ""
+msgstr "Pratinjau sebagai ikon aplikasi"
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:61
@@ -5833,7 +5833,7 @@ msgstr "Sesuaikan tema: %s"
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:65
 msgid "Live preview theme: %s"
-msgstr ""
+msgstr "Pratinjau langsung tema: %s"
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:67
@@ -5862,7 +5862,7 @@ msgstr "Versi baru telah tersedia. %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:103
 msgid "Update now"
-msgstr ""
+msgstr "Perbarui sekarang"
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:116
@@ -5946,12 +5946,12 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:282
 #: wp-includes/customize/class-wp-customize-theme-control.php:284
 msgid "Live Preview"
-msgstr ""
+msgstr "Pratinjau Langsung"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:295
 #: wp-includes/customize/class-wp-customize-theme-control.php:297
 msgid "Install &amp; Preview"
-msgstr ""
+msgstr "Memasang &amp; Pratinjau"
 
 #: wp-includes/customize/class-wp-customize-themes-panel.php:42
 msgid "Active theme"
@@ -6022,7 +6022,7 @@ msgstr "%s tema"
 #. translators: Hidden accessibility text.
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:66
 msgid "When in reorder mode, additional controls to reorder widgets will be available in the widgets list above."
-msgstr ""
+msgstr "Pada mode pengurutan ulang, kontrol tambahan untuk mengurutkan ulang widget akan tersedia di daftar widget di atas."
 
 #: wp-includes/deprecated.php:64
 msgid "new ClassicPress Loop"
@@ -6061,7 +6061,7 @@ msgstr "Pos Terakhir"
 
 #: wp-includes/deprecated.php:3142
 msgid "Are you sure you want to do this?"
-msgstr ""
+msgstr "Yakinkah Anda ingin melakukan ini?"
 
 #. translators: %s: File name.
 #: wp-includes/deprecated.php:3195
@@ -6109,7 +6109,7 @@ msgstr "Opsi berbagi"
 
 #: wp-includes/embed.php:1165
 msgid "ClassicPress Embed"
-msgstr ""
+msgstr "Sematan ClassicPress"
 
 #: wp-includes/embed.php:1168
 msgid "HTML Embed"
@@ -6117,7 +6117,7 @@ msgstr "Sematan HTML"
 
 #: wp-includes/embed.php:1175
 msgid "Copy and paste this URL into your ClassicPress site to embed"
-msgstr ""
+msgstr "Salin dan tempelkan URL ini ke dalam ClassicPress Anda untuk sematkan"
 
 #: wp-includes/embed.php:1179
 msgid "HTML"
@@ -6125,7 +6125,7 @@ msgstr ""
 
 #: wp-includes/embed.php:1182
 msgid "Copy and paste this code into your site to embed"
-msgstr ""
+msgstr "Salin dan tempelkan kode ini ke dalam situs Anda untuk disematkan"
 
 #: wp-includes/embed.php:1187
 msgid "Close sharing dialog"
@@ -6172,13 +6172,13 @@ msgstr "Komentar di: %s"
 
 #: wp-includes/feed-rss2-comments.php:100
 msgid "Protected Comments: Please enter your password to view comments."
-msgstr ""
+msgstr "Komentar Terlindungi: Silakan masukkan sandi Anda untuk melihat komentar."
 
 #. translators: %s: 'document_title_separator' filter name.
 #: wp-includes/feed.php:106
 #: wp-includes/feed.php:132
 msgid "Use the %s filter instead."
-msgstr ""
+msgstr "Gunakan penyaring %s saja."
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -6251,7 +6251,7 @@ msgstr "tak,dulu,dulu,nih,'kan,'mpe,tentang,cukup,bulat,karena,tuh"
 #: wp-includes/functions.php:562
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] ""
+msgstr[0] "%s detik"
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s: Number of minutes.
 #: wp-includes/formatting.php:3851
@@ -6308,7 +6308,7 @@ msgstr "Alamat email yang dimasukkan kelihatannya bukan alamat email yang sah. S
 
 #: wp-includes/formatting.php:4919
 msgid "The ClassicPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "Alamat ClassicPress yang Anda masukkan kelihatannya bukan URL yang sah. Silakan masukkan URL yang sah."
 
 #: wp-includes/formatting.php:4932
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
@@ -6321,7 +6321,7 @@ msgstr "Zona waktu yang Anda masukkan tidak sah. Silakan pilih zona waktu yang s
 #. translators: %s: Documentation URL.
 #: wp-includes/formatting.php:5011
 msgid "A structure tag is required when using custom permalinks. <a href=\"%s\">Learn more</a>"
-msgstr ""
+msgstr "Tag struktur diperlukan saat menggunakan permalink kustom. <a href=\"%s\">Pelajari</a>"
 
 #: wp-includes/formatting.php:5012
 msgid "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
@@ -6468,7 +6468,7 @@ msgstr "&laquo; Kembali"
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:268
 #: wp-load.php:104
 msgid "ClassicPress &rsaquo; Error"
-msgstr ""
+msgstr "ClassicPress &rsaquo; Galat"
 
 #. translators: 1: WP_REST_Response, 2: WP_Error
 #: wp-includes/functions.php:4404
@@ -6487,7 +6487,7 @@ msgstr ""
 
 #: wp-includes/functions.php:5358
 msgid "Database Error"
-msgstr ""
+msgstr "Galat Basis data"
 
 #. translators: 1: PHP function name, 2: Version number, 3: Alternative function name.
 #: wp-includes/functions.php:5418
@@ -6547,7 +6547,7 @@ msgstr "(Pesan ini ditambahkan pada versi %s.)"
 #. translators: %s: Documentation URL.
 #: wp-includes/functions.php:5862
 msgid "Please see <a href=\"%s\">Debugging in ClassicPress</a> for more information."
-msgstr ""
+msgstr "Silakan lihat <a href=\"%s\">Debugging di ClassicPress</a> untuk informasi lebih lanjut."
 
 #: wp-includes/functions.php:5863
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
@@ -6569,7 +6569,7 @@ msgstr "UTC"
 
 #: wp-includes/functions.php:6490
 msgid "Manual Offsets"
-msgstr ""
+msgstr "Seimbangkan Manual"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/functions.php:7170
@@ -6581,7 +6581,7 @@ msgstr "Tutup dialog"
 #: wp-includes/functions.php:7190
 #: wp-includes/script-loader.php:1109
 msgid "Session expired"
-msgstr ""
+msgstr "Sesi telah kadaluarsa"
 
 #: wp-includes/functions.php:7191
 #: wp-includes/user.php:306
@@ -6626,7 +6626,7 @@ msgstr "[terhapus]"
 #. translators: Deleted long text.
 #: wp-includes/functions.php:7857
 msgid "This content was deleted by the author."
-msgstr ""
+msgstr "Konten ini sudah dihapus oleh penulisnya."
 
 #: wp-includes/functions.php:8034
 msgctxt "localized PHP upgrade information page"
@@ -6655,7 +6655,7 @@ msgstr ""
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
 msgid "Scripts and styles should not be registered or enqueued until the %1$s, %2$s, or %3$s hooks."
-msgstr ""
+msgstr "Skrip dan gaya tidak harus terdaftar atau diantrikan sampai terkait %1$s,%2$s, atau %3$s."
 
 #. translators: %s: Name of the script or stylesheet.
 #: wp-includes/functions.wp-scripts.php:59
@@ -6672,7 +6672,7 @@ msgstr "Jangan masukkan tag-tag %1$s ke %2$s."
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:311
 msgid "Do not deregister the %1$s script in the administration area. To target the front-end theme, use the %2$s hook."
-msgstr ""
+msgstr "Jangan men-deregister skrip %1$s dalam area administrasi. Untuk menargetkan tema front-end, gunakan kait %2$s."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/general-template.php:311
@@ -6754,7 +6754,7 @@ msgstr "Pilihan %1$s telah dibuang dari kelompok fungsi %2$s. Silakan gunakan fu
 #: wp-includes/general-template.php:1161
 #: wp-includes/general-template.php:1385
 msgid "Page not found"
-msgstr ""
+msgstr "Laman tidak ditemukan"
 
 #. translators: %s: Search query.
 #: wp-includes/general-template.php:1166
@@ -6776,7 +6776,7 @@ msgstr "F Y"
 #. translators: %s: Page number.
 #: wp-includes/general-template.php:1210
 msgid "Page %s"
-msgstr ""
+msgstr "Laman %s"
 
 #. translators: 1: Separator, 2: Search query.
 #: wp-includes/general-template.php:1380
@@ -7027,7 +7027,7 @@ msgstr "Ruas yang wajib ditandai %s"
 
 #: wp-includes/general-template.php:5239
 msgid "Powered by ClassicPress"
-msgstr ""
+msgstr "Diberdayakan dengan ClassicPress"
 
 #: wp-includes/https-detection.php:134
 msgid "HTTPS request failed."
@@ -7090,12 +7090,12 @@ msgstr "Pos Berikutnya"
 #: wp-includes/link-template.php:2538
 #: wp-includes/link-template.php:2691
 msgid "Next Page &raquo;"
-msgstr ""
+msgstr "Laman Berikutnya &raquo;"
 
 #: wp-includes/link-template.php:2631
 #: wp-includes/link-template.php:2690
 msgid "&laquo; Previous Page"
-msgstr ""
+msgstr "&laquo; Laman Sebelumnya"
 
 #: wp-includes/link-template.php:2767
 msgid "Post navigation"
@@ -7159,7 +7159,7 @@ msgstr "Ini adalah taut pendek."
 
 #: wp-includes/load.php:170
 msgid "Your PHP installation appears to be missing the MySQL extension which is required by ClassicPress."
-msgstr ""
+msgstr "Pemasangan PHP Anda sepertinya kehilangan ekstensi MySQL yang dibutuhkan oleh ClassicPress."
 
 #. translators: %s: mysqli.
 #: wp-includes/load.php:174
@@ -7220,12 +7220,12 @@ msgstr ""
 #: wp-includes/media-template.php:221
 #: wp-includes/media-template.php:263
 msgid "Drop files to upload"
-msgstr ""
+msgstr "Taruh berkas yang akan diunggah"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:232
 msgid "Close uploader"
-msgstr ""
+msgstr "Tutup pengunggah"
 
 #: wp-includes/media-template.php:242
 msgid "Your browser cannot upload files"
@@ -7234,11 +7234,11 @@ msgstr ""
 #. translators: %s: https://apps.wordpress.org
 #: wp-includes/media-template.php:247
 msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
-msgstr ""
+msgstr "Peramban yang Anda gunakan tidak bisa digunakan untuk mengunggah berkas. Anda bisa menggunakan <a href=\"%s\">app bawaan perangkat Anda</a> sebagai pengganti."
 
 #: wp-includes/media-template.php:255
 msgid "Upload Limit Exceeded"
-msgstr ""
+msgstr "Melebihi Batas Unggahan"
 
 #: wp-includes/media-template.php:264
 msgctxt "Uploader: Drop files here - or - Select Files"
@@ -7252,13 +7252,13 @@ msgstr "Pilih Berkas"
 #. translators: %s: Maximum allowed file size.
 #: wp-includes/media-template.php:296
 msgid "Maximum upload file size: %s."
-msgstr ""
+msgstr "Ukuran maksimal unggahan berkas: %s."
 
 #. translators: 1: Suggested width number, 2: Suggested height number.
 #: wp-includes/media-template.php:306
 #: wp-includes/media.php:4665
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr ""
+msgstr "Ukuran gambar yang disarankan: %1$s x %2$s piksel."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:326
@@ -7272,7 +7272,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:342
 msgid "Uploading"
-msgstr ""
+msgstr "Mengunggah"
 
 #: wp-includes/media-template.php:353
 msgid "Dismiss errors"
@@ -7300,7 +7300,7 @@ msgstr "Sunting Gambar"
 
 #: wp-includes/media-template.php:416
 msgid "Document Preview"
-msgstr ""
+msgstr "Pratinjau Dokumen"
 
 #: wp-includes/media-template.php:424
 #: wp-includes/media-template.php:650
@@ -7310,11 +7310,11 @@ msgstr "Tersimpan."
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:430
 msgid "Details"
-msgstr ""
+msgstr "Detil"
 
 #: wp-includes/media-template.php:433
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Diunggah pada:"
 
 #: wp-includes/media-template.php:435
 msgid "Uploaded by:"
@@ -7358,7 +7358,7 @@ msgstr "Panjang:"
 
 #: wp-includes/media-template.php:482
 msgid "Bitrate:"
-msgstr ""
+msgstr "Bitrate:"
 
 #: wp-includes/media-template.php:490
 #: wp-includes/media-template.php:724
@@ -7401,7 +7401,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:549
 msgid "View attachment page"
-msgstr ""
+msgstr "Tampilkan laman lampiran"
 
 #: wp-includes/media-template.php:555
 msgid "Edit more details"
@@ -7464,7 +7464,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:647
 msgid "Attachment Details"
-msgstr ""
+msgstr "Detil Lampiran"
 
 #: wp-includes/media-template.php:749
 msgid "Alt Text"
@@ -7492,11 +7492,11 @@ msgstr "Sematan atau Tautan"
 #: wp-includes/media-template.php:1206
 #: wp-includes/widgets/class-wp-widget-media-image.php:105
 msgid "Link To"
-msgstr ""
+msgstr "Tautkan Ke"
 
 #: wp-includes/media-template.php:850
 msgid "Embed Media Player"
-msgstr ""
+msgstr "Pemutar Media Tersemat"
 
 #: wp-includes/media-template.php:860
 msgid "Link to Media File"
@@ -7510,19 +7510,19 @@ msgstr "Berkas Media"
 
 #: wp-includes/media-template.php:867
 msgid "Link to Attachment Page"
-msgstr ""
+msgstr "Tautan ke Laman Lampiran"
 
 #: wp-includes/media-template.php:869
 #: wp-includes/media-template.php:934
 #: wp-includes/media-template.php:1213
 msgid "Attachment Page"
-msgstr ""
+msgstr "Laman Lampiran"
 
 #: wp-includes/media-template.php:874
 #: wp-includes/media-template.php:1098
 #: wp-includes/media-template.php:1221
 msgid "Custom URL"
-msgstr ""
+msgstr "URL Tersuai"
 
 #: wp-includes/media-template.php:886
 #: wp-includes/media-template.php:965
@@ -7603,7 +7603,7 @@ msgstr "Pengaturan Tampilan"
 
 #: wp-includes/media-template.php:1186
 msgid "Custom Size"
-msgstr ""
+msgstr "Ukuran Tersuai"
 
 #: wp-includes/media-template.php:1201
 msgid "Image size in pixels"
@@ -7631,7 +7631,7 @@ msgstr "Rel Taut"
 #: wp-includes/media-template.php:1256
 #: wp-includes/widgets/class-wp-widget-media-image.php:130
 msgid "Link CSS Class"
-msgstr ""
+msgstr "Tautkan CSS Class"
 
 #: wp-includes/media-template.php:1268
 msgid "Edit Original"
@@ -7657,7 +7657,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-audio.php:72
 #: wp-includes/widgets/class-wp-widget-media-video.php:74
 msgid "Preload"
-msgstr ""
+msgstr "Pramuat"
 
 #: wp-includes/media-template.php:1342
 #: wp-includes/media-template.php:1441
@@ -7668,7 +7668,7 @@ msgstr "Otomatis"
 #: wp-includes/media-template.php:1343
 #: wp-includes/media-template.php:1442
 msgid "Metadata"
-msgstr ""
+msgstr "Metadata"
 
 #: wp-includes/media-template.php:1352
 #: wp-includes/media-template.php:1451
@@ -7699,7 +7699,7 @@ msgstr "Hapus gambar poster"
 #: wp-includes/media-template.php:1483
 #: wp-includes/widgets/class-wp-widget-media-video.php:87
 msgid "Tracks (subtitles, captions, descriptions, chapters, or metadata)"
-msgstr ""
+msgstr "Lagu (subtitle, caption, deskripsi, bab, atau metadata)"
 
 #. translators: 1: "srclang" HTML attribute, 2: "label" HTML attribute, 3: "kind" HTML attribute.
 #: wp-includes/media-template.php:1473
@@ -7713,7 +7713,7 @@ msgstr "Buang jalur video"
 
 #: wp-includes/media-template.php:1484
 msgid "There are no associated subtitles."
-msgstr ""
+msgstr "Tak ada subtitel yang terkait."
 
 #: wp-includes/media-template.php:1518
 #: wp-includes/media.php:4606
@@ -7722,15 +7722,15 @@ msgstr "Tidak menemukan apa-apa."
 
 #: wp-includes/media-template.php:1525
 msgid "Image crop area preview. Requires mouse interaction."
-msgstr ""
+msgstr "Pratinjau area pangkasan gambar. Membutuhkan interaksi mouse."
 
 #: wp-includes/media-template.php:1532
 msgid "As a browser icon"
-msgstr ""
+msgstr "Sebagai ikon peramban"
 
 #: wp-includes/media-template.php:1542
 msgid "As an app icon"
-msgstr ""
+msgstr "Sebagai ikon app"
 
 #. translators: %s: Playlist item title.
 #: wp-includes/media.php:2628
@@ -7750,15 +7750,15 @@ msgstr "Durasi"
 
 #: wp-includes/media.php:3007
 msgid "Bitrate"
-msgstr ""
+msgstr "Bitrate"
 
 #: wp-includes/media.php:3008
 msgid "Bitrate Mode"
-msgstr ""
+msgstr "Mode Bitrate"
 
 #: wp-includes/media.php:3885
 msgid "No editor could be selected."
-msgstr ""
+msgstr "Tidak ada penyunting yang bisa dipilih."
 
 #: wp-includes/media.php:4167
 msgid "(no author)"
@@ -7783,7 +7783,7 @@ msgstr "Pilih"
 #: wp-includes/script-loader.php:1055
 #: wp-login.php:666
 msgid "Update"
-msgstr ""
+msgstr "Perbarui"
 
 #. translators: This is a would-be plural string used in the media manager. If there is not a word you can use in your language to avoid issues with the lack of plural support here, turn it into "selected: %d" then translate it.
 #: wp-includes/media.php:4590
@@ -7792,7 +7792,7 @@ msgstr "%d dipilih"
 
 #: wp-includes/media.php:4591
 msgid "Drag and drop to reorder media files."
-msgstr ""
+msgstr "Seret dan lepas untuk mengurutkan berkas-berkas media."
 
 #: wp-includes/media.php:4594
 msgid "Upload files"
@@ -7833,7 +7833,7 @@ msgstr "Semua tanggal"
 #: wp-includes/media.php:4608
 msgctxt "media items"
 msgid "Unattached"
-msgstr ""
+msgstr "Tak terlampir"
 
 #: wp-includes/media.php:4609
 msgctxt "media items"
@@ -7926,7 +7926,7 @@ msgstr "Sisipkan galeri"
 
 #: wp-includes/media.php:4646
 msgid "Update gallery"
-msgstr ""
+msgstr "Perbarui galeri"
 
 #: wp-includes/media.php:4647
 #: wp-includes/media.php:4648
@@ -7977,7 +7977,7 @@ msgstr "Memangkas&hellip;"
 
 #: wp-includes/media.php:4666
 msgid "There has been an error cropping your image."
-msgstr ""
+msgstr "Terjadi galat saat memangkas gambar Anda."
 
 #: wp-includes/media.php:4669
 msgid "Audio details"
@@ -8013,7 +8013,7 @@ msgstr ""
 
 #: wp-includes/media.php:4683
 msgid "Drag and drop to reorder tracks."
-msgstr ""
+msgstr "Tarik dan lepas untuk mengurutkan trek."
 
 #: wp-includes/media.php:4684
 msgid "Create audio playlist"
@@ -8033,7 +8033,7 @@ msgstr "Masukkan Daftar Putar Audio"
 
 #: wp-includes/media.php:4688
 msgid "Update audio playlist"
-msgstr ""
+msgstr "Perbarui Daftar Putar Audio"
 
 #: wp-includes/media.php:4689
 msgid "Add to audio playlist"
@@ -8065,7 +8065,7 @@ msgstr "Masukkan daftar putar video"
 
 #: wp-includes/media.php:4698
 msgid "Update video playlist"
-msgstr ""
+msgstr "Perbarui daftar putar video"
 
 #: wp-includes/media.php:4699
 msgid "Add to video playlist"
@@ -8085,7 +8085,7 @@ msgstr ""
 
 #: wp-includes/media.php:5085
 msgid "ClassicPress Media"
-msgstr ""
+msgstr "Media ClassicPress"
 
 #: wp-includes/media.php:5142
 msgid "User&#8217;s media data."
@@ -8127,7 +8127,7 @@ msgstr ""
 #. translators: %s: Option name.
 #: wp-includes/option.php:271
 msgid "%s is a protected WP option and may not be modified"
-msgstr ""
+msgstr "%s adalah opsi WP yang terlindungi dan tidak bisa dimodifikasi"
 
 #: wp-includes/option.php:2128
 msgid "Site title."
@@ -8175,11 +8175,11 @@ msgstr "Urutan hari dalam seminggu yang menjadi mulainya minggu."
 
 #: wp-includes/option.php:2259
 msgid "ClassicPress locale code."
-msgstr ""
+msgstr "Kode lokal ClassicPress."
 
 #: wp-includes/option.php:2270
 msgid "Convert emoticons like :-) and :-P to graphics on display."
-msgstr ""
+msgstr "Konversikan emotikon seperti :-) dan :-P ke grafik saat ditampilkan."
 
 #: wp-includes/option.php:2281
 msgid "Default post category."
@@ -8191,7 +8191,7 @@ msgstr "Format pos bawaan."
 
 #: wp-includes/option.php:2301
 msgid "Blog pages show at most."
-msgstr ""
+msgstr "Tampilan maksimum laman blog."
 
 #: wp-includes/option.php:2312
 msgid "What to show on the front page"
@@ -8207,7 +8207,7 @@ msgstr ""
 
 #: wp-includes/option.php:2346
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new articles."
-msgstr ""
+msgstr "Izinkan notifikasi tautan dari blog lain (pingbalik dan lacakbalik) pada artikel baru."
 
 #: wp-includes/option.php:2435
 msgid "When registering an \"array\" setting to show in the REST API, you must specify the schema for each array item in \"show_in_rest.schema.items\"."
@@ -8220,7 +8220,7 @@ msgstr ""
 #: wp-includes/option.php:2521
 #: wp-includes/option.php:2534
 msgid "The \"%s\" options group has been removed. Use another settings group."
-msgstr ""
+msgstr "Kumpulan pengaturan \"%s\" telah disingkirkan. Gunakan penggaturan lain."
 
 #. translators: 1: $sanitize_callback, 2: register_setting()
 #: wp-includes/option.php:2553
@@ -8243,7 +8243,7 @@ msgstr ""
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:1744
 msgid "New trackback on your post \"%s\""
-msgstr ""
+msgstr "Lacakbalik baru pada pos \"%s\" Anda"
 
 #. translators: 1: Trackback/pingback website name, 2: Website IP address, 3: Website hostname.
 #: wp-includes/pluggable.php:1746
@@ -8283,7 +8283,7 @@ msgstr "[%1$s] Lacak balik: \"%2$s\""
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:1758
 msgid "New pingback on your post \"%s\""
-msgstr ""
+msgstr "Ping-balik baru pada pos \"%s\" Anda"
 
 #: wp-includes/pluggable.php:1765
 msgid "You can see all pingbacks on this post here:"
@@ -8354,7 +8354,7 @@ msgstr "Spam ini: %s"
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:1933
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
-msgstr ""
+msgstr "Satu lacakbalik baru pada pos \"%s\" menunggu persetujuan Anda"
 
 #: wp-includes/pluggable.php:1939
 msgid "Trackback excerpt: "
@@ -8363,7 +8363,7 @@ msgstr "Kutipan lacak balik: "
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:1944
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
-msgstr ""
+msgstr "Satu ping-balik baru pada pos \"%s\" menunggu persetujuan Anda"
 
 #: wp-includes/pluggable.php:1950
 msgid "Pingback excerpt: "
@@ -8383,12 +8383,12 @@ msgstr "Setujui ini: %s"
 #: wp-includes/pluggable.php:1990
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
-msgstr[0] ""
+msgstr[0] "Saat ini %s komentar sedang menunggu persetujuan. Silakan kunjungi panel moderasi:"
 
 #. translators: Comment moderation notification email subject. 1: Site title, 2: Post title.
 #: wp-includes/pluggable.php:2000
 msgid "[%1$s] Please moderate: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] Mohon moderasi: \"%2$s\""
 
 #. translators: %s: User name.
 #: wp-includes/pluggable.php:2068
@@ -8429,7 +8429,7 @@ msgstr ""
 
 #: wp-includes/plugin.php:924
 msgid "Only a static class method or function can be used in an uninstall hook."
-msgstr ""
+msgstr "Hanya metode kelas statik atau fungsi dapat digunakan dalam pengait uninstall."
 
 #: wp-includes/post-formats.php:74
 #: wp-includes/revision.php:563
@@ -8489,12 +8489,12 @@ msgstr "Suara"
 #. translators: %s: Protected post title.
 #: wp-includes/post-template.php:127
 msgid "Protected: %s"
-msgstr ""
+msgstr "Terlindungi: %s"
 
 #. translators: %s: Private post title.
 #: wp-includes/post-template.php:146
 msgid "Private: %s"
-msgstr ""
+msgstr "Privat: %s"
 
 #: wp-includes/post-template.php:308
 msgid "(more&hellip;)"
@@ -8502,19 +8502,19 @@ msgstr "(lebih&hellip;)"
 
 #: wp-includes/post-template.php:414
 msgid "There is no excerpt because this is a protected post."
-msgstr ""
+msgstr "Tidak ada kutipan karena ini adalah pos yang terlindung sandi."
 
 #: wp-includes/post-template.php:947
 msgid "Pages:"
-msgstr ""
+msgstr "Laman:"
 
 #: wp-includes/post-template.php:954
 msgid "Next page"
-msgstr ""
+msgstr "Laman berikutnya"
 
 #: wp-includes/post-template.php:955
 msgid "Previous page"
-msgstr ""
+msgstr "Laman sebelumnya"
 
 #. translators: %s: Post custom field name.
 #: wp-includes/post-template.php:1128
@@ -8527,7 +8527,7 @@ msgstr "%s:"
 #: wp-includes/widgets/class-wp-widget-pages.php:31
 #: wp-includes/widgets/class-wp-widget-pages.php:44
 msgid "Pages"
-msgstr ""
+msgstr "Laman"
 
 #: wp-includes/post-template.php:1457
 msgid "Home"
@@ -8535,7 +8535,7 @@ msgstr "Beranda"
 
 #: wp-includes/post-template.php:1766
 msgid "This content is password protected. To view it please enter your password below:"
-msgstr ""
+msgstr "Konten ini dilindungi dengan sandi. Masukkan sandi Anda di sini untuk menampilkannya:"
 
 #: wp-includes/post-template.php:1767
 msgctxt "post password form"
@@ -8570,7 +8570,7 @@ msgstr "%1$s %2$s, %3$s yang lalu (%4$s)"
 
 #: wp-includes/post-template.php:2007
 msgid "JavaScript must be enabled to use this feature."
-msgstr ""
+msgstr "JavaScript harus diaktifkan untuk menggunakan fitur ini."
 
 #: wp-includes/post.php:27
 msgctxt "add new from admin bar"
@@ -8603,7 +8603,7 @@ msgstr "Sunting Media"
 
 #: wp-includes/post.php:80
 msgid "View Attachment Page"
-msgstr ""
+msgstr "Lihat Laman Lampiran"
 
 #: wp-includes/post.php:81
 msgid "Attachment Attributes"
@@ -8628,17 +8628,17 @@ msgstr "Objek Menu Navigasi"
 #: wp-includes/post.php:171
 #: wp-includes/post.php:172
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Kustom"
 
 #: wp-includes/post.php:203
 msgctxt "post type general name"
 msgid "Changesets"
-msgstr ""
+msgstr "Changesets"
 
 #: wp-includes/post.php:204
 msgctxt "post type singular name"
 msgid "Changeset"
-msgstr ""
+msgstr "Changeset"
 
 #: wp-includes/post.php:205
 msgctxt "Customize Changeset"
@@ -8647,35 +8647,35 @@ msgstr "Tambahkan Baru"
 
 #: wp-includes/post.php:206
 msgid "Add New Changeset"
-msgstr ""
+msgstr "Tambahkan Changeset Baru"
 
 #: wp-includes/post.php:207
 msgid "New Changeset"
-msgstr ""
+msgstr "Changeset Baru"
 
 #: wp-includes/post.php:208
 msgid "Edit Changeset"
-msgstr ""
+msgstr "Sunting Changeset"
 
 #: wp-includes/post.php:209
 msgid "View Changeset"
-msgstr ""
+msgstr "Tampilkan Changeset"
 
 #: wp-includes/post.php:210
 msgid "All Changesets"
-msgstr ""
+msgstr "All Changesets"
 
 #: wp-includes/post.php:211
 msgid "Search Changesets"
-msgstr ""
+msgstr "Cari Changesets"
 
 #: wp-includes/post.php:212
 msgid "No changesets found."
-msgstr ""
+msgstr "Tak ada changeset yang ditemukan."
 
 #: wp-includes/post.php:213
 msgid "No changesets found in Trash."
-msgstr ""
+msgstr "Tak ditemukan changesets di Tong Sampah."
 
 #: wp-includes/post.php:249
 msgid "oEmbed Responses"
@@ -8707,7 +8707,7 @@ msgstr[0] "Telah Terbit <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:298
 msgctxt "post status"
 msgid "Scheduled"
-msgstr ""
+msgstr "Terjadwal"
 
 #. translators: %s: Number of scheduled posts.
 #: wp-includes/post.php:302
@@ -8742,13 +8742,13 @@ msgstr[0] "Ditangguhkan <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:342
 msgctxt "post status"
 msgid "Private"
-msgstr ""
+msgstr "Privat"
 
 #. translators: %s: Number of private posts.
 #: wp-includes/post.php:346
 msgid "Private <span class=\"count\">(%s)</span>"
 msgid_plural "Private <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Privat <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:356
 msgctxt "post status"
@@ -8771,7 +8771,7 @@ msgstr "Tertahan"
 #: wp-includes/post.php:976
 msgctxt "request status"
 msgid "Confirmed"
-msgstr ""
+msgstr "Terkonfirmasi"
 
 #. translators: %s: Number of confirmed requests.
 #: wp-includes/post.php:410
@@ -8815,7 +8815,7 @@ msgstr "Menunggu Evaluasi"
 #: wp-includes/post.php:938
 #: wp-includes/post.php:958
 msgid "Private"
-msgstr ""
+msgstr "Privat"
 
 #: wp-includes/post.php:939
 #: wp-includes/post.php:959
@@ -8925,7 +8925,7 @@ msgstr "Menyampaikan sebuah angka integer dari pos telah ditinggalkan. Sampaikan
 
 #: wp-includes/post.php:3909
 msgid "Content, title, and excerpt are empty."
-msgstr ""
+msgstr "Konten, judul, dan kutipan kosong."
 
 #: wp-includes/post.php:3982
 #: wp-includes/rest-api.php:2157
@@ -8952,11 +8952,11 @@ msgstr ""
 #. translators: %s: Taxonomy name.
 #: wp-includes/post.php:4295
 msgid "Invalid taxonomy: %s."
-msgstr ""
+msgstr "Taksonomi tidak sah: %s."
 
 #: wp-includes/post.php:4365
 msgid "Invalid page template."
-msgstr ""
+msgstr "Templat laman tidak sah."
 
 #: wp-includes/post.php:5014
 msgctxt "tag delimiter"
@@ -8993,7 +8993,7 @@ msgstr ","
 #: wp-includes/query.php:882
 #: wp-includes/query.php:906
 msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr ""
+msgstr "Tag-tag kueri kondisional tidak berfungsi sebelum kueri dijalankan. Sebelumnya, mereka selalu mengembalikan false."
 
 #. translators: 1: pre_get_posts, 2: WP_Query->is_main_query(), 3: is_main_query(), 4: Documentation URL.
 #: wp-includes/query.php:915
@@ -9166,7 +9166,7 @@ msgstr ""
 #. translators: %s: Property of an object.
 #: wp-includes/rest-api.php:2295
 msgid "%1$s is not a valid property of Object."
-msgstr ""
+msgstr "%1$s ini bukan nilai properti Obyek yang sah."
 
 #. translators: 1: Parameter, 2: Number.
 #: wp-includes/rest-api.php:2313
@@ -9262,7 +9262,7 @@ msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-request.php:698
 msgid "Invalid JSON body passed."
-msgstr ""
+msgstr "Body JSON tak sah terkirim."
 
 #. translators: %s: List of invalid parameters.
 #: wp-includes/rest-api/class-wp-rest-request.php:846
@@ -9290,7 +9290,7 @@ msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-server.php:384
 msgid "JSONP support is disabled on this site."
-msgstr ""
+msgstr "Dukungan JSONP dinonaktifkan pada situs ini."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:389
 msgid "Invalid JSONP callback function."
@@ -9307,11 +9307,11 @@ msgstr ""
 #: wp-includes/rest-api/class-wp-rest-server.php:1163
 #: wp-includes/script-loader.php:606
 msgid "Sorry, you are not allowed to do that."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan melakukannya."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1401
 msgid "The specified namespace could not be found."
-msgstr ""
+msgstr "Namespace yang ditentukan tak bisa ditemukan."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1601
 msgid "Could not parse the path."
@@ -9416,11 +9416,11 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:124
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:412
 msgid "Sorry, you are not allowed to upload media on this site."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengunggah media ke situs ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:133
 msgid "Sorry, you are not allowed to upload media to this post."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengunggah media ke pos ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:153
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:327
@@ -9457,15 +9457,15 @@ msgstr "Teks alternatif untuk ditampilkan ketika lampiran tidak ditampilkan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:870
 msgid "The attachment caption."
-msgstr ""
+msgstr "Penjelas lampiran."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:879
 msgid "Caption for the attachment, as it exists in the database."
-msgstr ""
+msgstr "Penjelas untuk lampiran, yang tersimpan dalam basis data."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:884
 msgid "HTML caption for the attachment, transformed for display."
-msgstr ""
+msgstr "Penjelas HTML untuk lampiran, ditransformasikan untuk penampilan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:893
 msgid "The attachment description."
@@ -9489,7 +9489,7 @@ msgstr "Tipe MIME lampiran."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:931
 msgid "Details about the media file, specific to its type."
-msgstr ""
+msgstr "Rincian tentang berkas media, spesifik untuk tipenya."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:938
 msgid "The ID for the associated post of the attachment."
@@ -9518,16 +9518,16 @@ msgstr "Tak ada Content-Disposition."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1005
 msgid "Invalid Content-Disposition supplied. Content-Disposition needs to be formatted as `attachment; filename=\"image.png\"` or similar."
-msgstr ""
+msgstr "Content-Disposition tidak sah. Content-Disposition harus diformat seperti `attachment; filename=\"image.png\"` atau sejenisnya."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1018
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1204
 msgid "Content hash did not match expected."
-msgstr ""
+msgstr "Hash konten tidak sesuai dengan yang diinginkan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1038
 msgid "Could not open file handle."
-msgstr ""
+msgstr "Tak dapat membuka penangan berkas."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1163
 msgid "Limit result set to attachments of a particular media type."
@@ -9540,7 +9540,7 @@ msgstr "Batasi hasil untuk lampiran dengan tipe MIME tertentu."
 #. translators: %s: Required disk space in kilobytes.
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1293
 msgid "Not enough space to upload. %s KB needed."
-msgstr ""
+msgstr "Tak cukup ruang untuk mengunggah. Perlu %s KB lagi."
 
 #. translators: %s: Maximum allowed file size in kilobytes.
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1302
@@ -9549,7 +9549,7 @@ msgstr "Berkas ini terlalu besar. Ukuran berkas harus kurang dari %s KB."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1313
 msgid "You have used your space quota. Please delete files before uploading."
-msgstr ""
+msgstr "Anda telah menggunakan habis kuota Anda. Silakan hapus berkas sebelum mengunggah."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1331
 msgid "URL to the edited image file."
@@ -9670,7 +9670,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:85
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:107
 msgid "The password for the parent post of the comment (if the post is password protected)."
-msgstr ""
+msgstr "Kata sandi untuk pos induk dari komen (jika pos dilindungi kata sandi)."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:104
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:136
@@ -9695,7 +9695,7 @@ msgstr "Maaf, Anda tak  menyunting komentar."
 #. translators: %s: List of forbidden parameters.
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:177
 msgid "Query parameter not permitted: %s"
-msgstr ""
+msgstr "Parameter kueri tak diizinkan: %s"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:399
 msgid "Sorry, you are not allowed to read this comment."
@@ -9716,7 +9716,7 @@ msgstr "Maaf, Anda tak  membuat komentar ini tanpa sebuah pos."
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:527
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:535
 msgid "Sorry, you are not allowed to create a comment on this post."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengomentari pos ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:571
 msgid "Cannot create existing comment."
@@ -9738,7 +9738,7 @@ msgstr "Pembuatan komentar membutuhkan nama penulis dan nilai email yang sah."
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:653
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:868
 msgid "Comment field exceeds maximum length allowed."
-msgstr ""
+msgstr "Ruas komentar melampau panjang maksimum yang diizinkan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:706
 msgid "Creating comment failed."
@@ -9845,7 +9845,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1517
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1476
 msgid "Avatar URL with image size of %d pixels."
-msgstr ""
+msgstr "URL Avatar dengan ukuran gambar %d piksel."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1525
 msgid "Avatar URLs for the comment author."
@@ -9895,7 +9895,7 @@ msgstr "Batasi kumpulan hasil untuk ID tertentu."
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1120
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1530
 msgid "Offset the result set by a specific number of items."
-msgstr ""
+msgstr "Imbangi hasil dengan jumlah item tertentu."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1611
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:936
@@ -9904,7 +9904,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1126
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1536
 msgid "Order sort attribute ascending or descending."
-msgstr ""
+msgstr "Urutkan atribut penyortiran naik atau menurun."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1621
 msgid "Sort collection by comment attribute."
@@ -9954,11 +9954,11 @@ msgstr "Metode '%s' harus ditimpa."
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:240
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:258
 msgid "Method '%s' not implemented. Must be overridden in subclass."
-msgstr ""
+msgstr "Metode '%s' tidak diimplementasikan. Harus ditimpa di subclass."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:345
 msgid "Current page of the collection."
-msgstr ""
+msgstr "Laman koleksi saat ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:353
 msgid "Maximum number of items to be returned in result set."
@@ -10016,12 +10016,12 @@ msgstr "Judul untuk objek, sebagaimana tersimpan dalam basis data."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:730
 msgid "HTML title for the object, transformed for display."
-msgstr ""
+msgstr "Judul HTML untuk objek, ditransformasikan untuk penampilan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:739
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:253
 msgid "Unique identifier for the object."
-msgstr ""
+msgstr "Pengidentifikasi unik untuk objek."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:748
 msgid "The singular label used to describe this type of menu item."
@@ -10082,7 +10082,7 @@ msgstr ""
 #. translators: %s: taxonomy name
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:895
 msgid "The terms assigned to the object in the %s taxonomy."
-msgstr ""
+msgstr "Istilah-istilah yang ditentukan untuk objek di dalam taksonomi %s."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:931
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2824
@@ -10092,7 +10092,7 @@ msgstr "Batasi hasil untuk pos-pos dengan nilai menu_order tertentu."
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:943
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:804
 msgid "Sort collection by object attribute."
-msgstr ""
+msgstr "Sortir koleksi berdasarkan atribut objek."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:57
 msgid "An alphanumeric identifier for the menu location."
@@ -10177,7 +10177,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:349
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr ""
+msgstr "Tak bisa menyambungkan ke filesystem. Mohon konfirmasikan kredensial Anda."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:359
 msgid "Unable to determine what plugin was installed."
@@ -10201,7 +10201,7 @@ msgstr "Maaf, Anda tak  mengaktifkan plugin ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:716
 msgid "Sorry, you are not allowed to deactivate this plugin."
-msgstr ""
+msgstr "Maaf, Anda tak  menonaktifkan plugin ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:750
 msgid "Network only plugin must be network activated."
@@ -10291,7 +10291,7 @@ msgstr "Judul untuk status."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:311
 msgid "Whether posts with this status should be private."
-msgstr ""
+msgstr "Apakah pos-pos dengan status ini harus privat."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:317
 msgid "Whether posts with this status should be protected."
@@ -10299,15 +10299,15 @@ msgstr "Apakah pos-pos dengan status ini harus dilindungi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:323
 msgid "Whether posts of this status should be shown in the front end of the site."
-msgstr ""
+msgstr "Apakah pos-pos dengan staus ini harus ditampilkan di bagian muka situs."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:329
 msgid "Whether posts with this status should be publicly-queryable."
-msgstr ""
+msgstr "Apakah pos-pos dengan status ini harus bisa dibaca dengan kueri umum."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:335
 msgid "Whether to include posts in the edit listing for their post type."
-msgstr ""
+msgstr "Apakah akan menyertakan pos dalam daftar penyuntingan dalam tipe posnya."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:347
 msgid "Whether posts of this status may have floating published dates."
@@ -10324,7 +10324,7 @@ msgstr "Tidak dapat melihat tipe pos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:313
 msgid "All capabilities used by the post type."
-msgstr ""
+msgstr "Semua kapabilitas yang digunakan oleh tipe pos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:319
 msgid "A human-readable description of the post type."
@@ -10348,7 +10348,7 @@ msgstr "Judul untuk tipe pos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:355
 msgid "All features, supported by the post type."
-msgstr ""
+msgstr "Semua fitur, didukung oleh post type tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:361
 msgid "If the value is a string, the value will be used as the archive slug. If the value is false the post type has no archive."
@@ -10356,7 +10356,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:367
 msgid "Taxonomies associated with post type."
-msgstr ""
+msgstr "Taksonomi yang terkait dengan tipe pos ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:376
 msgid "REST base route for the post type."
@@ -10390,12 +10390,12 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:215
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:231
 msgid "You need to define a search term to order by relevance."
-msgstr ""
+msgstr "Anda harus menentukan istilah pencarian untuk disusun berdasarkan relevansinya."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:224
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:240
 msgid "You need to define an include parameter to order by include."
-msgstr ""
+msgstr "Anda harus mendefinisikan paramater sertakan untuk menyertakan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:411
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:315
@@ -10427,19 +10427,19 @@ msgstr "Pos telah dihapus."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1314
 msgid "A post can not be sticky and have a password."
-msgstr ""
+msgstr "Sebuah pos tak bisa ditempelkan dan dilindungi kata sandi secara bersamaan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1322
 msgid "A sticky post can not be password protected."
-msgstr ""
+msgstr "Pos yang ditempelkan tak bisa dilindungi kata sandi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1333
 msgid "A password protected post can not be set to sticky."
-msgstr ""
+msgstr "Pos yang terlindungi password tak bisa ditempelkan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1487
 msgid "Invalid featured media ID."
-msgstr ""
+msgstr "ID media unggulan tidak sah."
 
 #. translators: 1: Parameter, 2: List of valid values.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1534
@@ -10492,7 +10492,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2297
 msgid "A password to protect access to the content and excerpt."
-msgstr ""
+msgstr "Kata sandi untuk melindungi akses atas konten dan ringkasan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2307
 msgid "Permalink template for the post."
@@ -10532,7 +10532,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2429
 msgid "Whether the content is protected with a password."
-msgstr ""
+msgstr "Apakah konten dilindungi dengan kata sandi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2440
 msgid "The ID for the author of the post."
@@ -10616,7 +10616,7 @@ msgstr "Pengguna ini dapat mengubah penulis pada pos ini."
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2705
 msgid "The current user can assign terms in the %s taxonomy."
-msgstr ""
+msgstr "Pengguna ini dapat menetapkan istilah pada taksonomi %s."
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2707
@@ -10824,7 +10824,7 @@ msgstr ""
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:169
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:186
 msgid "The %s property has an invalid stored value, and cannot be updated to null."
-msgstr ""
+msgstr "Properti %s memiliki nilai tersimpan yang tak sah, dan tidak bisa diubah menjadi null."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:71
 msgid "The id of a registered sidebar"
@@ -10909,32 +10909,32 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:58
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:362
 msgid "An alphanumeric identifier for the taxonomy."
-msgstr ""
+msgstr "Sebuah identitas alfanumerik untuk taksonomi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:99
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:166
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengelola terma-terma dalam taksonomi ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:332
 msgid "All capabilities used by the taxonomy."
-msgstr ""
+msgstr "Semua kapabilitas yang digunakan oleh taksonomi tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:338
 msgid "A human-readable description of the taxonomy."
-msgstr ""
+msgstr "Deskripsi yang terbaca manusia untuk taksonomi tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:344
 msgid "Whether or not the taxonomy should have children."
-msgstr ""
+msgstr "Apakah taksonomi tersebut harus punya anak atau tidak."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:350
 msgid "Human-readable labels for the taxonomy for various contexts."
-msgstr ""
+msgstr "Label yang terbaca manusia untuk taksonomi tersebut untuk berbagai konteks."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:356
 msgid "The title for the taxonomy."
-msgstr ""
+msgstr "Judul untuk taksonomi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:368
 msgid "Whether or not the term cloud should be displayed."
@@ -10942,11 +10942,11 @@ msgstr "Apakah awan istilah harus ditampilkan atau tidak."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:374
 msgid "Types associated with the taxonomy."
-msgstr ""
+msgstr "Tipe-tipe yang diasosiasikan dengan taksonomi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:383
 msgid "REST base route for the taxonomy."
-msgstr ""
+msgstr "Rute dasar REST untuk taksonomi."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:389
 msgid "REST namespace route for the taxonomy."
@@ -10982,7 +10982,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:446
 msgid "Limit results to taxonomies associated with a specific post type."
-msgstr ""
+msgstr "Batasi hasil hanya untuk taksonomi yang terkait dengan tipe pos tertentu."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:111
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1020
@@ -10995,7 +10995,7 @@ msgstr "Nilai harus true, karena istilah tidak mendukung pemindahan ke tong samp
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:194
 msgid "Sorry, you are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "Maaf, Anda tak dizinkan mengedit istilah-istilah dalam taksonomi ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:215
 msgid "Sorry, you are not allowed to view terms for this post."
@@ -11016,7 +11016,7 @@ msgstr "Istilah tidak dapat dihapus."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1026
 msgid "Number of published posts for the term."
-msgstr ""
+msgstr "Jumlah pos yang telah terbit untuk terma tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1032
 msgid "HTML description of the term."
@@ -11036,7 +11036,7 @@ msgstr "Pengenal alfanumerik untuk istilah yang unik untuk tipe tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1061
 msgid "Type attribution for the term."
-msgstr ""
+msgstr "Jenis atribusi untuk istilah tersebut."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1074
 msgid "The parent term ID."
@@ -11044,15 +11044,15 @@ msgstr "ID induk istilah."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1136
 msgid "Sort collection by term attribute."
-msgstr ""
+msgstr "Urutkan koleksi berdasarkan atribut istilah."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1152
 msgid "Whether to hide terms not assigned to any posts."
-msgstr ""
+msgstr "Apakah akan menyembunyikan istilah-istilah yang tak digunakan pada pos manapun."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1159
 msgid "Limit result set to terms assigned to a specific parent."
-msgstr ""
+msgstr "Batasi set hasil untuk terma-terma dengan induk tertentu."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1165
 msgid "Limit result set to terms assigned to a specific post."
@@ -11210,7 +11210,7 @@ msgstr "Parameter pengguna tak sah."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:196
 msgid "Sorry, you are not allowed to filter users by role."
-msgstr ""
+msgstr "Maaf, Anda tidak diperbolehkan untuk menyaring pengguna berdasarkan peranan."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:205
 msgid "Sorry, you are not allowed to filter users by capability."
@@ -11218,7 +11218,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:221
 msgid "Sorry, you are not allowed to order users by this parameter."
-msgstr ""
+msgstr "Maaf, Anda tidak diizinkan untuk mengurutkan para pengguna berdasarkan parameter ini."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:238
 msgid "Sorry, you are not allowed to query users by this parameter."
@@ -11296,7 +11296,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1350
 msgid "Login name for the user."
-msgstr ""
+msgstr "Nama login untuk pengguna."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1359
 msgid "Display name for the user."
@@ -11352,11 +11352,11 @@ msgstr "Kata sandi untuk pengguna (tak pernah disertakan)."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1454
 msgid "All capabilities assigned to the user."
-msgstr ""
+msgstr "Seluruh kapabilitas yang diberikan kepada pengguna."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1460
 msgid "Any extra capabilities assigned to the user."
-msgstr ""
+msgstr "Kapabilitas tambahan yang diberikan kepada pengguna."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1484
 msgid "Avatar URLs for the user."
@@ -11372,7 +11372,7 @@ msgstr "Batasi set hasil ke pengguna dengan satu atau lebih slug spesifik."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1566
 msgid "Limit result set to users matching at least one specific role provided. Accepts csv list or single role."
-msgstr ""
+msgstr "Batasi hasil diatur ke pengguna yang setidaknya satu peran spesifik yang telah disediakan. Terima daftar csv atau peran tunggal."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1574
 msgid "Limit result set to users matching at least one specific capability provided. Accepts csv list or single capability."
@@ -11391,7 +11391,7 @@ msgstr ""
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:276
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:375
 msgid "Sorry, you are not allowed to edit the %s custom field."
-msgstr ""
+msgstr "Maaf, Anda tak diizinkan mengedit ruas kustom %s."
 
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:245
 msgid "Could not delete meta value from database."
@@ -11410,7 +11410,7 @@ msgstr "Ruas-ruas meta."
 
 #: wp-includes/revision.php:33
 msgid "Content"
-msgstr ""
+msgstr "Konten"
 
 #: wp-includes/revision.php:34
 msgid "Excerpt"
@@ -11431,7 +11431,7 @@ msgstr "Maaf, Anda tak  meninjau draf."
 #: wp-includes/rss.php:910
 #: wp-includes/widgets.php:1603
 msgid "An error has occurred, which probably means the feed is down. Try again later."
-msgstr ""
+msgstr "Sebuah galat telah terjadi, yang kemungkinan berarti umpan tersebut sedang anjlok. Coba lagi nanti."
 
 #: wp-includes/script-loader.php:563
 msgid "Close all open tags"
@@ -11459,7 +11459,7 @@ msgstr "arah teks"
 
 #: wp-includes/script-loader.php:569
 msgid "Toggle Editor Text Direction"
-msgstr ""
+msgstr "Atur Arah Teks Penyunting"
 
 #: wp-includes/script-loader.php:572
 msgid "Close bold tag"
@@ -11471,7 +11471,7 @@ msgstr "Tutup tag italic"
 
 #: wp-includes/script-loader.php:577
 msgid "Close blockquote tag"
-msgstr ""
+msgstr "Tutup tag blockquote"
 
 #: wp-includes/script-loader.php:578
 msgid "Deleted text (strikethrough)"
@@ -11538,16 +11538,16 @@ msgstr "dari"
 #: wp-includes/script-loader.php:773
 #: wp-includes/script-loader.php:1264
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-msgstr ""
+msgstr "Fitur ini memerlukan bingkai langsung di tempat. Anda memiliki iframe dinonaktifkan atau browser Anda tidak mendukung mereka."
 
 #: wp-includes/script-loader.php:783
 msgid "You have attempted to queue too many files."
-msgstr ""
+msgstr "Anda telah mencoba mengantrikan terlalu banyak berkas."
 
 #. translators: %s: File name.
 #: wp-includes/script-loader.php:785
 msgid "%s exceeds the maximum upload size for this site."
-msgstr ""
+msgstr "%s terlalu besar untuk diunggah."
 
 #: wp-includes/script-loader.php:786
 msgid "This file is empty. Please try another."
@@ -11567,15 +11567,15 @@ msgstr "Ini melebihi ukuran maksimum. Silakan coba lainnya."
 
 #: wp-includes/script-loader.php:791
 msgid "An error occurred in the upload. Please try again later."
-msgstr ""
+msgstr "Sebuah galat telah terjadi selama proses pengunggahan. Silakan coba lagi nanti."
 
 #: wp-includes/script-loader.php:792
 msgid "There was a configuration error. Please contact the server administrator."
-msgstr ""
+msgstr "Ada galat konfigurasi. Silakan hubungi administrator server."
 
 #: wp-includes/script-loader.php:793
 msgid "You may only upload 1 file."
-msgstr ""
+msgstr "Anda hanya boleh mengunggah satu berkas."
 
 #: wp-includes/script-loader.php:794
 msgid "Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page."
@@ -11587,25 +11587,25 @@ msgstr ""
 
 #: wp-includes/script-loader.php:796
 msgid "Upload failed."
-msgstr ""
+msgstr "Pengunggahan gagal."
 
 #. translators: 1: Opening link tag, 2: Closing link tag.
 #: wp-includes/script-loader.php:798
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
-msgstr ""
+msgstr "Untuk mengunggah berkas ini, silakan gunakan %1$spengunggah peramban%2$s."
 
 #. translators: %s: File name.
 #: wp-includes/script-loader.php:800
 msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
-msgstr ""
+msgstr "%s melebihi ukuran unggah maksimum untuk pengunggah multi-berkas bilamana digunakan pada peramban Anda."
 
 #: wp-includes/script-loader.php:801
 msgid "IO error."
-msgstr ""
+msgstr "Galat IO."
 
 #: wp-includes/script-loader.php:802
 msgid "Security error."
-msgstr ""
+msgstr "Galat keamanan."
 
 #: wp-includes/script-loader.php:803
 msgid "File canceled."
@@ -11613,11 +11613,11 @@ msgstr "Berkas dibatalkan."
 
 #: wp-includes/script-loader.php:804
 msgid "Upload stopped."
-msgstr ""
+msgstr "Pengunggahan terhenti."
 
 #: wp-includes/script-loader.php:806
 msgid "Crunching&hellip;"
-msgstr ""
+msgstr "Memproses&hellip;"
 
 #: wp-includes/script-loader.php:807
 msgid "moved to the Trash."
@@ -11647,11 +11647,11 @@ msgstr "Matikan Layar Penuh"
 
 #: wp-includes/script-loader.php:864
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Nyalakan Layar Penuh"
 
 #: wp-includes/script-loader.php:865
 msgid "Download Video"
-msgstr ""
+msgstr "Unduh Video"
 
 #: wp-includes/script-loader.php:867
 msgid "Jump forward 1 second"
@@ -11677,7 +11677,7 @@ msgstr "Jeda"
 
 #: wp-includes/script-loader.php:872
 msgid "Time Slider"
-msgstr ""
+msgstr "Penggeser Waktu"
 
 #: wp-includes/script-loader.php:873
 msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
@@ -11701,7 +11701,7 @@ msgstr "Bab"
 
 #: wp-includes/script-loader.php:878
 msgid "Mute Toggle"
-msgstr ""
+msgstr "Pengubah Sunyi"
 
 #: wp-includes/script-loader.php:879
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -11717,15 +11717,15 @@ msgstr "Senyap"
 
 #: wp-includes/script-loader.php:882
 msgid "Volume Slider"
-msgstr ""
+msgstr "Penggeser Volume"
 
 #: wp-includes/script-loader.php:883
 msgid "Video Player"
-msgstr ""
+msgstr "Pemutar Video"
 
 #: wp-includes/script-loader.php:884
 msgid "Audio Player"
-msgstr ""
+msgstr "Pemutar Audio"
 
 #: wp-includes/script-loader.php:885
 msgid "Skip ad"
@@ -11757,7 +11757,7 @@ msgstr "Siaran Langsung"
 
 #: wp-includes/script-loader.php:891
 msgid "Afrikaans"
-msgstr ""
+msgstr "Bahasa Afrikanas"
 
 #: wp-includes/script-loader.php:892
 msgid "Albanian"
@@ -11769,7 +11769,7 @@ msgstr "Bahasa Arab"
 
 #: wp-includes/script-loader.php:894
 msgid "Belarusian"
-msgstr ""
+msgstr "Bahasa Belarusia"
 
 #: wp-includes/script-loader.php:895
 msgid "Bulgarian"
@@ -11777,7 +11777,7 @@ msgstr "Bahasa Bulgaria"
 
 #: wp-includes/script-loader.php:896
 msgid "Catalan"
-msgstr ""
+msgstr "Bahasa Katalan"
 
 #: wp-includes/script-loader.php:897
 msgid "Chinese"
@@ -11793,11 +11793,11 @@ msgstr "Bahasa Mandarin (Tradisional)"
 
 #: wp-includes/script-loader.php:900
 msgid "Croatian"
-msgstr ""
+msgstr "Bahasa Kroasia"
 
 #: wp-includes/script-loader.php:901
 msgid "Czech"
-msgstr ""
+msgstr "Bahasa Ceko"
 
 #: wp-includes/script-loader.php:902
 msgid "Danish"
@@ -11825,11 +11825,11 @@ msgstr "Bahasa Finlandia"
 
 #: wp-includes/script-loader.php:908
 msgid "French"
-msgstr ""
+msgstr "Bahasa Perancis"
 
 #: wp-includes/script-loader.php:909
 msgid "Galician"
-msgstr ""
+msgstr "Bahasa Galikan"
 
 #: wp-includes/script-loader.php:910
 msgid "German"
@@ -11841,11 +11841,11 @@ msgstr "Bahasa Yunani"
 
 #: wp-includes/script-loader.php:912
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Bahasa Kreol Haiti"
 
 #: wp-includes/script-loader.php:913
 msgid "Hebrew"
-msgstr ""
+msgstr "Bahasa Ibrani"
 
 #: wp-includes/script-loader.php:914
 msgid "Hindi"
@@ -11853,7 +11853,7 @@ msgstr "Bahasa Hindi"
 
 #: wp-includes/script-loader.php:915
 msgid "Hungarian"
-msgstr ""
+msgstr "Bahasa Hungaria"
 
 #: wp-includes/script-loader.php:916
 msgid "Icelandic"
@@ -11973,7 +11973,7 @@ msgstr "Bahasa Welsh"
 
 #: wp-includes/script-loader.php:945
 msgid "Yiddish"
-msgstr ""
+msgstr "Bahasa Yiddi"
 
 #: wp-includes/script-loader.php:1017
 msgctxt "password strength"
@@ -12011,7 +12011,7 @@ msgstr "Tautan terpilih."
 
 #: wp-includes/script-loader.php:1060
 msgid "Link inserted."
-msgstr ""
+msgstr "Tautan tersisipkan."
 
 #. translators: Minimum input length in characters to start searching posts in the "Insert/edit link" modal.
 #: wp-includes/script-loader.php:1062
@@ -12038,7 +12038,7 @@ msgstr "Sedang memperbarui"
 #: wp-includes/script-loader.php:1095
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr ""
+msgstr "Terjadwal"
 
 #: wp-includes/script-loader.php:1096
 msgid "Invalid"
@@ -12046,7 +12046,7 @@ msgstr "Tidak Sah"
 
 #: wp-includes/script-loader.php:1097
 msgid "Please save your changes in order to share the preview."
-msgstr ""
+msgstr "Silakan simpan perubahan Anda untuk dibagikan pratinjaunya."
 
 #: wp-includes/script-loader.php:1100
 msgid "Saved"
@@ -12058,7 +12058,7 @@ msgstr "Abaikan perubahan"
 
 #: wp-includes/script-loader.php:1108
 msgid "Site Preview"
-msgstr ""
+msgstr "Pratinjau Situs"
 
 #: wp-includes/script-loader.php:1110
 msgctxt "label for hide controls button without length constraints"
@@ -12080,11 +12080,11 @@ msgstr "Sepertinya ada masalah. Tunggu beberapa detik, lalu coba lagi."
 
 #: wp-includes/script-loader.php:1114
 msgid "Downloading your new theme&hellip;"
-msgstr ""
+msgstr "Mengunduh tema baru Anda&hellip;"
 
 #: wp-includes/script-loader.php:1115
 msgid "Setting up your live preview. This may take a bit."
-msgstr ""
+msgstr "Aturlah pratinjau langsung Anda. Hanya sebentar saja."
 
 #: wp-includes/script-loader.php:1116
 msgid "Reverting unpublished changes&hellip;"
@@ -12102,7 +12102,7 @@ msgstr "%s telah mengambil alih dan sedang menyesuaikan."
 #. translators: %s: URL to the Customizer to load the autosaved version.
 #: wp-includes/script-loader.php:1121
 msgid "There is a more recent autosave of your changes than the one you are previewing. <a href=\"%s\">Restore the autosave</a>"
-msgstr ""
+msgstr "Ada perubahan lebih baru pada penyimpanan otomatis daripada perubahan Anda yang sedang Anda pratinjau. <a href=\"%s\">Kembalikan yang tersimpan di penyimpanan otomatis</a>"
 
 #: wp-includes/script-loader.php:1122
 msgid "This theme does not support video headers on this page. Navigate to the front page or another page that supports video headers."
@@ -12110,7 +12110,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1124
 msgid "Allowed Files"
-msgstr ""
+msgstr "Berkas yang Diijinkan"
 
 #. translators: %d: Error count.
 #: wp-includes/script-loader.php:1127
@@ -12189,17 +12189,17 @@ msgstr "Sebelumnya"
 
 #: wp-includes/shortcodes.php:69
 msgid "Invalid shortcode name: Empty name given."
-msgstr ""
+msgstr "Nama shortcode tidak sah: nama yang terkirim kosong."
 
 #. translators: 1: Shortcode name, 2: Space-separated list of reserved characters.
 #: wp-includes/shortcodes.php:80
 msgid "Invalid shortcode name: %1$s. Do not use spaces or reserved characters: %2$s"
-msgstr ""
+msgstr "Nama shortcode tidak sah: %1$s. Jangan gunakan spasi atau karakter terlarang: %2$s"
 
 #. translators: %s: Shortcode tag.
 #: wp-includes/shortcodes.php:367
 msgid "Attempting to parse a shortcode without a valid callback: %s"
-msgstr ""
+msgstr "Mencoba untuk mengurai shortcode tanpa callback yang sah: %s"
 
 #. translators: %s: List of element names.
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:171
@@ -12286,7 +12286,7 @@ msgstr "Sunting Tautan Kategori"
 
 #: wp-includes/taxonomy.php:148
 msgid "Update Link Category"
-msgstr ""
+msgstr "Perbarui Kategori Taut"
 
 #: wp-includes/taxonomy.php:149
 msgid "Add New Link Category"
@@ -12313,11 +12313,11 @@ msgstr "Format"
 #: wp-includes/taxonomy.php:451
 #: wp-includes/taxonomy.php:452
 msgid "Taxonomy names must be between 1 and 32 characters in length."
-msgstr ""
+msgstr "Nama taksonomi harus memiliki antara 1 sampai 32 karakter."
 
 #: wp-includes/taxonomy.php:539
 msgid "Unregistering a built-in taxonomy is not allowed."
-msgstr ""
+msgstr "Tak diizinkan menghapus taksonomi bawaan."
 
 #: wp-includes/taxonomy.php:887
 #: wp-includes/taxonomy.php:3110
@@ -12328,7 +12328,7 @@ msgstr "Istilah kosong."
 #: wp-includes/taxonomy.php:1302
 #: wp-includes/taxonomy.php:1366
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
-msgstr ""
+msgstr "Meta istilah tak bisa ditambahkan ke istilah-istilah yang digunakan bersama oleh beberapa taksonomi."
 
 #: wp-includes/taxonomy.php:2334
 #: wp-includes/taxonomy.php:3139
@@ -12341,7 +12341,7 @@ msgstr "Sebuah istilah dengan nama yang diberikan sudah ada dengan induk ini."
 
 #: wp-includes/taxonomy.php:2447
 msgid "A term with the name provided already exists in this taxonomy."
-msgstr ""
+msgstr "Sebuah istilah dengan nama dan slug telah ada dalam taksonomi ini."
 
 #: wp-includes/taxonomy.php:2468
 msgid "Could not insert term into the database."
@@ -12387,11 +12387,11 @@ msgstr "Tema tanpa %s"
 #: wp-includes/theme-compat/header.php:15
 #: wp-includes/theme-compat/sidebar.php:15
 msgid "Please include a %s template in your theme."
-msgstr ""
+msgstr "Harap sertakan templat %s dalam tema Anda."
 
 #: wp-includes/theme-compat/comments.php:24
 msgid "This post is password protected. Enter the password to view comments."
-msgstr ""
+msgstr "Pos ini terlindung sandi. Masukkan sandi untuk melihat komentar."
 
 #. translators: %s: Post title.
 #: wp-includes/theme-compat/comments.php:38
@@ -12415,12 +12415,12 @@ msgstr ""
 #. translators: %s: A link to the embedded site.
 #: wp-includes/theme-compat/embed-404.php:21
 msgid "It looks like nothing was found at this location. Maybe try visiting %s directly?"
-msgstr ""
+msgstr "Sepertinya tidak ditemukan apapun di lokasi ini. Mau coba mengunjungi %s secara langsung?"
 
 #. translators: 1: Blog name, 2: ClassicPress
 #: wp-includes/theme-compat/footer.php:26
 msgid "%1$s is proudly powered by %2$s"
-msgstr ""
+msgstr "%1$s dengan bangga diberdayakan dengan %2$s"
 
 #. translators: %s: Category name.
 #: wp-includes/theme-compat/sidebar.php:46
@@ -12453,7 +12453,7 @@ msgstr "Anda sedang menelusuri arsip blog %1$s untuk tahun %2$s."
 #. translators: 1: Site link, 2: Search query.
 #: wp-includes/theme-compat/sidebar.php:93
 msgid "You have searched the %1$s blog archives for <strong>&#8216;%2$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
-msgstr ""
+msgstr "Anda telah mencari arsip blog %1$s untuk <strong>&#8216;%2$s&#8217;</strong>. Jika Anda tidak dapat menemukan apapun dalam hasil pencarian ini, Anda dapat mencoba salah satu dari tautan ini."
 
 #. translators: %s: Site link.
 #: wp-includes/theme-compat/sidebar.php:105
@@ -12486,7 +12486,7 @@ msgstr ""
 
 #: wp-includes/theme.php:1638
 msgid "Video is paused."
-msgstr ""
+msgstr "Video dijeda."
 
 #: wp-includes/theme.php:1639
 msgid "Video is playing."
@@ -12505,7 +12505,7 @@ msgstr "Alamat"
 #: wp-includes/theme.php:2213
 msgctxt "Theme starter content"
 msgid "123 Main Street"
-msgstr ""
+msgstr "Jl. Jend. Sudirman 8"
 
 #: wp-includes/theme.php:2214
 msgctxt "Theme starter content"
@@ -12560,12 +12560,12 @@ msgstr "Meta"
 #: wp-includes/theme.php:2260
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr ""
+msgstr "Komentar Terkini"
 
 #: wp-includes/theme.php:2266
 msgctxt "Theme starter content"
 msgid "Recent Posts"
-msgstr ""
+msgstr "Pos Terkini"
 
 #: wp-includes/theme.php:2272
 msgctxt "Theme starter content"
@@ -12596,22 +12596,22 @@ msgstr "Foursquare"
 #: wp-includes/theme.php:2321
 msgctxt "Theme starter content"
 msgid "GitHub"
-msgstr ""
+msgstr "Github"
 
 #: wp-includes/theme.php:2325
 msgctxt "Theme starter content"
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: wp-includes/theme.php:2329
 msgctxt "Theme starter content"
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: wp-includes/theme.php:2333
 msgctxt "Theme starter content"
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: wp-includes/theme.php:2337
 msgctxt "Theme starter content"
@@ -12631,7 +12631,7 @@ msgstr "YouTube"
 #: wp-includes/theme.php:2353
 msgctxt "Theme starter content"
 msgid "Welcome to your site! This is your homepage, which is what most visitors will see when they come to your site for the first time."
-msgstr ""
+msgstr "Selamat datang di situs Anda! Ini adalah laman beranda yang akan dilihat oleh kebanyakan pengunjung saat pertama datang ke sini."
 
 #: wp-includes/theme.php:2357
 msgctxt "Theme starter content"
@@ -12651,7 +12651,7 @@ msgstr "Kontak"
 #: wp-includes/theme.php:2363
 msgctxt "Theme starter content"
 msgid "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form."
-msgstr ""
+msgstr "Ini laman dengan informasi kontak dasar, seperti alamat dan nomor telepon. Anda juga bisa menggunakan plugin untuk menambahkan formulir kontak."
 
 #: wp-includes/theme.php:2367
 msgctxt "Theme starter content"
@@ -12671,7 +12671,7 @@ msgstr "Bagian Beranda"
 #: wp-includes/theme.php:2377
 msgctxt "Theme starter content"
 msgid "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts."
-msgstr ""
+msgstr "Ini adalah contoh beranda. Beranda bisa merupakan laman lain selain beranda itu sendiri, termasuk laman yang menampilkan pos blog terbaru Anda."
 
 #: wp-includes/theme.php:2601
 msgid "You need to pass an array of post formats."
@@ -12713,7 +12713,7 @@ msgstr ""
 
 #: wp-includes/theme.php:3603
 msgid "Customizer"
-msgstr ""
+msgstr "Penyesuai"
 
 #: wp-includes/theme.php:3795
 msgid "Whether theme opts in to wide alignment CSS class."
@@ -12802,7 +12802,7 @@ msgstr "Terjadi galat tak terduga. Mungkin ada yang salah dengan ClassicPress.ne
 
 #: wp-includes/update.php:160
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress tidak bisa membuat sambungan aman ke ClassicPress.net. Silakan hubungi administrator server Anda.)"
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:390
@@ -12826,7 +12826,7 @@ msgstr "Terjadi galat tak terduga. Mungkin ada yang salah dengan ClassicPress.ne
 
 #: wp-includes/update.php:668
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(WordPress tidak bisa membuat sambungan aman ke WordPress.org. Silakan hubungi administrator server Anda.)"
 
 #. translators: %d: Number of available WordPress updates.
 #: wp-includes/update.php:883
@@ -12979,7 +12979,14 @@ msgid "Hi ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hai ###USERNAME###,\n\n"
+"Pemberitahuan ini mengkonfirmasikan bahwa alamat email Anda di ###SITENAME### telah diubah menjadi ###NEW_EMAIL###.\n\n"
+"Jika Anda tidak mengubah email, hubungi Administrator Situs di\n"
+"###ADMIN_EMAIL###\n\n"
+"Email ini dikirimkan pada ###EMAIL###\n\n"
+"Hormat kami,\n"
+"Tim ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Email change notification email subject. %s: Site title.
 #: wp-includes/user.php:2673
@@ -13133,11 +13140,11 @@ msgstr ""
 #. translators: %s: New email address.
 #: wp-includes/user.php:3757
 msgid "Your email address has not been updated yet. Please check your inbox at %s for a confirmation email."
-msgstr ""
+msgstr "Alamat Email Anda belum terbarui. Sila cek kotak email Anda di %s untuk konfirmasi."
 
 #: wp-includes/user.php:3787
 msgid "ClassicPress User"
-msgstr ""
+msgstr "Pengguna ClassicPress"
 
 #: wp-includes/user.php:3821
 msgid "User ID"
@@ -13145,7 +13152,7 @@ msgstr "ID Pengguna"
 
 #: wp-includes/user.php:3822
 msgid "User Login Name"
-msgstr ""
+msgstr "Nama Login Pengguna"
 
 #: wp-includes/user.php:3823
 msgid "User Nice Name"
@@ -13248,7 +13255,7 @@ msgstr ""
 #. translators: Privacy data request confirmed notification email subject. 1: Site title, 2: Name of the confirmed action.
 #: wp-includes/user.php:4078
 msgid "[%1$s] Action Confirmed: %2$s"
-msgstr ""
+msgstr "[%1$s] Tindakan Terkonfirmasi: %2$s"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL, SITEURL; those are placeholders.
 #: wp-includes/user.php:4105
@@ -13261,7 +13268,15 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Halo,\n\n"
+"Sebuah permintaan privasi data telah terkonfirmasi di ###SITENAME###:\n\n"
+"Pengguna: ###USER_EMAIL###\n"
+"Permintaan: ###DESCRIPTION###\n\n"
+"Anda bisa melihat dan mengelola permintaan tersebut di:\n\n"
+"###MANAGE_URL###\n\n"
+"Salam hormat,\n"
+"Semua di ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: 1 & 2: Deprecation replacement options.
 #: wp-includes/user.php:4160
@@ -13298,7 +13313,13 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Permintaan Anda untuk menghapus data personal Anda di ###SITENAME### telah selesai dikerjakan.\n\n"
+"Jika Anda memiliki pertanyaan dan kerisauan lanjutan, mohon untuk menghubungi administrator situs ini.\n\n"
+"Informasi lebih banyak bisa Anda dapatkan dengan membaca Kebijakan Privasi kami: ###PRIVACY_POLICY_URL###\n\n"
+"Salam hormat,\n"
+"Semua di ###SITENAME###\n"
+"###SITEURL###"
 
 #: wp-includes/user.php:4516
 msgid "Action has been confirmed."
@@ -13306,19 +13327,19 @@ msgstr "Tindakan telah dikonfirmasi."
 
 #: wp-includes/user.php:4517
 msgid "The site administrator has been notified and will fulfill your request as soon as possible."
-msgstr ""
+msgstr "Administrator situs sudah diberitahu dan akan memenuhi permohonan Anda sesegera mungkin."
 
 #: wp-includes/user.php:4521
 msgid "Thanks for confirming your export request."
-msgstr ""
+msgstr "Terima kasih telah mengkonfirmasi permintaan ekspor Anda."
 
 #: wp-includes/user.php:4522
 msgid "The site administrator has been notified. You will receive a link to download your export via email when they fulfill your request."
-msgstr ""
+msgstr "Administrator situs telah diberi tahu. Anda akan menerima tautan untuk mengunduh ekspor Anda melalui email ketika mereka memenuhi permintaan Anda."
 
 #: wp-includes/user.php:4524
 msgid "Thanks for confirming your erasure request."
-msgstr ""
+msgstr "Terima kasih telah mengkonfirmasi permintaan penghapusan data Anda."
 
 #: wp-includes/user.php:4525
 msgid "The site administrator has been notified. You will receive an email confirmation when they erase your data."
@@ -13515,7 +13536,7 @@ msgstr "Pilih Pos"
 #: wp-includes/widgets/class-wp-widget-archives.php:212
 #: wp-includes/widgets/class-wp-widget-categories.php:181
 msgid "Display as dropdown"
-msgstr ""
+msgstr "Tampilkan sebagai tarikturun"
 
 #: wp-includes/widgets/class-wp-widget-archives.php:215
 #: wp-includes/widgets/class-wp-widget-categories.php:185
@@ -13532,7 +13553,7 @@ msgstr "Kalender"
 
 #: wp-includes/widgets/class-wp-widget-categories.php:27
 msgid "A list or dropdown of categories."
-msgstr ""
+msgstr "Sebuah daftar atau dropdown kategori."
 
 #: wp-includes/widgets/class-wp-widget-categories.php:77
 msgid "Select Category"
@@ -13563,11 +13584,11 @@ msgstr "Beberapa tanda HTML tidak , meliputi:"
 
 #: wp-includes/widgets/class-wp-widget-custom-html.php:305
 msgid "Use the Custom HTML widget to add arbitrary HTML code to your widget areas."
-msgstr ""
+msgstr "Gunakan widget Kustom HTML untuk menambahkan sembarang kode HTML ke dalam area widget."
 
 #: wp-includes/widgets/class-wp-widget-custom-html.php:334
 msgid "Custom HTML Widget"
-msgstr ""
+msgstr "Widget HTML Tersuai"
 
 #: wp-includes/widgets/class-wp-widget-links.php:26
 msgid "Your blogroll"
@@ -13589,7 +13610,7 @@ msgstr "Semua Tautan"
 #: wp-includes/widgets/class-wp-widget-links.php:156
 #: wp-includes/widgets/class-wp-widget-pages.php:160
 msgid "Sort by:"
-msgstr ""
+msgstr "Urutkan berdasarkan:"
 
 #: wp-includes/widgets/class-wp-widget-links.php:158
 msgid "Link title"
@@ -13634,7 +13655,7 @@ msgstr "Audio"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:30
 msgid "Displays an audio player."
-msgstr ""
+msgstr "Tampilkan sebuah pemutar audio."
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:39
 msgctxt "label for button in the audio widget"
@@ -13679,7 +13700,7 @@ msgstr "URL menuju %s berkas sumber audio"
 #: wp-includes/widgets/class-wp-widget-media-image.php:354
 #: wp-includes/widgets/class-wp-widget-media-video.php:240
 msgid "Unable to preview media due to an unknown error."
-msgstr ""
+msgstr "Tidak dapat melakukan pratinjau gambar karena kesalahan tak diketahui."
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:28
 msgid "Gallery"
@@ -13755,7 +13776,7 @@ msgstr "Widget Gambar"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:342
 msgid "Link to:"
-msgstr ""
+msgstr "Tautkan ke:"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
 msgid "Video"
@@ -13763,7 +13784,7 @@ msgstr "Video"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:30
 msgid "Displays a video from the media library or from YouTube, Vimeo, or another provider."
-msgstr ""
+msgstr "Menampilkan video dari pustaka media atau dari YouTube, Vimeo, atau penyedia layanan lainnya."
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:39
 msgctxt "label for button in the video widget"
@@ -13861,7 +13882,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-meta.php:29
 msgid "Login, RSS, &amp; ClassicPress.net links."
-msgstr ""
+msgstr "Login, RSS, &amp; Tautan ClassicPress.net."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:67
 msgid "Entries feed"
@@ -13873,7 +13894,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-meta.php:85
 msgid "Powered by ClassicPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
+msgstr "Diberdayakan dengan ClassicPress, program penerbitan semantik pribadi nan canggih."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
@@ -13886,15 +13907,15 @@ msgstr "Daftar Laman situs Anda."
 
 #: wp-includes/widgets/class-wp-widget-pages.php:162
 msgid "Page title"
-msgstr ""
+msgstr "Judul laman"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:163
 msgid "Page order"
-msgstr ""
+msgstr "Urutan laman"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:164
 msgid "Page ID"
-msgstr ""
+msgstr "ID Laman"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:169
 msgid "Exclude:"
@@ -13902,7 +13923,7 @@ msgstr "Kecualikan:"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:172
 msgid "Page IDs, separated by commas."
-msgstr ""
+msgstr "ID Laman, dipisahkan dengan koma."
 
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:27
 msgid "Your site&#8217;s most recent comments."
@@ -13938,7 +13959,7 @@ msgstr "Jumlah pos untuk ditampilkan:"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:170
 msgid "Display post date?"
-msgstr ""
+msgstr "Perlihatkan tanggal pos?"
 
 #: wp-includes/widgets/class-wp-widget-rss.php:26
 msgid "Entries from any RSS or Atom feed."
@@ -13980,11 +14001,11 @@ msgstr "Tag"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:156
 msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
-msgstr ""
+msgstr "Awan tag tak akan ditampilkan sebab tak ada taksonomi yang mendukung widget awan tag."
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:174
 msgid "Taxonomy:"
-msgstr ""
+msgstr "Taksonomi:"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:190
 msgid "Show tag counts"
@@ -14000,7 +14021,7 @@ msgstr "Teks"
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
-msgstr ""
+msgstr "Widget ini mungkin memuat kode yang berfungsi lebih baik dalam widget &#8220;HTML Kustom&#8221;. Mau mencoba widget tersebut?"
 
 #: wp-includes/widgets/class-wp-widget-text.php:499
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you have not yet, how about trying that widget instead?"
@@ -14170,7 +14191,7 @@ msgstr "Sembunyikan sandi"
 
 #: wp-login.php:966
 msgid "Strength indicator"
-msgstr ""
+msgstr "Indikator kekuatan"
 
 #: wp-login.php:970
 msgid "Confirm use of weak password"
@@ -14228,7 +14249,7 @@ msgstr ""
 
 #: wp-login.php:1191
 msgid "User action confirmed."
-msgstr ""
+msgstr "Tindakan pengguna terkonfirmasi."
 
 #. translators: 1: Browser cookie documentation URL, 2: Support forums URL.
 #: wp-login.php:1241
@@ -14279,7 +14300,7 @@ msgstr "Tampilkan sandi"
 #: wp-mail.php:15
 #: wp-mail.php:21
 msgid "This action has been disabled by the administrator."
-msgstr ""
+msgstr "Tindakan ini telah dinonaktifkan oleh administrator."
 
 #: wp-mail.php:42
 msgid "Slow down cowboy, no need to check for new mails so often!"
@@ -14317,7 +14338,7 @@ msgstr ""
 
 #: wp-signup.php:139
 msgid "sitename"
-msgstr ""
+msgstr "namasitus"
 
 #: wp-signup.php:141
 msgid "domain"
@@ -14342,11 +14363,11 @@ msgstr "Bahasa Situs:"
 
 #: wp-signup.php:212
 msgid "Privacy:"
-msgstr ""
+msgstr "Privasi:"
 
 #: wp-signup.php:213
 msgid "Allow search engines to index this site."
-msgstr ""
+msgstr "Ijinkan mesin pencari untuk mengindeks situs ini."
 
 #: wp-signup.php:218
 msgid "Yes"
@@ -14428,7 +14449,7 @@ msgstr "%s adalah nama pengguna baru Anda"
 
 #: wp-signup.php:704
 msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
-msgstr ""
+msgstr "Tetapi, sebelum Anda mulai menggunakan nama pengguna baru Anda, <strong>Anda harus mengaktifkannya</strong>."
 
 #. translators: %s: Email address.
 #: wp-signup.php:708
@@ -14451,7 +14472,7 @@ msgstr "Selamat! Situs baru anda, %s, sudah hampir siap."
 
 #: wp-signup.php:862
 msgid "But, before you can start using your site, <strong>you must activate it</strong>."
-msgstr ""
+msgstr "Tetapi, sebelum Anda dapat mulai menggunakan situs Anda, <strong>Anda harus mengaktifkannya</strong>."
 
 #: wp-signup.php:869
 msgid "If you do not activate your site within two days, you will have to sign up again."
@@ -14484,7 +14505,7 @@ msgstr "Hai Administrator Jaringan!"
 
 #: wp-signup.php:942
 msgid "The network currently disallows registrations."
-msgstr ""
+msgstr "Jaringan saat ini tidak mengizinkan pendaftaran apapun."
 
 #: wp-signup.php:945
 msgid "The network currently allows site registrations."
@@ -14501,11 +14522,11 @@ msgstr "Jaringan saat ini mengizinkan pendaftaran pengguna dan situs baru."
 #. translators: %s: URL to Network Settings screen.
 #: wp-signup.php:958
 msgid "To change or disable registration go to your <a href=\"%s\">Options page</a>."
-msgstr ""
+msgstr "Untuk menyunting atau mematikan pendaftaran kunjungi <a href=\"%s\">laman Pengaturan</a>."
 
 #: wp-signup.php:966
 msgid "Registration has been disabled."
-msgstr ""
+msgstr "Pendaftaran telah dinonaktifkan."
 
 #. translators: %s: Login URL.
 #: wp-signup.php:970
@@ -14514,11 +14535,11 @@ msgstr "Anda harus terlebih dahulu <a href=\"%s\">masuk log</a>, barulah Anda da
 
 #: wp-signup.php:981
 msgid "User registration has been disabled."
-msgstr ""
+msgstr "Pendaftaran pengguna telah dinonaktifkan."
 
 #: wp-signup.php:988
 msgid "Site registration has been disabled."
-msgstr ""
+msgstr "Pendaftaran situs telah dinonaktifkan."
 
 #: wp-signup.php:1008
 msgid "Sorry, new registrations are not allowed at this time."
@@ -14544,7 +14565,7 @@ msgstr "Saya benar-benar memerlukan sebuah ID untuk tindakan ini."
 
 #: wp-trackback.php:116
 msgid "Sorry, trackbacks are closed for this item."
-msgstr ""
+msgstr "Maaf, pelacakan ditutup untuk item ini."
 
 #: wp-trackback.php:138
 msgid "There is already a ping from that URL for this post."
@@ -14608,5 +14629,5 @@ msgstr ""
 
 #: wp-includes/js/wp-auth-check.js:27
 msgid "Your session has expired. You can log in again from this page or go to the login page."
-msgstr ""
+msgstr "Sesi Anda telah kadaluarsa. Anda bisa log masuk kembali dari laman ini atau mengunjungi laman log masuk."
 
