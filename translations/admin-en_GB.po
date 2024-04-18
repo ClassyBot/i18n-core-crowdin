@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-04-18 05:31\n"
+"PO-Revision-Date: 2024-04-18 17:31\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1371,7 +1371,7 @@ msgstr "There is an autosave of this post that is more recent than the version b
 
 #: wp-admin/edit-form-advanced.php:278
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimise or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimise or expand them by clicking the title bar of each box. Use the Screen Options tab to un-hide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
 
 #: wp-admin/edit-form-advanced.php:283
 msgid "Customizing This Display"
@@ -1941,7 +1941,7 @@ msgstr "You can delete Link Categories in the Bulk Action pull-down, but that ac
 
 #: wp-admin/edit-tags.php:262
 msgid "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
-msgstr "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
+msgstr "What&#8217;s the difference between categories and tags? Normally, tags are ad hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
 
 #: wp-admin/edit-tags.php:275
 msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
@@ -2594,7 +2594,7 @@ msgstr "Don&#8217;t you wish all software came with these freedoms? So do we! Fo
 
 #: wp-admin/import.php:25
 msgid "This screen lists links to plugins to import data from blogging/content management platforms. Choose the platform you want to import from, and click Install Now when you are prompted in the popup window. If your platform is not listed, click the link to search the plugin directory for other importer plugins to see if there is one for your platform."
-msgstr "This screen lists links to plugins to import data from blogging/content management platforms. Choose the platform you want to import from, and click Install Now when you are prompted in the popup window. If your platform is not listed, click the link to search the plugin directory for other importer plugins to see if there is one for your platform."
+msgstr "This screen lists links to plugins to import data from blogging/content management platforms. Choose the platform you want to import from, and click Install Now when you are prompted in the pop-up window. If your platform is not listed, click the link to search the plugin directory for other importer plugins to see if there is one for your platform."
 
 #: wp-admin/import.php:26
 msgid "In previous versions of ClassicPress, all importers were built-in. They have been turned into plugins since most people only use them once or infrequently."
@@ -5699,7 +5699,7 @@ msgstr "Auto-update"
 
 #: wp-admin/includes/class-wp-debug-data.php:1359
 msgid "The must use plugins directory"
-msgstr "The must use plugins directory"
+msgstr "The must-use plugins directory"
 
 #: wp-admin/includes/class-wp-debug-data.php:1614
 msgid "The size cannot be calculated. The directory is not accessible. Usually caused by invalid permissions."
@@ -5707,7 +5707,7 @@ msgstr "The size cannot be calculated. The directory is not accessible. Usually 
 
 #: wp-admin/includes/class-wp-debug-data.php:1621
 msgid "The directory size calculation has timed out. Usually caused by a very large number of sub-directories and files."
-msgstr "The directory size calculation has timed out. Usually caused by a very large number of sub-directories and files."
+msgstr "The directory size calculation has timed out. Usually caused by a very large number of subdirectories and files."
 
 #: wp-admin/includes/class-wp-debug-data.php:1665
 msgid "Total size is not available. Some errors were encountered when determining the size of your installation."
@@ -12717,7 +12717,7 @@ msgstr "Show next theme"
 #: wp-admin/includes/theme.php:802
 #: wp-admin/themes.php:956
 msgid "Close details dialog"
-msgstr "Close details dialog"
+msgstr "Close details dialogue"
 
 #. translators: %s: Theme version.
 #: wp-admin/includes/theme.php:822
@@ -13343,7 +13343,7 @@ msgstr "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to ch
 
 #: wp-admin/index.php:64
 msgid "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
-msgstr "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
+msgstr "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a grey dotted-line rectangle appear in the location you want to place the box."
 
 #: wp-admin/index.php:65
 msgid "<strong>Box Controls</strong> &mdash; Click the title bar of the box to expand or collapse it. Some boxes added by plugins may have configurable content, and will show a &#8220;Configure&#8221; link in the title bar if you hover over it."
@@ -15786,7 +15786,7 @@ msgstr "If you just want to get an idea of what&#8217;s available, you can brows
 
 #: wp-admin/plugin-install.php:111
 msgid "You can also browse a user&#8217;s favorite plugins, by using the Favorites link above the plugins list and entering their WordPress.org username."
-msgstr "You can also browse a user&#8217;s favorite plugins, by using the Favorites link above the plugins list and entering their WordPress.org username."
+msgstr "You can also browse a user&#8217;s favourite plugins, by using the Favourites link above the plugins list and entering their WordPress.org username."
 
 #: wp-admin/plugin-install.php:112
 msgid "If you want to install a plugin that you&#8217;ve downloaded elsewhere, click the Upload Plugin button above the plugins list. You will be prompted to upload the .zip package, and once uploaded, you can activate the new plugin."
@@ -18338,7 +18338,7 @@ msgstr "Other users have been removed."
 
 #: wp-admin/widgets-form.php:45
 msgid "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
-msgstr "Widgets are independent sections of content that can be placed into any widgetized area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
+msgstr "Widgets are independent sections of content that can be placed into any widgetised area provided by your theme (commonly called sidebars). To populate your sidebars/widget areas with individual widgets, drag and drop the title bars into the desired area. By default, only the first widget area is expanded. To populate additional widget areas, click on their title bars to expand them."
 
 #: wp-admin/widgets-form.php:46
 msgid "The Available Widgets section contains all the widgets you can choose from. Once you drag a widget into a sidebar, it will open to allow you to configure its settings. When you are happy with the widget settings, click the Save button and the widget will go live on your site. If you click Delete, it will remove the widget."
@@ -18952,7 +18952,7 @@ msgstr "Updates may not complete if you navigate away from this page."
 #: wp-admin/js/updates.js:2233
 #: wp-admin/js/updates.js:2276
 msgid "Update canceled."
-msgstr "Update canceled."
+msgstr "Update cancelled."
 
 #. translators: %s: Plugin name.
 #: wp-admin/js/updates.js:2302
