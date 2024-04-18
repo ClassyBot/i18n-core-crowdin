@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2024-04-18 15:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -142,7 +142,7 @@ msgstr "ClassicPress is a fork of the WordPress 4.9 branch, including the battle
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellcent foundation for the future."
+msgstr "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
 
 #: wp-admin/about.php:68
 msgid "Join our growing community"
@@ -771,7 +771,7 @@ msgstr "Remove Background Image"
 
 #: wp-admin/custom-background.php:292
 msgid "This will remove the background image. You will not be able to restore any customizations."
-msgstr "This will remove the background image. You will not be able to restore any customisations."
+msgstr "This will remove the background image. You will not be able to restore any customizations."
 
 #: wp-admin/custom-background.php:301 wp-admin/custom-background.php:305
 #: wp-admin/includes/image-edit.php:82
@@ -780,7 +780,7 @@ msgstr "Restore Original Image"
 
 #: wp-admin/custom-background.php:306
 msgid "This will restore the original background image. You will not be able to restore any customizations."
-msgstr "This will restore the original background image. You will not be able to restore any customisations."
+msgstr "This will restore the original background image. You will not be able to restore any customizations."
 
 #: wp-admin/custom-background.php:314 wp-admin/custom-header.php:517
 msgid "Select Image"
@@ -966,7 +966,7 @@ msgstr "This screen is used to customise the header section of your theme."
 
 #: wp-admin/custom-header.php:99
 msgid "You can choose from the theme&#8217;s default header images, or use one of your own. You can also customize how your Site Title and Tagline are displayed."
-msgstr "You can choose from the theme&#8217;s default header images, or use one of your own. You can also customise how your Site Title and Tagline are displayed."
+msgstr "You can choose from the theme&#8217;s default header images, or use one of your own. You can also customise how your Site Title and Tag Line are displayed."
 
 #: wp-admin/custom-header.php:104 wp-admin/custom-header.php:473
 #: wp-admin/includes/template.php:1821 wp-admin/includes/template.php:1828
@@ -9783,7 +9783,7 @@ msgstr "Personal data is not just created by a user&#8217;s interactions with yo
 
 #: wp-admin/includes/misc.php:1800
 msgid "By default ClassicPress does not collect any personal data about visitors, and only collects the data shown on the User Profile screen from registered users. However some of your plugins may collect personal data. You should add the relevant information below."
-msgstr "By default ClassicPress does not collect any personal data about visitors, and only collects the data shown on the User Profile screen from registered users. However some of your plugins may collect personal data. You should add the relevant information below."
+msgstr "By default, ClassicPress does not collect any personal data about visitors, and only collects the data shown on the User Profile screen from registered users. However, some of your plugins may collect personal data. You should add the relevant information below."
 
 #: wp-admin/includes/misc.php:1805
 msgid "In this subsection you should note what information is captured through comments. We have noted the data which ClassicPress collects by default."
@@ -9819,7 +9819,7 @@ msgstr "Cookies"
 
 #: wp-admin/includes/misc.php:1823
 msgid "In this subsection you should list the cookies your web site uses, including those set by your plugins, social media, and analytics. We have provided the cookies which ClassicPress installs by default."
-msgstr "In this subsection you should list the cookies your web site uses, including those set by your plugins, social media, and analytics. We have provided the cookies which ClassicPress installs by default."
+msgstr "In this subsection you should list the cookies your website uses, including those set by your plugins, social media, and analytics. We have provided the cookies which ClassicPress installs by default."
 
 #: wp-admin/includes/misc.php:1825
 msgid "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
@@ -9871,7 +9871,7 @@ msgstr "In this section, you should name and list all third-party providers with
 
 #: wp-admin/includes/misc.php:1843
 msgid "By default ClassicPress does not share any personal data with anyone."
-msgstr "By default ClassicPress does not share any personal data with anyone."
+msgstr "By default, ClassicPress does not share any personal data with anyone."
 
 #: wp-admin/includes/misc.php:1846
 msgid "How long we retain your data"
@@ -13782,7 +13782,7 @@ msgstr "You are about to archive the site %s."
 
 #: wp-admin/network/sites.php:63
 msgid "You are about to unspam the site %s."
-msgstr "You are about to unspam the site %s."
+msgstr "You are about to un-spam the site %s."
 
 #: wp-admin/network/sites.php:64
 msgid "You are about to mark the site %s as spam."
