@@ -17,11 +17,11 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-01 16:02\n"
+"PO-Revision-Date: 2024-05-02 04:04\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr ""
+msgstr "检测到密钥值不匹配。请按照激活邮件中提供的链接操作。"
 
 #: wp-activate.php:30
 #: wp-activate.php:189
