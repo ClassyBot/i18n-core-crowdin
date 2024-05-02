@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-18 03:51\n"
+"PO-Revision-Date: 2024-05-02 16:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2459,7 +2459,7 @@ msgstr "État :"
 #: wp-includes/widgets/class-wp-widget-pages.php:30
 #: wp-includes/widgets/class-wp-widget-pages.php:43
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #: wp-admin/export.php:261 wp-admin/includes/media.php:2250
 #: wp-admin/includes/misc.php:1810 wp-admin/includes/plugin-install.php:351
@@ -3573,7 +3573,7 @@ msgstr "Mise à jour vers ClassicPress %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:301
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:307
 msgid "Updating theme: %s"
@@ -4806,7 +4806,7 @@ msgstr "Aucune extension trouvée. Veuillez essayer une recherche différente."
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:414
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Performances"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:415
 msgctxt "Plugin installer group title"
@@ -5261,7 +5261,7 @@ msgstr "Nombre d’éléments par page :"
 
 #: wp-admin/includes/class-wp-screen.php:1171
 msgid "Pagination"
-msgstr ""
+msgstr "Pagination"
 
 #: wp-admin/includes/class-wp-screen.php:1220
 msgid "View Mode"
@@ -5528,11 +5528,11 @@ msgstr "Afrique"
 
 #: wp-admin/includes/continents-cities.php:13
 msgid "Abidjan"
-msgstr ""
+msgstr "Abidjan"
 
 #: wp-admin/includes/continents-cities.php:14
 msgid "Accra"
-msgstr ""
+msgstr "Accra"
 
 #: wp-admin/includes/continents-cities.php:15
 msgid "Addis Ababa"
@@ -5544,7 +5544,7 @@ msgstr "Alger"
 
 #: wp-admin/includes/continents-cities.php:17
 msgid "Asmara"
-msgstr ""
+msgstr "Asmara"
 
 #: wp-admin/includes/continents-cities.php:18
 msgid "Asmera"
@@ -5552,31 +5552,31 @@ msgstr "Asmara"
 
 #: wp-admin/includes/continents-cities.php:19
 msgid "Bamako"
-msgstr ""
+msgstr "Bamako"
 
 #: wp-admin/includes/continents-cities.php:20
 msgid "Bangui"
-msgstr ""
+msgstr "Bangui"
 
 #: wp-admin/includes/continents-cities.php:21
 msgid "Banjul"
-msgstr ""
+msgstr "Banjul"
 
 #: wp-admin/includes/continents-cities.php:22
 msgid "Bissau"
-msgstr ""
+msgstr "Bissau"
 
 #: wp-admin/includes/continents-cities.php:23
 msgid "Blantyre"
-msgstr ""
+msgstr "Blantyre"
 
 #: wp-admin/includes/continents-cities.php:24
 msgid "Brazzaville"
-msgstr ""
+msgstr "Brazzaville"
 
 #: wp-admin/includes/continents-cities.php:25
 msgid "Bujumbura"
-msgstr ""
+msgstr "Bujumbura"
 
 #: wp-admin/includes/continents-cities.php:26
 msgid "Cairo"
@@ -5584,31 +5584,31 @@ msgstr "Le Caire"
 
 #: wp-admin/includes/continents-cities.php:27
 msgid "Casablanca"
-msgstr ""
+msgstr "Casablanca"
 
 #: wp-admin/includes/continents-cities.php:28
 msgid "Ceuta"
-msgstr ""
+msgstr "Ceuta"
 
 #: wp-admin/includes/continents-cities.php:29
 msgid "Conakry"
-msgstr ""
+msgstr "Conakry"
 
 #: wp-admin/includes/continents-cities.php:30
 msgid "Dakar"
-msgstr ""
+msgstr "Dakar"
 
 #: wp-admin/includes/continents-cities.php:31
 msgid "Dar es Salaam"
-msgstr ""
+msgstr "Dar es Salaam"
 
 #: wp-admin/includes/continents-cities.php:32
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #: wp-admin/includes/continents-cities.php:33
 msgid "Douala"
-msgstr ""
+msgstr "Douala"
 
 #: wp-admin/includes/continents-cities.php:34
 msgid "El Aaiun"
@@ -5616,19 +5616,19 @@ msgstr "Laâyoune"
 
 #: wp-admin/includes/continents-cities.php:35
 msgid "Freetown"
-msgstr ""
+msgstr "Freetown"
 
 #: wp-admin/includes/continents-cities.php:36
 msgid "Gaborone"
-msgstr ""
+msgstr "Gaborone"
 
 #: wp-admin/includes/continents-cities.php:37
 msgid "Harare"
-msgstr ""
+msgstr "Harare"
 
 #: wp-admin/includes/continents-cities.php:38
 msgid "Johannesburg"
-msgstr ""
+msgstr "Johannesburg"
 
 #: wp-admin/includes/continents-cities.php:39
 msgid "Juba"
@@ -5636,27 +5636,27 @@ msgstr "Djouba"
 
 #: wp-admin/includes/continents-cities.php:40
 msgid "Kampala"
-msgstr ""
+msgstr "Kampala"
 
 #: wp-admin/includes/continents-cities.php:41
 msgid "Khartoum"
-msgstr ""
+msgstr "Khartoum"
 
 #: wp-admin/includes/continents-cities.php:42
 msgid "Kigali"
-msgstr ""
+msgstr "Kigali"
 
 #: wp-admin/includes/continents-cities.php:43
 msgid "Kinshasa"
-msgstr ""
+msgstr "Kinshasa"
 
 #: wp-admin/includes/continents-cities.php:44
 msgid "Lagos"
-msgstr ""
+msgstr "Lagos"
 
 #: wp-admin/includes/continents-cities.php:45
 msgid "Libreville"
-msgstr ""
+msgstr "Libreville"
 
 #: wp-admin/includes/continents-cities.php:46
 msgid "Lome"
@@ -5664,31 +5664,31 @@ msgstr "Lomé"
 
 #: wp-admin/includes/continents-cities.php:47
 msgid "Luanda"
-msgstr ""
+msgstr "Luanda"
 
 #: wp-admin/includes/continents-cities.php:48
 msgid "Lubumbashi"
-msgstr ""
+msgstr "Lubumbashi"
 
 #: wp-admin/includes/continents-cities.php:49
 msgid "Lusaka"
-msgstr ""
+msgstr "Lusaka"
 
 #: wp-admin/includes/continents-cities.php:50
 msgid "Malabo"
-msgstr ""
+msgstr "Malabo"
 
 #: wp-admin/includes/continents-cities.php:51
 msgid "Maputo"
-msgstr ""
+msgstr "Maputo"
 
 #: wp-admin/includes/continents-cities.php:52
 msgid "Maseru"
-msgstr ""
+msgstr "Maseru"
 
 #: wp-admin/includes/continents-cities.php:53
 msgid "Mbabane"
-msgstr ""
+msgstr "Mbabane"
 
 #: wp-admin/includes/continents-cities.php:54
 msgid "Mogadishu"
@@ -5696,11 +5696,11 @@ msgstr "Mogadiscio"
 
 #: wp-admin/includes/continents-cities.php:55
 msgid "Monrovia"
-msgstr ""
+msgstr "Monrovia"
 
 #: wp-admin/includes/continents-cities.php:56
 msgid "Nairobi"
-msgstr ""
+msgstr "Nairobi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"
@@ -5708,19 +5708,19 @@ msgstr "N'Djamena"
 
 #: wp-admin/includes/continents-cities.php:58
 msgid "Niamey"
-msgstr ""
+msgstr "Niamey"
 
 #: wp-admin/includes/continents-cities.php:59
 msgid "Nouakchott"
-msgstr ""
+msgstr "Nouakchott"
 
 #: wp-admin/includes/continents-cities.php:60
 msgid "Ouagadougou"
-msgstr ""
+msgstr "Ouagadougou"
 
 #: wp-admin/includes/continents-cities.php:61
 msgid "Porto-Novo"
-msgstr ""
+msgstr "Porto-Novo"
 
 #: wp-admin/includes/continents-cities.php:62
 msgid "Sao Tome"
@@ -5732,15 +5732,15 @@ msgstr "Tombouctou"
 
 #: wp-admin/includes/continents-cities.php:64
 msgid "Tripoli"
-msgstr ""
+msgstr "Tripoli"
 
 #: wp-admin/includes/continents-cities.php:65
 msgid "Tunis"
-msgstr ""
+msgstr "Tunis"
 
 #: wp-admin/includes/continents-cities.php:66
 msgid "Windhoek"
-msgstr ""
+msgstr "Windhoek"
 
 #: wp-admin/includes/continents-cities.php:68
 msgid "America"
@@ -5748,7 +5748,7 @@ msgstr "Amériques"
 
 #: wp-admin/includes/continents-cities.php:69
 msgid "Adak"
-msgstr ""
+msgstr "Adak"
 
 #: wp-admin/includes/continents-cities.php:70
 msgid "Anchorage"
@@ -5773,12 +5773,12 @@ msgstr "Argentine"
 #: wp-admin/includes/continents-cities.php:75
 #: wp-admin/includes/continents-cities.php:101
 msgid "Buenos Aires"
-msgstr ""
+msgstr "Buenos Aires"
 
 #: wp-admin/includes/continents-cities.php:76
 #: wp-admin/includes/continents-cities.php:106
 msgid "Catamarca"
-msgstr ""
+msgstr "Catamarca"
 
 #: wp-admin/includes/continents-cities.php:77
 msgid "ComodRivadavia"
@@ -5796,28 +5796,28 @@ msgstr "San Salvador de Jujuy"
 
 #: wp-admin/includes/continents-cities.php:80
 msgid "La Rioja"
-msgstr ""
+msgstr "La Rioja"
 
 #: wp-admin/includes/continents-cities.php:81
 #: wp-admin/includes/continents-cities.php:174
 msgid "Mendoza"
-msgstr ""
+msgstr "Mendoza"
 
 #: wp-admin/includes/continents-cities.php:82
 msgid "Rio Gallegos"
-msgstr ""
+msgstr "Rio Gallegos"
 
 #: wp-admin/includes/continents-cities.php:83
 msgid "Salta"
-msgstr ""
+msgstr "Salta"
 
 #: wp-admin/includes/continents-cities.php:84
 msgid "San Juan"
-msgstr ""
+msgstr "San Juan"
 
 #: wp-admin/includes/continents-cities.php:85
 msgid "San Luis"
-msgstr ""
+msgstr "San Luis"
 
 #: wp-admin/includes/continents-cities.php:86
 msgid "Tucuman"
@@ -5829,7 +5829,7 @@ msgstr "Ushuaïa"
 
 #: wp-admin/includes/continents-cities.php:88
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #: wp-admin/includes/continents-cities.php:89
 msgid "Asuncion"
@@ -5837,15 +5837,15 @@ msgstr "Asunción"
 
 #: wp-admin/includes/continents-cities.php:90
 msgid "Atikokan"
-msgstr ""
+msgstr "Atikokan"
 
 #: wp-admin/includes/continents-cities.php:91
 msgid "Atka"
-msgstr ""
+msgstr "Atka"
 
 #: wp-admin/includes/continents-cities.php:92
 msgid "Bahia"
-msgstr ""
+msgstr "Bahia"
 
 #: wp-admin/includes/continents-cities.php:93
 msgid "Bahia Banderas"
@@ -5861,15 +5861,15 @@ msgstr "Belém"
 
 #: wp-admin/includes/continents-cities.php:96
 msgid "Belize"
-msgstr ""
+msgstr "Bélize"
 
 #: wp-admin/includes/continents-cities.php:97
 msgid "Blanc-Sablon"
-msgstr ""
+msgstr "Blanc-Sablon"
 
 #: wp-admin/includes/continents-cities.php:98
 msgid "Boa Vista"
-msgstr ""
+msgstr "Boa Vista"
 
 #: wp-admin/includes/continents-cities.php:99
 msgid "Bogota"
@@ -5877,7 +5877,7 @@ msgstr "Bogotá"
 
 #: wp-admin/includes/continents-cities.php:100
 msgid "Boise"
-msgstr ""
+msgstr "Boise"
 
 #: wp-admin/includes/continents-cities.php:102
 msgid "Cambridge Bay"
@@ -5885,7 +5885,7 @@ msgstr "Ikaluktutiak"
 
 #: wp-admin/includes/continents-cities.php:103
 msgid "Campo Grande"
-msgstr ""
+msgstr "Campo Grande"
 
 #: wp-admin/includes/continents-cities.php:104
 msgid "Cancun"
@@ -5893,7 +5893,7 @@ msgstr "Cancún"
 
 #: wp-admin/includes/continents-cities.php:105
 msgid "Caracas"
-msgstr ""
+msgstr "Caracas"
 
 #: wp-admin/includes/continents-cities.php:107
 msgid "Cayenne"
@@ -11280,7 +11280,7 @@ msgstr "Icône du site"
 #: wp-admin/includes/template.php:1856
 #: wp-includes/class-wp-customize-manager.php:4923
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-admin/includes/template.php:2008 wp-admin/nav-menus.php:659
 #: wp-admin/options.php:355
@@ -17184,11 +17184,11 @@ msgstr "Documentation "
 
 #: wp-includes/admin-bar.php:160
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
-msgstr ""
+msgstr "Assistance"
 
 #: wp-includes/admin-bar.php:168
 msgid "https://docs.classicpress.net/faq-support/"
@@ -18182,12 +18182,12 @@ msgstr "Bloc de citation"
 #: wp-includes/class-wp-editor.php:1017
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1018
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1019
 msgctxt "HTML tag"
@@ -18202,7 +18202,7 @@ msgstr "Adresse"
 #: wp-includes/class-wp-editor.php:1022
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1023
 msgid "Underline"
@@ -18234,7 +18234,7 @@ msgstr "Italique"
 
 #: wp-includes/class-wp-editor.php:1030 wp-includes/script-loader.php:153
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: wp-includes/class-wp-editor.php:1031
 msgid "Source code"
@@ -19344,7 +19344,7 @@ msgstr "Décembre"
 #: wp-includes/class-wp-locale.php:184
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:185
@@ -19356,7 +19356,7 @@ msgstr "Fév"
 #: wp-includes/class-wp-locale.php:186
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:187
@@ -19392,19 +19392,19 @@ msgstr "Août"
 #: wp-includes/class-wp-locale.php:192
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:193
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:194
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:195
@@ -22874,7 +22874,7 @@ msgstr "Lien"
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
@@ -23382,7 +23382,7 @@ msgstr "Liste des pages"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"
