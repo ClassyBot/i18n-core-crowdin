@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-02 04:03\n"
+"PO-Revision-Date: 2024-05-02 16:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -23,15 +23,15 @@ msgstr "检测到密钥值不匹配。请按照激活邮件中提供的链接操
 
 #: wp-activate.php:30 wp-activate.php:165
 msgid "An error occurred during the activation"
-msgstr ""
+msgstr "激活时发生错误"
 
 #: wp-activate.php:125
 msgid "Activation Key Required"
-msgstr ""
+msgstr "需要激活密钥"
 
 #: wp-activate.php:128
 msgid "Activation Key:"
-msgstr ""
+msgstr "激活密钥："
 
 #: wp-activate.php:132 wp-admin/includes/class-theme-installer-skin.php:76
 #: wp-admin/includes/class-theme-upgrader-skin.php:67
@@ -44,40 +44,40 @@ msgstr ""
 #: wp-admin/themes.php:306 wp-admin/themes.php:449 wp-admin/themes.php:509
 #: wp-includes/script-loader.php:876 wp-includes/script-loader.php:877
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: wp-activate.php:140 wp-activate.php:174
 msgid "Your account is now active!"
-msgstr ""
+msgstr "您的帐户现在处于活跃状态！"
 
 #. translators: 1: login URL, 2: username, 3: user email, 4: lost password URL
 #: wp-activate.php:146
 msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr ""
+msgstr "您的账户已被激活。您现在可以使用您选择的用户名<a href=\"%1$s\">登录</a>到站点&#8220;%2$s&#8221;。请检查您在%3$s的收件箱以获取密码和登录方法。如果您没有收到邮件，请检查您的垃圾邮件文件夹。如果您在一个小时后仍没有收到邮件，您可以<a href=\"%4$s\">重置您的密码</a>。"
 
 #. translators: 1: site URL, 2: username, 3: user email, 4: lost password URL
 #: wp-activate.php:155
 msgid "Your site at %1$s is active. You may now log in to your site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr ""
+msgstr "您在%1$s的站点已被激活。您现在可以使用您选择的用户名登录到&#8220;%2$s&#8221;。请检查您在%3$s的收件箱以获取密码和登录方法。如果您没有收到邮件，请检查您的垃圾邮件文件夹。如果您在一个小时后仍没有收到邮件，您可以<a href=\"%4$s\">重置您的密码</a>。"
 
 #: wp-activate.php:177 wp-signup.php:230
 msgid "Username:"
-msgstr ""
+msgstr "用户名："
 
 #: wp-activate.php:178 wp-admin/includes/meta-boxes.php:167
 #: wp-includes/post-template.php:1611
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 #. translators: 1: site URL, 2: login URL
 #: wp-activate.php:188
 msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Log in</a>"
-msgstr ""
+msgstr "您的帐户已被激活。 <a href=\"%1$s\">查看您的网站</a>或<a href=\"%2$s\">登录</a>"
 
 #. translators: 1: login URL, 2: network home URL
 #: wp-activate.php:193
 msgid "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the <a href=\"%2$s\">homepage</a>."
-msgstr ""
+msgstr "您的帐户已被激活。 <a href=\"%1$s\">登录</a>或返回<a href=\"%2$s\">首页</a>。"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -268,13 +268,13 @@ msgstr ""
 #. translators: %s: site name
 #: wp-admin/admin-header.php:37 wp-includes/admin-bar.php:311
 msgid "Network Admin: %s"
-msgstr ""
+msgstr "多站点管理员: %s"
 
 #. translators: User dashboard screen title. 1: Network name
 #. translators: %s: site name
 #: wp-admin/admin-header.php:40 wp-includes/admin-bar.php:314
 msgid "User Dashboard: %s"
-msgstr ""
+msgstr "用户仪表盘: %s"
 
 #. translators: Admin screen title. 1: Admin screen name
 #: wp-admin/admin-header.php:47
@@ -370,7 +370,7 @@ msgstr ""
 #: wp-admin/async-upload.php:53
 msgctxt "media item"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/async-upload.php:84 wp-admin/includes/dashboard.php:1254
 #: wp-admin/includes/file.php:324 wp-admin/index.php:110
@@ -379,7 +379,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-text.php:521
 #: wp-includes/widgets/class-wp-widget-text.php:536
 msgid "Dismiss"
-msgstr ""
+msgstr "忽略"
 
 #: wp-admin/async-upload.php:85 wp-includes/script-loader.php:345
 msgid "&#8220;%s&#8221; has failed to upload."
@@ -662,7 +662,7 @@ msgstr ""
 #: wp-includes/class-walker-comment.php:340
 #: wp-includes/class-wp-editor.php:1257
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/comment.php:225
 #: wp-admin/includes/class-walker-nav-menu-edit.php:226
@@ -704,7 +704,7 @@ msgstr ""
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 #: wp-admin/custom-background.php:89
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
@@ -742,7 +742,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:5098
 #: wp-includes/customize/class-wp-customize-background-image-control.php:30
 msgid "Background Image"
-msgstr ""
+msgstr "背景图像"
 
 #: wp-admin/custom-background.php:248 wp-admin/custom-header.php:480
 #: wp-admin/customize.php:185
@@ -871,39 +871,39 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:5148
 #: wp-includes/customize/class-wp-customize-background-position-control.php:66
 msgid "Image Position"
-msgstr ""
+msgstr "图像位置"
 
 #: wp-admin/custom-background.php:388 wp-admin/custom-background.php:389
 #: wp-includes/class-wp-customize-manager.php:5163
 msgid "Image Size"
-msgstr ""
+msgstr "图像尺寸"
 
 #: wp-admin/custom-background.php:391
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "原始"
 
 #: wp-admin/custom-background.php:392
 #: wp-includes/class-wp-customize-manager.php:5129
 #: wp-includes/class-wp-customize-manager.php:5168
 msgid "Fit to Screen"
-msgstr ""
+msgstr "适合屏幕"
 
 #: wp-admin/custom-background.php:393
 #: wp-includes/class-wp-customize-manager.php:5128
 #: wp-includes/class-wp-customize-manager.php:5169
 msgid "Fill Screen"
-msgstr ""
+msgstr "填充屏幕"
 
 #: wp-admin/custom-background.php:399 wp-admin/custom-background.php:400
 msgctxt "Background Repeat"
 msgid "Repeat"
-msgstr ""
+msgstr "重复"
 
 #: wp-admin/custom-background.php:402
 #: wp-includes/class-wp-customize-manager.php:5180
 msgid "Repeat Background Image"
-msgstr ""
+msgstr "背景图像重复"
 
 #: wp-admin/custom-background.php:407 wp-admin/custom-background.php:408
 msgctxt "Background Scroll"
@@ -913,7 +913,7 @@ msgstr ""
 #: wp-admin/custom-background.php:410
 #: wp-includes/class-wp-customize-manager.php:5192
 msgid "Scroll with Page"
-msgstr ""
+msgstr "随页面滚动"
 
 #: wp-admin/custom-background.php:415 wp-admin/custom-background.php:416
 #: wp-includes/class-wp-customize-manager.php:4989
@@ -953,7 +953,7 @@ msgstr ""
 #: wp-admin/custom-header.php:73 wp-admin/menu.php:172
 #: wp-includes/admin-bar.php:851
 msgid "Header"
-msgstr ""
+msgstr "页眉"
 
 #: wp-admin/custom-header.php:98
 msgid "This screen is used to customize the header section of your theme."
@@ -1131,7 +1131,7 @@ msgstr ""
 #: wp-includes/script-loader.php:168 wp-includes/script-loader.php:600
 #: wp-includes/script-loader.php:680 wp-includes/script-loader.php:885
 msgid "Something went wrong."
-msgstr ""
+msgstr "发生了一些问题。"
 
 #: wp-admin/custom-header.php:723 wp-admin/custom-header.php:881
 msgid "The current theme does not support uploading a custom header image."
@@ -1191,12 +1191,12 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:515
 #: wp-includes/script-loader.php:601
 msgid "You need a higher level of permission."
-msgstr ""
+msgstr "您需要更高的权限。"
 
 #: wp-admin/customize.php:18 wp-includes/class-wp-customize-manager.php:516
 #: wp-includes/script-loader.php:602
 msgid "Sorry, you are not allowed to customize this site."
-msgstr ""
+msgstr "对不起，您无权自定义此站点。"
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
@@ -1241,7 +1241,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:392
 #: wp-includes/customize/class-wp-customize-theme-control.php:118
 msgid "Customize"
-msgstr ""
+msgstr "自定义"
 
 #: wp-admin/customize.php:188
 msgid "Close the Customizer and go back to the previous page"
@@ -1888,7 +1888,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-categories.php:30
 #: wp-includes/widgets/class-wp-widget-categories.php:47
 msgid "Categories"
-msgstr ""
+msgstr "分类"
 
 #: wp-admin/edit-link-form.php:29 wp-admin/includes/meta-boxes.php:1043
 #: wp-includes/class-wp-editor.php:1131
@@ -2422,7 +2422,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:610
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:143
 msgid "&mdash; Select &mdash;"
-msgstr ""
+msgstr "&mdash; 选择 &mdash;"
 
 #: wp-admin/export.php:197 wp-admin/export.php:239 wp-admin/export.php:271
 msgid "End date:"
@@ -2618,7 +2618,7 @@ msgstr[0] ""
 #: wp-includes/category-template.php:801 wp-includes/category-template.php:810
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
+msgstr[0] "%s 个项目"
 
 #: wp-admin/includes/ajax-actions.php:758
 msgid "Comment %d does not exist"
@@ -2840,7 +2840,7 @@ msgstr ""
 #: wp-admin/theme-editor.php:67 wp-admin/themes.php:28 wp-admin/themes.php:51
 #: wp-includes/class-wp-customize-manager.php:581
 msgid "The requested theme does not exist."
-msgstr ""
+msgstr "请求的主题不存在。"
 
 #: wp-admin/includes/ajax-actions.php:3583
 msgid "Theme could not be deleted."
@@ -4485,7 +4485,7 @@ msgstr ""
 #: wp-admin/network/users.php:160 wp-admin/network/users.php:218
 #: wp-admin/users.php:23 wp-includes/admin-bar.php:463
 msgid "Users"
-msgstr ""
+msgstr "用户"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:233
 #: wp-admin/includes/media.php:2252
@@ -4518,7 +4518,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:531 wp-includes/deprecated.php:2800
 #: wp-includes/deprecated.php:2802
 msgid "Dashboard"
-msgstr ""
+msgstr "仪表盘"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:519
 #: wp-admin/includes/class-wp-plugins-list-table.php:460
@@ -4717,7 +4717,7 @@ msgstr ""
 #: wp-admin/network/menu.php:39 wp-admin/network/sites.php:19
 #: wp-admin/network/sites.php:333 wp-includes/admin-bar.php:454
 msgid "Sites"
-msgstr ""
+msgstr "站点"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:242
 #: wp-admin/includes/class-wp-users-list-table.php:399
@@ -4745,7 +4745,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "分类"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -5250,7 +5250,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:902 wp-includes/class-wp-editor.php:1722
 #: wp-includes/media.php:3496
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:64
 msgctxt "themes"
@@ -7730,7 +7730,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:738
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:771
 msgid "Publishing Soon"
@@ -8063,7 +8063,7 @@ msgstr ""
 #: wp-admin/includes/file.php:38
 #: wp-includes/class-wp-customize-manager.php:5241
 msgid "Homepage"
-msgstr ""
+msgstr "首页"
 
 #: wp-admin/includes/file.php:40
 msgid "Attachment Template"
@@ -9253,14 +9253,14 @@ msgstr ""
 #: wp-includes/class-wp-customize-control.php:634
 #: wp-includes/class-wp-customize-nav-menus.php:1081
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #. translators: %s: add new taxonomy label
 #. translators: %s: add new page label
 #: wp-admin/includes/meta-boxes.php:553
 #: wp-includes/class-wp-customize-control.php:628
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:623
@@ -10058,12 +10058,12 @@ msgstr ""
 #: wp-includes/admin-bar.php:814
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
 msgid "Themes"
-msgstr ""
+msgstr "主题"
 
 #: wp-admin/includes/ms.php:922 wp-admin/network/menu.php:65
 #: wp-admin/options.php:21 wp-includes/admin-bar.php:490
 msgid "Settings"
-msgstr ""
+msgstr "偏好设置"
 
 #: wp-admin/includes/ms.php:979
 msgid "The menu is for editing information specific to individual sites, particularly if the admin area of a site is unavailable."
@@ -10507,7 +10507,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:827 wp-includes/class-wp-customize-widgets.php:412
 #: wp-includes/functions.php:3751
 msgid "Widgets"
-msgstr ""
+msgstr "小工具"
 
 #: wp-admin/includes/plugin-install.php:348
 msgid "Admin Utilities"
@@ -10961,31 +10961,31 @@ msgstr ""
 #: wp-admin/includes/schema.php:623
 msgctxt "User role"
 msgid "Administrator"
-msgstr ""
+msgstr "管理员"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:625
 msgctxt "User role"
 msgid "Editor"
-msgstr ""
+msgstr "编辑"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:627
 msgctxt "User role"
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:629
 msgctxt "User role"
 msgid "Contributor"
-msgstr ""
+msgstr "寄稿者"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:631
 msgctxt "User role"
 msgid "Subscriber"
-msgstr ""
+msgstr "注册用户"
 
 #: wp-admin/includes/schema.php:890
 msgid "You must provide a domain name."
@@ -11678,13 +11678,13 @@ msgstr ""
 
 #: wp-admin/includes/upgrade.php:134 wp-includes/category-template.php:148
 msgid "Uncategorized"
-msgstr ""
+msgstr "未分类"
 
 #. translators: Default category slug
 #: wp-admin/includes/upgrade.php:136
 msgctxt "Default category slug"
 msgid "Uncategorized"
-msgstr ""
+msgstr "未分类"
 
 #: wp-admin/includes/upgrade.php:174
 msgid "Welcome to ClassicPress. This is your first post. Edit or delete it, then start writing!"
@@ -12000,12 +12000,12 @@ msgstr ""
 #: wp-admin/includes/widgets.php:230
 msgctxt "widget"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/includes/widgets.php:231
 msgctxt "widget"
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #: wp-admin/includes/widgets.php:245 wp-admin/widgets.php:279
 #: wp-includes/class-wp-widget.php:143
@@ -12288,12 +12288,12 @@ msgstr ""
 #: wp-includes/IXR/class-IXR-message.php:48 wp-includes/atomlib.php:151
 #: wp-includes/feed.php:542
 msgid "PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension."
-msgstr ""
+msgstr "PHP 的 XML 扩展不可用。请联系您的主机提供商以启用 PHP 的 XML 扩展。"
 
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "XML 错误 %1$s 发生在第 %2$s 行"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -12481,7 +12481,7 @@ msgstr ""
 
 #: wp-admin/menu-header.php:257 wp-includes/class-wp-admin-bar.php:415
 msgid "Skip to toolbar"
-msgstr ""
+msgstr "跳转至工具栏"
 
 #: wp-admin/menu.php:25 wp-admin/network/menu.php:13
 #: wp-includes/post-template.php:1343
@@ -12490,7 +12490,7 @@ msgstr ""
 
 #: wp-admin/menu.php:28 wp-admin/my-sites.php:35 wp-includes/admin-bar.php:426
 msgid "My Sites"
-msgstr ""
+msgstr "我的站点"
 
 #: wp-admin/menu.php:45 wp-admin/network/menu.php:27
 msgid "Updates %s"
@@ -12526,12 +12526,12 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:581
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:98
 msgid "Menus"
-msgstr ""
+msgstr "菜单"
 
 #: wp-admin/menu.php:196 wp-admin/network/menu.php:54
 msgctxt "theme editor"
 msgid "Editor"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/menu.php:206 wp-admin/network/menu.php:57
 msgid "Plugins %s"
@@ -12550,7 +12550,7 @@ msgstr ""
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
 msgid "Editor"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/menu.php:221 wp-admin/user/menu.php:14 wp-admin/user-edit.php:29
 msgid "Profile"
@@ -12720,7 +12720,7 @@ msgstr ""
 #: wp-admin/nav-menus.php:25 wp-admin/themes.php:15 wp-admin/widgets.php:18
 #: wp-includes/class-wp-customize-manager.php:571
 msgid "Sorry, you are not allowed to edit theme options on this site."
-msgstr ""
+msgstr "对不起，您无权在此站点编辑主题选项。"
 
 #: wp-admin/nav-menus.php:245
 msgid "The menu item has been successfully deleted."
@@ -12914,7 +12914,7 @@ msgstr ""
 #: wp-admin/nav-menus.php:644
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/nav-menus.php:644
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:78
@@ -13080,7 +13080,7 @@ msgstr ""
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
 #: wp-admin/update-core.php:265 wp-includes/admin-bar.php:481
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #: wp-admin/network/menu.php:67 wp-admin/network/settings.php:19
 msgid "Network Settings"
@@ -14751,12 +14751,12 @@ msgstr ""
 #: wp-admin/options-reading.php:70 wp-admin/options-reading.php:71
 #: wp-includes/class-wp-customize-manager.php:5226
 msgid "Your homepage displays"
-msgstr ""
+msgstr "主页设置为"
 
 #: wp-admin/options-reading.php:74
 #: wp-includes/class-wp-customize-manager.php:5230
 msgid "Your latest posts"
-msgstr ""
+msgstr "您的最新文章"
 
 #: wp-admin/options-reading.php:79
 msgid "A <a href=\"%s\">static page</a> (select below)"
@@ -14938,7 +14938,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:5271
 #: wp-includes/widgets/class-wp-widget-custom-html.php:309
 msgid "When using a keyboard to navigate:"
-msgstr ""
+msgstr "当使用键盘导航时："
 
 #: wp-admin/plugin-editor.php:125 wp-admin/theme-editor.php:32
 #: wp-includes/class-wp-customize-manager.php:5273
@@ -16479,7 +16479,7 @@ msgstr ""
 #: wp-admin/user-edit.php:297 wp-admin/user-edit.php:298
 #: wp-includes/class-wp-admin-bar.php:417
 msgid "Toolbar"
-msgstr ""
+msgstr "工具栏"
 
 #: wp-admin/user-edit.php:301
 msgid "Show Toolbar when viewing site"
@@ -17074,27 +17074,27 @@ msgstr ""
 
 #: wp-comments-post.php:29
 msgid "Comment Submission Failure"
-msgstr ""
+msgstr "提交评论失败"
 
 #: wp-includes/admin-bar.php:123 wp-includes/admin-bar.php:142
 msgid "About ClassicPress"
-msgstr ""
+msgstr "关于ClassicPress"
 
 #: wp-includes/admin-bar.php:151
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassPress.net"
 
 #: wp-includes/admin-bar.php:159
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: wp-includes/admin-bar.php:160
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
-msgstr ""
+msgstr "支持"
 
 #: wp-includes/admin-bar.php:168
 msgid "https://docs.classicpress.net/faq-support/"
@@ -17102,7 +17102,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:183
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: wp-includes/admin-bar.php:273
 msgid "Edit My Profile"
@@ -17110,20 +17110,20 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:281 wp-includes/class-wp-admin-bar.php:423
 msgid "Log Out"
-msgstr ""
+msgstr "登出"
 
 #: wp-includes/admin-bar.php:332 wp-includes/admin-bar.php:564
 #: wp-includes/deprecated.php:2798
 msgid "Visit Site"
-msgstr ""
+msgstr "查看站点"
 
 #: wp-includes/admin-bar.php:340
 msgid "Edit Site"
-msgstr ""
+msgstr "编辑站点"
 
 #: wp-includes/admin-bar.php:439
 msgid "Network Admin"
-msgstr ""
+msgstr "多站点管理员"
 
 #: wp-includes/admin-bar.php:547 wp-includes/post.php:1449
 msgid "New Post"
@@ -17131,34 +17131,34 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:556
 msgid "Manage Comments"
-msgstr ""
+msgstr "管理评论"
 
 #: wp-includes/admin-bar.php:590
 msgid "Shortlink"
-msgstr ""
+msgstr "短链接"
 
 #: wp-includes/admin-bar.php:665
 msgid "View User"
-msgstr ""
+msgstr "查看用户"
 
 #: wp-includes/admin-bar.php:702
 msgid "Edit User"
-msgstr ""
+msgstr "编辑用户"
 
 #: wp-includes/admin-bar.php:728
 msgctxt "add new from admin bar"
 msgid "Link"
-msgstr ""
+msgstr "链接"
 
 #: wp-includes/admin-bar.php:748
 msgctxt "add new from admin bar"
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #: wp-includes/admin-bar.php:754
 msgctxt "admin bar menu group label"
 msgid "New"
-msgstr ""
+msgstr "新建"
 
 #: wp-includes/admin-bar.php:787
 msgid "%s comment awaiting moderation"
@@ -17169,25 +17169,25 @@ msgstr[0] ""
 #. translators: %s: get_trackback_url()
 #: wp-includes/author-template.php:66 wp-includes/comment-template.php:1138
 msgid "Use %s instead if you do not want the value echoed."
-msgstr ""
+msgstr "如果您不想要打印该值，请使用 %s 。"
 
 #. translators: %s: author's display name
 #: wp-includes/author-template.php:227
 msgid "Visit %s&#8217;s website"
-msgstr ""
+msgstr "访问 %s 的网站"
 
 #. translators: %s: author's display name
 #: wp-includes/author-template.php:294 wp-includes/author-template.php:456
 msgid "Posts by %s"
-msgstr ""
+msgstr "由 %s 发布的文章"
 
 #: wp-includes/bookmark-template.php:83
 msgid "Last updated: %s"
-msgstr ""
+msgstr "最后更新时间： %s"
 
 #: wp-includes/bookmark-template.php:206
 msgid "Bookmarks"
-msgstr ""
+msgstr "书签"
 
 #. translators: 1: post type, 2: capability name
 #: wp-includes/capabilities.php:83 wp-includes/capabilities.php:153
@@ -17200,15 +17200,15 @@ msgstr ""
 #: wp-includes/category-template.php:343 wp-includes/category.php:46
 #: wp-includes/class-wp-query.php:1669
 msgid "%1$s is deprecated. Use %2$s instead."
-msgstr ""
+msgstr "%1$s 已被废弃。请使用 %2$s 代替。"
 
 #: wp-includes/category-template.php:516 wp-includes/taxonomy.php:521
 msgid "No categories"
-msgstr ""
+msgstr "无分类"
 
 #: wp-includes/category-template.php:1131
 msgid "Tags: "
-msgstr ""
+msgstr "标签： "
 
 #: wp-includes/class-http.php:258 wp-includes/class-http.php:477
 #: wp-includes/class-wp-xmlrpc-server.php:6343
@@ -17234,11 +17234,11 @@ msgstr ""
 
 #: wp-includes/class-walker-category.php:132
 msgid "Feed for all posts filed under %s"
-msgstr ""
+msgstr "为在 %s 下归档的所有文章提供订阅源"
 
 #: wp-includes/class-walker-comment.php:236
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #. translators: %s: comment author link
 #: wp-includes/class-walker-comment.php:269
@@ -17249,7 +17249,7 @@ msgstr ""
 #: wp-includes/class-walker-comment.php:275
 #: wp-includes/class-walker-comment.php:344
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "您的评论正在等待审核。"
 
 #: wp-includes/class-walker-comment.php:282
 msgid "(Edit)"
@@ -17263,27 +17263,27 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:278
 #: wp-includes/nav-menu.php:784 wp-includes/nav-menu.php:862
 msgid "#%d (no title)"
-msgstr ""
+msgstr "#%d (无标题)"
 
 #: wp-includes/class-wp-admin-bar.php:128
 msgid "The menu ID should not be empty."
-msgstr ""
+msgstr "菜单ID不应为空。"
 
 #: wp-includes/class-wp-customize-control.php:632
 msgid "New page title"
-msgstr ""
+msgstr "新页面标题"
 
 #: wp-includes/class-wp-customize-control.php:633
 msgid "New page title&hellip;"
-msgstr ""
+msgstr "新页面标题&hellip;"
 
 #: wp-includes/class-wp-customize-manager.php:525
 msgid "Invalid changeset UUID"
-msgstr ""
+msgstr "无效的变更集 UUID"
 
 #: wp-includes/class-wp-customize-manager.php:552
 msgid "Non-existent changeset UUID."
-msgstr ""
+msgstr "变更集 UUID 不存在。"
 
 #: wp-includes/class-wp-customize-manager.php:1842
 msgid "Unauthorized. You may remove the customize_messenger_channel param to preview as frontend."
@@ -17292,109 +17292,109 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:2056
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:192
 msgid "Shift-click to edit this element."
-msgstr ""
+msgstr "Shift + 单击以编辑此元素。"
 
 #: wp-includes/class-wp-customize-manager.php:2057
 msgid "This link is not live-previewable."
-msgstr ""
+msgstr "此链接不可实时预览。"
 
 #: wp-includes/class-wp-customize-manager.php:2058
 msgid "This form is not live-previewable."
-msgstr ""
+msgstr "此表单不可实时预览。"
 
 #: wp-includes/class-wp-customize-manager.php:2265
 msgid "Setting does not exist or is unrecognized."
-msgstr ""
+msgstr "设置项不存在或无法识别。"
 
 #: wp-includes/class-wp-customize-manager.php:2270
 msgid "Unauthorized to modify setting due to capability."
-msgstr ""
+msgstr "由于权限问题，未授权修改设置。"
 
 #: wp-includes/class-wp-customize-manager.php:2293
 #: wp-includes/class-wp-customize-setting.php:579
 #: wp-includes/script-loader.php:642
 msgid "Invalid value."
-msgstr ""
+msgstr "无效值。"
 
 #: wp-includes/class-wp-customize-manager.php:2449
 msgid "Changeset is being edited by other user."
-msgstr ""
+msgstr "变更集正在由其他用户编辑。"
 
 #: wp-includes/class-wp-customize-manager.php:2563
 msgid "The previous set of changes has already been published. Please try saving your current set of changes again."
-msgstr ""
+msgstr "上一组更改已经发布。请尝试再次保存您当前的一组更改。"
 
 #: wp-includes/class-wp-customize-manager.php:2586
 #: wp-includes/class-wp-customize-manager.php:2601
 #: wp-includes/script-loader.php:593
 msgid "You must supply a future date to schedule."
-msgstr ""
+msgstr "您必须提供一个未来的日期来计划发布。"
 
 #. translators: %s: number of invalid settings
 #: wp-includes/class-wp-customize-manager.php:2700
 #: wp-includes/script-loader.php:629 wp-includes/script-loader.php:631
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
-msgstr[0] ""
+msgstr[0] "由于 %s 个设置无效，无法保存。"
 
 #: wp-includes/class-wp-customize-manager.php:2997
 msgid "There was an authentication problem. Please reload and try again."
-msgstr ""
+msgstr "认证出现问题。请重新加载并重试。"
 
 #: wp-includes/class-wp-customize-manager.php:3005
 msgid "No changes saved yet, so there is nothing to trash."
-msgstr ""
+msgstr "没有已保存的更改，所以没有可以放弃的更改。"
 
 #: wp-includes/class-wp-customize-manager.php:3014
 #: wp-includes/class-wp-customize-manager.php:3030
 msgid "Unable to trash changes."
-msgstr ""
+msgstr "无法放弃更改。"
 
 #: wp-includes/class-wp-customize-manager.php:3020
 msgid "Changes have already been trashed."
-msgstr ""
+msgstr "更改已被放弃。"
 
 #: wp-includes/class-wp-customize-manager.php:3035
 msgid "Changes trashed successfully."
-msgstr ""
+msgstr "已成功放弃更改。"
 
 #: wp-includes/class-wp-customize-manager.php:3205
 msgid "Security check failed."
-msgstr ""
+msgstr "安全性检查失败。"
 
 #: wp-includes/class-wp-customize-manager.php:3214
 msgid "No changeset found to take over"
-msgstr ""
+msgstr "未找到要接管的变更集"
 
 #: wp-includes/class-wp-customize-manager.php:3221
 msgid "Sorry, you are not allowed to take over."
-msgstr ""
+msgstr "对不起，您不允许接管。"
 
 #. translators: 1: panel id, 2: link to 'customize_loaded_components' filter
 #. reference
 #: wp-includes/class-wp-customize-manager.php:3753
 msgid "Removing %1$s manually will cause PHP warnings. Use the %2$s filter instead."
-msgstr ""
+msgstr "手动移除 %1$s 将导致PHP警告。请使用 %2$s 过滤器。"
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3961
 msgid "%s is already customizing this changeset. Please wait until they are done to try customizing. Your latest changes have been autosaved."
-msgstr ""
+msgstr "%s 已经在自定义此变更集。请等待他们完成自定义。您的最新更改已被自动保存。"
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3963
 msgid "%s is already customizing this changeset. Do you want to take over?"
-msgstr ""
+msgstr "%s 已经在自定义此变更集。您想要接管吗？"
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3968
 msgid "%s is already customizing this site. Please wait until they are done to try customizing. Your latest changes have been autosaved."
-msgstr ""
+msgstr "%s 已经在自定义此站点。请等待他们完成自定义。您的最新更改已被自动保存。"
 
 #. translators: %s: User who is customizing the changeset in customizer.
 #: wp-includes/class-wp-customize-manager.php:3970
 msgid "%s is already customizing this site. Do you want to take over?"
-msgstr ""
+msgstr "%s 已经在自定义此站点。您想要接管吗？"
 
 #: wp-includes/class-wp-customize-manager.php:4184
 msgid "Share Preview Link"
@@ -17564,46 +17564,46 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:5123
 msgctxt "Background Preset"
 msgid "Preset"
-msgstr ""
+msgstr "预设"
 
 #: wp-includes/class-wp-customize-manager.php:5127
 msgctxt "Default Preset"
 msgid "Default"
-msgstr ""
+msgstr "缺省设置"
 
 #: wp-includes/class-wp-customize-manager.php:5130
 msgctxt "Repeat Image"
 msgid "Repeat"
-msgstr ""
+msgstr "重复"
 
 #: wp-includes/class-wp-customize-manager.php:5131
 msgctxt "Custom Preset"
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 #: wp-includes/class-wp-customize-manager.php:5167
 msgid "Original"
-msgstr ""
+msgstr "原始"
 
 #: wp-includes/class-wp-customize-manager.php:5213
 msgid "Homepage Settings"
-msgstr ""
+msgstr "首页设置"
 
 #: wp-includes/class-wp-customize-manager.php:5215
 msgid "You can choose what&#8217;s displayed on the homepage of your site. It can be posts in reverse chronological order (classic blog), or a fixed/static page. To set a static homepage, you first need to create two Pages. One will become the homepage, and the other will be where your posts are displayed."
-msgstr ""
+msgstr "您可以选择站点主页上显示的内容。 它可以是倒序显示的的文章（传统博客），也可以是固定/静态页面。 要设置一个静态主页，您首先需要创建两个页面。 一个将成为主页，另一个将成为您的文章显示的地方。"
 
 #: wp-includes/class-wp-customize-manager.php:5231
 msgid "A static page"
-msgstr ""
+msgstr "一个静态页面"
 
 #: wp-includes/class-wp-customize-manager.php:5253
 msgid "Posts page"
-msgstr ""
+msgstr "文章页"
 
 #: wp-includes/class-wp-customize-manager.php:5261
 msgid "Add your own CSS code here to customize the appearance and layout of your site."
-msgstr ""
+msgstr "在此处添加您自己的 CSS 代码来自定义您站点的外观和布局。"
 
 #: wp-includes/class-wp-customize-manager.php:5264
 msgid "https://codex.wordpress.org/CSS"
@@ -17611,7 +17611,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:5265
 msgid "Learn more about CSS"
-msgstr ""
+msgstr "进一步了解CSS"
 
 #: wp-includes/class-wp-customize-manager.php:5275
 msgid "Screen reader users: when in forms mode, you may need to press the escape key twice."
@@ -26257,7 +26257,7 @@ msgstr ""
 #: wp-includes/user.php:1600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
 #. SITEURL: those are placeholders.
