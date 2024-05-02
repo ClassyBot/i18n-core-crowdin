@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-02 16:02\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -7432,7 +7432,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:174
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:191
 msgid "The error code was %s."
-msgstr ""
+msgstr "Le code d'erreur était %s."
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:183
 msgid "A previous automatic background update could not occur."
@@ -11967,7 +11967,7 @@ msgstr ""
 #. translators: %s: Error message.
 #: wp-admin/includes/privacy-tools.php:419
 msgid "Unable to encode the personal data for export. Error: %s"
-msgstr ""
+msgstr "Impossible d'encoder les données personnelles pour l'export. Erreur : %s"
 
 #: wp-admin/includes/privacy-tools.php:432
 msgid "Unable to open personal data export file (JSON report) for writing."
@@ -12283,7 +12283,7 @@ msgstr ""
 #: wp-admin/js/comment.js:89
 #: wp-admin/js/post.js:809
 msgid "%1$s %2$s, %3$s at %4$s:%5$s"
-msgstr ""
+msgstr "%2$s %1$s, %3$s à %4$s:%5$s"
 
 #: wp-admin/includes/template.php:1013
 msgid "Before you can upload your import file, you will need to fix the following error:"
