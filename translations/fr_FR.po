@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-02 16:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -106,15 +106,15 @@ msgstr "Documentation "
 
 #: wp-includes/admin-bar.php:178
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:187
 msgid "Support"
-msgstr ""
+msgstr "Assistance"
 
 #: wp-includes/admin-bar.php:188
 msgid "https://forums.classicpress.net/"
-msgstr ""
+msgstr "https://forums.classicpress.net/"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:207
@@ -257,8 +257,8 @@ msgstr "En-tête"
 #: wp-includes/admin-bar.php:1057
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s mise à jour disponible"
+msgstr[1] "%s mises à jour disponibles"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1090
@@ -271,7 +271,7 @@ msgstr "Recherche"
 
 #: wp-includes/admin-bar.php:1128
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "Sortir du mode récupération"
 
 #: wp-includes/atomlib.php:151
 #: wp-includes/feed.php:582
@@ -447,7 +447,7 @@ msgstr ""
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
-msgstr ""
+msgstr "Aucun serveur spécifié"
 
 #: wp-includes/class-pop3.php:102
 #: wp-includes/class-pop3.php:114
@@ -461,7 +461,7 @@ msgstr ""
 #: wp-includes/class-pop3.php:537
 #: wp-includes/class-pop3.php:560
 msgid "Error "
-msgstr ""
+msgstr "Erreur "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
@@ -479,7 +479,7 @@ msgstr ""
 
 #: wp-includes/class-pop3.php:155
 msgid "Authentication failed"
-msgstr ""
+msgstr "L'authentification a échoué"
 
 #: wp-includes/class-pop3.php:174
 #: wp-includes/class-pop3.php:217
@@ -505,7 +505,7 @@ msgstr ""
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
 msgid "abort"
-msgstr ""
+msgstr "abandonner"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
@@ -533,7 +533,7 @@ msgstr ""
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "La classe SMTP a été déplacée dans le sous-répertoire wp-includes/PHPMailer et utilise maintenant l'espace de noms PHPMailer\\PHPMailer."
 
 #. translators: %s: Category name.
 #: wp-includes/class-walker-category.php:171
@@ -947,7 +947,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-includes/class-wp-customize-manager.php:5228
 #: wp-includes/class-wp-customize-manager.php:5233
@@ -1826,12 +1826,12 @@ msgstr "Bloc de citation"
 #: wp-includes/class-wp-editor.php:1149
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1150
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "HTML tag"
@@ -1846,7 +1846,7 @@ msgstr "Adresse"
 #: wp-includes/class-wp-editor.php:1154
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1155
 msgid "Underline"
@@ -1881,7 +1881,7 @@ msgstr "Italique"
 #: wp-includes/class-wp-editor.php:1162
 #: wp-includes/script-loader.php:589
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: wp-includes/class-wp-editor.php:1163
 msgid "Source code"
@@ -2919,7 +2919,7 @@ msgstr "Il n’y a pas de transport HTTP disponible pour mener à bien la requê
 #: wp-includes/class-wp-image-editor-gd.php:101
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "Le fichier n'existe pas ?"
 
 #: wp-includes/class-wp-image-editor-gd.php:115
 #: wp-includes/class-wp-image-editor-imagick.php:161
@@ -2944,7 +2944,7 @@ msgstr "Impossible de lire la taille de l’image redimensionnée"
 #: wp-includes/class-wp-image-editor-gd.php:277
 #: wp-includes/class-wp-image-editor-imagick.php:534
 msgid "Cannot resize the image. Both width and height are not set."
-msgstr ""
+msgstr "Impossible de redimensionner l'image. La largeur et la hauteur ne sont pas définies."
 
 #: wp-includes/class-wp-image-editor-gd.php:338
 #: wp-includes/class-wp-image-editor-gd.php:362
@@ -2969,11 +2969,11 @@ msgstr "L’enregistrement de l’éditeur d’images a échoué."
 
 #: wp-includes/class-wp-image-editor-imagick.php:553
 msgid "The image already has the requested size."
-msgstr ""
+msgstr "L'image a déjà la taille demandée."
 
 #: wp-includes/class-wp-image-editor-imagick.php:708
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
-msgstr ""
+msgstr "Impossible de faire pivoter l'image car les méta-données intégrées ne peuvent pas être mises à jour."
 
 #. translators: %s: PHP function name.
 #: wp-includes/class-wp-image-editor-imagick.php:830
@@ -3250,7 +3250,7 @@ msgstr "Décembre"
 #: wp-includes/class-wp-locale.php:203
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:204
@@ -3262,7 +3262,7 @@ msgstr "Fév"
 #: wp-includes/class-wp-locale.php:205
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:206
@@ -3298,19 +3298,19 @@ msgstr "Août"
 #: wp-includes/class-wp-locale.php:211
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:212
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:213
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:214
@@ -3571,12 +3571,12 @@ msgstr "Téléversé sur cette page"
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
 msgid "Featured image"
-msgstr ""
+msgstr "Image mise en avant"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "page"
 msgid "Featured image"
-msgstr ""
+msgstr "Image mise en avant"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
@@ -3663,7 +3663,7 @@ msgstr ""
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Post scheduled."
-msgstr ""
+msgstr "Article programmé."
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Page scheduled."
@@ -4875,7 +4875,7 @@ msgstr "Désolé, vous n’avez pas l’autorisation de voir cet élément."
 
 #: wp-includes/class-wpdb.php:1205
 msgid "Cannot select database"
-msgstr ""
+msgstr "Impossible de sélectionner la base de données"
 
 #. translators: %s: Database name.
 #: wp-includes/class-wpdb.php:1209
@@ -5048,7 +5048,7 @@ msgstr ""
 #: wp-includes/classicpress/class-cp-debug-compat.php:86
 #: wp-includes/classicpress/class-cp-debug-compat.php:122
 msgid "Learn more."
-msgstr ""
+msgstr "En savoir plus."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:112
 msgid "No themes are using block functions."
@@ -5286,7 +5286,7 @@ msgstr ""
 
 #: wp-includes/comment.php:1284
 msgid "<strong>Error:</strong> Your email address is too long."
-msgstr ""
+msgstr "<strong>Erreur :</strong> Votre adresse email est trop longue."
 
 #: wp-includes/comment.php:1288
 msgid "<strong>Error:</strong> Your URL is too long."
@@ -7972,19 +7972,19 @@ msgstr ""
 
 #: wp-includes/media.php:4655
 msgid "Edit image"
-msgstr ""
+msgstr "Modifier l’image"
 
 #: wp-includes/media.php:4659
 msgid "Select and crop"
-msgstr ""
+msgstr "Sélectionner et recadrer"
 
 #: wp-includes/media.php:4660
 msgid "Skip cropping"
-msgstr ""
+msgstr "Ignorer le recadrage"
 
 #: wp-includes/media.php:4661
 msgid "Crop image"
-msgstr ""
+msgstr "Recadrer l’image"
 
 #: wp-includes/media.php:4662
 msgid "Crop your image"
@@ -8000,7 +8000,7 @@ msgstr "Une erreur est survenue lors du recadrage de votre image."
 
 #: wp-includes/media.php:4669
 msgid "Audio details"
-msgstr ""
+msgstr "Détails du son"
 
 #: wp-includes/media.php:4670
 msgid "Replace audio"
@@ -8012,23 +8012,23 @@ msgstr ""
 
 #: wp-includes/media.php:4675
 msgid "Video details"
-msgstr ""
+msgstr "Détails de la vidéo"
 
 #: wp-includes/media.php:4676
 msgid "Replace video"
-msgstr ""
+msgstr "Remplacer la vidéo"
 
 #: wp-includes/media.php:4677
 msgid "Add video source"
-msgstr ""
+msgstr "Ajouter une source vidéo"
 
 #: wp-includes/media.php:4679
 msgid "Select poster image"
-msgstr ""
+msgstr "Choisir une image de couverture"
 
 #: wp-includes/media.php:4680
 msgid "Add subtitles"
-msgstr ""
+msgstr "Ajouter des sous-titres"
 
 #: wp-includes/media.php:4683
 msgid "Drag and drop to reorder tracks."
@@ -8036,11 +8036,11 @@ msgstr "Glisser-déposer pour réorganiser les pistes."
 
 #: wp-includes/media.php:4684
 msgid "Create audio playlist"
-msgstr ""
+msgstr "Créer une liste de lecture audio"
 
 #: wp-includes/media.php:4685
 msgid "Edit audio playlist"
-msgstr ""
+msgstr "Modifier la liste de lecture"
 
 #: wp-includes/media.php:4686
 msgid "&#8592; Cancel audio playlist"
@@ -8068,11 +8068,11 @@ msgstr "Glisser-déposer pour réorganiser les vidéos."
 
 #: wp-includes/media.php:4694
 msgid "Create video playlist"
-msgstr ""
+msgstr "Créer une liste de lecture vidéo"
 
 #: wp-includes/media.php:4695
 msgid "Edit video playlist"
-msgstr ""
+msgstr "Modifier une liste de lecture vidéo"
 
 #: wp-includes/media.php:4696
 msgid "&#8592; Cancel video playlist"
@@ -8092,7 +8092,7 @@ msgstr "Ajouter à la liste de lecture vidéo"
 
 #: wp-includes/media.php:4700
 msgid "Add to video Playlist"
-msgstr ""
+msgstr "Ajouter à la liste de lecture vidéo"
 
 #: wp-includes/media.php:4703
 msgid "Filter media"
@@ -8484,7 +8484,7 @@ msgstr "Lien"
 #: wp-includes/post-formats.php:103
 msgctxt "Post format"
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: wp-includes/post-formats.php:104
 msgctxt "Post format"
@@ -8547,7 +8547,7 @@ msgstr "%s :"
 #: wp-includes/widgets/class-wp-widget-pages.php:31
 #: wp-includes/widgets/class-wp-widget-pages.php:44
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #: wp-includes/post-template.php:1457
 msgid "Home"
@@ -8863,7 +8863,7 @@ msgstr "Vous ne pouvez supprimer un type de publication par défaut"
 
 #: wp-includes/post.php:2879
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: wp-includes/post.php:2880
 msgid "Manage Images"
@@ -9322,12 +9322,12 @@ msgstr "Paramètre non valide."
 
 #: wp-includes/rest-api/class-wp-rest-request.php:946
 msgid "Invalid parameters."
-msgstr ""
+msgstr "Paramètre non valide."
 
 #. translators: %s: rest_authentication_errors
 #: wp-includes/rest-api/class-wp-rest-server.php:377
 msgid "The REST API can no longer be completely disabled, the %s filter can be used to restrict access to the API, instead."
-msgstr ""
+msgstr "L’API REST ne peut plus rester complètement désactivée. Au lieu de cela, le filtre %s peut être utilisé pour restreindre l’accès à l’API."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:384
 msgid "JSONP support is disabled on this site."
@@ -9356,7 +9356,7 @@ msgstr "L’espace de nom (namespace) spécifié n’a pas pu être trouvé."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1601
 msgid "Could not parse the path."
-msgstr ""
+msgstr "Impossible d'analyser le chemin."
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1651
 msgid "The requested route does not support batch requests."
@@ -13120,11 +13120,11 @@ msgstr ""
 
 #: wp-includes/user.php:3339
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "<strong>Erreur :</strong> Ce nom d'utilisateur est invalide car il utilise des caractères non autorisés. Veuillez entrer un nom d'utilisateur valide."
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>Erreur :</strong> cet identifiant est déjà utilisé. Veuillez en choisir un autre."
 
 #: wp-includes/user.php:3347
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
@@ -13240,19 +13240,19 @@ msgstr ""
 
 #: wp-includes/user.php:3923
 msgid "City"
-msgstr ""
+msgstr "Ville"
 
 #: wp-includes/user.php:3924
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 #: wp-includes/user.php:3925
 msgid "Latitude"
-msgstr ""
+msgstr "Latitude"
 
 #: wp-includes/user.php:3926
 msgid "Longitude"
-msgstr ""
+msgstr "Longitude"
 
 #: wp-includes/user.php:3927
 #: wp-includes/user.php:3955
@@ -13277,7 +13277,7 @@ msgstr ""
 
 #: wp-includes/user.php:3957
 msgid "Last Login"
-msgstr ""
+msgstr "Dernière connexion"
 
 #: wp-includes/user.php:3978
 msgid "Session Tokens"
@@ -13447,7 +13447,7 @@ msgstr "Aucun %1$s n’a été configuré dans le tableau d’arguments de la co
 
 #: wp-includes/widgets.php:1064
 msgid "Inactive widgets"
-msgstr ""
+msgstr "Widgets désactivés"
 
 #. translators: %s: register_widget()
 #: wp-includes/widgets.php:1214
@@ -14143,11 +14143,11 @@ msgstr ""
 
 #: wp-login.php:667
 msgid "The email is correct"
-msgstr ""
+msgstr "L'adresse e-mail est correcte"
 
 #: wp-login.php:683
 msgid "Remind me later"
-msgstr ""
+msgstr "Me le rappeler plus tard"
 
 #: wp-login.php:786
 msgid "<strong>Error:</strong> Your password reset link appears to be invalid. Please request a new link below."
@@ -14219,7 +14219,7 @@ msgstr "Générer un mot de passe"
 
 #: wp-login.php:997
 msgid "Save Password"
-msgstr ""
+msgstr "Enregistrer le mot de passe"
 
 #: wp-login.php:1074
 msgid "Registration Form"
@@ -14240,7 +14240,7 @@ msgstr "La confirmation d’inscription vous sera envoyée par e-mail."
 #. translators: %s: Link to the login page.
 #: wp-login.php:1133
 msgid "Check your email for the confirmation link, then visit the <a href=\"%s\">login page</a>."
-msgstr ""
+msgstr "Vérifiez votre email pour le lien de confirmation, puis visitez <a href=\"%s\">la page de connexion</a>."
 
 #. translators: %s: Link to the login page.
 #: wp-login.php:1143
@@ -14249,7 +14249,7 @@ msgstr ""
 
 #: wp-login.php:1153
 msgid "Check your email"
-msgstr ""
+msgstr "Vérifiez votre messagerie"
 
 #: wp-login.php:1159
 msgid "Missing request ID."
@@ -14257,7 +14257,7 @@ msgstr "ID de requête manquant."
 
 #: wp-login.php:1163
 msgid "Missing confirm key."
-msgstr ""
+msgstr "Clé de confirmation manquante."
 
 #: wp-login.php:1191
 msgid "User action confirmed."
@@ -14475,7 +14475,7 @@ msgstr "Si vous n’activez pas votre compte sous deux jours, vous devrez vous r
 
 #: wp-signup.php:777
 msgid "Sign up"
-msgstr ""
+msgstr "S'inscrire"
 
 #. translators: %s: Site address.
 #: wp-signup.php:858
@@ -14585,19 +14585,19 @@ msgstr ""
 
 #: wp-includes/js/dist/a11y.js:2218
 msgid "Notifications"
-msgstr ""
+msgstr "Notifications"
 
 #: wp-includes/js/dist/api-fetch.js:2849
 msgid "The response is not a valid JSON response."
-msgstr ""
+msgstr "La réponse n'est pas une réponse JSON valide."
 
 #: wp-includes/js/dist/api-fetch.js:2885
 msgid "An unknown error occurred."
-msgstr ""
+msgstr "Une erreur inconnue s'est produite."
 
 #: wp-includes/js/dist/api-fetch.js:2958
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
-msgstr ""
+msgstr "Échec du téléchargement du média. S'il s'agit d'une photo ou d'une grande image, veuillez la réduire et réessayer."
 
 #: wp-includes/js/dist/api-fetch.js:3164
 msgid "You are probably offline."
