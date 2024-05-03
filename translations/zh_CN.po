@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-02 16:02\n"
+"PO-Revision-Date: 2024-05-03 04:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -791,34 +791,34 @@ msgstr "忽略"
 
 #: wp-includes/class-wp-customize-manager.php:4318
 msgid "Go back"
-msgstr ""
+msgstr "返回"
 
 #: wp-includes/class-wp-customize-manager.php:4320
 #: wp-includes/class-wp-editor.php:1249
 #: wp-includes/media-template.php:1531
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 #: wp-includes/class-wp-customize-manager.php:4322
 msgid "Take over"
-msgstr ""
+msgstr "接管"
 
 #: wp-includes/class-wp-customize-manager.php:4336
 msgid "Update anyway, even though it might break your site?"
-msgstr ""
+msgstr "是否确实要更新？这可能会破坏您的站点。"
 
 #: wp-includes/class-wp-customize-manager.php:4355
 msgid "Share Preview Link"
-msgstr ""
+msgstr "分享预览链接"
 
 #: wp-includes/class-wp-customize-manager.php:4357
 msgid "See how changes would look live on your website, and share the preview with people who can't access the Customizer."
-msgstr ""
+msgstr "实时预览您的网站上进行的修改，并与无法访问自定义器的人分享预览。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4363
 msgid "Preview Link"
-msgstr ""
+msgstr "预览链接"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4371
@@ -830,129 +830,129 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-custom-html.php:318
 #: wp-login.php:631
 msgid "(opens in a new tab)"
-msgstr ""
+msgstr "(在新标签页中打开)"
 
 #: wp-includes/class-wp-customize-manager.php:4376
 #: wp-includes/class-wp-editor.php:1175
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 #: wp-includes/class-wp-customize-manager.php:4376
 msgid "Copied"
-msgstr ""
+msgstr "复制成功"
 
 #. translators: %s: Document title from the preview.
 #: wp-includes/class-wp-customize-manager.php:4574
 msgid "Customize: %s"
-msgstr ""
+msgstr "自定义： %s"
 
 #. translators: %s: Document title from the preview.
 #: wp-includes/class-wp-customize-manager.php:4577
 msgid "Live Preview: %s"
-msgstr ""
+msgstr "实时预览： %s"
 
 #: wp-includes/class-wp-customize-manager.php:4847
 #: wp-includes/script-loader.php:1089
 msgid "Publish"
-msgstr ""
+msgstr "发布"
 
 #: wp-includes/class-wp-customize-manager.php:4852
 #: wp-includes/script-loader.php:1091
 msgid "Save Draft"
-msgstr ""
+msgstr "保存草稿"
 
 #: wp-includes/class-wp-customize-manager.php:4857
 #: wp-includes/script-loader.php:1094
 msgctxt "customizer changeset action/button label"
 msgid "Schedule"
-msgstr ""
+msgstr "计划"
 
 #: wp-includes/class-wp-customize-manager.php:4934
 msgid "Are you sure you want to delete this theme?"
-msgstr ""
+msgstr "您确定要删除此主题吗？"
 
 #. translators: %d: Number of theme search results, which cannot currently consider singular vs. plural forms.
 #: wp-includes/class-wp-customize-manager.php:4936
 msgid "%d themes found"
-msgstr ""
+msgstr "找到 %d 个主题"
 
 #. translators: %d: Number of themes being displayed, which cannot currently consider singular vs. plural forms.
 #: wp-includes/class-wp-customize-manager.php:4938
 msgid "Displaying %d themes"
-msgstr ""
+msgstr "正在显示 %d 个主题"
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-customize-manager.php:4940
 msgid "Showing details for theme: %s"
-msgstr ""
+msgstr "正在显示主题 %s 的详细信息"
 
 #: wp-includes/class-wp-customize-manager.php:5020
 msgid "Enter desktop preview mode"
-msgstr ""
+msgstr "进入桌面设备预览模式"
 
 #: wp-includes/class-wp-customize-manager.php:5024
 msgid "Enter tablet preview mode"
-msgstr ""
+msgstr "进入平板电脑预览模式"
 
 #: wp-includes/class-wp-customize-manager.php:5027
 msgid "Enter mobile preview mode"
-msgstr ""
+msgstr "进入移动设备预览模式"
 
 #: wp-includes/class-wp-customize-manager.php:5061
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr ""
+msgstr "正在寻找主题吗？您可以搜索或浏览 WordPress.org 主题目录，安装和预览主题，然后在这里激活它们。"
 
 #: wp-includes/class-wp-customize-manager.php:5062
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
-msgstr ""
+msgstr "在预览一个新主题的同时，您可以继续调整小部件和菜单等内容，探索特定主题的选项。"
 
 #: wp-includes/class-wp-customize-manager.php:5075
 msgid "Installed themes"
-msgstr ""
+msgstr "已安装的主题"
 
 #: wp-includes/class-wp-customize-manager.php:5090
 msgid "WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org 主题"
 
 #: wp-includes/class-wp-customize-manager.php:5117
 msgid "Site Identity"
-msgstr ""
+msgstr "站点身份"
 
 #: wp-includes/class-wp-customize-manager.php:5134
 #: wp-includes/class-wp-xmlrpc-server.php:589
 msgid "Site Title"
-msgstr ""
+msgstr "站点标题"
 
 #: wp-includes/class-wp-customize-manager.php:5151
 msgid "Tagline"
-msgstr ""
+msgstr "描述"
 
 #: wp-includes/class-wp-customize-manager.php:5170
 #: wp-includes/class-wp-customize-manager.php:5277
 msgid "Display Site Title and Tagline"
-msgstr ""
+msgstr "显示站点标题和描述"
 
 #: wp-includes/class-wp-customize-manager.php:5192
 msgid "Site Icon"
-msgstr ""
+msgstr "站点徽标"
 
 #. translators: %s: Site Icon size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5195
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "站点徽标是您在浏览器标签、书签栏和 WordPress 移动应用程序中看到的。 它应该是方形的，并且至少是 %s 像素。"
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
-msgstr ""
+msgstr "徽标"
 
 #: wp-includes/class-wp-customize-manager.php:5228
 #: wp-includes/class-wp-customize-manager.php:5233
 msgid "Select logo"
-msgstr ""
+msgstr "选择徽标"
 
 #: wp-includes/class-wp-customize-manager.php:5229
 msgid "Change logo"
-msgstr ""
+msgstr "修改徽标"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5230
@@ -966,7 +966,7 @@ msgstr ""
 #: wp-includes/media-template.php:608
 #: wp-includes/media.php:4583
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: wp-includes/class-wp-customize-manager.php:5231
 #: wp-includes/customize/class-wp-customize-color-control.php:54
@@ -975,63 +975,63 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-media-control.php:248
 #: wp-includes/customize/class-wp-customize-media-control.php:258
 msgid "Default"
-msgstr ""
+msgstr "缺省设置"
 
 #: wp-includes/class-wp-customize-manager.php:5232
 msgid "No logo selected"
-msgstr ""
+msgstr "没有选择徽标"
 
 #: wp-includes/class-wp-customize-manager.php:5234
 msgid "Choose logo"
-msgstr ""
+msgstr "选择徽标"
 
 #: wp-includes/class-wp-customize-manager.php:5255
 msgid "Colors"
-msgstr ""
+msgstr "颜色"
 
 #: wp-includes/class-wp-customize-manager.php:5289
 msgid "Header Text Color"
-msgstr ""
+msgstr "页眉文本颜色"
 
 #: wp-includes/class-wp-customize-manager.php:5313
 msgid "Background Color"
-msgstr ""
+msgstr "背景颜色"
 
 #: wp-includes/class-wp-customize-manager.php:5322
 msgid "Header Media"
-msgstr ""
+msgstr "页眉媒体"
 
 #: wp-includes/class-wp-customize-manager.php:5323
 msgid "If you add a video, the image will be used as a fallback while the video loads."
-msgstr ""
+msgstr "如果您希望添加视频，视频加载时将使用图像作为占位符。"
 
 #. translators: 1: .mp4, 2: Header size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5330
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends dimensions of %2$s pixels."
-msgstr ""
+msgstr "上传您的 %1$s 格式的视频并最小化文件大小以获取最佳结果。您的主题推荐了 %2$s 像素的尺寸。"
 
 #. translators: 1: .mp4, 2: Header width in pixels.
 #: wp-includes/class-wp-customize-manager.php:5337
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a width of %2$s pixels."
-msgstr ""
+msgstr "上传您的 %1$s 格式的视频并最小化其文件大小以获得最佳结果。您的主题建议宽度为 %2$s 像素。"
 
 #. translators: 1: .mp4, 2: Header height in pixels.
 #: wp-includes/class-wp-customize-manager.php:5344
 msgid "Upload your video in %1$s format and minimize its file size for best results. Your theme recommends a height of %2$s pixels."
-msgstr ""
+msgstr "上传您的 %1$s 格式的视频并最小化文件大小以获取最佳结果。您的主题建议高度为 %2$s 像素。"
 
 #: wp-includes/class-wp-customize-manager.php:5350
 #: wp-includes/customize/class-wp-customize-header-image-control.php:55
 msgid "Header Image"
-msgstr ""
+msgstr "页眉图像"
 
 #: wp-includes/class-wp-customize-manager.php:5422
 msgid "Header Video"
-msgstr ""
+msgstr "页眉视频"
 
 #: wp-includes/class-wp-customize-manager.php:5436
 msgid "Or, enter a YouTube URL:"
-msgstr ""
+msgstr "或者输入一个 YouTube URL："
 
 #: wp-includes/class-wp-customize-manager.php:5459
 #: wp-includes/customize/class-wp-customize-background-image-control.php:40
@@ -1382,74 +1382,74 @@ msgstr ""
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:558
 msgid "Move under %s"
-msgstr ""
+msgstr "移动到 %s 下"
 
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:560
 msgid "Move out from under %s"
-msgstr ""
+msgstr "从 %s 下移出"
 
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:562
 msgid "Under %s"
-msgstr ""
+msgstr "在 %s 下"
 
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:564
 msgid "Out from under %s"
-msgstr ""
+msgstr "从 %s 下"
 
 #. translators: 1: Item name, 2: Item position, 3: Total number of items.
 #: wp-includes/class-wp-customize-nav-menus.php:566
 msgid "%1$s. Menu item %2$d of %3$d."
-msgstr ""
+msgstr "%1$s。 %3$d 的第 %2$d 个菜单项。"
 
 #. translators: 1: Item name, 2: Item position, 3: Parent item name.
 #: wp-includes/class-wp-customize-nav-menus.php:568
 msgid "%1$s. Sub item number %2$d under %3$s."
-msgstr ""
+msgstr "%1$s。 %3$s 下的第 %2$d 个子项目。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:653
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
-msgstr ""
+msgstr "此面板用于管理您已经在网站上发布的内容的导航菜单。 您可以创建菜单并为现有内容添加项目，如页面、帖子、分类、标签、格式或自定义链接。"
 
 #. translators: %s: URL to the Widgets panel of the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:657
 msgid "Menus can be displayed in locations defined by your theme or in <a href=\"%s\">widget areas</a> by adding a &#8220;Navigation Menu&#8221; widget."
-msgstr ""
+msgstr "菜单可以显示在您主题定义的位置，也可以通过添加一个“导航菜单”小工具以显示在<a href=\"%s\">小工具区</a>内。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:661
 msgid "Menus can be displayed in locations defined by your theme."
-msgstr ""
+msgstr "菜单可以显示在您主题定义的位置。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:686
 msgid "Your theme can display menus in one location. Select which menu you would like to use."
-msgstr ""
+msgstr "您的主题可以在一个位置显示菜单。请选择您想要使用的菜单。"
 
 #. translators: %s: Number of menu locations.
 #: wp-includes/class-wp-customize-nav-menus.php:689
 msgid "Your theme can display menus in %s location. Select which menu you would like to use."
 msgid_plural "Your theme can display menus in %s locations. Select which menu appears in each location."
-msgstr[0] ""
+msgstr[0] "您的主题可以在 %s 个位置显示菜单。请选择要显示哪个菜单。"
 
 #. translators: URL to the Widgets panel of the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:694
 msgid "If your theme has widget areas, you can also add menus there. Visit the <a href=\"%s\">Widgets panel</a> and add a &#8220;Navigation Menu widget&#8221; to display a menu in a sidebar or footer."
-msgstr ""
+msgstr "如果您的主题有小工具区域，您也可以在这添加菜单。访问<a href=\"%s\">小工具面板</a>并且添加一个“导航菜单”小工具以在侧栏或页脚中显示菜单。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:700
 msgctxt "menu locations"
 msgid "View Location"
-msgstr ""
+msgstr "查看位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:700
 msgctxt "menu locations"
 msgid "View All Locations"
-msgstr ""
+msgstr "查看所有位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:846
 msgid "New Menu"
-msgstr ""
+msgstr "新建菜单"
 
 #: wp-includes/class-wp-customize-nav-menus.php:949
 #: wp-includes/class-wp-xmlrpc-server.php:1440
@@ -1464,74 +1464,74 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:442
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:141
 msgid "Invalid post type."
-msgstr ""
+msgstr "文章类型无效。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:952
 msgid "Empty title."
-msgstr ""
+msgstr "标题为空。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:955
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2973
 msgid "Status is forbidden."
-msgstr ""
+msgstr "禁止使用的状态。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1041
 msgid "Post"
-msgstr ""
+msgstr "文章"
 
 #. translators: 1: Post type name, 2: Error message.
 #: wp-includes/class-wp-customize-nav-menus.php:1046
 msgid "%1$s could not be created: %2$s"
-msgstr ""
+msgstr "无法创建 %1$s ： %2$s"
 
 #. translators: Hidden accessibility text. 1: Title of a menu item, 2: Type of a menu item.
 #: wp-includes/class-wp-customize-nav-menus.php:1076
 msgid "Add to menu: %1$s (%2$s)"
-msgstr ""
+msgstr "添加到菜单： %1$s （%2$s）"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1096
 #: wp-includes/class-wp-customize-widgets.php:701
 msgid "Move up"
-msgstr ""
+msgstr "向上移动"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1097
 #: wp-includes/class-wp-customize-widgets.php:700
 msgid "Move down"
-msgstr ""
+msgstr "向下移动"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1098
 msgid "Move one level up"
-msgstr ""
+msgstr "向上移动一个层级"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1099
 msgid "Move one level down"
-msgstr ""
+msgstr "向下移动一个层级"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1108
 msgid "Delete Menu"
-msgstr ""
+msgstr "删除菜单"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1114
 msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
-msgstr ""
+msgstr "点击&#8220;继续&#8221;以开始添加链接到您的新菜单。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1115
 #: wp-includes/script-loader.php:1631
 #: wp-signup.php:653
 msgid "Next"
-msgstr ""
+msgstr "继续"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1125
 msgid "It does not look like your site has any menus yet. Want to build one? Click the button to start."
-msgstr ""
+msgstr "看起来您的网站还没有任何菜单。想要创建一个新菜单吗？点击按钮以开始。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1128
 msgid "You&#8217;ll create a menu, assign it a location, and add menu items like links to pages and categories. If your theme has multiple menu areas, you might need to create more than one."
-msgstr ""
+msgstr "您将要创建一个菜单，为其分配一个位置，并且将页面、分类等的链接添加至菜单。如果您的主题有多个菜单区域，您可能需要创建不止一个菜单。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1132
 msgid "Create New Menu"
-msgstr ""
+msgstr "创建新菜单"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-nav-menus.php:1152
@@ -1542,20 +1542,20 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-panel.php:73
 #: wp-includes/media.php:4584
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1163
 msgid "Add Menu Items"
-msgstr ""
+msgstr "添加菜单项"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-nav-menus.php:1171
 msgid "Search Menu Items"
-msgstr ""
+msgstr "搜索菜单项"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1174
 msgid "Search menu items&hellip;"
-msgstr ""
+msgstr "搜索菜单项&hellip;"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-nav-menus.php:1178
@@ -1563,21 +1563,21 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-section.php:138
 #: wp-includes/customize/class-wp-customize-themes-section.php:163
 msgid "The search results will be updated as you type."
-msgstr ""
+msgstr "搜索结果将随着您的输入更新。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-nav-menus.php:1187
 #: wp-includes/class-wp-customize-widgets.php:860
 msgid "Clear Results"
-msgstr ""
+msgstr "清除结果"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1236
 msgid "No items"
-msgstr ""
+msgstr "没有项目"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1270
 msgid "Custom Links"
-msgstr ""
+msgstr "自定义链接"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1275
 #: wp-includes/class-wp-editor.php:1266
@@ -1595,28 +1595,28 @@ msgstr ""
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:176
 #: wp-includes/widgets/class-wp-widget-media-image.php:113
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1279
 #: wp-includes/class-wp-editor.php:1891
 #: wp-includes/media-template.php:1038
 msgid "Link Text"
-msgstr ""
+msgstr "链接文本"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1284
 msgid "Add to Menu"
-msgstr ""
+msgstr "添加至菜单"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-panel.php:354
 msgid "Press return or enter to open this panel"
-msgstr ""
+msgstr "按回车键以打开此面板"
 
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-includes/class-wp-customize-panel.php:386
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:83
 msgid "You are customizing %s"
-msgstr ""
+msgstr "您正在定制 %s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-panel.php:393
@@ -1624,16 +1624,16 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:90
 #: wp-includes/customize/class-wp-customize-themes-panel.php:91
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: wp-includes/class-wp-customize-section.php:248
 msgid "Customizing"
-msgstr ""
+msgstr "自定义"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-section.php:363
 msgid "Press return or enter to open this section"
-msgstr ""
+msgstr "按回车键以打开此分区"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
@@ -1641,16 +1641,16 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
-msgstr ""
+msgstr "移动到其他区域&hellip;"
 
 #: wp-includes/class-wp-customize-widgets.php:707
 msgid "Select an area to move this widget into:"
-msgstr ""
+msgstr "选择要将此小工具移动到的区域："
 
 #: wp-includes/class-wp-customize-widgets.php:708
 msgctxt "Move widget"
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
 #: wp-includes/class-wp-customize-widgets.php:729
 msgid "Your theme has 1 other widget area, but this particular page does not display it."
@@ -1885,31 +1885,31 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1165
 msgid "Font Sizes"
-msgstr ""
+msgstr "字号"
 
 #: wp-includes/class-wp-editor.php:1167
 msgid "Align center"
-msgstr ""
+msgstr "居中"
 
 #: wp-includes/class-wp-editor.php:1168
 msgid "Align right"
-msgstr ""
+msgstr "右对齐"
 
 #: wp-includes/class-wp-editor.php:1169
 msgid "Align left"
-msgstr ""
+msgstr "左对齐"
 
 #: wp-includes/class-wp-editor.php:1170
 msgid "Justify"
-msgstr ""
+msgstr "对齐方式"
 
 #: wp-includes/class-wp-editor.php:1171
 msgid "Increase indent"
-msgstr ""
+msgstr "增加缩进"
 
 #: wp-includes/class-wp-editor.php:1172
 msgid "Decrease indent"
-msgstr ""
+msgstr "减少缩进"
 
 #: wp-includes/class-wp-editor.php:1174
 msgid "Cut"
