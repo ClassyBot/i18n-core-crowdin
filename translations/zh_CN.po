@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-04 05:02\n"
+"PO-Revision-Date: 2024-05-04 17:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1294,27 +1294,27 @@ msgstr "菜单项已删除"
 
 #: wp-includes/class-wp-customize-nav-menus.php:517
 msgid "Menu created"
-msgstr "菜单已创建"
+msgstr "菜单创建成功"
 
 #: wp-includes/class-wp-customize-nav-menus.php:518
 msgid "Menu deleted"
-msgstr "菜单已删除"
+msgstr "菜单删除成功"
 
 #: wp-includes/class-wp-customize-nav-menus.php:519
 msgid "Menu item moved up"
-msgstr ""
+msgstr "向上移动菜单项成功"
 
 #: wp-includes/class-wp-customize-nav-menus.php:520
 msgid "Menu item moved down"
-msgstr ""
+msgstr "向下移动菜单项成功"
 
 #: wp-includes/class-wp-customize-nav-menus.php:521
 msgid "Menu item moved out of submenu"
-msgstr ""
+msgstr "菜单项已从子菜单移出"
 
 #: wp-includes/class-wp-customize-nav-menus.php:522
 msgid "Menu item is now a sub-item"
-msgstr ""
+msgstr "菜单项现在是一个子项目"
 
 #. translators: &#9656; is the unicode right-pointing triangle. %s: Section title in the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:524
@@ -1322,62 +1322,62 @@ msgstr ""
 #: wp-includes/class-wp-customize-section.php:246
 #: wp-includes/class-wp-customize-widgets.php:842
 msgid "Customizing &#9656; %s"
-msgstr ""
+msgstr "定制器 &#9656; %s"
 
 #. translators: %s: Title of an invalid menu item.
 #: wp-includes/class-wp-customize-nav-menus.php:526
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (无效)"
 
 #. translators: %s: Title of a menu item in draft status.
 #: wp-includes/class-wp-customize-nav-menus.php:528
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (待定)"
 
 #. translators: %d: Number of menu items found.
 #: wp-includes/class-wp-customize-nav-menus.php:530
 msgid "Number of items found: %d"
-msgstr ""
+msgstr "发现的项目数量： %d"
 
 #. translators: %d: Number of additional menu items found.
 #: wp-includes/class-wp-customize-nav-menus.php:532
 msgid "Additional items found: %d"
-msgstr ""
+msgstr "额外发现的项目： %d"
 
 #: wp-includes/class-wp-customize-nav-menus.php:533
 msgid "Loading more results... please wait."
-msgstr ""
+msgstr "正在载入更多结果... 请稍候。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:534
 #: wp-includes/class-wp-customize-widgets.php:789
 msgid "Reorder mode enabled"
-msgstr ""
+msgstr "已启用重新排序模式"
 
 #: wp-includes/class-wp-customize-nav-menus.php:535
 #: wp-includes/class-wp-customize-widgets.php:790
 msgid "Reorder mode closed"
-msgstr ""
+msgstr "已关闭重新排序模式"
 
 #: wp-includes/class-wp-customize-nav-menus.php:536
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:55
 msgid "Reorder menu items"
-msgstr ""
+msgstr "重新排序菜单项"
 
 #: wp-includes/class-wp-customize-nav-menus.php:537
 msgid "Close reorder mode"
-msgstr ""
+msgstr "关闭重新排序模式"
 
 #: wp-includes/class-wp-customize-nav-menus.php:554
 msgid "Move up one"
-msgstr ""
+msgstr "上移一个位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:555
 msgid "Move down one"
-msgstr ""
+msgstr "下移一个位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:556
 msgid "Move to the top"
-msgstr ""
+msgstr "移至顶部"
 
 #. translators: %s: Previous item name.
 #: wp-includes/class-wp-customize-nav-menus.php:558
@@ -1654,234 +1654,234 @@ msgstr "移动"
 
 #: wp-includes/class-wp-customize-widgets.php:729
 msgid "Your theme has 1 other widget area, but this particular page does not display it."
-msgstr ""
+msgstr "您的主题有一个其他小工具区域，但此特定页面没有显示。"
 
 #. translators: %s: The number of other widget areas registered but not rendered.
 #: wp-includes/class-wp-customize-widgets.php:738
 msgid "Your theme has %s other widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s other widget areas, but this particular page does not display them."
-msgstr[0] ""
+msgstr[0] "您的主题有%s个其他小工具区域，但此特定页面没有显示。"
 
 #: wp-includes/class-wp-customize-widgets.php:753
 msgid "Your theme has 1 widget area, but this particular page does not display it."
-msgstr ""
+msgstr "您的主题有一个小工具区域，但此特定页面没有显示。"
 
 #. translators: %s: The total number of widget areas registered.
 #: wp-includes/class-wp-customize-widgets.php:762
 msgid "Your theme has %s widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s widget areas, but this particular page does not display them."
-msgstr[0] ""
+msgstr[0] "您的主题有%s个小工具区域，但此特定页面没有显示。"
 
 #: wp-includes/class-wp-customize-widgets.php:779
 #: wp-includes/class-wp-editor.php:1391
 #: wp-includes/media.php:4620
 msgid "Apply"
-msgstr ""
+msgstr "应用"
 
 #: wp-includes/class-wp-customize-widgets.php:780
 msgid "Save and preview changes before publishing them."
-msgstr ""
+msgstr "在发布之前保存和预览更改。"
 
 #: wp-includes/class-wp-customize-widgets.php:782
 msgid "Keep widget settings and move it to the inactive widgets"
-msgstr ""
+msgstr "保留小工具设置并将其移至保留的小工具"
 
 #: wp-includes/class-wp-customize-widgets.php:783
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "发生了一个错误。请重新加载页面并重试。"
 
 #: wp-includes/class-wp-customize-widgets.php:784
 msgid "Widget moved up"
-msgstr ""
+msgstr "已向上移动小工具"
 
 #: wp-includes/class-wp-customize-widgets.php:785
 msgid "Widget moved down"
-msgstr ""
+msgstr "已向下移动小工具"
 
 #: wp-includes/class-wp-customize-widgets.php:786
 msgid "You can navigate to other pages on your site while using the Customizer to view and edit the widgets displayed on those pages."
-msgstr ""
+msgstr "在使用定制器时，您可以到其他页面去，并使用定制器查看和编辑那些页面上显示的小工具。"
 
 #: wp-includes/class-wp-customize-widgets.php:791
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:59
 msgid "Reorder widgets"
-msgstr ""
+msgstr "重新排序小工具"
 
 #. translators: %d: The number of widgets found.
 #: wp-includes/class-wp-customize-widgets.php:793
 msgid "Number of widgets found: %d"
-msgstr ""
+msgstr "发现的小工具数量： %d"
 
 #: wp-includes/class-wp-customize-widgets.php:794
 #: wp-includes/class-wp-customize-widgets.php:876
 msgid "No widgets found."
-msgstr ""
+msgstr "未找到小工具。"
 
 #: wp-includes/class-wp-customize-widgets.php:845
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:57
 msgid "Add a Widget"
-msgstr ""
+msgstr "添加小工具"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-widgets.php:852
 msgid "Search Widgets"
-msgstr ""
+msgstr "搜索小工具"
 
 #: wp-includes/class-wp-customize-widgets.php:855
 msgid "Search widgets&hellip;"
-msgstr ""
+msgstr "搜索小工具&hellip;"
 
 #: wp-includes/class-wp-customize-widgets.php:1210
 msgid "Shift-click to edit this widget."
-msgstr ""
+msgstr "Shift + 单击以编辑此小工具。"
 
 #. translators: Date query invalid date message. 1: Invalid value, 2: Type of value, 3: Minimum valid value, 4: Maximum valid value.
 #: wp-includes/class-wp-date-query.php:404
 msgid "Invalid value %1$s for %2$s. Expected value should be between %3$s and %4$s."
-msgstr ""
+msgstr "为%2$s提供的值%1$s无效。预期介于%3$s和%4$s的一个值。"
 
 #. translators: 1: Year, 2: Month, 3: Day of month.
 #: wp-includes/class-wp-date-query.php:434
 msgid "The following values do not describe a valid date: year %1$s, month %2$s, day %3$s."
-msgstr ""
+msgstr "以下值不是有效的日期：%1$s年，%2$s月，%3$s日。"
 
 #. translators: 1: Month, 2: Day of month.
 #: wp-includes/class-wp-date-query.php:450
 msgid "The following values do not describe a valid date: month %1$s, day %2$s."
-msgstr ""
+msgstr "以下值不是有效的日期：%1$s月，%2$s日。"
 
 #: wp-includes/class-wp-editor.php:190
 #: wp-includes/class-wp-editor.php:1393
 msgctxt "Name for the Visual editor tab"
 msgid "Visual"
-msgstr ""
+msgstr "可视"
 
 #: wp-includes/class-wp-editor.php:192
 #: wp-includes/class-wp-editor.php:1394
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr ""
+msgstr "文本"
 
 #: wp-includes/class-wp-editor.php:1134
 msgid "New document"
-msgstr ""
+msgstr "新文档"
 
 #: wp-includes/class-wp-editor.php:1135
 msgctxt "TinyMCE"
 msgid "Formats"
-msgstr ""
+msgstr "格式"
 
 #: wp-includes/class-wp-editor.php:1137
 msgctxt "TinyMCE"
 msgid "Headings"
-msgstr ""
+msgstr "标题"
 
 #: wp-includes/class-wp-editor.php:1138
 msgid "Heading 1"
-msgstr ""
+msgstr "一级标题"
 
 #: wp-includes/class-wp-editor.php:1139
 msgid "Heading 2"
-msgstr ""
+msgstr "二级标题"
 
 #: wp-includes/class-wp-editor.php:1140
 msgid "Heading 3"
-msgstr ""
+msgstr "三级标题"
 
 #: wp-includes/class-wp-editor.php:1141
 msgid "Heading 4"
-msgstr ""
+msgstr "四级标题"
 
 #: wp-includes/class-wp-editor.php:1142
 msgid "Heading 5"
-msgstr ""
+msgstr "五级标题"
 
 #: wp-includes/class-wp-editor.php:1143
 msgid "Heading 6"
-msgstr ""
+msgstr "六级标题"
 
 #. translators: Block tags.
 #: wp-includes/class-wp-editor.php:1146
 msgctxt "TinyMCE"
 msgid "Blocks"
-msgstr ""
+msgstr "区块"
 
 #: wp-includes/class-wp-editor.php:1147
 msgid "Paragraph"
-msgstr ""
+msgstr "段落"
 
 #: wp-includes/class-wp-editor.php:1148
 #: wp-includes/script-loader.php:576
 msgid "Blockquote"
-msgstr ""
+msgstr "引文"
 
 #: wp-includes/class-wp-editor.php:1149
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "DIV"
 
 #: wp-includes/class-wp-editor.php:1150
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "PRE"
 
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "HTML tag"
 msgid "Preformatted"
-msgstr ""
+msgstr "预格式化文本"
 
 #: wp-includes/class-wp-editor.php:1152
 msgctxt "HTML tag"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: wp-includes/class-wp-editor.php:1154
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "行内"
 
 #: wp-includes/class-wp-editor.php:1155
 msgid "Underline"
-msgstr ""
+msgstr "下划线"
 
 #: wp-includes/class-wp-editor.php:1156
 msgid "Strikethrough"
-msgstr ""
+msgstr "删除线"
 
 #: wp-includes/class-wp-editor.php:1157
 msgid "Subscript"
-msgstr ""
+msgstr "下标"
 
 #: wp-includes/class-wp-editor.php:1158
 msgid "Superscript"
-msgstr ""
+msgstr "上标"
 
 #: wp-includes/class-wp-editor.php:1159
 msgid "Clear formatting"
-msgstr ""
+msgstr "清除格式"
 
 #: wp-includes/class-wp-editor.php:1160
 #: wp-includes/script-loader.php:571
 msgid "Bold"
-msgstr ""
+msgstr "粗体"
 
 #: wp-includes/class-wp-editor.php:1161
 #: wp-includes/script-loader.php:573
 msgid "Italic"
-msgstr ""
+msgstr "斜体"
 
 #: wp-includes/class-wp-editor.php:1162
 #: wp-includes/script-loader.php:589
 msgid "Code"
-msgstr ""
+msgstr "代码"
 
 #: wp-includes/class-wp-editor.php:1163
 msgid "Source code"
-msgstr ""
+msgstr "源代码"
 
 #: wp-includes/class-wp-editor.php:1164
 msgid "Font Family"
-msgstr ""
+msgstr "字体"
 
 #: wp-includes/class-wp-editor.php:1165
 msgid "Font Sizes"
@@ -1913,579 +1913,579 @@ msgstr "减少缩进"
 
 #: wp-includes/class-wp-editor.php:1174
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 #: wp-includes/class-wp-editor.php:1176
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: wp-includes/class-wp-editor.php:1177
 msgid "Select all"
-msgstr ""
+msgstr "全选"
 
 #: wp-includes/class-wp-editor.php:1178
 msgid "Undo"
-msgstr ""
+msgstr "撤消"
 
 #: wp-includes/class-wp-editor.php:1179
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: wp-includes/class-wp-editor.php:1181
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: wp-includes/class-wp-editor.php:1182
 #: wp-includes/class-wp-editor.php:1933
 #: wp-includes/media.php:4580
 #: wp-includes/script-loader.php:1101
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: wp-includes/class-wp-editor.php:1184
 msgid "Visual aids"
-msgstr ""
+msgstr "可视辅助工具"
 
 #: wp-includes/class-wp-editor.php:1186
 #: wp-includes/script-loader.php:583
 msgid "Bulleted list"
-msgstr ""
+msgstr "无序列表"
 
 #: wp-includes/class-wp-editor.php:1187
 #: wp-includes/script-loader.php:585
 msgid "Numbered list"
-msgstr ""
+msgstr "有序列表"
 
 #: wp-includes/class-wp-editor.php:1188
 msgctxt "list style"
 msgid "Square"
-msgstr ""
+msgstr "方形"
 
 #: wp-includes/class-wp-editor.php:1189
 msgctxt "list style"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: wp-includes/class-wp-editor.php:1190
 msgctxt "list style"
 msgid "Circle"
-msgstr ""
+msgstr "圆形"
 
 #: wp-includes/class-wp-editor.php:1191
 msgctxt "list style"
 msgid "Disc"
-msgstr ""
+msgstr "盘片形"
 
 #: wp-includes/class-wp-editor.php:1192
 msgctxt "list style"
 msgid "Lower Greek"
-msgstr ""
+msgstr "小写希腊字母"
 
 #: wp-includes/class-wp-editor.php:1193
 msgctxt "list style"
 msgid "Lower Alpha"
-msgstr ""
+msgstr "小写字母"
 
 #: wp-includes/class-wp-editor.php:1194
 msgctxt "list style"
 msgid "Upper Alpha"
-msgstr ""
+msgstr "大写字母"
 
 #: wp-includes/class-wp-editor.php:1195
 msgctxt "list style"
 msgid "Upper Roman"
-msgstr ""
+msgstr "大写罗马字母"
 
 #: wp-includes/class-wp-editor.php:1196
 msgctxt "list style"
 msgid "Lower Roman"
-msgstr ""
+msgstr "小写罗马字母"
 
 #: wp-includes/class-wp-editor.php:1199
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: wp-includes/class-wp-editor.php:1200
 msgctxt "Link anchor (TinyMCE)"
 msgid "Anchor"
-msgstr ""
+msgstr "锚点"
 
 #: wp-includes/class-wp-editor.php:1201
 msgctxt "Link anchors (TinyMCE)"
 msgid "Anchors"
-msgstr ""
+msgstr "锚点"
 
 #: wp-includes/class-wp-editor.php:1203
 msgid "Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores."
-msgstr ""
+msgstr "ID应该以字母开头，之后只有字母、 数字、 破折号、 点、 冒号或下划线。"
 
 #: wp-includes/class-wp-editor.php:1204
 msgctxt "Id for link anchor (TinyMCE)"
 msgid "Id"
-msgstr ""
+msgstr "ID"
 
 #: wp-includes/class-wp-editor.php:1207
 msgid "Document properties"
-msgstr ""
+msgstr "文档属性"
 
 #: wp-includes/class-wp-editor.php:1208
 msgid "Robots"
-msgstr ""
+msgstr "爬虫"
 
 #: wp-includes/class-wp-editor.php:1209
 #: wp-includes/media-template.php:511
 #: wp-includes/media-template.php:756
 #: wp-includes/revision.php:32
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: wp-includes/class-wp-editor.php:1210
 msgid "Keywords"
-msgstr ""
+msgstr "关键词"
 
 #: wp-includes/class-wp-editor.php:1211
 msgid "Encoding"
-msgstr ""
+msgstr "编码"
 
 #: wp-includes/class-wp-editor.php:1212
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:125
 #: wp-includes/media-template.php:533
 #: wp-includes/media-template.php:778
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: wp-includes/class-wp-editor.php:1213
 #: wp-includes/theme-compat/sidebar.php:29
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: wp-includes/class-wp-editor.php:1216
 #: wp-includes/script-loader.php:770
 #: wp-includes/widgets/class-wp-widget-media-image.php:28
 msgid "Image"
-msgstr ""
+msgstr "图像"
 
 #: wp-includes/class-wp-editor.php:1217
 msgid "Insert/edit image"
-msgstr ""
+msgstr "插入/编辑图像"
 
 #: wp-includes/class-wp-editor.php:1218
 msgid "General"
-msgstr ""
+msgstr "通用"
 
 #: wp-includes/class-wp-editor.php:1219
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 #: wp-includes/class-wp-editor.php:1220
 msgid "Source"
-msgstr ""
+msgstr "源文件"
 
 #: wp-includes/class-wp-editor.php:1221
 msgid "Border"
-msgstr ""
+msgstr "边框"
 
 #: wp-includes/class-wp-editor.php:1222
 msgid "Constrain proportions"
-msgstr ""
+msgstr "约束比例"
 
 #: wp-includes/class-wp-editor.php:1223
 msgid "Vertical space"
-msgstr ""
+msgstr "垂直间距"
 
 #: wp-includes/class-wp-editor.php:1224
 msgid "Image description"
-msgstr ""
+msgstr "图像描述"
 
 #: wp-includes/class-wp-editor.php:1225
 msgid "Style"
-msgstr ""
+msgstr "风格"
 
 #: wp-includes/class-wp-editor.php:1226
 msgid "Dimensions"
-msgstr ""
+msgstr "尺寸"
 
 #: wp-includes/class-wp-editor.php:1227
 #: wp-includes/script-loader.php:582
 msgid "Insert image"
-msgstr ""
+msgstr "插入图像"
 
 #: wp-includes/class-wp-editor.php:1228
 msgid "Date/time"
-msgstr ""
+msgstr "日期和时间"
 
 #: wp-includes/class-wp-editor.php:1229
 msgid "Insert date/time"
-msgstr ""
+msgstr "插入日期和时间"
 
 #: wp-includes/class-wp-editor.php:1230
 msgid "Table of Contents"
-msgstr ""
+msgstr "目录"
 
 #: wp-includes/class-wp-editor.php:1231
 msgid "Insert/edit code sample"
-msgstr ""
+msgstr "插入/编辑代码示例"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-editor.php:1232
 #: wp-login.php:301
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: wp-includes/class-wp-editor.php:1233
 #: wp-includes/media.php:4575
 #: wp-includes/media.php:5141
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: wp-includes/class-wp-editor.php:1234
 msgid "Insert/edit media"
-msgstr ""
+msgstr "插入/编辑媒体"
 
 #: wp-includes/class-wp-editor.php:1235
 msgid "Poster"
-msgstr ""
+msgstr "海报"
 
 #: wp-includes/class-wp-editor.php:1236
 msgid "Alternative source"
-msgstr ""
+msgstr "备选源"
 
 #: wp-includes/class-wp-editor.php:1237
 msgid "Paste your embed code below:"
-msgstr ""
+msgstr "将您要嵌入的代码粘贴在下面："
 
 #: wp-includes/class-wp-editor.php:1238
 msgid "Insert video"
-msgstr ""
+msgstr "插入视频"
 
 #: wp-includes/class-wp-editor.php:1239
 msgid "Embed"
-msgstr ""
+msgstr "嵌入内容"
 
 #: wp-includes/class-wp-editor.php:1242
 msgid "Special character"
-msgstr ""
+msgstr "特殊字符"
 
 #: wp-includes/class-wp-editor.php:1243
 msgctxt "editor button"
 msgid "Right to left"
-msgstr ""
+msgstr "从右到左"
 
 #: wp-includes/class-wp-editor.php:1244
 msgctxt "editor button"
 msgid "Left to right"
-msgstr ""
+msgstr "从左到右"
 
 #: wp-includes/class-wp-editor.php:1245
 msgid "Emoticons"
-msgstr ""
+msgstr "表情符号"
 
 #: wp-includes/class-wp-editor.php:1246
 msgid "Nonbreaking space"
-msgstr ""
+msgstr "无间断空格"
 
 #: wp-includes/class-wp-editor.php:1247
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:124
 msgid "Page break"
-msgstr ""
+msgstr "分页符"
 
 #: wp-includes/class-wp-editor.php:1248
 msgid "Paste as text"
-msgstr ""
+msgstr "粘贴为文本内容"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Print"
-msgstr ""
+msgstr "打印"
 
 #: wp-includes/class-wp-editor.php:1251
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: wp-includes/class-wp-editor.php:1252
 #: wp-includes/script-loader.php:866
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏显示"
 
 #: wp-includes/class-wp-editor.php:1253
 msgid "Horizontal line"
-msgstr ""
+msgstr "水平线"
 
 #: wp-includes/class-wp-editor.php:1254
 msgid "Horizontal space"
-msgstr ""
+msgstr "水平空格"
 
 #: wp-includes/class-wp-editor.php:1255
 msgid "Restore last draft"
-msgstr ""
+msgstr "恢复上次草稿"
 
 #: wp-includes/class-wp-editor.php:1256
 #: wp-includes/class-wp-editor.php:1262
 #: wp-includes/class-wp-editor.php:1876
 #: wp-includes/script-loader.php:1054
 msgid "Insert/edit link"
-msgstr ""
+msgstr "插入/编辑链接"
 
 #: wp-includes/class-wp-editor.php:1257
 msgid "Remove link"
-msgstr ""
+msgstr "移除链接"
 
 #: wp-includes/class-wp-editor.php:1260
 msgid "Link"
-msgstr ""
+msgstr "链接"
 
 #: wp-includes/class-wp-editor.php:1261
 #: wp-includes/script-loader.php:575
 msgid "Insert link"
-msgstr ""
+msgstr "插入链接"
 
 #: wp-includes/class-wp-editor.php:1263
 msgid "Target"
-msgstr ""
+msgstr "目标"
 
 #: wp-includes/class-wp-editor.php:1264
 msgid "New window"
-msgstr ""
+msgstr "新建窗口"
 
 #: wp-includes/class-wp-editor.php:1265
 msgid "Text to display"
-msgstr ""
+msgstr "显示文本"
 
 #: wp-includes/class-wp-editor.php:1268
 msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
-msgstr ""
+msgstr "您输入的 URL 似乎是一个电子邮件地址。您想要添加所需的 mailto: 前缀吗？"
 
 #: wp-includes/class-wp-editor.php:1270
 msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
-msgstr ""
+msgstr "您输入的 URL 似乎是一个外部链接。您想要添加所需的 http:// 前缀吗？"
 
 #: wp-includes/class-wp-editor.php:1272
 msgid "Color"
-msgstr ""
+msgstr "颜色"
 
 #: wp-includes/class-wp-editor.php:1273
 msgid "Custom color"
-msgstr ""
+msgstr "自定义颜色"
 
 #: wp-includes/class-wp-editor.php:1274
 msgctxt "label for custom color"
 msgid "Custom..."
-msgstr ""
+msgstr "自定义..."
 
 #: wp-includes/class-wp-editor.php:1275
 msgid "No color"
-msgstr ""
+msgstr "无颜色"
 
 #: wp-includes/class-wp-editor.php:1276
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1277
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1278
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1281
 msgid "Could not find the specified string."
-msgstr ""
+msgstr "找不到指定的字符串。"
 
 #: wp-includes/class-wp-editor.php:1282
 msgctxt "find/replace"
 msgid "Replace"
-msgstr ""
+msgstr "替换"
 
 #: wp-includes/class-wp-editor.php:1283
 msgctxt "find/replace"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #. translators: Previous.
 #: wp-includes/class-wp-editor.php:1285
 msgctxt "find/replace"
 msgid "Prev"
-msgstr ""
+msgstr "上一个"
 
 #: wp-includes/class-wp-editor.php:1286
 msgctxt "find/replace"
 msgid "Whole words"
-msgstr ""
+msgstr "完整单词"
 
 #: wp-includes/class-wp-editor.php:1287
 msgid "Find and replace"
-msgstr ""
+msgstr "查找和替换"
 
 #: wp-includes/class-wp-editor.php:1288
 msgctxt "find/replace"
 msgid "Replace with"
-msgstr ""
+msgstr "代之以"
 
 #: wp-includes/class-wp-editor.php:1289
 msgctxt "find/replace"
 msgid "Find"
-msgstr ""
+msgstr "查找"
 
 #: wp-includes/class-wp-editor.php:1290
 msgctxt "find/replace"
 msgid "Replace all"
-msgstr ""
+msgstr "全部替换"
 
 #: wp-includes/class-wp-editor.php:1291
 msgid "Match case"
-msgstr ""
+msgstr "匹配大小写"
 
 #: wp-includes/class-wp-editor.php:1292
 msgid "Check Spelling"
-msgstr ""
+msgstr "校验拼写"
 
 #: wp-includes/class-wp-editor.php:1293
 msgctxt "spellcheck"
 msgid "Finish"
-msgstr ""
+msgstr "完成"
 
 #: wp-includes/class-wp-editor.php:1294
 msgctxt "spellcheck"
 msgid "Ignore all"
-msgstr ""
+msgstr "忽略全部"
 
 #: wp-includes/class-wp-editor.php:1295
 msgctxt "spellcheck"
 msgid "Ignore"
-msgstr ""
+msgstr "忽略"
 
 #: wp-includes/class-wp-editor.php:1296
 msgid "Add to Dictionary"
-msgstr ""
+msgstr "添加到字典"
 
 #: wp-includes/class-wp-editor.php:1299
 msgid "Insert table"
-msgstr ""
+msgstr "插入表格"
 
 #: wp-includes/class-wp-editor.php:1300
 msgid "Delete table"
-msgstr ""
+msgstr "删除表"
 
 #: wp-includes/class-wp-editor.php:1301
 msgid "Table properties"
-msgstr ""
+msgstr "表属性"
 
 #: wp-includes/class-wp-editor.php:1302
 msgid "Table row properties"
-msgstr ""
+msgstr "行属性"
 
 #: wp-includes/class-wp-editor.php:1303
 msgid "Table cell properties"
-msgstr ""
+msgstr "单元格属性"
 
 #: wp-includes/class-wp-editor.php:1304
 msgid "Border color"
-msgstr ""
+msgstr "边框颜色"
 
 #: wp-includes/class-wp-editor.php:1306
 msgid "Row"
-msgstr ""
+msgstr "行"
 
 #: wp-includes/class-wp-editor.php:1307
 msgid "Rows"
-msgstr ""
+msgstr "行"
 
 #: wp-includes/class-wp-editor.php:1308
 msgid "Column"
-msgstr ""
+msgstr "列"
 
 #: wp-includes/class-wp-editor.php:1309
 #: wp-includes/media-template.php:946
 msgid "Columns"
-msgstr ""
+msgstr "列"
 
 #: wp-includes/class-wp-editor.php:1310
 msgctxt "table cell"
 msgid "Cell"
-msgstr ""
+msgstr "单元格"
 
 #: wp-includes/class-wp-editor.php:1311
 msgid "Header cell"
-msgstr ""
+msgstr "顶部单元格"
 
 #: wp-includes/class-wp-editor.php:1312
 msgctxt "table header"
 msgid "Header"
-msgstr ""
+msgstr "标题"
 
 #: wp-includes/class-wp-editor.php:1313
 msgctxt "table body"
 msgid "Body"
-msgstr ""
+msgstr "正文"
 
 #: wp-includes/class-wp-editor.php:1314
 msgctxt "table footer"
 msgid "Footer"
-msgstr ""
+msgstr "页脚"
 
 #: wp-includes/class-wp-editor.php:1316
 msgid "Insert row before"
-msgstr ""
+msgstr "在该行之前插入"
 
 #: wp-includes/class-wp-editor.php:1317
 msgid "Insert row after"
-msgstr ""
+msgstr "在该行之后插入"
 
 #: wp-includes/class-wp-editor.php:1318
 msgid "Insert column before"
-msgstr ""
+msgstr "在该列之前插入"
 
 #: wp-includes/class-wp-editor.php:1319
 msgid "Insert column after"
-msgstr ""
+msgstr "在该列之后插入"
 
 #: wp-includes/class-wp-editor.php:1320
 msgid "Paste table row before"
-msgstr ""
+msgstr "在行前粘贴"
 
 #: wp-includes/class-wp-editor.php:1321
 msgid "Paste table row after"
-msgstr ""
+msgstr "在行后粘贴"
 
 #: wp-includes/class-wp-editor.php:1322
 msgid "Delete row"
-msgstr ""
+msgstr "删除行"
 
 #: wp-includes/class-wp-editor.php:1323
 msgid "Delete column"
-msgstr ""
+msgstr "删除列"
 
 #: wp-includes/class-wp-editor.php:1324
 msgid "Cut table row"
-msgstr ""
+msgstr "剪切行"
 
 #: wp-includes/class-wp-editor.php:1325
 msgid "Copy table row"
-msgstr ""
+msgstr "剪切列"
 
 #: wp-includes/class-wp-editor.php:1326
 msgid "Merge table cells"
-msgstr ""
+msgstr "合并单元格"
 
 #: wp-includes/class-wp-editor.php:1327
 msgid "Split table cell"
-msgstr ""
+msgstr "拆分单元格"
 
 #: wp-includes/class-wp-editor.php:1329
 #: wp-includes/media-template.php:1198
 #: wp-includes/widgets/class-wp-widget-media-image.php:84
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: wp-includes/class-wp-editor.php:1330
 #: wp-includes/media-template.php:1193
 #: wp-includes/widgets/class-wp-widget-media-image.php:78
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: wp-includes/class-wp-editor.php:1331
 #: wp-includes/media-template.php:529
@@ -2495,17 +2495,17 @@ msgstr ""
 #: wp-includes/media-template.php:1128
 #: wp-includes/widgets/class-wp-widget-media-image.php:91
 msgid "Caption"
-msgstr ""
+msgstr "标题"
 
 #: wp-includes/class-wp-editor.php:1332
 #: wp-includes/media-template.php:811
 msgid "Alignment"
-msgstr ""
+msgstr "对齐方式"
 
 #: wp-includes/class-wp-editor.php:1333
 msgctxt "horizontal table cell alignment"
 msgid "H Align"
-msgstr ""
+msgstr "横向对齐方式"
 
 #: wp-includes/class-wp-editor.php:1334
 #: wp-includes/customize/class-wp-customize-background-position-control.php:57
@@ -2513,7 +2513,7 @@ msgstr ""
 #: wp-includes/media-template.php:1075
 #: wp-includes/media-template.php:1139
 msgid "Left"
-msgstr ""
+msgstr "靠左对齐"
 
 #: wp-includes/class-wp-editor.php:1335
 #: wp-includes/customize/class-wp-customize-background-position-control.php:61
@@ -2521,7 +2521,7 @@ msgstr ""
 #: wp-includes/media-template.php:1078
 #: wp-includes/media-template.php:1142
 msgid "Center"
-msgstr ""
+msgstr "中心对齐"
 
 #: wp-includes/class-wp-editor.php:1336
 #: wp-includes/customize/class-wp-customize-background-position-control.php:65
@@ -2529,399 +2529,399 @@ msgstr ""
 #: wp-includes/media-template.php:1081
 #: wp-includes/media-template.php:1145
 msgid "Right"
-msgstr ""
+msgstr "靠右对齐"
 
 #: wp-includes/class-wp-editor.php:1337
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: wp-includes/class-wp-editor.php:1338
 msgctxt "vertical table cell alignment"
 msgid "V Align"
-msgstr ""
+msgstr "纵向对齐方式"
 
 #: wp-includes/class-wp-editor.php:1339
 #: wp-includes/customize/class-wp-customize-background-position-control.php:47
 msgid "Top"
-msgstr ""
+msgstr "顶端对齐"
 
 #: wp-includes/class-wp-editor.php:1340
 msgid "Middle"
-msgstr ""
+msgstr "居中对齐"
 
 #: wp-includes/class-wp-editor.php:1341
 #: wp-includes/customize/class-wp-customize-background-position-control.php:75
 msgid "Bottom"
-msgstr ""
+msgstr "底端对齐"
 
 #: wp-includes/class-wp-editor.php:1343
 msgid "Row group"
-msgstr ""
+msgstr "行组"
 
 #: wp-includes/class-wp-editor.php:1344
 msgid "Column group"
-msgstr ""
+msgstr "列组"
 
 #: wp-includes/class-wp-editor.php:1345
 msgid "Row type"
-msgstr ""
+msgstr "行类型"
 
 #: wp-includes/class-wp-editor.php:1346
 msgid "Cell type"
-msgstr ""
+msgstr "单元格类型"
 
 #: wp-includes/class-wp-editor.php:1347
 msgid "Cell padding"
-msgstr ""
+msgstr "单元格内边距"
 
 #: wp-includes/class-wp-editor.php:1348
 msgid "Cell spacing"
-msgstr ""
+msgstr "单元格间距"
 
 #: wp-includes/class-wp-editor.php:1349
 msgctxt "table cell scope attribute"
 msgid "Scope"
-msgstr ""
+msgstr "范围"
 
 #: wp-includes/class-wp-editor.php:1351
 msgctxt "TinyMCE"
 msgid "Insert template"
-msgstr ""
+msgstr "插入模板"
 
 #: wp-includes/class-wp-editor.php:1352
 msgctxt "TinyMCE"
 msgid "Templates"
-msgstr ""
+msgstr "模板"
 
 #: wp-includes/class-wp-editor.php:1354
 msgid "Background color"
-msgstr ""
+msgstr "背景颜色"
 
 #: wp-includes/class-wp-editor.php:1355
 msgid "Text color"
-msgstr ""
+msgstr "文本颜色"
 
 #: wp-includes/class-wp-editor.php:1356
 msgctxt "editor button"
 msgid "Show blocks"
-msgstr ""
+msgstr "显示区块"
 
 #: wp-includes/class-wp-editor.php:1357
 msgid "Show invisible characters"
-msgstr ""
+msgstr "显示不可见字符"
 
 #. translators: Word count.
 #: wp-includes/class-wp-editor.php:1360
 msgid "Words: %s"
-msgstr ""
+msgstr "字符统计：%s"
 
 #: wp-includes/class-wp-editor.php:1362
 msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
-msgstr ""
+msgstr "现处于纯文本粘贴模式。内容将会被粘贴为纯文本，直到您关闭该选项。"
 
 #: wp-includes/class-wp-editor.php:1363
 msgid "If you are looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
-msgstr ""
+msgstr "如果您想要从Microsoft Word中粘贴富内容，请尝试关闭此选项。 编辑器将自动清理从 Word 粘贴的文本。"
 
 #: wp-includes/class-wp-editor.php:1365
 msgid "Rich Text Area. Press Alt-Shift-H for help."
-msgstr ""
+msgstr "富文本区域。 按 Alt + Shift + H 以显示帮助。"
 
 #: wp-includes/class-wp-editor.php:1366
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:678
 msgid "Rich Text Area. Press Control-Option-H for help."
-msgstr ""
+msgstr "富文本区域。 按 Control + Option + H 以显示帮助。"
 
 #: wp-includes/class-wp-editor.php:1368
 #: wp-includes/script-loader.php:1099
 #: wp-includes/theme.php:3602
 msgid "The changes you made will be lost if you navigate away from this page."
-msgstr ""
+msgstr "如果您离开这个页面，您所做的更改将会丢失。"
 
 #: wp-includes/class-wp-editor.php:1370
 msgid "Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser&#8217;s edit menu instead."
-msgstr ""
+msgstr "您的浏览器不支持直接访问剪贴板。请使用键盘快捷键或您的浏览器的编辑菜单。"
 
 #: wp-includes/class-wp-editor.php:1373
 msgctxt "TinyMCE menu"
 msgid "Insert"
-msgstr ""
+msgstr "插入"
 
 #: wp-includes/class-wp-editor.php:1374
 msgctxt "TinyMCE menu"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: wp-includes/class-wp-editor.php:1375
 msgctxt "TinyMCE menu"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-includes/class-wp-editor.php:1376
 msgctxt "TinyMCE menu"
 msgid "Tools"
-msgstr ""
+msgstr "工具"
 
 #: wp-includes/class-wp-editor.php:1377
 msgctxt "TinyMCE menu"
 msgid "View"
-msgstr ""
+msgstr "视图"
 
 #: wp-includes/class-wp-editor.php:1378
 msgctxt "TinyMCE menu"
 msgid "Table"
-msgstr ""
+msgstr "表格"
 
 #: wp-includes/class-wp-editor.php:1379
 msgctxt "TinyMCE menu"
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 #: wp-includes/class-wp-editor.php:1382
 msgid "Toolbar Toggle"
-msgstr ""
+msgstr "工具栏开关"
 
 #: wp-includes/class-wp-editor.php:1383
 #: wp-includes/script-loader.php:591
 msgid "Insert Read More tag"
-msgstr ""
+msgstr "插入阅读更多标签"
 
 #: wp-includes/class-wp-editor.php:1384
 msgid "Insert Page Break tag"
-msgstr ""
+msgstr "插入页面分隔标签"
 
 #: wp-includes/class-wp-editor.php:1385
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:115
 msgid "Read more..."
-msgstr ""
+msgstr "阅读更多..."
 
 #: wp-includes/class-wp-editor.php:1386
 #: wp-includes/script-loader.php:570
 msgid "Distraction-free writing mode"
-msgstr ""
+msgstr "专注写作模式"
 
 #: wp-includes/class-wp-editor.php:1387
 msgid "No alignment"
-msgstr ""
+msgstr "无对齐"
 
 #: wp-includes/class-wp-editor.php:1390
 msgid "Paste URL or type to search"
-msgstr ""
+msgstr "粘贴URL或输入以搜索"
 
 #: wp-includes/class-wp-editor.php:1392
 msgid "Link options"
-msgstr ""
+msgstr "链接选项"
 
 #: wp-includes/class-wp-editor.php:1395
 msgid "Add Media"
-msgstr ""
+msgstr "添加媒体"
 
 #: wp-includes/class-wp-editor.php:1398
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "键盘快捷键"
 
 #: wp-includes/class-wp-editor.php:1399
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:335
 msgid "Default shortcuts,"
-msgstr ""
+msgstr "默认快捷键，"
 
 #: wp-includes/class-wp-editor.php:1400
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:340
 msgid "Additional shortcuts,"
-msgstr ""
+msgstr "额外快捷键，"
 
 #: wp-includes/class-wp-editor.php:1401
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:370
 msgid "Focus shortcuts:"
-msgstr ""
+msgstr "焦点快捷键："
 
 #: wp-includes/class-wp-editor.php:1402
 msgid "Inline toolbar (when an image, link or preview is selected)"
-msgstr ""
+msgstr "内嵌工具栏 (当选择图像、链接或预览时)"
 
 #: wp-includes/class-wp-editor.php:1403
 msgid "Editor menu (when enabled)"
-msgstr ""
+msgstr "编辑器菜单 (启用时)"
 
 #: wp-includes/class-wp-editor.php:1404
 msgid "Editor toolbar"
-msgstr ""
+msgstr "编辑器工具栏"
 
 #: wp-includes/class-wp-editor.php:1405
 msgid "Elements path"
-msgstr ""
+msgstr "元素路径"
 
 #: wp-includes/class-wp-editor.php:1406
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
 msgid "Ctrl + Alt + letter:"
-msgstr ""
+msgstr "Ctrl + Alt + 字母："
 
 #: wp-includes/class-wp-editor.php:1407
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
 msgid "Shift + Alt + letter:"
-msgstr ""
+msgstr "Shift + Alt + 字母："
 
 #: wp-includes/class-wp-editor.php:1408
 msgid "Cmd + letter:"
-msgstr ""
+msgstr "Cmd + 字母："
 
 #: wp-includes/class-wp-editor.php:1409
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "Ctrl + letter:"
-msgstr ""
+msgstr "Ctrl + 字母："
 
 #: wp-includes/class-wp-editor.php:1410
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Letter"
-msgstr ""
+msgstr "字母"
 
 #: wp-includes/class-wp-editor.php:1411
 #: wp-includes/script-loader.php:1103
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Action"
-msgstr ""
+msgstr "操作"
 
 #: wp-includes/class-wp-editor.php:1412
 msgid "Warning: the link has been inserted but may have errors. Please test it."
-msgstr ""
+msgstr "警告：链接已被插入，但可能有错误。请测试它。"
 
 #: wp-includes/class-wp-editor.php:1414
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:377
 msgid "To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons."
-msgstr ""
+msgstr "要将焦点移动到其他按钮，请使用 Tab 或箭头键。 若要重新聚焦到编辑器，请按 Escape 或使用其中一个按钮。"
 
 #: wp-includes/class-wp-editor.php:1416
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:349
 msgid "When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo."
-msgstr ""
+msgstr "当用这些格式化快捷键之一开始一个后面有一个空格的新段落时，格式化将自动应用。 按退格或 Escape 即可撤销。"
 
 #: wp-includes/class-wp-editor.php:1418
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:356
 msgid "The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo."
-msgstr ""
+msgstr "当按下 Enter 时，以下格式的快捷方式将被替换。按 Escape 或撤销按钮可以撤消。"
 
 #: wp-includes/class-wp-editor.php:1420
 msgid "The next group of formatting shortcuts are applied as you type or when you insert them around plain text in the same paragraph. Press Escape or the Undo button to undo."
-msgstr ""
+msgstr "下一组格式化快捷方式将在您键入时或在同一段的纯文本周围插入时应用。 按下 Escape 或撤销按钮以撤消。"
 
 #: wp-includes/class-wp-editor.php:1817
 msgid "Y/m/d"
-msgstr ""
+msgstr "年/月/日"
 
 #: wp-includes/class-wp-editor.php:1885
 msgid "Enter the destination URL"
-msgstr ""
+msgstr "输入目标 URL"
 
 #: wp-includes/class-wp-editor.php:1896
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:102
 #: wp-includes/media-template.php:1249
 #: wp-includes/widgets/class-wp-widget-media-image.php:144
 msgid "Open link in a new tab"
-msgstr ""
+msgstr "在新标签中打开链接"
 
 #: wp-includes/class-wp-editor.php:1899
 msgid "Or link to existing content"
-msgstr ""
+msgstr "或链接到现有内容"
 
 #: wp-includes/class-wp-editor.php:1916
 msgid "No search term specified. Showing recent items."
-msgstr ""
+msgstr "未指定搜索词。显示最近项目。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-editor.php:1920
 msgid "Search or use up and down arrow keys to select an item."
-msgstr ""
+msgstr "搜索或使用上下箭头键以选择一个项目。"
 
 #: wp-includes/class-wp-editor.php:1936
 #: wp-includes/script-loader.php:1056
 msgid "Add Link"
-msgstr ""
+msgstr "添加链接"
 
 #: wp-includes/class-wp-fatal-error-handler.php:186
 msgid "There has been a critical error on this website, putting it in recovery mode. Please check the Themes and Plugins screens for more details. If you just installed or updated a theme or plugin, check the relevant page for that first."
-msgstr ""
+msgstr "此站点遇到了致命错误，正在启动恢复模式。请检查您的主题和插件以获取更多信息。如果您新近安装或升级了一个主题或插件，请先检查它。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:189
 msgid "There has been a critical error on this website. Please reach out to your site administrator, and inform them of this error for further assistance."
-msgstr ""
+msgstr "此站点遇到了致命错误。请联系您的站点管理员，并向他们提供此错误信息以获取协助。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:191
 msgid "There has been a critical error on this website. Please check your site admin email inbox for instructions."
-msgstr ""
+msgstr "此站点遇到了致命错误。请检查您的管理员电子邮件地址来获取帮助。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:194
 msgid "There has been a critical error on this website."
-msgstr ""
+msgstr "此站点遇到了致命错误。"
 
 #. translators: Documentation about troubleshooting.
 #: wp-includes/class-wp-fatal-error-handler.php:201
 msgid "https://wordpress.org/documentation/article/faq-troubleshooting/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr ""
+msgstr "了解更多有关对ClassicPress进行故障排除的信息。"
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
-msgstr ""
+msgstr "加载此文件只是为了向前兼容 SimplePie 1.2.x 版本。请考虑切换到一个较新的 SimplePie 版本。"
 
 #. translators: 1: fopen(), 2: File name.
 #: wp-includes/class-wp-http-curl.php:194
 #: wp-includes/class-wp-http-streams.php:290
 msgid "Could not open handle for %1$s to %2$s."
-msgstr ""
+msgstr "无法打开为了 %2$s 的句柄 %1$s。"
 
 #: wp-includes/class-wp-http-curl.php:244
 #: wp-includes/class-wp-http-curl.php:293
 #: wp-includes/class-wp-http.php:1071
 msgid "Too many redirects."
-msgstr ""
+msgstr "重定向次数过多。"
 
 #: wp-includes/class-wp-http-curl.php:278
 #: wp-includes/class-wp-http-streams.php:326
 msgid "Failed to write request to temporary file."
-msgstr ""
+msgstr "无法将请求写入临时文件。"
 
 #: wp-includes/class-wp-http-streams.php:195
 #: wp-includes/class-wp-http-streams.php:204
 msgid "The SSL certificate for the host could not be verified."
-msgstr ""
+msgstr "无法验证主机的 SSL 证书。"
 
 #: wp-includes/class-wp-http.php:300
 #: wp-includes/class-wp-http.php:535
 #: wp-includes/class-wp-xmlrpc-server.php:6858
 msgid "A valid URL was not provided."
-msgstr ""
+msgstr "未提供有效的 URL。"
 
 #: wp-includes/class-wp-http.php:307
 msgid "User has blocked requests through HTTP."
-msgstr ""
+msgstr "用户已阻止了HTTP请求。"
 
 #: wp-includes/class-wp-http.php:324
 msgid "Destination directory for file streaming does not exist or is not writable."
-msgstr ""
+msgstr "流媒体文件的目标目录不存在或不可写。"
 
 #: wp-includes/class-wp-http.php:604
 msgid "There are no HTTP transports available which can complete the requested request."
-msgstr ""
+msgstr "没有可用的 HTTP 传输可以完成指定的请求。"
 
 #: wp-includes/class-wp-image-editor-gd.php:92
 #: wp-includes/class-wp-image-editor-gd.php:101
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "文件不存在？"
 
 #: wp-includes/class-wp-image-editor-gd.php:115
 #: wp-includes/class-wp-image-editor-imagick.php:161
 msgid "File is not an image."
-msgstr ""
+msgstr "文件不是一个图像。"
 
 #: wp-includes/class-wp-image-editor-gd.php:121
 #: wp-includes/class-wp-image-editor-imagick.php:241
 msgid "Could not read image size."
-msgstr ""
+msgstr "无法读取图像尺寸。"
 
 #: wp-includes/class-wp-image-editor-gd.php:187
 #: wp-includes/class-wp-image-editor-gd.php:213
@@ -3188,161 +3188,161 @@ msgstr ""
 #: wp-includes/class-wp-locale.php:192
 msgctxt "genitive"
 msgid "April"
-msgstr ""
+msgstr "四月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:193
 msgctxt "genitive"
 msgid "May"
-msgstr ""
+msgstr "五月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:194
 msgctxt "genitive"
 msgid "June"
-msgstr ""
+msgstr "六月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:195
 msgctxt "genitive"
 msgid "July"
-msgstr ""
+msgstr "七月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:196
 msgctxt "genitive"
 msgid "August"
-msgstr ""
+msgstr "八月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:197
 msgctxt "genitive"
 msgid "September"
-msgstr ""
+msgstr "九月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:198
 msgctxt "genitive"
 msgid "October"
-msgstr ""
+msgstr "十月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:199
 msgctxt "genitive"
 msgid "November"
-msgstr ""
+msgstr "十一月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:200
 msgctxt "genitive"
 msgid "December"
-msgstr ""
+msgstr "十二月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:203
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "一月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:204
 msgctxt "February abbreviation"
 msgid "Feb"
-msgstr ""
+msgstr "二月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:205
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr ""
+msgstr "三月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:206
 msgctxt "April abbreviation"
 msgid "Apr"
-msgstr ""
+msgstr "四月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:207
 msgctxt "May abbreviation"
 msgid "May"
-msgstr ""
+msgstr "五月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:208
 msgctxt "June abbreviation"
 msgid "Jun"
-msgstr ""
+msgstr "六月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:209
 msgctxt "July abbreviation"
 msgid "Jul"
-msgstr ""
+msgstr "七月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:210
 msgctxt "August abbreviation"
 msgid "Aug"
-msgstr ""
+msgstr "八月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:211
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "九月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:212
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr ""
+msgstr "十月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:213
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "十一月"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:214
 msgctxt "December abbreviation"
 msgid "Dec"
-msgstr ""
+msgstr "十二月"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
-msgstr ""
+msgstr "上午"
 
 #: wp-includes/class-wp-locale.php:218
 msgid "pm"
-msgstr ""
+msgstr "下午"
 
 #: wp-includes/class-wp-locale.php:219
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "上午"
 
 #: wp-includes/class-wp-locale.php:220
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
 msgid "PM"
-msgstr ""
+msgstr "下午"
 
 #. translators: $thousands_sep argument for https://www.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:226
 msgid "number_format_thousands_sep"
-msgstr ""
+msgstr "number_format_thousands_sep"
 
 #. translators: $dec_point argument for https://www.php.net/number_format, default is '.'
 #: wp-includes/class-wp-locale.php:234
 msgid "number_format_decimal_point"
-msgstr ""
+msgstr "number_format_decimal_point"
 
 #. translators: Used between list items, there is a space after the comma.
 #: wp-includes/class-wp-locale.php:239
 #: wp-includes/l10n.php:1813
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
@@ -3352,109 +3352,109 @@ msgstr ""
 #: wp-includes/js/dist/i18n.js:1941
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:395
 #: wp-includes/media.php:4150
 #: wp-includes/script-loader.php:161
 msgid "F j, Y"
-msgstr ""
+msgstr "Y F j"
 
 #. translators: Localized time format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:397
 #: wp-includes/script-loader.php:158
 msgid "g:i a"
-msgstr ""
+msgstr "a g:i"
 
 #. translators: Localized date and time format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:399
 #: wp-includes/script-loader.php:162
 msgid "F j, Y g:i a"
-msgstr ""
+msgstr "Y F j a g:i"
 
 #. translators: If your word count is based on single characters (e.g. East Asian characters), enter 'characters_excluding_spaces' or 'characters_including_spaces'. Otherwise, enter 'words'. Do not translate into your own language.
 #: wp-includes/class-wp-locale.php:428
 msgctxt "Word count type. Do not translate!"
 msgid "words"
-msgstr ""
+msgstr "characters_excluding_spaces"
 
 #: wp-includes/class-wp-metadata-lazyloader.php:82
 #: wp-includes/class-wp-metadata-lazyloader.php:122
 msgid "Invalid object type."
-msgstr ""
+msgstr "对象类型无效。"
 
 #: wp-includes/class-wp-object-cache.php:157
 msgid "Cache key must not be an empty string."
-msgstr ""
+msgstr "缓存键不能为空字符串。"
 
 #. translators: %s: The type of the given cache key.
 #: wp-includes/class-wp-object-cache.php:159
 msgid "Cache key must be integer or non-empty string, %s given."
-msgstr ""
+msgstr "缓存键必须为整数或非空字符串， 但提供的是 %s。"
 
 #: wp-includes/class-wp-oembed-controller.php:45
 #: wp-includes/class-wp-oembed-controller.php:73
 msgid "The URL of the resource for which to fetch oEmbed data."
-msgstr ""
+msgstr "要用于获取 oEmbed 数据资源的 URL。"
 
 #: wp-includes/class-wp-oembed-controller.php:79
 msgid "The oEmbed format to use."
-msgstr ""
+msgstr "要使用的 oEmbed 格式。"
 
 #: wp-includes/class-wp-oembed-controller.php:88
 msgid "The maximum width of the embed frame in pixels."
-msgstr ""
+msgstr "嵌入框架的最大宽度（像素）。"
 
 #: wp-includes/class-wp-oembed-controller.php:94
 msgid "The maximum height of the embed frame in pixels."
-msgstr ""
+msgstr "嵌入框架的最大高度（像素）。"
 
 #: wp-includes/class-wp-oembed-controller.php:99
 msgid "Whether to perform an oEmbed discovery request for unsanctioned providers."
-msgstr ""
+msgstr "是否对未经批准的供应商执行 oEmbed 发现请求。"
 
 #: wp-includes/class-wp-oembed-controller.php:150
 msgid "Sorry, you are not allowed to make proxied oEmbed requests."
-msgstr ""
+msgstr "抱歉，您无权提出代理 oEmbed 请求。"
 
 #: wp-includes/class-wp-oembed-controller.php:216
 msgid "Embed Handler"
-msgstr ""
+msgstr "嵌入内容处理器"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
 msgid "Posts"
-msgstr ""
+msgstr "文章"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
 msgid "Pages"
-msgstr ""
+msgstr "页面"
 
 #: wp-includes/class-wp-post-type.php:801
 msgctxt "post type singular name"
 msgid "Post"
-msgstr ""
+msgstr "文章"
 
 #: wp-includes/class-wp-post-type.php:801
 msgctxt "post type singular name"
 msgid "Page"
-msgstr ""
+msgstr "页面"
 
 #: wp-includes/class-wp-post-type.php:802
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "新建文章"
 
 #: wp-includes/class-wp-post-type.php:802
 msgctxt "page"
 msgid "Add New"
-msgstr ""
+msgstr "新建页面"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Post"
-msgstr ""
+msgstr "新建文章"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Page"
@@ -3667,17 +3667,17 @@ msgstr ""
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Page updated."
-msgstr ""
+msgstr "页面已更新。"
 
 #: wp-includes/class-wp-post-type.php:831
 msgctxt "navigation link block title"
 msgid "Post Link"
-msgstr ""
+msgstr "文章链接"
 
 #: wp-includes/class-wp-post-type.php:832
 msgctxt "navigation link block title"
 msgid "Page Link"
-msgstr ""
+msgstr "页面链接"
 
 #: wp-includes/class-wp-post-type.php:835
 msgctxt "navigation link block description"
