@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-03 04:00\n"
+"PO-Revision-Date: 2024-05-04 05:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1139,23 +1139,23 @@ msgstr "当使用键盘导航时："
 #: wp-includes/class-wp-customize-manager.php:5700
 #: wp-includes/widgets/class-wp-widget-custom-html.php:325
 msgid "In the editing area, the Tab key enters a tab character."
-msgstr ""
+msgstr "在编辑区域中，按下Tab键插入一个制表符。"
 
 #: wp-includes/class-wp-customize-manager.php:5701
 #: wp-includes/widgets/class-wp-widget-custom-html.php:326
 msgid "To move away from this area, press the Esc key followed by the Tab key."
-msgstr ""
+msgstr "要离开这个区域，请先按Esc键，然后按Tab键。"
 
 #: wp-includes/class-wp-customize-manager.php:5702
 #: wp-includes/widgets/class-wp-widget-custom-html.php:327
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
-msgstr ""
+msgstr "致屏幕阅读器用户：在表单模式下，您可能需要按两次Esc键。"
 
 #. translators: 1: Link to user profile, 2: Additional link attributes, 3: Accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5709
 #: wp-includes/widgets/class-wp-widget-custom-html.php:312
 msgid "The edit field automatically highlights code syntax. You can disable this in your <a href=\"%1$s\" %2$s>user profile%3$s</a> to work in plain text mode."
-msgstr ""
+msgstr "编辑字段会进行自动语法高亮。您可以在您的<a href=\"%1$s\" %2$s>个人资料页面%3$s</a>中禁用它以在纯文本模式下工作。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5722
@@ -1167,59 +1167,59 @@ msgstr ""
 #: wp-includes/script-loader.php:1263
 #: wp-includes/script-loader.php:1627
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: wp-includes/class-wp-customize-manager.php:5728
 msgid "Additional CSS"
-msgstr ""
+msgstr "额外CSS"
 
 #: wp-includes/class-wp-customize-manager.php:5750
 msgid "CSS code"
-msgstr ""
+msgstr "CSS代码"
 
 #: wp-includes/class-wp-customize-manager.php:6012
 msgid "Invalid value for background repeat."
-msgstr ""
+msgstr "背景重复的值无效。"
 
 #: wp-includes/class-wp-customize-manager.php:6016
 msgid "Invalid value for background attachment."
-msgstr ""
+msgstr "背景粘附的值无效。"
 
 #: wp-includes/class-wp-customize-manager.php:6020
 msgid "Invalid value for background position X."
-msgstr ""
+msgstr "背景位置X的值无效。"
 
 #: wp-includes/class-wp-customize-manager.php:6024
 msgid "Invalid value for background position Y."
-msgstr ""
+msgstr "背景位置Y的值无效。"
 
 #: wp-includes/class-wp-customize-manager.php:6028
 #: wp-includes/class-wp-customize-manager.php:6032
 msgid "Invalid value for background size."
-msgstr ""
+msgstr "背景大小的值无效。"
 
 #: wp-includes/class-wp-customize-manager.php:6037
 msgid "Unrecognized background setting."
-msgstr ""
+msgstr "无法识别的背景设置。"
 
 #: wp-includes/class-wp-customize-manager.php:6078
 msgid "This video file is too large to use as a header video. Try a shorter video or optimize the compression settings and re-upload a file that is less than 8MB. Or, upload your video to YouTube and link it with the option below."
-msgstr ""
+msgstr "此视频文件太大，无法用作页眉视频。尝试缩短视频或优化压缩设置并重新上传小于8MB的文件。或者，上传您的视频到 YouTube 并使用下面的选项连接到它。"
 
 #. translators: 1: .mp4, 2: .mov
 #: wp-includes/class-wp-customize-manager.php:6086
 msgid "Only %1$s or %2$s files may be used for header video. Please convert your video file and try again, or, upload your video to YouTube and link it with the option below."
-msgstr ""
+msgstr "只有 %1$s 或 %2$s 文件可以用于页眉视频。 请转换您的视频文件并再试一次，或上传您的视频到 YouTube 并将其链接到下面的选项。"
 
 #: wp-includes/class-wp-customize-manager.php:6111
 msgid "Please enter a valid YouTube URL."
-msgstr ""
+msgstr "请输入一个有效的 YouTube URL。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:167
 #: wp-includes/class-wp-customize-nav-menus.php:451
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: wp-includes/class-wp-customize-nav-menus.php:169
 #: wp-includes/class-wp-customize-nav-menus.php:458
@@ -1227,78 +1227,78 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:321
 #: wp-includes/nav-menu.php:914
 msgid "Custom Link"
-msgstr ""
+msgstr "自定义链接"
 
 #: wp-includes/class-wp-customize-nav-menus.php:198
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:319
 #: wp-includes/nav-menu.php:881
 msgid "Post Type Archive"
-msgstr ""
+msgstr "文章类型归档"
 
 #: wp-includes/class-wp-customize-nav-menus.php:336
 #: wp-includes/script-loader.php:733
 #: wp-includes/script-loader.php:1058
 msgid "No results found."
-msgstr ""
+msgstr "未找到结果。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:494
 msgid "Your theme can display menus in one location."
-msgstr ""
+msgstr "您的主题可以在一个位置显示菜单。"
 
 #. translators: %s: Number of menu locations.
 #: wp-includes/class-wp-customize-nav-menus.php:497
 msgid "Your theme can display menus in %s location."
 msgid_plural "Your theme can display menus in %s locations."
-msgstr[0] ""
+msgstr[0] "您的主题可以在 %s 个位置显示菜单。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:505
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
-msgstr ""
+msgstr "(无标签)"
 
 #: wp-includes/class-wp-customize-nav-menus.php:506
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:440
 msgctxt "Missing menu name."
 msgid "(unnamed)"
-msgstr ""
+msgstr "(未命名)"
 
 #. translators: %s: Menu location.
 #: wp-includes/class-wp-customize-nav-menus.php:510
 msgctxt "menu"
 msgid "(Currently set to: %s)"
-msgstr ""
+msgstr "(当前设置为： %s)"
 
 #: wp-includes/class-wp-customize-nav-menus.php:511
 msgid "Menu Location"
-msgstr ""
+msgstr "菜单位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:511
 msgid "Menu Locations"
-msgstr ""
+msgstr "菜单位置"
 
 #: wp-includes/class-wp-customize-nav-menus.php:513
 msgid "Menu Name"
-msgstr ""
+msgstr "菜单名称"
 
 #: wp-includes/class-wp-customize-nav-menus.php:514
 msgid "If your theme has multiple menus, giving them clear names will help you manage them."
-msgstr ""
+msgstr "如果您的主题有多个菜单位置，为它们赋予明确的名称将帮助您管理它们。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:515
 msgid "Menu item added"
-msgstr ""
+msgstr "菜单项已添加"
 
 #: wp-includes/class-wp-customize-nav-menus.php:516
 msgid "Menu item deleted"
-msgstr ""
+msgstr "菜单项已删除"
 
 #: wp-includes/class-wp-customize-nav-menus.php:517
 msgid "Menu created"
-msgstr ""
+msgstr "菜单已创建"
 
 #: wp-includes/class-wp-customize-nav-menus.php:518
 msgid "Menu deleted"
-msgstr ""
+msgstr "菜单已删除"
 
 #: wp-includes/class-wp-customize-nav-menus.php:519
 msgid "Menu item moved up"
