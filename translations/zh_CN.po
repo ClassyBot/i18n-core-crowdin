@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-04 17:00\n"
+"PO-Revision-Date: 2024-05-05 05:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2926,30 +2926,30 @@ msgstr "无法读取图像尺寸。"
 #: wp-includes/class-wp-image-editor-gd.php:187
 #: wp-includes/class-wp-image-editor-gd.php:213
 msgid "Image resize failed."
-msgstr ""
+msgstr "重设图像大小失败。"
 
 #: wp-includes/class-wp-image-editor-gd.php:200
 #: wp-includes/class-wp-image-editor-imagick.php:321
 msgid "Could not calculate resized image dimensions"
-msgstr ""
+msgstr "无法计算调整后的图像尺寸"
 
 #: wp-includes/class-wp-image-editor-gd.php:277
 #: wp-includes/class-wp-image-editor-imagick.php:534
 msgid "Cannot resize the image. Both width and height are not set."
-msgstr ""
+msgstr "无法重设图像大小。宽度和高度均未设置。"
 
 #: wp-includes/class-wp-image-editor-gd.php:338
 #: wp-includes/class-wp-image-editor-gd.php:362
 msgid "Image crop failed."
-msgstr ""
+msgstr "裁剪图像失败。"
 
 #: wp-includes/class-wp-image-editor-gd.php:389
 msgid "Image rotate failed."
-msgstr ""
+msgstr "旋转图像失败。"
 
 #: wp-includes/class-wp-image-editor-gd.php:419
 msgid "Image flip failed."
-msgstr ""
+msgstr "翻转图像失败。"
 
 #: wp-includes/class-wp-image-editor-gd.php:481
 #: wp-includes/class-wp-image-editor-gd.php:490
@@ -2957,232 +2957,232 @@ msgstr ""
 #: wp-includes/class-wp-image-editor-gd.php:498
 #: wp-includes/class-wp-image-editor-gd.php:501
 msgid "Image Editor Save Failed"
-msgstr ""
+msgstr "图像编辑器保存失败"
 
 #: wp-includes/class-wp-image-editor-imagick.php:553
 msgid "The image already has the requested size."
-msgstr ""
+msgstr "图像已经具有请求的大小。"
 
 #: wp-includes/class-wp-image-editor-imagick.php:708
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
-msgstr ""
+msgstr "无法旋转图像，因为嵌入的元数据无法更新。"
 
 #. translators: %s: PHP function name.
 #: wp-includes/class-wp-image-editor-imagick.php:830
 msgid "%s failed while writing image to stream."
-msgstr ""
+msgstr "在写入图像至流时， %s 失败。"
 
 #. translators: %s: Directory path.
 #: wp-includes/class-wp-image-editor-imagick.php:846
 #: wp-includes/functions.php:2380
 #: wp-includes/functions.php:2915
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr ""
+msgstr "无法创建目录 %s。其父目录对于服务器是否是可写的？"
 
 #. translators: %s: ImageMagick method name.
 #: wp-includes/class-wp-image-editor-imagick.php:902
 #: wp-includes/class-wp-image-editor-imagick.php:913
 msgid "%s is required to strip image meta."
-msgstr ""
+msgstr "需要 %s 来脱离图像元数据。"
 
 #: wp-includes/class-wp-image-editor.php:296
 msgid "Attempted to set image quality outside of the range [1,100]."
-msgstr ""
+msgstr "尝试设置的图像质量超出范围 [1,100]。"
 
 #: wp-includes/class-wp-list-util.php:174
 #: wp-includes/class-wp-list-util.php:205
 msgid "Values for the input array must be either objects or arrays."
-msgstr ""
+msgstr "输入数组的值必须是对象或数组。"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:148
 msgid "Sunday"
-msgstr ""
+msgstr "星期日"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:149
 msgid "Monday"
-msgstr ""
+msgstr "星期一"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:150
 msgid "Tuesday"
-msgstr ""
+msgstr "星期二"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:151
 msgid "Wednesday"
-msgstr ""
+msgstr "星期三"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:152
 msgid "Thursday"
-msgstr ""
+msgstr "星期四"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:153
 msgid "Friday"
-msgstr ""
+msgstr "星期五"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:154
 msgid "Saturday"
-msgstr ""
+msgstr "星期六"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:157
 msgctxt "Sunday initial"
 msgid "S"
-msgstr ""
+msgstr "日"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:158
 msgctxt "Monday initial"
 msgid "M"
-msgstr ""
+msgstr "一"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:159
 msgctxt "Tuesday initial"
 msgid "T"
-msgstr ""
+msgstr "二"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:160
 msgctxt "Wednesday initial"
 msgid "W"
-msgstr ""
+msgstr "三"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:161
 msgctxt "Thursday initial"
 msgid "T"
-msgstr ""
+msgstr "四"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:162
 msgctxt "Friday initial"
 msgid "F"
-msgstr ""
+msgstr "五"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:163
 msgctxt "Saturday initial"
 msgid "S"
-msgstr ""
+msgstr "六"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:166
 msgid "Sun"
-msgstr ""
+msgstr "周日"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:167
 msgid "Mon"
-msgstr ""
+msgstr "周一"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:168
 msgid "Tue"
-msgstr ""
+msgstr "周二"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:169
 msgid "Wed"
-msgstr ""
+msgstr "周三"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:170
 msgid "Thu"
-msgstr ""
+msgstr "周四"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:171
 msgid "Fri"
-msgstr ""
+msgstr "周五"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:172
 msgid "Sat"
-msgstr ""
+msgstr "周六"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:175
 msgid "January"
-msgstr ""
+msgstr "一月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:176
 msgid "February"
-msgstr ""
+msgstr "二月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:177
 msgid "March"
-msgstr ""
+msgstr "三月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:178
 msgid "April"
-msgstr ""
+msgstr "四月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:179
 msgid "May"
-msgstr ""
+msgstr "五月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:180
 msgid "June"
-msgstr ""
+msgstr "六月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:181
 msgid "July"
-msgstr ""
+msgstr "七月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:182
 msgid "August"
-msgstr ""
+msgstr "八月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:183
 msgid "September"
-msgstr ""
+msgstr "九月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:184
 msgid "October"
-msgstr ""
+msgstr "十月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:185
 msgid "November"
-msgstr ""
+msgstr "十一月"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:186
 msgid "December"
-msgstr ""
+msgstr "十二月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:189
 msgctxt "genitive"
 msgid "January"
-msgstr ""
+msgstr "一月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:190
 msgctxt "genitive"
 msgid "February"
-msgstr ""
+msgstr "二月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:191
 msgctxt "genitive"
 msgid "March"
-msgstr ""
+msgstr "三月"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:192
@@ -3458,212 +3458,212 @@ msgstr "新建文章"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Page"
-msgstr ""
+msgstr "新建页面"
 
 #: wp-includes/class-wp-post-type.php:804
 msgid "Edit Post"
-msgstr ""
+msgstr "编辑文章"
 
 #: wp-includes/class-wp-post-type.php:804
 msgid "Edit Page"
-msgstr ""
+msgstr "编辑页面"
 
 #: wp-includes/class-wp-post-type.php:805
 msgid "New Post"
-msgstr ""
+msgstr "新文章"
 
 #: wp-includes/class-wp-post-type.php:805
 msgid "New Page"
-msgstr ""
+msgstr "新页面"
 
 #: wp-includes/class-wp-post-type.php:806
 msgid "View Post"
-msgstr ""
+msgstr "查看文章"
 
 #: wp-includes/class-wp-post-type.php:806
 msgid "View Page"
-msgstr ""
+msgstr "查看页面"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Posts"
-msgstr ""
+msgstr "查看文章"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Pages"
-msgstr ""
+msgstr "查看页面"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Posts"
-msgstr ""
+msgstr "搜索文章"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Pages"
-msgstr ""
+msgstr "搜索页面"
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No posts found."
-msgstr ""
+msgstr "未找到文章。"
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No pages found."
-msgstr ""
+msgstr "未找到页面。"
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No posts found in Trash."
-msgstr ""
+msgstr "在回收站中未找到任何文章。"
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No pages found in Trash."
-msgstr ""
+msgstr "在回收站中未找到任何页面。"
 
 #: wp-includes/class-wp-post-type.php:811
 msgid "Parent Page:"
-msgstr ""
+msgstr "父页面："
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Posts"
-msgstr ""
+msgstr "所有文章"
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Pages"
-msgstr ""
+msgstr "所有页面"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Post Archives"
-msgstr ""
+msgstr "文章归档"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Page Archives"
-msgstr ""
+msgstr "页面归档"
 
 #: wp-includes/class-wp-post-type.php:814
 msgid "Post Attributes"
-msgstr ""
+msgstr "文章属性"
 
 #: wp-includes/class-wp-post-type.php:814
 msgid "Page Attributes"
-msgstr ""
+msgstr "页面属性"
 
 #: wp-includes/class-wp-post-type.php:815
 msgid "Insert into post"
-msgstr ""
+msgstr "插入到文章"
 
 #: wp-includes/class-wp-post-type.php:815
 msgid "Insert into page"
-msgstr ""
+msgstr "插入到页面"
 
 #: wp-includes/class-wp-post-type.php:816
 msgid "Uploaded to this post"
-msgstr ""
+msgstr "已上传到此文章"
 
 #: wp-includes/class-wp-post-type.php:816
 msgid "Uploaded to this page"
-msgstr ""
+msgstr "已上传到此页面"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
 msgid "Featured image"
-msgstr ""
+msgstr "封面图像"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "page"
 msgid "Featured image"
-msgstr ""
+msgstr "封面图像"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
 msgid "Set featured image"
-msgstr ""
+msgstr "设置封面图像"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "page"
 msgid "Set featured image"
-msgstr ""
+msgstr "设置封面图像"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "post"
 msgid "Remove featured image"
-msgstr ""
+msgstr "移除封面图像"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "page"
 msgid "Remove featured image"
-msgstr ""
+msgstr "移除封面图像"
 
 #: wp-includes/class-wp-post-type.php:820
 msgctxt "post"
 msgid "Use as featured image"
-msgstr ""
+msgstr "用作封面图像"
 
 #: wp-includes/class-wp-post-type.php:820
 msgctxt "page"
 msgid "Use as featured image"
-msgstr ""
+msgstr "用作封面图像"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter posts list"
-msgstr ""
+msgstr "筛选文章列表"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter pages list"
-msgstr ""
+msgstr "筛选页面列表"
 
 #: wp-includes/class-wp-post-type.php:822
 #: wp-includes/media.php:4621
 msgid "Filter by date"
-msgstr ""
+msgstr "按日期筛选"
 
 #: wp-includes/class-wp-post-type.php:823
 msgid "Posts list navigation"
-msgstr ""
+msgstr "文章列表导航"
 
 #: wp-includes/class-wp-post-type.php:823
 msgid "Pages list navigation"
-msgstr ""
+msgstr "页面列表导航"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Posts list"
-msgstr ""
+msgstr "文章列表"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Pages list"
-msgstr ""
+msgstr "页面列表"
 
 #: wp-includes/class-wp-post-type.php:825
 msgid "Post published."
-msgstr ""
+msgstr "文章已发布。"
 
 #: wp-includes/class-wp-post-type.php:825
 msgid "Page published."
-msgstr ""
+msgstr "页面已发布。"
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Post published privately."
-msgstr ""
+msgstr "文章已私下发布。"
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Page published privately."
-msgstr ""
+msgstr "页面已私下发布。"
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Post reverted to draft."
-msgstr ""
+msgstr "文章已恢复至草稿。"
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Page reverted to draft."
-msgstr ""
+msgstr "页面已恢复至草稿。"
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Post scheduled."
-msgstr ""
+msgstr "文章已计划发布。"
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Page scheduled."
-msgstr ""
+msgstr "页面已计划发布。"
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Post updated."
-msgstr ""
+msgstr "文章已更新。"
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Page updated."
@@ -3682,63 +3682,63 @@ msgstr "页面链接"
 #: wp-includes/class-wp-post-type.php:835
 msgctxt "navigation link block description"
 msgid "A link to a post."
-msgstr ""
+msgstr "一个文章的链接。"
 
 #: wp-includes/class-wp-post-type.php:836
 msgctxt "navigation link block description"
 msgid "A link to a page."
-msgstr ""
+msgstr "一个页面的链接。"
 
 #: wp-includes/class-wp-query.php:1565
 msgctxt "Comma-separated list of search stopwords in your language"
 msgid "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,www"
-msgstr ""
+msgstr "关于,一,个,是,在,吧,嗯,谁,哪,要,为了,上,www,com"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:90
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:139
 msgid "No cookie present."
-msgstr ""
+msgstr "没有 cookie 存在。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:105
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:168
 msgid "Invalid cookie format."
-msgstr ""
+msgstr "无效的 cookie 格式。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:112
 msgid "Cookie expired."
-msgstr ""
+msgstr "Cookie 已过期。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:119
 msgid "Invalid cookie."
-msgstr ""
+msgstr "无效的 cookie。"
 
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:219
 #: wp-includes/pluggable.php:2447
 msgid "put your unique phrase here"
-msgstr ""
+msgstr "将您的唯一口令放在这里"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:59
 msgid "Could not update the email last sent time."
-msgstr ""
+msgstr "无法更新上次发送的电子邮件时间。"
 
 #. translators: %s: mail()
 #: wp-includes/class-wp-recovery-mode-email-service.php:72
 msgid "The email could not be sent. Possible reason: your host may have disabled the %s function."
-msgstr ""
+msgstr "无法发送电子邮件。可能原因：您的主机提供商可能已禁用了 PHP 函数 %s 。"
 
 #. translators: 1: Last sent as a human time diff, 2: Wait time as a human time diff.
 #: wp-includes/class-wp-recovery-mode-email-service.php:80
 msgid "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
-msgstr ""
+msgstr "%1$s前已发送过恢复模式链接。请等待%2$s后再请求一封新的邮件。"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:126
 msgid "Error Details"
-msgstr ""
+msgstr "错误详情"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:141
 msgid "Please contact your host for assistance with investigating this issue further."
-msgstr ""
+msgstr "请联系您的主机提供商以帮助进一步调查这个问题。"
 
 #. translators: Do not translate LINK, EXPIRES, CAUSE, DETAILS, SITEURL, PAGEURL, SUPPORT. DEBUG: those are placeholders.
 #: wp-includes/class-wp-recovery-mode-email-service.php:153
@@ -3753,7 +3753,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "您好：\n\n"
+"ClassicPress内置了一个帮助您检查某个主题或插件发生的致命错误，并在发生此类错误时使用电子邮件自动通知您。\n"
+"###CAUSE###\n"
+"首先，检查您的站点 (###SITEURL###) 然后检查有无可见错误。 接着，访问发生错误的页面 (###PAGEURL###) 并检查有无可见错误。\n\n"
+"###SUPPORT###\n\n"
+"如果您的站点看上去不正常，并且您不能正常访问仪表盘， ClassicPress现在有了特殊的“恢复模式”，可帮助您安全地登录仪表盘并进一步检查问题。\n\n"
+"###LINK###\n\n"
+"为了保证您的站点安全，上面的链接将在###EXPIRES###过期。不必担心：如若错误再度发生，我们会在链接过期后向您发送新的链接。\n\n"
+"当寻求帮助时，您可能需要提供下面的信息：\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -3988,63 +3998,63 @@ msgstr ""
 
 #: wp-includes/class-wp-taxonomy.php:633
 msgid "Filter by category"
-msgstr ""
+msgstr "按类别筛选"
 
 #: wp-includes/class-wp-taxonomy.php:634
 msgid "Tags list navigation"
-msgstr ""
+msgstr "标签列表导航"
 
 #: wp-includes/class-wp-taxonomy.php:634
 msgid "Categories list navigation"
-msgstr ""
+msgstr "分类列表导航"
 
 #: wp-includes/class-wp-taxonomy.php:635
 msgid "Tags list"
-msgstr ""
+msgstr "标签列表"
 
 #: wp-includes/class-wp-taxonomy.php:635
 msgid "Categories list"
-msgstr ""
+msgstr "分类列表"
 
 #. translators: Tab heading when selecting from the most used terms.
 #: wp-includes/class-wp-taxonomy.php:637
 msgctxt "tags"
 msgid "Most Used"
-msgstr ""
+msgstr "最常使用"
 
 #. translators: Tab heading when selecting from the most used terms.
 #: wp-includes/class-wp-taxonomy.php:637
 msgctxt "categories"
 msgid "Most Used"
-msgstr ""
+msgstr "最常使用"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Tags"
-msgstr ""
+msgstr "&larr; 转到标签"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Categories"
-msgstr ""
+msgstr "&larr; 转到分类"
 
 #: wp-includes/class-wp-taxonomy.php:640
 msgctxt "navigation link block title"
 msgid "Tag Link"
-msgstr ""
+msgstr "标签链接"
 
 #: wp-includes/class-wp-taxonomy.php:641
 msgctxt "navigation link block title"
 msgid "Category Link"
-msgstr ""
+msgstr "分类链接"
 
 #: wp-includes/class-wp-taxonomy.php:644
 msgctxt "navigation link block description"
 msgid "A link to a tag."
-msgstr ""
+msgstr "一个标签的链接。"
 
 #: wp-includes/class-wp-taxonomy.php:645
 msgctxt "navigation link block description"
 msgid "A link to a category."
-msgstr ""
+msgstr "一个分类的链接。"
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
