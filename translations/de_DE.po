@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-05 05:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -83,12 +83,12 @@ msgstr "Fehler beim Senden des Kommentars"
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:132
 msgid "Cron reschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Fehler beim Cron Neuplanen Ereignis für den Hook: %1$s, Fehlercode: %2$s, Fehlermeldung: %3$s, Daten: %4$s"
 
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:159
 msgid "Cron unschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Fehler beim Cron Unplanen Ereignis für Hook: %1$s, Fehlercode: %2$s, Fehlermeldung: %3$s, Daten: %4$s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:136
@@ -98,7 +98,7 @@ msgstr "Über ClassicPress"
 
 #: wp-includes/admin-bar.php:167
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/admin-bar.php:177
 msgid "Documentation"
@@ -106,7 +106,7 @@ msgstr "Dokumentation"
 
 #: wp-includes/admin-bar.php:178
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:187
 msgid "Support"
