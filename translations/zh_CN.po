@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-05 05:00\n"
+"PO-Revision-Date: 2024-05-05 17:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3768,78 +3768,78 @@ msgstr "您好：\n\n"
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
 msgid "[%s] Your Site is Experiencing a Technical Issue"
-msgstr ""
+msgstr "[%s] 你的站点正在遇到一个技术问题"
 
 #. translators: %s: Plugin name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:280
 msgid "In this case, ClassicPress caught an error with one of your plugins, %s."
-msgstr ""
+msgstr "这次，ClassicPress发现了您的一个插件「%s」造成的错误。"
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:286
 msgid "In this case, ClassicPress caught an error with your theme, %s."
-msgstr ""
+msgstr "这次，ClassicPress发现了您的一个主题「%s」造成的错误。"
 
 #. translators: %s: Current WordPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress 版本 %s"
 
 #. translators: 1: Current active theme name. 2: Current active theme version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:357
 msgid "Active theme: %1$s (version %2$s)"
-msgstr ""
+msgstr "活跃主题: %1$s (%2$s 版本)"
 
 #. translators: 1: The failing plugins name. 2: The failing plugins version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:366
 msgid "Current plugin: %1$s (version %2$s)"
-msgstr ""
+msgstr "当前插件: %1$s (%2$s 版本)"
 
 #. translators: %s: The currently used PHP version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:374
 msgid "PHP version %s"
-msgstr ""
+msgstr "PHP 版本 %s"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:101
 msgid "Recovery Mode not initialized."
-msgstr ""
+msgstr "恢复模式未初始化。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:109
 msgid "Invalid recovery key format."
-msgstr ""
+msgstr "无效的恢复模式密钥格式。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:118
 msgid "Invalid recovery key."
-msgstr ""
+msgstr "无效的恢复模式密钥。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:122
 msgid "Recovery key expired."
-msgstr ""
+msgstr "恢复模式密钥已过期。"
 
 #: wp-includes/class-wp-recovery-mode.php:173
 msgid "Error not caused by a plugin or theme."
-msgstr ""
+msgstr "错误不是由插件或主题引起的。"
 
 #: wp-includes/class-wp-recovery-mode.php:178
 msgid "Error occurred on a non-protected endpoint."
-msgstr ""
+msgstr "一个未受保护的端点出错。"
 
 #: wp-includes/class-wp-recovery-mode.php:189
 msgid "Failed to store the error."
-msgstr ""
+msgstr "保存错误失败。"
 
 #: wp-includes/class-wp-recovery-mode.php:243
 msgid "Exit recovery mode link expired."
-msgstr ""
+msgstr "退出恢复模式链接已过期。"
 
 #: wp-includes/class-wp-recovery-mode.php:247
 msgid "Failed to exit recovery mode. Please try again later."
-msgstr ""
+msgstr "退出恢复模式失败。请稍后再试。"
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:472
 msgid "The %1$s parameter must be an array. To pass arbitrary data to scripts, use the %2$s function instead."
-msgstr ""
+msgstr "%1$s 参数必须是一个数组。要将任意数据传递到脚本，请使用 %2$s 函数。"
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -3862,139 +3862,139 @@ msgstr ""
 #: wp-includes/taxonomy.php:2886
 #: wp-includes/taxonomy.php:3097
 msgid "Invalid taxonomy."
-msgstr ""
+msgstr "无效的分类。"
 
 #: wp-includes/class-wp-tax-query.php:652
 msgid "Inexistent terms."
-msgstr ""
+msgstr "不存在的条目。"
 
 #: wp-includes/class-wp-taxonomy.php:606
 msgid "The name is how it appears on your site."
-msgstr ""
+msgstr "「名称」是它显示在您网站上的方式。"
 
 #: wp-includes/class-wp-taxonomy.php:607
 msgid "The &#8220;slug&#8221; is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
-msgstr ""
+msgstr "「slug」是名称的URL友好版本。它通常全部小写，并仅由字母、数字、和连字符组成。"
 
 #: wp-includes/class-wp-taxonomy.php:608
 msgid "Assign a parent term to create a hierarchy. The term Jazz, for example, would be the parent of Bebop and Big Band."
-msgstr ""
+msgstr "分配一个父级条目来创建层次结构。例如，Jazz一词将是Bebop和Big Band的父级。"
 
 #: wp-includes/class-wp-taxonomy.php:609
 msgid "The description is not prominent by default; however, some themes may show it."
-msgstr ""
+msgstr "这种描述默认并不默认显示；但某些主题可能会显示它。"
 
 #: wp-includes/class-wp-taxonomy.php:612
 msgctxt "taxonomy general name"
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 #: wp-includes/class-wp-taxonomy.php:612
 msgctxt "taxonomy general name"
 msgid "Categories"
-msgstr ""
+msgstr "分类"
 
 #: wp-includes/class-wp-taxonomy.php:613
 msgctxt "taxonomy singular name"
 msgid "Tag"
-msgstr ""
+msgstr "标签"
 
 #: wp-includes/class-wp-taxonomy.php:613
 msgctxt "taxonomy singular name"
 msgid "Category"
-msgstr ""
+msgstr "分类"
 
 #: wp-includes/class-wp-taxonomy.php:614
 msgid "Search Tags"
-msgstr ""
+msgstr "搜索标签"
 
 #: wp-includes/class-wp-taxonomy.php:614
 msgid "Search Categories"
-msgstr ""
+msgstr "搜索分类"
 
 #: wp-includes/class-wp-taxonomy.php:615
 msgid "Popular Tags"
-msgstr ""
+msgstr "热门标签"
 
 #: wp-includes/class-wp-taxonomy.php:616
 msgid "All Tags"
-msgstr ""
+msgstr "所有标签"
 
 #: wp-includes/class-wp-taxonomy.php:616
 msgid "All Categories"
-msgstr ""
+msgstr "所有分类"
 
 #: wp-includes/class-wp-taxonomy.php:617
 msgid "Parent Category"
-msgstr ""
+msgstr "父分类"
 
 #: wp-includes/class-wp-taxonomy.php:618
 msgid "Parent Category:"
-msgstr ""
+msgstr "父分类："
 
 #: wp-includes/class-wp-taxonomy.php:623
 msgid "Edit Tag"
-msgstr ""
+msgstr "编辑标签"
 
 #: wp-includes/class-wp-taxonomy.php:623
 msgid "Edit Category"
-msgstr ""
+msgstr "编辑分类"
 
 #: wp-includes/class-wp-taxonomy.php:624
 msgid "View Tag"
-msgstr ""
+msgstr "查看标签"
 
 #: wp-includes/class-wp-taxonomy.php:624
 msgid "View Category"
-msgstr ""
+msgstr "查看分类"
 
 #: wp-includes/class-wp-taxonomy.php:625
 msgid "Update Tag"
-msgstr ""
+msgstr "更新标签"
 
 #: wp-includes/class-wp-taxonomy.php:625
 msgid "Update Category"
-msgstr ""
+msgstr "更新分类"
 
 #: wp-includes/class-wp-taxonomy.php:626
 msgid "Add New Tag"
-msgstr ""
+msgstr "添加新标签"
 
 #: wp-includes/class-wp-taxonomy.php:626
 msgid "Add New Category"
-msgstr ""
+msgstr "添加新分类"
 
 #: wp-includes/class-wp-taxonomy.php:627
 msgid "New Tag Name"
-msgstr ""
+msgstr "新标签名称"
 
 #: wp-includes/class-wp-taxonomy.php:627
 msgid "New Category Name"
-msgstr ""
+msgstr "新分类名称"
 
 #: wp-includes/class-wp-taxonomy.php:628
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "使用逗号分隔标签"
 
 #: wp-includes/class-wp-taxonomy.php:629
 msgid "Add or remove tags"
-msgstr ""
+msgstr "添加或删除标签"
 
 #: wp-includes/class-wp-taxonomy.php:630
 msgid "Choose from the most used tags"
-msgstr ""
+msgstr "从最常用的标签中选择"
 
 #: wp-includes/class-wp-taxonomy.php:631
 msgid "No tags found."
-msgstr ""
+msgstr "未找到标签。"
 
 #: wp-includes/class-wp-taxonomy.php:631
 msgid "No categories found."
-msgstr ""
+msgstr "未找到分类。"
 
 #: wp-includes/class-wp-taxonomy.php:632
 msgid "No tags"
-msgstr ""
+msgstr "无标签"
 
 #: wp-includes/class-wp-taxonomy.php:633
 msgid "Filter by category"
@@ -4058,166 +4058,166 @@ msgstr "一个分类的链接。"
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
-msgstr ""
+msgstr "术语ID由多个分类共享。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:119
 msgid "Added:"
-msgstr ""
+msgstr "新增："
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:132
 msgid "Deleted:"
-msgstr ""
+msgstr "删除："
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:145
 msgid "Unchanged:"
-msgstr ""
+msgstr "未更改："
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:261
 msgid "The theme directory \"%s\" does not exist."
-msgstr ""
+msgstr "主题目录“%s”不存在。"
 
 #: wp-includes/class-wp-theme.php:266
 msgid "Stylesheet is missing."
-msgstr ""
+msgstr "样式表丢失。"
 
 #: wp-includes/class-wp-theme.php:279
 msgid "<strong>Error:</strong> The themes directory is either empty or does not exist. Please check your installation."
-msgstr ""
+msgstr "<strong>错误：</strong> 主题目录为空或不存在。请检查您的安装文件。"
 
 #: wp-includes/class-wp-theme.php:284
 msgid "Stylesheet is not readable."
-msgstr ""
+msgstr "样式表不可读。"
 
 #. translators: %s: Template.
 #: wp-includes/class-wp-theme.php:317
 msgid "The theme defines itself as its parent theme. Please check the %s header."
-msgstr ""
+msgstr "主题定义了自身为其父主题。请检查头部%s。"
 
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-includes/class-wp-theme.php:343
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "模板丢失。独立主题需要有一个 %1$s 或 %2$s 模板文件。 <a href=\"%3$s\">子主题</a> 需要在 %5$s 样式表中有一个 %4$s 头部。"
 
 #: wp-includes/class-wp-theme.php:346
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
-msgstr ""
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:383
 msgid "The parent theme is missing. Please install the \"%s\" parent theme."
-msgstr ""
+msgstr "父主题缺失。请安装父主题「%s」。"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:410
 #: wp-includes/class-wp-theme.php:429
 msgid "The \"%s\" theme is not a valid parent theme."
-msgstr ""
+msgstr "主题「%s」不是一个有效的父主题。"
 
 #: wp-includes/class-wp-theme.php:450
 msgid "This theme failed to load properly and was paused within the admin backend."
-msgstr ""
+msgstr "此主题未能正确加载，并且已在仪表盘中暂停。"
 
 #. translators: Name of a comment's author after being anonymized.
 #: wp-includes/class-wp-theme.php:950
 #: wp-includes/comment-template.php:33
 #: wp-includes/comment.php:3856
 msgid "Anonymous"
-msgstr ""
+msgstr "匿名"
 
 #: wp-includes/class-wp-theme.php:999
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 #: wp-includes/class-wp-theme.php:1000
 msgid "Blue"
-msgstr ""
+msgstr "蓝色"
 
 #: wp-includes/class-wp-theme.php:1001
 msgid "Brown"
-msgstr ""
+msgstr "棕色"
 
 #: wp-includes/class-wp-theme.php:1002
 msgid "Gray"
-msgstr ""
+msgstr "灰色"
 
 #: wp-includes/class-wp-theme.php:1003
 msgid "Green"
-msgstr ""
+msgstr "绿色"
 
 #: wp-includes/class-wp-theme.php:1004
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 #: wp-includes/class-wp-theme.php:1005
 msgid "Pink"
-msgstr ""
+msgstr "粉色"
 
 #: wp-includes/class-wp-theme.php:1006
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 #: wp-includes/class-wp-theme.php:1007
 msgid "Red"
-msgstr ""
+msgstr "红色"
 
 #: wp-includes/class-wp-theme.php:1008
 msgid "Silver"
-msgstr ""
+msgstr "银色"
 
 #: wp-includes/class-wp-theme.php:1009
 msgid "Tan"
-msgstr ""
+msgstr "沙黄"
 
 #: wp-includes/class-wp-theme.php:1010
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 #: wp-includes/class-wp-theme.php:1011
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 #: wp-includes/class-wp-theme.php:1012
 msgctxt "color scheme"
 msgid "Dark"
-msgstr ""
+msgstr "深色"
 
 #: wp-includes/class-wp-theme.php:1013
 msgctxt "color scheme"
 msgid "Light"
-msgstr ""
+msgstr "浅色"
 
 #: wp-includes/class-wp-theme.php:1014
 msgid "Fixed Layout"
-msgstr ""
+msgstr "固定布局"
 
 #: wp-includes/class-wp-theme.php:1015
 msgid "Fluid Layout"
-msgstr ""
+msgstr "动态布局"
 
 #: wp-includes/class-wp-theme.php:1016
 msgid "Responsive Layout"
-msgstr ""
+msgstr "响应布局"
 
 #: wp-includes/class-wp-theme.php:1017
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:1018
 msgid "Photoblogging"
-msgstr ""
+msgstr "照片博客"
 
 #: wp-includes/class-wp-theme.php:1019
 msgid "Seasonal"
-msgstr ""
+msgstr "季节性的"
 
 #. translators: %s: plugins_loaded
 #: wp-includes/class-wp-user-query.php:787
 msgid "User queries should not be run before the %s hook."
-msgstr ""
+msgstr "用户查询不应在 %s 钩子之前运行。"
 
 #. translators: %s: WP_User->ID
 #: wp-includes/class-wp-user.php:278
@@ -4484,35 +4484,35 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1637
 msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
-msgstr ""
+msgstr "对不起，您无权将条目添加到给定的分类中。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1699
 #: wp-includes/class-wp-xmlrpc-server.php:5217
 #: wp-includes/class-wp-xmlrpc-server.php:5971
 msgid "Sorry, the post could not be updated."
-msgstr ""
+msgstr "抱歉，无法更新文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1701
 #: wp-includes/class-wp-xmlrpc-server.php:5137
 #: wp-includes/class-wp-xmlrpc-server.php:5626
 msgid "Sorry, the post could not be created."
-msgstr ""
+msgstr "抱歉，无法创建文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1756
 msgid "There is a revision of this post that is more recent."
-msgstr ""
+msgstr "存在一个更新的文章修订记录。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1836
 #: wp-includes/class-wp-xmlrpc-server.php:5271
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:974
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1028
 msgid "Sorry, you are not allowed to delete this post."
-msgstr ""
+msgstr "对不起，您无权删除此文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1842
 #: wp-includes/class-wp-xmlrpc-server.php:5277
 msgid "Sorry, the post could not be deleted."
-msgstr ""
+msgstr "抱歉，无法删除文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2003
 #: wp-includes/class-wp-xmlrpc-server.php:4567
@@ -4520,21 +4520,21 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:157
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:161
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr ""
+msgstr "对不起，您不允许编辑此类型的文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2097
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:481
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在此分类中创建条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2107
 #: wp-includes/class-wp-xmlrpc-server.php:2224
 msgid "The term name cannot be empty."
-msgstr ""
+msgstr "条目名不能为空。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2112
 msgid "This taxonomy is not hierarchical."
-msgstr ""
+msgstr "该分类不是分级的。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2123
 #: wp-includes/class-wp-xmlrpc-server.php:2241
@@ -4545,17 +4545,17 @@ msgstr ""
 #: wp-includes/taxonomy.php:2346
 #: wp-includes/taxonomy.php:3143
 msgid "Parent term does not exist."
-msgstr ""
+msgstr "上级条目不存在。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2144
 msgid "Sorry, the term could not be created."
-msgstr ""
+msgstr "抱歉，无法创建条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2217
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:432
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:623
 msgid "Sorry, you are not allowed to edit this term."
-msgstr ""
+msgstr "对不起，您无权编辑此条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2230
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:201
@@ -4563,34 +4563,34 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:502
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:649
 msgid "Cannot set parent term, taxonomy is not hierarchical."
-msgstr ""
+msgstr "无法设置父条目，此分类不是分级的。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2262
 msgid "Sorry, editing the term failed."
-msgstr ""
+msgstr "抱歉，编辑条目失败。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2327
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:724
 msgid "Sorry, you are not allowed to delete this term."
-msgstr ""
+msgstr "对不起，您无权删除此条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2337
 msgid "Sorry, deleting the term failed."
-msgstr ""
+msgstr "抱歉，删除条目失败。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2407
 msgid "Sorry, you are not allowed to assign this term."
-msgstr ""
+msgstr "对不起，您无权分配此条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2462
 #: wp-includes/class-wp-xmlrpc-server.php:2568
 msgid "Sorry, you are not allowed to assign terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在这个分类中分配条目。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2706
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:699
 msgid "Sorry, you are not allowed to edit this user."
-msgstr ""
+msgstr "对不起，您无权编辑此用户。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2712
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:692
@@ -4599,81 +4599,81 @@ msgstr ""
 #: wp-includes/user.php:2525
 #: wp-includes/user.php:2531
 msgid "Invalid user ID."
-msgstr ""
+msgstr "无效的用户 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2769
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:213
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:445
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:451
 msgid "Sorry, you are not allowed to list users."
-msgstr ""
+msgstr "对不起，您不允许列出用户。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2787
 msgid "Invalid role."
-msgstr ""
+msgstr "无效的角色。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2849
 #: wp-includes/class-wp-xmlrpc-server.php:2899
 msgid "Sorry, you are not allowed to edit your profile."
-msgstr ""
+msgstr "对不起，您无权编辑您的个人资料。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2942
 msgid "Sorry, the user could not be updated."
-msgstr ""
+msgstr "对不起，无法更新用户。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2981
 #: wp-includes/class-wp-xmlrpc-server.php:3197
 msgid "Sorry, you are not allowed to edit this page."
-msgstr ""
+msgstr "对不起，您无权编辑此页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2992
 #: wp-includes/class-wp-xmlrpc-server.php:3126
 #: wp-includes/class-wp-xmlrpc-server.php:3192
 msgid "Sorry, no such page."
-msgstr ""
+msgstr "对不起，没有这个页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3024
 #: wp-includes/class-wp-xmlrpc-server.php:3246
 msgid "Sorry, you are not allowed to edit pages."
-msgstr ""
+msgstr "对不起，您无权编辑页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3131
 msgid "Sorry, you are not allowed to delete this page."
-msgstr ""
+msgstr "对不起，您无权删除此页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3137
 msgid "Failed to delete the page."
-msgstr ""
+msgstr "删除页面失败。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3307
 #: wp-includes/class-wp-xmlrpc-server.php:4693
 #: wp-includes/class-wp-xmlrpc-server.php:5017
 #: wp-includes/class-wp-xmlrpc-server.php:6199
 msgid "Sorry, you are not allowed to edit posts."
-msgstr ""
+msgstr "对不起，您无权编辑文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3351
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr ""
+msgstr "对不起，您必须能够编辑此站点上的文章才能查看标签。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3409
 msgid "Sorry, you are not allowed to add a category."
-msgstr ""
+msgstr "对不起，您无权添加分类。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3441
 #: wp-includes/class-wp-xmlrpc-server.php:3444
 msgid "Sorry, the category could not be created."
-msgstr ""
+msgstr "抱歉，无法创建分类。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3491
 msgid "Sorry, you are not allowed to delete this category."
-msgstr ""
+msgstr "对不起，您无权删除此分类。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3541
 #: wp-includes/class-wp-xmlrpc-server.php:6320
 #: wp-includes/class-wp-xmlrpc-server.php:6562
 msgid "Sorry, you must be able to edit posts on this site in order to view categories."
-msgstr ""
+msgstr "对不起，您必须能够编辑此站点上的文章才能查看分类。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3595
 #: wp-includes/class-wp-xmlrpc-server.php:3732
@@ -4681,56 +4681,56 @@ msgstr ""
 #: wp-includes/comment.php:2495
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:343
 msgid "Invalid comment ID."
-msgstr ""
+msgstr "无效的评论 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3599
 #: wp-includes/class-wp-xmlrpc-server.php:3804
 msgid "Sorry, you are not allowed to moderate or edit this comment."
-msgstr ""
+msgstr "对不起，您无权管理或编辑此评论。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3654
 #: wp-includes/class-wp-xmlrpc-server.php:3818
 msgid "Invalid comment status."
-msgstr ""
+msgstr "无效的评论状态。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3736
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:936
 msgid "Sorry, you are not allowed to delete this comment."
-msgstr ""
+msgstr "对不起，您无权删除此评论。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3854
 msgid "Sorry, the comment could not be updated."
-msgstr ""
+msgstr "抱歉，无法更新评论。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3909
 #: wp-includes/comment.php:3630
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:448
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:470
 msgid "Sorry, you must be logged in to comment."
-msgstr ""
+msgstr "对不起，您必须登录才能评论。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3932
 #: wp-includes/comment.php:3551
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:551
 msgid "Sorry, comments are closed for this item."
-msgstr ""
+msgstr "抱歉，此项目的评论已关闭。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3940
 #: wp-includes/class-wp-xmlrpc-server.php:3947
 msgid "Sorry, you are not allowed to comment on this post."
-msgstr ""
+msgstr "对不起，您无权在该文章上发表评论。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3984
 msgid "Comment author name and email are required."
-msgstr ""
+msgstr "评论作者姓名和电子邮件是必需的。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3986
 msgid "A valid email address is required."
-msgstr ""
+msgstr "需要一个有效的电子邮件地址。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3997
 msgid "Comment is required."
-msgstr ""
+msgstr "评论是必需的。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4051
 #: wp-includes/class-wp-xmlrpc-server.php:4135
@@ -4738,15 +4738,15 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:4205
 #: wp-includes/class-wp-xmlrpc-server.php:4474
 msgid "Sorry, you are not allowed to access details about this site."
-msgstr ""
+msgstr "对不起，您无权访问此站点的详细信息。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4093
 msgid "Sorry, you are not allowed to access details of this post."
-msgstr ""
+msgstr "对不起，您无权访问此文章的详细信息。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4306
 msgid "Sorry, you are not allowed to update options."
-msgstr ""
+msgstr "对不起，您无权更新偏好。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4363
 #: wp-includes/class-wp-xmlrpc-server.php:4418
@@ -4990,82 +4990,82 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:2221
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
-msgstr ""
+msgstr "ClassicPress数据库错误：无法执行查询，因为它包含无效数据。"
 
 #: wp-includes/class-wpdb.php:2258
 msgid "Unable to retrieve the error message from MySQL"
-msgstr ""
+msgstr "无法从 MySQL 获取错误消息"
 
 #. translators: %s: Database field where the error occurred.
 #: wp-includes/class-wpdb.php:2731
 msgid "ClassicPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
-msgstr ""
+msgstr "ClassicPress数据库错误：处理以下字段的值失败： %s。提供的值可能过长或包含无效数据。"
 
 #. translators: %s: Database fields where the error occurred.
 #: wp-includes/class-wpdb.php:2737
 msgid "ClassicPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
-msgstr ""
+msgstr "ClassicPress数据库错误：处理以下字段的值失败： %s。提供的值可能过长或包含无效数据。"
 
 #: wp-includes/class-wpdb.php:3065
 msgid "Could not retrieve table charset."
-msgstr ""
+msgstr "无法获取表字符集。"
 
 #: wp-includes/class-wpdb.php:3515
 msgid "Could not strip invalid text."
-msgstr ""
+msgstr "无法删除无效文本。"
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number.
 #: wp-includes/class-wpdb.php:3834
 msgid "<strong>Error:</strong> ClassicPress %1$s requires MySQL %2$s or higher"
-msgstr ""
+msgstr "<strong>错误：</strong> ClassicPress %1$s 需要 MySQL %2$s 或更高版本"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:45
 msgid "Block Compatibility"
-msgstr ""
+msgstr "区块兼容性"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:46
 msgid "Plugins and themes using block functions."
-msgstr ""
+msgstr "正在使用区块函数的主题和插件。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:56
 #: wp-includes/classicpress/class-cp-debug-compat.php:69
 #: wp-includes/classicpress/class-cp-debug-compat.php:88
 msgid "Plugins using block functions"
-msgstr ""
+msgstr "正在使用区块函数的插件"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:60
 #: wp-includes/classicpress/class-cp-debug-compat.php:104
 #: wp-includes/classicpress/class-cp-debug-compat.php:124
 msgid "Themes using block functions"
-msgstr ""
+msgstr "正在使用区块函数的主题"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:77
 msgid "No plugins are using block functions."
-msgstr ""
+msgstr "没有插件正在使用区块函数。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:85
 msgid "Plugins on this list may have issues."
-msgstr ""
+msgstr "此列表中的插件可能遇到问题。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:86
 #: wp-includes/classicpress/class-cp-debug-compat.php:122
 msgid "Learn more."
-msgstr ""
+msgstr "了解更多。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:112
 msgid "No themes are using block functions."
-msgstr ""
+msgstr "没有主题正在使用区块函数。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:121
 msgid "Themes on this list may have issues."
-msgstr ""
+msgstr "此列表中的主题可能遇到问题。"
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
 #: wp-includes/classicpress/class-wp-compat.php:69
 #: wp-includes/classicpress/class-wp-compat.php:148
 msgid "%1$s uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s 使用了与区块相关的功能，并可能遇到问题。"
 
 #. Translators: %1$s is the theme name.
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
@@ -5073,162 +5073,162 @@ msgstr ""
 #: wp-includes/classicpress/class-wp-compat.php:149
 #: wp-includes/classicpress/class-wp-compat.php:154
 msgid "Learn more"
-msgstr ""
+msgstr "了解更多"
 
 #: wp-includes/classicpress/class-wp-compat.php:72
 #: wp-includes/classicpress/class-wp-compat.php:150
 #: wp-includes/classicpress/class-wp-compat.php:155
 msgid "Report an issue &rsaquo;"
-msgstr ""
+msgstr "报告一个问题 &rsaquo;"
 
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
 #: wp-includes/classicpress/class-wp-compat.php:153
 msgid "%1$s parent theme (%2$s) uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s （父主题：·「%2$s」）使用了与区块相关的功能，并可能遇到问题。"
 
 #: wp-includes/comment-template.php:635
 msgid "Password protected"
-msgstr ""
+msgstr "密码保护"
 
 #. translators: Maximum number of words used in a comment excerpt.
 #: wp-includes/comment-template.php:639
 msgctxt "comment_excerpt_length"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. translators: %s: Number of comments.
 #: wp-includes/comment-template.php:937
 #: wp-includes/comment-template.php:952
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
+msgstr[0] "%s 条评论"
 
 #. translators: If comment number in your language requires declension, translate this to 'on'. Do not translate into your own language.
 #: wp-includes/comment-template.php:944
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "off"
 
 #: wp-includes/comment-template.php:965
 msgid "No Comments"
-msgstr ""
+msgstr "无评论"
 
 #: wp-includes/comment-template.php:967
 msgid "1 Comment"
-msgstr ""
+msgstr "一条评论"
 
 #. translators: %s: Comment link.
 #: wp-includes/comment-template.php:1010
 msgid "In reply to %s."
-msgstr ""
+msgstr "回复 %s。"
 
 #: wp-includes/comment-template.php:1156
 #: wp-includes/comment-template.php:2603
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 #: wp-includes/comment-template.php:1159
 msgid "Trackback"
-msgstr ""
+msgstr "引用"
 
 #: wp-includes/comment-template.php:1162
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #. translators: %s: Comment author link.
 #: wp-includes/comment-template.php:1200
 #: wp-includes/comment-template.php:1206
 msgid "%s <span class=\"says\">says:</span>"
-msgstr ""
+msgstr "%s <span class=\"says\">说：</span>"
 
 #. translators: 1: Comment date, 2: Comment time.
 #: wp-includes/comment-template.php:1227
 #: wp-includes/comment-template.php:1240
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-includes/comment-template.php:1246
 msgid "(Edit)"
-msgstr ""
+msgstr "(编辑)"
 
 #. translators: %s: Post title.
 #: wp-includes/comment-template.php:1690
 msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
-msgstr ""
+msgstr "<span class=\"screen-reader-text\">%s中</span>没有评论。"
 
 #. translators: %s: Post title.
 #: wp-includes/comment-template.php:1695
 msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
-msgstr ""
+msgstr "<span class=\"screen-reader-text\">%s中</span>有一条评论。"
 
 #. translators: 1: Number of comments, 2: Post title.
 #: wp-includes/comment-template.php:1700
 msgid "%1$s Comment<span class=\"screen-reader-text\"> on %2$s</span>"
 msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
-msgstr[0] ""
+msgstr[0] "<span class=\"screen-reader-text\">%2$s中</span>有%1$s条评论。"
 
 #. translators: %s: Post title.
 #: wp-includes/comment-template.php:1706
 msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
-msgstr ""
+msgstr "<span class=\"screen-reader-text\">%s的</span>评论已关闭。"
 
 #: wp-includes/comment-template.php:1715
 msgid "Enter your password to view comments."
-msgstr ""
+msgstr "输入您的密码以查看评论。"
 
 #: wp-includes/comment-template.php:1787
 msgid "Reply"
-msgstr ""
+msgstr "回复"
 
 #. translators: Comment reply button text. %s: Comment author name.
 #: wp-includes/comment-template.php:1789
 msgid "Reply to %s"
-msgstr ""
+msgstr "回复到 %s"
 
 #: wp-includes/comment-template.php:1790
 msgid "Log in to Reply"
-msgstr ""
+msgstr "登录以回复"
 
 #: wp-includes/comment-template.php:1934
 msgid "Leave a Comment"
-msgstr ""
+msgstr "发表评论"
 
 #: wp-includes/comment-template.php:1935
 msgid "Log in to leave a Comment"
-msgstr ""
+msgstr "登录以发表评论"
 
 #: wp-includes/comment-template.php:2011
 msgid "Click here to cancel reply."
-msgstr ""
+msgstr "点击此处取消回复。"
 
 #: wp-includes/comment-template.php:2125
 #: wp-includes/comment-template.php:2645
 msgid "Leave a Reply"
-msgstr ""
+msgstr "留下回复"
 
 #. translators: %s: Author of the comment being replied to.
 #: wp-includes/comment-template.php:2130
 #: wp-includes/comment-template.php:2647
 msgid "Leave a Reply to %s"
-msgstr ""
+msgstr "向 %s 留下回复"
 
 #: wp-includes/comment-template.php:2532
 msgid "Name"
-msgstr ""
+msgstr "姓名"
 
 #: wp-includes/comment-template.php:2545
 #: wp-login.php:1083
 msgid "Email"
-msgstr ""
+msgstr "电子邮件地址"
 
 #: wp-includes/comment-template.php:2558
 msgid "Website"
-msgstr ""
+msgstr "网址"
 
 #: wp-includes/comment-template.php:2578
 msgid "Save my name, email, and website in this browser for the next time I comment."
-msgstr ""
+msgstr "在此浏览器保存我的姓名、电子邮件地址和网址，以用于下次评论。"
 
 #. translators: %s: Login URL.
 #: wp-includes/comment-template.php:2612
@@ -5449,101 +5449,101 @@ msgstr ""
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:43
 msgid "Top Left"
-msgstr ""
+msgstr "左上"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:51
 msgid "Top Right"
-msgstr ""
+msgstr "右上"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:71
 msgid "Bottom Left"
-msgstr ""
+msgstr "左下"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:79
 msgid "Bottom Right"
-msgstr ""
+msgstr "右下"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:167
 msgid "Markup is not allowed in CSS."
-msgstr ""
+msgstr "CSS 中不允许出现标记。"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:127
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:130
 msgid "Month"
-msgstr ""
+msgstr "月"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:146
 msgid "Day"
-msgstr ""
+msgstr "日"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:151
 #: wp-includes/media.php:3004
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:160
 msgid "Time"
-msgstr ""
+msgstr "时间"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:162
 msgid "Hour"
-msgstr ""
+msgstr "时"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:167
 msgid "Minute"
-msgstr ""
+msgstr "分"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:170
 msgid "Meridian"
-msgstr ""
+msgstr "Meridian"
 
 #. translators: 1: Month number (01, 02, etc.), 2: Month abbreviation.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:204
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s-%2$s"
 
 #. translators: 1: Timezone name, 2: Timezone abbreviation, 3: UTC abbreviation and offset, 4: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:243
 msgid "Your timezone is set to %1$s (%2$s), currently %3$s (Coordinated Universal Time %4$s)."
-msgstr ""
+msgstr "您的时区设置为 %1$s (%2$s)，当前为 %3$s (协调世界时间 %4$s)。"
 
 #. translators: 1: UTC abbreviation and offset, 2: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:257
 msgid "Your timezone is set to %1$s (Coordinated Universal Time %2$s)."
-msgstr ""
+msgstr "您的时区设置为 %1$s (协调世界时间 %2$s)。"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:124
 msgid "Randomize uploaded headers"
-msgstr ""
+msgstr "随机使用一个上传的页眉"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:126
 msgid "Randomize suggested headers"
-msgstr ""
+msgstr "随机使用一个推荐的页眉"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/customize/class-wp-customize-header-image-control.php:138
 msgid "Set image"
-msgstr ""
+msgstr "设置图像"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/customize/class-wp-customize-header-image-control.php:149
 msgid "Remove image"
-msgstr ""
+msgstr "移除图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:165
 msgid "Randomizing uploaded headers"
-msgstr ""
+msgstr "正在随机使用一个上传的页眉"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:167
 msgid "Randomizing suggested headers"
-msgstr ""
+msgstr "正在随机使用一个推荐的页眉"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:179
 msgid "No image set"
-msgstr ""
+msgstr "未设置图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:215
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image that matches the size of your video &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
