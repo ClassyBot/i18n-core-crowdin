@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 03:51\n"
+"PO-Revision-Date: 2024-05-06 14:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17211,7 +17211,7 @@ msgstr "Aggiungi un widget"
 
 #: wp-comments-post.php:29
 msgid "Comment Submission Failure"
-msgstr "Inserimento commento fallito."
+msgstr "Invio Commento Fallito"
 
 #: wp-includes/admin-bar.php:123 wp-includes/admin-bar.php:142
 msgid "About ClassicPress"
