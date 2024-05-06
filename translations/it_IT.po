@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-06 14:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -78,7 +78,7 @@ msgstr "Il tuo account è stato attivato. <a href=\"%1$s\">Accedi</a> o torna al
 
 #: wp-comments-post.php:31
 msgid "Comment Submission Failure"
-msgstr "Inserimento commento fallito."
+msgstr "Invio Commento Fallito"
 
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:132
