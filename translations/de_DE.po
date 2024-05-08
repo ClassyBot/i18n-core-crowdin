@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-05 05:00\n"
+"PO-Revision-Date: 2024-05-08 08:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -601,7 +601,7 @@ msgstr "E-Mail"
 #: wp-includes/media.php:3494 wp-includes/media.php:4017
 #: wp-includes/widgets/class-wp-widget-media-image.php:105
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: column name or table row header
 #: wp-admin/comment.php:169
@@ -892,7 +892,7 @@ msgstr "Original"
 #: wp-includes/class-wp-customize-manager.php:5129
 #: wp-includes/class-wp-customize-manager.php:5168
 msgid "Fit to Screen"
-msgstr "Bildschirmpassend"
+msgstr "An Bildschirm anpassen"
 
 #: wp-admin/custom-background.php:393
 #: wp-includes/class-wp-customize-manager.php:5128
@@ -4554,7 +4554,7 @@ msgstr "Noch nie"
 #: wp-includes/admin-bar.php:531 wp-includes/deprecated.php:2800
 #: wp-includes/deprecated.php:2802
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:519
 #: wp-admin/includes/class-wp-plugins-list-table.php:460
@@ -7790,7 +7790,7 @@ msgstr "%1$s zu %2$s %3$s"
 #: wp-admin/includes/dashboard.php:738
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:771
 msgid "Publishing Soon"
@@ -9216,7 +9216,7 @@ msgstr "Status setzen"
 #: wp-admin/includes/template.php:771 wp-includes/class-wp-editor.php:1049
 #: wp-includes/script-loader.php:727
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:135
 msgid "Visibility:"
@@ -9320,7 +9320,7 @@ msgstr "OK"
 #: wp-admin/includes/meta-boxes.php:553
 #: wp-includes/class-wp-customize-control.php:628
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:623
@@ -10568,7 +10568,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:827 wp-includes/class-wp-customize-widgets.php:412
 #: wp-includes/functions.php:3751
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: wp-admin/includes/plugin-install.php:348
 msgid "Admin Utilities"
@@ -11025,7 +11025,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:623
 msgctxt "User role"
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:625
@@ -11284,7 +11284,7 @@ msgstr "Website-Icon"
 #: wp-admin/includes/template.php:1856
 #: wp-includes/class-wp-customize-manager.php:4923
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-admin/includes/template.php:2008 wp-admin/nav-menus.php:659
 #: wp-admin/options.php:355
@@ -17195,7 +17195,7 @@ msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
-msgstr ""
+msgstr "Unterstützung"
 
 #: wp-includes/admin-bar.php:168
 msgid "https://docs.classicpress.net/faq-support/"
@@ -17249,7 +17249,7 @@ msgstr "Benutzer bearbeiten"
 #: wp-includes/admin-bar.php:728
 msgctxt "add new from admin bar"
 msgid "Link"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/admin-bar.php:748
 msgctxt "add new from admin bar"
@@ -17340,7 +17340,7 @@ msgstr "Feed für alle unter %s abgelegten Beiträge"
 
 #: wp-includes/class-walker-comment.php:236
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #. translators: %s: comment author link
 #: wp-includes/class-walker-comment.php:269
@@ -17566,7 +17566,7 @@ msgstr "Mobile Vorschau anzeigen"
 
 #: wp-includes/class-wp-customize-manager.php:4820
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr ""
+msgstr "Suchst du nach einem Theme? Du kannst das WordPress.org-Theme-Verzeichnis durchsuchen oder durchsuchen, die Themes installieren und Vorschau anzeigen, dann aktivieren Sie diese direkt hier."
 
 #: wp-includes/class-wp-customize-manager.php:4821
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
@@ -17578,7 +17578,7 @@ msgstr "Installierte Themes"
 
 #: wp-includes/class-wp-customize-manager.php:4837
 msgid "WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org Themes"
 
 #: wp-includes/class-wp-customize-manager.php:4854
 msgid "Site Identity"
@@ -17714,7 +17714,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:5265
 msgid "Learn more about CSS"
-msgstr "Mehr über CSS erfahren (engl.)"
+msgstr "Mehr über CSS erfahren"
 
 #: wp-includes/class-wp-customize-manager.php:5275
 msgid "Screen reader users: when in forms mode, you may need to press the escape key twice."
@@ -18132,7 +18132,7 @@ msgstr "Visuell"
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -18189,12 +18189,12 @@ msgstr "Zitat"
 #: wp-includes/class-wp-editor.php:1017
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1018
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1019
 msgctxt "HTML tag"
@@ -18209,7 +18209,7 @@ msgstr "Adresse"
 #: wp-includes/class-wp-editor.php:1022
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1023
 msgid "Underline"
@@ -18241,7 +18241,7 @@ msgstr "Kursiv"
 
 #: wp-includes/class-wp-editor.php:1030 wp-includes/script-loader.php:153
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: wp-includes/class-wp-editor.php:1031
 msgid "Source code"
@@ -18370,7 +18370,7 @@ msgstr "Die ID sollte mit einem Buchstaben beginnen, gefolgt von Buchstaben, Zah
 #: wp-includes/class-wp-editor.php:1072
 msgctxt "Id for link anchor (TinyMCE)"
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: wp-includes/class-wp-editor.php:1075
 msgid "Document properties"
@@ -18462,7 +18462,7 @@ msgstr "Video einfügen"
 
 #: wp-includes/class-wp-editor.php:1107
 msgid "Embed"
-msgstr ""
+msgstr "Einbetten"
 
 #: wp-includes/class-wp-editor.php:1110
 msgid "Special character"
@@ -18480,7 +18480,7 @@ msgstr "Links nach rechts"
 
 #: wp-includes/class-wp-editor.php:1113
 msgid "Emoticons"
-msgstr ""
+msgstr "Emoticons"
 
 #: wp-includes/class-wp-editor.php:1114
 msgid "Nonbreaking space"
@@ -18525,7 +18525,7 @@ msgstr "Link entfernen"
 
 #: wp-includes/class-wp-editor.php:1128
 msgid "Link"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/class-wp-editor.php:1129 wp-includes/script-loader.php:139
 msgid "Insert link"
@@ -18567,17 +18567,17 @@ msgstr "Keine Farbe"
 #: wp-includes/class-wp-editor.php:1144
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1145
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1146
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1149
 msgid "Could not find the specified string."
@@ -18709,7 +18709,7 @@ msgstr "Tabellen-Header"
 #: wp-includes/class-wp-editor.php:1181
 msgctxt "table body"
 msgid "Body"
-msgstr ""
+msgstr "Körper"
 
 #: wp-includes/class-wp-editor.php:1182
 msgctxt "table footer"
@@ -26424,7 +26424,7 @@ msgstr "Der ausgeschriebene Name darf nicht länger als 50 Zeichen sein."
 #: wp-includes/user.php:1600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
 #. SITEURL: those are placeholders.
