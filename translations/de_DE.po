@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-07 20:12\n"
+"PO-Revision-Date: 2024-05-08 08:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -110,7 +110,7 @@ msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:187
 msgid "Support"
-msgstr ""
+msgstr "Unterstützung"
 
 #: wp-includes/admin-bar.php:188
 msgid "https://forums.classicpress.net/"
@@ -124,7 +124,7 @@ msgstr "Menü"
 
 #: wp-includes/admin-bar.php:309
 msgid "Edit Profile"
-msgstr ""
+msgstr "Profil bearbeiten"
 
 #: wp-includes/admin-bar.php:319
 #: wp-includes/class-wp-admin-bar.php:477
@@ -157,7 +157,7 @@ msgstr "Website bearbeiten"
 #: wp-includes/deprecated.php:2812
 #: wp-includes/deprecated.php:2814
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: wp-includes/admin-bar.php:442
 #: wp-includes/customize/class-wp-customize-theme-control.php:244
@@ -214,7 +214,7 @@ msgstr "Benutzer bearbeiten"
 #: wp-includes/admin-bar.php:871
 msgctxt "add new from admin bar"
 msgid "Link"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/admin-bar.php:895
 msgctxt "add new from admin bar"
@@ -230,14 +230,14 @@ msgstr "Neu"
 #: wp-includes/admin-bar.php:942
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s Kommentare warten auf Freischaltung"
 msgstr[1] ""
 
 #: wp-includes/admin-bar.php:994
 #: wp-includes/class-wp-customize-widgets.php:416
 #: wp-includes/functions.php:5303
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: wp-includes/admin-bar.php:1005
 #: wp-includes/class-wp-customize-nav-menus.php:673
@@ -257,8 +257,8 @@ msgstr "Tabellen-Header"
 #: wp-includes/admin-bar.php:1057
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Update verfügbar"
+msgstr[1] "%s Updates verfügbar"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1090
@@ -271,7 +271,7 @@ msgstr "Suchen"
 
 #: wp-includes/admin-bar.php:1128
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "Wiederherstellungsmodus verlassen"
 
 #: wp-includes/atomlib.php:151
 #: wp-includes/feed.php:582
@@ -308,7 +308,7 @@ msgstr "Beiträge von %s"
 #: wp-includes/user.php:2272
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: %s: Date and time of last update.
 #: wp-includes/bookmark-template.php:90
@@ -321,11 +321,11 @@ msgstr "Lesezeichen"
 
 #: wp-includes/cache-compat.php:144
 msgid "Your object cache implementation does not support flushing the in-memory runtime cache."
-msgstr ""
+msgstr "Deine Objekt-Cache-Implementierung unterstützt nicht das Leeren des Runtime-Caches im Speicher."
 
 #: wp-includes/cache-compat.php:176
 msgid "Your object cache implementation does not support flushing individual groups."
-msgstr ""
+msgstr "Deine Objekt-Cache-Implementierung unterstützt nicht das Leeren einzelner Gruppen."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:79
@@ -334,14 +334,14 @@ msgstr ""
 #: wp-includes/capabilities.php:374
 #: wp-includes/capabilities.php:430
 msgid "When checking for the %s capability, you must always check it against a specific post."
-msgstr ""
+msgstr "Wenn du nach der %s Fähigkeit suchst, musst du sie immer auf einen bestimmten Beitrag überprüfen."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:82
 #: wp-includes/capabilities.php:185
 #: wp-includes/capabilities.php:284
 msgid "When checking for the %s capability, you must always check it against a specific page."
-msgstr ""
+msgstr "Wenn du nach der %s Fähigkeit suchst, musst du sie immer auf eine bestimmte Seite überprüfen."
 
 #. translators: 1: Post type, 2: Capability name.
 #: wp-includes/capabilities.php:114
@@ -349,35 +349,35 @@ msgstr ""
 #: wp-includes/capabilities.php:314
 #: wp-includes/capabilities.php:395
 msgid "The post type %1$s is not registered, so it may not be reliable to check the capability %2$s against a post of that type."
-msgstr ""
+msgstr "Der Beitragstyp %1$s ist nicht registriert, daher ist es möglicherweise nicht zuverlässig, die Fähigkeit %2$s auf einen Beitrag dieses Typs zu überprüfen."
 
 #. translators: 1: Post status, 2: Capability name.
 #: wp-includes/capabilities.php:342
 msgid "The post status %1$s is not registered, so it may not be reliable to check the capability %2$s against a post with that status."
-msgstr ""
+msgstr "Der Post-Status %1$s ist nicht registriert, daher ist es möglicherweise nicht zuverlässig die Fähigkeit %2$s auf einen Beitrag mit diesem Status zu überprüfen."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:433
 #: wp-includes/capabilities.php:549
 msgid "When checking for the %s capability, you must always check it against a specific comment."
-msgstr ""
+msgstr "Wenn du nach der %s Fähigkeit suchst, musst du sie immer auf einen bestimmten Kommentar überprüfen."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:436
 #: wp-includes/capabilities.php:703
 msgid "When checking for the %s capability, you must always check it against a specific term."
-msgstr ""
+msgstr "Wenn du nach der %s Fähigkeit suchst, musst du sie immer auf einen bestimmten Begriff überprüfen."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:439
 msgid "When checking for the %s capability, you must always check it against a specific user."
-msgstr ""
+msgstr "Wenn du nach der %s Fähigkeit suchst, musst du sie immer auf einen bestimmten Benutzer überprüfen."
 
 #. translators: User role for administrators.
 #: wp-includes/capabilities.php:1263
 msgctxt "User role"
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator"
 
 #. translators: User role for editors.
 #: wp-includes/capabilities.php:1265
@@ -443,11 +443,11 @@ msgstr "Schlagwörter: "
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "Die PHPMailer-Klasse wurde in das Unterverzeichnis wp-includes/PHPMailer verschoben und verwendet nun den PHPMailer\\PHPMailer Namensraum."
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
-msgstr ""
+msgstr "Kein Server angegeben"
 
 #: wp-includes/class-pop3.php:102
 #: wp-includes/class-pop3.php:114
@@ -461,25 +461,25 @@ msgstr ""
 #: wp-includes/class-pop3.php:537
 #: wp-includes/class-pop3.php:560
 msgid "Error "
-msgstr ""
+msgstr "Fehler "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
-msgstr ""
+msgstr "keine Login-ID übermittelt"
 
 #: wp-includes/class-pop3.php:130
 #: wp-includes/class-pop3.php:150
 msgid "connection not established"
-msgstr ""
+msgstr "Verbindung nicht hergestellt"
 
 #: wp-includes/class-pop3.php:147
 #: wp-includes/class-pop3.php:183
 msgid "No password submitted"
-msgstr ""
+msgstr "Kein Passwort übermittelt"
 
 #: wp-includes/class-pop3.php:155
 msgid "Authentication failed"
-msgstr ""
+msgstr "Authentifizierung fehlgeschlagen"
 
 #: wp-includes/class-pop3.php:174
 #: wp-includes/class-pop3.php:217
@@ -492,48 +492,48 @@ msgstr ""
 #: wp-includes/class-pop3.php:525
 #: wp-includes/class-pop3.php:590
 msgid "No connection to server"
-msgstr ""
+msgstr "Keine Verbindung zum Server"
 
 #: wp-includes/class-pop3.php:180
 msgid "No login ID submitted"
-msgstr ""
+msgstr "Keine Login-ID übermittelt"
 
 #: wp-includes/class-pop3.php:188
 msgid "No server banner"
-msgstr ""
+msgstr "Kein Server-Banner"
 
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
 msgid "abort"
-msgstr ""
+msgstr "abbrechen"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
-msgstr ""
+msgstr "apop Authentifizierung fehlgeschlagen"
 
 #: wp-includes/class-pop3.php:335
 msgid "Premature end of list"
-msgstr ""
+msgstr "Vorzeitiges Ende der Liste"
 
 #: wp-includes/class-pop3.php:468
 msgid "Empty command string"
-msgstr ""
+msgstr "Leerer Befehlsstring"
 
 #: wp-includes/class-pop3.php:488
 msgid "connection does not exist"
-msgstr ""
+msgstr "Verbindung existiert nicht"
 
 #: wp-includes/class-pop3.php:595
 msgid "No msg number submitted"
-msgstr ""
+msgstr "Keine msg Nummer übermittelt"
 
 #: wp-includes/class-pop3.php:601
 msgid "Command failed "
-msgstr ""
+msgstr "Befehl fehlgeschlagen "
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "Die SMTP-Klasse wurde in das Unterverzeichnis wp-includes/PHPMailer verschoben und verwendet nun den PHPMailer\\PHPMailer Namensraum."
 
 #. translators: %s: Category name.
 #: wp-includes/class-walker-category.php:171
@@ -542,7 +542,7 @@ msgstr "Feed für alle unter %s abgelegten Beiträge"
 
 #: wp-includes/class-walker-comment.php:258
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: wp-includes/class-walker-comment.php:258
 #: wp-includes/class-wp-editor.php:1389
@@ -556,7 +556,7 @@ msgstr "Dein Kommentar wartet auf Freischaltung."
 
 #: wp-includes/class-walker-comment.php:307
 msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
-msgstr ""
+msgstr "Dein Kommentar wartet auf Moderation. Dies ist eine Vorschau; dein Kommentar wird nach Freigabe angezeigt."
 
 #. translators: %d: ID of a post.
 #. translators: %d: ID of a term.
@@ -585,31 +585,31 @@ msgstr "Werkzeugleiste"
 
 #: wp-includes/class-wp-application-passwords.php:80
 msgid "An application name is required to create an application password."
-msgstr ""
+msgstr "Ein Anwendungsname wird benötigt, um ein Anwendungspasswort zu erstellen."
 
 #: wp-includes/class-wp-application-passwords.php:84
 msgid "Each application name should be unique."
-msgstr ""
+msgstr "Jeder Anwendungsname sollte eindeutig sein."
 
 #: wp-includes/class-wp-application-passwords.php:105
 #: wp-includes/class-wp-application-passwords.php:261
 #: wp-includes/class-wp-application-passwords.php:310
 msgid "Could not save application password."
-msgstr ""
+msgstr "Anwendungspasswort konnte nicht gespeichert werden."
 
 #: wp-includes/class-wp-application-passwords.php:279
 #: wp-includes/class-wp-application-passwords.php:317
 #: wp-includes/class-wp-application-passwords.php:355
 msgid "Could not find an application password with that id."
-msgstr ""
+msgstr "Konnte kein Anwendungspasswort mit dieser id finden."
 
 #: wp-includes/class-wp-application-passwords.php:338
 msgid "Could not delete application password."
-msgstr ""
+msgstr "Anwendungspasswort konnte nicht gelöscht werden."
 
 #: wp-includes/class-wp-application-passwords.php:373
 msgid "Could not delete application passwords."
-msgstr ""
+msgstr "Anwendungspassworte konnten nicht gelöscht werden."
 
 #: wp-includes/class-wp-customize-control.php:590
 #: wp-includes/class-wp-customize-nav-menus.php:707
@@ -620,7 +620,7 @@ msgstr "&mdash; Auswählen &mdash;"
 #. translators: %s: Add New Page label.
 #: wp-includes/class-wp-customize-control.php:632
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-control.php:639
@@ -673,7 +673,7 @@ msgstr "Das angeforderte Theme existiert nicht."
 #. translators: %s: customize_messenger_channel
 #: wp-includes/class-wp-customize-manager.php:1920
 msgid "Unauthorized. You may remove the %s param to preview as frontend."
-msgstr ""
+msgstr "Nicht berechtigt. Du könntest den %s Parameter entfernen, um eine Vorschau als Frontend zu erhalten."
 
 #: wp-includes/class-wp-customize-manager.php:2139
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:177
@@ -904,7 +904,7 @@ msgstr "Mobile Vorschau anzeigen"
 
 #: wp-includes/class-wp-customize-manager.php:5061
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr ""
+msgstr "Suchst du nach einem Theme? Du kannst das WordPress.org-Theme-Verzeichnis durchsuchen oder durchsuchen, die Themes installieren und Vorschau anzeigen, dann aktivieren Sie diese direkt hier."
 
 #: wp-includes/class-wp-customize-manager.php:5062
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
@@ -916,7 +916,7 @@ msgstr "Installierte Themes"
 
 #: wp-includes/class-wp-customize-manager.php:5090
 msgid "WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org Themes"
 
 #: wp-includes/class-wp-customize-manager.php:5117
 msgid "Site Identity"
@@ -943,11 +943,11 @@ msgstr "Website-Icon"
 #. translators: %s: Site Icon size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5195
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "Das Site-Icon ist das, was Sie in Browser-Registerkarten, Lesezeichen-Balken und innerhalb der mobilen WordPress-Apps sehen. Es sollte quadratisch und mindestens %s Pixel sein."
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-includes/class-wp-customize-manager.php:5228
 #: wp-includes/class-wp-customize-manager.php:5233
@@ -1060,7 +1060,7 @@ msgstr "Bildschirmfüllend"
 #: wp-includes/class-wp-customize-manager.php:5505
 #: wp-includes/class-wp-customize-manager.php:5562
 msgid "Fit to Screen"
-msgstr "Bildschirmpassend"
+msgstr "An Bildschirm anpassen"
 
 #: wp-includes/class-wp-customize-manager.php:5506
 msgctxt "Repeat Image"
@@ -1129,11 +1129,11 @@ msgstr "Füge hier deinen eigenen CSS-Code ein, um das Erscheinungsbild und Layo
 
 #: wp-includes/class-wp-customize-manager.php:5691
 msgid "https://wordpress.org/documentation/article/css/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/css/"
 
 #: wp-includes/class-wp-customize-manager.php:5692
 msgid "Learn more about CSS"
-msgstr "Mehr über CSS erfahren (engl.)"
+msgstr "Mehr über CSS erfahren"
 
 #: wp-includes/class-wp-customize-manager.php:5698
 #: wp-includes/widgets/class-wp-widget-custom-html.php:323
@@ -1474,7 +1474,7 @@ msgstr "Ungültiger Inhaltstyp."
 
 #: wp-includes/class-wp-customize-nav-menus.php:952
 msgid "Empty title."
-msgstr ""
+msgstr "Leerer Titel."
 
 #: wp-includes/class-wp-customize-nav-menus.php:955
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2973
@@ -1529,7 +1529,7 @@ msgstr "Weiter"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1125
 msgid "It does not look like your site has any menus yet. Want to build one? Click the button to start."
-msgstr ""
+msgstr "Es sieht so aus, als ob deine Website noch keine Menüs enthält. Willst du eines erstellen? Klicke dafür auf den Button."
 
 #: wp-includes/class-wp-customize-nav-menus.php:1128
 msgid "You&#8217;ll create a menu, assign it a location, and add menu items like links to pages and categories. If your theme has multiple menu areas, you might need to create more than one."
@@ -1601,7 +1601,7 @@ msgstr "Individuelle Links"
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:176
 #: wp-includes/widgets/class-wp-widget-media-image.php:113
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1279
 #: wp-includes/class-wp-editor.php:1891
@@ -1660,25 +1660,25 @@ msgstr "Verschieben"
 
 #: wp-includes/class-wp-customize-widgets.php:729
 msgid "Your theme has 1 other widget area, but this particular page does not display it."
-msgstr ""
+msgstr "Dein Theme hat einen weiteren Widget-Bereich, aber diese bestimmte Seite zeigt ihn nicht an."
 
 #. translators: %s: The number of other widget areas registered but not rendered.
 #: wp-includes/class-wp-customize-widgets.php:738
 msgid "Your theme has %s other widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s other widget areas, but this particular page does not display them."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dein Theme hat %s einen weiteren Widget-Bereich, aber diese bestimmte Seite zeigt ihn nicht an."
+msgstr[1] "Dein Theme hat %s weitere Widget-Bereiche, aber diese bestimmte Seite zeigt sie nicht an."
 
 #: wp-includes/class-wp-customize-widgets.php:753
 msgid "Your theme has 1 widget area, but this particular page does not display it."
-msgstr ""
+msgstr "Dein Theme hat einen weiteren Widget-Bereich, aber diese bestimmte Seite zeigt ihn nicht an."
 
 #. translators: %s: The total number of widget areas registered.
 #: wp-includes/class-wp-customize-widgets.php:762
 msgid "Your theme has %s widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s widget areas, but this particular page does not display them."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Dein Theme hat %s einen weiteren Widget-Bereich, aber diese bestimmte Seite zeigt ihn nicht an."
+msgstr[1] "Dein Theme hat %s weitere Widget-Bereiche, aber diese bestimmte Seite zeigt sie nicht an."
 
 #: wp-includes/class-wp-customize-widgets.php:779
 #: wp-includes/class-wp-editor.php:1391
@@ -1692,7 +1692,7 @@ msgstr "Änderungen speichern und vor Veröffentlichung anschauen."
 
 #: wp-includes/class-wp-customize-widgets.php:782
 msgid "Keep widget settings and move it to the inactive widgets"
-msgstr ""
+msgstr "Widget-Einstellungen beibehalten und auf inaktive Widgets verschieben"
 
 #: wp-includes/class-wp-customize-widgets.php:783
 msgid "An error has occurred. Please reload the page and try again."
@@ -1768,7 +1768,7 @@ msgstr "Visuell"
 #: wp-includes/class-wp-editor.php:1394
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/class-wp-editor.php:1134
 msgid "New document"
@@ -1826,12 +1826,12 @@ msgstr "Zitat"
 #: wp-includes/class-wp-editor.php:1149
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1150
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "HTML tag"
@@ -1846,7 +1846,7 @@ msgstr "Adresse"
 #: wp-includes/class-wp-editor.php:1154
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1155
 msgid "Underline"
@@ -1881,7 +1881,7 @@ msgstr "Kursiv"
 #: wp-includes/class-wp-editor.php:1162
 #: wp-includes/script-loader.php:589
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: wp-includes/class-wp-editor.php:1163
 msgid "Source code"
@@ -1941,7 +1941,7 @@ msgstr "Wiederholen"
 
 #: wp-includes/class-wp-editor.php:1181
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-includes/class-wp-editor.php:1182
 #: wp-includes/class-wp-editor.php:1933
@@ -2031,7 +2031,7 @@ msgstr "Die ID sollte mit einem Buchstaben beginnen, gefolgt von Buchstaben, Zah
 #: wp-includes/class-wp-editor.php:1204
 msgctxt "Id for link anchor (TinyMCE)"
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: wp-includes/class-wp-editor.php:1207
 msgid "Document properties"
@@ -2169,7 +2169,7 @@ msgstr "Video einfügen"
 
 #: wp-includes/class-wp-editor.php:1239
 msgid "Embed"
-msgstr ""
+msgstr "Einbetten"
 
 #: wp-includes/class-wp-editor.php:1242
 msgid "Special character"
@@ -2187,7 +2187,7 @@ msgstr "Links nach rechts"
 
 #: wp-includes/class-wp-editor.php:1245
 msgid "Emoticons"
-msgstr ""
+msgstr "Emoticons"
 
 #: wp-includes/class-wp-editor.php:1246
 msgid "Nonbreaking space"
@@ -2240,7 +2240,7 @@ msgstr "Link entfernen"
 
 #: wp-includes/class-wp-editor.php:1260
 msgid "Link"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/class-wp-editor.php:1261
 #: wp-includes/script-loader.php:575
@@ -2287,17 +2287,17 @@ msgstr "Keine Farbe"
 #: wp-includes/class-wp-editor.php:1276
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1277
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1278
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1281
 msgid "Could not find the specified string."
@@ -2428,7 +2428,7 @@ msgstr "Tabellen-Header"
 #: wp-includes/class-wp-editor.php:1313
 msgctxt "table body"
 msgid "Body"
-msgstr ""
+msgstr "Körper"
 
 #: wp-includes/class-wp-editor.php:1314
 msgctxt "table footer"
@@ -2630,7 +2630,7 @@ msgstr "Einfügen erfolgt jetzt im reinen Text-Modus. Inhalte werden nun als rei
 
 #: wp-includes/class-wp-editor.php:1363
 msgid "If you are looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
-msgstr ""
+msgstr "Wenn du Rich-Text-Inhalte aus Microsoft Word einfügen möchtest, versuche, diese Option abzuschalten. Der Editor wird den aus Word eingefügten Text automatisch bereinigen."
 
 #: wp-includes/class-wp-editor.php:1365
 msgid "Rich Text Area. Press Alt-Shift-H for help."
@@ -2848,32 +2848,32 @@ msgstr "Link hinzufügen"
 
 #: wp-includes/class-wp-fatal-error-handler.php:186
 msgid "There has been a critical error on this website, putting it in recovery mode. Please check the Themes and Plugins screens for more details. If you just installed or updated a theme or plugin, check the relevant page for that first."
-msgstr ""
+msgstr "Auf dieser Website ist ein kritischer Fehler aufgetreten, der in den Wiederherstellungsmodus gesetzt wurde. Bitte überprüfst du die Themes und Plugins Bildschirme für weitere Details. Wenn du gerade ein Theme oder Plugin installiert oder aktualisiert hast, überprüfst du zuerst die entsprechende Seite."
 
 #: wp-includes/class-wp-fatal-error-handler.php:189
 msgid "There has been a critical error on this website. Please reach out to your site administrator, and inform them of this error for further assistance."
-msgstr ""
+msgstr "Auf dieser Website ist ein kritischer Fehler aufgetreten. Bitte wendest du dich an deinen Administrator und informierst du ihn über diesen Fehler für weitere Hilfe."
 
 #: wp-includes/class-wp-fatal-error-handler.php:191
 msgid "There has been a critical error on this website. Please check your site admin email inbox for instructions."
-msgstr ""
+msgstr "Auf dieser Website ist ein kritischer Fehler aufgetreten. Bitte überprüfst du den E-Mail-Posteingang deines Website-Administrators auf Anweisungen."
 
 #: wp-includes/class-wp-fatal-error-handler.php:194
 msgid "There has been a critical error on this website."
-msgstr ""
+msgstr "Auf dieser Website ist ein kritischer Fehler aufgetreten."
 
 #. translators: Documentation about troubleshooting.
 #: wp-includes/class-wp-fatal-error-handler.php:201
 msgid "https://wordpress.org/documentation/article/faq-troubleshooting/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr ""
+msgstr "Erfahren Sie mehr über die Fehlerbehebung bei ClassicPress."
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
-msgstr ""
+msgstr "Diese Datei wird nur aus Gründen der Abwärtskompatibilität mit SimplePie 1.2.x geladen. Bitte überlegst du, zu einer aktuellen Version von SimplePie zu wechseln."
 
 #. translators: 1: fopen(), 2: File name.
 #: wp-includes/class-wp-http-curl.php:194
@@ -2919,7 +2919,7 @@ msgstr "Es sind keine HTTP-Transports verfügbar, welche die gewünschte Abfrage
 #: wp-includes/class-wp-image-editor-gd.php:101
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "Datei existiert nicht?"
 
 #: wp-includes/class-wp-image-editor-gd.php:115
 #: wp-includes/class-wp-image-editor-imagick.php:161
@@ -2944,7 +2944,7 @@ msgstr "Die Abmessungen des größenveränderten Bildes konnten nicht berechnet 
 #: wp-includes/class-wp-image-editor-gd.php:277
 #: wp-includes/class-wp-image-editor-imagick.php:534
 msgid "Cannot resize the image. Both width and height are not set."
-msgstr ""
+msgstr "Größe des Bildes kann nicht geändert werden. Breite und Höhe sind nicht gesetzt."
 
 #: wp-includes/class-wp-image-editor-gd.php:338
 #: wp-includes/class-wp-image-editor-gd.php:362
@@ -2969,7 +2969,7 @@ msgstr "Das Speichern der Bildbearbeitung ist fehlgeschlagen"
 
 #: wp-includes/class-wp-image-editor-imagick.php:553
 msgid "The image already has the requested size."
-msgstr ""
+msgstr "Das Bild hat bereits die angeforderte Größe."
 
 #: wp-includes/class-wp-image-editor-imagick.php:708
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
