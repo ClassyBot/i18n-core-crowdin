@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-04-16T12:24:33+00:00\n"
+"POT-Creation-Date: 2024-05-09T15:10:25+00:00\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-09 15:15\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -181,7 +181,7 @@ msgid "Users"
 msgstr "Kullanıcılar"
 
 #: wp-includes/admin-bar.php:537
-#: wp-includes/admin-bar.php:979
+#: wp-includes/admin-bar.php:993
 #: wp-includes/customize/class-wp-customize-themes-panel.php:82
 msgid "Themes"
 msgstr "Temalar"
@@ -207,69 +207,73 @@ msgstr "Kısa bağlantı"
 msgid "View User"
 msgstr "Kullanıcıyı görüntüle"
 
-#: wp-includes/admin-bar.php:841
+#: wp-includes/admin-bar.php:811
+msgid "Debugging Enabled"
+msgstr ""
+
+#: wp-includes/admin-bar.php:855
 msgid "Edit User"
 msgstr "Kullanıcı düzenle"
 
-#: wp-includes/admin-bar.php:871
+#: wp-includes/admin-bar.php:885
 msgctxt "add new from admin bar"
 msgid "Link"
 msgstr "Bağlantı"
 
-#: wp-includes/admin-bar.php:895
+#: wp-includes/admin-bar.php:909
 msgctxt "add new from admin bar"
 msgid "User"
 msgstr "Kullanıcı"
 
-#: wp-includes/admin-bar.php:902
+#: wp-includes/admin-bar.php:916
 msgctxt "admin bar menu group label"
 msgid "New"
 msgstr "Yeni"
 
 #. translators: Hidden accessibility text. %s: Number of comments.
-#: wp-includes/admin-bar.php:942
+#: wp-includes/admin-bar.php:956
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
 msgstr[0] ""
 msgstr[1] ""
 
-#: wp-includes/admin-bar.php:994
+#: wp-includes/admin-bar.php:1008
 #: wp-includes/class-wp-customize-widgets.php:416
-#: wp-includes/functions.php:5303
+#: wp-includes/functions.php:5311
 msgid "Widgets"
 msgstr "Bileşenler"
 
-#: wp-includes/admin-bar.php:1005
+#: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-nav-menus.php:673
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:113
 msgid "Menus"
 msgstr "Menüler"
 
-#: wp-includes/admin-bar.php:1016
+#: wp-includes/admin-bar.php:1030
 msgid "Background"
 msgstr "Arkaplan"
 
-#: wp-includes/admin-bar.php:1030
+#: wp-includes/admin-bar.php:1044
 msgid "Header"
 msgstr "Üst kısım"
 
 #. translators: Hidden accessibility text. %s: Total number of updates available.
-#: wp-includes/admin-bar.php:1057
+#: wp-includes/admin-bar.php:1071
 msgid "%s update available"
 msgid_plural "%s updates available"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: Hidden accessibility text.
-#: wp-includes/admin-bar.php:1090
-#: wp-includes/admin-bar.php:1092
+#: wp-includes/admin-bar.php:1104
+#: wp-includes/admin-bar.php:1106
 #: wp-includes/class-wp-editor.php:1903
 #: wp-includes/media.php:4578
 #: wp-includes/media.php:4623
 msgid "Search"
 msgstr "Ara"
 
-#: wp-includes/admin-bar.php:1128
+#: wp-includes/admin-bar.php:1142
 msgid "Exit Recovery Mode"
 msgstr ""
 
@@ -413,7 +417,7 @@ msgstr "Genel"
 #: wp-includes/category-template.php:379
 #: wp-includes/category.php:47
 #: wp-includes/class-wp-query.php:1927
-#: wp-includes/class-wp-user-query.php:402
+#: wp-includes/class-wp-user-query.php:415
 msgid "%1$s is deprecated. Use %2$s instead."
 msgstr "%1$s artık kullanılmıyor, yerine %2$s kullanın."
 
@@ -638,7 +642,7 @@ msgstr "Ekle"
 
 #: wp-includes/class-wp-customize-manager.php:450
 #: wp-includes/class-wp-xmlrpc-server.php:4009
-#: wp-includes/functions.php:3566
+#: wp-includes/functions.php:3574
 #: wp-includes/script-loader.php:607
 #: wp-includes/script-loader.php:1105
 msgid "Something went wrong."
@@ -829,7 +833,7 @@ msgstr "Ön izleme bağlantısı"
 #: wp-includes/class-wp-customize-manager.php:5694
 #: wp-includes/class-wp-customize-manager.php:5715
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:58
-#: wp-includes/functions.php:8136
+#: wp-includes/functions.php:8144
 #: wp-includes/media-template.php:167
 #: wp-includes/widgets/class-wp-widget-custom-html.php:318
 #: wp-login.php:631
@@ -2983,7 +2987,7 @@ msgstr ""
 #. translators: %s: Directory path.
 #: wp-includes/class-wp-image-editor-imagick.php:846
 #: wp-includes/functions.php:2380
-#: wp-includes/functions.php:2915
+#: wp-includes/functions.php:2923
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
 msgstr "%s dizini oluşturulamıyor. Bir üst dizin sunucu tarafından yazılabilir mi?"
 
@@ -3849,16 +3853,16 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:2456
 #: wp-includes/class-wp-xmlrpc-server.php:2562
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:189
-#: wp-includes/taxonomy.php:532
-#: wp-includes/taxonomy.php:790
-#: wp-includes/taxonomy.php:891
-#: wp-includes/taxonomy.php:1083
-#: wp-includes/taxonomy.php:1253
-#: wp-includes/taxonomy.php:2168
-#: wp-includes/taxonomy.php:2310
-#: wp-includes/taxonomy.php:2699
-#: wp-includes/taxonomy.php:2886
-#: wp-includes/taxonomy.php:3097
+#: wp-includes/taxonomy.php:622
+#: wp-includes/taxonomy.php:880
+#: wp-includes/taxonomy.php:981
+#: wp-includes/taxonomy.php:1173
+#: wp-includes/taxonomy.php:1343
+#: wp-includes/taxonomy.php:2258
+#: wp-includes/taxonomy.php:2400
+#: wp-includes/taxonomy.php:2789
+#: wp-includes/taxonomy.php:2976
+#: wp-includes/taxonomy.php:3187
 msgid "Invalid taxonomy."
 msgstr "Geçersiz sınıflandırma."
 
@@ -3971,6 +3975,7 @@ msgid "New Category Name"
 msgstr "Yeni kategori ismi"
 
 #: wp-includes/class-wp-taxonomy.php:628
+#: wp-includes/taxonomy.php:251
 msgid "Separate tags with commas"
 msgstr "Etiketleri virgül ile ayırın"
 
@@ -3979,6 +3984,7 @@ msgid "Add or remove tags"
 msgstr "Etiket ekle ya da kaldır"
 
 #: wp-includes/class-wp-taxonomy.php:630
+#: wp-includes/taxonomy.php:253
 msgid "Choose from the most used tags"
 msgstr "En çok kullanılan etiketler arasından seç"
 
@@ -4213,7 +4219,7 @@ msgid "Seasonal"
 msgstr "Mevsimsel"
 
 #. translators: %s: plugins_loaded
-#: wp-includes/class-wp-user-query.php:787
+#: wp-includes/class-wp-user-query.php:913
 msgid "User queries should not be run before the %s hook."
 msgstr ""
 
@@ -4388,7 +4394,7 @@ msgstr "Üzgünüm, yazıları yapışkan yapmanıza izin verilmiyor."
 #: wp-includes/class-wp-xmlrpc-server.php:6799
 #: wp-includes/comment.php:2504
 #: wp-includes/post.php:3860
-#: wp-includes/post.php:4534
+#: wp-includes/post.php:4554
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:363
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:830
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:430
@@ -4472,7 +4478,7 @@ msgstr "Üzgünüm, belirtilen sınıflandırmalardan biri için terim atama yet
 #: wp-includes/class-wp-xmlrpc-server.php:2323
 #: wp-includes/class-wp-xmlrpc-server.php:2403
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:422
-#: wp-includes/taxonomy.php:2330
+#: wp-includes/taxonomy.php:2420
 msgid "Invalid term ID."
 msgstr "Geçersiz terim numarası."
 
@@ -4540,8 +4546,8 @@ msgstr "Sınıflandırma hiyerarşik değil."
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:301
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:512
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:659
-#: wp-includes/taxonomy.php:2346
-#: wp-includes/taxonomy.php:3143
+#: wp-includes/taxonomy.php:2436
+#: wp-includes/taxonomy.php:3233
 msgid "Parent term does not exist."
 msgstr "Ebeveyn terim bulunmuyor."
 
@@ -4944,7 +4950,7 @@ msgid "ClassicPress database error:"
 msgstr "ClassicPress veritabanı hatası:"
 
 #: wp-includes/class-wpdb.php:1985
-#: wp-includes/functions.php:5358
+#: wp-includes/functions.php:5366
 msgid "Error establishing a database connection"
 msgstr "Veritabanı bağlantısı kurulurken hata oluştu"
 
@@ -5251,6 +5257,10 @@ msgstr "Cevabı iptal et"
 #: wp-includes/comment-template.php:2653
 msgid "Post Comment"
 msgstr "Yorum gönder"
+
+#: wp-includes/comment-template.php:2742
+msgid "Array values must only be a string or `true` boolean"
+msgstr ""
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
@@ -6447,176 +6457,176 @@ msgstr ""
 msgid "One or more database tables are unavailable. The database may need to be <a href=\"%s\">repaired</a>."
 msgstr "Bir ya da daha fazla veritabanı tablosu kötü durumda. Veritabanın <a href=\"%s\">tamir</a> edilmesi gerekiyor olabilir."
 
-#: wp-includes/functions.php:2866
+#: wp-includes/functions.php:2874
 msgid "Empty filename"
 msgstr "Boş dosya ismi"
 
-#: wp-includes/functions.php:2871
+#: wp-includes/functions.php:2879
 #: wp-includes/script-loader.php:787
 msgid "Sorry, you are not allowed to upload this file type."
 msgstr ""
 
 #. translators: %s: File name.
-#: wp-includes/functions.php:2925
+#: wp-includes/functions.php:2933
 msgid "Could not write file %s"
 msgstr "Dosya yazılamıyor %s"
 
 #. translators: %s: Site title.
-#: wp-includes/functions.php:3572
+#: wp-includes/functions.php:3580
 msgid "You are attempting to log out of %s"
 msgstr "%s sisteminden çıkış yapıyorsunuz"
 
 #. translators: %s: Logout URL.
-#: wp-includes/functions.php:3582
+#: wp-includes/functions.php:3590
 msgid "Do you really want to <a href=\"%s\">log out</a>?"
 msgstr "Gerçekten <a href=\"%s\">çıkış yapmak</a> istiyor musunuz?"
 
-#: wp-includes/functions.php:3586
+#: wp-includes/functions.php:3594
 msgid "The link you followed has expired."
 msgstr "Takip ettiğiniz bağlantının süresi doldu."
 
-#: wp-includes/functions.php:3596
+#: wp-includes/functions.php:3604
 msgid "Please try again."
 msgstr "Lütfen tekrar deneyin."
 
-#: wp-includes/functions.php:3768
+#: wp-includes/functions.php:3776
 msgid "&laquo; Back"
 msgstr "&laquo; Geri"
 
-#: wp-includes/functions.php:4227
+#: wp-includes/functions.php:4235
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:268
 #: wp-load.php:104
 msgid "ClassicPress &rsaquo; Error"
 msgstr "ClassicPress &rsaquo; Hata"
 
 #. translators: 1: WP_REST_Response, 2: WP_Error
-#: wp-includes/functions.php:4404
+#: wp-includes/functions.php:4412
 msgid "Return a %1$s or %2$s object from your callback when using the REST API."
 msgstr ""
 
 #. translators: %s: Path to the JSON file.
-#: wp-includes/functions.php:4542
+#: wp-includes/functions.php:4550
 msgid "File %s doesn't exist!"
 msgstr ""
 
 #. translators: 1: Path to the JSON file, 2: Error message.
-#: wp-includes/functions.php:4556
+#: wp-includes/functions.php:4564
 msgid "Error when decoding a JSON file at path %1$s: %2$s"
 msgstr ""
 
-#: wp-includes/functions.php:5358
+#: wp-includes/functions.php:5366
 msgid "Database Error"
 msgstr "Veritabanı hatası"
 
 #. translators: 1: PHP function name, 2: Version number, 3: Alternative function name.
-#: wp-includes/functions.php:5418
+#: wp-includes/functions.php:5426
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr ""
 
 #. translators: 1: PHP function name, 2: Version number.
-#: wp-includes/functions.php:5429
+#: wp-includes/functions.php:5437
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
 #. translators: 1: PHP class name, 2: PHP parent class name, 3: Version number, 4: __construct() method.
-#: wp-includes/functions.php:5510
+#: wp-includes/functions.php:5518
 msgid "The called constructor method for %1$s class in %2$s is <strong>deprecated</strong> since version %3$s! Use %4$s instead."
 msgstr ""
 
 #. translators: 1: PHP class name, 2: Version number, 3: __construct() method.
-#: wp-includes/functions.php:5522
+#: wp-includes/functions.php:5530
 msgid "The called constructor method for %1$s class is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr ""
 
 #. translators: 1: PHP file name, 2: Version number, 3: Alternative file name.
-#: wp-includes/functions.php:5607
+#: wp-includes/functions.php:5615
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr ""
 
 #. translators: 1: PHP file name, 2: Version number.
-#: wp-includes/functions.php:5618
+#: wp-includes/functions.php:5626
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
 #. translators: 1: PHP function name, 2: Version number, 3: Optional message regarding the change.
-#: wp-includes/functions.php:5701
+#: wp-includes/functions.php:5709
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
 msgstr ""
 
 #. translators: 1: PHP function name, 2: Version number.
-#: wp-includes/functions.php:5712
+#: wp-includes/functions.php:5720
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
 #. translators: 1: WordPress hook name, 2: Version number, 3: Alternative hook name.
-#: wp-includes/functions.php:5792
+#: wp-includes/functions.php:5800
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr ""
 
 #. translators: 1: WordPress hook name, 2: Version number.
-#: wp-includes/functions.php:5803
+#: wp-includes/functions.php:5811
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr ""
 
 #. translators: %s: Version number.
-#: wp-includes/functions.php:5857
+#: wp-includes/functions.php:5865
 msgid "(This message was added in version %s.)"
 msgstr "(Bu mesaj %s sürümünde eklendi.)"
 
 #. translators: %s: Documentation URL.
-#: wp-includes/functions.php:5862
+#: wp-includes/functions.php:5870
 msgid "Please see <a href=\"%s\">Debugging in ClassicPress</a> for more information."
 msgstr "Daha fazla bilgi için lütfen <a href=\"%s\">ClassicPress hata ayıklama</a> adresine bakın."
 
-#: wp-includes/functions.php:5863
+#: wp-includes/functions.php:5871
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 msgstr ""
 
 #. translators: Developer debugging message. 1: PHP function name, 2: Explanatory message, 3: WordPress version number.
-#: wp-includes/functions.php:5869
+#: wp-includes/functions.php:5877
 msgid "Function %1$s was called <strong>incorrectly</strong>. %2$s %3$s"
 msgstr ""
 
-#: wp-includes/functions.php:6429
+#: wp-includes/functions.php:6437
 msgid "Select a city"
 msgstr "Şehir seçin"
 
-#: wp-includes/functions.php:6481
-#: wp-includes/functions.php:6486
+#: wp-includes/functions.php:6489
+#: wp-includes/functions.php:6494
 msgid "UTC"
 msgstr ""
 
-#: wp-includes/functions.php:6490
+#: wp-includes/functions.php:6498
 msgid "Manual Offsets"
 msgstr "Manuel zaman farkları"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/functions.php:7170
+#: wp-includes/functions.php:7178
 #: wp-includes/media-template.php:202
 #: wp-includes/media-template.php:367
 msgid "Close dialog"
 msgstr "Pencereyi kapat"
 
-#: wp-includes/functions.php:7190
+#: wp-includes/functions.php:7198
 #: wp-includes/script-loader.php:1109
 msgid "Session expired"
 msgstr "Oturum süresi doldu"
 
-#: wp-includes/functions.php:7191
+#: wp-includes/functions.php:7199
 #: wp-includes/user.php:306
 msgid "Please log in again."
 msgstr "Lütfen tekrar giriş yapın."
 
-#: wp-includes/functions.php:7192
+#: wp-includes/functions.php:7200
 msgid "The login page will open in a new tab. After logging in you can close it and return to this page."
 msgstr ""
 
-#: wp-includes/functions.php:7608
+#: wp-includes/functions.php:7616
 msgid "Only UUID V4 is supported at this time."
 msgstr "Şu an için sadece UUID V4 desteklenmektedir."
 
 #. translators: Do not translate OLD_EMAIL, NEW_EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/functions.php:7689
+#: wp-includes/functions.php:7697
 msgid "Hi,\n\n"
 "This notice confirms that the admin email address was changed on ###SITENAME###.\n\n"
 "The new admin email address is ###NEW_EMAIL###.\n\n"
@@ -6633,41 +6643,41 @@ msgstr "Merhaba,\n\n"
 "###SITEURL###"
 
 #. translators: Site admin email change notification email subject. %s: Site title.
-#: wp-includes/functions.php:7706
+#: wp-includes/functions.php:7714
 msgid "[%s] Admin Email Changed"
 msgstr ""
 
 #. translators: Deleted text.
-#: wp-includes/functions.php:7853
+#: wp-includes/functions.php:7861
 msgid "[deleted]"
 msgstr "[silinmiş]"
 
 #. translators: Deleted long text.
-#: wp-includes/functions.php:7857
+#: wp-includes/functions.php:7865
 msgid "This content was deleted by the author."
 msgstr "Bu içerik yazar tarafından silindi."
 
-#: wp-includes/functions.php:8034
+#: wp-includes/functions.php:8042
 msgctxt "localized PHP upgrade information page"
 msgid "https://wordpress.org/support/update-php/"
 msgstr ""
 
 #. translators: %s: Default Update PHP page URL.
-#: wp-includes/functions.php:8077
+#: wp-includes/functions.php:8085
 msgid "This resource is provided by your web host, and is specific to your site. For more information, <a href=\"%s\" target=\"_blank\">see the official ClassicPress documentation</a>."
 msgstr ""
 
-#: wp-includes/functions.php:8134
+#: wp-includes/functions.php:8142
 msgid "Update PHP"
 msgstr ""
 
 #. translators: Documentation explaining HTTPS and why it should be used.
-#: wp-includes/functions.php:8193
+#: wp-includes/functions.php:8201
 msgid "https://wordpress.org/documentation/article/why-should-i-use-https/"
 msgstr ""
 
 #. translators: 1: Function name, 2: A variable type, like "boolean" or "integer".
-#: wp-includes/functions.php:8390
+#: wp-includes/functions.php:8398
 msgid "%1$s only accepts a non-empty path string, received %2$s."
 msgstr ""
 
@@ -8976,24 +8986,24 @@ msgstr ""
 msgid "Could not update post in the database."
 msgstr ""
 
-#: wp-includes/post.php:4229
+#: wp-includes/post.php:4249
 msgid "Could not insert attachment into the database."
 msgstr ""
 
-#: wp-includes/post.php:4231
+#: wp-includes/post.php:4251
 msgid "Could not insert post into the database."
 msgstr ""
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/post.php:4295
+#: wp-includes/post.php:4315
 msgid "Invalid taxonomy: %s."
 msgstr "Geçersiz sınıflandırma: %s."
 
-#: wp-includes/post.php:4365
+#: wp-includes/post.php:4385
 msgid "Invalid page template."
 msgstr "Geçersiz sayfa şablonu."
 
-#: wp-includes/post.php:5014
+#: wp-includes/post.php:5034
 msgctxt "tag delimiter"
 msgid ","
 msgstr ""
@@ -12297,121 +12307,193 @@ msgstr ""
 msgid "Priority"
 msgstr ""
 
-#: wp-includes/taxonomy.php:116
+#: wp-includes/taxonomy.php:122
 msgid "Navigation Menus"
 msgstr "Dolaşım menüleri"
 
-#: wp-includes/taxonomy.php:117
+#: wp-includes/taxonomy.php:123
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:30
 msgid "Navigation Menu"
 msgstr "Dolaşım menüsü"
 
-#: wp-includes/taxonomy.php:142
+#: wp-includes/taxonomy.php:148
 msgid "Link Categories"
 msgstr "Bağlantı kategorileri"
 
-#: wp-includes/taxonomy.php:143
+#: wp-includes/taxonomy.php:149
 msgid "Link Category"
 msgstr "Bağlantı kategorisi"
 
-#: wp-includes/taxonomy.php:144
+#: wp-includes/taxonomy.php:150
 msgid "Search Link Categories"
 msgstr "Bağlantı kategorilerinde ara"
 
-#: wp-includes/taxonomy.php:146
+#: wp-includes/taxonomy.php:152
 msgid "All Link Categories"
 msgstr "Tüm bağlantı kategorileri"
 
-#: wp-includes/taxonomy.php:147
+#: wp-includes/taxonomy.php:153
 msgid "Edit Link Category"
 msgstr "Bağlantı kategorisini düzenle"
 
-#: wp-includes/taxonomy.php:148
+#: wp-includes/taxonomy.php:154
 msgid "Update Link Category"
 msgstr "Bağlantı kategorisi ismini güncelle"
 
-#: wp-includes/taxonomy.php:149
+#: wp-includes/taxonomy.php:155
 msgid "Add New Link Category"
 msgstr "Yeni bağlantı kategorisi ekle"
 
-#: wp-includes/taxonomy.php:150
+#: wp-includes/taxonomy.php:156
 msgid "New Link Category Name"
 msgstr "Yeni bağlantı kategorisi ismi"
 
-#: wp-includes/taxonomy.php:154
+#: wp-includes/taxonomy.php:160
 msgid "&larr; Go to Link Categories"
 msgstr ""
 
-#: wp-includes/taxonomy.php:177
+#: wp-includes/taxonomy.php:183
 msgctxt "post format"
 msgid "Formats"
 msgstr "Biçimler"
 
-#: wp-includes/taxonomy.php:178
+#: wp-includes/taxonomy.php:184
 msgctxt "post format"
 msgid "Format"
 msgstr "Biçim"
 
-#: wp-includes/taxonomy.php:451
-#: wp-includes/taxonomy.php:452
+#: wp-includes/taxonomy.php:200
+msgid "Media Categories"
+msgstr ""
+
+#: wp-includes/taxonomy.php:201
+msgid "Media Category"
+msgstr ""
+
+#: wp-includes/taxonomy.php:202
+msgid "Search Media Categories"
+msgstr ""
+
+#: wp-includes/taxonomy.php:204
+msgid "All Media Categories"
+msgstr ""
+
+#: wp-includes/taxonomy.php:205
+msgid "Edit Media Category"
+msgstr ""
+
+#: wp-includes/taxonomy.php:206
+msgid "Update Media Category"
+msgstr ""
+
+#: wp-includes/taxonomy.php:207
+msgid "Add New Media Category"
+msgstr ""
+
+#: wp-includes/taxonomy.php:208
+msgid "New Media Category Name"
+msgstr ""
+
+#: wp-includes/taxonomy.php:212
+msgid "&larr; Go to Media Categories"
+msgstr ""
+
+#: wp-includes/taxonomy.php:242
+msgid "Media Tags"
+msgstr ""
+
+#: wp-includes/taxonomy.php:243
+msgid "Media Tag"
+msgstr ""
+
+#: wp-includes/taxonomy.php:244
+msgid "Search Media Tags"
+msgstr ""
+
+#: wp-includes/taxonomy.php:246
+msgid "All Media Tags"
+msgstr ""
+
+#: wp-includes/taxonomy.php:247
+msgid "Edit Media Tag"
+msgstr ""
+
+#: wp-includes/taxonomy.php:248
+msgid "Update Media Tag"
+msgstr ""
+
+#: wp-includes/taxonomy.php:249
+msgid "Add New Media Tag"
+msgstr ""
+
+#: wp-includes/taxonomy.php:250
+msgid "New Media Tag Name"
+msgstr ""
+
+#: wp-includes/taxonomy.php:254
+msgid "&larr; Go to Media Tags"
+msgstr ""
+
+#: wp-includes/taxonomy.php:541
+#: wp-includes/taxonomy.php:542
 msgid "Taxonomy names must be between 1 and 32 characters in length."
 msgstr "Sınıflandırma isimlerinin uzunluğu 1 ve 32 karakter arasında olmalıdır."
 
-#: wp-includes/taxonomy.php:539
+#: wp-includes/taxonomy.php:629
 msgid "Unregistering a built-in taxonomy is not allowed."
 msgstr "Dahili taksonominin kayıttan çıkarılmasına izin verilmiyor."
 
-#: wp-includes/taxonomy.php:887
-#: wp-includes/taxonomy.php:3110
-#: wp-includes/taxonomy.php:4537
+#: wp-includes/taxonomy.php:977
+#: wp-includes/taxonomy.php:3200
+#: wp-includes/taxonomy.php:4627
 msgid "Empty Term."
 msgstr "Boş terim."
 
-#: wp-includes/taxonomy.php:1302
-#: wp-includes/taxonomy.php:1366
+#: wp-includes/taxonomy.php:1392
+#: wp-includes/taxonomy.php:1456
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
 msgstr "Paylaşılan sınıflandırmalarda terimlere terim meta verisi eklenemez."
 
-#: wp-includes/taxonomy.php:2334
-#: wp-includes/taxonomy.php:3139
+#: wp-includes/taxonomy.php:2424
+#: wp-includes/taxonomy.php:3229
 msgid "A name is required for this term."
 msgstr "Bu terim için isim gereklidir."
 
-#: wp-includes/taxonomy.php:2444
+#: wp-includes/taxonomy.php:2534
 msgid "A term with the name provided already exists with this parent."
 msgstr "Belirtilen terim için isim kökte zaten var."
 
-#: wp-includes/taxonomy.php:2447
+#: wp-includes/taxonomy.php:2537
 msgid "A term with the name provided already exists in this taxonomy."
 msgstr "Bu sınıflandırmaya bağlı, aynı isme ve kısa isme sahip bir terim zaten var."
 
-#: wp-includes/taxonomy.php:2468
+#: wp-includes/taxonomy.php:2558
 msgid "Could not insert term into the database."
 msgstr "Veritabanına terim eklenemedi."
 
-#: wp-includes/taxonomy.php:2495
+#: wp-includes/taxonomy.php:2585
 msgid "Could not insert term taxonomy into the database."
 msgstr ""
 
-#: wp-includes/taxonomy.php:2829
+#: wp-includes/taxonomy.php:2919
 msgid "Could not insert term relationship into the database."
 msgstr "Veritabanına terim ilişkisi eklenemedi."
 
 #. translators: %s: Taxonomy term slug.
-#: wp-includes/taxonomy.php:3205
+#: wp-includes/taxonomy.php:3295
 msgid "The slug &#8220;%s&#8221; is already in use by another term."
 msgstr "Kısa isim &#8220;%s&#8221; şu an başka bir terim tarafından kullanılıyor."
 
-#: wp-includes/taxonomy.php:4167
+#: wp-includes/taxonomy.php:4257
 msgid "Could not split shared term."
 msgstr "Paylaşılmış terim ayrıştırılamıyor."
 
 #. translators: %s: Taxonomy label, %l: List of terms formatted as per $term_template.
-#: wp-includes/taxonomy.php:4686
+#: wp-includes/taxonomy.php:4776
 msgid "%s: %l."
 msgstr ""
 
-#: wp-includes/taxonomy.php:4760
+#: wp-includes/taxonomy.php:4850
 msgid "Invalid object ID."
 msgstr "Geçersiz nesne numarası."
 
@@ -12720,8 +12802,8 @@ msgstr "Bu örnek bir ana sayfa bölümüdür. Ana sayfa bölümleri ana sayfan�
 msgid "You need to pass an array of post formats."
 msgstr ""
 
-#: wp-includes/theme.php:2612
-msgid "HTML5 is the default "
+#: wp-includes/theme.php:2613
+msgid "HTML5 is the default."
 msgstr ""
 
 #. translators: 1: title-tag, 2: wp_loaded
