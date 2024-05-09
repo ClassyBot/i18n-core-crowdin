@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-04-16T12:24:56+00:00\n"
+"POT-Creation-Date: 2024-05-09T15:10:49+00:00\n"
 "X-Generator: WP-CLI 2.10.0\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-18 05:30\n"
+"PO-Revision-Date: 2024-05-09 15:15\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -86,7 +86,7 @@ msgstr "Права"
 #: wp-admin/about.php:43
 #: wp-admin/credits.php:46
 #: wp-admin/freedoms.php:60
-#: wp-admin/menu.php:342
+#: wp-admin/menu.php:357
 #: wp-admin/options-privacy.php:22
 #: wp-admin/options-privacy.php:157
 #: wp-admin/privacy-policy-guide.php:40
@@ -309,8 +309,8 @@ msgstr ""
 #. translators: Default date format, see https://www.php.net/manual/datetime.format.php
 #. translators: 1: Date, 2: Time.
 #: wp-admin/admin.php:113
-#: wp-admin/edit-form-advanced.php:663
-#: wp-admin/edit-form-advanced.php:666
+#: wp-admin/edit-form-advanced.php:667
+#: wp-admin/edit-form-advanced.php:670
 #: wp-admin/includes/ajax-actions.php:1559
 #: wp-admin/includes/ajax-actions.php:2802
 #: wp-admin/includes/ajax-actions.php:2805
@@ -334,8 +334,8 @@ msgstr "d.m.Y"
 #. translators: Default time format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/admin.php:114
 #: wp-admin/comment.php:223
-#: wp-admin/edit-form-advanced.php:663
-#: wp-admin/edit-form-advanced.php:666
+#: wp-admin/edit-form-advanced.php:667
+#: wp-admin/edit-form-advanced.php:670
 #: wp-admin/includes/ajax-actions.php:1559
 #: wp-admin/includes/ajax-actions.php:2803
 #: wp-admin/includes/ajax-actions.php:2806
@@ -363,7 +363,7 @@ msgstr ""
 
 #: wp-admin/admin.php:338
 #: wp-admin/import.php:19
-#: wp-admin/menu.php:322
+#: wp-admin/menu.php:337
 msgid "Import"
 msgstr "Импорт"
 
@@ -487,19 +487,19 @@ msgstr[3] ""
 
 #. translators: %s: Application name.
 #: wp-admin/authorize-application.php:204
-#: wp-admin/user-edit.php:991
+#: wp-admin/user-edit.php:1037
 #: wp-admin/js/auth-app.js:90
 msgid "Your new password for %s is:"
 msgstr ""
 
 #: wp-admin/authorize-application.php:211
-#: wp-admin/user-edit.php:998
+#: wp-admin/user-edit.php:1044
 #: wp-admin/js/auth-app.js:98
 msgid "Be sure to save this in a safe location. You will not be able to retrieve it."
 msgstr ""
 
 #: wp-admin/authorize-application.php:239
-#: wp-admin/user-edit.php:837
+#: wp-admin/user-edit.php:883
 msgid "New Application Password Name"
 msgstr ""
 
@@ -537,7 +537,7 @@ msgstr "Изменить комментарий"
 
 #: wp-admin/comment.php:62
 #: wp-admin/edit-comments.php:189
-#: wp-admin/edit-form-advanced.php:340
+#: wp-admin/edit-form-advanced.php:344
 #: wp-admin/edit-link-form.php:66
 #: wp-admin/edit-tags.php:268
 #: wp-admin/edit.php:247
@@ -590,9 +590,9 @@ msgstr "Вы также можете одобрить или отклонить 
 
 #: wp-admin/comment.php:70
 #: wp-admin/edit-comments.php:209
-#: wp-admin/edit-form-advanced.php:314
-#: wp-admin/edit-form-advanced.php:331
-#: wp-admin/edit-form-advanced.php:350
+#: wp-admin/edit-form-advanced.php:318
+#: wp-admin/edit-form-advanced.php:335
+#: wp-admin/edit-form-advanced.php:354
 #: wp-admin/edit-link-form.php:75
 #: wp-admin/edit-tags.php:302
 #: wp-admin/edit.php:291
@@ -641,9 +641,9 @@ msgstr ""
 
 #: wp-admin/comment.php:72
 #: wp-admin/edit-comments.php:213
-#: wp-admin/edit-form-advanced.php:316
-#: wp-admin/edit-form-advanced.php:334
-#: wp-admin/edit-form-advanced.php:352
+#: wp-admin/edit-form-advanced.php:320
+#: wp-admin/edit-form-advanced.php:338
+#: wp-admin/edit-form-advanced.php:356
 #: wp-admin/edit-link-form.php:77
 #: wp-admin/edit-tags.php:312
 #: wp-admin/edit.php:293
@@ -781,8 +781,8 @@ msgstr "Внимание:"
 #: wp-admin/includes/class-wp-post-comments-list-table.php:25
 #: wp-admin/includes/class-wp-posts-list-table.php:667
 #: wp-admin/includes/class-wp-posts-list-table.php:1703
-#: wp-admin/includes/meta-boxes.php:976
-#: wp-admin/includes/meta-boxes.php:1708
+#: wp-admin/includes/meta-boxes.php:993
+#: wp-admin/includes/meta-boxes.php:1725
 #: wp-admin/includes/plugin-install.php:306
 #: wp-admin/includes/theme-install.php:109
 msgid "Author"
@@ -792,7 +792,7 @@ msgstr "Автор"
 #: wp-admin/edit-form-comment.php:63
 #: wp-admin/includes/class-wp-users-list-table.php:375
 #: wp-admin/includes/template.php:493
-#: wp-admin/user-edit.php:533
+#: wp-admin/user-edit.php:579
 #: wp-admin/user-new.php:422
 #: wp-admin/user-new.php:536
 msgid "Email"
@@ -863,8 +863,8 @@ msgstr "комментарий"
 #: wp-admin/includes/class-wp-media-list-table.php:810
 #: wp-admin/includes/class-wp-posts-list-table.php:440
 #: wp-admin/includes/class-wp-posts-list-table.php:1450
-#: wp-admin/includes/class-wp-terms-list-table.php:477
-#: wp-admin/includes/class-wp-users-list-table.php:472
+#: wp-admin/includes/class-wp-terms-list-table.php:491
+#: wp-admin/includes/class-wp-users-list-table.php:491
 #: wp-admin/includes/dashboard.php:759
 #: wp-admin/includes/meta-boxes.php:135
 #: wp-admin/includes/meta-boxes.php:197
@@ -876,7 +876,7 @@ msgstr "Изменить"
 #: wp-admin/comment.php:247
 #: wp-admin/includes/class-walker-nav-menu-edit.php:304
 #: wp-admin/includes/class-wp-posts-list-table.php:2046
-#: wp-admin/includes/class-wp-terms-list-table.php:699
+#: wp-admin/includes/class-wp-terms-list-table.php:713
 #: wp-admin/includes/dashboard.php:214
 #: wp-admin/includes/file.php:2530
 #: wp-admin/includes/image-edit.php:106
@@ -889,8 +889,8 @@ msgstr "Изменить"
 #: wp-admin/includes/template.php:894
 #: wp-admin/nav-menus.php:1163
 #: wp-admin/options-general.php:254
-#: wp-admin/user-edit.php:555
-#: wp-admin/user-edit.php:705
+#: wp-admin/user-edit.php:601
+#: wp-admin/user-edit.php:751
 #: wp-admin/widgets-form.php:337
 #: wp-admin/widgets-form.php:340
 #: wp-admin/widgets-form.php:545
@@ -991,7 +991,7 @@ msgstr "Загрузка&hellip;"
 #: wp-admin/customize.php:189
 #: wp-admin/includes/meta-boxes.php:389
 #: wp-admin/includes/meta-boxes.php:390
-#: wp-admin/includes/meta-boxes.php:1607
+#: wp-admin/includes/meta-boxes.php:1624
 #: wp-admin/js/post.js:795
 msgid "Publish"
 msgstr "Опубликовать"
@@ -1002,7 +1002,7 @@ msgstr "Активировать и опубликовать"
 
 #: wp-admin/customize.php:192
 #: wp-admin/customize.php:197
-#: wp-admin/edit-form-advanced.php:392
+#: wp-admin/edit-form-advanced.php:396
 msgid "Publish Settings"
 msgstr "Настройки публикации"
 
@@ -1111,7 +1111,7 @@ msgstr "Комментарии (%s)"
 #: wp-admin/includes/class-wp-posts-list-table.php:1881
 #: wp-admin/includes/class-wp-privacy-policy-content.php:475
 #: wp-admin/includes/file.php:20
-#: wp-admin/includes/meta-boxes.php:1699
+#: wp-admin/includes/meta-boxes.php:1716
 #: wp-admin/js/edit-comments.js:220
 msgid "Comments"
 msgstr "Комментарии"
@@ -1388,216 +1388,220 @@ msgstr "Черновик страницы обновлён."
 msgid "Media file updated."
 msgstr "Медиафайл обновлён."
 
+#: wp-admin/edit-form-advanced.php:234
+msgid "You can't publish an empty post."
+msgstr ""
+
 #. translators: %s: URL to view the autosave.
-#: wp-admin/edit-form-advanced.php:249
+#: wp-admin/edit-form-advanced.php:253
 msgid "There is an autosave of this post that is more recent than the version below. <a href=\"%s\">View the autosave</a>"
 msgstr "Найдена более свежая копия записи, сохранённая автоматически. <a href=\"%s\">Просмотреть копию</a>"
 
-#: wp-admin/edit-form-advanced.php:278
+#: wp-admin/edit-form-advanced.php:282
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
 msgstr "Расположение заголовка и редактора записи зафиксировано, однако вы можете перемещать все остальные блоки путём перетаскивания. Можно также сворачивать и разворачивать их, нажимая на заголовок блока. На вкладке &laquo;Настройки экрана&raquo; можно включить дополнительные блоки (&laquo;Отрывок&raquo;, &laquo;Отправить обратные ссылки&raquo;, &laquo;Произвольные поля&raquo;, &laquo;Обсуждение&raquo;, &laquo;Ярлык&raquo;, &laquo;Автор&raquo;), а также выбрать разметку экрана в 1 или 2 столбца."
 
-#: wp-admin/edit-form-advanced.php:283
+#: wp-admin/edit-form-advanced.php:287
 msgid "Customizing This Display"
 msgstr "Настройка отображения"
 
-#: wp-admin/edit-form-advanced.php:288
+#: wp-admin/edit-form-advanced.php:292
 msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
 msgstr "<strong>Заголовок</strong> &#8212; введите заголовок вашей записи. После этого под ним появится постоянная ссылка, которую можно изменить."
 
-#: wp-admin/edit-form-advanced.php:289
+#: wp-admin/edit-form-advanced.php:293
 msgid "<strong>Post editor</strong> &mdash; Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab."
 msgstr "<strong>Редактор записи</strong> &#8212; введите текст вашей записи. Есть два режима редактирования: визуальный и текстовый. Переключаться между ними можно нажатием на соответствующую вкладку."
 
-#: wp-admin/edit-form-advanced.php:290
+#: wp-admin/edit-form-advanced.php:294
 msgid "Visual mode gives you an editor that is similar to a word processor. Click the Toolbar Toggle button to get a second row of controls."
 msgstr "В визуальном режиме у вас есть редактор, отображающий форматирование. Нажав на кнопку «Показать/скрыть панель инструментов», можно открыть второй ряд кнопок."
 
-#: wp-admin/edit-form-advanced.php:291
+#: wp-admin/edit-form-advanced.php:295
 msgid "The Text mode allows you to enter HTML along with your post text. Note that &lt;p&gt; and &lt;br&gt; tags are converted to line breaks when switching to the Text editor to make it less cluttered. When you type, a single line break can be used instead of typing &lt;br&gt;, and two line breaks instead of paragraph tags. The line breaks are converted back to tags automatically."
 msgstr "Текстовый режим позволяет вводить HTML-код. Обратите внимание, что при переключении в текстовый режим теги &lt;p&gt; и &lt;br&gt; преобразуются в переводы строк, чтобы сделать текст более читаемым. При наборе можно использовать один перевод строки вместо тега &lt;br&gt; и два перевода вместо тега &lt;p&gt;. При выводе текста на сайте переводы строк будут автоматически преобразованы обратно в теги."
 
-#: wp-admin/edit-form-advanced.php:292
+#: wp-admin/edit-form-advanced.php:296
 msgid "You can insert media files by clicking the button above the post editor and following the directions. You can align or edit images using the inline formatting toolbar available in Visual mode."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:293
+#: wp-admin/edit-form-advanced.php:297
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
 msgstr "Можно включить полноэкранный режим, нажав на иконку справа. Эта функция недоступна для старых браузеров и устройств с маленьким экраном. Функция также требует, чтобы в настройках экрана было включено растягивание редактора по высоте."
 
 #. translators: %s: Alt + F10
-#: wp-admin/edit-form-advanced.php:296
+#: wp-admin/edit-form-advanced.php:300
 msgid "Keyboard users: When you are working in the visual editor, you can use %s to access the toolbar."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:303
+#: wp-admin/edit-form-advanced.php:307
 msgid "Title and Post Editor"
 msgstr "Заголовок и редактор"
 
 #. translators: %s: URL to Press This bookmarklet.
-#: wp-admin/edit-form-advanced.php:311
+#: wp-admin/edit-form-advanced.php:315
 msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
 msgstr "Вы также можете создавать записи с помощью <a href=\"%s\">закладки &laquo;Опубликовать&raquo;</a>."
 
-#: wp-admin/edit-form-advanced.php:315
+#: wp-admin/edit-form-advanced.php:319
 msgid "<a href=\"https://wordpress.org/documentation/article/write-posts-classic-editor/\">Documentation on Writing and Editing Posts</a>"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:319
+#: wp-admin/edit-form-advanced.php:323
 #: wp-admin/edit.php:302
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
 msgstr "Страницы похожи на записи тем, что у них тоже есть заголовок, текст и метаданные, но отличаются от них тем, что не принадлежат к хронологическому потоку блога, а являются постоянными. Страницам не присваиваются рубрики и метки, однако они могут иметь иерархию. Можно разместить одну страницу под другой, указав её в качестве родительской и получив группу связанных между собой страниц."
 
-#: wp-admin/edit-form-advanced.php:320
+#: wp-admin/edit-form-advanced.php:324
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
 msgstr "Создание страницы очень похоже на создание записи &#8212; экран можно таким же образом настраивать при помощи перетаскивания, вкладки &laquo;Настройки экрана&raquo; и сворачивания/разворачивания блоков. На этом экране также есть удобный полноэкранный режим, доступный как в визуальном, так и в текстовом редакторе по специальной кнопке. Редактор страниц работает так же, как и редактор записей, однако в блоке &laquo;Атрибуты страницы&raquo; есть несколько элементов, присущих только страницам."
 
-#: wp-admin/edit-form-advanced.php:325
+#: wp-admin/edit-form-advanced.php:329
 msgid "About Pages"
 msgstr "О страницах"
 
-#: wp-admin/edit-form-advanced.php:332
+#: wp-admin/edit-form-advanced.php:336
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-add-new-screen/\">Documentation on Adding New Pages</a>"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:333
+#: wp-admin/edit-form-advanced.php:337
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">Documentation on Editing Pages</a>"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:342
+#: wp-admin/edit-form-advanced.php:346
 #: wp-admin/media.php:88
 msgid "This screen allows you to edit fields for metadata in a file within the media library."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:343
+#: wp-admin/edit-form-advanced.php:347
 #: wp-admin/media.php:89
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
 msgstr "При работе с изображениями можно нажать кнопку &laquo;Редактировать&raquo; под миниатюрой, чтобы открыть встроенный редактор изображений, поддерживающий обрезку, поворот и отражение картинки, а также отмену и повтор. Блоки справа дают вам больше возможностей не только для масштабирования и обрезки основного изображения, но и для отдельной обработки миниатюры. Можно нажать ссылку &laquo;Помощь&raquo; в этих блоках, чтобы получить дополнительную информацию."
 
-#: wp-admin/edit-form-advanced.php:344
+#: wp-admin/edit-form-advanced.php:348
 #: wp-admin/media.php:90
 msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
 msgstr "Обратите внимание, что для обрезки изображения достаточно нажать на него (иконка &laquo;Обрезать&raquo; уже выбрана) и выбрать желаемую часть, удерживая кнопку мыши. Затем нажмите &laquo;Сохранить&raquo;, чтобы записать результат."
 
-#: wp-admin/edit-form-advanced.php:345
+#: wp-admin/edit-form-advanced.php:349
 #: wp-admin/media.php:91
 msgid "Remember to click Update to save metadata entered or changed."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:351
+#: wp-admin/edit-form-advanced.php:355
 #: wp-admin/media.php:97
 msgid "<a href=\"https://wordpress.org/documentation/article/edit-media/\">Documentation on Edit Media</a>"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:357
+#: wp-admin/edit-form-advanced.php:361
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
 msgstr "Вы можете загружать и вставлять медиафайлы (изображения, аудиофайлы, документы и т.д.), нажав кнопку &laquo;Добавить медиафайл&raquo;. Можно выбрать изображения и файлы, уже загруженные в библиотеку, либо загрузить новые файлы и добавить их в запись или страницу. Чтобы создать галерею, выберите изображения и нажмите кнопку &laquo;Создать новую галерею&raquo;."
 
-#: wp-admin/edit-form-advanced.php:358
+#: wp-admin/edit-form-advanced.php:362
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://wordpress.org/documentation/article/embeds/\">Learn more about embeds</a>."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:363
+#: wp-admin/edit-form-advanced.php:367
 msgid "Inserting Media"
 msgstr "Вставка медиафайлов"
 
-#: wp-admin/edit-form-advanced.php:370
+#: wp-admin/edit-form-advanced.php:374
 msgid "Several boxes on this screen contain settings for how your content will be published, including:"
 msgstr "Несколько блоков на этом экране содержат настройки публикации. Среди них:"
 
-#: wp-admin/edit-form-advanced.php:372
+#: wp-admin/edit-form-advanced.php:376
 msgid "<strong>Publish</strong> &mdash; You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). The Password protected option allows you to set an arbitrary password for each post. The Private option hides the post from everyone except editors and administrators. Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
 msgstr "<strong>Опубликовать</strong> &#8212; можно задать условия публикации записи в блоке &laquo;Опубликовать&raquo;. Чтобы посмотреть дополнительные варианты для разделов &laquo;Статус&raquo;, &laquo;Видимость&raquo; и &laquo;Опубликовать (сразу)&raquo;, нажмите ссылку &laquo;Изменить&raquo; рядом с ними. В разделе &laquo;Видимость&raquo; можно защитить запись паролем или постоянно отображать её наверху (прилепить). С помощью пункта &laquo;Защищено паролем&raquo; можно задать пароль для просмотра записи. Пункт &laquo;Личное&raquo; скрывает запись от всех, кроме редакторов и администраторов. Раздел &laquo;Опубликовать (сразу)&raquo; позволяет установить дату в будущем или прошлом, так что вы можете запланировать запись или опубликовать её задним числом."
 
-#: wp-admin/edit-form-advanced.php:376
+#: wp-admin/edit-form-advanced.php:380
 msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Your theme could enable all or some of 10 possible formats. <a href=\"https://wordpress.org/documentation/article/post-formats/#supported-formats\">Learn more about each post format</a>."
 msgstr ""
 
 #. translators: %s: Featured image.
-#: wp-admin/edit-form-advanced.php:382
+#: wp-admin/edit-form-advanced.php:386
 msgid "<strong>%s</strong> &mdash; This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the image as a post thumbnail on the home page, a custom header, etc."
 msgstr "<strong>%s</strong> &#8212; этот блок позволяет привязать к записи изображение, не вставляя его. Это обычно имеет смысл, если ваша тема оформления выводит миниатюры записей на главной странице, в заголовке и т.д."
 
-#: wp-admin/edit-form-advanced.php:397
+#: wp-admin/edit-form-advanced.php:401
 msgid "<strong>Send Trackbacks</strong> &mdash; Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:398
+#: wp-admin/edit-form-advanced.php:402
 msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
 msgstr "<strong>Обсуждение</strong> &#8212; можно включить или выключить комментарии и уведомления. Если к вашей записи есть комментарии, здесь можно читать и проверять их."
 
-#: wp-admin/edit-form-advanced.php:403
+#: wp-admin/edit-form-advanced.php:407
 #: wp-admin/options-discussion.php:16
 msgid "Discussion Settings"
 msgstr "Настройки обсуждения"
 
-#: wp-admin/edit-form-advanced.php:408
+#: wp-admin/edit-form-advanced.php:412
 msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
 msgstr "<strong>Родительская</strong> &#8212; вы можете организовать иерархию страниц. Например, создать страницу &laquo;Обо мне&raquo;, внутри которой будут страницы &laquo;Биография&raquo; и &laquo;Моя собака&raquo;. По уровню вложенности нет никаких ограничений."
 
-#: wp-admin/edit-form-advanced.php:409
+#: wp-admin/edit-form-advanced.php:413
 msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
 msgstr "<strong>Шаблон</strong> &#8212; в некоторых темах для определённых страниц могут быть особые шаблоны с дополнительными функциями или другим дизайном. Вы увидите их в этом списке."
 
-#: wp-admin/edit-form-advanced.php:410
+#: wp-admin/edit-form-advanced.php:414
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
 msgstr "<strong>Порядок</strong> &#8212; страницы обычно сортируются по алфавиту, но вы можете задать свой собственный порядок, введя число (1 &#8212 первая и т.д.) в это поле."
 
-#: wp-admin/edit-form-advanced.php:415
+#: wp-admin/edit-form-advanced.php:419
 msgid "Page Attributes"
 msgstr "Атрибуты страницы"
 
-#: wp-admin/edit-form-advanced.php:457
+#: wp-admin/edit-form-advanced.php:461
 msgctxt "Admin Post Navigation"
 msgid "Previous post: "
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:459
+#: wp-admin/edit-form-advanced.php:463
 msgctxt "Admin Post Navigation"
 msgid "&larr; Previous"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:467
+#: wp-admin/edit-form-advanced.php:471
 msgctxt "Admin Post Navigation"
 msgid "Next post: "
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:469
+#: wp-admin/edit-form-advanced.php:473
 msgctxt "Admin Post Navigation"
 msgid "Next &rarr;"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:486
+#: wp-admin/edit-form-advanced.php:490
 msgid "<strong>Connection lost.</strong> Saving has been disabled until you are reconnected."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:487
+#: wp-admin/edit-form-advanced.php:491
 msgid "This post is being backed up in your browser, just in case."
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:555
+#: wp-admin/edit-form-advanced.php:559
 msgid "Add title"
 msgstr ""
 
-#: wp-admin/edit-form-advanced.php:582
+#: wp-admin/edit-form-advanced.php:586
 msgid "Get Shortlink"
 msgstr "Получить короткую ссылку"
 
 #. translators: %s: Number of words.
-#: wp-admin/edit-form-advanced.php:650
+#: wp-admin/edit-form-advanced.php:654
 msgid "Word count: %s"
 msgstr "Количество слов: %s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: User's display name, 2: Date of last edit, 3: Time of last edit.
-#: wp-admin/edit-form-advanced.php:663
+#: wp-admin/edit-form-advanced.php:667
 #: wp-admin/includes/ajax-actions.php:2813
 msgid "Last edited by %1$s on %2$s at %3$s"
 msgstr "Последнее изменение: %1$s; %2$s в %3$s"
 
 #. translators: 1: Post edited date, 2: Post edited time.
 #. translators: 1: Date of last edit, 2: Time of last edit.
-#: wp-admin/edit-form-advanced.php:666
+#: wp-admin/edit-form-advanced.php:670
 #: wp-admin/includes/ajax-actions.php:2816
 msgid "Last edited on %1$s at %2$s"
 msgstr "Последнее изменение: %1$s в %2$s"
@@ -1633,8 +1637,8 @@ msgstr "комментарий"
 #: wp-admin/includes/image-edit.php:107
 #: wp-admin/includes/meta-boxes.php:44
 #: wp-admin/includes/meta-boxes.php:429
-#: wp-admin/includes/meta-boxes.php:1118
-#: wp-admin/includes/meta-boxes.php:1600
+#: wp-admin/includes/meta-boxes.php:1135
+#: wp-admin/includes/meta-boxes.php:1617
 #: wp-admin/includes/widgets.php:277
 #: wp-admin/js/widgets.js:202
 #: wp-admin/js/widgets.js:429
@@ -1743,7 +1747,7 @@ msgid "<a href=\"%s\">Links</a> / Edit Link"
 msgstr "<a href=\"%s\">Ссылки</a> / Изменить ссылку"
 
 #: wp-admin/edit-link-form.php:17
-#: wp-admin/includes/meta-boxes.php:1159
+#: wp-admin/includes/meta-boxes.php:1176
 msgid "Update Link"
 msgstr "Обновить ссылку"
 
@@ -1753,7 +1757,7 @@ msgid "<a href=\"%s\">Links</a> / Add New Link"
 msgstr "<a href=\"%s\">Ссылки</a> / Добавить новую ссылку"
 
 #: wp-admin/edit-link-form.php:23
-#: wp-admin/includes/meta-boxes.php:1161
+#: wp-admin/includes/meta-boxes.php:1178
 msgid "Add Link"
 msgstr "Добавить ссылку"
 
@@ -1764,7 +1768,7 @@ msgstr "Категории"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-link-form.php:32
-#: wp-admin/includes/meta-boxes.php:1244
+#: wp-admin/includes/meta-boxes.php:1261
 msgid "Target"
 msgstr "Цель"
 
@@ -1844,7 +1848,7 @@ msgstr "Будет показано, когда кто-то наводит ку�
 #: wp-admin/edit-tag-form.php:147
 #: wp-admin/edit-tags.php:453
 #: wp-admin/includes/class-wp-terms-list-table.php:192
-#: wp-admin/includes/class-wp-terms-list-table.php:665
+#: wp-admin/includes/class-wp-terms-list-table.php:679
 msgctxt "term name"
 msgid "Name"
 msgstr "Название"
@@ -1854,9 +1858,9 @@ msgstr "Название"
 #: wp-admin/edit-tags.php:458
 #: wp-admin/includes/class-wp-posts-list-table.php:1645
 #: wp-admin/includes/class-wp-terms-list-table.php:194
-#: wp-admin/includes/class-wp-terms-list-table.php:670
-#: wp-admin/includes/meta-boxes.php:953
-#: wp-admin/includes/meta-boxes.php:1704
+#: wp-admin/includes/class-wp-terms-list-table.php:684
+#: wp-admin/includes/meta-boxes.php:970
+#: wp-admin/includes/meta-boxes.php:1721
 msgid "Slug"
 msgstr "Ярлык"
 
@@ -1882,12 +1886,12 @@ msgstr "Рубрики, в отличие от меток, могут иметь
 #: wp-admin/includes/class-wp-plugins-list-table.php:823
 #: wp-admin/includes/class-wp-plugins-list-table.php:884
 #: wp-admin/includes/class-wp-terms-list-table.php:169
-#: wp-admin/includes/class-wp-terms-list-table.php:493
+#: wp-admin/includes/class-wp-terms-list-table.php:507
 #: wp-admin/includes/class-wp-themes-list-table.php:232
 #: wp-admin/includes/class-wp-users-list-table.php:280
-#: wp-admin/includes/class-wp-users-list-table.php:481
+#: wp-admin/includes/class-wp-users-list-table.php:500
 #: wp-admin/includes/media.php:1671
-#: wp-admin/includes/meta-boxes.php:1151
+#: wp-admin/includes/meta-boxes.php:1168
 #: wp-admin/includes/template.php:660
 #: wp-admin/includes/theme.php:1022
 #: wp-admin/includes/widgets.php:271
@@ -2263,7 +2267,7 @@ msgstr ""
 
 #: wp-admin/erase-personal-data.php:17
 #: wp-admin/erase-personal-data.php:107
-#: wp-admin/menu.php:327
+#: wp-admin/menu.php:342
 msgid "Erase Personal Data"
 msgstr "Удаление персональных данных"
 
@@ -2387,7 +2391,7 @@ msgstr "Извините, вам не разрешено экспортиров�
 
 #: wp-admin/export-personal-data.php:17
 #: wp-admin/export-personal-data.php:107
-#: wp-admin/menu.php:326
+#: wp-admin/menu.php:341
 msgid "Export Personal Data"
 msgstr "Экспорт персональных данных"
 
@@ -2465,7 +2469,7 @@ msgid "Sorry, you are not allowed to export the content of this site."
 msgstr "Извините, вам не разрешено экспортировать содержимое этого сайта."
 
 #: wp-admin/export.php:20
-#: wp-admin/menu.php:323
+#: wp-admin/menu.php:338
 msgid "Export"
 msgstr "Экспорт"
 
@@ -2579,7 +2583,7 @@ msgstr "Страницы"
 #: wp-admin/includes/media.php:2515
 #: wp-admin/includes/plugin-install.php:380
 #: wp-admin/menu.php:66
-#: wp-admin/menu.php:340
+#: wp-admin/menu.php:355
 msgid "Media"
 msgstr "Медиафайл"
 
@@ -3902,7 +3906,7 @@ msgstr "Обновить переводы"
 
 #. translators: 1: Project name (plugin, theme, or ClassicPress), 2: Language.
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:51
-#: wp-admin/includes/class-wp-automatic-updater.php:437
+#: wp-admin/includes/class-wp-automatic-updater.php:438
 msgid "Updating translations for %1$s (%2$s)&#8230;"
 msgstr "Обновление переводов для %1$s (%2$s)&#8230;"
 
@@ -4468,7 +4472,7 @@ msgstr "Оригинал: %s"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:276
-#: wp-admin/includes/class-wp-users-list-table.php:487
+#: wp-admin/includes/class-wp-users-list-table.php:506
 msgid "Remove"
 msgstr "Удалить"
 
@@ -4519,31 +4523,31 @@ msgid "The \"%s\" argument must be a non-empty string."
 msgstr ""
 
 #. translators: %s: WordPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:404
+#: wp-admin/includes/class-wp-automatic-updater.php:405
 msgid "Updating to ClassicPress %s"
 msgstr "Обновление до ClassicPress %s"
 
 #. translators: %s: WordPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:406
+#: wp-admin/includes/class-wp-automatic-updater.php:407
 msgid "ClassicPress %s"
 msgstr ""
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/class-wp-automatic-updater.php:418
+#: wp-admin/includes/class-wp-automatic-updater.php:419
 msgid "Updating theme: %s"
 msgstr "Обновление темы: %s"
 
 #. translators: %s: Plugin name.
-#: wp-admin/includes/class-wp-automatic-updater.php:430
+#: wp-admin/includes/class-wp-automatic-updater.php:431
 msgid "Updating plugin: %s"
 msgstr "Обновление плагина: %s"
 
 #. translators: %s: Project name (plugin, theme, or WordPress).
-#: wp-admin/includes/class-wp-automatic-updater.php:435
+#: wp-admin/includes/class-wp-automatic-updater.php:436
 msgid "Translations for %s"
 msgstr "Переводы для %s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:462
+#: wp-admin/includes/class-wp-automatic-updater.php:463
 #: wp-admin/includes/class-wp-upgrader.php:151
 #: wp-admin/includes/file.php:1558
 #: wp-admin/includes/plugin.php:948
@@ -4551,93 +4555,93 @@ msgstr "Переводы для %s"
 msgid "Could not access filesystem."
 msgstr "Нет доступа к файловой системе."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:477
+#: wp-admin/includes/class-wp-automatic-updater.php:478
 #: wp-admin/js/updates.js:826
 #: wp-admin/js/updates.js:1495
 msgid "Installation failed."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:480
+#: wp-admin/includes/class-wp-automatic-updater.php:481
 msgid "ClassicPress updated successfully."
 msgstr ""
 
 #. translators: Site updated notification email subject. 1: Site title, 2: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:768
+#: wp-admin/includes/class-wp-automatic-updater.php:769
 msgid "[%1$s] Your site has updated to ClassicPress %2$s"
 msgstr "[%1$s] Ваш сайт обновлён до ClassicPress %2$s"
 
 #. translators: Update available notification email subject. 1: Site title, 2: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:774
+#: wp-admin/includes/class-wp-automatic-updater.php:775
 msgid "[%1$s] ClassicPress %2$s is available. Please update!"
 msgstr "[%1$s] Доступен ClassicPress %2$s. Пожалуйста, обновитесь!"
 
 #. translators: Site down notification email subject. 1: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:779
+#: wp-admin/includes/class-wp-automatic-updater.php:780
 msgid "[%1$s] URGENT: Your site may be down due to a failed update"
 msgstr "[%1$s] СРОЧНО: Ваш сайт может быть недоступен из-за неудавшегося обновления"
 
 #. translators: 1: Home URL, 2: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:796
+#: wp-admin/includes/class-wp-automatic-updater.php:797
 msgid "Howdy! Your site at %1$s has been updated automatically to ClassicPress %2$s."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:802
+#: wp-admin/includes/class-wp-automatic-updater.php:803
 msgid "No further action is needed on your part."
 msgstr "Действий с вашей стороны не требуется."
 
 #. translators: %s: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:808
+#: wp-admin/includes/class-wp-automatic-updater.php:809
 msgid "For more on version %s, see the About ClassicPress screen:"
 msgstr "Подробности о версии %s можно узнать на экране \"О ClassicPress\":"
 
 #. translators: %s: ClassicPress latest version.
-#: wp-admin/includes/class-wp-automatic-updater.php:813
+#: wp-admin/includes/class-wp-automatic-updater.php:814
 msgid "ClassicPress %s is also now available."
 msgstr "Также доступен ClassicPress %s."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:814
-#: wp-admin/includes/class-wp-automatic-updater.php:837
+#: wp-admin/includes/class-wp-automatic-updater.php:815
+#: wp-admin/includes/class-wp-automatic-updater.php:838
 msgid "Updating is easy and only takes a few moments:"
 msgstr "Процедура обновления проста и займёт всего несколько секунд:"
 
 #. translators: 1: Home URL, 2: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:824
+#: wp-admin/includes/class-wp-automatic-updater.php:825
 msgid "Please update your site at %1$s to ClassicPress %2$s."
 msgstr "Пожалуйста, обновите свой сайт %1$s до ClassicPress %2$s."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:834
+#: wp-admin/includes/class-wp-automatic-updater.php:835
 msgid "An attempt was made, but your site could not be updated automatically."
 msgstr ""
 
 #. translators: 1: Home URL, 2: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:845
+#: wp-admin/includes/class-wp-automatic-updater.php:846
 msgid "Your site at %1$s experienced a critical failure while trying to update ClassicPress to version %2$s."
 msgstr "На вашем сайте %1$s произошла критическая ошибка при попытке обновления ClassicPress до версии %2$s."
 
 #. translators: 1: Home URL, 2: ClassicPress latest version.
-#: wp-admin/includes/class-wp-automatic-updater.php:852
+#: wp-admin/includes/class-wp-automatic-updater.php:853
 msgid "Your site at %1$s experienced a critical failure while trying to update to the latest version of ClassicPress, %2$s."
 msgstr "На вашем сайте %1$s произошла критическая ошибка при попытке обновления до текущей версии ClassicPress, %2$s."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:858
+#: wp-admin/includes/class-wp-automatic-updater.php:859
 msgid "This means your site may be offline or broken. Don't panic; this can be fixed."
 msgstr "Возможно, ваш сайт недоступен или повреждён. Без паники; это можно исправить."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:860
+#: wp-admin/includes/class-wp-automatic-updater.php:861
 msgid "Please check out your site now. It's possible that everything is working. If it says you need to update, you should do so:"
 msgstr "Проверьте сейчас свой сайт. Вполне возможно, что всё работает. Если он предложит обновиться, сделайте это:"
 
 #. translators: %s: Support email address.
-#: wp-admin/includes/class-wp-automatic-updater.php:870
+#: wp-admin/includes/class-wp-automatic-updater.php:871
 msgid "The ClassicPress team is willing to help you. Forward this email to %s and the team will work with you to make sure your site is working."
 msgstr "Команда ClassicPress предлагает вам свою помощь. Перешлите это письмо на %s, и мы свяжемся с вами, чтобы обеспечить работоспособность вашего сайта."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:875
-#: wp-admin/includes/class-wp-automatic-updater.php:1309
+#: wp-admin/includes/class-wp-automatic-updater.php:876
+#: wp-admin/includes/class-wp-automatic-updater.php:1310
 msgid "If you experience any issues or need support, the volunteers in the ClassicPress.net support forums may be able to help."
 msgstr "Если вы столкнётесь с проблемами и вам понадобится поддержка, вам помогут волонтёры на форумах ClassicPress.net."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:876
+#: wp-admin/includes/class-wp-automatic-updater.php:877
 #: wp-admin/includes/plugin-install.php:186
 #: wp-admin/includes/theme.php:551
 #: wp-admin/includes/theme.php:566
@@ -4647,210 +4651,210 @@ msgstr "Если вы столкнётесь с проблемами и вам �
 msgid "https://wordpress.org/support/forums/"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:881
+#: wp-admin/includes/class-wp-automatic-updater.php:882
 #: wp-admin/update-core.php:840
 msgid "Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers."
 msgstr "Своевременно обновлять сайт важно из соображений безопасности. Это также делает Интернет более безопасным местом для вас и ваших читателей."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:885
+#: wp-admin/includes/class-wp-automatic-updater.php:886
 msgid "Reach out to ClassicPress Core developers to ensure you'll never have this problem again."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:890
+#: wp-admin/includes/class-wp-automatic-updater.php:891
 msgid "You also have some plugins or themes with updates available. Update them now:"
 msgstr "Также доступны обновления нескольких плагинов или тем. Обновите их:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:894
-#: wp-admin/includes/class-wp-automatic-updater.php:1311
+#: wp-admin/includes/class-wp-automatic-updater.php:895
+#: wp-admin/includes/class-wp-automatic-updater.php:1312
 msgid "The ClassicPress Team"
 msgstr "Команда ClassicPress"
 
 #. translators: %s: WordPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:899
+#: wp-admin/includes/class-wp-automatic-updater.php:900
 msgid "Your site was running version %s."
 msgstr "На вашем сайте была установлена версия %s."
 
-#: wp-admin/includes/class-wp-automatic-updater.php:900
+#: wp-admin/includes/class-wp-automatic-updater.php:901
 msgid "Some data that describes the error your site encountered has been put together."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:901
+#: wp-admin/includes/class-wp-automatic-updater.php:902
 msgid "Your hosting company, support forum volunteers, or a friendly developer may be able to use this information to help you:"
 msgstr "Эта информация позволит вашему хостинг-провайдеру, волонтёрам на форуме поддержки или знакомому разработчику помочь вам:"
 
 #. translators: %s: Error code.
-#: wp-admin/includes/class-wp-automatic-updater.php:918
+#: wp-admin/includes/class-wp-automatic-updater.php:919
 msgid "Error code: %s"
 msgstr "Код ошибки: %s"
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1090
+#: wp-admin/includes/class-wp-automatic-updater.php:1091
 msgid "[%s] Some plugins and themes have automatically updated"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1093
+#: wp-admin/includes/class-wp-automatic-updater.php:1094
 msgid "Howdy! Some plugins and themes have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr ""
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1098
+#: wp-admin/includes/class-wp-automatic-updater.php:1099
 msgid "[%s] Some plugins were automatically updated"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1101
+#: wp-admin/includes/class-wp-automatic-updater.php:1102
 msgid "Howdy! Some plugins have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr ""
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1106
+#: wp-admin/includes/class-wp-automatic-updater.php:1107
 msgid "[%s] Some themes were automatically updated"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1109
+#: wp-admin/includes/class-wp-automatic-updater.php:1110
 msgid "Howdy! Some themes have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
 msgstr ""
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1119
+#: wp-admin/includes/class-wp-automatic-updater.php:1120
 msgid "[%s] Some plugins and themes have failed to update"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1122
+#: wp-admin/includes/class-wp-automatic-updater.php:1123
 msgid "Howdy! Plugins and themes failed to update on your site at %s."
 msgstr ""
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1127
+#: wp-admin/includes/class-wp-automatic-updater.php:1128
 msgid "[%s] Some plugins have failed to update"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1130
+#: wp-admin/includes/class-wp-automatic-updater.php:1131
 msgid "Howdy! Plugins failed to update on your site at %s."
 msgstr ""
 
 #. translators: %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1135
+#: wp-admin/includes/class-wp-automatic-updater.php:1136
 msgid "[%s] Some themes have failed to update"
 msgstr ""
 
 #. translators: %s: Home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1138
+#: wp-admin/includes/class-wp-automatic-updater.php:1139
 msgid "Howdy! Themes failed to update on your site at %s."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1148
+#: wp-admin/includes/class-wp-automatic-updater.php:1149
 msgid "Please check your site now. It’s possible that everything is working. If there are updates available, you should update."
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1153
+#: wp-admin/includes/class-wp-automatic-updater.php:1154
 msgid "These plugins failed to update:"
 msgstr ""
 
 #. translators: 1: Plugin name, 2: Current version number, 3: New version number, 4: Plugin URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1166
-#: wp-admin/includes/class-wp-automatic-updater.php:1238
+#: wp-admin/includes/class-wp-automatic-updater.php:1167
+#: wp-admin/includes/class-wp-automatic-updater.php:1239
 msgid "- %1$s (from version %2$s to %3$s)%4$s"
 msgstr ""
 
 #. translators: 1: Plugin name, 2: Version number, 3: Plugin URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1175
-#: wp-admin/includes/class-wp-automatic-updater.php:1247
+#: wp-admin/includes/class-wp-automatic-updater.php:1176
+#: wp-admin/includes/class-wp-automatic-updater.php:1248
 msgid "- %1$s version %2$s%3$s"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1192
+#: wp-admin/includes/class-wp-automatic-updater.php:1193
 msgid "These themes failed to update:"
 msgstr ""
 
 #. translators: 1: Theme name, 2: Current version number, 3: New version number.
-#: wp-admin/includes/class-wp-automatic-updater.php:1198
-#: wp-admin/includes/class-wp-automatic-updater.php:1269
+#: wp-admin/includes/class-wp-automatic-updater.php:1199
+#: wp-admin/includes/class-wp-automatic-updater.php:1270
 msgid "- %1$s (from version %2$s to %3$s)"
 msgstr ""
 
 #. translators: 1: Theme name, 2: Version number.
-#: wp-admin/includes/class-wp-automatic-updater.php:1206
-#: wp-admin/includes/class-wp-automatic-updater.php:1277
+#: wp-admin/includes/class-wp-automatic-updater.php:1207
+#: wp-admin/includes/class-wp-automatic-updater.php:1278
 msgid "- %1$s version %2$s"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1225
+#: wp-admin/includes/class-wp-automatic-updater.php:1226
 msgid "These plugins are now up to date:"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1263
+#: wp-admin/includes/class-wp-automatic-updater.php:1264
 msgid "These themes are now up to date:"
 msgstr ""
 
 #. translators: %s: Plugins screen URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1293
+#: wp-admin/includes/class-wp-automatic-updater.php:1294
 msgid "To manage plugins on your site, visit the Plugins page: %s"
 msgstr ""
 
 #. translators: %s: Themes screen URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1302
+#: wp-admin/includes/class-wp-automatic-updater.php:1303
 msgid "To manage themes on your site, visit the Themes page: %s"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1310
+#: wp-admin/includes/class-wp-automatic-updater.php:1311
 msgid "https://forums.classicpress.net/c/support/"
 msgstr ""
 
 #. translators: %s: Network home URL.
-#: wp-admin/includes/class-wp-automatic-updater.php:1368
+#: wp-admin/includes/class-wp-automatic-updater.php:1369
 msgid "ClassicPress site: %s"
 msgstr "Сайт на ClassicPress: %s"
 
 #. translators: %s: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:1376
+#: wp-admin/includes/class-wp-automatic-updater.php:1377
 msgid "SUCCESS: ClassicPress was successfully updated to %s"
 msgstr "УСПЕХ: ClassicPress успешно обновлён до версии %s"
 
 #. translators: %s: ClassicPress version.
-#: wp-admin/includes/class-wp-automatic-updater.php:1379
+#: wp-admin/includes/class-wp-automatic-updater.php:1380
 msgid "FAILED: ClassicPress failed to update to %s"
 msgstr "ОШИБКА: Не удалось обновить ClassicPress до версии %s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1396
+#: wp-admin/includes/class-wp-automatic-updater.php:1397
 msgid "The following plugins were successfully updated:"
 msgstr "Следующие плагины успешно обновлены:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1397
+#: wp-admin/includes/class-wp-automatic-updater.php:1398
 msgid "The following themes were successfully updated:"
 msgstr "Следующие темы успешно обновлены:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1398
+#: wp-admin/includes/class-wp-automatic-updater.php:1399
 msgid "The following translations were successfully updated:"
 msgstr "Следующие переводы успешно обновлены:"
 
 #. translators: %s: Name of plugin / theme / translation.
-#: wp-admin/includes/class-wp-automatic-updater.php:1404
+#: wp-admin/includes/class-wp-automatic-updater.php:1405
 msgid "SUCCESS: %s"
 msgstr "УСПЕХ: %s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1411
+#: wp-admin/includes/class-wp-automatic-updater.php:1412
 msgid "The following plugins failed to update:"
 msgstr "Следующие плагины не удалось обновить:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1412
+#: wp-admin/includes/class-wp-automatic-updater.php:1413
 msgid "The following themes failed to update:"
 msgstr "Следующие темы не удалось обновить:"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1413
+#: wp-admin/includes/class-wp-automatic-updater.php:1414
 msgid "The following translations failed to update:"
 msgstr "Следующие переводы не удалось обновить:"
 
 #. translators: %s: Name of plugin / theme / translation.
-#: wp-admin/includes/class-wp-automatic-updater.php:1421
+#: wp-admin/includes/class-wp-automatic-updater.php:1422
 msgid "FAILED: %s"
 msgstr "ОШИБКА: %s"
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1438
+#: wp-admin/includes/class-wp-automatic-updater.php:1439
 msgid "BETA TESTING?\n"
 "=============\n\n"
 "This debugging email is sent when you are using a development version of ClassicPress.\n\n"
@@ -4861,28 +4865,28 @@ msgid "BETA TESTING?\n"
 msgstr ""
 
 #. translators: Background update failed notification email subject. %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1454
+#: wp-admin/includes/class-wp-automatic-updater.php:1455
 msgid "[%s] Background Update Failed"
 msgstr ""
 
 #. translators: Background update finished notification email subject. %s: Site title.
-#: wp-admin/includes/class-wp-automatic-updater.php:1457
+#: wp-admin/includes/class-wp-automatic-updater.php:1458
 msgid "[%s] Background Update Finished"
 msgstr ""
 
-#: wp-admin/includes/class-wp-automatic-updater.php:1461
+#: wp-admin/includes/class-wp-automatic-updater.php:1462
 msgid "UPDATE LOG\n"
 "=========="
 msgstr "ЖУРНАЛ ОБНОВЛЕНИЯ\n"
 "================="
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-automatic-updater.php:1496
+#: wp-admin/includes/class-wp-automatic-updater.php:1497
 msgid "Rollback Error: [%1$s] %2$s"
 msgstr "Ошибка при откате: [%1$s] %2$s"
 
 #. translators: 1: Error code, 2: Error message.
-#: wp-admin/includes/class-wp-automatic-updater.php:1499
+#: wp-admin/includes/class-wp-automatic-updater.php:1500
 msgid "Error: [%1$s] %2$s"
 msgstr "Ошибка: [%1$s] %2$s"
 
@@ -5104,7 +5108,7 @@ msgstr "Изменить свойства этого комментария"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:822
 #: wp-admin/includes/class-wp-posts-list-table.php:1457
-#: wp-admin/includes/class-wp-terms-list-table.php:483
+#: wp-admin/includes/class-wp-terms-list-table.php:497
 msgid "Quick&nbsp;Edit"
 msgstr "Свойства"
 
@@ -5866,7 +5870,7 @@ msgid "Visible"
 msgstr "Видна"
 
 #: wp-admin/includes/class-wp-links-list-table.php:137
-#: wp-admin/includes/meta-boxes.php:1503
+#: wp-admin/includes/meta-boxes.php:1520
 msgid "Rating"
 msgstr "Рейтинг"
 
@@ -5883,7 +5887,7 @@ msgstr "Рейтинг"
 #: wp-admin/includes/class-wp-plugins-list-table.php:989
 #: wp-admin/includes/class-wp-posts-list-table.php:1018
 #: wp-admin/includes/class-wp-terms-list-table.php:363
-#: wp-admin/includes/class-wp-users-list-table.php:530
+#: wp-admin/includes/class-wp-users-list-table.php:549
 #: wp-admin/update-core.php:431
 #: wp-admin/update-core.php:605
 msgid "Select %s"
@@ -5897,7 +5901,7 @@ msgstr "Выбрать %s"
 #: wp-admin/includes/class-wp-media-list-table.php:757
 #: wp-admin/includes/class-wp-media-list-table.php:809
 #: wp-admin/includes/class-wp-posts-list-table.php:1449
-#: wp-admin/includes/class-wp-terms-list-table.php:476
+#: wp-admin/includes/class-wp-terms-list-table.php:490
 #: wp-admin/includes/dashboard.php:676
 #: wp-admin/includes/dashboard.php:1046
 msgid "Edit &#8220;%s&#8221;"
@@ -5905,7 +5909,7 @@ msgstr "Редактировать &laquo;%s&raquo;"
 
 #. translators: %s: Link name.
 #: wp-admin/includes/class-wp-links-list-table.php:342
-#: wp-admin/includes/meta-boxes.php:1150
+#: wp-admin/includes/meta-boxes.php:1167
 msgid "You are about to delete this link '%s'\n"
 "  'Cancel' to stop, 'OK' to delete."
 msgstr "Вы собираетесь удалить ссылку «%s»\n"
@@ -6202,8 +6206,8 @@ msgstr "Посмотреть &laquo;%s&raquo;"
 #: wp-admin/includes/class-wp-media-list-table.php:790
 #: wp-admin/includes/class-wp-media-list-table.php:853
 #: wp-admin/includes/class-wp-posts-list-table.php:1509
-#: wp-admin/includes/class-wp-terms-list-table.php:503
-#: wp-admin/includes/class-wp-users-list-table.php:498
+#: wp-admin/includes/class-wp-terms-list-table.php:517
+#: wp-admin/includes/class-wp-users-list-table.php:517
 #: wp-admin/includes/dashboard.php:801
 msgid "View"
 msgstr "Перейти"
@@ -6779,7 +6783,7 @@ msgstr "Последнее изменение"
 #. translators: %s: Post title.
 #. translators: %s: Taxonomy term name.
 #: wp-admin/includes/class-wp-posts-list-table.php:1456
-#: wp-admin/includes/class-wp-terms-list-table.php:482
+#: wp-admin/includes/class-wp-terms-list-table.php:496
 msgid "Quick edit &#8220;%s&#8221; inline"
 msgstr "Изменить свойства «%s»"
 
@@ -6795,7 +6799,7 @@ msgid "Bulk Edit"
 msgstr "Массовое редактирование"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
-#: wp-admin/includes/class-wp-terms-list-table.php:662
+#: wp-admin/includes/class-wp-terms-list-table.php:676
 msgid "Quick Edit"
 msgstr "Свойства"
 
@@ -6834,7 +6838,7 @@ msgid "Private"
 msgstr "Личное"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1775
-#: wp-admin/includes/meta-boxes.php:1039
+#: wp-admin/includes/meta-boxes.php:1056
 msgid "Parent"
 msgstr "Родительская"
 
@@ -6845,17 +6849,17 @@ msgstr "Главная (нет родительской)"
 #: wp-admin/includes/class-wp-posts-list-table.php:1812
 #: wp-admin/includes/media.php:1412
 #: wp-admin/includes/media.php:2516
-#: wp-admin/includes/meta-boxes.php:1080
+#: wp-admin/includes/meta-boxes.php:1097
 msgid "Order"
 msgstr "Порядок"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1823
-#: wp-admin/includes/meta-boxes.php:1048
+#: wp-admin/includes/meta-boxes.php:1065
 msgid "Template"
 msgstr "Шаблон"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1830
-#: wp-admin/includes/meta-boxes.php:1073
+#: wp-admin/includes/meta-boxes.php:1090
 msgid "Default template"
 msgstr ""
 
@@ -6891,7 +6895,7 @@ msgid "Make this post sticky"
 msgstr "Прилепить запись"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1986
-#: wp-admin/includes/meta-boxes.php:1611
+#: wp-admin/includes/meta-boxes.php:1628
 msgctxt "post format"
 msgid "Format"
 msgstr "Формат"
@@ -7579,39 +7583,39 @@ msgid "Your installation of ClassicPress does not require FTP credentials to per
 msgstr ""
 
 #. translators: %s: ClassicPress version.
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:349
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:345
 msgid "Couldn't retrieve a list of the checksums for ClassicPress %s."
 msgstr ""
 
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:352
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:348
 msgid "This could mean that connections are failing to WordPress.org or ClassicPress.net."
 msgstr ""
 
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:378
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:374
 msgid "Some files are not writable by ClassicPress:"
 msgstr ""
 
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:383
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:379
 msgid "All of your ClassicPress files are writable."
 msgstr ""
 
 #. translators: %s: Name of the constant used.
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:407
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:403
 msgid "ClassicPress development updates are blocked by the %s constant."
 msgstr ""
 
 #. translators: %s: Name of the filter used.
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:419
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:415
 msgid "ClassicPress development updates are blocked by the %s filter."
 msgstr ""
 
 #. translators: %s: Name of the constant used.
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:439
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:435
 msgid "ClassicPress security and maintenance releases are blocked by %s."
 msgstr ""
 
 #. translators: %s: Name of the filter used.
-#: wp-admin/includes/class-wp-site-health-auto-updates.php:451
+#: wp-admin/includes/class-wp-site-health-auto-updates.php:447
 msgid "ClassicPress security and maintenance releases are blocked by the %s filter."
 msgstr ""
 
@@ -8646,17 +8650,17 @@ msgid "Count"
 msgstr "Записи"
 
 #. translators: %s: Taxonomy term name.
-#: wp-admin/includes/class-wp-terms-list-table.php:492
+#: wp-admin/includes/class-wp-terms-list-table.php:506
 msgid "Delete &#8220;%s&#8221;"
 msgstr "Удалить «%s»"
 
 #. translators: %s: Taxonomy term name.
-#: wp-admin/includes/class-wp-terms-list-table.php:502
+#: wp-admin/includes/class-wp-terms-list-table.php:516
 msgid "View &#8220;%s&#8221; archive"
 msgstr "Посмотреть архив «%s»"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-terms-list-table.php:551
+#: wp-admin/includes/class-wp-terms-list-table.php:565
 msgid "No description"
 msgstr "Нет описания"
 
@@ -8870,7 +8874,7 @@ msgid "No role"
 msgstr "Нет роли"
 
 #: wp-admin/includes/class-wp-users-list-table.php:286
-#: wp-admin/includes/class-wp-users-list-table.php:506
+#: wp-admin/includes/class-wp-users-list-table.php:525
 msgid "Send password reset"
 msgstr ""
 
@@ -8908,30 +8912,30 @@ msgstr "Имя пользователя"
 msgid "Role"
 msgstr "Роль"
 
-#: wp-admin/includes/class-wp-users-list-table.php:455
+#: wp-admin/includes/class-wp-users-list-table.php:474
 #: wp-admin/user-edit.php:463
 msgid "Super Admin"
 msgstr "Администратор"
 
 #. translators: %s: Author's display name.
-#: wp-admin/includes/class-wp-users-list-table.php:497
+#: wp-admin/includes/class-wp-users-list-table.php:516
 msgid "View posts by %s"
 msgstr "Просмотр записей автора %s"
 
 #. translators: 1: User's first name, 2: Last name.
-#: wp-admin/includes/class-wp-users-list-table.php:576
+#: wp-admin/includes/class-wp-users-list-table.php:600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
 msgstr ""
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-users-list-table.php:588
+#: wp-admin/includes/class-wp-users-list-table.php:612
 msgctxt "name"
 msgid "Unknown"
 msgstr "Неизвестно"
 
 #. translators: Hidden accessibility text. %s: Number of posts.
-#: wp-admin/includes/class-wp-users-list-table.php:606
+#: wp-admin/includes/class-wp-users-list-table.php:630
 msgid "%s post by this author"
 msgid_plural "%s posts by this author"
 msgstr[0] "%s запись этого автора"
@@ -8939,7 +8943,7 @@ msgstr[1] "%s записей этого автора"
 msgstr[2] "%s записей этого автора"
 msgstr[3] "%s записей этого автора"
 
-#: wp-admin/includes/class-wp-users-list-table.php:669
+#: wp-admin/includes/class-wp-users-list-table.php:739
 msgctxt "no user roles"
 msgid "None"
 msgstr "Нет"
@@ -10309,7 +10313,7 @@ msgstr "Показать"
 #: wp-admin/includes/media.php:1555
 #: wp-admin/includes/media.php:2504
 #: wp-admin/install.php:146
-#: wp-admin/user-edit.php:701
+#: wp-admin/user-edit.php:747
 #: wp-admin/user-new.php:596
 #: wp-admin/js/user-profile.js:84
 msgid "Hide"
@@ -10721,329 +10725,329 @@ msgstr "Загружено: %s"
 msgid "Post Formats"
 msgstr "Форматы записей"
 
-#: wp-admin/includes/meta-boxes.php:609
-#: wp-admin/includes/meta-boxes.php:1222
+#: wp-admin/includes/meta-boxes.php:626
+#: wp-admin/includes/meta-boxes.php:1239
 msgid "Add"
 msgstr "Добавить"
 
 #. translators: %s: Add New taxonomy label.
-#: wp-admin/includes/meta-boxes.php:691
+#: wp-admin/includes/meta-boxes.php:708
 msgid "+ %s"
 msgstr ""
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/meta-boxes.php:760
-#: wp-admin/includes/meta-boxes.php:1652
+#: wp-admin/includes/meta-boxes.php:777
+#: wp-admin/includes/meta-boxes.php:1669
 #: wp-admin/options-reading.php:177
 msgid "Excerpt"
 msgstr "Отрывок"
 
 #. translators: %s: Documentation URL.
-#: wp-admin/includes/meta-boxes.php:767
+#: wp-admin/includes/meta-boxes.php:784
 msgid "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. <a href=\"%s\">Learn more about manual excerpts</a>."
 msgstr "Фрагменты — необязательные и созданные вручную выжимки из вашего текста, которе можно использовать в шаблонах темы. <a href=\"%s\">Узнать больше о фрагментах.</a>"
 
-#: wp-admin/includes/meta-boxes.php:768
+#: wp-admin/includes/meta-boxes.php:785
 msgid "https://wordpress.org/documentation/article/what-is-an-excerpt-classic-editor/"
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:787
+#: wp-admin/includes/meta-boxes.php:804
 msgid "Already pinged:"
 msgstr "Отправлены уведомления:"
 
-#: wp-admin/includes/meta-boxes.php:797
+#: wp-admin/includes/meta-boxes.php:814
 msgid "Send trackbacks to:"
 msgstr "Отправить обратные ссылки:"
 
-#: wp-admin/includes/meta-boxes.php:800
+#: wp-admin/includes/meta-boxes.php:817
 msgid "Separate multiple URLs with spaces"
 msgstr "Адреса разделяются пробелами"
 
 #. translators: %s: Documentation URL.
-#: wp-admin/includes/meta-boxes.php:805
+#: wp-admin/includes/meta-boxes.php:822
 msgid "Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. If you link other ClassicPress sites, they&#8217;ll be notified automatically using <a href=\"%s\">pingbacks</a>, no other action necessary."
 msgstr "Обратные ссылки &#8212; это способ уведомить другие блоги, что вы сослались на них. Если вы ссылаетесь на блог под управлением ClassicPress, <a href=\"%s\">уведомление</a> будет отправлено ему автоматически, дополнительных действий не требуется."
 
-#: wp-admin/includes/meta-boxes.php:806
+#: wp-admin/includes/meta-boxes.php:823
 msgid "https://wordpress.org/documentation/article/introduction-to-blogging/#comments"
 msgstr ""
 
 #. translators: %s: Documentation URL.
-#: wp-admin/includes/meta-boxes.php:842
+#: wp-admin/includes/meta-boxes.php:859
 msgid "Custom fields can be used to add extra metadata to a post that you can <a href=\"%s\">use in your theme</a>."
 msgstr "Произвольные поля позволяют добавлять к записям метаданные, которые вы можете <a href=\"%s\">использовать в своей теме</a>."
 
-#: wp-admin/includes/meta-boxes.php:843
+#: wp-admin/includes/meta-boxes.php:860
 msgid "https://wordpress.org/documentation/article/assign-custom-fields/"
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:861
+#: wp-admin/includes/meta-boxes.php:878
 msgid "Allow comments"
 msgstr "Разрешить комментарии"
 
 #. translators: %s: Documentation URL.
-#: wp-admin/includes/meta-boxes.php:866
+#: wp-admin/includes/meta-boxes.php:883
 msgid "Allow <a href=\"%s\">trackbacks and pingbacks</a>"
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:867
+#: wp-admin/includes/meta-boxes.php:884
 msgid "https://wordpress.org/documentation/article/introduction-to-blogging/#managing-comments"
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:908
+#: wp-admin/includes/meta-boxes.php:925
 #: wp-admin/includes/template.php:506
 msgid "Add Comment"
 msgstr "Добавить комментарий"
 
-#: wp-admin/includes/meta-boxes.php:922
+#: wp-admin/includes/meta-boxes.php:939
 msgid "No comments yet."
 msgstr "Комментариев нет."
 
-#: wp-admin/includes/meta-boxes.php:932
+#: wp-admin/includes/meta-boxes.php:949
 msgid "Show comments"
 msgstr "Показать комментарии"
 
-#: wp-admin/includes/meta-boxes.php:1020
+#: wp-admin/includes/meta-boxes.php:1037
 msgid "(no parent)"
 msgstr "(нет родительской)"
 
-#: wp-admin/includes/meta-boxes.php:1093
+#: wp-admin/includes/meta-boxes.php:1110
 msgid "Need help? Use the Help tab above the screen title."
 msgstr "Нужна помощь? Используйте вкладку &laquo;Помощь&raquo; над заголовком экрана."
 
-#: wp-admin/includes/meta-boxes.php:1124
+#: wp-admin/includes/meta-boxes.php:1141
 msgid "Visit Link"
 msgstr "Перейти по ссылке"
 
-#: wp-admin/includes/meta-boxes.php:1132
+#: wp-admin/includes/meta-boxes.php:1149
 msgid "Keep this link private"
 msgstr "Оставить ссылку личной"
 
-#: wp-admin/includes/meta-boxes.php:1190
+#: wp-admin/includes/meta-boxes.php:1207
 msgid "All categories"
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:1191
+#: wp-admin/includes/meta-boxes.php:1208
 msgctxt "categories"
 msgid "Most Used"
 msgstr "Часто используемые"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/meta-boxes.php:1213
-#: wp-admin/includes/meta-boxes.php:1218
+#: wp-admin/includes/meta-boxes.php:1230
+#: wp-admin/includes/meta-boxes.php:1235
 msgid "+ Add New Category"
 msgstr "+ Добавить рубрику"
 
-#: wp-admin/includes/meta-boxes.php:1221
+#: wp-admin/includes/meta-boxes.php:1238
 msgid "New category name"
 msgstr "Название рубрики"
 
-#: wp-admin/includes/meta-boxes.php:1249
+#: wp-admin/includes/meta-boxes.php:1266
 msgid "<code>_blank</code> &mdash; new window or tab."
 msgstr "<code>_blank</code> &mdash; новое окно или вкладка."
 
-#: wp-admin/includes/meta-boxes.php:1252
+#: wp-admin/includes/meta-boxes.php:1269
 msgid "<code>_top</code> &mdash; current window or tab, with no frames."
 msgstr "<code>_top</code> &mdash; текущее окно или вкладка, без фреймов."
 
-#: wp-admin/includes/meta-boxes.php:1255
+#: wp-admin/includes/meta-boxes.php:1272
 msgid "<code>_none</code> &mdash; same window or tab."
 msgstr "<code>_none</code> &mdash; то же окно или вкладка."
 
-#: wp-admin/includes/meta-boxes.php:1257
+#: wp-admin/includes/meta-boxes.php:1274
 msgid "Choose the target frame for your link."
 msgstr "Выберите цель для вашей ссылки."
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1331
+#: wp-admin/includes/meta-boxes.php:1348
 msgid "rel:"
 msgstr ""
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1335
-#: wp-admin/includes/meta-boxes.php:1340
+#: wp-admin/includes/meta-boxes.php:1352
+#: wp-admin/includes/meta-boxes.php:1357
 msgid "identity"
 msgstr "личность"
 
-#: wp-admin/includes/meta-boxes.php:1345
+#: wp-admin/includes/meta-boxes.php:1362
 msgid "another web address of mine"
 msgstr "ещё один мой веб-адрес"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1349
-#: wp-admin/includes/meta-boxes.php:1354
+#: wp-admin/includes/meta-boxes.php:1366
+#: wp-admin/includes/meta-boxes.php:1371
 msgid "friendship"
 msgstr "дружба"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1358
+#: wp-admin/includes/meta-boxes.php:1375
 msgid "contact"
 msgstr "знакомый"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1361
+#: wp-admin/includes/meta-boxes.php:1378
 msgid "acquaintance"
 msgstr "приятель"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1364
+#: wp-admin/includes/meta-boxes.php:1381
 msgid "friend"
 msgstr "друг"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1367
-#: wp-admin/includes/meta-boxes.php:1418
-#: wp-admin/includes/meta-boxes.php:1447
+#: wp-admin/includes/meta-boxes.php:1384
+#: wp-admin/includes/meta-boxes.php:1435
+#: wp-admin/includes/meta-boxes.php:1464
 msgid "none"
 msgstr "отсутствует"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1372
-#: wp-admin/includes/meta-boxes.php:1377
+#: wp-admin/includes/meta-boxes.php:1389
+#: wp-admin/includes/meta-boxes.php:1394
 msgid "physical"
 msgstr "физически"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1381
+#: wp-admin/includes/meta-boxes.php:1398
 msgid "met"
 msgstr "встречались"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1386
-#: wp-admin/includes/meta-boxes.php:1391
+#: wp-admin/includes/meta-boxes.php:1403
+#: wp-admin/includes/meta-boxes.php:1408
 msgid "professional"
 msgstr "профессионально"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1395
+#: wp-admin/includes/meta-boxes.php:1412
 msgid "co-worker"
 msgstr "вместе работаем"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1398
+#: wp-admin/includes/meta-boxes.php:1415
 msgid "colleague"
 msgstr "коллега"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1403
-#: wp-admin/includes/meta-boxes.php:1408
+#: wp-admin/includes/meta-boxes.php:1420
+#: wp-admin/includes/meta-boxes.php:1425
 msgid "geographical"
 msgstr "географически"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1412
+#: wp-admin/includes/meta-boxes.php:1429
 msgid "co-resident"
 msgstr "земляк"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1415
+#: wp-admin/includes/meta-boxes.php:1432
 msgid "neighbor"
 msgstr "сосед"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1423
-#: wp-admin/includes/meta-boxes.php:1428
+#: wp-admin/includes/meta-boxes.php:1440
+#: wp-admin/includes/meta-boxes.php:1445
 msgid "family"
 msgstr "семья"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1432
+#: wp-admin/includes/meta-boxes.php:1449
 #: wp-admin/nav-menus.php:530
 msgid "child"
 msgstr "ребёнок"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1435
+#: wp-admin/includes/meta-boxes.php:1452
 msgid "kin"
 msgstr "родственник"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1438
+#: wp-admin/includes/meta-boxes.php:1455
 msgid "parent"
 msgstr "родитель"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1441
+#: wp-admin/includes/meta-boxes.php:1458
 msgid "sibling"
 msgstr "брат, сестра"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1444
+#: wp-admin/includes/meta-boxes.php:1461
 msgid "spouse"
 msgstr "супруг(а)"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1452
-#: wp-admin/includes/meta-boxes.php:1457
+#: wp-admin/includes/meta-boxes.php:1469
+#: wp-admin/includes/meta-boxes.php:1474
 msgid "romantic"
 msgstr "романтика"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1461
+#: wp-admin/includes/meta-boxes.php:1478
 msgid "muse"
 msgstr "муза"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1464
+#: wp-admin/includes/meta-boxes.php:1481
 msgid "crush"
 msgstr "страсть"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1467
+#: wp-admin/includes/meta-boxes.php:1484
 msgid "date"
 msgstr "свидания"
 
 #. translators: xfn: https://gmpg.org/xfn
-#: wp-admin/includes/meta-boxes.php:1470
+#: wp-admin/includes/meta-boxes.php:1487
 msgid "sweetheart"
 msgstr "любовь"
 
-#: wp-admin/includes/meta-boxes.php:1476
+#: wp-admin/includes/meta-boxes.php:1493
 msgid "If the link is to a person, you can specify your relationship with them using the above form. If you would like to learn more about the idea check out <a href=\"https://gmpg.org/xfn/\">XFN</a>."
 msgstr ""
 
-#: wp-admin/includes/meta-boxes.php:1491
+#: wp-admin/includes/meta-boxes.php:1508
 msgid "Image Address"
 msgstr "Адрес картинки"
 
-#: wp-admin/includes/meta-boxes.php:1495
+#: wp-admin/includes/meta-boxes.php:1512
 msgid "RSS Address"
 msgstr "Адрес RSS"
 
-#: wp-admin/includes/meta-boxes.php:1499
+#: wp-admin/includes/meta-boxes.php:1516
 msgid "Notes"
 msgstr "Заметки"
 
-#: wp-admin/includes/meta-boxes.php:1514
+#: wp-admin/includes/meta-boxes.php:1531
 msgid "(Leave at 0 for no rating.)"
 msgstr "(Оставьте 0, если рейтинг не важен.)"
 
-#: wp-admin/includes/meta-boxes.php:1593
+#: wp-admin/includes/meta-boxes.php:1610
 #: wp-admin/revision.php:112
 msgid "Revisions"
 msgstr "Редакции"
 
-#: wp-admin/includes/meta-boxes.php:1604
+#: wp-admin/includes/meta-boxes.php:1621
 msgid "Metadata"
 msgstr "Метаданные"
 
-#: wp-admin/includes/meta-boxes.php:1656
+#: wp-admin/includes/meta-boxes.php:1673
 msgid "Send Trackbacks"
 msgstr "Отправить обратные ссылки"
 
-#: wp-admin/includes/meta-boxes.php:1662
+#: wp-admin/includes/meta-boxes.php:1679
 msgid "Custom Fields"
 msgstr "Произвольные поля"
 
-#: wp-admin/includes/meta-boxes.php:1686
-#: wp-admin/menu.php:339
+#: wp-admin/includes/meta-boxes.php:1703
+#: wp-admin/menu.php:354
 msgid "Discussion"
 msgstr "Обсуждение"
 
@@ -11481,7 +11485,7 @@ msgstr ""
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:70
-#: wp-admin/includes/update-core.php:1042
+#: wp-admin/includes/update-core.php:1053
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
 msgstr "https://forums.classicpress.net/c/support"
@@ -12978,10 +12982,14 @@ msgid "Invalid translation type."
 msgstr "Неверный тип перевода."
 
 #: wp-admin/includes/translation-install.php:71
-#: wp-admin/includes/update-core.php:1043
+#: wp-admin/includes/update-core.php:1054
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
 msgstr "(Не удалось установить защищённое соединение с ClassicPress.net. Пожалуйста, свяжитесь с администратором сервера.)"
+
+#: wp-admin/includes/translation-install.php:324
+msgid "Unable to upate language pack for locales"
+msgstr ""
 
 #: wp-admin/includes/update-core.php:290
 msgid "Verifying the unpacked files&#8230;"
@@ -13032,26 +13040,26 @@ msgstr "Недостаточно места на диске, чтобы заве
 msgid "Upgrading database&#8230;"
 msgstr "Обновление базы данных&#8230;"
 
-#: wp-admin/includes/update-core.php:884
+#: wp-admin/includes/update-core.php:895
 #: wp-admin/update-core.php:786
 msgid "ClassicPress updated successfully"
 msgstr "ClassicPress успешно обновлён"
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:890
+#: wp-admin/includes/update-core.php:901
 #: wp-admin/update-core.php:787
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "Добро пожаловать в ClassicPress %1$s. Сейчас вы будете перенаправлены на экран &laquo;О ClassicPress&raquo;. Если этого не произошло, нажмите <a href=\"%2$s\">сюда</a>."
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:898
+#: wp-admin/includes/update-core.php:909
 #: wp-admin/update-core.php:788
 msgid "Welcome to ClassicPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Добро пожаловать в ClassicPress %1$s. <a href=\"%2$s\">Узнать больше</a>."
 
 #. translators: %s: support forums URL
 #. translators: %s: Support forums URL.
-#: wp-admin/includes/update-core.php:1041
+#: wp-admin/includes/update-core.php:1052
 #: wp-admin/includes/update.php:137
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
 msgstr "Произошла непредвиденная ошибка. Возможно, что-то не так с сайтом ClassicPress.net или с настройками вашего сервера. Если проблема не решится, обратитесь на <a href=\"%s\">форумы поддержки</a>."
@@ -13305,76 +13313,76 @@ msgstr "Новый сайт на ClassicPress"
 msgid "Sorry, you are not allowed to give users that role."
 msgstr "Извините, вам не разрешено задавать пользователям эту роль."
 
-#: wp-admin/includes/user.php:152
+#: wp-admin/includes/user.php:176
 msgid "<strong>Error:</strong> Please enter a username."
 msgstr ""
 
-#: wp-admin/includes/user.php:157
+#: wp-admin/includes/user.php:181
 msgid "<strong>Error:</strong> Please enter a nickname."
 msgstr ""
 
-#: wp-admin/includes/user.php:173
+#: wp-admin/includes/user.php:197
 msgid "<strong>Error:</strong> Please enter a password."
 msgstr ""
 
-#: wp-admin/includes/user.php:178
+#: wp-admin/includes/user.php:202
 msgid "<strong>Error:</strong> Passwords may not contain the character \"\\\"."
 msgstr ""
 
-#: wp-admin/includes/user.php:183
+#: wp-admin/includes/user.php:207
 msgid "<strong>Error:</strong> Passwords do not match. Please enter the same password in both password fields."
 msgstr ""
 
-#: wp-admin/includes/user.php:191
+#: wp-admin/includes/user.php:215
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
 msgstr ""
 
-#: wp-admin/includes/user.php:195
+#: wp-admin/includes/user.php:219
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
 msgstr ""
 
-#: wp-admin/includes/user.php:202
+#: wp-admin/includes/user.php:226
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
 msgstr ""
 
-#: wp-admin/includes/user.php:207
+#: wp-admin/includes/user.php:231
 msgid "<strong>Error:</strong> Please enter an email address."
 msgstr ""
 
-#: wp-admin/includes/user.php:209
+#: wp-admin/includes/user.php:233
 msgid "<strong>Error:</strong> The email address is not correct."
 msgstr ""
 
-#: wp-admin/includes/user.php:213
+#: wp-admin/includes/user.php:237
 msgid "<strong>Error:</strong> This email is already registered. Please choose another one."
 msgstr ""
 
-#: wp-admin/includes/user.php:531
+#: wp-admin/includes/user.php:555
 msgid "Notice:"
 msgstr "Уведомление:"
 
-#: wp-admin/includes/user.php:532
+#: wp-admin/includes/user.php:556
 msgid "You&rsquo;re using the auto-generated password for your account. Would you like to change it?"
 msgstr "Вы используете автоматически созданный пароль для учётной записи. Хотите сменить его?"
 
-#: wp-admin/includes/user.php:534
+#: wp-admin/includes/user.php:558
 msgid "Yes, take me to my profile page"
 msgstr "Да, перейти на страницу профиля"
 
-#: wp-admin/includes/user.php:535
+#: wp-admin/includes/user.php:559
 msgid "No thanks, do not remind me again"
 msgstr "Нет, спасибо. Больше не напоминать мне об этом."
 
-#: wp-admin/includes/user.php:571
+#: wp-admin/includes/user.php:595
 msgid "Use https"
 msgstr "Использовать https"
 
-#: wp-admin/includes/user.php:572
+#: wp-admin/includes/user.php:596
 msgid "Always use https when visiting the admin"
 msgstr "Всегда использовать https при посещении панели администрирования"
 
 #. translators: 1: Site title, 2: Site URL, 3: User role.
-#: wp-admin/includes/user.php:595
+#: wp-admin/includes/user.php:619
 msgid "Hi,\n"
 "You've been invited to join '%1$s' at\n"
 "%2$s with the role of %3$s.\n"
@@ -13390,16 +13398,16 @@ msgstr "Привет,\n"
 "Перейдите по ссылке, чтобы активировать вашу учётную запись:\n"
 "%%s"
 
-#: wp-admin/includes/user.php:655
+#: wp-admin/includes/user.php:679
 msgid "The application ID must be a UUID."
 msgstr ""
 
-#: wp-admin/includes/user.php:697
-#: wp-admin/includes/user.php:719
+#: wp-admin/includes/user.php:721
+#: wp-admin/includes/user.php:743
 msgid "Invalid URL format."
 msgstr ""
 
-#: wp-admin/includes/user.php:726
+#: wp-admin/includes/user.php:750
 msgid "The URL must be served over a secure connection."
 msgstr ""
 
@@ -13530,7 +13538,7 @@ msgid "Usernames can have only alphanumeric characters, spaces, underscores, hyp
 msgstr ""
 
 #: wp-admin/install.php:144
-#: wp-admin/user-edit.php:699
+#: wp-admin/user-edit.php:745
 #: wp-admin/user-new.php:594
 #: wp-admin/js/user-profile.js:81
 msgid "Hide password"
@@ -13553,7 +13561,7 @@ msgstr "Повторите пароль"
 
 #: wp-admin/install.php:159
 #: wp-admin/user-edit.php:485
-#: wp-admin/user-edit.php:533
+#: wp-admin/user-edit.php:579
 #: wp-admin/user-new.php:532
 #: wp-admin/user-new.php:536
 #: wp-admin/user-new.php:583
@@ -13562,13 +13570,13 @@ msgid "(required)"
 msgstr "(обязательно)"
 
 #: wp-admin/install.php:167
-#: wp-admin/user-edit.php:723
+#: wp-admin/user-edit.php:769
 #: wp-admin/user-new.php:610
 msgid "Confirm Password"
 msgstr "Подтвердите пароль"
 
 #: wp-admin/install.php:171
-#: wp-admin/user-edit.php:727
+#: wp-admin/user-edit.php:773
 #: wp-admin/user-new.php:614
 #: wp-admin/js/user-profile.js:52
 msgid "Confirm use of weak password"
@@ -13932,24 +13940,24 @@ msgctxt "file"
 msgid "Add New"
 msgstr "Добавить нового"
 
-#: wp-admin/menu-header.php:296
+#: wp-admin/menu-header.php:321
 #: wp-admin/js/common.js:1989
 msgid "Collapse Main menu"
 msgstr "Свернуть главное меню"
 
-#: wp-admin/menu-header.php:298
+#: wp-admin/menu-header.php:323
 msgid "Collapse menu"
 msgstr "Свернуть меню"
 
-#: wp-admin/menu-header.php:304
+#: wp-admin/menu-header.php:329
 msgid "Main menu"
 msgstr "Главное меню"
 
-#: wp-admin/menu-header.php:305
+#: wp-admin/menu-header.php:330
 msgid "Skip to main content"
 msgstr "Перейти к основному содержимому"
 
-#: wp-admin/menu-header.php:306
+#: wp-admin/menu-header.php:331
 msgid "Skip to toolbar"
 msgstr "Перейти к верхней панели"
 
@@ -14041,7 +14049,7 @@ msgstr "Пользователи"
 
 #: wp-admin/menu.php:272
 #: wp-admin/menu.php:284
-#: wp-admin/menu.php:287
+#: wp-admin/menu.php:302
 #: wp-admin/user-edit.php:40
 #: wp-admin/user/menu.php:14
 msgid "Profile"
@@ -14059,8 +14067,8 @@ msgctxt "user"
 msgid "Add New"
 msgstr "Добавить нового"
 
-#: wp-admin/menu.php:289
-#: wp-admin/menu.php:291
+#: wp-admin/menu.php:304
+#: wp-admin/menu.php:306
 #: wp-admin/user-new.php:255
 #: wp-admin/user-new.php:377
 #: wp-admin/user-new.php:504
@@ -14068,47 +14076,47 @@ msgstr "Добавить нового"
 msgid "Add New User"
 msgstr "Добавить нового пользователя"
 
-#: wp-admin/menu.php:320
+#: wp-admin/menu.php:335
 #: wp-admin/tools.php:43
 msgid "Tools"
 msgstr "Инструменты"
 
-#: wp-admin/menu.php:321
+#: wp-admin/menu.php:336
 msgid "Available Tools"
 msgstr "Все инструменты"
 
 #. translators: %s: Number of critical Site Health checks.
-#: wp-admin/menu.php:325
+#: wp-admin/menu.php:340
 msgid "Site Health %s"
 msgstr ""
 
-#: wp-admin/menu.php:329
+#: wp-admin/menu.php:344
 msgid "Delete Site"
 msgstr "Удалить сайт"
 
-#: wp-admin/menu.php:332
+#: wp-admin/menu.php:347
 msgid "Network Setup"
 msgstr "Установка сети"
 
-#: wp-admin/menu.php:335
+#: wp-admin/menu.php:350
 #: wp-admin/options.php:22
 msgid "Settings"
 msgstr "Настройки"
 
-#: wp-admin/menu.php:336
+#: wp-admin/menu.php:351
 msgctxt "settings screen"
 msgid "General"
 msgstr "Общие"
 
-#: wp-admin/menu.php:337
+#: wp-admin/menu.php:352
 msgid "Writing"
 msgstr "Написание"
 
-#: wp-admin/menu.php:338
+#: wp-admin/menu.php:353
 msgid "Reading"
 msgstr "Чтение"
 
-#: wp-admin/menu.php:341
+#: wp-admin/menu.php:356
 msgid "Permalinks"
 msgstr "Постоянные ссылки"
 
@@ -15045,82 +15053,94 @@ msgstr "В секции &laquo;Загрузка файлов&raquo; можно �
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
 msgstr ""
 
-#: wp-admin/options-media.php:55
+#: wp-admin/options-media.php:63
 msgid "Image sizes"
 msgstr "Размеры изображений"
 
-#: wp-admin/options-media.php:56
+#: wp-admin/options-media.php:64
 msgid "The sizes listed below determine the maximum dimensions in pixels to use when adding an image to the Media Library."
 msgstr "Указанные ниже числа определяют максимальные размеры изображения в пикселях при добавлении его в библиотеку файлов."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/options-media.php:60
-#: wp-admin/options-media.php:64
+#: wp-admin/options-media.php:68
+#: wp-admin/options-media.php:72
 msgid "Thumbnail size"
 msgstr "Размер миниатюры"
 
-#: wp-admin/options-media.php:67
+#: wp-admin/options-media.php:75
 msgid "Width"
 msgstr "Ширина"
 
-#: wp-admin/options-media.php:70
+#: wp-admin/options-media.php:78
 msgid "Height"
 msgstr "Высота"
 
-#: wp-admin/options-media.php:74
+#: wp-admin/options-media.php:82
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
 msgstr "Обрезать миниатюру точно по размерам (обычно сохраняются пропорции миниатюр)"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/options-media.php:79
-#: wp-admin/options-media.php:83
+#: wp-admin/options-media.php:87
+#: wp-admin/options-media.php:91
 msgid "Medium size"
 msgstr "Средний размер"
 
-#: wp-admin/options-media.php:86
-#: wp-admin/options-media.php:102
+#: wp-admin/options-media.php:94
+#: wp-admin/options-media.php:110
 msgid "Max Width"
 msgstr "Макс. ширина"
 
-#: wp-admin/options-media.php:89
-#: wp-admin/options-media.php:105
+#: wp-admin/options-media.php:97
+#: wp-admin/options-media.php:113
 msgid "Max Height"
 msgstr "Макс. высота"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/options-media.php:95
-#: wp-admin/options-media.php:99
+#: wp-admin/options-media.php:103
+#: wp-admin/options-media.php:107
 msgid "Large size"
 msgstr "Крупный размер"
 
-#: wp-admin/options-media.php:119
+#: wp-admin/options-media.php:127
 msgid "Embeds"
 msgstr "Объекты"
 
-#: wp-admin/options-media.php:126
+#: wp-admin/options-media.php:134
 msgid "Uploading Files"
 msgstr "Загрузка файлов"
 
-#: wp-admin/options-media.php:138
+#: wp-admin/options-media.php:146
 msgid "Store uploads in this folder"
 msgstr "Сохранять файлы в этой папке"
 
 #. translators: %s: wp-content/uploads
-#: wp-admin/options-media.php:143
+#: wp-admin/options-media.php:151
 msgid "Default is %s"
 msgstr "По умолчанию: %s"
 
-#: wp-admin/options-media.php:150
+#: wp-admin/options-media.php:158
 msgid "Full URL path to files"
 msgstr "Полный URL-путь к файлам"
 
-#: wp-admin/options-media.php:152
+#: wp-admin/options-media.php:160
 msgid "Configuring this is optional. By default, it should be blank."
 msgstr "Этот параметр необязателен и по умолчанию пуст."
 
-#: wp-admin/options-media.php:163
-msgid "Organize my uploads into month- and year-based folders"
-msgstr "Помещать загруженные мной файлы в папки по месяцу и году"
+#: wp-admin/options-media.php:167
+msgid "How do you want your uploads organized?"
+msgstr ""
+
+#: wp-admin/options-media.php:172
+msgid "Store all uploads in the same folder."
+msgstr ""
+
+#: wp-admin/options-media.php:175
+msgid "Organize uploads into year-based folders."
+msgstr ""
+
+#: wp-admin/options-media.php:178
+msgid "Organize uploads into month- and year-based folders."
+msgstr ""
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
@@ -17872,132 +17892,132 @@ msgstr "Ник"
 msgid "Display name publicly as"
 msgstr "Отображать как"
 
-#: wp-admin/user-edit.php:529
+#: wp-admin/user-edit.php:575
 msgid "Contact Info"
 msgstr "Контакты"
 
-#: wp-admin/user-edit.php:538
+#: wp-admin/user-edit.php:584
 msgid "If you change this, an email will be sent at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
 msgstr ""
 
 #. translators: %s: New email.
-#: wp-admin/user-edit.php:549
+#: wp-admin/user-edit.php:595
 msgid "There is a pending change of your email to %s."
 msgstr "Ожидается подтверждение смены вашего адреса e-mail на %s."
 
-#: wp-admin/user-edit.php:576
+#: wp-admin/user-edit.php:622
 #: wp-admin/user-new.php:549
 msgid "Website"
 msgstr "Сайт"
 
-#: wp-admin/user-edit.php:618
+#: wp-admin/user-edit.php:664
 msgid "About Yourself"
 msgstr "Обо мне"
 
-#: wp-admin/user-edit.php:618
+#: wp-admin/user-edit.php:664
 msgid "About the user"
 msgstr "О пользователе"
 
-#: wp-admin/user-edit.php:630
+#: wp-admin/user-edit.php:676
 msgid "Biographical Info"
 msgstr "Биография"
 
-#: wp-admin/user-edit.php:632
+#: wp-admin/user-edit.php:678
 msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
 msgstr "Напишите немного о себе. Эта информация может отображаться на сайте."
 
-#: wp-admin/user-edit.php:641
+#: wp-admin/user-edit.php:687
 msgid "Profile Picture"
 msgstr "Аватар"
 
 #. translators: %s: Gravatar URL.
-#: wp-admin/user-edit.php:649
+#: wp-admin/user-edit.php:695
 msgid "<a href=\"%s\" rel=\"noreferrer\">You can change your profile picture on Gravatar</a>."
 msgstr ""
 
-#: wp-admin/user-edit.php:650
+#: wp-admin/user-edit.php:696
 msgid "https://en.gravatar.com/"
 msgstr "https://ru.gravatar.com/"
 
-#: wp-admin/user-edit.php:687
+#: wp-admin/user-edit.php:733
 msgid "Account Management"
 msgstr "Управление учётной записью"
 
-#: wp-admin/user-edit.php:691
+#: wp-admin/user-edit.php:737
 msgid "New Password"
 msgstr "Новый пароль"
 
-#: wp-admin/user-edit.php:694
+#: wp-admin/user-edit.php:740
 msgid "Set New Password"
 msgstr ""
 
-#: wp-admin/user-edit.php:703
+#: wp-admin/user-edit.php:749
 msgid "Cancel password change"
 msgstr "Отменить смену пароля"
 
-#: wp-admin/user-edit.php:712
+#: wp-admin/user-edit.php:758
 msgid "Repeat New Password"
 msgstr "Повторите новый пароль"
 
-#: wp-admin/user-edit.php:716
+#: wp-admin/user-edit.php:762
 msgid "Type your new password again."
 msgstr "Введите новый пароль повторно."
 
-#: wp-admin/user-edit.php:718
+#: wp-admin/user-edit.php:764
 msgid "Type the new password again."
 msgstr ""
 
-#: wp-admin/user-edit.php:736
+#: wp-admin/user-edit.php:782
 msgid "Password Reset"
 msgstr "Сброс пароля"
 
-#: wp-admin/user-edit.php:740
+#: wp-admin/user-edit.php:786
 msgid "Send Reset Link"
 msgstr ""
 
 #. translators: %s: User's display name.
-#: wp-admin/user-edit.php:747
+#: wp-admin/user-edit.php:793
 msgid "Send %s a link to reset their password. This will not change their password, nor will it force a change."
 msgstr ""
 
-#: wp-admin/user-edit.php:758
-#: wp-admin/user-edit.php:768
-#: wp-admin/user-edit.php:778
+#: wp-admin/user-edit.php:804
+#: wp-admin/user-edit.php:814
+#: wp-admin/user-edit.php:824
 msgid "Sessions"
 msgstr "Сессии"
 
-#: wp-admin/user-edit.php:760
-#: wp-admin/user-edit.php:770
+#: wp-admin/user-edit.php:806
+#: wp-admin/user-edit.php:816
 msgid "Log Out Everywhere Else"
 msgstr "Выйти на других устройствах"
 
-#: wp-admin/user-edit.php:762
+#: wp-admin/user-edit.php:808
 msgid "You are only logged in at this location."
 msgstr "Вы авторизованы только в текущем браузере."
 
-#: wp-admin/user-edit.php:772
+#: wp-admin/user-edit.php:818
 msgid "Did you lose your phone or leave your account logged in at a public computer? You can log out everywhere else, and stay logged in here."
 msgstr "Потеряли телефон или оставили учётную запись авторизованной на публичном компьютере? Здесь можно выйти из всех сессий, кроме текущей."
 
-#: wp-admin/user-edit.php:780
+#: wp-admin/user-edit.php:826
 msgid "Log Out Everywhere"
 msgstr "Завершить все сессии"
 
 #. translators: %s: User's display name.
-#: wp-admin/user-edit.php:784
+#: wp-admin/user-edit.php:830
 msgid "Log %s out of all locations."
 msgstr "Завершить все сессии пользователя %s."
 
-#: wp-admin/user-edit.php:794
+#: wp-admin/user-edit.php:840
 msgid "Application Passwords"
 msgstr ""
 
-#: wp-admin/user-edit.php:795
+#: wp-admin/user-edit.php:841
 msgid "Application passwords allow authentication via non-interactive systems, such as XML-RPC or the REST API, without providing your actual password. Application passwords can be easily revoked. They cannot be used for traditional logins to your website."
 msgstr ""
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
-#: wp-admin/user-edit.php:807
+#: wp-admin/user-edit.php:853
 msgid "Application passwords grant access to <a href=\"%1$s\">the %2$s site in this installation that you have permissions on</a>."
 msgid_plural "Application passwords grant access to <a href=\"%1$s\">all %2$s sites in this installation that you have permissions on</a>."
 msgstr[0] ""
@@ -18006,7 +18026,7 @@ msgstr[2] ""
 msgstr[3] ""
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
-#: wp-admin/user-edit.php:815
+#: wp-admin/user-edit.php:861
 msgid "Application passwords grant access to <a href=\"%1$s\">the %2$s site on the network as you have Super Admin rights</a>."
 msgid_plural "Application passwords grant access to <a href=\"%1$s\">all %2$s sites on the network as you have Super Admin rights</a>."
 msgstr[0] ""
@@ -18014,54 +18034,54 @@ msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-admin/user-edit.php:839
+#: wp-admin/user-edit.php:885
 msgid "Required to create an Application Password, but not to update the user."
 msgstr ""
 
-#: wp-admin/user-edit.php:853
+#: wp-admin/user-edit.php:899
 msgid "Add New Application Password"
 msgstr ""
 
-#: wp-admin/user-edit.php:857
+#: wp-admin/user-edit.php:903
 msgid "Your website appears to use Basic Authentication, which is not currently compatible with Application Passwords."
 msgstr ""
 
-#: wp-admin/user-edit.php:869
+#: wp-admin/user-edit.php:915
 msgid "The application password feature requires HTTPS, which is not enabled on this site."
 msgstr ""
 
 #. translators: %s: Documentation URL.
-#: wp-admin/user-edit.php:874
+#: wp-admin/user-edit.php:920
 msgid "If this is a development website you can <a href=\"%s\" target=\"_blank\">set the environment type accordingly</a> to enable application passwords."
 msgstr ""
 
-#: wp-admin/user-edit.php:875
+#: wp-admin/user-edit.php:921
 msgid "https://developer.wordpress.org/apis/wp-config-php/#wp-environment-type"
 msgstr ""
 
-#: wp-admin/user-edit.php:924
+#: wp-admin/user-edit.php:970
 msgid "Additional Capabilities"
 msgstr "Дополнительные возможности"
 
-#: wp-admin/user-edit.php:928
+#: wp-admin/user-edit.php:974
 msgid "Capabilities"
 msgstr "Возможности"
 
 #. translators: %s: Capability name.
-#: wp-admin/user-edit.php:942
+#: wp-admin/user-edit.php:988
 msgid "Denied: %s"
 msgstr "Отказано: %s"
 
-#: wp-admin/user-edit.php:956
+#: wp-admin/user-edit.php:1002
 msgid "Update Profile"
 msgstr "Обновить профиль"
 
-#: wp-admin/user-edit.php:956
+#: wp-admin/user-edit.php:1002
 msgid "Update User"
 msgstr "Обновить информацию"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/user-edit.php:1003
+#: wp-admin/user-edit.php:1049
 #: wp-admin/js/application-passwords.js:203
 #: wp-admin/js/common.js:1109
 msgid "Dismiss this notice."
