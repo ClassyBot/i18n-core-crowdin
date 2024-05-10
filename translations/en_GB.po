@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-05-09 15:15\n"
+"PO-Revision-Date: 2024-05-10 03:12\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -209,7 +209,7 @@ msgstr "View User"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "Debugging Enabled"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -5270,7 +5270,7 @@ msgstr "Post Comment"
 
 #: wp-includes/comment-template.php:2742
 msgid "Array values must only be a string or `true` boolean"
-msgstr ""
+msgstr "Array values must only be a string or `true` boolean"
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
@@ -12374,75 +12374,75 @@ msgstr "Format"
 
 #: wp-includes/taxonomy.php:200
 msgid "Media Categories"
-msgstr ""
+msgstr "Media Categories"
 
 #: wp-includes/taxonomy.php:201
 msgid "Media Category"
-msgstr ""
+msgstr "Media Category"
 
 #: wp-includes/taxonomy.php:202
 msgid "Search Media Categories"
-msgstr ""
+msgstr "Search Media Categories"
 
 #: wp-includes/taxonomy.php:204
 msgid "All Media Categories"
-msgstr ""
+msgstr "All Media Categories"
 
 #: wp-includes/taxonomy.php:205
 msgid "Edit Media Category"
-msgstr ""
+msgstr "Edit Media Category"
 
 #: wp-includes/taxonomy.php:206
 msgid "Update Media Category"
-msgstr ""
+msgstr "Update Media Category"
 
 #: wp-includes/taxonomy.php:207
 msgid "Add New Media Category"
-msgstr ""
+msgstr "Add New Media Category"
 
 #: wp-includes/taxonomy.php:208
 msgid "New Media Category Name"
-msgstr ""
+msgstr "New Media Category Name"
 
 #: wp-includes/taxonomy.php:212
 msgid "&larr; Go to Media Categories"
-msgstr ""
+msgstr "&larr; Go to Media Categories"
 
 #: wp-includes/taxonomy.php:242
 msgid "Media Tags"
-msgstr ""
+msgstr "Media Tags"
 
 #: wp-includes/taxonomy.php:243
 msgid "Media Tag"
-msgstr ""
+msgstr "Media Tag"
 
 #: wp-includes/taxonomy.php:244
 msgid "Search Media Tags"
-msgstr ""
+msgstr "Search Media Tags"
 
 #: wp-includes/taxonomy.php:246
 msgid "All Media Tags"
-msgstr ""
+msgstr "All Media Tags"
 
 #: wp-includes/taxonomy.php:247
 msgid "Edit Media Tag"
-msgstr ""
+msgstr "Edit Media Tag"
 
 #: wp-includes/taxonomy.php:248
 msgid "Update Media Tag"
-msgstr ""
+msgstr "Update Media Tag"
 
 #: wp-includes/taxonomy.php:249
 msgid "Add New Media Tag"
-msgstr ""
+msgstr "Add New Media Tag"
 
 #: wp-includes/taxonomy.php:250
 msgid "New Media Tag Name"
-msgstr ""
+msgstr "New Media Tag Name"
 
 #: wp-includes/taxonomy.php:254
 msgid "&larr; Go to Media Tags"
-msgstr ""
+msgstr "&larr; Go to Media Tags"
 
 #: wp-includes/taxonomy.php:541
 #: wp-includes/taxonomy.php:542
@@ -12814,7 +12814,7 @@ msgstr "You need to pass an array of post formats."
 
 #: wp-includes/theme.php:2613
 msgid "HTML5 is the default."
-msgstr ""
+msgstr "HTML5 is the default."
 
 #. translators: 1: title-tag, 2: wp_loaded
 #: wp-includes/theme.php:2788
