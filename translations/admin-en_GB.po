@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-05-09 15:15\n"
+"PO-Revision-Date: 2024-05-10 03:12\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1366,7 +1366,7 @@ msgstr "Media file updated."
 
 #: wp-admin/edit-form-advanced.php:234
 msgid "You can't publish an empty post."
-msgstr ""
+msgstr "You can't publish an empty post."
 
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:253
@@ -12872,7 +12872,7 @@ msgstr "(ClassicPress could not establish a secure connection to ClassicPress.ne
 
 #: wp-admin/includes/translation-install.php:324
 msgid "Unable to upate language pack for locales"
-msgstr ""
+msgstr "Unable to upate language pack for locales"
 
 #: wp-admin/includes/update-core.php:290
 msgid "Verifying the unpacked files&#8230;"
@@ -15008,19 +15008,19 @@ msgstr "Configuring this is optional. By default, it should be blank."
 
 #: wp-admin/options-media.php:167
 msgid "How do you want your uploads organized?"
-msgstr ""
+msgstr "How do you want your uploads organised?"
 
 #: wp-admin/options-media.php:172
 msgid "Store all uploads in the same folder."
-msgstr ""
+msgstr "Store all uploads in the same folder."
 
 #: wp-admin/options-media.php:175
 msgid "Organize uploads into year-based folders."
-msgstr ""
+msgstr "Organise uploads into year-based folders."
 
 #: wp-admin/options-media.php:178
 msgid "Organize uploads into month- and year-based folders."
-msgstr ""
+msgstr "Organise uploads into month- and year-based folders."
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
