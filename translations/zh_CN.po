@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-05 17:00\n"
+"PO-Revision-Date: 2024-05-11 14:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19528,7 +19528,7 @@ msgstr "季节性的"
 #: wp-includes/class-wp-user.php:264 wp-includes/class-wp-user.php:293
 #: wp-includes/class-wp-user.php:331 wp-includes/class-wp-user.php:354
 msgid "Use %s instead."
-msgstr ""
+msgstr "请改用 %s。"
 
 #: wp-includes/class-wp-user.php:716
 msgid "Usage of user levels is deprecated. Use capabilities instead."
