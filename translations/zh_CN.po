@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-09 15:16\n"
+"PO-Revision-Date: 2024-05-11 14:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -209,7 +209,7 @@ msgstr "查看用户"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "调试已启用"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -4231,11 +4231,11 @@ msgstr "用户查询不应在 %s 钩子之前运行。"
 #: wp-includes/class-wp-user.php:352
 #: wp-includes/class-wp-user.php:377
 msgid "Use %s instead."
-msgstr ""
+msgstr "请改用 %s。"
 
 #: wp-includes/class-wp-user.php:774
 msgid "Usage of user levels is deprecated. Use capabilities instead."
-msgstr ""
+msgstr "用户等级的使用已被废弃。请改用权限。"
 
 #: wp-includes/class-wp-widget.php:144
 msgid "There are no options for this widget."
