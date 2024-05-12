@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-11 14:22\n"
+"PO-Revision-Date: 2024-05-12 02:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5097,7 +5097,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:870
 #: wp-includes/class-wp-xmlrpc-server.php:518
 msgid "Template"
-msgstr ""
+msgstr "模板"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1567
 #: wp-admin/includes/meta-boxes.php:893
@@ -8108,7 +8108,7 @@ msgstr ""
 #: wp-admin/includes/file.php:52 wp-admin/includes/file.php:60
 #: wp-includes/class-wp-xmlrpc-server.php:523
 msgid "Stylesheet"
-msgstr ""
+msgstr "样式表"
 
 #: wp-admin/includes/file.php:53
 msgid "Visual Editor Stylesheet"
@@ -12010,7 +12010,7 @@ msgstr "添加"
 #: wp-admin/includes/widgets.php:245 wp-admin/widgets.php:279
 #: wp-includes/class-wp-widget.php:143
 msgid "There are no options for this widget."
-msgstr ""
+msgstr "此小工具没有选项。"
 
 #: wp-admin/includes/widgets.php:262
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:55
@@ -13354,7 +13354,7 @@ msgstr ""
 #: wp-admin/network/site-new.php:201 wp-admin/options-general.php:79
 #: wp-includes/class-wp-xmlrpc-server.php:488
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "站点地址 (URL)"
 
 #: wp-admin/network/site-info.php:180
 msgid "Attributes"
@@ -14292,7 +14292,7 @@ msgstr ""
 
 #: wp-admin/options-general.php:74 wp-includes/class-wp-xmlrpc-server.php:483
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "ClassicPress地址 (URL)"
 
 #. translators: %s: Codex URL
 #: wp-admin/options-general.php:85
@@ -14368,7 +14368,7 @@ msgstr ""
 #: wp-admin/options-general.php:287 wp-admin/options-general.php:289
 #: wp-includes/class-wp-xmlrpc-server.php:550
 msgid "Date Format"
-msgstr ""
+msgstr "日期格式"
 
 #: wp-admin/options-general.php:314 wp-admin/options-general.php:351
 msgid "Custom:"
@@ -14389,7 +14389,7 @@ msgstr ""
 #: wp-admin/options-general.php:325 wp-admin/options-general.php:327
 #: wp-includes/class-wp-xmlrpc-server.php:555
 msgid "Time Format"
-msgstr ""
+msgstr "时间格式"
 
 #: wp-admin/options-general.php:351
 msgid "enter a custom time format in the following field"
@@ -19532,95 +19532,95 @@ msgstr "请改用 %s。"
 
 #: wp-includes/class-wp-user.php:716
 msgid "Usage of user levels is deprecated. Use capabilities instead."
-msgstr ""
+msgstr "用户等级的使用已被废弃。请改用权限。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:268
 msgid "XML-RPC services are disabled on this site."
-msgstr ""
+msgstr "此站点禁用了XML-RPC服务。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:279
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "用户名或密码不正确。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:473
 msgid "Software Name"
-msgstr ""
+msgstr "软件名称"
 
 #: wp-includes/class-wp-xmlrpc-server.php:478
 msgid "Software Version"
-msgstr ""
+msgstr "软件版本"
 
 #: wp-includes/class-wp-xmlrpc-server.php:493
 msgid "Login Address (URL)"
-msgstr ""
+msgstr "登录地址 (URL)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:498
 msgid "The URL to the admin area"
-msgstr ""
+msgstr "后台 URL"
 
 #: wp-includes/class-wp-xmlrpc-server.php:503
 msgid "Image default link type"
-msgstr ""
+msgstr "默认图像链接类型"
 
 #: wp-includes/class-wp-xmlrpc-server.php:508
 msgid "Image default size"
-msgstr ""
+msgstr "图像默认尺寸"
 
 #: wp-includes/class-wp-xmlrpc-server.php:513
 msgid "Image default align"
-msgstr ""
+msgstr "图像默认对齐方式"
 
 #: wp-includes/class-wp-xmlrpc-server.php:528
 msgid "Post Thumbnail"
-msgstr ""
+msgstr "文章缩略图"
 
 #: wp-includes/class-wp-xmlrpc-server.php:535
 msgid "Time Zone"
-msgstr ""
+msgstr "时区"
 
 #: wp-includes/class-wp-xmlrpc-server.php:545
 msgid "Site Tagline"
-msgstr ""
+msgstr "站点副标题"
 
 #: wp-includes/class-wp-xmlrpc-server.php:560
 msgid "Allow new users to sign up"
-msgstr ""
+msgstr "允许新用户注册"
 
 #: wp-includes/class-wp-xmlrpc-server.php:565
 msgid "Thumbnail Width"
-msgstr ""
+msgstr "缩略图宽度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:570
 msgid "Thumbnail Height"
-msgstr ""
+msgstr "缩略图高度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:575
 msgid "Crop thumbnail to exact dimensions"
-msgstr ""
+msgstr "裁剪缩略图到精确尺寸"
 
 #: wp-includes/class-wp-xmlrpc-server.php:580
 msgid "Medium size image width"
-msgstr ""
+msgstr "中等尺寸的图像宽度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:585
 msgid "Medium size image height"
-msgstr ""
+msgstr "中等尺寸的图像高度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:590
 msgid "Medium-Large size image width"
-msgstr ""
+msgstr "中大尺寸的图像宽度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:595
 msgid "Medium-Large size image height"
-msgstr ""
+msgstr "中大尺寸的图像高度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:600
 msgid "Large size image width"
-msgstr ""
+msgstr "大尺寸的图像宽度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:605
 msgid "Large size image height"
-msgstr ""
+msgstr "大尺寸的图像高度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:728
 msgid "Insufficient arguments passed to this XML-RPC method."
