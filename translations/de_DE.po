@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-08 08:10\n"
+"PO-Revision-Date: 2024-05-12 19:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19142,13 +19142,13 @@ msgstr "Samstag"
 #: wp-includes/class-wp-locale.php:138
 msgctxt "Sunday initial"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:139
 msgctxt "Monday initial"
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:140
@@ -19172,13 +19172,13 @@ msgstr "D"
 #: wp-includes/class-wp-locale.php:143
 msgctxt "Friday initial"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
