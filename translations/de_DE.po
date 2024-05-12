@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-09 15:14\n"
+"PO-Revision-Date: 2024-05-12 19:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2977,12 +2977,12 @@ msgstr "Das Bild hat bereits die angeforderte Größe."
 
 #: wp-includes/class-wp-image-editor-imagick.php:708
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
-msgstr ""
+msgstr "Das Bild kann nicht gedreht werden, weil die eingebetteten Metadaten nicht aktualisiert werden können."
 
 #. translators: %s: PHP function name.
 #: wp-includes/class-wp-image-editor-imagick.php:830
 msgid "%s failed while writing image to stream."
-msgstr ""
+msgstr "%s ist beim Schreiben des Bildes in Stream fehlgeschlagen."
 
 #. translators: %s: Directory path.
 #: wp-includes/class-wp-image-editor-imagick.php:846
@@ -3004,7 +3004,7 @@ msgstr "Es wurde versucht, die Bildqualität außerhalb des Bereichs [1-100] zu 
 #: wp-includes/class-wp-list-util.php:174
 #: wp-includes/class-wp-list-util.php:205
 msgid "Values for the input array must be either objects or arrays."
-msgstr ""
+msgstr "Werte für das Inputarray müssen entweder Objekte oder Arrays sein."
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:148
@@ -3045,13 +3045,13 @@ msgstr "Samstag"
 #: wp-includes/class-wp-locale.php:157
 msgctxt "Sunday initial"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:158
 msgctxt "Monday initial"
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:159
@@ -3075,13 +3075,13 @@ msgstr "D"
 #: wp-includes/class-wp-locale.php:162
 msgctxt "Friday initial"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:163
 msgctxt "Saturday initial"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:166
