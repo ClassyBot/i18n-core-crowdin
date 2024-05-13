@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-12 19:30\n"
+"PO-Revision-Date: 2024-05-13 07:33\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3136,7 +3136,7 @@ msgstr "März"
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:178
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:179
@@ -3156,12 +3156,12 @@ msgstr "Juli"
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:182
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:183
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:184
@@ -3171,7 +3171,7 @@ msgstr "Oktober"
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:185
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #. translators: Month name.
 #: wp-includes/class-wp-locale.php:186
@@ -3200,7 +3200,7 @@ msgstr "März"
 #: wp-includes/class-wp-locale.php:192
 msgctxt "genitive"
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:193
@@ -3224,13 +3224,13 @@ msgstr "Juli"
 #: wp-includes/class-wp-locale.php:196
 msgctxt "genitive"
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:197
 msgctxt "genitive"
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:198
@@ -3242,7 +3242,7 @@ msgstr "Oktober"
 #: wp-includes/class-wp-locale.php:199
 msgctxt "genitive"
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #. translators: Month name, genitive.
 #: wp-includes/class-wp-locale.php:200
@@ -3254,13 +3254,13 @@ msgstr "Dezember"
 #: wp-includes/class-wp-locale.php:203
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:204
 msgctxt "February abbreviation"
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:205
@@ -3272,7 +3272,7 @@ msgstr "Mrz"
 #: wp-includes/class-wp-locale.php:206
 msgctxt "April abbreviation"
 msgid "Apr"
-msgstr ""
+msgstr "Apr"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:207
@@ -3284,25 +3284,25 @@ msgstr "Mai"
 #: wp-includes/class-wp-locale.php:208
 msgctxt "June abbreviation"
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:209
 msgctxt "July abbreviation"
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:210
 msgctxt "August abbreviation"
 msgid "Aug"
-msgstr ""
+msgstr "Aug"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:211
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:212
@@ -3314,7 +3314,7 @@ msgstr "Okt"
 #: wp-includes/class-wp-locale.php:213
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:214
@@ -3324,21 +3324,21 @@ msgstr "Dez"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
-msgstr ""
+msgstr "am"
 
 #: wp-includes/class-wp-locale.php:218
 msgid "pm"
-msgstr ""
+msgstr "pm"
 
 #: wp-includes/class-wp-locale.php:219
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-includes/class-wp-locale.php:220
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #. translators: $thousands_sep argument for https://www.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:226
@@ -3354,7 +3354,7 @@ msgstr ","
 #: wp-includes/class-wp-locale.php:239
 #: wp-includes/l10n.php:1813
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
@@ -3364,7 +3364,7 @@ msgstr ""
 #: wp-includes/js/dist/i18n.js:1941
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:395
@@ -3394,16 +3394,16 @@ msgstr "wörter"
 #: wp-includes/class-wp-metadata-lazyloader.php:82
 #: wp-includes/class-wp-metadata-lazyloader.php:122
 msgid "Invalid object type."
-msgstr ""
+msgstr "Ungültiger Objekt-Typ."
 
 #: wp-includes/class-wp-object-cache.php:157
 msgid "Cache key must not be an empty string."
-msgstr ""
+msgstr "Cache-Schlüssel darf kein leerer String sein."
 
 #. translators: %s: The type of the given cache key.
 #: wp-includes/class-wp-object-cache.php:159
 msgid "Cache key must be integer or non-empty string, %s given."
-msgstr ""
+msgstr "Cache-Schlüssel muss Integer oder nicht-leerer String sein, %s angegeben."
 
 #: wp-includes/class-wp-oembed-controller.php:45
 #: wp-includes/class-wp-oembed-controller.php:73
@@ -3424,7 +3424,7 @@ msgstr "Die maximale Höhe des eingebundenen Frames in Pixel."
 
 #: wp-includes/class-wp-oembed-controller.php:99
 msgid "Whether to perform an oEmbed discovery request for unsanctioned providers."
-msgstr ""
+msgstr "Ob eine oEmbed Entdeckung Anfrage für nicht sanktionierte Anbieter durchgeführt werden soll."
 
 #: wp-includes/class-wp-oembed-controller.php:150
 msgid "Sorry, you are not allowed to make proxied oEmbed requests."
@@ -3432,7 +3432,7 @@ msgstr "Du bist leider nicht berechtigt, oEmbed-Anfragen über Proxy zu machen."
 
 #: wp-includes/class-wp-oembed-controller.php:216
 msgid "Embed Handler"
-msgstr ""
+msgstr "Handler einbetten"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -3575,12 +3575,12 @@ msgstr "Zu dieser Seite hochgeladen"
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
 msgid "Featured image"
-msgstr ""
+msgstr "Beitragsbild"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "page"
 msgid "Featured image"
-msgstr ""
+msgstr "Beitragsbild"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
@@ -3651,27 +3651,27 @@ msgstr "Seite veröffentlicht."
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Post published privately."
-msgstr ""
+msgstr "Beitrag privat veröffentlicht."
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Page published privately."
-msgstr ""
+msgstr "Seite privat veröffentlicht."
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Post reverted to draft."
-msgstr ""
+msgstr "Beitrag wurde zum Entwurf zurückgesetzt."
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Page reverted to draft."
-msgstr ""
+msgstr "Seite wurde zum Entwurf zurückgesetzt."
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Post scheduled."
-msgstr ""
+msgstr "Beitrag geplant."
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Page scheduled."
-msgstr ""
+msgstr "Seite geplant."
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Post updated."
@@ -3684,22 +3684,22 @@ msgstr "Seite wurde aktualisiert."
 #: wp-includes/class-wp-post-type.php:831
 msgctxt "navigation link block title"
 msgid "Post Link"
-msgstr ""
+msgstr "Beitragslink"
 
 #: wp-includes/class-wp-post-type.php:832
 msgctxt "navigation link block title"
 msgid "Page Link"
-msgstr ""
+msgstr "Seitenlink"
 
 #: wp-includes/class-wp-post-type.php:835
 msgctxt "navigation link block description"
 msgid "A link to a post."
-msgstr ""
+msgstr "Ein Link zu einem Beitrag."
 
 #: wp-includes/class-wp-post-type.php:836
 msgctxt "navigation link block description"
 msgid "A link to a page."
-msgstr ""
+msgstr "Ein Link zu einer Seite."
 
 #: wp-includes/class-wp-query.php:1565
 msgctxt "Comma-separated list of search stopwords in your language"
@@ -3709,48 +3709,48 @@ msgstr "ein,eine,einer,der,die,das,und,oder,doch,sind,ist,war,für,von,in,an,zu,
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:90
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:139
 msgid "No cookie present."
-msgstr ""
+msgstr "Kein Cookie vorhanden."
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:105
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:168
 msgid "Invalid cookie format."
-msgstr ""
+msgstr "Ungültiges Cookie Format."
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:112
 msgid "Cookie expired."
-msgstr ""
+msgstr "Cookie abgelaufen."
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:119
 msgid "Invalid cookie."
-msgstr ""
+msgstr "Ungültiges Cookie."
 
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:219
 #: wp-includes/pluggable.php:2447
 msgid "put your unique phrase here"
-msgstr ""
+msgstr "deine einzigartige Phrase hier setzen"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:59
 msgid "Could not update the email last sent time."
-msgstr ""
+msgstr "Die E-Mail konnte nicht aktualisiert werden, als letzte Sendezeit."
 
 #. translators: %s: mail()
 #: wp-includes/class-wp-recovery-mode-email-service.php:72
 msgid "The email could not be sent. Possible reason: your host may have disabled the %s function."
-msgstr ""
+msgstr "Die E-Mail konnte nicht gesendet werden. Möglicher Grund: Dein Host hat die %s Funktion möglicherweise deaktiviert."
 
 #. translators: 1: Last sent as a human time diff, 2: Wait time as a human time diff.
 #: wp-includes/class-wp-recovery-mode-email-service.php:80
 msgid "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
-msgstr ""
+msgstr "Ein Wiederherstellungslink wurde bereits vor %1$s gesendet. Bitte warte eine weitere %2$s, bevor du eine neue E-Mail anforderst."
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:126
 msgid "Error Details"
-msgstr ""
+msgstr "Details zum Fehler"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:141
 msgid "Please contact your host for assistance with investigating this issue further."
-msgstr ""
+msgstr "Bitte kontaktierst du deinen Gastgeber für Unterstützung bei der weiteren Untersuchung dieses Problems."
 
 #. translators: Do not translate LINK, EXPIRES, CAUSE, DETAILS, SITEURL, PAGEURL, SUPPORT. DEBUG: those are placeholders.
 #: wp-includes/class-wp-recovery-mode-email-service.php:153
@@ -3765,83 +3765,93 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "Howdy!\n\n"
+"ClassicPress hat eine eingebaute Funktion, die erkennt, ob ein Plugin oder Theme einen fatalen Fehler auf deiner Website verursacht und informierst du mit dieser automatisierten E-Mail.\n"
+"###CAUSE###\n"
+"Zuerst besuchst du deine Webseite (###SITEURL###) und überprüfst du alle sichtbaren Probleme. Als nächstes besuchst du die Seite, auf der der Fehler gefunden wurde (###PAGEURL###) und überprüfst du alle sichtbaren Probleme.\n\n"
+"###SUPPORT###\n\n"
+"Wenn deine Seite defekt erscheint und du auf Ihr Dashboard normal nicht zugreifen kannst, hat WordPress jetzt einen speziellen \"Recovery-Modus\". Hiermit kannst du dich sicher in dein Dashboard einloggen und weiter untersuchen.\n\n"
+"###LINK###\n\n"
+"Um deine Seite sicher zu halten, verfällt dieser Link in ###EXPIRES###. Machst du dir jedoch keine Sorgen: Ein neuer Link wird dir per E-Mail zugesandt, wenn der Fehler nach Ablauf erneut auftritt.\n\n"
+"Wenn du Hilfe bei diesem Problem suchst, wirst du möglicherweise nach folgenden Informationen gefragt:\n"
+"###DEBUG###\n\n"
+"###DETAILS##"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
 msgid "[%s] Your Site is Experiencing a Technical Issue"
-msgstr ""
+msgstr "[%s] Deine Seite erlebt ein technisches Problem"
 
 #. translators: %s: Plugin name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:280
 msgid "In this case, ClassicPress caught an error with one of your plugins, %s."
-msgstr ""
+msgstr "In diesem Fall hat ClassicPress einen Fehler mit einem deiner Plugins %s entdeckt."
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:286
 msgid "In this case, ClassicPress caught an error with your theme, %s."
-msgstr ""
+msgstr "In diesem Fall hat ClassicPress einen Fehler mit deinem Theme %s entdeckt."
 
 #. translators: %s: Current WordPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress Version %s"
 
 #. translators: 1: Current active theme name. 2: Current active theme version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:357
 msgid "Active theme: %1$s (version %2$s)"
-msgstr ""
+msgstr "Aktives Theme: %1$s (Version %2$s)"
 
 #. translators: 1: The failing plugins name. 2: The failing plugins version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:366
 msgid "Current plugin: %1$s (version %2$s)"
-msgstr ""
+msgstr "Aktuelles Plugin: %1$s (Version %2$s)"
 
 #. translators: %s: The currently used PHP version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:374
 msgid "PHP version %s"
-msgstr ""
+msgstr "PHP Version %s"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:101
 msgid "Recovery Mode not initialized."
-msgstr ""
+msgstr "Wiederherstellungsmodus nicht initialisiert."
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:109
 msgid "Invalid recovery key format."
-msgstr ""
+msgstr "Ungültiges Wiederherstellungsschlüssel Format."
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:118
 msgid "Invalid recovery key."
-msgstr ""
+msgstr "Ungültiger Wiederherstellungsschlüssel."
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:122
 msgid "Recovery key expired."
-msgstr ""
+msgstr "Wiederherstellungsschlüssel ist abgelaufen."
 
 #: wp-includes/class-wp-recovery-mode.php:173
 msgid "Error not caused by a plugin or theme."
-msgstr ""
+msgstr "Fehler nicht durch ein Plugin oder Theme verursacht."
 
 #: wp-includes/class-wp-recovery-mode.php:178
 msgid "Error occurred on a non-protected endpoint."
-msgstr ""
+msgstr "Bei einem ungeschützten Endpunkt ist ein Fehler aufgetreten."
 
 #: wp-includes/class-wp-recovery-mode.php:189
 msgid "Failed to store the error."
-msgstr ""
+msgstr "Fehler beim Speichern des Fehlers."
 
 #: wp-includes/class-wp-recovery-mode.php:243
 msgid "Exit recovery mode link expired."
-msgstr ""
+msgstr "Link zum Wiederherstellungsmodus ist abgelaufen."
 
 #: wp-includes/class-wp-recovery-mode.php:247
 msgid "Failed to exit recovery mode. Please try again later."
-msgstr ""
+msgstr "Wiederherstellungsmodus konnte nicht beendet werden. Bitte versuche es später erneut."
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:472
 msgid "The %1$s parameter must be an array. To pass arbitrary data to scripts, use the %2$s function instead."
-msgstr ""
+msgstr "Der %1$s Parameter muss ein Array sein. Um beliebige Daten an Skripte zu übergeben, verwenden Sie stattdessen die %2$s Funktion."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -4034,31 +4044,31 @@ msgstr "Häufig genutzt"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Tags"
-msgstr ""
+msgstr "&larr; Gehe zu Schlagwörter"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Categories"
-msgstr ""
+msgstr "&larr; Gehe zu Kategorien"
 
 #: wp-includes/class-wp-taxonomy.php:640
 msgctxt "navigation link block title"
 msgid "Tag Link"
-msgstr ""
+msgstr "Schlagwort-Link"
 
 #: wp-includes/class-wp-taxonomy.php:641
 msgctxt "navigation link block title"
 msgid "Category Link"
-msgstr ""
+msgstr "Kategorielink"
 
 #: wp-includes/class-wp-taxonomy.php:644
 msgctxt "navigation link block description"
 msgid "A link to a tag."
-msgstr ""
+msgstr "Ein Link zu einem Schlagwort."
 
 #: wp-includes/class-wp-taxonomy.php:645
 msgctxt "navigation link block description"
 msgid "A link to a category."
-msgstr ""
+msgstr "Ein Link zu einer Kategorie."
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
@@ -4067,17 +4077,17 @@ msgstr "Die Begriffs-ID wird unter mehreren Taxonomien geteilt."
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:119
 msgid "Added:"
-msgstr ""
+msgstr "Hinzugefügt:"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:132
 msgid "Deleted:"
-msgstr ""
+msgstr "Gelöscht:"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:145
 msgid "Unchanged:"
-msgstr ""
+msgstr "Unverändert:"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:261
@@ -4090,7 +4100,7 @@ msgstr "Es fehlt ein Stylesheet."
 
 #: wp-includes/class-wp-theme.php:279
 msgid "<strong>Error:</strong> The themes directory is either empty or does not exist. Please check your installation."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Das Themen-Verzeichnis ist entweder leer oder existiert nicht. Bitte überprüfst du deine Installation."
 
 #: wp-includes/class-wp-theme.php:284
 msgid "Stylesheet is not readable."
@@ -4104,11 +4114,11 @@ msgstr "Das Theme definiert sich selbst als sein Eltern-Theme. Bitte prüfe den 
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-includes/class-wp-theme.php:343
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "Fehlendes Template. Eigenständige Themes müssen über eine %1$s oder %2$s Datei verfügen. Für <a href=\"%3$s\">Child-Themes</a> muss ein %4$s Template-Header in der %5$s angelegt werden."
 
 #: wp-includes/class-wp-theme.php:346
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
-msgstr ""
+msgstr "https://developer.wordpress.org/themes/advanced topics/child-themes/"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:383
@@ -4123,14 +4133,14 @@ msgstr "Das &#8222;%s&#8220; Theme ist kein gültiges Eltern-Theme."
 
 #: wp-includes/class-wp-theme.php:450
 msgid "This theme failed to load properly and was paused within the admin backend."
-msgstr ""
+msgstr "Dieses Theme konnte nicht korrekt geladen werden und wurde im Admin-Backend angehalten."
 
 #. translators: Name of a comment's author after being anonymized.
 #: wp-includes/class-wp-theme.php:950
 #: wp-includes/comment-template.php:33
 #: wp-includes/comment.php:3856
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonym"
 
 #: wp-includes/class-wp-theme.php:999
 msgid "Black"
@@ -4154,11 +4164,11 @@ msgstr "Grün"
 
 #: wp-includes/class-wp-theme.php:1004
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: wp-includes/class-wp-theme.php:1005
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 #: wp-includes/class-wp-theme.php:1006
 msgid "Purple"
@@ -4208,7 +4218,7 @@ msgstr "Responsives Layout"
 
 #: wp-includes/class-wp-theme.php:1017
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:1018
 msgid "Photoblogging"
