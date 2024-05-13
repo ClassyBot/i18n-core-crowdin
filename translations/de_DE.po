@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-12 19:30\n"
+"PO-Revision-Date: 2024-05-13 07:33\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4423,7 +4423,7 @@ msgstr "&#8222;%s&#8220; mit bestehendem Inhalt verknüpfen"
 #: wp-admin/includes/class-wp-posts-list-table.php:1115
 #: wp-includes/class-wp-theme.php:739
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -19233,7 +19233,7 @@ msgstr "März"
 #. translators: month name
 #: wp-includes/class-wp-locale.php:159 wp-includes/class-wp-locale.php:187
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:160 wp-includes/class-wp-locale.php:188
@@ -19253,12 +19253,12 @@ msgstr "Juli"
 #. translators: month name
 #: wp-includes/class-wp-locale.php:163 wp-includes/class-wp-locale.php:191
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:164 wp-includes/class-wp-locale.php:192
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:165 wp-includes/class-wp-locale.php:193
@@ -19268,7 +19268,7 @@ msgstr "Oktober"
 #. translators: month name
 #: wp-includes/class-wp-locale.php:166 wp-includes/class-wp-locale.php:194
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #. translators: month name
 #: wp-includes/class-wp-locale.php:167 wp-includes/class-wp-locale.php:195
@@ -19297,7 +19297,7 @@ msgstr "März"
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
@@ -19321,13 +19321,13 @@ msgstr "Juli"
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
@@ -19339,7 +19339,7 @@ msgstr "Oktober"
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
@@ -19351,13 +19351,13 @@ msgstr "Dezember"
 #: wp-includes/class-wp-locale.php:184
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:185
 msgctxt "February abbreviation"
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:186
@@ -19369,7 +19369,7 @@ msgstr "Mrz"
 #: wp-includes/class-wp-locale.php:187
 msgctxt "April abbreviation"
 msgid "Apr"
-msgstr ""
+msgstr "Apr"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:188
@@ -19381,25 +19381,25 @@ msgstr "Mai"
 #: wp-includes/class-wp-locale.php:189
 msgctxt "June abbreviation"
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:190
 msgctxt "July abbreviation"
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:191
 msgctxt "August abbreviation"
 msgid "Aug"
-msgstr ""
+msgstr "Aug"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:192
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:193
@@ -19411,7 +19411,7 @@ msgstr "Okt"
 #: wp-includes/class-wp-locale.php:194
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:195
@@ -19421,21 +19421,21 @@ msgstr "Dez"
 
 #: wp-includes/class-wp-locale.php:198
 msgid "am"
-msgstr ""
+msgstr "am"
 
 #: wp-includes/class-wp-locale.php:199
 msgid "pm"
-msgstr ""
+msgstr "pm"
 
 #: wp-includes/class-wp-locale.php:200
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-includes/class-wp-locale.php:201
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #. translators: $thousands_sep argument for
 #. https://secure.php.net/number_format, default is ,
@@ -19453,7 +19453,7 @@ msgstr ","
 #: wp-includes/class-wp-locale.php:223
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: %s: Name of the directory (build)
 #: wp-includes/class-wp-locale.php:239
@@ -19545,7 +19545,7 @@ msgstr "Das &#8222;%s&#8220; Theme ist kein gültiges Eltern-Theme."
 #: wp-includes/class-wp-theme.php:732 wp-includes/comment-template.php:31
 #: wp-includes/comment.php:3328
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonym"
 
 #: wp-includes/class-wp-theme.php:780
 msgid "Black"
@@ -19569,11 +19569,11 @@ msgstr "Grün"
 
 #: wp-includes/class-wp-theme.php:781
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Purple"
@@ -19621,7 +19621,7 @@ msgstr "Responsives Layout"
 
 #: wp-includes/class-wp-theme.php:786
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:787
 msgid "Photoblogging"
