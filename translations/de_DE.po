@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-13 07:33\n"
+"PO-Revision-Date: 2024-05-16 23:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4231,7 +4231,7 @@ msgstr "Jahreszeitlich"
 #. translators: %s: plugins_loaded
 #: wp-includes/class-wp-user-query.php:913
 msgid "User queries should not be run before the %s hook."
-msgstr ""
+msgstr "Benutzerabfragen sollten nicht vor dem %s Hook ausgeführt werden."
 
 #. translators: %s: WP_User->ID
 #: wp-includes/class-wp-user.php:278
@@ -4295,11 +4295,11 @@ msgstr "Standard-Bildausrichtung"
 
 #: wp-includes/class-wp-xmlrpc-server.php:567
 msgid "Template"
-msgstr ""
+msgstr "Vorlagen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:572
 msgid "Stylesheet"
-msgstr ""
+msgstr "Stylesheet für linksläufige Sprachen"
 
 #: wp-includes/class-wp-xmlrpc-server.php:577
 msgid "Post Thumbnail"
