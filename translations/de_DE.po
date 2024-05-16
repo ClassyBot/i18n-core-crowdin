@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-13 07:33\n"
+"PO-Revision-Date: 2024-05-16 23:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5149,7 +5149,7 @@ msgstr "Reihenfolge"
 #: wp-admin/includes/meta-boxes.php:870
 #: wp-includes/class-wp-xmlrpc-server.php:518
 msgid "Template"
-msgstr ""
+msgstr "Vorlagen"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1567
 #: wp-admin/includes/meta-boxes.php:893
@@ -8168,7 +8168,7 @@ msgstr "Embed Footer-Template"
 #: wp-admin/includes/file.php:52 wp-admin/includes/file.php:60
 #: wp-includes/class-wp-xmlrpc-server.php:523
 msgid "Stylesheet"
-msgstr ""
+msgstr "Stylesheet für linksläufige Sprachen"
 
 #: wp-admin/includes/file.php:53
 msgid "Visual Editor Stylesheet"
