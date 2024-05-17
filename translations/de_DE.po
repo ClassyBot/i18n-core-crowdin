@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-17 11:41\n"
+"PO-Revision-Date: 2024-05-17 23:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5533,7 +5533,7 @@ msgstr "Deine Zeitzone ist auf %1$s (%2$s), zur Zeit %3$s (Koordinierte Zeit %4$
 #. translators: 1: UTC abbreviation and offset, 2: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:257
 msgid "Your timezone is set to %1$s (Coordinated Universal Time %2$s)."
-msgstr ""
+msgstr "Deine Zeitzone ist auf %1$s gesetzt (Koordinierte Zeit %2$s)."
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:124
 msgid "Randomize uploaded headers"
@@ -5657,7 +5657,7 @@ msgstr "Bild auswählen"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:246
 msgid "Select Site Icon"
-msgstr ""
+msgstr "Site-Icon auswählen"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:247
 msgid "Change image"
@@ -5707,7 +5707,7 @@ msgstr "Einträge hinzufügen"
 #. translators: %s: "Add Items" button text.
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:46
 msgid "Time to add some links! Click &#8220;%s&#8221; to start putting pages, categories, and custom links in your menu. Add as many things as you would like."
-msgstr ""
+msgstr "Höchste Zeit, ein paar Links hinzuzufügen! Klicke auf &#8222;%s&#8220;, wenn du deinem Menü Seiten, Kategorien und individuelle Links hinzufügen willst. Füge soviele hinzu, wie du magst."
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:52
 msgid "Add or remove menu items"
@@ -5751,7 +5751,7 @@ msgstr "Link-Beziehungen (XFN)"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:127
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "Die Beschreibung wird im Menü angezeigt, sofern das benutzte Theme das unterstützt."
 
 #. translators: Nav menu item original title. %s: Original title.
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:147
@@ -5793,12 +5793,12 @@ msgstr "(Falls du vorhast, ein Menü-<a href=\"%1$s\" %2$s>Widget%3$s</a> einzus
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:53
 msgid "https://wordpress.org/documentation/article/manage-wordpress-widgets/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/manage-wordpress-widgets/"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:64
 msgctxt "menu locations"
 msgid "Here&#8217;s where this menu appears. If you would like to change that, pick another location."
-msgstr ""
+msgstr "Hier siehst du, wo dieses Menü erscheint. Falls du das ändern möchtest, wähle eine andere Position."
 
 #. translators: %s: Menu name.
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:79
@@ -5809,7 +5809,7 @@ msgstr "(Aktuell: %s)"
 #. translators: 1: Original menu name, 2: Duplicate count.
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:522
 msgid "%1$s (%2$d)"
-msgstr ""
+msgstr "%1$s (%2$d)"
 
 #: wp-includes/customize/class-wp-customize-new-menu-control.php:59
 msgid "Create Menu"
@@ -5888,7 +5888,7 @@ msgstr "Neue Version verfügbar."
 #. translators: %s: "Update now" button.
 #: wp-includes/customize/class-wp-customize-theme-control.php:102
 msgid "New version available. %s"
-msgstr ""
+msgstr "Neue Version verfügbar. %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:103
 msgid "Update now"
@@ -5897,13 +5897,13 @@ msgstr "Jetzt aktualisieren"
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:116
 msgid "There is a new version of %s available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Es ist eine neue Version von %s verfügbar, aber sie funktioniert nicht mit deinen Versionen von ClassicPress und PHP."
 
 #. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:122
 #: wp-includes/customize/class-wp-customize-theme-control.php:187
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Bitte aktualisieren Sie ClassicPress</a>und dann <a href=\"%2$s\">erfahren Sie mehr über das Aktualisieren von PHP</a>."
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-includes/customize/class-wp-customize-theme-control.php:130
@@ -5911,7 +5911,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:195
 #: wp-includes/customize/class-wp-customize-theme-control.php:217
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Bitte aktualisiere ClassicPress</a>."
 
 #. translators: %s: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:136
@@ -5919,38 +5919,38 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:201
 #: wp-includes/customize/class-wp-customize-theme-control.php:228
 msgid "<a href=\"%s\">Learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Erfahre mehr über das Aktualisieren von PHP</a>."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:146
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Es ist eine neue Version von %s verfügbar, aber sie funktioniert nicht mit deinen Versionen von ClassicPress und PHP."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:161
 msgid "There is a new version of %s available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "Es ist eine neue Version von %s verfügbar, aber sie funktioniert nicht mit deiner Version von PHP."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:183
 msgid "This theme does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Dieses Theme funktioniert nicht mit deinen Versionen von ClassicPress und PHP."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:209
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSE Themes funktionieren nicht mit ClassicPress."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:213
 msgid "This theme does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Dieses Theme funktioniert nicht mit deiner Version von ClassicPress."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:224
 msgid "This theme does not work with your version of PHP."
-msgstr ""
+msgstr "Dieses Theme funktioniert nicht mit deiner Version von PHP."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:241
 msgctxt "theme"
 msgid "Previewing:"
-msgstr ""
+msgstr "Vorschau:"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:247
 #: wp-includes/customize/class-wp-customize-theme-control.php:288
@@ -5966,7 +5966,7 @@ msgstr "Aktiviere %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:264
 msgid "This theme doesn't support Customizer."
-msgstr ""
+msgstr "Dieses Theme unterstützt den Customizer nicht."
 
 #. translators: %s: URL to the themes page (also it activates the theme).
 #: wp-includes/customize/class-wp-customize-theme-control.php:271
