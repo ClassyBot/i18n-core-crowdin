@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-16 23:40\n"
+"PO-Revision-Date: 2024-05-17 11:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4364,11 +4364,11 @@ msgstr "Höhe für große Bilder"
 #: wp-includes/class-wp-xmlrpc-server.php:659
 #: wp-includes/option.php:2360
 msgid "Allow people to submit comments on new posts."
-msgstr ""
+msgstr "Besuchern erlauben, neue Beiträge zu kommentieren."
 
 #: wp-includes/class-wp-xmlrpc-server.php:664
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new posts."
-msgstr ""
+msgstr "Link-Benachrichtigungen von anderen Blogs (Pingbacks und Trackbacks) zu neuen Beiträgen ermöglichen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:783
 msgid "Insufficient arguments passed to this XML-RPC method."
@@ -4504,13 +4504,13 @@ msgstr "Du bist leider nicht berechtigt, einen Begriff zu einer der vorgegebenen
 #: wp-includes/class-wp-xmlrpc-server.php:5217
 #: wp-includes/class-wp-xmlrpc-server.php:5971
 msgid "Sorry, the post could not be updated."
-msgstr ""
+msgstr "Der Beitrag konnte leider nicht aktualisiert werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1701
 #: wp-includes/class-wp-xmlrpc-server.php:5137
 #: wp-includes/class-wp-xmlrpc-server.php:5626
 msgid "Sorry, the post could not be created."
-msgstr ""
+msgstr "Der Begriff konnte leider nicht erstellt werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1756
 msgid "There is a revision of this post that is more recent."
@@ -4526,7 +4526,7 @@ msgstr "Du bist leider nicht berechtigt, diesen Beitrag zu löschen."
 #: wp-includes/class-wp-xmlrpc-server.php:1842
 #: wp-includes/class-wp-xmlrpc-server.php:5277
 msgid "Sorry, the post could not be deleted."
-msgstr ""
+msgstr "Der Beitrag konnte leider nicht gelöscht werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2003
 #: wp-includes/class-wp-xmlrpc-server.php:4567
@@ -4563,7 +4563,7 @@ msgstr "Übergeordneter Begriff existiert nicht."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2144
 msgid "Sorry, the term could not be created."
-msgstr ""
+msgstr "Der Begriff konnte leider nicht erstellt werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2217
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:432
@@ -4633,7 +4633,7 @@ msgstr "Du bist leider nicht berechtigt, dein Profil zu bearbeiten."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2942
 msgid "Sorry, the user could not be updated."
-msgstr ""
+msgstr "Der Benutzer konnte leider nicht aktualisiert werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2981
 #: wp-includes/class-wp-xmlrpc-server.php:3197
@@ -4677,7 +4677,7 @@ msgstr "Du bist leider nicht berechtigt, eine Kategorie hinzuzufügen."
 #: wp-includes/class-wp-xmlrpc-server.php:3441
 #: wp-includes/class-wp-xmlrpc-server.php:3444
 msgid "Sorry, the category could not be created."
-msgstr ""
+msgstr "Die Kategorie konnte leider nicht erstellt werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3491
 msgid "Sorry, you are not allowed to delete this category."
@@ -4714,7 +4714,7 @@ msgstr "Du bist leider nicht berechtigt, diesen Kommentar zu löschen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3854
 msgid "Sorry, the comment could not be updated."
-msgstr ""
+msgstr "Der Kommentar konnte leider nicht bearbeitet werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3909
 #: wp-includes/comment.php:3630
@@ -4732,7 +4732,7 @@ msgstr "Die Kommentarfunktion für diesen Beitrag wurde deaktiviert."
 #: wp-includes/class-wp-xmlrpc-server.php:3940
 #: wp-includes/class-wp-xmlrpc-server.php:3947
 msgid "Sorry, you are not allowed to comment on this post."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, diesen Beitrag zu kommentieren."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3984
 msgid "Comment author name and email are required."
@@ -4752,11 +4752,11 @@ msgstr "Kommentar ist erforderlich."
 #: wp-includes/class-wp-xmlrpc-server.php:4205
 #: wp-includes/class-wp-xmlrpc-server.php:4474
 msgid "Sorry, you are not allowed to access details about this site."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Details dieser Website abzurufen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4093
 msgid "Sorry, you are not allowed to access details of this post."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Details dieser Website abzurufen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4306
 msgid "Sorry, you are not allowed to update options."
@@ -4785,7 +4785,7 @@ msgstr "Entweder gibt es keine Beiträge oder es ging etwas schief."
 #: wp-includes/class-wp-xmlrpc-server.php:5064
 #: wp-includes/class-wp-xmlrpc-server.php:5077
 msgid "Sorry, this method is not supported."
-msgstr ""
+msgstr "Diese Methode wird leider nicht unterstützt."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5193
 #: wp-includes/class-wp-xmlrpc-server.php:5267
@@ -4834,7 +4834,7 @@ msgstr "Du bist leider nicht berechtigt, diese Seite zu veröffentlichen."
 #. translators: %s: Allowed space allocation.
 #: wp-includes/class-wp-xmlrpc-server.php:6397
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "Du hast leider den dir zugeteilten Speicherplatz von %s nahezu ausgeschöpft. Bitte lösche einige Dateien, damit du wieder Dateien hochladen kannst."
 
 #. translators: 1: File name, 2: Error message.
 #: wp-includes/class-wp-xmlrpc-server.php:6422
@@ -4850,7 +4850,7 @@ msgstr "Gibt es keinen Link zu uns?"
 #: wp-includes/class-wp-xmlrpc-server.php:6920
 #: wp-includes/class-wp-xmlrpc-server.php:7088
 msgid "The specified target URL cannot be used as a target. It either does not exist, or it is not a pingback-enabled resource."
-msgstr ""
+msgstr "Die angegebene URL kann nicht als Ziel verwendet werden. Entweder existiert sie nicht oder der Empfänger erlaubt keine Pingbacks."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6915
 msgid "The source URL and the target URL cannot both point to the same resource."
@@ -4866,7 +4866,7 @@ msgstr "Die angegebene Quell-URL existiert nicht."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6973
 msgid "A title on that page cannot be found."
-msgstr ""
+msgstr "Auf dieser Seite kann kein Titel gefunden werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:7015
 msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
@@ -4891,12 +4891,12 @@ msgstr "Du bist leider nicht berechtigt, dieses Element anzuzeigen."
 
 #: wp-includes/class-wpdb.php:1205
 msgid "Cannot select database"
-msgstr ""
+msgstr "Datenbank konnte nicht ausgewählt werden"
 
 #. translators: %s: Database name.
 #: wp-includes/class-wpdb.php:1209
 msgid "The database server could be connected to (which means your username and password is okay) but the %s database could not be selected."
-msgstr ""
+msgstr "Der Datenbankserver konnte mit (was bedeutet, dass dein Benutzername und dein Passwort in Ordnung ist), aber die %s Datenbank konnte nicht ausgewählt werden."
 
 #: wp-includes/class-wpdb.php:1214
 msgid "Are you sure it exists?"
@@ -4915,7 +4915,7 @@ msgstr "In einigen Systemen ist der Name deiner Datenbank mit deinem Benutzernam
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:1233
 msgid "If you do not know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">Support forums</a>."
-msgstr ""
+msgstr "Wenn du nicht weißt, wie du eine Datenbank einrichtest, solltest du <strong>den Support deines Webhostings kontaktieren</strong>. Und wenn alles andere nicht funktioniert, könntest du in den <a href=\"%s\">ClassicPress-Support-Foren</a> Hilfe erhalten."
 
 #: wp-includes/class-wpdb.php:1234
 #: wp-includes/class-wpdb.php:2003
@@ -4923,7 +4923,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-section.php:90
 #: wp-includes/load.php:181
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #. translators: %s: Database access abstraction class, usually wpdb or a class extending wpdb.
 #: wp-includes/class-wpdb.php:1284
@@ -4938,7 +4938,7 @@ msgstr "Der Abfrage-Parameter %s benötigt einen Platzhalter."
 #. translators: %s: A list of placeholders found to be a problem.
 #: wp-includes/class-wpdb.php:1641
 msgid "Arguments cannot be prepared as both an Identifier and Value. Found the following conflicts: %s"
-msgstr ""
+msgstr "Argumente können nicht als Identifikator und Wert vorbereitet werden. Folgende Konflikte gefunden: %s"
 
 #: wp-includes/class-wpdb.php:1661
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
@@ -4967,7 +4967,7 @@ msgstr "Fehler beim Aufbau einer Datenbankverbindung"
 #. translators: 1: wp-config.php, 2: Database host.
 #: wp-includes/class-wpdb.php:1989
 msgid "This either means that the username and password information in your %1$s file is incorrect or that contact with the database server at %2$s could not be established. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "Das bedeutet entweder, dass die Information über den Benutzernamen und das Passwort in deiner %1$s Datei nicht korrekt ist, oder wir können den Datenbank-Server auf %2$s nicht erreichen. Es könnte sein, dass der Datenbank-Server deines Hostings ausgefallen ist."
 
 #: wp-includes/class-wpdb.php:1995
 msgid "Are you sure you have the correct username and password?"
@@ -4975,19 +4975,19 @@ msgstr "Bist du sicher, dass Benutzername und Passwort korrekt sind?"
 
 #: wp-includes/class-wpdb.php:1996
 msgid "Are you sure you have typed the correct hostname?"
-msgstr ""
+msgstr "Bist du sicher, dass du den richtigen Hostnamen eingegeben hast?"
 
 #: wp-includes/class-wpdb.php:1997
 #: wp-includes/class-wpdb.php:2150
 msgid "Are you sure the database server is running?"
-msgstr ""
+msgstr "Bist du sicher, dass der Datenbank-Server läuft?"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:2002
 #: wp-includes/class-wpdb.php:2156
 #: wp-includes/load.php:180
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
-msgstr ""
+msgstr "Wenn du unsicher bist, was diese Begriffe bedeuten, solltest du lieber den Support deines Webhostings kontaktieren. Wenn du dann weiterhin Hilfe benötigst, kannst du stets die <a href=\"%s\">ClassicPress-Support-Foren</a> besuchen."
 
 #: wp-includes/class-wpdb.php:2141
 msgid "Error reconnecting to the database"
@@ -4996,15 +4996,15 @@ msgstr "Fehler beim erneuten Verbinden mit der Datenbank"
 #. translators: %s: Database host.
 #: wp-includes/class-wpdb.php:2145
 msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "Das bedeutet, dass wir die Verbindung zum Datenbank-Server unter %s verloren haben. Möglicherweise ist der Datenbank-Server deines Hostings derzeit nicht verfügbar."
 
 #: wp-includes/class-wpdb.php:2151
 msgid "Are you sure the database server is not under particularly heavy load?"
-msgstr ""
+msgstr "Bist du sicher, dass der Datenbank-Server nicht überlastet ist?"
 
 #: wp-includes/class-wpdb.php:2221
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
-msgstr ""
+msgstr "ClassicPress Datenbankfehler: Die Abfrage konnte nicht ausgeführt werden, da sie ungültige Daten enthält."
 
 #: wp-includes/class-wpdb.php:2258
 msgid "Unable to retrieve the error message from MySQL"
@@ -5013,73 +5013,73 @@ msgstr "Kann die Fehlermeldung von MySQL nicht abrufen"
 #. translators: %s: Database field where the error occurred.
 #: wp-includes/class-wpdb.php:2731
 msgid "ClassicPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
-msgstr ""
+msgstr "ClassicPress Datenbankfehler: Die Verarbeitung des Wertes für das folgende Feld ist fehlgeschlagen: %s. Der angegebene Wert kann zu lang sein oder enthält ungültige Daten."
 
 #. translators: %s: Database fields where the error occurred.
 #: wp-includes/class-wpdb.php:2737
 msgid "ClassicPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
-msgstr ""
+msgstr "ClassicPress Datenbankfehler: Die Verarbeitung der Werte für die folgenden Felder ist fehlgeschlagen: %s. Die angegebenen Werte können zu lang sein oder ungültige Daten enthalten."
 
 #: wp-includes/class-wpdb.php:3065
 msgid "Could not retrieve table charset."
-msgstr ""
+msgstr "Tabellenzeichensatz konnte nicht abgerufen werden."
 
 #: wp-includes/class-wpdb.php:3515
 msgid "Could not strip invalid text."
-msgstr ""
+msgstr "Ungültiger Text konnte nicht entfernt werden."
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number.
 #: wp-includes/class-wpdb.php:3834
 msgid "<strong>Error:</strong> ClassicPress %1$s requires MySQL %2$s or higher"
-msgstr ""
+msgstr "<strong>FEHLER</strong>: ClassicPress %1$s benötigt mindestens MySQL %2$s"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:45
 msgid "Block Compatibility"
-msgstr ""
+msgstr "Blockkompatibilität"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:46
 msgid "Plugins and themes using block functions."
-msgstr ""
+msgstr "Plugins und Themes mit Blockfunktionen."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:56
 #: wp-includes/classicpress/class-cp-debug-compat.php:69
 #: wp-includes/classicpress/class-cp-debug-compat.php:88
 msgid "Plugins using block functions"
-msgstr ""
+msgstr "Plugins mit Blockfunktionen"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:60
 #: wp-includes/classicpress/class-cp-debug-compat.php:104
 #: wp-includes/classicpress/class-cp-debug-compat.php:124
 msgid "Themes using block functions"
-msgstr ""
+msgstr "Themes mit Blockfunktionen"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:77
 msgid "No plugins are using block functions."
-msgstr ""
+msgstr "Keine Plugins verwenden Blockfunktionen."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:85
 msgid "Plugins on this list may have issues."
-msgstr ""
+msgstr "Plugins in dieser Liste können Probleme haben."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:86
 #: wp-includes/classicpress/class-cp-debug-compat.php:122
 msgid "Learn more."
-msgstr ""
+msgstr "Erfahre mehr."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:112
 msgid "No themes are using block functions."
-msgstr ""
+msgstr "Keine Themen verwenden Blockfunktionen."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:121
 msgid "Themes on this list may have issues."
-msgstr ""
+msgstr "Themes in dieser Liste können Probleme haben."
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
 #: wp-includes/classicpress/class-wp-compat.php:69
 #: wp-includes/classicpress/class-wp-compat.php:148
 msgid "%1$s uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s verwendet blockbezogene Funktionen und kann Probleme haben."
 
 #. Translators: %1$s is the theme name.
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
@@ -5087,18 +5087,18 @@ msgstr ""
 #: wp-includes/classicpress/class-wp-compat.php:149
 #: wp-includes/classicpress/class-wp-compat.php:154
 msgid "Learn more"
-msgstr ""
+msgstr "Erfahre mehr"
 
 #: wp-includes/classicpress/class-wp-compat.php:72
 #: wp-includes/classicpress/class-wp-compat.php:150
 #: wp-includes/classicpress/class-wp-compat.php:155
 msgid "Report an issue &rsaquo;"
-msgstr ""
+msgstr "Ein Problem melden &rsaquo;"
 
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
 #: wp-includes/classicpress/class-wp-compat.php:153
 msgid "%1$s parent theme (%2$s) uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s Eltern-Theme (%2$s) verwendet blockbezogene Funktionen und kann Probleme haben."
 
 #: wp-includes/comment-template.php:635
 msgid "Password protected"
@@ -5108,7 +5108,7 @@ msgstr "Passwortgeschützt"
 #: wp-includes/comment-template.php:639
 msgctxt "comment_excerpt_length"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. translators: %s: Number of comments.
 #: wp-includes/comment-template.php:937
@@ -5122,7 +5122,7 @@ msgstr[1] "%s Kommentare"
 #: wp-includes/comment-template.php:944
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "aus"
 
 #: wp-includes/comment-template.php:965
 msgid "No Comments"
@@ -5145,11 +5145,11 @@ msgstr "Kommentar"
 
 #: wp-includes/comment-template.php:1159
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #: wp-includes/comment-template.php:1162
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #. translators: %s: Comment author link.
 #: wp-includes/comment-template.php:1200
@@ -5240,7 +5240,7 @@ msgstr "E-Mail"
 
 #: wp-includes/comment-template.php:2558
 msgid "Website"
-msgstr ""
+msgstr "Webseite"
 
 #: wp-includes/comment-template.php:2578
 msgid "Save my name, email, and website in this browser for the next time I comment."
@@ -5254,7 +5254,7 @@ msgstr "Du musst <a href=\"%s\">angemeldet</a> sein, um einen Kommentar abzugebe
 #. translators: 1: User name, 2: Edit user link, 3: Logout URL.
 #: wp-includes/comment-template.php:2621
 msgid "Logged in as %1$s. <a href=\"%2$s\">Edit your profile</a>. <a href=\"%3$s\">Log out?</a>"
-msgstr ""
+msgstr "Als %1$seingeloggt. <a href=\"%2$s\">Dein Profil</a>bearbeiten. <a href=\"%3$s\">Abmelden?</a>"
 
 #: wp-includes/comment-template.php:2633
 msgid "Your email address will not be published."
@@ -5270,7 +5270,7 @@ msgstr "Kommentar abschicken"
 
 #: wp-includes/comment-template.php:2742
 msgid "Array values must only be a string or `true` boolean"
-msgstr ""
+msgstr "Array-Werte dürfen nur ein String oder \"true\" Boolean sein"
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
@@ -5302,35 +5302,35 @@ msgstr "Du schreibst die Kommentare zu schnell. Bitte etwas langsamer."
 
 #: wp-includes/comment.php:1280
 msgid "<strong>Error:</strong> Your name is too long."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dein Name ist zu lang."
 
 #: wp-includes/comment.php:1284
 msgid "<strong>Error:</strong> Your email address is too long."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Deine E-Mail-Adresse ist zu lang."
 
 #: wp-includes/comment.php:1288
 msgid "<strong>Error:</strong> Your URL is too long."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Deine URL ist zu lang."
 
 #: wp-includes/comment.php:1292
 msgid "<strong>Error:</strong> Your comment is too long."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dein Kommentar ist zu lang."
 
 #: wp-includes/comment.php:1330
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "Bitte erwage, mehr Inklusivcode zu schreiben."
 
 #: wp-includes/comment.php:2440
 msgid "Could not update comment status."
-msgstr ""
+msgstr "Der Kommentarstatus konnte nicht aktualisiert werden."
 
 #: wp-includes/comment.php:2605
 msgid "Could not update comment in the database."
-msgstr ""
+msgstr "Der Kommentar konnte nicht aktualisiert werden."
 
 #: wp-includes/comment.php:3510
 msgid "Sorry, replies to unapproved comments are not allowed."
-msgstr ""
+msgstr "Antworten auf nicht genehmigte Kommentare sind leider nicht zulässig."
 
 #: wp-includes/comment.php:3578
 msgid "Sorry, comments are not allowed for this item."
@@ -5338,19 +5338,19 @@ msgstr "Kommentare sind für diesen Beitrag nicht erlaubt."
 
 #: wp-includes/comment.php:3638
 msgid "<strong>Error:</strong> Please fill the required fields."
-msgstr ""
+msgstr "<strong>FEHLER:</strong> Bitte die Pflichtfelder ausfüllen."
 
 #: wp-includes/comment.php:3640
 msgid "<strong>Error:</strong> Please enter a valid email address."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Bitte gib eine gültige E-Mail-Adresse ein."
 
 #: wp-includes/comment.php:3668
 msgid "<strong>Error:</strong> Please type your comment text."
-msgstr ""
+msgstr "<strong>FEHLER:</strong> Bitte gib deinen Kommentartext ein."
 
 #: wp-includes/comment.php:3682
 msgid "<strong>Error:</strong> The comment could not be saved. Please try again later."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Der Kommentar konnte nicht gespeichert werden. Bitte versuche es später nochmal."
 
 #: wp-includes/comment.php:3698
 #: wp-includes/comment.php:3808
@@ -5397,7 +5397,7 @@ msgstr "Kommentare"
 
 #: wp-includes/comment.php:3784
 msgid "User&#8217;s comment data."
-msgstr ""
+msgstr "Kommentardaten des Benutzers."
 
 #. translators: %d: Comment ID.
 #: wp-includes/comment.php:3887
@@ -5409,34 +5409,34 @@ msgstr "Kommentar %d beinhaltet personenbezogene Daten, konnte aber nicht anonym
 #: wp-includes/cron.php:344
 #: wp-includes/cron.php:465
 msgid "Event timestamp must be a valid Unix timestamp."
-msgstr ""
+msgstr "Ereigniszeitstempel muss ein gültiger Unix-Zeitstempel sein."
 
 #: wp-includes/cron.php:97
 #: wp-includes/cron.php:273
 msgid "A plugin prevented the event from being scheduled."
-msgstr ""
+msgstr "Ein Plugin verhinderte, dass das Ereignis geplant wurde."
 
 #: wp-includes/cron.php:155
 msgid "A duplicate event already exists."
-msgstr ""
+msgstr "Ein doppeltes Ereignis existiert bereits."
 
 #: wp-includes/cron.php:184
 #: wp-includes/cron.php:292
 msgid "A plugin disallowed this event."
-msgstr ""
+msgstr "Ein Plugin erlaubte dieses Ereignis nicht."
 
 #: wp-includes/cron.php:251
 #: wp-includes/cron.php:421
 msgid "Event schedule does not exist."
-msgstr ""
+msgstr "Ereignisplan existiert nicht."
 
 #: wp-includes/cron.php:405
 msgid "A plugin prevented the event from being rescheduled."
-msgstr ""
+msgstr "Ein Plugin verhinderte, dass das Ereignis geplant wurde."
 
 #: wp-includes/cron.php:496
 msgid "A plugin prevented the event from being unscheduled."
-msgstr ""
+msgstr "Ein Plugin verhinderte, dass das Ereignis geplant wurde."
 
 #: wp-includes/cron.php:547
 msgid "This argument has changed to an array to match the behavior of the other cron functions."
@@ -5445,7 +5445,7 @@ msgstr "Das Argument wurde durch ein Array ersetzt, um dem Verhalten der anderen
 #: wp-includes/cron.php:576
 #: wp-includes/cron.php:665
 msgid "A plugin prevented the hook from being cleared."
-msgstr ""
+msgstr "Ein Plugin verhinderte, dass der Hook geleert wurde."
 
 #: wp-includes/cron.php:1056
 msgid "Once Hourly"
@@ -5461,11 +5461,11 @@ msgstr "Einmal täglich"
 
 #: wp-includes/cron.php:1068
 msgid "Once Weekly"
-msgstr ""
+msgstr "Einmal wöchentlich"
 
 #: wp-includes/cron.php:1219
 msgid "The cron event list could not be saved."
-msgstr ""
+msgstr "Die Cron-Event-Liste konnte nicht gespeichert werden."
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:43
 msgid "Top Left"
@@ -5514,7 +5514,7 @@ msgstr "Stunde"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:167
 msgid "Minute"
-msgstr ""
+msgstr "Minute"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:170
 msgid "Meridian"
@@ -5523,12 +5523,12 @@ msgstr "Längengrad"
 #. translators: 1: Month number (01, 02, etc.), 2: Month abbreviation.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:204
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: 1: Timezone name, 2: Timezone abbreviation, 3: UTC abbreviation and offset, 4: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:243
 msgid "Your timezone is set to %1$s (%2$s), currently %3$s (Coordinated Universal Time %4$s)."
-msgstr ""
+msgstr "Deine Zeitzone ist auf %1$s (%2$s), zur Zeit %3$s (Koordinierte Zeit %4$s)."
 
 #. translators: 1: UTC abbreviation and offset, 2: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:257
