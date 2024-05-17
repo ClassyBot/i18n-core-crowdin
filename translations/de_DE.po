@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-17 11:41\n"
+"PO-Revision-Date: 2024-05-17 23:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20615,7 +20615,7 @@ msgstr "(Aktuell: %s)"
 #. translators: 1: original menu name, 2: duplicate count
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:512
 msgid "%1$s (%2$d)"
-msgstr ""
+msgstr "%1$s (%2$d)"
 
 #: wp-includes/customize/class-wp-customize-partial.php:207
 msgid "Partial render must echo the content or return the content string (or array), but not both."
@@ -20681,7 +20681,7 @@ msgstr "Von %s"
 #. translators: %s: "Update now" button
 #: wp-includes/customize/class-wp-customize-theme-control.php:95
 msgid "New version available. %s"
-msgstr ""
+msgstr "Neue Version verfügbar. %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:95
 msgid "Update now"
