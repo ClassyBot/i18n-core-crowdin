@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-16 23:40\n"
+"PO-Revision-Date: 2024-05-17 11:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7773,11 +7773,11 @@ msgstr "Von %1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:713 wp-includes/comment-template.php:1084
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:716 wp-includes/comment-template.php:1083
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: type of comment, 2: post link, 3: notification if the
 #. comment is pending
@@ -11178,7 +11178,7 @@ msgstr "Monat"
 #: wp-admin/includes/template.php:736
 #: wp-includes/customize/class-wp-customize-date-time-control.php:201
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/template.php:740
 #: wp-includes/customize/class-wp-customize-date-time-control.php:146
@@ -11199,7 +11199,7 @@ msgstr "Stunde"
 #: wp-admin/includes/template.php:743
 #: wp-includes/customize/class-wp-customize-date-time-control.php:167
 msgid "Minute"
-msgstr ""
+msgstr "Minute"
 
 #. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
 #: wp-admin/includes/template.php:747 wp-includes/script-loader.php:733
@@ -16631,7 +16631,7 @@ msgstr "Eine Änderung deiner E-Mail-Adresse in %s steht noch aus."
 #: wp-admin/user-edit.php:485 wp-admin/user-new.php:435
 #: wp-includes/comment-template.php:2204
 msgid "Website"
-msgstr ""
+msgstr "Webseite"
 
 #: wp-admin/user-edit.php:515
 msgid "About Yourself"
@@ -20142,7 +20142,7 @@ msgstr "Du bist leider nicht berechtigt, dieses Element anzuzeigen."
 #: wp-includes/comment-template.php:900
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "aus"
 
 #: wp-includes/comment-template.php:921
 msgid "No Comments"
