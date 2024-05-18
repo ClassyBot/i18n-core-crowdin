@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-12 02:20\n"
+"PO-Revision-Date: 2024-05-18 11:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -342,7 +342,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:4075
 #: wp-includes/class-wp-xmlrpc-server.php:5912
 msgid "Sorry, you are not allowed to upload files."
-msgstr ""
+msgstr "对不起，您无权上传文件。"
 
 #: wp-admin/async-upload.php:45 wp-admin/edit.php:13 wp-admin/edit.php:35
 #: wp-admin/post-new.php:24 wp-admin/post.php:116 wp-admin/post.php:218
@@ -1306,7 +1306,7 @@ msgstr ""
 #: wp-admin/includes/file.php:20 wp-admin/includes/misc.php:1803
 #: wp-includes/comment.php:3258 wp-includes/script-loader.php:691
 msgid "Comments"
-msgstr ""
+msgstr "评论"
 
 #: wp-admin/edit-comments.php:169
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the Bulk Actions."
@@ -2685,7 +2685,7 @@ msgstr "对不起，您无权编辑此页面。"
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:397
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:629
 msgid "Sorry, you are not allowed to edit this post."
-msgstr ""
+msgstr "对不起，您无权编辑此文章。"
 
 #: wp-admin/includes/ajax-actions.php:1633
 msgid "Someone"
@@ -10790,7 +10790,7 @@ msgstr ""
 #: wp-admin/includes/post.php:37 wp-admin/includes/post.php:75
 #: wp-includes/class-wp-xmlrpc-server.php:5029
 msgid "Sorry, you are not allowed to create pages as this user."
-msgstr ""
+msgstr "对不起，您无权以该用户的身份创建页面。"
 
 #: wp-admin/includes/post.php:39 wp-admin/includes/post.php:77
 #: wp-admin/post-new.php:60 wp-admin/press-this.php:20
@@ -10799,7 +10799,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:491
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:499
 msgid "Sorry, you are not allowed to create posts as this user."
-msgstr ""
+msgstr "对不起，您无权以该用户的身份发布文章。"
 
 #: wp-admin/includes/post.php:162 wp-includes/post.php:3299
 #: wp-includes/rest-api.php:1151 wp-includes/script-loader.php:641
@@ -19624,17 +19624,17 @@ msgstr "大尺寸的图像高度"
 
 #: wp-includes/class-wp-xmlrpc-server.php:728
 msgid "Insufficient arguments passed to this XML-RPC method."
-msgstr ""
+msgstr "传递给此 XML-RPC 方法的参数不足。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1317
 msgid "Sorry, you cannot stick a private post."
-msgstr ""
+msgstr "抱歉，您不能置顶一个私密的文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1325
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:495
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:637
 msgid "Sorry, you are not allowed to make posts sticky."
-msgstr ""
+msgstr "对不起，您无权置顶文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1383
 #: wp-includes/class-wp-xmlrpc-server.php:1639
@@ -19660,65 +19660,65 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:369
 #: wp-includes/revision.php:292
 msgid "Invalid post ID."
-msgstr ""
+msgstr "无效的文章 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1387
 #: wp-includes/class-wp-xmlrpc-server.php:5314
 msgid "The post type may not be changed."
-msgstr ""
+msgstr "不能更改文章类型。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1390
 #: wp-includes/class-wp-xmlrpc-server.php:4713
 msgid "Sorry, you are not allowed to post on this site."
-msgstr ""
+msgstr "对不起，您无权在此站点上发布文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1399
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1111
 msgid "Sorry, you are not allowed to create private posts in this post type."
-msgstr ""
+msgstr "对不起，您无权在此文章类型中创建私密文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1404
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1117
 msgid "Sorry, you are not allowed to publish posts in this post type."
-msgstr ""
+msgstr "对不起，您无权在此文章类型中发表文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1413
 msgid "Sorry, you are not allowed to create password protected posts in this post type."
-msgstr ""
+msgstr "对不起，您无权在此文章类型中创建受密码保护的文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1423
 #: wp-includes/class-wp-xmlrpc-server.php:5036
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1018
 msgid "Invalid author ID."
-msgstr ""
+msgstr "无效的作者 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1469
 #: wp-includes/class-wp-xmlrpc-server.php:4033
 #: wp-includes/class-wp-xmlrpc-server.php:5180
 #: wp-includes/class-wp-xmlrpc-server.php:5547
 msgid "Invalid attachment ID."
-msgstr ""
+msgstr "无效的附件 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1490
 #: wp-includes/class-wp-xmlrpc-server.php:1514
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
-msgstr ""
+msgstr "对不起，此文章类型不支持给定的分类之一。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1493
 #: wp-includes/class-wp-xmlrpc-server.php:1517
 msgid "Sorry, you are not allowed to assign a term to one of the given taxonomies."
-msgstr ""
+msgstr "对不起，您无权将条目分配到给定的分类中。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1501
 #: wp-includes/class-wp-xmlrpc-server.php:2053
 #: wp-includes/class-wp-xmlrpc-server.php:2149
 #: wp-includes/class-wp-xmlrpc-server.php:2221 wp-includes/taxonomy.php:2052
 msgid "Invalid term ID."
-msgstr ""
+msgstr "无效的条目 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1539
 msgid "Ambiguous term name used in a hierarchical taxonomy. Please use term ID instead."
-msgstr ""
+msgstr "发现在分级的分类中使用了不明确的术语名。 请改用术语 ID。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1546
 msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
@@ -19912,29 +19912,29 @@ msgstr "对不起，您无权更新偏好。"
 #: wp-includes/class-wp-xmlrpc-server.php:4327
 #: wp-includes/class-wp-xmlrpc-server.php:4397
 msgid "Sorry, revisions are disabled."
-msgstr ""
+msgstr "对不起，修订记录已禁用。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4520
 msgid "Sorry, you are not allowed to access user data on this site."
-msgstr ""
+msgstr "对不起，您无权访问此站点的用户信息。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4627
 #: wp-includes/class-wp-xmlrpc-server.php:6020
 msgid "Either there are no posts, or something went wrong."
-msgstr ""
+msgstr "要么没有文章，要么出现了错误。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4787
 #: wp-includes/class-wp-xmlrpc-server.php:4859
 #: wp-includes/class-wp-xmlrpc-server.php:5702
 #: wp-includes/class-wp-xmlrpc-server.php:6236
 msgid "Sorry, no such post."
-msgstr ""
+msgstr "对不起，没有这个文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4796
 #: wp-includes/class-wp-xmlrpc-server.php:5481
 #: wp-includes/class-wp-xmlrpc-server.php:6291
 msgid "Sorry, you are not allowed to publish this post."
-msgstr ""
+msgstr "对不起，您无权发布此文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4811
 msgid "For some strange yet very annoying reason, this post could not be edited."
@@ -19942,30 +19942,30 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:4950
 msgid "Sorry, you are not allowed to publish pages on this site."
-msgstr ""
+msgstr "对不起，您无权在此站点上发布页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4961
 #: wp-includes/class-wp-xmlrpc-server.php:4974
 #: wp-includes/class-wp-xmlrpc-server.php:4979
 msgid "Sorry, you are not allowed to publish posts on this site."
-msgstr ""
+msgstr "对不起，您无权在此站点上发布文章。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4987
 #: wp-includes/class-wp-xmlrpc-server.php:5320
 msgid "Invalid post format."
-msgstr ""
+msgstr "文章格式无效。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5367
 msgid "Sorry, you are not allowed to change the post author as this user."
-msgstr ""
+msgstr "对不起，您无权将文章作者修改为该用户。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5372
 msgid "Sorry, you are not allowed to change the page author as this user."
-msgstr ""
+msgstr "对不起，您无权将页面作者修改为该用户。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5479
 msgid "Sorry, you are not allowed to publish this page."
-msgstr ""
+msgstr "对不起，您无权发布此页面。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5524
 msgid "Sorry, your entry could not be edited."
@@ -19978,11 +19978,11 @@ msgstr ""
 #. translators: 1: file name, 2: error message
 #: wp-includes/class-wp-xmlrpc-server.php:5938
 msgid "Could not write file %1$s (%2$s)."
-msgstr ""
+msgstr "无法写入文件 %1$s (%2$s)。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6348
 msgid "Is there no link to us?"
-msgstr ""
+msgstr "与我们没有任何链接吗？"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6383
 #: wp-includes/class-wp-xmlrpc-server.php:6390
@@ -19993,15 +19993,15 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:6393
 msgid "The source URL and the target URL cannot both point to the same resource."
-msgstr ""
+msgstr "源 URL 和目标 URL 不能同时指向相同的资源。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6401
 msgid "The pingback has already been registered."
-msgstr ""
+msgstr "Pingback已经注册。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6425
 msgid "The source URL does not exist."
-msgstr ""
+msgstr "源 URL 不存在。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6446
 msgid "We cannot find a title on that page."
@@ -20009,26 +20009,26 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:6483
 msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
-msgstr ""
+msgstr "源 URL 不包含指向目标 URL 的链接，因此不能用作源。"
 
 #. translators: 1: URL of the page linked from, 2: URL of the page linked to
 #: wp-includes/class-wp-xmlrpc-server.php:6520
 msgid "Pingback from %1$s to %2$s registered. Keep the web talking! :-)"
-msgstr ""
+msgstr "从 %1$s 到 %2$s 的Pingback已注册。保持对话！:-)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6553
 msgid "The specified target URL does not exist."
-msgstr ""
+msgstr "指定的目标 URL 不存在。"
 
 #: wp-includes/class-wp.php:293 wp-includes/ms-deprecated.php:275
 #: wp-includes/ms-deprecated.php:294
 msgid "A variable mismatch has been detected."
-msgstr ""
+msgstr "检测到变量不匹配。"
 
 #: wp-includes/class-wp.php:293 wp-includes/ms-deprecated.php:275
 #: wp-includes/ms-deprecated.php:294
 msgid "Sorry, you are not allowed to view this item."
-msgstr ""
+msgstr "对不起，您无权查看此项目。"
 
 #. translators: If comment number in your language requires declension,
 #. translate this to 'on'. Do not translate into your own language.
@@ -20226,32 +20226,32 @@ msgstr ""
 
 #: wp-includes/comment.php:3214
 msgid "Comment Content"
-msgstr ""
+msgstr "评论内容"
 
 #: wp-includes/comment.php:3215
 msgid "Comment URL"
-msgstr ""
+msgstr "评论 URL"
 
 #. translators: %d: Comment ID
 #: wp-includes/comment.php:3359
 msgid "Comment %d contains personal data but could not be anonymized."
-msgstr ""
+msgstr "评论 %d 包含个人数据，但不能将其匿名化。"
 
 #: wp-includes/cron.php:205
 msgid "This argument has changed to an array to match the behavior of the other cron functions."
-msgstr ""
+msgstr "此参数已更改为数组以匹配其他计划任务函数的行为。"
 
 #: wp-includes/cron.php:428
 msgid "Once Hourly"
-msgstr ""
+msgstr "每小时一次"
 
 #: wp-includes/cron.php:429
 msgid "Twice Daily"
-msgstr ""
+msgstr "每日两次"
 
 #: wp-includes/cron.php:430
 msgid "Once Daily"
-msgstr ""
+msgstr "每日一次"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:161
 msgid "Markup is not allowed in CSS."
@@ -27118,17 +27118,17 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1042
 msgid "Are you sure it exists?"
-msgstr ""
+msgstr "您确定它存在吗？"
 
 #. translators: 1: database user, 2: database name
 #: wp-includes/wp-db.php:1046
 msgid "Does the user %1$s have permission to use the %2$s database?"
-msgstr ""
+msgstr "用户「%1$s」是否有权使用数据库「%2$s」？"
 
 #. translators: %s: database name
 #: wp-includes/wp-db.php:1053
 msgid "On some systems the name of your database is prefixed with your username, so it would be like <code>username_%1$s</code>. Could that be the problem?"
-msgstr ""
+msgstr "在一些系统中，您的数据库的名称是以您的用户名为前缀的，例如 <code>username_%1$s</code>。 这是否可能为问题之所在？"
 
 #. translators: %s: support forums URL
 #: wp-includes/wp-db.php:1061
