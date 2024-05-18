@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-17 23:40\n"
+"PO-Revision-Date: 2024-05-18 11:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2599,7 +2599,7 @@ msgstr "Weitere Informationen über %s"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:315
 #: wp-admin/includes/class-wp-themes-list-table.php:222
 msgid "Details"
-msgstr ""
+msgstr "Daten"
 
 #: wp-admin/import.php:197
 msgid "If the importer you need is not listed, <a href=\"%s\">search the plugin directory</a> to see if an importer is available."
@@ -2611,13 +2611,13 @@ msgstr "Falls der von dir benötigte Importer hier nicht gelistet ist, <a href=\
 #: wp-includes/script-loader.php:790
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: user_login, 2: user_email
 #: wp-admin/includes/ajax-actions.php:291
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: number of comments
 #: wp-admin/includes/ajax-actions.php:380
@@ -4218,7 +4218,7 @@ msgstr "Alle Daten"
 #: wp-admin/includes/class-wp-list-table.php:571
 #: wp-includes/general-template.php:1783 wp-includes/media.php:3435
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #: wp-admin/includes/class-wp-list-table.php:621
 msgid "%s comment"
@@ -7144,7 +7144,7 @@ msgstr ""
 #: wp-admin/includes/continents-cities.php:429 wp-admin/options-general.php:217
 #: wp-includes/functions.php:4751 wp-includes/functions.php:4755
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: wp-admin/includes/continents-cities.php:430
 msgid "Universal"
@@ -7828,7 +7828,7 @@ msgstr "M Sj"
 #: wp-admin/includes/dashboard.php:866
 msgctxt "dashboard"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s, %2$s"
 
 #: wp-admin/includes/dashboard.php:922
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:30
@@ -9100,7 +9100,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2457 wp-admin/includes/nav-menu.php:362
 #: wp-admin/includes/nav-menu.php:650
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2498
 msgid "Filter &#187;"
@@ -9169,7 +9169,7 @@ msgstr "Länge:"
 
 #: wp-admin/includes/media.php:2905 wp-includes/media-template.php:360
 msgid "Bitrate:"
-msgstr ""
+msgstr "Bitrate:"
 
 #: wp-admin/includes/media.php:2946
 msgid "Audio Format:"
@@ -9989,12 +9989,12 @@ msgstr "Du hast leider den dir zugeteilten Speicherplatz nahezu ausgeschöpft. B
 #. translators: Gigabytes
 #: wp-admin/includes/ms.php:309
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #. translators: Megabytes
 #: wp-admin/includes/ms.php:313
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. translators: Storage space that's been used. 1: Percentage of used space, 2:
 #. Total space allowed in megabytes or gigabytes
@@ -15930,7 +15930,7 @@ msgstr "Installierte Themes durchsuchen..."
 #: wp-admin/themes.php:155 wp-includes/formatting.php:3361
 #: wp-includes/general-template.php:3820
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
@@ -20725,7 +20725,7 @@ msgstr "Keine Themes gefunden. Versuche es bitte mit einem anderen Suchbegriff o
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:92
 msgid "Search WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org Themes durchsuchen"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:113
 msgid "Back to theme sources"
@@ -20911,13 +20911,13 @@ msgstr "&#8216;"
 #: wp-includes/formatting.php:106
 msgctxt "prime"
 msgid "&#8242;"
-msgstr ""
+msgstr "&#8242;"
 
 #. translators: double prime, for example in 9" (nine inches)
 #: wp-includes/formatting.php:108
 msgctxt "double prime"
 msgid "&#8243;"
-msgstr ""
+msgstr "&#8243;"
 
 #. translators: opening curly single quote
 #: wp-includes/formatting.php:111
@@ -20935,13 +20935,13 @@ msgstr "&#8216;"
 #: wp-includes/formatting.php:116
 msgctxt "en dash"
 msgid "&#8211;"
-msgstr ""
+msgstr "&#8211;"
 
 #. translators: em dash
 #: wp-includes/formatting.php:118
 msgctxt "em dash"
 msgid "&#8212;"
-msgstr ""
+msgstr "&#8212;"
 
 #. translators: This is a comma-separated list of words that defy the syntax of
 #. quotations in normal use, for example...  'We do not have enough words yet'
@@ -20950,12 +20950,12 @@ msgstr ""
 #: wp-includes/formatting.php:132
 msgctxt "Comma-separated list of words to texturize in your language"
 msgid "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
-msgstr ""
+msgstr "'tain't,'twere,'twas,'tis,'twill,'til,'bout,'nuff,'round,'cause,'em"
 
 #: wp-includes/formatting.php:135
 msgctxt "Comma-separated list of replacement words in your language"
 msgid "&#8217;tain&#8217;t,&#8217;twere,&#8217;twas,&#8217;tis,&#8217;twill,&#8217;til,&#8217;bout,&#8217;nuff,&#8217;round,&#8217;cause,&#8217;em"
-msgstr ""
+msgstr "&#8217;tain&#8217;t,&#8217;twas,&#8217;twas,&#8217;tis,&#8217;twill,&#8217;til,&#8217;bout,&#8217;nuff,&#8217;rund,&#8217;Ursache,&#8217;em"
 
 #. translators: Time difference between two dates, in minutes (min=minute). 1:
 #. Number of minutes
@@ -21055,7 +21055,7 @@ msgstr "%s und %s"
 #: wp-includes/functions.php:177
 msgctxt "decline months names: on or off"
 msgid "off"
-msgstr ""
+msgstr "aus"
 
 #: wp-includes/functions.php:1230
 msgid "ERROR: This is not a valid feed template."
@@ -21326,12 +21326,12 @@ msgstr "Suchergebnisse für &#8222;%s&#8220;"
 #: wp-includes/general-template.php:1008 wp-includes/general-template.php:1477
 msgctxt "yearly archives date format"
 msgid "Y"
-msgstr ""
+msgstr "J"
 
 #: wp-includes/general-template.php:1011 wp-includes/general-template.php:1480
 msgctxt "monthly archives date format"
 msgid "F Y"
-msgstr ""
+msgstr "F J"
 
 #: wp-includes/general-template.php:1019
 msgid "Page %s"
@@ -21395,7 +21395,7 @@ msgstr "Bilder"
 #: wp-includes/general-template.php:1492
 msgctxt "post format archive title"
 msgid "Videos"
-msgstr ""
+msgstr "Videos"
 
 #: wp-includes/general-template.php:1494
 msgctxt "post format archive title"
@@ -21405,7 +21405,7 @@ msgstr "Zitate"
 #: wp-includes/general-template.php:1496
 msgctxt "post format archive title"
 msgid "Links"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/general-template.php:1498
 msgctxt "post format archive title"
@@ -21415,12 +21415,12 @@ msgstr "Status"
 #: wp-includes/general-template.php:1500
 msgctxt "post format archive title"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: wp-includes/general-template.php:1502
 msgctxt "post format archive title"
 msgid "Chats"
-msgstr ""
+msgstr "Chats"
 
 #. translators: Post type archive title. 1: Post type name
 #: wp-includes/general-template.php:1506
@@ -21437,7 +21437,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21448,12 +21448,12 @@ msgstr "Beiträge veröffentlicht am %s"
 #: wp-includes/general-template.php:2646 wp-includes/general-template.php:2688
 msgctxt "feed link"
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #. translators: 1: blog title, 2: separator (raquo)
 #: wp-includes/general-template.php:2648
 msgid "%1$s %2$s Feed"
-msgstr ""
+msgstr "%1$s %2$s Feed"
 
 #. translators: 1: blog title, 2: separator (raquo)
 #: wp-includes/general-template.php:2650
@@ -21479,7 +21479,7 @@ msgstr "%1$s %2$s %3$s Schlagwort-Feed"
 #. singular name
 #: wp-includes/general-template.php:2696
 msgid "%1$s %2$s %3$s %4$s Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s %4$s Feed"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: author name
 #: wp-includes/general-template.php:2698
@@ -21494,7 +21494,7 @@ msgstr "%1$s %2$s Suchergebnisse für &#8222;%3$s&#8220; Feed"
 #. translators: 1: blog name, 2: separator(raquo), 3: post type name
 #: wp-includes/general-template.php:2702
 msgid "%1$s %2$s %3$s Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s Feed"
 
 #: wp-includes/general-template.php:3734
 msgid "&laquo; Previous"
@@ -21728,7 +21728,7 @@ msgstr "Künstler"
 #: wp-includes/media-template.php:389 wp-includes/media-template.php:570
 #: wp-includes/media.php:2177
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 #: wp-includes/media-template.php:403 wp-includes/media-template.php:584
 #: wp-includes/media-template.php:843
@@ -21908,7 +21908,7 @@ msgstr "Automatisch"
 
 #: wp-includes/media-template.php:1092 wp-includes/media-template.php:1181
 msgid "Autoplay"
-msgstr ""
+msgstr "Autoplay"
 
 #: wp-includes/media-template.php:1097 wp-includes/media-template.php:1186
 #: wp-includes/widgets/class-wp-widget-media-audio.php:70
@@ -21962,7 +21962,7 @@ msgstr "&#8222;%s&#8220;"
 
 #: wp-includes/media.php:2181
 msgid "Genre"
-msgstr ""
+msgstr "Genre"
 
 #: wp-includes/media.php:2183
 msgctxt "video or audio"
@@ -21971,7 +21971,7 @@ msgstr "Länge"
 
 #: wp-includes/media.php:2185
 msgid "Bitrate"
-msgstr ""
+msgstr "Bitrate"
 
 #: wp-includes/media.php:2186
 msgid "Bitrate Mode"
@@ -22696,7 +22696,7 @@ msgstr "Website: %1$s (IP-Adresse: %2$s, %3$s)"
 #: wp-includes/pluggable.php:1499 wp-includes/pluggable.php:1639
 #: wp-includes/pluggable.php:1649 wp-includes/pluggable.php:1661
 msgid "URL: %s"
-msgstr ""
+msgstr "URL: %s"
 
 #. translators: 1: Comment text
 #: wp-includes/pluggable.php:1478 wp-includes/pluggable.php:1489
@@ -22757,7 +22757,7 @@ msgstr "[%1$s] Kommentar: „%2$s“"
 
 #: wp-includes/pluggable.php:1507
 msgid "Permalink: %s"
-msgstr ""
+msgstr "Permalink: %s"
 
 #. translators: Comment moderation. 1: Comment action URL
 #: wp-includes/pluggable.php:1511 wp-includes/pluggable.php:1672
@@ -22852,7 +22852,7 @@ msgstr "[%s] Dein Benutzername und Passwort"
 
 #: wp-includes/plugin.php:810
 msgid "Only a static class method or function can be used in an uninstall hook."
-msgstr ""
+msgstr "Nur eine statische Klassenmethode oder Funktion kann in einem Deinstallations-Hook verwendet werden."
 
 #: wp-includes/post-formats.php:68
 msgid "Invalid post."
@@ -22861,7 +22861,7 @@ msgstr "Ungültiger Beitrag."
 #: wp-includes/post-formats.php:90
 msgctxt "Post format"
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: wp-includes/post-formats.php:91
 msgctxt "Post format"
@@ -22881,7 +22881,7 @@ msgstr "Galerie"
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
 msgid "Link"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
@@ -22901,12 +22901,12 @@ msgstr "Statusmitteilung"
 #: wp-includes/post-formats.php:98
 msgctxt "Post format"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
@@ -22932,7 +22932,7 @@ msgstr "Seiten:"
 #: wp-includes/post-template.php:1031
 msgctxt "Post custom field name"
 msgid "%s:"
-msgstr ""
+msgstr "%s:"
 
 #: wp-includes/post-template.php:1610
 msgid "This content is password protected. To view it please enter your password below:"
@@ -23006,7 +23006,7 @@ msgstr "Anhangs-Attribute"
 
 #: wp-includes/post.php:96
 msgid "Revision"
-msgstr ""
+msgstr "Revisionen"
 
 #: wp-includes/post.php:113
 msgid "Navigation Menu Items"
@@ -27432,7 +27432,7 @@ msgstr "Konfigurationsdatei erstellen"
 
 #: wp-login.php:118
 msgid "Powered by ClassicPress"
-msgstr ""
+msgstr "Betrieben von ClassicPress"
 
 #. translators: %s: site title
 #: wp-login.php:254
