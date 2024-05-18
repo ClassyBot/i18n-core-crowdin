@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-18 11:51\n"
+"PO-Revision-Date: 2024-05-18 23:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -10123,23 +10123,23 @@ msgstr "Der Objekttyp, der ursprünglich dargestellt wurde, wie \"Kategorie\", \
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:828
 msgid "The database ID of the original object this menu item represents, for example the ID for posts or the term_id for categories."
-msgstr ""
+msgstr "Die Datenbank-ID des ursprünglichen Objekts, das dieser Menüeintrag repräsentiert, zum Beispiel die ID für Beiträge oder die term_id für Kategorien."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:836
 msgid "The target attribute of the link element for this menu item."
-msgstr ""
+msgstr "Das Zielattribut des Link-Elements für diesen Menüeintrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:846
 msgid "The URL to which this menu item points."
-msgstr ""
+msgstr "Die URL, auf die dieser Menüeintrag zeigt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:869
 msgid "The XFN relationship expressed in the link of this menu item."
-msgstr ""
+msgstr "Die XFN-Beziehung ausgedrückt in dem Link dieses Menüpunkts."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:883
 msgid "Whether the menu item represents an object that no longer exists."
-msgstr ""
+msgstr "Ob der Menüpunkt ein Objekt darstellt, das nicht mehr existiert."
 
 #. translators: %s: taxonomy name
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:895
@@ -10158,60 +10158,60 @@ msgstr "Sortiere die Sammlung nach einem Attribut des Objekts."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:57
 msgid "An alphanumeric identifier for the menu location."
-msgstr ""
+msgstr "Ein alphanumerischer Bezeichner für die Position des Menüs."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:86
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:129
 msgid "Sorry, you are not allowed to view menu locations."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Menü Standorte anzuzeigen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:148
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:497
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:550
 msgid "Invalid menu location."
-msgstr ""
+msgstr "Ungültige Menüposition."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:268
 msgid "The name of the menu location."
-msgstr ""
+msgstr "Der Name des Menüortes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:274
 msgid "The description of the menu location."
-msgstr ""
+msgstr "Die Beschreibung des Menüortes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:280
 msgid "The ID of the assigned menu."
-msgstr ""
+msgstr "Die ID des zugewiesenen Menüs."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:103
 msgid "Sorry, you are not allowed to view menus."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Menüs anzuzeigen."
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:376
 msgid "Menus do not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "Menüs unterstützen den Papierkorb nicht. Setze '%s' um ihn zu löschen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:386
 msgid "The menu cannot be deleted."
-msgstr ""
+msgstr "Das Menü kann nicht gelöscht werden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:530
 msgid "The locations assigned to the menu."
-msgstr ""
+msgstr "Die dem Menü zugewiesenen Standorte."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:564
 msgid "Whether to automatically add top level pages to this menu."
-msgstr ""
+msgstr "Ob Seiten der obersten Ebene automatisch zu diesem Menü hinzugefügt werden sollen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:55
 msgid "WordPress.org plugin directory slug."
-msgstr ""
+msgstr "WordPress.org Plugin Verzeichnis slug."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:59
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:896
 msgid "The plugin activation status."
-msgstr ""
+msgstr "Der Aktivierungsstatus des Plugins."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:116
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:166
@@ -10223,11 +10223,11 @@ msgstr "Du bist leider nicht berechtigt, Plugins dieser Website zu verwalten."
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:215
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:657
 msgid "Plugin not found."
-msgstr ""
+msgstr "Plugin nicht gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:228
 msgid "Sorry, you are not allowed to manage this plugin."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, dieses Plugin zu verwalten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:245
 msgid "Sorry, you are not allowed to install plugins on this site."
@@ -10235,7 +10235,7 @@ msgstr "Du bist leider nicht berechtigt, Plugins auf dieser Website zu installie
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:253
 msgid "Sorry, you are not allowed to activate plugins."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Plugins zu aktivieren."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:349
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
@@ -10243,7 +10243,7 @@ msgstr "Es ist nicht möglich, eine Verbindung mit dem Dateisystem herzustellen.
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:359
 msgid "Unable to determine what plugin was installed."
-msgstr ""
+msgstr "Kann nicht bestimmen, welches Plugin installiert wurde."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:507
 msgid "Sorry, you are not allowed to delete plugins for this site."
@@ -10251,11 +10251,11 @@ msgstr "Du bist leider nicht berechtigt, Plugins dieser Website zu löschen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:542
 msgid "Cannot delete an active plugin. Please deactivate it first."
-msgstr ""
+msgstr "Ein aktives Plugin kann nicht gelöscht werden. Bitte deaktiviere es zuerst."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:700
 msgid "Sorry, you are not allowed to manage network plugins."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Netzwerk-Plugins zu verwalten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:708
 msgid "Sorry, you are not allowed to activate this plugin."
@@ -10267,67 +10267,67 @@ msgstr "Du bist leider nicht berechtigt, dieses Plugin zu deaktivieren."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:750
 msgid "Network only plugin must be network activated."
-msgstr ""
+msgstr "Nur Netzwerk-Plugin muss aktiviert sein."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:868
 msgid "The filesystem is currently unavailable for managing plugins."
-msgstr ""
+msgstr "Das Dateisystem ist zur Verwaltung von Plugins derzeit nicht verfügbar."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:889
 msgid "The plugin file."
-msgstr ""
+msgstr "Die Plugin-Datei."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:902
 msgid "The plugin name."
-msgstr ""
+msgstr "Der Plugin-Name."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:908
 msgid "The plugin's website address."
-msgstr ""
+msgstr "Die Adresse der Website des Plugins."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:915
 msgid "The plugin author."
-msgstr ""
+msgstr "Der Plugin Autor."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:921
 msgid "Plugin author's website address."
-msgstr ""
+msgstr "Adresse des Plugin-Autors Website."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:928
 msgid "The plugin description."
-msgstr ""
+msgstr "Die Beschreibung des Plugins."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:934
 msgid "The raw plugin description."
-msgstr ""
+msgstr "Die rohe Plugin Beschreibung."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:938
 msgid "The plugin description formatted for display."
-msgstr ""
+msgstr "Die Beschreibung des Plugins für die Anzeige formatiert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:944
 msgid "The plugin version number."
-msgstr ""
+msgstr "Die Versionsnummer des Plugins."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:950
 msgid "Whether the plugin can only be activated network-wide."
-msgstr ""
+msgstr "Ob das Plugin nur netzwerkweit aktiviert werden kann."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:956
 msgid "Minimum required version of ClassicPress."
-msgstr ""
+msgstr "Minimal benötigte Version von ClassicPress."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:962
 msgid "Minimum required version of PHP."
-msgstr ""
+msgstr "Minimal benötigte Version von PHP."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:968
 msgid "The plugin's text domain."
-msgstr ""
+msgstr "Die Textdomain des Plugins."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:992
 msgid "Limits results to plugins with the given status."
-msgstr ""
+msgstr "Begrenzt Ergebnisse auf Plugins mit dem angegebenen Status."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:58
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:341
@@ -10336,7 +10336,7 @@ msgstr "Eine alphanumerische Kennung für den Status."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:95
 msgid "Sorry, you are not allowed to manage post statuses."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Beitragsstatus zu verwalten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:144
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:202
@@ -10373,7 +10373,7 @@ msgstr "Ob Beiträge in der Bearbeitungsliste für ihre Beitragstypen eingeschlo
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:347
 msgid "Whether posts of this status may have floating published dates."
-msgstr ""
+msgstr "Ob Beiträge dieses Status schwebende Veröffentlichungsdaten haben können."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:58
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:349
@@ -10414,7 +10414,7 @@ msgstr "Alle von diesem Inhaltstypen unterstützten Eigenschaften."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:361
 msgid "If the value is a string, the value will be used as the archive slug. If the value is false the post type has no archive."
-msgstr ""
+msgstr "Wenn der Wert ein String ist, wird der Wert als Archivslug-String verwendet. Wenn der Wert falsch ist, hat der Beitragstyp kein Archiv."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:367
 msgid "Taxonomies associated with post type."
@@ -10426,28 +10426,28 @@ msgstr "REST-Basisroute für den Inhaltstyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:382
 msgid "REST route's namespace for the post type."
-msgstr ""
+msgstr "REST Routes Namensraum für den Beitragstyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:388
 msgid "The visibility settings for the post type."
-msgstr ""
+msgstr "Die Sichtbarkeitseinstellungen für den Beitragstyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:394
 msgid "Whether to generate a default UI for managing this post type."
-msgstr ""
+msgstr "Ob eine Standard-Oberfläche für die Verwaltung dieses Beitragstyps generiert werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:398
 msgid "Whether to make the post type available for selection in navigation menus."
-msgstr ""
+msgstr "Ob der Beitragstyp zur Auswahl in den Navigationsmenüs zur Verfügung gestellt werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:404
 msgid "The icon for the post type."
-msgstr ""
+msgstr "Das Icon für den Beitragstyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:112
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2247
 msgid "Unique identifier for the post."
-msgstr ""
+msgstr "Eindeutiger Bezeichner für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:215
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:231
@@ -10510,47 +10510,47 @@ msgstr "%1$s ist nicht eins von %2$s."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2215
 msgid "The date the post was published, in the site's timezone."
-msgstr ""
+msgstr "Das Datum der Veröffentlichung des Beitrags in der Zeitzone der Website."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2221
 msgid "The date the post was published, as GMT."
-msgstr ""
+msgstr "Das Datum, an dem der Beitrag veröffentlicht wurde, als GMT."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2227
 msgid "The globally unique identifier for the post."
-msgstr ""
+msgstr "Der global eindeutige Bezeichner für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2233
 msgid "GUID for the post, as it exists in the database."
-msgstr ""
+msgstr "GUID für den Beitrag, wie er in der Datenbank vorhanden ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2239
 msgid "GUID for the post, transformed for display."
-msgstr ""
+msgstr "GUID für den Beitrag, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2253
 msgid "URL to the post."
-msgstr ""
+msgstr "URL zum Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2260
 msgid "The date the post was last modified, in the site's timezone."
-msgstr ""
+msgstr "Das Datum, an dem der Beitrag zuletzt geändert wurde, in der Zeitzone der Website."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2267
 msgid "The date the post was last modified, as GMT."
-msgstr ""
+msgstr "Das Datum, an dem der Beitrag zuletzt geändert wurde, als GMT."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2274
 msgid "An alphanumeric identifier for the post unique to its type."
-msgstr ""
+msgstr "Ein alphanumerischer Bezeichner für den Beitrag, der einzigartig für seinen Typ ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2282
 msgid "A named status for the post."
-msgstr ""
+msgstr "Ein benannter Status für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2291
 msgid "Type of post."
-msgstr ""
+msgstr "Beitragstyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2297
 msgid "A password to protect access to the content and excerpt."
@@ -10558,39 +10558,39 @@ msgstr "Ein Passwort, um vor Zugriff auf Inhalt und Textauszug zu schützen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2307
 msgid "Permalink template for the post."
-msgstr ""
+msgstr "Permalink Vorlage für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2314
 msgid "Slug automatically generated from the post title."
-msgstr ""
+msgstr "Slug automatisch aus dem Beitragstitel generiert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2323
 msgid "The ID for the parent of the post."
-msgstr ""
+msgstr "Die ID für den Elternteil des Beitrags."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2384
 msgid "The title for the post."
-msgstr ""
+msgstr "Der Titel für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2393
 msgid "Title for the post, as it exists in the database."
-msgstr ""
+msgstr "Titel für den Beitrag, wie er in der Datenbank vorliegt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2398
 msgid "HTML title for the post, transformed for display."
-msgstr ""
+msgstr "HTML Titel für den Beitrag, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2409
 msgid "The content for the post."
-msgstr ""
+msgstr "Der Inhalt für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2418
 msgid "Content for the post, as it exists in the database."
-msgstr ""
+msgstr "Inhalt für den Beitrag, wie er in der Datenbank vorliegt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2423
 msgid "HTML content for the post, transformed for display."
-msgstr ""
+msgstr "HTML-Inhalt für den Beitrag, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2429
 msgid "Whether the content is protected with a password."
@@ -10598,19 +10598,19 @@ msgstr "Ob der Inhalt durch ein Passwort geschützt ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2440
 msgid "The ID for the author of the post."
-msgstr ""
+msgstr "Die ID für den Autor des Beitrags."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2448
 msgid "The excerpt for the post."
-msgstr ""
+msgstr "Der Auszug für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2457
 msgid "Excerpt for the post, as it exists in the database."
-msgstr ""
+msgstr "Auszug für den Beitrag, wie er in der Datenbank vorliegt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2462
 msgid "HTML excerpt for the post, transformed for display."
-msgstr ""
+msgstr "HTML-Auszug für den Beitrag, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2468
 msgid "Whether the excerpt is protected with a password."
@@ -10618,46 +10618,46 @@ msgstr "Ob der Textauszug durch ein Passwort geschützt ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2479
 msgid "The ID of the featured media for the post."
-msgstr ""
+msgstr "Die ID des hervorgehobenen Mediums für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2487
 msgid "Whether or not comments are open on the post."
-msgstr ""
+msgstr "Ob Kommentare auf dem Beitrag geöffnet sind oder nicht."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2493
 msgid "Whether or not the post can be pinged."
-msgstr ""
+msgstr "Ob der Beitrag angepinnt werden kann oder nicht."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2502
 msgid "The order of the post in relation to other posts."
-msgstr ""
+msgstr "Die Reihenfolge des Beitrags in Bezug auf andere Beiträge."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2513
 msgid "The format for the post."
-msgstr ""
+msgstr "Das Format für den Beitrag."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2529
 msgid "Whether or not the post should be treated as sticky."
-msgstr ""
+msgstr "Ob der Beitrag als oben gehalten behandelt werden soll, oder nicht."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2536
 msgid "The theme file to use to display the post."
-msgstr ""
+msgstr "Die Theme-Datei, die zur Anzeige des Beitrags benutzt wird."
 
 #. translators: 1: The taxonomy name, 2: The property name, either 'rest_base' or 'name', 3: The conflicting value.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2555
 msgid "The \"%1$s\" taxonomy \"%2$s\" property (%3$s) conflicts with an existing property on the REST API Posts Controller. Specify a custom \"rest_base\" when registering the taxonomy to avoid this error."
-msgstr ""
+msgstr "Die Eigenschaft \"%1$s\" Taxonomie \"%2$s\" (%3$s) kollidiert mit einer existierenden Eigenschaft auf dem REST API Posts Controller. Gib eine benutzerdefinierte \"rest_base\" an, wenn du die Taxonomie registrierst, um diesen Fehler zu vermeiden."
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2566
 msgid "The terms assigned to the post in the %s taxonomy."
-msgstr ""
+msgstr "Die Begriffe, die dem Beitrag in der %s Taxonomie zugewiesen sind."
 
 #. translators: %s: register_rest_field
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2609
 msgid "Please use %s to add new schema properties."
-msgstr ""
+msgstr "Bitte verwenden Sie %s um neue Schema-Eigenschaften hinzuzufügen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2637
 msgid "The current user can publish this post."
@@ -10665,7 +10665,7 @@ msgstr "Der aktuelle Benutzer kann diesen Beitrag veröffentlichen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2653
 msgid "The current user can post unfiltered HTML markup and JavaScript."
-msgstr ""
+msgstr "Der aktuelle Benutzer kann ungefilterte HTML-Markup und JavaScript posten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2670
 msgid "The current user can sticky this post."
@@ -10691,7 +10691,7 @@ msgstr "Antwort auf Beiträge einschränken, die nach einem gegebenen ISO8601-ko
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2768
 msgid "Limit response to posts modified after a given ISO8601 compliant date."
-msgstr ""
+msgstr "Antwort auf Beiträge einschränken, die nach einem gegebenen ISO8601-konformen Datum geändert wurden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2775
 msgid "Limit result set to posts assigned to specific authors."
@@ -10707,11 +10707,11 @@ msgstr "Antwort auf Beiträge einschränken, die vor einem gegebenen ISO8601-kon
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2799
 msgid "Limit response to posts modified before a given ISO8601 compliant date."
-msgstr ""
+msgstr "Antwort auf Beiträge einschränken, die vor einem gegebenen ISO8601-konformen Datum geändert wurden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2842
 msgid "Sort collection by post attribute."
-msgstr ""
+msgstr "Sortiere die Sammlung nach einem Attribut des Beitrags."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2867
 msgid "Limit result set to items with particular parent IDs."
@@ -10723,7 +10723,7 @@ msgstr "Ergebnissatz auf alle Elemente begrenzen, außer denen mit einer bestimm
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2886
 msgid "Array of column names to be searched."
-msgstr ""
+msgstr "Array der zu durchsuchenden Spaltennamen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2895
 msgid "Limit result set to posts with one or more specific slugs."
@@ -10739,56 +10739,56 @@ msgstr "Ergebnissatz auf Elemente begrenzen, die oben gehalten werden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3078
 msgid "Limit result set based on relationship between multiple taxonomies."
-msgstr ""
+msgstr "Ergebnis basierend auf der Beziehung zwischen mehreren Taxonomien begrenzen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3087
 msgid "Term ID List"
-msgstr ""
+msgstr "Begriff-ID Liste"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3088
 msgid "Match terms with the listed IDs."
-msgstr ""
+msgstr "Ordnen Sie Begriffe mit den aufgeführten IDs zusammen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3095
 msgid "Term ID Taxonomy Query"
-msgstr ""
+msgstr "Begriff ID Taxonomie Abfrage"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3096
 msgid "Perform an advanced term query."
-msgstr ""
+msgstr "Führe eine erweiterte Begriffsabfrage aus."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3100
 msgid "Term IDs."
-msgstr ""
+msgstr "Begriff IDs."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3108
 msgid "Whether to include child terms in the terms limiting the result set."
-msgstr ""
+msgstr "Ob Kinderbegriffe in die Begriffe aufgenommen werden sollen, die die Ergebnismenge begrenzen."
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3121
 msgid "Limit result set to items with specific terms assigned in the %s taxonomy."
-msgstr ""
+msgstr "Das Ergebnis auf Elemente mit bestimmten Begriffen, die der %s Taxonomie zugeordnet sind, beschränken."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3127
 msgid "Whether items must be assigned all or any of the specified terms."
-msgstr ""
+msgstr "Ob Elemente allen oder einer der angegebenen Begriffe zugewiesen werden müssen."
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3136
 msgid "Limit result set to items except those with specific terms assigned in the %s taxonomy."
-msgstr ""
+msgstr "Limitierte Ergebnismenge auf Elemente mit Ausnahme der in der %s Taxonomie zugewiesenen Begriffe."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:78
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:98
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:724
 msgid "The ID for the parent of the revision."
-msgstr ""
+msgstr "Die ID für das Elternteil der Revision."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:102
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:707
 msgid "Unique identifier for the revision."
-msgstr ""
+msgstr "Eindeutige Kennung für die Revision."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:122
 msgid "Required to be true, as revisions do not support trashing."
@@ -10804,15 +10804,15 @@ msgstr "Ungültige Revisions-ID."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:309
 msgid "The offset number requested is larger than or equal to the number of available revisions."
-msgstr ""
+msgstr "Die angeforderte Offsetnummer ist größer oder gleich der Anzahl der verfügbaren Revisionen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:417
 msgid "Sorry, you are not allowed to delete revisions of this post."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Revisionen dieses Beitrags zu löschen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:435
 msgid "Sorry, you are not allowed to delete this revision."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, diese Revision zu löschen."
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:464
@@ -10821,40 +10821,40 @@ msgstr "Revisionen unterstützen die Papierkorbfunktion nicht. Setze '%s', um si
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:685
 msgid "The ID for the author of the revision."
-msgstr ""
+msgstr "Die ID für den Autor der Revision."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:690
 msgid "The date the revision was published, in the site's timezone."
-msgstr ""
+msgstr "Das Datum, an dem die Revision veröffentlicht wurde, in der Zeitzone der Website."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:696
 msgid "The date the revision was published, as GMT."
-msgstr ""
+msgstr "Das Datum, an dem die Revision veröffentlicht wurde, als GMT."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:702
 msgid "GUID for the revision, as it exists in the database."
-msgstr ""
+msgstr "GUID für die Revision, wie sie in der Datenbank vorliegt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:712
 msgid "The date the revision was last modified, in the site's timezone."
-msgstr ""
+msgstr "Das Datum der letzten Änderung in der Zeitzone der Website."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:718
 msgid "The date the revision was last modified, as GMT."
-msgstr ""
+msgstr "Das Datum, an dem die Revision zuletzt geändert wurde, als GMT."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:729
 msgid "An alphanumeric identifier for the revision unique to its type."
-msgstr ""
+msgstr "Ein alphanumerischer Bezeichner für die Revision, die einzigartig in ihrem Typ ist."
 
 #. translators: %s: PHP class name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:74
 msgid "REST search handlers must extend the %s class."
-msgstr ""
+msgstr "REST-Suchhandler müssen die %s Klasse erweitern."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:138
 msgid "Internal search handler error."
-msgstr ""
+msgstr "Interner Suchhandler Fehler."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:265
 msgid "URL to the object."
@@ -10862,23 +10862,23 @@ msgstr "URL zum Objekt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:272
 msgid "Object type."
-msgstr ""
+msgstr "Objekttyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:279
 msgid "Object subtype."
-msgstr ""
+msgstr "Objekt Untertyp."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:318
 msgid "Limit results to items of an object type."
-msgstr ""
+msgstr "Beschränken Sie die Ergebnisse auf Elemente eines Objekttyps."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:325
 msgid "Limit results to items of one or more object subtypes."
-msgstr ""
+msgstr "Begrenzen Sie die Ergebnisse auf Elemente von einem oder mehreren Objektsubtypen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:400
 msgid "Invalid type parameter."
-msgstr ""
+msgstr "Ungültiger Typ Parameter."
 
 #. translators: %s: Property name.
 #. translators: %s: Custom field key.
@@ -10890,83 +10890,83 @@ msgstr "Die %s-Eigenschaft ist mit einem ungültigen Wert gespeichert, und kann 
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:71
 msgid "The id of a registered sidebar"
-msgstr ""
+msgstr "Die Id einer registrierten Seitenleiste"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:190
 msgid "No sidebar exists with that id."
-msgstr ""
+msgstr "Keine Sidebar mit dieser Id vorhanden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:269
 msgid "Sorry, you are not allowed to manage widgets on this site."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Widgets dieser Website zu verwalten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:428
 msgid "ID of sidebar."
-msgstr ""
+msgstr "ID der Seitenleiste."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:434
 msgid "Unique name identifying the sidebar."
-msgstr ""
+msgstr "Eindeutiger Name, der die Seitenleiste identifiziert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:440
 msgid "Description of sidebar."
-msgstr ""
+msgstr "Beschreibung der Seitenleiste."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:446
 msgid "Extra CSS class to assign to the sidebar in the Widgets interface."
-msgstr ""
+msgstr "Zusätzliche CSS-Klasse, die der Seitenleiste in der Widgets-Schnittstelle zugewiesen wird."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:452
 msgid "HTML content to prepend to each widget's HTML output when assigned to this sidebar. Default is an opening list item element."
-msgstr ""
+msgstr "HTML-Inhalt, der der HTML-Ausgabe jedes Widgets vorangestellt wird, wenn er dieser Seitenleiste zugewiesen wird. Standard ist ein Element der Öffnungsliste."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:459
 msgid "HTML content to append to each widget's HTML output when assigned to this sidebar. Default is a closing list item element."
-msgstr ""
+msgstr "HTML-Inhalt, der an die HTML-Ausgabe jedes Widgets angehängt wird, wenn er dieser Seitenleiste zugewiesen wird. Die Standardeinstellung ist ein Element der schließenden Liste."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:466
 msgid "HTML content to prepend to the sidebar title when displayed. Default is an opening h2 element."
-msgstr ""
+msgstr "HTML-Inhalt, der dem Titel der Sidebar vorangestellt wird, wenn er angezeigt wird. Standard ist ein h2-Element."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:473
 msgid "HTML content to append to the sidebar title when displayed. Default is a closing h2 element."
-msgstr ""
+msgstr "HTML-Inhalt, der dem Titel der Sidebar angehängt wird, wenn er angezeigt wird. Standard ist ein schließendes h2-Element."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:480
 msgid "Status of sidebar."
-msgstr ""
+msgstr "Status der Seitenleiste."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php:487
 msgid "Nested widgets."
-msgstr ""
+msgstr "Verschachtelte Widgets."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:321
 msgid "Directory sizes could not be returned."
-msgstr ""
+msgstr "Verzeichnisgrößen konnten nicht zurückgegeben werden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:362
 msgid "The name of the test being run."
-msgstr ""
+msgstr "Der Name des auszuführenden Tests."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:367
 msgid "A label describing the test."
-msgstr ""
+msgstr "Ein Label, das den Test beschreibt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:372
 msgid "The status of the test."
-msgstr ""
+msgstr "Der Status des Tests."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:378
 msgid "The category this test is grouped in."
-msgstr ""
+msgstr "Die Kategorie, in der dieser Test gruppiert ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:394
 msgid "A more descriptive explanation of what the test looks for, and why it is important for the user."
-msgstr ""
+msgstr "Eine aussagekräftigere Erklärung, was der Test sucht und warum er für den Anwender wichtig ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:399
 msgid "HTML containing an action to direct the user to where they can resolve the issue."
-msgstr ""
+msgstr "HTML enthält eine Aktion um den Benutzer dorthin zu leiten, wo er das Problem lösen kann."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:58
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:362
@@ -11012,35 +11012,35 @@ msgstr "REST-Basisroute für die Taxonomie."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:389
 msgid "REST namespace route for the taxonomy."
-msgstr ""
+msgstr "REST Namensraum-Route für die Taxonomie."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:395
 msgid "The visibility settings for the taxonomy."
-msgstr ""
+msgstr "Die Sichtbarkeitseinstellungen für die Taxonomie."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:401
 msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
-msgstr ""
+msgstr "Ob eine Taxonomie für die öffentliche Nutzung entweder über die Admin-Schnittstelle oder von Front-End-Benutzern gedacht ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:405
 msgid "Whether the taxonomy is publicly queryable."
-msgstr ""
+msgstr "Ob die Taxonomie öffentlich abfraglich ist."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:409
 msgid "Whether to generate a default UI for managing this taxonomy."
-msgstr ""
+msgstr "Ob ein Standard-UI zur Verwaltung dieser Taxonomie generiert werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:413
 msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
-msgstr ""
+msgstr "Ob die automatische Erstellung von Taxonomie-Spalten in zugehöriger Post-Typ-Tabelle erlaubt werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:417
 msgid "Whether to make the taxonomy available for selection in navigation menus."
-msgstr ""
+msgstr "Ob die Taxonomie für die Auswahl in den Navigationsmenüs verfügbar gemacht werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:421
 msgid "Whether to show the taxonomy in the quick/bulk edit panel."
-msgstr ""
+msgstr "Ob die Taxonomie im Schnell-/Massenbearbeitungsfenster angezeigt werden soll."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:446
 msgid "Limit results to taxonomies associated with a specific post type."
@@ -11061,7 +11061,7 @@ msgstr "Du bist leider nicht berechtigt, Begriffe in dieser Taxonomie zu bearbei
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:215
 msgid "Sorry, you are not allowed to view terms for this post."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Begriffe für diesen Beitrag anzuschauen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:394
 msgid "Term does not exist."
@@ -11127,7 +11127,7 @@ msgstr "Ergebnissatz auf Begriffe mit einer oder mehreren bestimmten Titelformen
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:63
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:441
 msgid "The theme's stylesheet. This uniquely identifies the theme."
-msgstr ""
+msgstr "Das Stylesheet des Themes. Damit wird das Thema eindeutig identifiziert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:110
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:137
