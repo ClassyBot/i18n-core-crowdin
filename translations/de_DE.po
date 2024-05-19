@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-18 23:50\n"
+"PO-Revision-Date: 2024-05-19 18:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -11132,123 +11132,123 @@ msgstr "Das Stylesheet des Themes. Damit wird das Thema eindeutig identifiziert.
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:110
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:137
 msgid "Sorry, you are not allowed to view themes."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Themen anzuzeigen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:162
 msgid "Sorry, you are not allowed to view the active theme."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, das aktive Theme anzuzeigen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:180
 msgid "Theme not found."
-msgstr ""
+msgstr "Theme nicht gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:446
 msgid "The theme's template. If this is a child theme, this refers to the parent theme, otherwise this is the same as the theme's stylesheet."
-msgstr ""
+msgstr "Das Template des Themes. Wenn dies ein untergeordnetes Theme ist, bezieht sich dies auf das übergeordnete Theme, andernfalls ist dies das gleiche wie das Stylesheet des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:451
 msgid "The theme author."
-msgstr ""
+msgstr "Der Autor des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:456
 msgid "The theme author's name, as found in the theme header."
-msgstr ""
+msgstr "Der Name des Themes Autors, wie in der Theme-Kopfzeile gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:460
 msgid "HTML for the theme author, transformed for display."
-msgstr ""
+msgstr "HTML für den Theme Autor, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:466
 msgid "The website of the theme author."
-msgstr ""
+msgstr "Die Website des Themen-Autor."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:471
 msgid "The website of the theme author, as found in the theme header."
-msgstr ""
+msgstr "Die Website des Themen-Autor, wie in der Themen-Kopfzeile gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:476
 msgid "The website of the theme author, transformed for display."
-msgstr ""
+msgstr "Die Website des Themen-Autor, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:483
 msgid "A description of the theme."
-msgstr ""
+msgstr "Eine Beschreibung des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:488
 msgid "The theme description, as found in the theme header."
-msgstr ""
+msgstr "Die Theme-Beschreibung, wie in der Theme-Kopfzeile gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:492
 msgid "The theme description, transformed for display."
-msgstr ""
+msgstr "Die Theme-Beschreibung, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:498
 msgid "The name of the theme."
-msgstr ""
+msgstr "Der Name des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:503
 msgid "The theme name, as found in the theme header."
-msgstr ""
+msgstr "Der Name des Themes, wie in der Kopfzeile des Themes gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:507
 msgid "The theme name, transformed for display."
-msgstr ""
+msgstr "Der Name des Themes, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:513
 msgid "The minimum PHP version required for the theme to work."
-msgstr ""
+msgstr "Die minimale PHP-Version, die benötigt wird, damit das Theme funktioniert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:518
 msgid "The minimum ClassicPress version required for the theme to work."
-msgstr ""
+msgstr "Die minimale ClassicPress-Version, die benötigt wird, damit das Theme funktioniert."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:523
 msgid "The theme's screenshot URL."
-msgstr ""
+msgstr "Die Screenshot-URL des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:529
 msgid "Tags indicating styles and features of the theme."
-msgstr ""
+msgstr "Schlagwörter, die Stile und Merkmale des Themes anzeigen."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:534
 msgid "The theme tags, as found in the theme header."
-msgstr ""
+msgstr "Die Theme-Tags, wie in der Theme-Kopfzeile gefunden."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:541
 msgid "The theme tags, transformed for display."
-msgstr ""
+msgstr "Die Theme-Tags, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:547
 msgid "The theme's text domain."
-msgstr ""
+msgstr "Die Textdomain des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:552
 msgid "Features supported by this theme."
-msgstr ""
+msgstr "Features werden von diesem Theme unterstützt."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:558
 msgid "The URI of the theme's webpage."
-msgstr ""
+msgstr "Die URI der Webseite des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:563
 msgid "The URI of the theme's webpage, as found in the theme header."
-msgstr ""
+msgstr "Die URI der Webseite des Themes, wie sie in der Überschrift des Themas gefunden wird."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:568
 msgid "The URI of the theme's webpage, transformed for display."
-msgstr ""
+msgstr "Die URI der Webseite des Themes, transformiert für die Anzeige."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:575
 msgid "The theme's current version."
-msgstr ""
+msgstr "Die aktuelle Version des Themes."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:580
 msgid "A named status for the theme."
-msgstr ""
+msgstr "Ein benannter Status für das Theme."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:612
 msgid "Limit result set to themes assigned one or more statuses."
-msgstr ""
+msgstr "Limitierte Ergebnismenge auf Themes, die einem oder mehreren Status zugewiesen sind."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:74
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1344
@@ -11276,7 +11276,7 @@ msgstr "Du bist leider nicht berechtigt, Benutzer nach Benutzerrolle zu filtern.
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:205
 msgid "Sorry, you are not allowed to filter users by capability."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Benutzer nach Fähigkeiten zu filtern."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:221
 msgid "Sorry, you are not allowed to order users by this parameter."
@@ -11304,7 +11304,7 @@ msgstr "Du bist leider nicht berechtigt, Benutzerrollen dieses Benutzers zu bear
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:739
 msgid "Username is not editable."
-msgstr ""
+msgstr "Benutzername ist nicht editierbar."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:747
 msgid "Invalid slug."
@@ -11340,7 +11340,7 @@ msgstr "Du bist leider nicht berechtigt, Benutzern diese Benutzerrolle zuzuweise
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1269
 msgid "This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "Dieser Benutzername ist ungültig, da er ungültige Zeichen verwendet. Bitte gib einen gültigen Benutzernamen ein."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1280
 #: wp-includes/user.php:2140
