@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-20 06:50\n"
+"PO-Revision-Date: 2024-05-20 20:11\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12811,11 +12811,11 @@ msgstr "Hier ist als Beispiel ein Abschnitt deiner Startseite. Ein Startseiten-A
 
 #: wp-includes/theme.php:2601
 msgid "You need to pass an array of post formats."
-msgstr ""
+msgstr "Du musst ein Array von Beitragsformaten übergeben."
 
 #: wp-includes/theme.php:2613
 msgid "HTML5 is the default."
-msgstr ""
+msgstr "HTML5 ist die Standardeinstellung."
 
 #. translators: 1: title-tag, 2: wp_loaded
 #: wp-includes/theme.php:2788
@@ -12824,88 +12824,88 @@ msgstr "Theme-Unterstützung für %1$s sollte vor dem %2$s Hook registriert werd
 
 #: wp-includes/theme.php:3182
 msgid "The feature \"type\" is not valid JSON Schema type."
-msgstr ""
+msgstr "Das Feature \"type\" ist kein gültiger JSON Schema Typ."
 
 #: wp-includes/theme.php:3189
 msgid "When registering a \"variadic\" theme feature, the \"type\" must be an \"array\"."
-msgstr ""
+msgstr "Bei der Registrierung eines \"variantenreichen\" Themas muss der \"Typ\" ein \"Array\" sein."
 
 #: wp-includes/theme.php:3197
 msgid "When registering an \"array\" or \"object\" feature to show in the REST API, the feature's schema must also be defined."
-msgstr ""
+msgstr "Wenn ein \"Array\" oder \"object\" Feature registriert wird, das in der REST API angezeigt wird, muss das Feature auch definiert werden."
 
 #: wp-includes/theme.php:3204
 msgid "When registering an \"array\" feature, the feature's schema must include the \"items\" keyword."
-msgstr ""
+msgstr "Beim Registrieren eines \"Array\"-Feature muss das Schema der Funktion das Schlüsselwort \"Elemente\" enthalten."
 
 #: wp-includes/theme.php:3211
 msgid "When registering an \"object\" feature, the feature's schema must include the \"properties\" keyword."
-msgstr ""
+msgstr "Beim Registrieren eines \"Objekt\"-Feature muss das Schema der Funktion das Schlüsselwort \"Eigenschaften\" enthalten."
 
 #. translators: %s: prepare_callback
 #: wp-includes/theme.php:3224
 msgid "The \"%s\" must be a callable function."
-msgstr ""
+msgstr "Die \"%s\" muss eine aufrufbare Funktion sein."
 
 #: wp-includes/theme.php:3603
 msgid "Customizer"
-msgstr ""
+msgstr "Customizer"
 
 #: wp-includes/theme.php:3795
 msgid "Whether theme opts in to wide alignment CSS class."
-msgstr ""
+msgstr "Ob das Thema in breiter Ausrichtung CSS-Klasse wählt."
 
 #: wp-includes/theme.php:3802
 msgid "Whether posts and comments RSS feed links are added to head."
-msgstr ""
+msgstr "Ob Beiträge und Kommentare RSS-Feed-Links in den Kopf hinzugefügt werden."
 
 #: wp-includes/theme.php:3809
 msgid "Custom background if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefinierter Hintergrund, wenn durch das Theme definiert."
 
 #: wp-includes/theme.php:3879
 msgid "Custom header if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefinierter Header wenn durch das Theme definiert."
 
 #: wp-includes/theme.php:3924
 msgid "Custom logo if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefiniertes Logo, wenn es durch das Theme definiert ist."
 
 #: wp-includes/theme.php:3957
 msgid "Whether the theme enables Selective Refresh for Widgets being managed with the Customizer."
-msgstr ""
+msgstr "Ob das Theme die mit dem Customizer verwaltete selektive Aktualisierung von Widgets ermöglicht."
 
 #: wp-includes/theme.php:3964
 msgid "Whether theme opts in to the dark editor style UI."
-msgstr ""
+msgstr "Ob das Theme in der dunklen Editorschnittstelle aktiviert ist."
 
 #: wp-includes/theme.php:3971
 msgid "Whether the theme disables custom colors."
-msgstr ""
+msgstr "Ob das Theme benutzerdefinierte Farben deaktiviert."
 
 #: wp-includes/theme.php:3978
 msgid "Whether the theme disables custom font sizes."
-msgstr ""
+msgstr "Ob das Theme benutzerdefinierte Schriftgrößen deaktiviert."
 
 #: wp-includes/theme.php:3985
 msgid "Whether the theme disables custom gradients."
-msgstr ""
+msgstr "Ob das Theme benutzerdefinierte Farbverläufe deaktiviert."
 
 #: wp-includes/theme.php:3992
 msgid "Whether the theme disables generated layout styles."
-msgstr ""
+msgstr "Ob das Theme generierte Layout-Stile deaktiviert."
 
 #: wp-includes/theme.php:4000
 msgid "Custom color palette if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefinierte Farbpalette, wenn sie vom Theme definiert ist."
 
 #: wp-includes/theme.php:4025
 msgid "Custom font sizes if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefinierte Schriftgrößen, wenn sie durch das Theme definiert werden."
 
 #: wp-includes/theme.php:4050
 msgid "Custom gradient presets if defined by the theme."
-msgstr ""
+msgstr "Benutzerdefinierte Farbverlaufsvorgaben wenn sie vom Theme definiert werden."
 
 #: wp-includes/theme.php:4074
 msgid "Whether theme opts in to the editor styles CSS wrapper."
