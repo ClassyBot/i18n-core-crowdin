@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-18 11:51\n"
+"PO-Revision-Date: 2024-05-20 06:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -11429,7 +11429,7 @@ msgstr "Thema"
 
 #: wp-admin/includes/theme.php:238
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-admin/includes/theme.php:239
 msgid "E-Commerce"
@@ -24946,7 +24946,7 @@ msgstr "Abspielen"
 
 #: wp-includes/script-loader.php:405 wp-includes/theme.php:1395
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #: wp-includes/script-loader.php:407
 msgid "Time Slider"
@@ -25030,7 +25030,7 @@ msgstr "Live-Übertragung"
 
 #: wp-includes/script-loader.php:426
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: wp-includes/script-loader.php:427
 msgid "Albanian"
@@ -25086,7 +25086,7 @@ msgstr "Estnisch"
 
 #: wp-includes/script-loader.php:441
 msgid "Filipino"
-msgstr ""
+msgstr "Philippinisch"
 
 #: wp-includes/script-loader.php:442
 msgid "Finnish"
@@ -25118,7 +25118,7 @@ msgstr "Hebräisch"
 
 #: wp-includes/script-loader.php:449
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: wp-includes/script-loader.php:450
 msgid "Hungarian"
@@ -25218,7 +25218,7 @@ msgstr "Schwedisch"
 
 #: wp-includes/script-loader.php:474
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: wp-includes/script-loader.php:475
 msgid "Thai"
@@ -25779,7 +25779,7 @@ msgstr "am"
 #: wp-includes/script-loader.php:990
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
-msgstr ""
+msgstr "keine Untergruppe"
 
 #: wp-includes/script-loader.php:1179
 msgid "Previous"
@@ -26029,7 +26029,7 @@ msgstr "Der gemeinsam genutzte Begriff konnte nicht aufgeteilt werden."
 #. $term_template
 #: wp-includes/taxonomy.php:4099
 msgid "%s: %l."
-msgstr ""
+msgstr "%s: %l."
 
 #: wp-includes/taxonomy.php:4170
 msgid "Invalid object ID."
@@ -26083,7 +26083,7 @@ msgstr "An diesem Ort konnte nichts gefunden werden. Möchtest du vielleicht ver
 #. translators: 1: blog name, 2: ClassicPress
 #: wp-includes/theme-compat/footer.php:26
 msgid "%1$s is proudly powered by %2$s"
-msgstr ""
+msgstr "%1$s wird stolz von %2$s angetrieben"
 
 #. translators: %s: category name
 #: wp-includes/theme-compat/sidebar.php:39
@@ -26127,7 +26127,7 @@ msgstr "Du befindest dich im Moment in den %s Blog-Archiven."
 #: wp-includes/widgets/class-wp-widget-meta.php:32
 #: wp-includes/widgets/class-wp-widget-meta.php:45
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: wp-includes/theme.php:1397
 msgid "Video is paused."
@@ -26200,7 +26200,7 @@ msgstr "Kategorien"
 #: wp-includes/theme.php:1970
 msgctxt "Theme starter content"
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
@@ -26230,47 +26230,47 @@ msgstr "E-Mail"
 #: wp-includes/theme.php:2019
 msgctxt "Theme starter content"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: wp-includes/theme.php:2023
 msgctxt "Theme starter content"
 msgid "Foursquare"
-msgstr ""
+msgstr "Foursquare"
 
 #: wp-includes/theme.php:2027
 msgctxt "Theme starter content"
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: wp-includes/theme.php:2031
 msgctxt "Theme starter content"
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: wp-includes/theme.php:2035
 msgctxt "Theme starter content"
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: wp-includes/theme.php:2039
 msgctxt "Theme starter content"
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: wp-includes/theme.php:2043
 msgctxt "Theme starter content"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: wp-includes/theme.php:2047
 msgctxt "Theme starter content"
 msgid "Yelp"
-msgstr ""
+msgstr "Jelp"
 
 #: wp-includes/theme.php:2051
 msgctxt "Theme starter content"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: wp-includes/theme.php:2059
 msgctxt "Theme starter content"
@@ -26300,7 +26300,7 @@ msgstr "Das ist eine Seite mit einigen klassischen Kontakt-Informationen, wie Ad
 #: wp-includes/theme.php:2073
 msgctxt "Theme starter content"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-includes/theme.php:2077
 msgctxt "Theme starter content"
