@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-19 18:50\n"
+"PO-Revision-Date: 2024-05-20 06:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -11354,7 +11354,7 @@ msgstr "Passwörter können nicht leer sein."
 #. translators: %s: The '\' character.
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1316
 msgid "Passwords cannot contain the \"%s\" character."
-msgstr ""
+msgstr "Passwörter dürfen das Zeichen \"%s\" nicht enthalten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1350
 msgid "Login name for the user."
@@ -11426,7 +11426,7 @@ msgstr "Avatar-URLs für den Benutzer."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1543
 msgid "Sort collection by user attribute."
-msgstr ""
+msgstr "Sammlung nach Benutzerattribut sortieren."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1558
 msgid "Limit result set to users with one or more specific slugs."
@@ -11438,7 +11438,7 @@ msgstr "Ergebnissatz auf Benutzer begrenzen, die mindestens einer bestimmten Rol
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1574
 msgid "Limit result set to users matching at least one specific capability provided. Accepts csv list or single capability."
-msgstr ""
+msgstr "Limitierte Ergebnismenge auf Benutzer, die mindestens einer bestimmten Fähigkeit entsprechen. Akzeptiert csv-Liste oder einzelne Fähigkeiten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1582
 msgid "Limit result set to users who are considered authors."
@@ -11446,7 +11446,7 @@ msgstr "Ergebnissatz auf Benutzer begrenzen, die als Autoren gelten."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1590
 msgid "Limit result set to users who have published posts."
-msgstr ""
+msgstr "Die Ergebnismenge auf Benutzer begrenzen, die Beiträge veröffentlicht haben."
 
 #. translators: %s: Custom field key.
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:230
@@ -11464,7 +11464,7 @@ msgstr "Konnte den Meta-Wert in der Datenbank nicht löschen."
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:345
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:397
 msgid "Could not update the meta value of %s in database."
-msgstr ""
+msgstr "Konnte den Metawert von %s in der Datenbank nicht aktualisieren."
 
 #: wp-includes/rest-api/fields/class-wp-rest-meta-fields.php:514
 msgid "Meta fields."
@@ -11484,7 +11484,7 @@ msgstr "Kann keine Revision einer Revision erstellen."
 
 #: wp-includes/revision.php:567
 msgid "Revisions not enabled."
-msgstr ""
+msgstr "Revision nicht aktiviert."
 
 #: wp-includes/revision.php:744
 msgid "Sorry, you are not allowed to preview drafts."
@@ -11641,11 +11641,11 @@ msgstr "Du kannst nur 1 Datei hochladen."
 
 #: wp-includes/script-loader.php:794
 msgid "Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page."
-msgstr ""
+msgstr "Unerwartete Antwort vom Server. Die Datei wurde möglicherweise erfolgreich hochgeladen. Überprüfen Sie die Medienbibliothek oder laden Sie die Seite neu."
 
 #: wp-includes/script-loader.php:795
 msgid "The server cannot process the image. This can happen if the server is busy or does not have enough resources to complete the task. Uploading a smaller image may help. Suggested maximum size is 2560 pixels."
-msgstr ""
+msgstr "Der Server kann das Bild nicht verarbeiten. Dies kann passieren, wenn der Server beschäftigt ist oder nicht über genügend Ressourcen verfügt, um die Aufgabe abzuschließen. Das Hochladen eines kleineren Bildes kann helfen. Empfohlene maximale Größe ist 2560 Pixel."
 
 #: wp-includes/script-loader.php:796
 msgid "Upload failed."
@@ -11683,7 +11683,7 @@ msgstr "Verarbeiten&#160;&hellip;"
 
 #: wp-includes/script-loader.php:807
 msgid "moved to the Trash."
-msgstr ""
+msgstr "in den Papierkorb gelegt."
 
 #. translators: %s: File name.
 #: wp-includes/script-loader.php:809
@@ -11692,16 +11692,16 @@ msgstr "&#8222;%s&#8220; konnte nicht hochgeladen werden."
 
 #: wp-includes/script-loader.php:810
 msgid "This image cannot be displayed in a web browser. For best results convert it to JPEG before uploading."
-msgstr ""
+msgstr "Dieses Bild kann nicht in einem Webbrowser angezeigt werden. Für beste Ergebnisse konvertieren Sie es vor dem Hochladen in JPEG."
 
 #: wp-includes/script-loader.php:811
 msgid "This image cannot be processed by the web server. Convert it to JPEG or PNG before uploading."
-msgstr ""
+msgstr "Dieses Bild kann nicht vom Webserver verarbeitet werden. Konvertieren Sie es in JPEG oder PNG vor dem Hochladen."
 
 #: wp-includes/script-loader.php:812
 #: wp-includes/js/media-views.js:8990
 msgid "The file URL has been copied to your clipboard"
-msgstr ""
+msgstr "Die URL der Datei wurde in die Zwischenablage kopiert"
 
 #: wp-includes/script-loader.php:863
 msgid "Turn off Fullscreen"
@@ -11735,7 +11735,7 @@ msgstr "Abspielen"
 #: wp-includes/script-loader.php:870
 #: wp-includes/theme.php:1636
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #: wp-includes/script-loader.php:872
 msgid "Time Slider"
@@ -11819,7 +11819,7 @@ msgstr "Live-Übertragung"
 
 #: wp-includes/script-loader.php:891
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: wp-includes/script-loader.php:892
 msgid "Albanian"
@@ -11879,7 +11879,7 @@ msgstr "Estnisch"
 
 #: wp-includes/script-loader.php:906
 msgid "Filipino"
-msgstr ""
+msgstr "Philippinisch"
 
 #: wp-includes/script-loader.php:907
 msgid "Finnish"
@@ -11911,7 +11911,7 @@ msgstr "Hebräisch"
 
 #: wp-includes/script-loader.php:914
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: wp-includes/script-loader.php:915
 msgid "Hungarian"
@@ -12011,7 +12011,7 @@ msgstr "Schwedisch"
 
 #: wp-includes/script-loader.php:939
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: wp-includes/script-loader.php:940
 msgid "Thai"
@@ -12079,7 +12079,7 @@ msgstr "Link eingefügt."
 #: wp-includes/script-loader.php:1062
 msgctxt "minimum input length for searching post links"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: wp-includes/script-loader.php:1087
 msgid "Activate &amp; Publish"
@@ -12154,7 +12154,7 @@ msgstr "Zurücksetzen unveröffentlichter Änderungen &hellip;"
 
 #: wp-includes/script-loader.php:1117
 msgid "Are you sure you want to discard your unpublished changes?"
-msgstr ""
+msgstr "Bist du sicher, dass du deine unveröffentlichten Änderungen verwerfen möchtest?"
 
 #. translators: %s: Display name of the user who has taken over the changeset in customizer.
 #: wp-includes/script-loader.php:1119
@@ -12168,7 +12168,7 @@ msgstr "Es gibt eine aktuellere, automatische Speicherung deiner Änderungen als
 
 #: wp-includes/script-loader.php:1122
 msgid "This theme does not support video headers on this page. Navigate to the front page or another page that supports video headers."
-msgstr ""
+msgstr "Dieses Theme unterstützt auf dieser Seite keine Video-Header. Gehe zur Startseite oder einer anderen Seite, die Video-Header unterstützt."
 
 #: wp-includes/script-loader.php:1124
 msgid "Allowed Files"
@@ -12194,12 +12194,12 @@ msgstr "Plane hier für ein zukünftiges Datum die Veröffentlichung (das \"live
 
 #: wp-includes/script-loader.php:1141
 msgid "Sorry, you cannot preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
-msgstr ""
+msgstr "Du kannst leider keine Vorschau des Themes sehen, wenn du Änderungen geplant oder als Entwurf gespeichert hast. Bitte veröffentliche deine Änderungen oder warte bis sie veröffentlicht werden, um eine Vorschau neuer Themes zu sehen."
 
 #. translators: %s: URL to Add Themes admin screen.
 #: wp-includes/script-loader.php:1144
 msgid "You will not be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
-msgstr ""
+msgstr "Du kannst hier leider noch keine neuen Themes installieren, da deine Installation SFTP Zugangsdaten benötigt. Füge bitte vorerst <a href=\"%s\">Themes im Administrationsbereich hinzu</a>."
 
 #: wp-includes/script-loader.php:1147
 msgid "Publish Settings"
@@ -12208,27 +12208,27 @@ msgstr "Veröffentlichungs-Einstellungen"
 #. translators: 1: Link to Site Editor documentation on HelpHub, 2: HTML button.
 #: wp-includes/script-loader.php:1152
 msgid "Hurray! Your theme supports site editing with blocks. <a href=\"%1$s\">Tell me more</a>. %2$s"
-msgstr ""
+msgstr "Hurray! Dein Theme unterstützt das Bearbeiten von Seiten mit Blöcken. <a href=\"%1$s\">Erzähl mir mehr</a>. %2$s"
 
 #: wp-includes/script-loader.php:1153
 msgid "https://wordpress.org/documentation/article/site-editor/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/site-editor/"
 
 #: wp-includes/script-loader.php:1157
 msgid "Use Site Editor"
-msgstr ""
+msgstr "Site-Editor verwenden"
 
 #: wp-includes/script-loader.php:1330
 msgid "Select an image"
-msgstr ""
+msgstr "Bild auswählen"
 
 #: wp-includes/script-loader.php:1331
 msgid "Use this image"
-msgstr ""
+msgstr "Diese Seite benutzen"
 
 #: wp-includes/script-loader.php:1332
 msgid "Please choose an image!"
-msgstr ""
+msgstr "Bitte wähle ein Bild!"
 
 #. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
 #: wp-includes/script-loader.php:1384
@@ -12240,7 +12240,7 @@ msgstr "am"
 #: wp-includes/script-loader.php:1391
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
-msgstr ""
+msgstr "keine Untergruppe"
 
 #: wp-includes/script-loader.php:1628
 msgid "Today"
@@ -12267,43 +12267,43 @@ msgstr "Es wurde versucht, einen Shortcode ohne gültigen Callback zu parsen: %s
 #. translators: %s: List of element names.
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:171
 msgid "Fields other than %s are not currently supported for the sitemap index."
-msgstr ""
+msgstr "Andere Felder als %s werden derzeit für den Sitemap-Index nicht unterstützt."
 
 #. translators: %s: List of element names.
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:236
 msgid "Fields other than %s are not currently supported for sitemaps."
-msgstr ""
+msgstr "Andere Felder als %s werden derzeit für Sitemaps nicht unterstützt."
 
 #. translators: %s: SimpleXML
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:265
 msgid "Could not generate XML sitemap due to missing %s extension"
-msgstr ""
+msgstr "XML-Sitemap konnte aufgrund fehlender %s Erweiterung nicht generiert werden"
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:47
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:161
 msgid "XML Sitemap"
-msgstr ""
+msgstr "XML Sitemap"
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:48
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:162
 msgid "This XML Sitemap is generated by ClassicPress to make your content more visible for search engines."
-msgstr ""
+msgstr "Diese XML-Sitemap wird von ClassicPress generiert, um deine Inhalte für Suchmaschinen sichtbarer zu machen."
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:51
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:165
 msgid "https://www.sitemaps.org/"
-msgstr ""
+msgstr "https://www.sitemaps.org/"
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:52
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:166
 msgid "Learn more about XML sitemaps."
-msgstr ""
+msgstr "Erfahre mehr über XML-Sitemaps."
 
 #. translators: %s: Number of URLs.
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:57
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:171
 msgid "Number of URLs in this XML Sitemap: %s."
-msgstr ""
+msgstr "Anzahl der URLs in dieser XML-Sitemap: %s."
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:63
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:177
@@ -12312,11 +12312,11 @@ msgstr "Zuletzt geändert"
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:64
 msgid "Change Frequency"
-msgstr ""
+msgstr "Frequenz ändern"
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:65
 msgid "Priority"
-msgstr ""
+msgstr "Priorität"
 
 #: wp-includes/taxonomy.php:122
 msgid "Navigation Menus"
@@ -12361,7 +12361,7 @@ msgstr "Name der neuen Linkkategorie"
 
 #: wp-includes/taxonomy.php:160
 msgid "&larr; Go to Link Categories"
-msgstr ""
+msgstr "&larr; Gehe zu Link-Kategorien"
 
 #: wp-includes/taxonomy.php:183
 msgctxt "post format"
@@ -12375,75 +12375,75 @@ msgstr "Beitragsformat"
 
 #: wp-includes/taxonomy.php:200
 msgid "Media Categories"
-msgstr ""
+msgstr "Medienkategorien"
 
 #: wp-includes/taxonomy.php:201
 msgid "Media Category"
-msgstr ""
+msgstr "Medienkategorie"
 
 #: wp-includes/taxonomy.php:202
 msgid "Search Media Categories"
-msgstr ""
+msgstr "Medienkategorien suchen"
 
 #: wp-includes/taxonomy.php:204
 msgid "All Media Categories"
-msgstr ""
+msgstr "Alle Medienkategorien"
 
 #: wp-includes/taxonomy.php:205
 msgid "Edit Media Category"
-msgstr ""
+msgstr "Medienkategorie bearbeiten"
 
 #: wp-includes/taxonomy.php:206
 msgid "Update Media Category"
-msgstr ""
+msgstr "Medienkategorie aktualisieren"
 
 #: wp-includes/taxonomy.php:207
 msgid "Add New Media Category"
-msgstr ""
+msgstr "Neue Medienkategorie erstellen"
 
 #: wp-includes/taxonomy.php:208
 msgid "New Media Category Name"
-msgstr ""
+msgstr "Name der neuen Medienkategorie"
 
 #: wp-includes/taxonomy.php:212
 msgid "&larr; Go to Media Categories"
-msgstr ""
+msgstr "&larr; Gehe zu Medienkategorien"
 
 #: wp-includes/taxonomy.php:242
 msgid "Media Tags"
-msgstr ""
+msgstr "Medien-Tags"
 
 #: wp-includes/taxonomy.php:243
 msgid "Media Tag"
-msgstr ""
+msgstr "Medien-Tag"
 
 #: wp-includes/taxonomy.php:244
 msgid "Search Media Tags"
-msgstr ""
+msgstr "Medien-Tags durchsuchen"
 
 #: wp-includes/taxonomy.php:246
 msgid "All Media Tags"
-msgstr ""
+msgstr "Alle MedienTags"
 
 #: wp-includes/taxonomy.php:247
 msgid "Edit Media Tag"
-msgstr ""
+msgstr "Medientag bearbeiten"
 
 #: wp-includes/taxonomy.php:248
 msgid "Update Media Tag"
-msgstr ""
+msgstr "Medientag aktualisieren"
 
 #: wp-includes/taxonomy.php:249
 msgid "Add New Media Tag"
-msgstr ""
+msgstr "Neue Medientag erstellen"
 
 #: wp-includes/taxonomy.php:250
 msgid "New Media Tag Name"
-msgstr ""
+msgstr "Name des neuen Medientags"
 
 #: wp-includes/taxonomy.php:254
 msgid "&larr; Go to Media Tags"
-msgstr ""
+msgstr "&larr; Gehe zu Medientags"
 
 #: wp-includes/taxonomy.php:541
 #: wp-includes/taxonomy.php:542
@@ -12484,7 +12484,7 @@ msgstr "Der Begriff konnte nicht in die Datenbank eingefügt werden."
 
 #: wp-includes/taxonomy.php:2585
 msgid "Could not insert term taxonomy into the database."
-msgstr ""
+msgstr "Der Begriff Taxonomie konnte nicht in die Datenbank eingefügt werden."
 
 #: wp-includes/taxonomy.php:2919
 msgid "Could not insert term relationship into the database."
@@ -12502,7 +12502,7 @@ msgstr "Der gemeinsam genutzte Begriff konnte nicht aufgeteilt werden."
 #. translators: %s: Taxonomy label, %l: List of terms formatted as per $term_template.
 #: wp-includes/taxonomy.php:4776
 msgid "%s: %l."
-msgstr ""
+msgstr "%s: %l."
 
 #: wp-includes/taxonomy.php:4850
 msgid "Invalid object ID."
@@ -12546,7 +12546,7 @@ msgstr "Kommentare sind geschlossen."
 
 #: wp-includes/theme-compat/embed-404.php:14
 msgid "Oops! That embed cannot be found."
-msgstr ""
+msgstr "Ups! Diese Einbettung wurde nicht gefunden."
 
 #. translators: %s: A link to the embedded site.
 #: wp-includes/theme-compat/embed-404.php:21
@@ -12556,7 +12556,7 @@ msgstr "An diesem Ort konnte nichts gefunden werden. Möchtest du vielleicht ver
 #. translators: 1: Blog name, 2: ClassicPress
 #: wp-includes/theme-compat/footer.php:26
 msgid "%1$s is proudly powered by %2$s"
-msgstr ""
+msgstr "%1$s wird stolz von %2$s angetrieben"
 
 #. translators: %s: Category name.
 #: wp-includes/theme-compat/sidebar.php:46
@@ -12600,25 +12600,25 @@ msgstr "Du befindest dich im Moment in den %s Blog-Archiven."
 #: wp-includes/widgets/class-wp-widget-meta.php:33
 #: wp-includes/widgets/class-wp-widget-meta.php:46
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #. translators: %s: Theme name.
 #: wp-includes/theme.php:925
 msgctxt "theme"
 msgid "<strong>Error:</strong> Current ClassicPress and PHP versions do not meet minimum requirements for %s."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Aktuelle ClassicPress und PHP-Versionen erfüllen keine Mindestanforderungen für %s."
 
 #. translators: %s: Theme name.
 #: wp-includes/theme.php:934
 msgctxt "theme"
 msgid "<strong>Error:</strong> Current PHP version does not meet minimum requirements for %s."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Aktuelle PHP-Version erfüllt keine Mindestanforderungen für %s."
 
 #. translators: %s: Theme name.
 #: wp-includes/theme.php:943
 msgctxt "theme"
 msgid "<strong>Error:</strong> Current ClassicPress version does not meet minimum requirements for %s."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Aktuelle ClassicPress Version erfüllt keine Mindestanforderungen für %s."
 
 #: wp-includes/theme.php:1638
 msgid "Video is paused."
@@ -12656,7 +12656,7 @@ msgstr "Öffnungszeiten"
 #: wp-includes/theme.php:2216
 msgctxt "Theme starter content"
 msgid "Monday&ndash;Friday: 9:00AM&ndash;5:00PM"
-msgstr ""
+msgstr "Montag&ndash;Freitag: 9:00&ndash;17:00 Uhr"
 
 #: wp-includes/theme.php:2217
 msgctxt "Theme starter content"
@@ -12691,7 +12691,7 @@ msgstr "Kategorien"
 #: wp-includes/theme.php:2254
 msgctxt "Theme starter content"
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: wp-includes/theme.php:2260
 msgctxt "Theme starter content"
@@ -12722,47 +12722,47 @@ msgstr "E-Mail"
 #: wp-includes/theme.php:2313
 msgctxt "Theme starter content"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: wp-includes/theme.php:2317
 msgctxt "Theme starter content"
 msgid "Foursquare"
-msgstr ""
+msgstr "Foursquare"
 
 #: wp-includes/theme.php:2321
 msgctxt "Theme starter content"
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: wp-includes/theme.php:2325
 msgctxt "Theme starter content"
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: wp-includes/theme.php:2329
 msgctxt "Theme starter content"
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: wp-includes/theme.php:2333
 msgctxt "Theme starter content"
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: wp-includes/theme.php:2337
 msgctxt "Theme starter content"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: wp-includes/theme.php:2341
 msgctxt "Theme starter content"
 msgid "Yelp"
-msgstr ""
+msgstr "Jelp"
 
 #: wp-includes/theme.php:2345
 msgctxt "Theme starter content"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: wp-includes/theme.php:2353
 msgctxt "Theme starter content"
@@ -12792,7 +12792,7 @@ msgstr "Das ist eine Seite mit einigen klassischen Kontakt-Informationen, wie Ad
 #: wp-includes/theme.php:2367
 msgctxt "Theme starter content"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-includes/theme.php:2371
 msgctxt "Theme starter content"
