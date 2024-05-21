@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-20 20:11\n"
+"PO-Revision-Date: 2024-05-21 08:06\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12909,32 +12909,32 @@ msgstr "Benutzerdefinierte Farbverlaufsvorgaben wenn sie vom Theme definiert wer
 
 #: wp-includes/theme.php:4074
 msgid "Whether theme opts in to the editor styles CSS wrapper."
-msgstr ""
+msgstr "Ob das Thema im Editor aktiviert ist, Stile für CSS-Wrapper."
 
 #: wp-includes/theme.php:4082
 msgid "Allows use of HTML5 markup for search forms, comment forms, comment lists, gallery, and caption."
-msgstr ""
+msgstr "Ermöglicht die Verwendung von HTML5-Markup für Suchformulare, Kommentarformulare, Kommentarlisten, Galerie und Bildunterschrift."
 
 #: wp-includes/theme.php:4105
 msgid "Post formats supported."
-msgstr ""
+msgstr "Postformate werden unterstützt."
 
 #: wp-includes/theme.php:4128
 msgid "The post types that support thumbnails or true if all post types are supported."
-msgstr ""
+msgstr "Die Beitragstypen, die Thumbnails oder true unterstützen, wenn alle Beitragstypen unterstützt werden."
 
 #: wp-includes/theme.php:4142
 msgid "Whether the theme supports responsive embedded content."
-msgstr ""
+msgstr "Ob das Theme Responsive eingebettete Inhalte unterstützt."
 
 #: wp-includes/theme.php:4149
 msgid "Whether the theme can manage the document title tag."
-msgstr ""
+msgstr "Ob das Theme das Dokumenttitel Tag verwalten kann."
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:158
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Ein unerwarteter Fehler ist aufgetreten. Möglicherweise ist ein Fehler mit der ClassicPress.net oder dieser Serverkonfiguration von&#8217;s aufgetreten. Wenn Sie weiterhin Probleme haben, melden Sie dieses Problem bitte im <a href=\"%s\">Supportforum</a>."
 
 #: wp-includes/update.php:160
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
@@ -12943,17 +12943,17 @@ msgstr "(ClassicPress konnte keine sichere Verbindung zu ClassicPress.net herste
 #. translators: %s: support forums URL
 #: wp-includes/update.php:390
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Ein unerwarteter Fehler ist aufgetreten. Irgendwas kann mit WordPress.org oder dieser Serverkonfiguration&#8217;s falsch sein. Wenn Sie weiterhin Probleme haben, versuchen Sie bitte die <a href=\"%s\">Support-Foren</a>."
 
 #: wp-includes/update.php:391
 #: wp-includes/update.php:667
 #: wp-login.php:1243
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-includes/update.php:392
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress konnte keine sichere Verbindung zu WordPress.org herstellen. Bitte kontaktieren Sie Ihren Server-Administrator.)"
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:666
@@ -12962,12 +12962,12 @@ msgstr "Ein unerwarteter Fehler ist aufgetreten. Es scheint etwas bei ClassicPre
 
 #: wp-includes/update.php:668
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(WordPress konnte keine sichere Verbindung zu WordPress.org herstellen. Bitte kontaktieren Sie Ihren Server-Administrator.)"
 
 #. translators: %d: Number of available WordPress updates.
 #: wp-includes/update.php:883
 msgid "%d ClassicPress Update"
-msgstr ""
+msgstr "%d ClassicPress Aktualisierung"
 
 #. translators: %d: Number of available plugin updates.
 #: wp-includes/update.php:888
@@ -12989,22 +12989,22 @@ msgstr "Übersetzungs-Aktualisierungen"
 
 #: wp-includes/user.php:148
 msgid "<strong>Error:</strong> The username field is empty."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Das Benutzerfeld ist leer."
 
 #: wp-includes/user.php:152
 #: wp-includes/user.php:231
 msgid "<strong>Error:</strong> The password field is empty."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Das Passwortfeld ist leer."
 
 #. translators: %s: User name.
 #: wp-includes/user.php:165
 msgid "<strong>Error:</strong> The username <strong>%s</strong> is not registered on this site. If you are unsure of your username, try your email address instead."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Der Benutzername <strong>%s</strong> ist auf dieser Seite nicht registriert. Wenn Du über Ihren Benutzernamen nicht sicher bist, versuche stattdessen deine E-Mail-Adresse."
 
 #. translators: %s: User name.
 #: wp-includes/user.php:190
 msgid "<strong>Error:</strong> The password you entered for the username %s is incorrect."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Das Passwort, das du für den Benutzernamen %s eingegeben hast, ist nicht korrekt."
 
 #: wp-includes/user.php:194
 #: wp-includes/user.php:266
@@ -13015,32 +13015,32 @@ msgstr "Passwort vergessen?"
 
 #: wp-includes/user.php:227
 msgid "<strong>Error:</strong> The email field is empty."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Das E-Mail-Feld ist leer."
 
 #: wp-includes/user.php:246
 msgid "Unknown email address. Check again or try your username."
-msgstr ""
+msgstr "Unbekannte E-Mail-Adresse. Überprüfe erneut oder versuche deinen Benutzernamen."
 
 #. translators: %s: Email address.
 #: wp-includes/user.php:262
 msgid "<strong>Error:</strong> The password you entered for the email address %s is incorrect."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Das eingegebene Passwort für die E-Mail-Adresse %s ist nicht korrekt."
 
 #: wp-includes/user.php:365
 msgid "<strong>Error:</strong> Unknown email address. Check again or try your username."
-msgstr ""
+msgstr "Unbekannte E-Mail-Adresse. Überprüfe erneut oder versuche deinen Benutzernamen."
 
 #: wp-includes/user.php:370
 msgid "<strong>Error:</strong> Unknown username. Check again or try your email address."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Unbekannter Benutzername. Überprüfe erneut oder versuche deine E-Mail-Adresse."
 
 #: wp-includes/user.php:453
 msgid "The provided password is an invalid application password."
-msgstr ""
+msgstr "Das angegebene Passwort ist ein ungültiges Anwendungspasswort."
 
 #: wp-includes/user.php:517
 msgid "<strong>Error:</strong> Your account has been marked as a spammer."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dein Account wurde als Spam markiert."
 
 #. translators: %s: $network_id
 #: wp-includes/user.php:1353
@@ -13048,13 +13048,13 @@ msgstr ""
 #: wp-includes/user.php:1410
 #: wp-includes/user.php:1458
 msgid "Unable to pass %s if not using multisite."
-msgstr ""
+msgstr "Nicht möglich, %s zu übergeben, wenn keine Mehr-Site verwendet wird."
 
 #. translators: 1: User's display name, 2: User login.
 #: wp-includes/user.php:1709
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:2121
 msgid "Cannot create a user with an empty login name."
@@ -13078,15 +13078,15 @@ msgstr "Diese E-Mail-Adresse wird bereits verwendet!"
 
 #: wp-includes/user.php:2217
 msgid "User URL may not be longer than 100 characters."
-msgstr ""
+msgstr "Die Benutzer-URL darf nicht länger als 100 Zeichen sein."
 
 #: wp-includes/user.php:2225
 msgid "Sorry, marking a user as spam is only supported on Multisite."
-msgstr ""
+msgstr "Es tut uns leid, aber ein Benutzer als Spam zu markieren wird nur auf Multisite unterstützt."
 
 #: wp-includes/user.php:2360
 msgid "Not enough data to create this user."
-msgstr ""
+msgstr "Nicht genügend Daten, um diesen Benutzer zu erstellen."
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/user.php:2597
@@ -13128,19 +13128,19 @@ msgstr "Hallo ###USERNAME###,\n\n"
 #. translators: Email change notification email subject. %s: Site title.
 #: wp-includes/user.php:2673
 msgid "[%s] Email Changed"
-msgstr ""
+msgstr "[%s] E-Mail geändert"
 
 #: wp-includes/user.php:2796
 msgid "AIM"
-msgstr ""
+msgstr "AIM"
 
 #: wp-includes/user.php:2797
 msgid "Yahoo IM"
-msgstr ""
+msgstr "Yahoo IM"
 
 #: wp-includes/user.php:2798
 msgid "Jabber / Google Talk"
-msgstr ""
+msgstr "Jabber / Google Talk"
 
 #: wp-includes/user.php:2836
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
@@ -13150,7 +13150,7 @@ msgstr "Tipp: Das Passwort sollte mindestens zwölf Zeichen lang sein. Für ein 
 #: wp-includes/user.php:3068
 #: wp-includes/user.php:3122
 msgid "<strong>Error:</strong> There is no account with that username or email address."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Es gibt kein Konto mit diesem Benutzernamen oder dieser E-Mail-Adresse."
 
 #: wp-includes/user.php:2902
 msgid "Password reset is not allowed for this user"
@@ -13164,11 +13164,11 @@ msgstr "Für diesen Benutzer ist es nicht erlaubt, das Passwort zurückzusetzen.
 #: wp-includes/user.php:3014
 #: wp-includes/user.php:3031
 msgid "Invalid key."
-msgstr ""
+msgstr "Ungültiger Schlüssel."
 
 #: wp-includes/user.php:3059
 msgid "<strong>Error:</strong> Please enter a username or email address."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Benutzername oder E-Mail-Adresse eingeben."
 
 #: wp-includes/user.php:3165
 msgid "Someone has requested a password reset for the following account:"
@@ -13181,7 +13181,7 @@ msgstr "Name der Website: %s"
 
 #: wp-includes/user.php:3170
 msgid "If this was a mistake, ignore this email and nothing will happen."
-msgstr ""
+msgstr "Falls das nicht beabsichtigt war, ignoriere diese E-Mail einfach. Es wird dann nichts passieren."
 
 #: wp-includes/user.php:3171
 msgid "To reset your password, visit the following address:"
@@ -13190,7 +13190,7 @@ msgstr "Um dein Passwort zurückzusetzen, besuche folgende Adresse:"
 #. translators: %s: IP address of password reset requester.
 #: wp-includes/user.php:3179
 msgid "This password reset request originated from the IP address %s."
-msgstr ""
+msgstr "Diese Anfrage zum Zurücksetzen des Passworts stammt von der IP-Adresse %s."
 
 #. translators: Password reset notification email subject. %s: Site title.
 #: wp-includes/user.php:3186
@@ -13200,50 +13200,50 @@ msgstr "[%s] Passwort zurücksetzen"
 #. translators: %s: Documentation URL.
 #: wp-includes/user.php:3270
 msgid "<strong>Error:</strong> The email could not be sent. Your site may not be correctly configured to send emails. <a href=\"%s\">Get support for resetting your password</a>."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Die E-Mail konnte nicht gesendet werden. Ihre Seite ist möglicherweise nicht korrekt konfiguriert, um E-Mails zu senden. <a href=\"%s\">Erhalten Sie Unterstützung für das Zurücksetzen Ihres Passworts</a>."
 
 #: wp-includes/user.php:3271
 msgid "https://wordpress.org/documentation/article/reset-your-password/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/reset-your-password/"
 
 #: wp-includes/user.php:3337
 msgid "<strong>Error:</strong> Please enter a username."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Bitte gib einen Benutzernamen ein."
 
 #: wp-includes/user.php:3339
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dieser Benutzername kann nicht verwendet werden, da er ungültige Zeichen enthält. Bitte gib einen gültigen Benutzernamen an."
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dieser Benutzername ist bereits registriert. Bitte wähle einen anderen."
 
 #: wp-includes/user.php:3347
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Dieser Benutzername ist leider nicht erlaubt."
 
 #: wp-includes/user.php:3353
 msgid "<strong>Error:</strong> Please type your email address."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Bitte gib deine E-Mail-Adresse ein."
 
 #: wp-includes/user.php:3355
 #: wp-includes/user.php:3655
 msgid "<strong>Error:</strong> The email address is not correct."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Die E-Mail-Adresse ist ungültig."
 
 #. translators: %s: Link to the login page.
 #: wp-includes/user.php:3362
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Diese E-Mail-Adresse ist bereits registriert. <a href=\"%s\">Loggen Sie sich</a> mit dieser Adresse ein oder wählen Sie eine andere."
 
 #. translators: %s: Admin email address.
 #: wp-includes/user.php:3410
 msgid "<strong>Error:</strong> Could not register you&hellip; please contact the <a href=\"mailto:%s\">site admin</a>!"
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Du konntest nicht registriert werden, bitte kontaktiere den <a href=\"mailto:%s\">Webmaster</a>!"
 
 #: wp-includes/user.php:3667
 msgid "<strong>Error:</strong> The email address is already used."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Diese E-Mail-Adresse wird bereits verwendet."
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/user.php:3687
@@ -13257,12 +13257,21 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die E-Mail-Adresse deines Kontos zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #. translators: New email address notification email subject. %s: Site title.
 #: wp-includes/user.php:3735
 msgid "[%s] Email Change Request"
-msgstr ""
+msgstr "[%s] E-Mail-Änderungsanfrage"
 
 #. translators: %s: New email address.
 #: wp-includes/user.php:3757
@@ -13320,7 +13329,7 @@ msgstr "Benutzer-Beschreibung"
 #. translators: %s: wp_privacy_additional_user_profile_data
 #: wp-includes/user.php:3899
 msgid "Filter %s returned items with reserved names."
-msgstr ""
+msgstr "Filter %s hat Gegenstände mit reserviertem Namen zurückgegeben."
 
 #: wp-includes/user.php:3913
 msgid "User"
@@ -13328,56 +13337,56 @@ msgstr "Benutzer"
 
 #: wp-includes/user.php:3914
 msgid "User&#8217;s profile data."
-msgstr ""
+msgstr "Profildaten des Benutzers."
 
 #: wp-includes/user.php:3923
 msgid "City"
-msgstr ""
+msgstr "Stadt"
 
 #: wp-includes/user.php:3924
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: wp-includes/user.php:3925
 msgid "Latitude"
-msgstr ""
+msgstr "Breitengrad"
 
 #: wp-includes/user.php:3926
 msgid "Longitude"
-msgstr ""
+msgstr "Längengrad"
 
 #: wp-includes/user.php:3927
 #: wp-includes/user.php:3955
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 #: wp-includes/user.php:3943
 msgid "Community Events Location"
-msgstr ""
+msgstr "Ort der Community-Ereignisse"
 
 #: wp-includes/user.php:3944
 msgid "User&#8217;s location data used for the Community Events in the ClassicPress Events and News dashboard widget."
-msgstr ""
+msgstr "Standortdaten des Benutzers für die Community-Events im Dashboard-Widget von ClassicPress und News."
 
 #: wp-includes/user.php:3954
 msgid "Expiration"
-msgstr ""
+msgstr "Ablaufdatum"
 
 #: wp-includes/user.php:3956
 msgid "User Agent"
-msgstr ""
+msgstr "User Agent"
 
 #: wp-includes/user.php:3957
 msgid "Last Login"
-msgstr ""
+msgstr "Letzter Login"
 
 #: wp-includes/user.php:3978
 msgid "Session Tokens"
-msgstr ""
+msgstr "Sitzungstoken"
 
 #: wp-includes/user.php:3979
 msgid "User&#8217;s Session Tokens data."
-msgstr ""
+msgstr "Benutzers Sitzungstoken Daten."
 
 #. translators: Privacy data request confirmed notification email subject. 1: Site title, 2: Name of the confirmed action.
 #: wp-includes/user.php:4078
@@ -13395,13 +13404,21 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Eine Anfrage zum Datenschutz wurde bestätigt auf ###SITENAME###:\n\n"
+"Benutzer: ###USER_EMAIL###\n"
+"Anfrage: ###DESCRIPTION###\n\n"
+"Sie können diese Datenschutzanfragen hier anschauen und verwalten:\n\n"
+"###MANAGE_URL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: 1 & 2: Deprecation replacement options.
 #: wp-includes/user.php:4160
 #: wp-includes/user.php:4400
 msgid "%1$s or %2$s"
-msgstr ""
+msgstr "%1$s oder %2$s"
 
 #. translators: Erasure request fulfilled notification email subject. %s: Site title.
 #: wp-includes/user.php:4282
@@ -13416,7 +13433,12 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Ihre Anfrage zur Löschung Ihrer persönlichen Daten über ###SITENAME### wurde abgeschlossen.\n\n"
+"Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an den Administrator.\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles unter ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those are placeholders.
 #: wp-includes/user.php:4349
@@ -13427,7 +13449,13 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Ihre Anfrage zur Löschung Ihrer persönlichen Daten über ###SITENAME### wurde abgeschlossen.\n\n"
+"Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an den Administrator.\n\n"
+"Für weitere Informationen lesen Sie auch unsere Datenschutzrichtlinie: ###PRIVACY_POLICY_URL###\n\n"
+"Grüße,\n"
+"Alles unter ###SITENAME###\n"
+"###SITEURL### #"
 
 #: wp-includes/user.php:4516
 msgid "Action has been confirmed."
@@ -13459,11 +13487,11 @@ msgstr "Ungültiger Aktions-Name."
 
 #: wp-includes/user.php:4572
 msgid "Invalid request status."
-msgstr ""
+msgstr "Ungültiger Anfragestatus."
 
 #: wp-includes/user.php:4593
 msgid "An incomplete personal data request for this email address already exists."
-msgstr ""
+msgstr "Für diese E-Mail-Adresse existiert bereits eine unvollständige Anfrage zu personenbezogenen Daten."
 
 #: wp-includes/user.php:4624
 msgid "Export Personal Data"
@@ -13481,7 +13509,7 @@ msgstr "Aktion „%s“ bestätigen"
 #: wp-includes/user.php:4661
 #: wp-includes/user.php:4847
 msgid "Invalid personal data request."
-msgstr ""
+msgstr "Ungültige persönliche Datenanfrage."
 
 #. translators: Confirm privacy data request notification email subject. 1: Site title, 2: Name of the action.
 #: wp-includes/user.php:4688
@@ -13500,27 +13528,36 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die E-Mail-Adresse deines Kontos zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #: wp-includes/user.php:4792
 msgid "Unable to send personal data export confirmation email."
-msgstr ""
+msgstr "Bestätigungsmail für den Export persönlicher Daten konnte nicht gesendet werden."
 
 #: wp-includes/user.php:4851
 msgid "This personal data request has expired."
-msgstr ""
+msgstr "Diese Anfrage zu persönlichen Daten ist abgelaufen."
 
 #: wp-includes/user.php:4855
 msgid "The confirmation key is missing from this personal data request."
-msgstr ""
+msgstr "Der Bestätigungsschlüssel fehlt in dieser Anfrage für persönliche Daten."
 
 #: wp-includes/user.php:4874
 msgid "The confirmation key is invalid for this personal data request."
-msgstr ""
+msgstr "Der Bestätigungsschlüssel ist ungültig für diese Anfrage persönlicher Daten."
 
 #: wp-includes/user.php:4878
 msgid "The confirmation key has expired for this personal data request."
-msgstr ""
+msgstr "Der Bestätigungsschlüssel ist für diese Anfrage über persönliche Daten abgelaufen."
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -13539,7 +13576,7 @@ msgstr "Es wurde kein %1$s im Parameter-Array definiert für die Seitenleiste �
 
 #: wp-includes/widgets.php:1064
 msgid "Inactive widgets"
-msgstr ""
+msgstr "Inaktive Widgets"
 
 #. translators: %s: register_widget()
 #: wp-includes/widgets.php:1214
@@ -13645,7 +13682,7 @@ msgstr "Beitragsanzahl anzeigen"
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:34
 msgid "A calendar of your site’s posts."
-msgstr ""
+msgstr "Ein Kalender der Beiträge deiner Website."
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:38
 msgid "Calendar"
@@ -13696,7 +13733,7 @@ msgstr "Deine Blogroll"
 
 #: wp-includes/widgets/class-wp-widget-links.php:29
 msgid "Links"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-includes/widgets/class-wp-widget-links.php:147
 msgid "Select Link Category:"
@@ -13751,7 +13788,7 @@ msgstr "Anzahl der zu zeigenden Links: "
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:28
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:30
 msgid "Displays an audio player."
@@ -13775,7 +13812,7 @@ msgstr "Audio bearbeiten"
 #. translators: %s: URL to media library.
 #: wp-includes/widgets/class-wp-widget-media-audio.php:44
 msgid "That audio file cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
-msgstr ""
+msgstr "Die Audiodatei konnte nicht gefunden werden. Überprüfen Sie Ihre <a href=\"%s\">Medienbibliothek</a> und stellen Sie sicher, dass sie nicht gelöscht wurde."
 
 #. translators: %d: Widget count.
 #: wp-includes/widgets/class-wp-widget-media-audio.php:48
@@ -13790,7 +13827,7 @@ msgstr "Audio-Widget"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:50
 msgid "Looks like this is not the correct kind of file. Please link to an audio file instead."
-msgstr ""
+msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt dessen auf eine Audiodatei."
 
 #. translators: %s: Audio extension.
 #: wp-includes/widgets/class-wp-widget-media-audio.php:87
@@ -13834,12 +13871,12 @@ msgstr "Titel für das Widget"
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:204
 #: wp-includes/widgets/class-wp-widget-media-image.php:364
 msgid "The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "Das aktuelle Bild hat keinen alternativen Text. Der Dateiname ist: %s"
 
 #. translators: %s: The amount of additional, not visible images in the gallery widget preview.
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:218
 msgid "Additional images added to this gallery: %s"
-msgstr ""
+msgstr "Zusätzliche Bilder zu dieser Galerie hinzugefügt: %s"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -13863,7 +13900,7 @@ msgstr "Bild bearbeiten"
 #. translators: %s: URL to media library.
 #: wp-includes/widgets/class-wp-widget-media-image.php:44
 msgid "That image cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
-msgstr ""
+msgstr "Dieses Bild konnte nicht gefunden werden. Überprüfen Sie Ihre <a href=\"%s\">Medienbibliothek</a> und stellen Sie sicher, dass es nicht gelöscht wurde."
 
 #. translators: %d: Widget count.
 #: wp-includes/widgets/class-wp-widget-media-image.php:48
@@ -13882,7 +13919,7 @@ msgstr "Link auf: "
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:30
 msgid "Displays a video from the media library or from YouTube, Vimeo, or another provider."
@@ -13906,7 +13943,7 @@ msgstr "Video bearbeiten"
 #. translators: %s: URL to media library.
 #: wp-includes/widgets/class-wp-widget-media-video.php:44
 msgid "That video cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
-msgstr ""
+msgstr "Dieses Video konnte nicht gefunden werden. Überprüfen Sie Ihre <a href=\"%s\">Medienbibliothek</a> und stellen Sie sicher, dass sie nicht gelöscht wurde."
 
 #. translators: %d: Widget count.
 #: wp-includes/widgets/class-wp-widget-media-video.php:48
@@ -13922,7 +13959,7 @@ msgstr "Video-Widget"
 #. translators: %s: A list of valid video file extensions.
 #: wp-includes/widgets/class-wp-widget-media-video.php:51
 msgid "Sorry, the video at the supplied URL cannot be loaded. Please check that the URL is for a supported video file (%s) or stream (e.g. YouTube and Vimeo)."
-msgstr ""
+msgstr "Leider kann das Video mit der angegebenen URL nicht geladen werden. Bitte prüfe, ob die URL auf eine unterstützte Videodatei (%s) oder einen Stream (z.B. YouTube oder Vimeo) verweist."
 
 #. translators: %s: Video extension.
 #: wp-includes/widgets/class-wp-widget-media-video.php:98
@@ -13967,7 +14004,7 @@ msgstr "Zu Widget hinzufügen"
 #. translators: %s: URL to media library.
 #: wp-includes/widgets/class-wp-widget-media.php:501
 msgid "That file cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
-msgstr ""
+msgstr "Diese Datei konnte nicht gefunden werden. Überprüfen Sie Ihre <a href=\"%s\">Medienbibliothek</a> und stellen Sie sicher, dass sie nicht gelöscht wurde."
 
 #. translators: %d: Widget count.
 #: wp-includes/widgets/class-wp-widget-media.php:505
@@ -13982,7 +14019,7 @@ msgstr "Medien-Widget"
 
 #: wp-includes/widgets/class-wp-widget-media.php:507
 msgid "Looks like this is not the correct kind of file. Please link to an appropriate file instead."
-msgstr ""
+msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt dessen auf eine geeignete Datei."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:29
 msgid "Login, RSS, &amp; ClassicPress.net links."
@@ -13990,20 +14027,20 @@ msgstr "Anmelde-, RSS-, &amp; ClassicPress.net-Links."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:67
 msgid "Entries feed"
-msgstr ""
+msgstr "Eintragsfeed"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:68
 msgid "Comments feed"
-msgstr ""
+msgstr "Kommentar-Feed"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:85
 msgid "Powered by ClassicPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
+msgstr "Powered by ClassicPress, modernste semantische Personal Publishing-Plattform."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
@@ -14072,7 +14109,7 @@ msgstr "Einträge von einem beliebigen RSS- oder Atom-Feed."
 #: wp-includes/widgets/class-wp-widget-rss.php:35
 #: wp-includes/widgets/class-wp-widget-rss.php:98
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: wp-includes/widgets/class-wp-widget-rss.php:84
 msgid "Unknown Feed"
@@ -14080,7 +14117,7 @@ msgstr "Unbekannter Feed"
 
 #: wp-includes/widgets/class-wp-widget-rss.php:124
 msgid "RSS Feed"
-msgstr ""
+msgstr "RSS-Feed"
 
 #: wp-includes/widgets/class-wp-widget-search.php:27
 msgid "A search form for your site."
@@ -14121,7 +14158,7 @@ msgstr "Beliebiger Text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:43
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -14129,7 +14166,7 @@ msgstr "Dieses Widget scheint Code zu enthalten, der vermutlich besser im neuen 
 
 #: wp-includes/widgets/class-wp-widget-text.php:499
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you have not yet, how about trying that widget instead?"
-msgstr ""
+msgstr "Dieses Widget enthielt anscheinend Code, der vermutlich besser im neuen &#8222;HTML&#8220;-Widget funktioniert. Falls du es noch nicht kennst: was hältst du davon, es auszuprobieren?"
 
 #: wp-includes/widgets/class-wp-widget-text.php:507
 msgid "Automatically add paragraphs"
@@ -14163,16 +14200,16 @@ msgstr "Links für %s"
 #. translators: %s: wp-config.php
 #: wp-load.php:88
 msgid "There doesn't seem to be a %s file. It is needed before the installation can continue."
-msgstr ""
+msgstr "Es scheint keine %s Datei zu geben. Sie wird benötigt, bevor die Installation fortgesetzt werden kann."
 
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-load.php:93
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr ""
+msgstr "Brauchen Sie weitere Hilfe? <a href=\"%1$s\">Lesen Sie den Support-Artikel auf %2$s</a>."
 
 #: wp-load.php:94
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/editing-wp-config-php/"
 
 #. translators: %s: wp-config.php
 #: wp-load.php:99
@@ -14186,7 +14223,7 @@ msgstr "Konfigurationsdatei erstellen"
 #. translators: Login screen title. 1: Login screen name, 2: Network or site name.
 #: wp-login.php:72
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Login screen title.
 #: wp-login.php:76
@@ -14197,7 +14234,7 @@ msgstr "Recovery-Modus &#8212; %s"
 #: wp-login.php:255
 msgctxt "site"
 msgid "&larr; Go to %s"
-msgstr ""
+msgstr "&larr; Gehe zu %s"
 
 #: wp-login.php:340
 msgid "Change"
@@ -14205,49 +14242,49 @@ msgstr "Wechseln"
 
 #: wp-login.php:590
 msgid "Confirm your administration email"
-msgstr ""
+msgstr "Bestätigen Sie Ihre Administrations-E-Mail"
 
 #: wp-login.php:619
 msgid "Administration email verification"
-msgstr ""
+msgstr "Administrator-E-Mail-Verifizierung"
 
 #: wp-login.php:622
 msgid "Please verify that the <strong>administration email</strong> for this website is still correct."
-msgstr ""
+msgstr "Bitte überprüfen Sie, dass die <strong>Administrations-E-Mail</strong> für diese Website immer noch korrekt ist."
 
 #. translators: URL to the WordPress help section about admin email.
 #: wp-login.php:626
 msgid "https://wordpress.org/documentation/article/settings-general-screen/#email-address"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/settings-general-screen/#email-address"
 
 #: wp-login.php:637
 msgid "Why is this important?"
-msgstr ""
+msgstr "Warum ist das wichtig?"
 
 #. translators: %s: Admin email address.
 #: wp-login.php:648
 msgid "Current administration email: %s"
-msgstr ""
+msgstr "Aktuelle Administrations-E-Mail: %s"
 
 #: wp-login.php:655
 msgid "This email may be different from your personal email address."
-msgstr ""
+msgstr "Diese E-Mail kann sich von Ihrer persönlichen E-Mail-Adresse unterscheiden."
 
 #: wp-login.php:667
 msgid "The email is correct"
-msgstr ""
+msgstr "Die E-Mail ist korrekt"
 
 #: wp-login.php:683
 msgid "Remind me later"
-msgstr ""
+msgstr "Später erinnern"
 
 #: wp-login.php:786
 msgid "<strong>Error:</strong> Your password reset link appears to be invalid. Please request a new link below."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Dein Link zum Zurücksetzen des Passworts scheint ungültig zu sein. Bitte fordere nachstehend einen neuen Link an."
 
 #: wp-login.php:788
 msgid "<strong>Error:</strong> Your password reset link has expired. Please request a new link below."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Dein Link zum Zurücksetzen des Passworts ist abgelaufen. Bitte fordere nachstehend einen neuen Link an."
 
 #: wp-login.php:813
 msgid "Lost Password"
@@ -14255,7 +14292,7 @@ msgstr "Passwort vergessen"
 
 #: wp-login.php:813
 msgid "Please enter your username or email address. You will receive an email message with instructions on how to reset your password."
-msgstr ""
+msgstr "Bitte gib deinen Benutzernamen oder deine E-Mail-Adresse ein. Du erhältst eine E-Mail mit Anweisungen zum Zurücksetzen deines Passworts."
 
 #: wp-login.php:840
 msgid "Get New Password"
@@ -14263,11 +14300,11 @@ msgstr "Neues Passwort"
 
 #: wp-login.php:918
 msgid "The password cannot be a space or all spaces."
-msgstr ""
+msgstr "Das Passwort darf kein Leerzeichen oder alle Leerzeichen sein."
 
 #: wp-login.php:924
 msgid "<strong>Error:</strong> The passwords do not match."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Die Passwörter stimmen nicht überein."
 
 #: wp-login.php:941
 msgid "Password Reset"
@@ -14283,7 +14320,7 @@ msgstr "Passwort zurücksetzen"
 
 #: wp-login.php:949
 msgid "Enter your new password below or generate one."
-msgstr ""
+msgstr "Geben Sie unten Ihr neues Passwort ein oder generieren Sie eines."
 
 #: wp-login.php:957
 msgid "New password"
@@ -14311,7 +14348,7 @@ msgstr "Passwort generieren"
 
 #: wp-login.php:997
 msgid "Save Password"
-msgstr ""
+msgstr "Passwort speichern"
 
 #: wp-login.php:1074
 msgid "Registration Form"
@@ -14332,16 +14369,16 @@ msgstr "Du erhältst eine Bestätigung der Registrierung per E-Mail."
 #. translators: %s: Link to the login page.
 #: wp-login.php:1133
 msgid "Check your email for the confirmation link, then visit the <a href=\"%s\">login page</a>."
-msgstr ""
+msgstr "Überprüfen Sie Ihre E-Mail für den Bestätigungslink, dann besuchen Sie die <a href=\"%s\">Login-Seite</a>."
 
 #. translators: %s: Link to the login page.
 #: wp-login.php:1143
 msgid "Registration complete. Please check your email, then visit the <a href=\"%s\">login page</a>."
-msgstr ""
+msgstr "Registrierung abgeschlossen. Bitte überprüfen Sie Ihre E-Mail und besuchen Sie die <a href=\"%s\">Login-Seite</a>."
 
 #: wp-login.php:1153
 msgid "Check your email"
-msgstr ""
+msgstr "Überprüfe deine E-Mail"
 
 #: wp-login.php:1159
 msgid "Missing request ID."
@@ -14349,7 +14386,7 @@ msgstr "Fehlende Anfrage-ID."
 
 #: wp-login.php:1163
 msgid "Missing confirm key."
-msgstr ""
+msgstr "Bestätigungsschlüssel fehlt."
 
 #: wp-login.php:1191
 msgid "User action confirmed."
@@ -14358,20 +14395,20 @@ msgstr "Benutzeraktion bestätigt."
 #. translators: 1: Browser cookie documentation URL, 2: Support forums URL.
 #: wp-login.php:1241
 msgid "<strong>Error:</strong> Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this documentation</a> or try the <a href=\"%2$s\">support forums</a>."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Cookies sind wegen einer unerwarteten Ausgabe gesperrt. Hilfe findest du in <a href=\"%1$s\">dieser Dokumentation</a> oder wende dich an die <a href=\"%2$s\">Support-Foren</a>."
 
 #: wp-login.php:1242
 msgid "https://wordpress.org/documentation/article/cookies/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/"
 
 #. translators: %s: Browser cookie documentation URL.
 #: wp-login.php:1252
 msgid "<strong>Error:</strong> Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use ClassicPress."
-msgstr ""
+msgstr "<strong>FEHLER</strong>: Cookies sind gesperrt oder werden von deinem Browser nicht unterstützt. Du musst <a href=\"%s\">Cookies aktivieren</a>, um ClassicPress verwenden zu können."
 
 #: wp-login.php:1253
 msgid "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
 
 #: wp-login.php:1273
 msgid "You have logged in successfully."
@@ -14387,7 +14424,7 @@ msgstr "Du hast dich erfolgreich abgemeldet."
 
 #: wp-login.php:1356
 msgid "<strong>Error:</strong> User registration is currently not allowed."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Benutzerregistrierung ist derzeit nicht erlaubt."
 
 #: wp-login.php:1358
 msgid "<strong>You have successfully updated ClassicPress!</strong> Please log back in to see what&#8217;s new."
@@ -14395,7 +14432,7 @@ msgstr "<strong>Du hast ClassicPress erfolgreich aktualisiert!</strong> Bitte me
 
 #: wp-login.php:1360
 msgid "Recovery Mode Initialized. Please log in to continue."
-msgstr ""
+msgstr "Wiederherstellungsmodus initialisiert. Bitte anmelden, um fortzufahren."
 
 #: wp-login.php:1427
 msgid "Show password"
@@ -14412,7 +14449,7 @@ msgstr "Ruhe bewahren, es gibt keinen Grund, so oft nach neuen E-Mails zu schaue
 
 #: wp-mail.php:65
 msgid "There does not seem to be any new mail."
-msgstr ""
+msgstr "Da scheint keine neue E-Mail zu sein."
 
 #: wp-mail.php:248
 msgid "Author:"
@@ -14425,7 +14462,7 @@ msgstr "Veröffentlichter Titel:"
 #. translators: %s: POP3 error.
 #: wp-mail.php:254
 msgid "Oops: %s"
-msgstr ""
+msgstr "Hoppla: %s"
 
 #. translators: %s: The message ID.
 #: wp-mail.php:262
@@ -14434,11 +14471,11 @@ msgstr "Mission erfüllt. Nachricht %s gelöscht."
 
 #: wp-signup.php:118
 msgid "Site Name (subdirectory only):"
-msgstr ""
+msgstr "Name der Site (nur Unterverzeichnis):"
 
 #: wp-signup.php:120
 msgid "Site Domain (subdomain only):"
-msgstr ""
+msgstr "Website-Domain (nur Subdomain):"
 
 #: wp-signup.php:139
 msgid "sitename"
@@ -14483,7 +14520,7 @@ msgstr "Nein"
 
 #: wp-signup.php:280
 msgid "(Must be at least 4 characters, lowercase letters and numbers only.)"
-msgstr ""
+msgstr "(Nur Kleinbuchstaben und Zahlen dürfen mindestens 4 Zeichen lang sein.)"
 
 #: wp-signup.php:284
 msgid "Email&nbsp;Address:"
@@ -14491,7 +14528,7 @@ msgstr "E-Mail-Addresse:"
 
 #: wp-signup.php:293
 msgid "Your registration email is sent to this address. (Double-check your email address before continuing.)"
-msgstr ""
+msgstr "Wir verschicken deine Registrierungs-E-Mail an diese Adresse. (Überprüfe also nochmal deine E-Mail-Adresse, bevor du fortfährst.)"
 
 #. translators: %s: Network title.
 #: wp-signup.php:365
@@ -14513,7 +14550,7 @@ msgstr "Du bist bereits Mitglied der folgenden Websites:"
 
 #: wp-signup.php:397
 msgid "If you are not going to use a great site domain, leave it for a new user. Now have at it!"
-msgstr ""
+msgstr "Suche dir nun einen weiteren Website-Namen und Website-Titel aus."
 
 #: wp-signup.php:412
 msgid "Create Site"
@@ -14536,7 +14573,7 @@ msgstr "Registriere dich in nur wenigen Sekunden bei %s."
 
 #: wp-signup.php:639
 msgid "Create a site or only a username:"
-msgstr ""
+msgstr "Erstelle eine Site oder nur einen Benutzernamen:"
 
 #: wp-signup.php:643
 msgid "Gimme a site!"
@@ -14567,7 +14604,7 @@ msgstr "Wenn du deinen Benutzernamen nicht innerhalb von zwei Tagen aktivierst, 
 
 #: wp-signup.php:777
 msgid "Sign up"
-msgstr ""
+msgstr "Registrieren"
 
 #. translators: %s: Site address.
 #: wp-signup.php:858
@@ -14588,7 +14625,7 @@ msgstr "Wartest du noch auf deine E-Mail?"
 
 #: wp-signup.php:871
 msgid "If you have not received your email yet, there are a number of things you can do:"
-msgstr ""
+msgstr "Falls du deine E-Mail noch nicht erhalten hast, kannst du folgende Dinge tun:"
 
 #: wp-signup.php:873
 msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
@@ -14673,27 +14710,27 @@ msgstr "Trackbacks sind für diesen Beitrag geschlossen."
 
 #: wp-trackback.php:138
 msgid "There is already a ping from that URL for this post."
-msgstr ""
+msgstr "Für diesen Beitrag haben wir bereits einen Ping von dieser URL."
 
 #: wp-includes/js/dist/a11y.js:2218
 msgid "Notifications"
-msgstr ""
+msgstr "Benachrichtigungen"
 
 #: wp-includes/js/dist/api-fetch.js:2849
 msgid "The response is not a valid JSON response."
-msgstr ""
+msgstr "Die Antwort ist keine gültige JSON-Antwort."
 
 #: wp-includes/js/dist/api-fetch.js:2885
 msgid "An unknown error occurred."
-msgstr ""
+msgstr "Ein unbekannter Fehler ist aufgetreten."
 
 #: wp-includes/js/dist/api-fetch.js:2958
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
-msgstr ""
+msgstr "Medienupload fehlgeschlagen. Wenn dies ein Foto oder ein großes Bild ist, verkleinern Sie es bitte und versuchen Sie es erneut."
 
 #: wp-includes/js/dist/api-fetch.js:3164
 msgid "You are probably offline."
-msgstr ""
+msgstr "Sie sind wahrscheinlich offline."
 
 #: wp-includes/js/media-editor.js:630
 msgid "Could not set that as the thumbnail image. Try a different attachment."
@@ -14702,35 +14739,35 @@ msgstr "Das Bild konnte nicht als Vorschaubild gesetzt werden. Versuche es mit e
 #. translators: Accessibility text. %d: Number of attachments found in a search.
 #: wp-includes/js/media-views.js:7863
 msgid "Number of media items displayed: %d. Click load more for more results."
-msgstr ""
+msgstr "Anzahl der angezeigten Medien-Elemente: %d. Klicken Sie mehr um mehr Ergebnisse zu erhalten."
 
 #. translators: Accessibility text. %d: Number of attachments found in a search.
 #: wp-includes/js/media-views.js:7867
 msgid "Number of media items displayed: %d. Scroll the page for more results."
-msgstr ""
+msgstr "Anzahl der angezeigten Medien-Elemente: %d. Scrollen Sie die Seite für mehr Ergebnisse."
 
 #: wp-includes/js/media-views.js:8269
 msgid "Load more"
-msgstr ""
+msgstr "Mehr laden"
 
 #: wp-includes/js/media-views.js:8281
 msgid "Jump to first loaded item"
-msgstr ""
+msgstr "Zum ersten geladenen Element springen"
 
 #: wp-includes/js/media-views.js:8319
 msgid "Showing %1$s of %2$s media items"
-msgstr ""
+msgstr "Zeige %1$s von %2$s Mediendateien"
 
 #. translators: %s: Number of selected media attachments.
 #: wp-includes/js/media-views.js:8543
 msgid "%s item selected"
 msgid_plural "%s items selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Eintrag ausgewählt"
+msgstr[1] "%s Einträge ausgewählt"
 
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "⌘ + letter:"
-msgstr ""
+msgstr "⌘ + zeichen:"
 
 #: wp-includes/js/wp-auth-check.js:27
 msgid "Your session has expired. You can log in again from this page or go to the login page."
