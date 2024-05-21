@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-20 20:11\n"
+"PO-Revision-Date: 2024-05-21 08:06\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -292,7 +292,7 @@ msgstr ""
 #. name
 #: wp-admin/admin-header.php:50 wp-login.php:62
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #: wp-admin/admin-header.php:230
 msgid "Main content"
@@ -3686,7 +3686,7 @@ msgstr "Wenn du irgendwelche Fehler feststellst oder Unterstützung benötigst, 
 #: wp-includes/wp-db.php:1062 wp-includes/wp-db.php:1595
 #: wp-includes/wp-db.php:1753 wp-login.php:921
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:694
 #: wp-admin/update-core.php:616
@@ -5273,7 +5273,7 @@ msgstr "Ansichtsmodus"
 #: wp-admin/link-manager.php:46 wp-admin/menu.php:66
 #: wp-includes/widgets/class-wp-widget-links.php:29
 msgid "Links"
-msgstr ""
+msgstr "Hyperlink"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:185
 msgctxt "Number/count of items"
@@ -8768,7 +8768,7 @@ msgstr "Links im OPML-Format importieren."
 #: wp-admin/includes/import.php:195
 #: wp-includes/widgets/class-wp-widget-rss.php:30
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: wp-admin/includes/import.php:196
 msgid "Import posts from an RSS feed."
@@ -23409,7 +23409,7 @@ msgstr[1] "Bilder <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -23424,7 +23424,7 @@ msgstr[1] "Audios <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
@@ -26333,16 +26333,16 @@ msgstr "Customizer"
 #. translators: %s: support forums URL
 #: wp-includes/update.php:157
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Ein unerwarteter Fehler ist aufgetreten. Möglicherweise ist ein Fehler mit der ClassicPress.net oder dieser Serverkonfiguration von&#8217;s aufgetreten. Wenn Sie weiterhin Probleme haben, melden Sie dieses Problem bitte im <a href=\"%s\">Supportforum</a>."
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:348 wp-includes/update.php:530
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Ein unerwarteter Fehler ist aufgetreten. Irgendwas kann mit WordPress.org oder dieser Serverkonfiguration&#8217;s falsch sein. Wenn Sie weiterhin Probleme haben, versuchen Sie bitte die <a href=\"%s\">Support-Foren</a>."
 
 #: wp-includes/update.php:350 wp-includes/update.php:532
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(WordPress konnte keine sichere Verbindung zu WordPress.org herstellen. Bitte kontaktieren Sie Ihren Server-Administrator.)"
 
 #. translators: 1: Number of updates available to WordPress
 #: wp-includes/update.php:628
@@ -26410,7 +26410,7 @@ msgstr "<strong>FEHLER</strong>: Dein Account wurde als Spam markiert."
 #: wp-includes/user.php:1126
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:1480
 msgid "Cannot create a user with an empty login name."
@@ -26477,15 +26477,15 @@ msgstr "[%s] E-Mail-Adresse wurde geändert"
 
 #: wp-includes/user.php:2068
 msgid "AIM"
-msgstr ""
+msgstr "AIM"
 
 #: wp-includes/user.php:2069
 msgid "Yahoo IM"
-msgstr ""
+msgstr "Yahoo IM"
 
 #: wp-includes/user.php:2070
 msgid "Jabber / Google Talk"
-msgstr ""
+msgstr "Jabber / Google Talk"
 
 #: wp-includes/user.php:2108
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
@@ -26532,7 +26532,16 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die E-Mail-Adresse deines Kontos zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #: wp-includes/user.php:2708
 msgid "[%s] New Email Address"
@@ -26607,7 +26616,15 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Eine Anfrage zum Datenschutz wurde bestätigt auf ###SITENAME###:\n\n"
+"Benutzer: ###USER_EMAIL###\n"
+"Anfrage: ###DESCRIPTION###\n\n"
+"Sie können diese Datenschutzanfragen hier anschauen und verwalten:\n\n"
+"###MANAGE_URL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: 1: Site name. 2: Name of the confirmed action.
 #: wp-includes/user.php:2978
@@ -26627,7 +26644,12 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Ihre Anfrage zur Löschung Ihrer persönlichen Daten über ###SITENAME### wurde abgeschlossen.\n\n"
+"Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an den Administrator.\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles unter ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those
 #. are placeholders.
@@ -26639,7 +26661,13 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Ihre Anfrage zur Löschung Ihrer persönlichen Daten über ###SITENAME### wurde abgeschlossen.\n\n"
+"Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an den Administrator.\n\n"
+"Für weitere Informationen lesen Sie auch unsere Datenschutzrichtlinie: ###PRIVACY_POLICY_URL###\n\n"
+"Grüße,\n"
+"Alles unter ###SITENAME###\n"
+"###SITEURL### #"
 
 #: wp-includes/user.php:3160
 msgid "Action has been confirmed."
@@ -26691,7 +26719,16 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die E-Mail-Adresse deines Kontos zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #. translators: Privacy data request subject. 1: Site name, 2: Name of the
 #. action
@@ -27106,12 +27143,12 @@ msgstr "Kommentare als <abbr title=\"Really Simple Syndication\">RSS</abbr>"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:73
 msgid "Powered by ClassicPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
+msgstr "Powered by ClassicPress, modernste semantische Personal Publishing-Plattform."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
@@ -27211,7 +27248,7 @@ msgstr "Beliebiger Text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:42
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -27620,7 +27657,7 @@ msgstr "Veröffentlichter Titel:"
 #. translators: %s: POP3 error
 #: wp-mail.php:238
 msgid "Oops: %s"
-msgstr ""
+msgstr "Hoppla: %s"
 
 #. translators: %s: the message ID
 #: wp-mail.php:246
