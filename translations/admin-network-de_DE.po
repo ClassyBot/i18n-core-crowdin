@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-18 05:31\n"
+"PO-Revision-Date: 2024-05-25 02:20\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -57,37 +57,37 @@ msgstr[1] "Alle <span class=\"count\">(%s)</span>"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:228
 msgid "Public <span class=\"count\">(%s)</span>"
 msgid_plural "Public <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Öffentliche <span class=\"count\">(%s)</span>"
+msgstr[1] "Öffentliche <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:234
 msgid "Archived <span class=\"count\">(%s)</span>"
 msgid_plural "Archived <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Archiviert <span class=\"count\">(%s)</span>"
+msgstr[1] "Archiviert <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:240
 msgid "Mature <span class=\"count\">(%s)</span>"
 msgid_plural "Mature <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Reife <span class=\"count\">(%s)</span>"
+msgstr[1] "Reife <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:246
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
 msgid "Deleted <span class=\"count\">(%s)</span>"
 msgid_plural "Deleted <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Gelöscht <span class=\"count\">(%s)</span>"
+msgstr[1] "Gelöscht <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:285
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:724
@@ -106,7 +106,7 @@ msgstr "Als Spam markieren"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:288
 msgctxt "site"
 msgid "Not spam"
-msgstr ""
+msgstr "Kein Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:335
 msgid "Filter"
@@ -114,7 +114,7 @@ msgstr "Auswahl einschränken"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:358
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:359
 #: wp-admin/network/site-info.php:186
@@ -154,7 +154,7 @@ msgstr "%s auswählen"
 #. translators: 1: Site title, 2: Site tagline.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:474
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
@@ -174,7 +174,7 @@ msgstr "Noch nie"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:616
 msgid "Main"
-msgstr ""
+msgstr "Haupt"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:702
 #: wp-admin/includes/class-wp-ms-users-list-table.php:404
@@ -192,7 +192,7 @@ msgstr "Bearbeiten"
 #: wp-admin/network/site-themes.php:180
 #: wp-admin/network/site-users.php:225
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:706
 msgid "Activate"
@@ -231,11 +231,11 @@ msgstr "Keine Themes gefunden."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:320
 msgid "No themes are currently available."
-msgstr ""
+msgstr "Derzeit sind keine Themes verfügbar."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:330
 msgid "Theme"
-msgstr ""
+msgstr "Theme"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:331
 msgid "Description"
@@ -243,7 +243,7 @@ msgstr "Beschreibung"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:335
 msgid "Automatic Updates"
-msgstr ""
+msgstr "Automatische Updates"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:378
@@ -289,15 +289,15 @@ msgstr[1] "Fehlerhaft <span class=\"count\">(%s)</span>"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:423
 msgid "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Automatische Updates aktiviert <span class=\"count\">(%s)</span>"
+msgstr[1] "Automatische Updates aktiviert <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Automatische Updates deaktiviert <span class=\"count\">(%s)</span>"
+msgstr[1] "Automatische Updates deaktiviert <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:586
@@ -325,11 +325,11 @@ msgstr "Aktualisieren"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:483
 msgid "Enable Auto-updates"
-msgstr ""
+msgstr "Automatische Updates aktivieren"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:487
 msgid "Disable Auto-updates"
-msgstr ""
+msgstr "Automatische Updates deaktivieren"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:576
@@ -374,7 +374,7 @@ msgstr "Von %s"
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:730
 msgid "Visit theme site for %s"
-msgstr ""
+msgstr "Website des Themes für %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:736
 msgid "Visit Theme Site"
@@ -383,23 +383,23 @@ msgstr "Theme Seite besuchen"
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:743
 msgid "Child theme of %s"
-msgstr ""
+msgstr "Unter-Theme von %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:794
 msgid "Auto-updates enabled"
-msgstr ""
+msgstr "Automatische Updates aktiviert"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:796
 msgid "Auto-updates disabled"
-msgstr ""
+msgstr "Automatische Updates deaktiviert"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:805
 msgid "Disable auto-updates"
-msgstr ""
+msgstr "Automatische Updates deaktivieren"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:809
 msgid "Enable auto-updates"
-msgstr ""
+msgstr "Automatische Updates aktivieren"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:925
 msgid "Active Theme"
@@ -417,7 +417,7 @@ msgstr "Als Spam markieren"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:117
 msgctxt "user"
 msgid "Not spam"
-msgstr ""
+msgstr "Kein Spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:125
 msgid "No users found."
@@ -476,7 +476,7 @@ msgstr "Super-Administrator"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:303
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:314
@@ -492,7 +492,7 @@ msgstr "Anschauen"
 #: wp-admin/includes/ms-deprecated.php:35
 #: wp-admin/includes/ms.php:239
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "Leider haben Sie Ihre Raumzuordnung von %sverwendet. Bitte löschen Sie einige Dateien, um weitere Dateien hochzuladen."
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-admin/includes/ms.php:36
@@ -578,7 +578,7 @@ msgstr "Primäre Website"
 
 #: wp-admin/includes/ms.php:791
 msgid "Not available"
-msgstr ""
+msgstr "Nicht verfügbar"
 
 #: wp-admin/includes/ms.php:856
 msgid "You have chosen to delete the user from all networks and sites."
@@ -639,7 +639,7 @@ msgstr "Löschen bestätigen"
 
 #: wp-admin/includes/ms.php:1053
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: wp-admin/includes/ms.php:1063
 #: wp-admin/network/menu.php:78
@@ -654,7 +654,7 @@ msgstr "Einstellungen"
 
 #: wp-admin/includes/ms.php:1119
 msgid "Secondary menu"
-msgstr ""
+msgstr "Sekundäre Menü"
 
 #: wp-admin/includes/ms.php:1134
 #: wp-admin/my-sites.php:44
@@ -709,7 +709,7 @@ msgstr "Für weitere Informationen:"
 #: wp-admin/network/site-new.php:32
 #: wp-admin/network/sites.php:46
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-sites-screen/\">Documentation on Site Management</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-sites-screen/\">Dokumentation zur Website-Verwaltung</a>"
 
 #: wp-admin/includes/ms.php:1158
 #: wp-admin/network/index.php:57
@@ -718,7 +718,7 @@ msgstr ""
 #: wp-admin/network/user-new.php:30
 #: wp-admin/network/users.php:243
 msgid "<a href=\"https://wordpress.org/support/forum/multisite/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/forum/multisite/\">Support-Foren</a>"
 
 #: wp-admin/ms-delete-site.php:13
 #: wp-admin/my-sites.php:13
@@ -756,12 +756,20 @@ msgid "Hello ###USERNAME###,\n\n"
 "Thank you for using the site,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich auf den Link 'Site löschen' auf deiner Seite geklickt und ein\n"
+"Formular auf dieser Seite ausgefüllt.\n\n"
+"Wenn du deine Seite wirklich löschen möchtest, klicke auf den unten stehenden Link. Du wirst nicht erneut gebeten zu bestätigen, also klicke nur auf diesen Link, wenn du absolut sicher bist:\n"
+"###URL_DELETE###\n\n"
+"Wenn du deine Seite löschst Bitte erwägen Sie die Eröffnung einer neuen Seite hier einige Zeit in der Zukunft! (Aber denke daran, dass deine aktuelle Seite und dein Benutzername für immer verschwunden sind.)\n\n"
+"Vielen Dank für die Benutzung der Website,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: %s: Site title.
 #: wp-admin/ms-delete-site.php:93
 msgid "[%s] Delete My Site"
-msgstr ""
+msgstr "[%s] Meine Website löschen"
 
 #: wp-admin/ms-delete-site.php:104
 msgid "Thank you. Please check your email for a link to confirm your action. Your site will not be deleted until this link is clicked."
@@ -779,7 +787,7 @@ msgstr "Bedenke bitte, eine gelöschte Website kann nicht wiederhergestellt werd
 #. translators: %s: Site address.
 #: wp-admin/ms-delete-site.php:127
 msgid "I'm sure I want to permanently delete my site, and I am aware I can never get it back or use %s again."
-msgstr ""
+msgstr "Ich bin sicher, dass ich meine Website dauerhaft löschen möchte und bin mir bewusst, dass ich sie nie wieder zurückholen oder %s verwenden kann."
 
 #: wp-admin/ms-delete-site.php:132
 msgid "Delete My Site Permanently"
@@ -898,12 +906,12 @@ msgstr "Die Auswahl, die Websites in Unterverzeichnissen anzulegen ist deaktivie
 #: wp-admin/network.php:68
 #: wp-admin/network.php:81
 msgid "<a href=\"https://wordpress.org/documentation/article/create-a-network/\">Documentation on Creating a Network</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/create-a-network/\">Dokumentation zum Erstellen eines Netzwerks</a>"
 
 #: wp-admin/network.php:69
 #: wp-admin/network.php:82
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Documentation on the Network Screen</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Dokumentation auf dem Netzwerkbildschirm</a>"
 
 #: wp-admin/network.php:74
 msgid "Network"
@@ -963,7 +971,7 @@ msgstr "Schnellzugriff"
 
 #: wp-admin/network/index.php:56
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin/\">Documentation on the Network Admin</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin/\">Dokumentation auf dem Netzwerk-Admin</a>"
 
 #: wp-admin/network/menu.php:13
 msgid "Home"
@@ -1002,7 +1010,7 @@ msgstr "Link hinzufügen"
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
 msgid "Themes %s"
-msgstr ""
+msgstr "Themes %s"
 
 #: wp-admin/network/menu.php:80
 msgid "Installed Themes"
@@ -1016,17 +1024,17 @@ msgstr "Link hinzufügen"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
-msgstr ""
+msgstr "Theme-Datei-Editor"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/network/menu.php:88
 msgid "Plugins %s"
-msgstr ""
+msgstr "Plugins %s"
 
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:497
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: wp-admin/network/menu.php:105
 msgid "Installed Plugins"
@@ -1039,7 +1047,7 @@ msgstr "Link hinzufügen"
 
 #: wp-admin/network/menu.php:107
 msgid "Plugin File Editor"
-msgstr ""
+msgstr "Plugin-Datei-Editor"
 
 #: wp-admin/network/menu.php:111
 #: wp-admin/network/settings.php:21
@@ -1081,7 +1089,7 @@ msgstr "Super-Administratoren können nicht mehr über den Optionen-Bereich hinz
 
 #: wp-admin/network/settings.php:64
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-settings-screen/\">Documentation on Network Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-settings-screen/\">Dokumentation in den Netzwerkeinstellungen</a>"
 
 #: wp-admin/network/settings.php:150
 msgid "Operational Settings"
@@ -1097,7 +1105,7 @@ msgstr "E-Mail-Adresse Netzwerkadministrator"
 
 #: wp-admin/network/settings.php:164
 msgid "This address is used for admin purposes. If you change this, an email will be sent to your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "Diese Adresse wird für Adminzwecke verwendet. Wenn Sie dies ändern, wird eine E-Mail an Ihre neue Adresse gesendet, um sie zu bestätigen. <strong>Die neue Adresse wird erst aktiviert, wenn sie bestätigt wurde.</strong>"
 
 #. translators: %s: New network admin email.
 #: wp-admin/network/settings.php:175
@@ -1278,7 +1286,7 @@ msgstr "Maximale Dateigröße eines Uploads"
 #. translators: %s: File size in kilobytes.
 #: wp-admin/network/settings.php:432
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:439
@@ -1372,12 +1380,12 @@ msgstr "Es wird ein neuer Benutzer angelegt, sofern nicht schon ein Benutzer mit
 
 #: wp-admin/network/site-new.php:40
 msgid "Cannot create an empty site."
-msgstr ""
+msgstr "Kann keine leere Site erstellen."
 
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
 msgid "The following words are reserved for use by ClassicPress functions and cannot be used as site names: %s"
-msgstr ""
+msgstr "Die folgenden Wörter sind für die Verwendung durch ClassicPress-Funktionen reserviert und können nicht als Seitennamen verwendet werden: %s"
 
 #: wp-admin/network/site-new.php:87
 msgid "Missing or invalid site address."
@@ -1831,7 +1839,7 @@ msgstr "Bist du sicher, dass du dieses Theme löschen willst?"
 
 #: wp-admin/network/themes.php:160
 msgid "Are you sure you want to delete these themes?"
-msgstr ""
+msgstr "Bist du sicher, dass du diese Themes löschen möchtest?"
 
 #: wp-admin/network/themes.php:174
 msgid "Yes, delete this theme"
@@ -1847,7 +1855,7 @@ msgstr "Nein, zurück zur Theme-Liste"
 
 #: wp-admin/network/themes.php:226
 msgid "Sorry, you are not allowed to change themes automatic update settings."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, die Einstellungen für automatische Aktualisierungen zu ändern."
 
 #: wp-admin/network/themes.php:300
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
@@ -1864,19 +1872,19 @@ msgstr "Themes können in der Netzwerkverwaltung Website für Website \n"
 
 #: wp-admin/network/themes.php:312
 msgid "Auto-updates"
-msgstr ""
+msgstr "Automatische Updates"
 
 #: wp-admin/network/themes.php:314
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr ""
+msgstr "Automatische Updates können für jedes einzelne Theme aktiviert oder deaktiviert werden. Themes mit aktivierter Auto-Updates werden das geschätzte Datum des nächsten Auto-Updates anzeigen. Auto-Updates hängen vom Taskplanungssystem WP-Cron ab."
 
 #: wp-admin/network/themes.php:315
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "Bitte beachten Sie: Themes und Plugins von Drittanbietern, oder benutzerdefinierter Code, können die Zeitplanung von ClassicPress überschreiben."
 
 #: wp-admin/network/themes.php:319
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Dokumentation über automatische Aktualisierungen</a>"
 
 #: wp-admin/network/themes.php:324
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
@@ -1907,25 +1915,25 @@ msgstr[1] "%s Themes gelöscht."
 
 #: wp-admin/network/themes.php:400
 msgid "Theme will be auto-updated."
-msgstr ""
+msgstr "Theme wird automatisch aktualisiert."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:403
 msgid "%s theme will be auto-updated."
 msgid_plural "%s themes will be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Theme wird automatisch aktualisiert."
+msgstr[1] "%s Themes werden automatisch aktualisiert."
 
 #: wp-admin/network/themes.php:409
 msgid "Theme will no longer be auto-updated."
-msgstr ""
+msgstr "Theme wird nicht mehr automatisch aktualisiert."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:412
 msgid "%s theme will no longer be auto-updated."
 msgid_plural "%s themes will no longer be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Theme wird nicht mehr automatisch aktualisiert."
+msgstr[1] "%s Themes werden nicht mehr automatisch aktualisiert."
 
 #: wp-admin/network/themes.php:418
 msgid "You cannot delete a theme while it is active on the main site."
@@ -1941,7 +1949,7 @@ msgstr "Benutze diese Ansicht nur, wenn du auf eine neue Version von ClassicPres
 
 #: wp-admin/network/upgrade.php:25
 msgid "If a version update to core has not happened, clicking this button will not affect anything."
-msgstr ""
+msgstr "Wenn ein Update auf den Core nicht stattgefunden hat, wirkt sich ein Klick auf diesen Button auf nichts aus."
 
 #: wp-admin/network/upgrade.php:26
 msgid "If this process fails for any reason, users logging in to their sites will force the same update."
@@ -1949,7 +1957,7 @@ msgstr "Falls der Vorgang aus irgendeinem Grund abbricht, wird er automatisch au
 
 #: wp-admin/network/upgrade.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-updates-screen/\">Documentation on Upgrade Network</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-updates-screen/\">Dokumentation zum Upgrade von Netzwerk</a>"
 
 #: wp-admin/network/upgrade.php:74
 msgid "All done!"
@@ -1962,7 +1970,7 @@ msgstr "Warnung! Es ist ein Problem bei der Aktualisierung von %1$s aufgetreten.
 
 #: wp-admin/network/upgrade.php:125
 msgid "If your browser does not start loading the next page automatically, click this link:"
-msgstr ""
+msgstr "Wenn Ihr Browser nicht automatisch die nächste Seite lädt, klicken Sie auf diesen Link:"
 
 #: wp-admin/network/upgrade.php:125
 msgid "Next Sites"
@@ -1974,7 +1982,7 @@ msgstr "Es ist eine Aktualisierung der Datenbank notwendig"
 
 #: wp-admin/network/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to individually upgrade the sites in your network."
-msgstr ""
+msgstr "ClassicPress wurde aktualisiert! Der nächste und letzte Schritt besteht darin, die Standorte in Ihrem Netzwerk individuell zu aktualisieren."
 
 #: wp-admin/network/upgrade.php:144
 msgid "The database update process may take a little while, so please be patient."
@@ -2007,7 +2015,7 @@ msgstr "Der Benutzer konnte nicht hinzugefügt werden."
 
 #: wp-admin/network/user-new.php:94
 msgid "Edit user"
-msgstr ""
+msgstr "Benutzer bearbeiten"
 
 #. translators: %s: User login.
 #: wp-admin/network/users.php:87
@@ -2074,7 +2082,7 @@ msgstr "Die Konstante %1$s <strong>ist veraltet</strong>. Nutze die boolesche Ko
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL
 #: wp-includes/ms-default-constants.php:151
 msgid "<strong>Conflicting values for the constants %1$s and %2$s.</strong> The value of %2$s will be assumed to be your subdomain configuration setting."
-msgstr ""
+msgstr "<strong>Konfliktwerte für die Konstanten %1$s und %2$s.</strong> Der Wert von %2$s wird als Ihre Subdomänenkonfiguration angenommen."
 
 #: wp-includes/ms-deprecated.php:277
 #: wp-includes/ms-deprecated.php:296
@@ -2088,11 +2096,11 @@ msgstr "Du bist leider nicht berechtigt, dieses Element anzuzeigen."
 
 #: wp-includes/ms-deprecated.php:406
 msgid "<strong>Error:</strong> Site URL you&#8217;ve entered is already taken."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Seiten-URL, die Sie eingegeben haben, ist bereits vergeben."
 
 #: wp-includes/ms-deprecated.php:415
 msgid "<strong>Error:</strong> There was a problem creating site entry."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Beim Erstellen des Seiteneintrags ist ein Problem aufgetreten."
 
 #: wp-includes/ms-deprecated.php:619
 msgid "Already Installed"
@@ -2133,7 +2141,7 @@ msgstr "Bitte gib eine gültige E-Mail-Adresse ein."
 
 #: wp-includes/ms-functions.php:493
 msgid "You cannot use that email address to signup. There are problems with them blocking some emails from ClassicPress. Please use another email provider."
-msgstr ""
+msgstr "Sie können diese E-Mail-Adresse nicht verwenden, um sich anzumelden. Es gibt Probleme damit, einige E-Mails von ClassicPress zu blockieren. Bitte verwenden Sie einen anderen E-Mail-Provider."
 
 #: wp-includes/ms-functions.php:497
 msgid "Username must be at least 4 characters."
@@ -2158,7 +2166,7 @@ msgstr "Der Benutzername existiert bereits!"
 #. translators: %s: Link to the login page.
 #: wp-includes/ms-functions.php:529
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Diese E-Mail-Adresse ist bereits registriert. <a href=\"%s\">Loggen Sie sich</a> mit dieser Adresse ein oder wählen Sie eine andere."
 
 #: wp-includes/ms-functions.php:545
 msgid "That username is currently reserved but may be available in a couple of days."
@@ -2220,7 +2228,11 @@ msgid "To activate your site, please click the following link:\n\n"
 "After you activate, you will receive *another email* with your login.\n\n"
 "After you activate, you can visit your site here:\n\n"
 "%2$s"
-msgstr ""
+msgstr "Um Ihre Seite zu aktivieren, klicken Sie bitte auf den folgenden Link:\n\n"
+"%1$s\n\n"
+"Nach der Aktivierung erhalten Sie *eine weitere E-Mail* mit Ihrem Login.\n\n"
+"Nach der Aktivierung können Sie Ihre Seite hier besuchen:\n\n"
+"%2$s"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site URL.
 #: wp-includes/ms-functions.php:1012
@@ -2304,7 +2316,15 @@ msgid "Hello USERNAME,\n\n"
 "Log in here: BLOG_URLwp-login.php\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihre neue SITE_NAME Seite wurde erfolgreich eingerichtet unter:\n"
+"BLOG_URL\n\n"
+"Sie können sich in das Administratorkonto mit den folgenden Informationen einloggen:\n\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"Anmelden hier: BLOG_URLwp-login. hp\n\n"
+"Wir hoffen, dass dir deine neue Seite gefällt. Danke!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2337,17 +2357,17 @@ msgstr "Neuer %1$s Benutzer: %2$s"
 
 #: wp-includes/ms-functions.php:2122
 msgid "Unable to submit this form, please try again."
-msgstr ""
+msgstr "Dieses Formular konnte nicht abgeschickt werden, bitte versuchen Sie es erneut."
 
 #. translators: %s: Home URL.
 #: wp-includes/ms-functions.php:2187
 msgid "An error occurred adding you to this site. Go to the <a href=\"%s\">homepage</a>."
-msgstr ""
+msgstr "Beim Hinzufügen zu dieser Seite ist ein Fehler aufgetreten. Gehen Sie zur <a href=\"%s\">Homepage</a>."
 
 #. translators: 1: Home URL, 2: Admin URL.
 #: wp-includes/ms-functions.php:2196
 msgid "You have been added to this site. Please visit the <a href=\"%1$s\">homepage</a> or <a href=\"%2$s\">log in</a> using your username and password."
-msgstr ""
+msgstr "Sie würden zu dieser Website hinzugefügt. Bitte besuchen Sie die <a href=\"%1$s\">Homepage</a> oder <a href=\"%2$s\">melden Sie sich</a> mit Ihrem Benutzernamen und Passwort an."
 
 #: wp-includes/ms-functions.php:2200
 msgid "ClassicPress &rsaquo; Success"
@@ -2363,7 +2383,14 @@ msgid "Hello USERNAME,\n\n"
 "LOGINLINK\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihr neues Konto wurde eingerichtet.\n\n"
+"Sie können sich mit den folgenden Informationen anmelden:\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"LOGINLINK\n\n"
+"Vielen Dank!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
@@ -2378,12 +2405,22 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die Netzwerk-Admin-E-Mail-Adresse auf\n"
+"deines Netzwerks zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #. translators: Email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2787
 msgid "[%s] Network Admin Email Change Request"
-msgstr ""
+msgstr "[%s] Netzwerk-Admin-E-Mail-Änderungsanfrage"
 
 #. translators: Do not translate OLD_EMAIL, NEW_EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2833
@@ -2409,7 +2446,7 @@ msgstr "Hallo,\n"
 #. translators: Network admin email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2850
 msgid "[%s] Network Admin Email Changed"
-msgstr ""
+msgstr "[%s] Netzwerk-Admin E-Mail geändert"
 
 #: wp-includes/ms-load.php:99
 msgid "This site is no longer available."
@@ -2434,12 +2471,12 @@ msgstr "Wenn deine Website nicht angezeigt wird, nimm bitte Kontakt zum Betreibe
 
 #: wp-includes/ms-load.php:475
 msgid "If you are the owner of this network please check that your host&#8217;s database server is running properly and all tables are error free."
-msgstr ""
+msgstr "Wenn Sie der Eigentümer dieses Netzwerks sind, überprüfen Sie bitte, ob Ihr Hosts Datenbankserver ordnungsgemäß läuft und alle Tabellen fehlerfrei sind."
 
 #. translators: %s: Table name.
 #: wp-includes/ms-load.php:480
 msgid "<strong>Database tables are missing.</strong> This means that your host&#8217;s database server is not running, ClassicPress was not installed properly, or someone deleted %s. You really should look at your database now."
-msgstr ""
+msgstr "<strong>Datenbanktabellen fehlen.</strong> Dies bedeutet, dass Ihr Hosts Datenbankserver nicht läuft, ClassicPress nicht richtig installiert wurde oder jemand %sgelöscht hat. Sie sollten sich wirklich jetzt Ihre Datenbank anschauen."
 
 #. translators: 1: Site URL, 2: Table name, 3: Database name.
 #: wp-includes/ms-load.php:486
@@ -2453,84 +2490,84 @@ msgstr "Was mache ich jetzt?"
 #. translators: %s: Documentation URL.
 #: wp-includes/ms-load.php:495
 msgid "Read the <a href=\"%s\" target=\"_blank\">Debugging a ClassicPress Network</a> article. Some of the suggestions there may help you figure out what went wrong."
-msgstr ""
+msgstr "Lesen Sie den <a href=\"%s\" target=\"_blank\">Debuggen eines ClassicPress Network</a> Artikels. Einige der dort enthaltenen Vorschläge können Ihnen helfen, herauszufinden, was schief gelaufen ist."
 
 #: wp-includes/ms-load.php:496
 msgid "https://wordpress.org/documentation/article/debugging-a-wordpress-network/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-a-wordpress-network/"
 
 #: wp-includes/ms-load.php:498
 msgid "If you are still stuck with this message, then check that your database contains the following tables:"
-msgstr ""
+msgstr "Wenn Sie immer noch mit dieser Nachricht verhaftet sind, überprüfen Sie, ob Ihre Datenbank die folgenden Tabellen enthält:"
 
 #: wp-includes/ms-site.php:69
 msgid "Could not insert site into the database."
-msgstr ""
+msgstr "Konnte die Site nicht in die Datenbank einfügen."
 
 #: wp-includes/ms-site.php:79
 msgid "Could not retrieve site data."
-msgstr ""
+msgstr "Seitendaten konnten nicht abgerufen werden."
 
 #: wp-includes/ms-site.php:161
 #: wp-includes/ms-site.php:214
 #: wp-includes/ms-site.php:658
 #: wp-includes/ms-site.php:789
 msgid "Site ID must not be empty."
-msgstr ""
+msgstr "Site-ID darf nicht leer sein."
 
 #: wp-includes/ms-site.php:166
 #: wp-includes/ms-site.php:219
 msgid "Site does not exist."
-msgstr ""
+msgstr "Site existiert nicht."
 
 #: wp-includes/ms-site.php:180
 msgid "Could not update site in the database."
-msgstr ""
+msgstr "Konnte die Site in der Datenbank nicht aktualisieren."
 
 #: wp-includes/ms-site.php:269
 msgid "Could not delete site from the database."
-msgstr ""
+msgstr "Konnte die Site nicht aus der Datenbank löschen."
 
 #: wp-includes/ms-site.php:579
 msgid "Site domain must not be empty."
-msgstr ""
+msgstr "Site-Domain darf nicht leer sein."
 
 #: wp-includes/ms-site.php:584
 msgid "Site path must not be empty."
-msgstr ""
+msgstr "Seitenpfad darf nicht leer sein."
 
 #: wp-includes/ms-site.php:589
 msgid "Site network ID must be provided."
-msgstr ""
+msgstr "Website-Netzwerk-ID muss angegeben werden."
 
 #: wp-includes/ms-site.php:596
 msgid "Both registration and last updated dates must be provided."
-msgstr ""
+msgstr "Sowohl die Registrierung als auch die zuletzt aktualisierten Termine müssen angegeben werden."
 
 #: wp-includes/ms-site.php:607
 msgid "Both registration and last updated dates must be valid dates."
-msgstr ""
+msgstr "Sowohl die Registrierung als auch die zuletzt aktualisierten Daten müssen gültige Daten sein."
 
 #: wp-includes/ms-site.php:663
 #: wp-includes/ms-site.php:794
 msgid "Site with the ID does not exist."
-msgstr ""
+msgstr "Site mit der ID existiert nicht."
 
 #: wp-includes/ms-site.php:667
 msgid "The site appears to be already initialized."
-msgstr ""
+msgstr "Die Site scheint bereits initialisiert zu sein."
 
 #. translators: %d: Site ID.
 #: wp-includes/ms-site.php:680
 msgid "Site %d"
-msgstr ""
+msgstr "Site %d"
 
 #: wp-includes/ms-site.php:798
 msgid "The site appears to be already uninitialized."
-msgstr ""
+msgstr "Die Seite scheint bereits uninitialisiert zu sein."
 
 #. translators: %s: Database table name.
 #: wp-includes/ms-site.php:1319
 msgid "The %s table is not installed. Please run the network database upgrade."
-msgstr ""
+msgstr "Die %s Tabelle ist nicht installiert. Bitte führen Sie ein Upgrade der Netzwerkdatenbank durch."
 
