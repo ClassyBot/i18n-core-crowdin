@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-21 08:06\n"
+"PO-Revision-Date: 2024-05-25 02:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -209,7 +209,7 @@ msgstr "Benutzer anzeigen"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "Debugging aktiviert"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -235,7 +235,7 @@ msgstr "Neu"
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
 msgstr[0] "%s Kommentare warten auf Freischaltung"
-msgstr[1] ""
+msgstr[1] "%s Kommentare in Moderation"
 
 #: wp-includes/admin-bar.php:1008
 #: wp-includes/class-wp-customize-widgets.php:416
@@ -6282,7 +6282,7 @@ msgstr "&#8217;tain&#8217;t,&#8217;twas,&#8217;twas,&#8217;tis,&#8217;twill,&#82
 #: wp-includes/functions.php:562
 msgid "%s second"
 msgid_plural "%s seconds"
-msgstr[0] ""
+msgstr[0] "%s Sekunde"
 msgstr[1] "%s Sekunden"
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s: Number of minutes.
@@ -8957,7 +8957,7 @@ msgstr "Tabellenblätter verwalten"
 msgid "Spreadsheet <span class=\"count\">(%s)</span>"
 msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
 msgstr[0] "Tabellenblatt <span class=\"count\">(%s)</span>"
-msgstr[1] ""
+msgstr[1] "Tabellen <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2924
 msgctxt "file type group"
@@ -8973,7 +8973,7 @@ msgstr "Archive verwalten"
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
 msgstr[0] "Archiv <span class=\"count\">(%s)</span>"
-msgstr[1] ""
+msgstr[1] "Archiv <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:3706
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
@@ -9243,7 +9243,7 @@ msgstr[1] "%1$s darf höchstens %2$s Eigenschaften enthalten."
 msgid "%1$s must contain at least %2$s item."
 msgid_plural "%1$s must contain at least %2$s items."
 msgstr[0] "%1$s muss mindestens %2$s Eigenschaft enthalten."
-msgstr[1] ""
+msgstr[1] "%1$s muss mindestens %2$s Einträge enthalten."
 
 #. translators: 1: Parameter, 2: Number.
 #: wp-includes/rest-api.php:2395
