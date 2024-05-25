@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-09 15:15\n"
+"PO-Revision-Date: 2024-05-25 02:20\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -202,8 +202,8 @@ msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 #: wp-admin/about.php:209
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>Version %1$s</strong> behob Sicherheitsprobleme und %2$s Fehler."
+msgstr[1] "<strong>Version %1$s</strong> behob Sicherheitsprobleme und %2$s Fehler."
 
 #: wp-admin/about.php:239
 msgid "Maintenance Release"
@@ -263,7 +263,7 @@ msgstr "Danke für dein Vertrauen in <a href=\"%s\">ClassicPress</a>."
 #: wp-admin/admin-footer.php:38
 #: wp-admin/upgrade.php:69
 msgid "https://www.classicpress.net/"
-msgstr ""
+msgstr "https://www.classicpress.net/"
 
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
@@ -288,7 +288,7 @@ msgstr "%1$s &#8220;%2$s&#8221;"
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site name.
 #: wp-admin/admin-header.php:68
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
@@ -574,7 +574,7 @@ msgstr "Du kannst einen Kommentartext auch bearbeiten, um zum Beispiel einen Rec
 
 #: wp-admin/comment.php:65
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
-msgstr ""
+msgstr "Sie können den Kommentar von diesem Bildschirm aus auch über das Statusfeld moderieren, wo Sie auch den Zeitstempel des Kommentars ändern können."
 
 #: wp-admin/comment.php:70
 #: wp-admin/edit-comments.php:209
@@ -794,7 +794,7 @@ msgstr "E-Mail"
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:188
@@ -899,12 +899,12 @@ msgstr "Unbekannte Aktion."
 #. translators: %s: https://www.classicpress.net/contributors
 #: wp-admin/credits.php:54
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr ""
+msgstr "ClassicPress wird von einem <a href=\"%1$s\">weltweiten Team</a> aus leidenschaftlichen Personen erstellt."
 
 #. translators: %s: https://www.classicpress.net/get-involved
 #: wp-admin/credits.php:60
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "Sind Sie daran interessiert, bei der Entwicklung mitzuhelfen? <a href=\"%s\">Nehmen Sie an ClassicPress</a> teil."
 
 #: wp-admin/customize.php:17
 #: wp-admin/customize.php:34
@@ -1366,7 +1366,7 @@ msgstr "Mediendatei aktualisiert."
 
 #: wp-admin/edit-form-advanced.php:234
 msgid "You can't publish an empty post."
-msgstr ""
+msgstr "Sie können keinen leeren Beitrag veröffentlichen."
 
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:253
@@ -1628,7 +1628,7 @@ msgstr "Speichern"
 #: wp-admin/export.php:286
 #: wp-admin/includes/meta-boxes.php:104
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: wp-admin/edit-form-comment.php:117
 msgid "Approved"
@@ -2106,7 +2106,7 @@ msgstr "<strong>Papierkorb</strong> entfernt Ihren Beitrag aus dieser Liste und 
 
 #: wp-admin/edit.php:276
 msgid "<strong>Preview</strong> will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
-msgstr ""
+msgstr "<strong>Vorschau</strong> zeigt Ihnen, wie Ihr Beitragsentwurf aussieht, wenn Sie ihn veröffentlichen. Sehen Sie sich Ihre Live-Seite an, um den Beitrag anzusehen. Welcher Link verfügbar ist, hängt vom Status Ihres Beitrags&#8217;s ab."
 
 #: wp-admin/edit.php:283
 #: wp-admin/includes/class-wp-list-table.php:568
@@ -2231,89 +2231,89 @@ msgstr "Personenbezogene Daten löschen"
 
 #: wp-admin/erase-personal-data.php:25
 msgid "This screen is where you manage requests to erase personal data."
-msgstr ""
+msgstr "Auf diesem Bildschirm verwalten Sie Anfragen zum Löschen personenbezogener Daten."
 
 #: wp-admin/erase-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to delete, anonymize, or forget the data they collect about an individual. The rights those laws enshrine are sometimes called the \"Right to be Forgotten\"."
-msgstr ""
+msgstr "Datenschutzgesetze auf der ganzen Welt verlangen, dass Unternehmen und Online-Dienste die von ihnen erfassten Daten über eine Person löschen, anonymisieren oder vergessen. Die Rechte, die diese Gesetze verankert sind, werden manchmal als \"Recht auf Vergeudet\" bezeichnet."
 
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
 msgid "The tool associates data stored in ClassicPress with a supplied email address, including profile data and comments."
-msgstr ""
+msgstr "Das Tool verbindet in ClassicPress gespeicherte Daten mit einer angegebenen E-Mail-Adresse, einschließlich Profildaten und Kommentaren."
 
 #: wp-admin/erase-personal-data.php:28
 msgid "Note: As this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with erasure requests. For example, you are also responsible for ensuring that data collected by or stored with the 3rd party services your organization uses gets deleted."
-msgstr ""
+msgstr "Hinweis: Da dieses Tool nur Daten von ClassicPress und teilnehmenden Plugins sammelt, müssen Sie möglicherweise mehr tun, um Löschanfragen zu entsprechen. Sie sind zum Beispiel auch dafür verantwortlich, dass Daten, die von den Diensten von Drittanbietern erhoben oder gespeichert werden, die Ihre Organisation verwendet, gelöscht werden."
 
 #: wp-admin/erase-personal-data.php:35
 #: wp-admin/export-personal-data.php:35
 msgid "Default Data"
-msgstr ""
+msgstr "Standarddaten"
 
 #: wp-admin/erase-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from logged-in users but then deletes it or anonymizes it. That data can include: "
-msgstr ""
+msgstr "ClassicPress sammelt (aber <em>nie</em> veröffentlicht) eine begrenzte Anzahl von Daten von angemeldeten Benutzern, löscht sie aber oder anonymisiert sie. Diese Daten können beinhalten: "
 
 #: wp-admin/erase-personal-data.php:38
 #: wp-admin/export-personal-data.php:38
 msgid "<strong>Profile Information</strong> &mdash; user email address, username, display name, nickname, first name, last name, description/bio, and registration date."
-msgstr ""
+msgstr "<strong>Profilinformationen</strong> &mdash; Benutzer-E-Mail-Adresse, Benutzername, Anzeigenname, Vorname, Nachname, Beschreibung/Bio und Registrierungsdatum."
 
 #: wp-admin/erase-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user which is used for the Upcoming Community Events shown in the dashboard widget."
-msgstr ""
+msgstr "<strong>Ort für Community-Events</strong> &mdash; Die IP-Adresse des Benutzers, die für kommende Community-Ereignisse im Dashboard-Widget verwendet wird."
 
 #: wp-admin/erase-personal-data.php:40
 #: wp-admin/export-personal-data.php:40
 msgid "<strong>Session Tokens</strong> &mdash; User login information, IP Addresses, Expiration Date, User Agent (Browser/OS), and Last Login."
-msgstr ""
+msgstr "<strong>Session-Token</strong> &mdash; Login-Informationen, IP-Adressen, Ablaufdatum, User Agent (Browser/OS) und Letzter Login."
 
 #: wp-admin/erase-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; ClassicPress does not delete comments. The software does anonymize (but, again, <em>never</em> publishes) the associated Email Address, IP Address, and User Agent (Browser/OS)."
-msgstr ""
+msgstr "<strong>Kommentare</strong> &mdash; ClassicPress entfernt keine Kommentare. Die Software anonymisiert die zugehörige E-Mail-Adresse, IP-Adresse und User Agent (Browser/OS) (aber auch <em>nie</em> veröffentlicht)."
 
 #: wp-admin/erase-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for all media file uploads made by the user."
-msgstr ""
+msgstr "<strong>Medien</strong> &mdash; Eine Liste von URLs für alle Uploads von Mediendateien."
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/erase-personal-data.php:48
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Eraser tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "Wenn du dir nicht sicher bist Überprüfen Sie die Plugin-Dokumentation oder wenden Sie sich an den Plugin-Autor, um zu sehen, ob das Plugin Daten sammelt und ob es das Data Eraser-Werkzeug unterstützt. Diese Informationen können im <a href=\"%s\">Privacy Policy Guide</a> eingesehen werden."
 
 #: wp-admin/erase-personal-data.php:55
 #: wp-admin/export-personal-data.php:55
 msgid "Plugin Data"
-msgstr ""
+msgstr "Plugin-Daten"
 
 #: wp-admin/erase-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Erase Personal Data request should delete data from plugins as well."
-msgstr ""
+msgstr "Viele Plugins können persönliche Daten entweder in der ClassicPress-Datenbank oder aus der Ferne sammeln oder speichern. Jede Löschanfrage von Persönlichen Daten sollte auch Daten aus Plugins löschen."
 
 #: wp-admin/erase-personal-data.php:58
 msgid "If you are a plugin author, you can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "Wenn Sie ein Plugin-Autor sind, Sie können <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">mehr darüber erfahren, wie Sie Unterstützung für den Personal Data Eraser einem Plugin hier</a> hinzufügen können."
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Dokumentation zum Löschen personenbezogener Daten</a>"
 
 #: wp-admin/erase-personal-data.php:94
 msgid "Filter erase personal data list"
-msgstr ""
+msgstr "Liste der persönliche Datenliste filtern"
 
 #: wp-admin/erase-personal-data.php:95
 msgid "Erase personal data list navigation"
-msgstr ""
+msgstr "Navigation der persönlichen Datenliste löschen"
 
 #: wp-admin/erase-personal-data.php:96
 msgid "Erase personal data list"
-msgstr ""
+msgstr "Liste persönlicher Daten löschen"
 
 #: wp-admin/erase-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by deleting or anonymizing known data for a given user."
-msgstr ""
+msgstr "Dieses Tool hilft Website-Eigentümern bei der Einhaltung lokaler Gesetze und Vorschriften, indem bekannte Daten für einen bestimmten Benutzer gelöscht oder anonymisiert werden."
 
 #: wp-admin/erase-personal-data.php:114
 msgid "Add Data Erasure Request"
@@ -2327,11 +2327,11 @@ msgstr "Benutzername oder E-Mail-Adresse"
 #: wp-admin/erase-personal-data.php:127
 #: wp-admin/export-personal-data.php:127
 msgid "Confirmation email"
-msgstr ""
+msgstr "Bestätigungs-E-Mail"
 
 #: wp-admin/erase-personal-data.php:132
 msgid "Send personal data erasure confirmation email."
-msgstr ""
+msgstr "Bestätigungsmail für die Löschung von persönlichen Daten senden."
 
 #: wp-admin/erase-personal-data.php:138
 #: wp-admin/export-personal-data.php:138
@@ -2355,64 +2355,64 @@ msgstr "Personenbezogene Daten exportieren"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
-msgstr ""
+msgstr "Auf diesem Bildschirm verwalten Sie Anfragen für den Export personenbezogener Daten."
 
 #: wp-admin/export-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to provide an export of some of the data they collect about an individual, and to deliver that export on request. The rights those laws enshrine are sometimes called the \"Right of Data Portability\". It allows individuals to obtain and reuse their personal data for their own purposes across different services. It allows them to move, copy or transfer personal data easily from one IT environment to another."
-msgstr ""
+msgstr "Datenschutzgesetze auf der ganzen Welt verlangen, dass Unternehmen und Online-Dienste einen Export einiger der von ihnen erfassten Daten über eine Einzelperson, und den Export auf Anfrage zu liefern. Die Rechte, die diese Gesetze verankert sind, werden manchmal als \"Recht auf Datenportabilität\" bezeichnet. Es erlaubt es Einzelpersonen, ihre persönlichen Daten für ihre eigenen Zwecke über verschiedene Dienstleistungen zu erhalten und wiederzuverwenden. Sie können personenbezogene Daten leicht von einer IT-Umgebung in eine andere verschieben, kopieren oder übertragen."
 
 #: wp-admin/export-personal-data.php:28
 msgid "Note: Since this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with export requests. For example, you should also send the requester some of the data collected from or stored with the 3rd party services your organization uses."
-msgstr ""
+msgstr "Hinweis: Da dieses Tool nur Daten von ClassicPress und teilnehmenden Plugins sammelt, müssen Sie möglicherweise mehr tun, um Exportanfragen zu erfüllen. Zum Beispiel sollten Sie dem Antragsteller auch einige der von Ihnen erfassten oder gespeicherten Daten von Drittanbietern übermitteln, die Sie nutzen."
 
 #: wp-admin/export-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from registered users who have logged in to the site. Generally, these users are people who contribute to the site in some way -- content, store management, and so on. With rare exceptions, these users do not include occasional visitors who might have registered to comment on articles or buy products. The data ClassicPress retains can include:"
-msgstr ""
+msgstr "ClassicPress sammelt (aber <em>nie</em> veröffentlicht) eine begrenzte Anzahl von Daten von registrierten Benutzern, die sich auf der Seite angemeldet haben. Im Allgemeinen sind diese Benutzer Leute, die in irgendeiner Weise zur Website beitragen -- Inhalte, Speicherverwaltung usw. Mit seltenen Ausnahmen schließen diese Benutzer keine gelegentlichen Besucher ein, die sich möglicherweise registriert haben, um Artikel zu kommentieren oder Produkte zu kaufen. Die Daten von ClassicPress können beinhalten:"
 
 #: wp-admin/export-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user, which populates the Upcoming Community Events dashboard widget with relevant information."
-msgstr ""
+msgstr "<strong>Ort für Community-Events</strong> &mdash; Die IP-Adresse des Benutzers, die für kommende Community-Ereignisse im Dashboard-Widget verwendet wird."
 
 #: wp-admin/export-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; For user comments, Email Address, IP Address, User Agent (Browser/OS), Date/Time, Comment Content, and Content URL."
-msgstr ""
+msgstr "<strong>Kommentare</strong> &mdash; Für Benutzerkommentare, E-Mail-Adresse, IP-Adresse, User-Agent (Browser/OS), Datum/Zeit, Kommentar-Inhalt und Content-URL."
 
 #: wp-admin/export-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for media files the user uploads."
-msgstr ""
+msgstr "<strong>Medien</strong> &mdash; Eine Liste von URLs für Mediendateien, die der Benutzer hochlädt."
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/export-personal-data.php:48
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Exporter tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "Wenn du dir nicht sicher bist Überprüfen Sie die Plugin-Dokumentation oder wenden Sie sich an den Plugin-Autor, um zu sehen, ob das Plugin Daten sammelt und ob es das Data Exporter-Werkzeug unterstützt. Diese Informationen können im <a href=\"%s\">Privacy Policy Guide</a> eingesehen werden."
 
 #: wp-admin/export-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Export Personal Data request should include data from plugins as well."
-msgstr ""
+msgstr "Viele Plugins können persönliche Daten entweder in der ClassicPress-Datenbank oder aus der Ferne sammeln oder speichern. Jede Anfrage zum Export persönlicher Daten sollte auch Daten aus Plugins enthalten."
 
 #: wp-admin/export-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">learn more about how to add the Personal Data Exporter to a plugin here</a>."
-msgstr ""
+msgstr "Plugin-Autoren können <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">mehr darüber erfahren, wie Sie den Personal Data Exporter zu einem Plugin hier</a> hinzufügen können."
 
 #: wp-admin/export-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-export-personal-data-screen/\">Documentation on Export Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-export-personal-data-screen/\">Dokumentation zum Export persönlicher Daten</a>"
 
 #: wp-admin/export-personal-data.php:94
 msgid "Filter export personal data list"
-msgstr ""
+msgstr "Liste der persönliche Datenliste filtern"
 
 #: wp-admin/export-personal-data.php:95
 msgid "Export personal data list navigation"
-msgstr ""
+msgstr "Navigation der persönlichen Datenliste exportieren"
 
 #: wp-admin/export-personal-data.php:96
 msgid "Export personal data list"
-msgstr ""
+msgstr "Liste persönlicher Daten exportieren"
 
 #: wp-admin/export-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by exporting known data for a given user in a .zip file."
-msgstr ""
+msgstr "Dieses Tool hilft Website-Eigentümern bei der Einhaltung lokaler Gesetze und Vorschriften, indem es bekannte Daten für einen bestimmten Benutzer in einer .zip-Datei exportiert."
 
 #: wp-admin/export-personal-data.php:114
 msgid "Add Data Export Request"
@@ -2420,7 +2420,7 @@ msgstr "Antrag für einen Datenexport hinzufügen"
 
 #: wp-admin/export-personal-data.php:132
 msgid "Send personal data export confirmation email."
-msgstr ""
+msgstr "Bestätigungsmail für den Export von persönlichen Daten senden."
 
 #: wp-admin/export.php:13
 msgid "Sorry, you are not allowed to export the content of this site."
@@ -2441,7 +2441,7 @@ msgstr "Die generierte WXR-Datei kann in eine beliebige andere ClassicPress-Inst
 
 #: wp-admin/export.php:59
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-export-screen/\">Documentation on Export</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-export-screen/\">Dokumentation zum Export</a>"
 
 #: wp-admin/export.php:173
 msgid "When you click the button below ClassicPress will create an XML file for you to save to your computer."
@@ -2449,7 +2449,7 @@ msgstr "Wenn du unten auf Export-Datei herunterladen klickst, wird ClassicPress 
 
 #: wp-admin/export.php:174
 msgid "This format, which is called ClassicPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr ""
+msgstr "Dieses Format, das ClassicPress eXtended RSS oder WXR genannt wird, enthält Ihre Beiträge, Seiten, Kommentare, benutzerdefinierte Felder, Kategorien und Tags."
 
 #: wp-admin/export.php:175
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another ClassicPress installation to import the content from this site."
@@ -2551,48 +2551,48 @@ msgstr "Export-Datei herunterladen"
 
 #: wp-admin/freedoms.php:66
 msgid "From time to time, your ClassicPress site may send anonymous data to ClassicPress.net. Some examples of the kinds of data that may be sent are the version of ClassicPress your site is running and a list of installed plugins and themes."
-msgstr ""
+msgstr "Von Zeit zu Zeit kann Ihre ClassicPress-Website anonyme Daten an ClassicPress.net senden. Einige Beispiele für die Art der Daten, die gesendet werden können, sind die Version von ClassicPress Ihre Website läuft und eine Liste der installierten Plugins und Themes."
 
 #: wp-admin/freedoms.php:68
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, how we use it, and what precautions we take to ensure site owners&#8217; privacy, please see the <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr ""
+msgstr "Wir nehmen den Datenschutz und die Transparenz sehr ernst. Um mehr darüber zu erfahren, welche Daten wir sammeln, wie wir sie verwenden und welche Vorkehrungen wir treffen, um die Privatsphäre der Site-Eigentümer zu gewährleisten lesen Sie bitte die <a href=\"%s\">ClassicPress Datenschutzerklärung</a>."
 
 #: wp-admin/freedoms.php:73
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPress ist Freie und Open-Source-Software, die von einer verteilten Gemeinschaft von freiwilligen Entwicklern aus der ganzen Welt entwickelt wurde. ClassicPress verfügt über einige fantastische Weltanschauungsrechte mit der <a href=\"%s\">-Lizenz</a>, der GPL."
 
 #: wp-admin/freedoms.php:76
 msgid "You have the freedom to run the program, for any purpose. (freedom 0)"
-msgstr ""
+msgstr "Sie haben die Freiheit, das Programm für jeden Zweck auszuführen. (Freiheit 0)"
 
 #: wp-admin/freedoms.php:77
 msgid "You have access to the source code, the freedom to study how the program works, and the freedom to change it to make it do what you wish. (freedom 1)"
-msgstr ""
+msgstr "Sie haben Zugriff auf den Quellcode, die Freiheit zu untersuchen, wie das Programm funktioniert und die Freiheit, es zu ändern, damit es tun, was Sie wollen. (Freiheit 1)"
 
 #: wp-admin/freedoms.php:78
 msgid "You have the freedom to redistribute copies of the original program so you can help your neighbor. (freedom 2)"
-msgstr ""
+msgstr "Du hast die Freiheit, Kopien des ursprünglichen Programms weiterzuverteilen, damit du deinem Nachbarn helfen kannst. (Freiheit 2)"
 
 #: wp-admin/freedoms.php:79
 msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. (freedom 3)"
-msgstr ""
+msgstr "Sie haben die Freiheit, Kopien Ihrer modifizierten Versionen an andere weiterzugeben. Auf diese Weise können Sie der gesamten Community die Chance geben, von Ihren Änderungen zu profitieren. (Freiheit 3)"
 
 #: wp-admin/freedoms.php:85
 #: wp-admin/includes/plugin-install.php:731
 #: wp-admin/plugin-install.php:98
 #: wp-admin/plugins.php:550
 msgid "https://wordpress.org/plugins/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/"
 
 #: wp-admin/freedoms.php:86
 #: wp-admin/theme-install.php:111
 #: wp-admin/themes.php:157
 msgid "https://wordpress.org/themes/"
-msgstr ""
+msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:89
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr ""
+msgstr "Jedes Plugin und Theme im Verzeichnis von ClassicPress.net ist 100%% GPL oder eine ähnlich freie und kompatible Lizenz, damit Sie sicher <a href=\"%1$s\">Plugins</a> und <a href=\"%2$s\">Themen</a> finden können. Wenn Sie ein Plugin oder Theme von einer anderen Quelle erhalten, stellen Sie sicher, dass Sie sie zuerst fragen, ob es <a href=\"%3$s\">GPL</a> ist. Wenn sie nicht die ClassicPress Lizenz respektieren, empfehlen wir ihnen nicht."
 
 #: wp-admin/freedoms.php:93
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -2608,11 +2608,11 @@ msgstr "In vorherigen Versionen von ClassicPress waren alle Importer fest eingeb
 
 #: wp-admin/import.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-import-screen/\">Documentation on Import</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-import-screen/\">Dokumentation beim Import</a>"
 
 #: wp-admin/import.php:33
 msgid "<a href=\"https://wordpress.org/support/forums\">Support</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/forums\">Unterstützung</a>"
 
 #: wp-admin/import.php:65
 #: wp-admin/includes/network.php:116
@@ -2690,7 +2690,7 @@ msgstr "Weitere Informationen über %s"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
 msgid "Details"
-msgstr ""
+msgstr "Daten"
 
 #. translators: %s: URL to Add Plugins screen.
 #: wp-admin/import.php:228
@@ -2705,13 +2705,13 @@ msgstr "Falls der von dir benötigte Importer hier nicht gelistet ist, <a href=\
 #: wp-admin/js/tags-box.js:9
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: User login, 2: User email address.
 #: wp-admin/includes/ajax-actions.php:336
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -2730,8 +2730,8 @@ msgstr[1] "%s Kommentare"
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Kommentar in Moderation"
+msgstr[1] "%s Kommentare in Moderation"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -2761,7 +2761,7 @@ msgstr "Ein Fehler ist aufgetreten. Bitte lade die Seite neu und versuche es noc
 
 #: wp-admin/includes/ajax-actions.php:1255
 msgid "You cannot reply to a comment on a draft post."
-msgstr ""
+msgstr "Sie können auf einen Kommentar zu einem Beitragsentwurf nicht antworten."
 
 #: wp-admin/includes/ajax-actions.php:1279
 msgid "Sorry, you must be logged in to reply to a comment."
@@ -2770,11 +2770,11 @@ msgstr "Um auf einen Kommentar zu antworten, musst du angemeldet sein."
 #: wp-admin/includes/ajax-actions.php:1285
 #: wp-admin/includes/ajax-actions.php:1402
 msgid "Please type your comment text."
-msgstr ""
+msgstr "Bitte geben Sie Ihren Kommentartext ein."
 
 #: wp-admin/includes/ajax-actions.php:1502
 msgid "Menu Item"
-msgstr ""
+msgstr "Menüpunkt"
 
 #. translators: 1: Post creation date, 2: Post creation time.
 #: wp-admin/includes/ajax-actions.php:1559
@@ -2903,7 +2903,7 @@ msgstr "Entwurf"
 
 #: wp-admin/includes/ajax-actions.php:2430
 msgid "Upload failed. Please reload and try again."
-msgstr ""
+msgstr "Upload fehlgeschlagen. Bitte neu laden und erneut versuchen."
 
 #: wp-admin/includes/ajax-actions.php:2466
 msgid "Upload failed."
@@ -3064,7 +3064,7 @@ msgstr "Ungültige Anfrage-ID."
 #: wp-admin/includes/ajax-actions.php:4835
 #: wp-admin/includes/ajax-actions.php:5026
 msgid "Sorry, you are not allowed to perform this action."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, diese Aktion durchzuführen."
 
 #: wp-admin/includes/ajax-actions.php:4844
 #: wp-admin/includes/ajax-actions.php:5035
@@ -3094,7 +3094,7 @@ msgstr "Index der Funktion zum Datenexport kann nicht negativ sein."
 
 #: wp-admin/includes/ajax-actions.php:4898
 msgid "Exporter index is out of range."
-msgstr ""
+msgstr "Export-Index ist außerhalb des Bereichs."
 
 #: wp-admin/includes/ajax-actions.php:4902
 #: wp-admin/includes/ajax-actions.php:5090
@@ -3170,12 +3170,12 @@ msgstr "Der Funktion zur Datenlöschung im Index %d des Arrays fehlt ein Anzeige
 #. translators: %s: Eraser friendly name.
 #: wp-admin/includes/ajax-actions.php:5113
 msgid "Eraser does not include a callback: %s."
-msgstr ""
+msgstr "Radierer enthält keinen Callback: %s."
 
 #. translators: %s: Eraser friendly name.
 #: wp-admin/includes/ajax-actions.php:5123
 msgid "Eraser callback is not valid: %s."
-msgstr ""
+msgstr "Rückruf des Radierers ist ungültig: %s."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5140
@@ -3213,36 +3213,36 @@ msgstr "Erwartetes done flag in Antwort-Array der Funktion zur Datenlöschung %1
 #: wp-admin/includes/ajax-actions.php:5314
 #: wp-admin/includes/ajax-actions.php:5364
 msgid "The Site Health check for %1$s has been replaced with %2$s."
-msgstr ""
+msgstr "Der Site-Gesundheitscheck für %1$s wurde durch %2$s ersetzt."
 
 #: wp-admin/includes/ajax-actions.php:5436
 msgid "Invalid data. No selected item."
-msgstr ""
+msgstr "Ungültige Daten. Kein ausgewähltes Element."
 
 #: wp-admin/includes/ajax-actions.php:5442
 msgid "Invalid data. Unknown state."
-msgstr ""
+msgstr "Ungültige Daten. Unbekannter Zustand."
 
 #: wp-admin/includes/ajax-actions.php:5447
 #: wp-admin/includes/ajax-actions.php:5472
 msgid "Invalid data. Unknown type."
-msgstr ""
+msgstr "Ungültige Daten. Unbekannter Typ."
 
 #: wp-admin/includes/ajax-actions.php:5454
 msgid "Sorry, you are not allowed to modify plugins."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt Plugins zu ändern."
 
 #: wp-admin/includes/ajax-actions.php:5464
 msgid "Sorry, you are not allowed to modify themes."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Themes zu ändern."
 
 #: wp-admin/includes/ajax-actions.php:5476
 msgid "Invalid data. The item does not exist."
-msgstr ""
+msgstr "Ungültige Daten. Das Element existiert nicht."
 
 #: wp-admin/includes/ajax-actions.php:5510
 msgid "Cannot send password reset, permission denied."
-msgstr ""
+msgstr "Kann Passwort zurücksetzen nicht senden. Berechtigung verweigert."
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:5520
@@ -4103,7 +4103,7 @@ msgstr ""
 
 #: wp-admin/includes/class-plugin-upgrader.php:98
 msgid "Plugin downgraded successfully."
-msgstr ""
+msgstr "Plugin erfolgreich heruntergestuft."
 
 #: wp-admin/includes/class-plugin-upgrader.php:440
 msgid "No valid plugins were found."
@@ -4164,20 +4164,20 @@ msgstr "Netzwerkweit freischalten"
 
 #: wp-admin/includes/class-theme-installer-skin.php:158
 msgid "Go to Theme Installer"
-msgstr ""
+msgstr "Zum Theme-Installer gehen"
 
 #: wp-admin/includes/class-theme-installer-skin.php:224
 msgid "This theme is already installed."
-msgstr ""
+msgstr "Dieses Theme ist bereits installiert."
 
 #: wp-admin/includes/class-theme-installer-skin.php:239
 msgid "Theme name"
-msgstr ""
+msgstr "Theme-Name"
 
 #: wp-admin/includes/class-theme-installer-skin.php:244
 #: wp-admin/includes/class-wp-debug-data.php:1109
 msgid "Parent theme"
-msgstr ""
+msgstr "Übergeordnetes Theme"
 
 #: wp-admin/includes/class-theme-installer-skin.php:248
 msgctxt "theme"
@@ -4187,27 +4187,27 @@ msgstr "Aktiv"
 #: wp-admin/includes/class-theme-installer-skin.php:248
 msgctxt "theme"
 msgid "Uploaded"
-msgstr ""
+msgstr "Hochgeladen"
 
 #: wp-admin/includes/class-theme-installer-skin.php:270
 msgid "(not found)"
-msgstr ""
+msgstr "(nicht gefunden)"
 
 #: wp-admin/includes/class-theme-installer-skin.php:294
 msgid "The theme cannot be updated due to the following:"
-msgstr ""
+msgstr "Das Theme kann wegen folgendem nicht aktualisiert werden:"
 
 #. translators: 1: Current PHP version, 2: Version required by the uploaded theme.
 #: wp-admin/includes/class-theme-installer-skin.php:303
 #: wp-admin/includes/class-theme-upgrader.php:608
 msgid "The PHP version on your server is %1$s, however the uploaded theme requires %2$s."
-msgstr ""
+msgstr "Die PHP-Version auf Ihrem Server ist %1$s, aber das hochgeladene Theme benötigt %2$s."
 
 #. translators: 1: Current WordPress version, 2: Version required by the uploaded theme.
 #: wp-admin/includes/class-theme-installer-skin.php:315
 #: wp-admin/includes/class-theme-upgrader.php:618
 msgid "Your ClassicPress version is %1$s, however the uploaded theme requires %2$s."
-msgstr ""
+msgstr "Ihre ClassicPress-Version ist %1$s, aber das hochgeladene Theme benötigt %2$s."
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-theme-installer-skin.php:330
@@ -4222,7 +4222,7 @@ msgstr ""
 #: wp-admin/includes/class-theme-installer-skin.php:348
 msgctxt "theme"
 msgid "Replace active with uploaded"
-msgstr ""
+msgstr "Ersetze aktiv mit hochgeladen"
 
 #: wp-admin/includes/class-theme-upgrader-skin.php:44
 #: wp-admin/update.php:243
@@ -4301,23 +4301,23 @@ msgstr "<strong>Das Eltern-Theme konnte nicht gefunden werden.</strong> Du musst
 #. translators: %s: Theme error.
 #: wp-admin/includes/class-theme-upgrader.php:95
 msgid "The active theme has the following error: \"%s\"."
-msgstr ""
+msgstr "Das aktive Theme hat den folgenden Fehler: \"%s\"."
 
 #: wp-admin/includes/class-theme-upgrader.php:99
 msgid "Updating the theme&#8230;"
-msgstr ""
+msgstr "Aktualisieren des Themes&#8230;"
 
 #: wp-admin/includes/class-theme-upgrader.php:105
 msgid "Downgrading the theme&#8230;"
-msgstr ""
+msgstr "Herabstufung des Themes&#8230;"
 
 #: wp-admin/includes/class-theme-upgrader.php:106
 msgid "Theme downgrade failed."
-msgstr ""
+msgstr "Theme-Downgrade fehlgeschlagen."
 
 #: wp-admin/includes/class-theme-upgrader.php:107
 msgid "Theme downgraded successfully."
-msgstr ""
+msgstr "Theme erfolgreich heruntergestuft."
 
 #. translators: %s: style.css
 #: wp-admin/includes/class-theme-upgrader.php:538
@@ -4327,12 +4327,12 @@ msgstr "Dem Theme fehlt das Stylesheet %s."
 #. translators: %s: style.css
 #: wp-admin/includes/class-theme-upgrader.php:564
 msgid "The %s stylesheet does not contain a valid theme header."
-msgstr ""
+msgstr "Das %s Stylesheet enthält keinen gültigen Theme-Header."
 
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-admin/includes/class-theme-upgrader.php:586
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "Vorlage fehlt. Einzelne Themes müssen eine Vorlagen-Datei %1$s oder %2$s haben. <a href=\"%3$s\">Kinderthemen</a> müssen einen %4$s -Header im %5$s -Stylesheet haben."
 
 #: wp-admin/includes/class-theme-upgrader.php:589
 #: wp-admin/includes/class-wp-themes-list-table.php:285
@@ -4340,13 +4340,13 @@ msgstr ""
 #: wp-admin/theme-editor.php:376
 #: wp-admin/update-core.php:504
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
-msgstr ""
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
 
 #: wp-admin/includes/class-theme-upgrader.php:601
 #: wp-admin/theme-install.php:319
 #: wp-admin/theme-install.php:524
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSE Themes funktionieren nicht mit ClassicPress."
 
 #. translators: %s: Title of an invalid menu item.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:108
@@ -4376,7 +4376,7 @@ msgstr "Nach unten"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:183
 msgid "Move menu item"
-msgstr ""
+msgstr "Menüpunkt verschieben"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:185
@@ -4403,7 +4403,7 @@ msgstr "CSS-Klassen (optional)"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:234
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "Die Beschreibung wird im Menü angezeigt, wenn das aktive Theme es unterstützt."
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:255
 msgid "Up one"
@@ -4430,35 +4430,35 @@ msgstr "Entfernen"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:29
 msgid "Created"
-msgstr ""
+msgstr "Erstellt"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:30
 msgid "Last Used"
-msgstr ""
+msgstr "Zuletzt verwendet"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:31
 msgid "Last IP"
-msgstr ""
+msgstr "Letzte IP"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:32
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:118
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:238
 msgid "Revoke"
-msgstr ""
+msgstr "Widerrufen"
 
 #. translators: %s: the application password's given name.
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:117
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:237
 msgid "Revoke \"%s\""
-msgstr ""
+msgstr "Widerrufen \"%s\""
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:156
 msgid "Revoke all application passwords"
-msgstr ""
+msgstr "Alle Anwendungspasswörter widerrufen"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:225
 msgid "Just now"
-msgstr ""
+msgstr "Gerade jetzt"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:258
@@ -4472,7 +4472,7 @@ msgstr "Mehr Details anzeigen"
 #. translators: %s: The "$dir" argument.
 #: wp-admin/includes/class-wp-automatic-updater.php:81
 msgid "The \"%s\" argument must be a non-empty string."
-msgstr ""
+msgstr "Das \"%s\" Argument muss ein nicht-leerer String sein."
 
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:405
@@ -4511,11 +4511,11 @@ msgstr "Konnte nicht auf das Dateisystem zugreifen."
 #: wp-admin/js/updates.js:826
 #: wp-admin/js/updates.js:1495
 msgid "Installation failed."
-msgstr ""
+msgstr "Installation fehlgeschlagen."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:481
 msgid "ClassicPress updated successfully."
-msgstr ""
+msgstr "ClassicPress erfolgreich aktualisiert."
 
 #. translators: Site updated notification email subject. 1: Site title, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:769
@@ -4535,7 +4535,7 @@ msgstr "[%1$s] DRINGEND: Deine Website ist möglicherweise wegen einer fehlerhaf
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:797
 msgid "Howdy! Your site at %1$s has been updated automatically to ClassicPress %2$s."
-msgstr ""
+msgstr "Howdy! Ihre Seite bei %1$s wurde automatisch auf ClassicPress %2$s aktualisiert."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:803
 msgid "No further action is needed on your part."
@@ -4563,7 +4563,7 @@ msgstr "Bitte aktualisiere deine Website unter %1$s auf ClassicPress %2$s."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:835
 msgid "An attempt was made, but your site could not be updated automatically."
-msgstr ""
+msgstr "Es wurde ein Versuch unternommen, aber Ihre Website konnte nicht automatisch aktualisiert werden."
 
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:846
@@ -4601,7 +4601,7 @@ msgstr "Wenn du irgendwelche Fehler feststellst oder Unterstützung benötigst, 
 #: wp-admin/includes/translation-install.php:97
 #: wp-admin/theme-install.php:65
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:882
 #: wp-admin/update-core.php:840
@@ -4610,7 +4610,7 @@ msgstr "Für die Sicherheit deiner Website ist es wichtig, sie auf dem neuesten 
 
 #: wp-admin/includes/class-wp-automatic-updater.php:886
 msgid "Reach out to ClassicPress Core developers to ensure you'll never have this problem again."
-msgstr ""
+msgstr "Kontaktieren Sie ClassicPress Core-Entwickler, um sicherzustellen, dass Sie nie wieder dieses Problem haben."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:891
 msgid "You also have some plugins or themes with updates available. Update them now:"
