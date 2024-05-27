@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-25 02:20\n"
+"PO-Revision-Date: 2024-05-27 15:32\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -3247,7 +3247,7 @@ msgstr "Kann Passwort zurücksetzen nicht senden. Berechtigung verweigert."
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:5520
 msgid "A password reset link was emailed to %s."
-msgstr ""
+msgstr "Ein Link zum Zurücksetzen des Passworts wurde an %s gesendet."
 
 #: wp-admin/includes/bookmark.php:32
 #: wp-admin/includes/bookmark.php:379
@@ -3258,21 +3258,21 @@ msgstr "Du bist leider nicht berechtigt, die Links dieser Website zu bearbeiten.
 
 #: wp-admin/includes/bookmark.php:228
 msgid "Could not update link in the database."
-msgstr ""
+msgstr "Konnte Link in der Datenbank nicht aktualisieren."
 
 #: wp-admin/includes/bookmark.php:236
 msgid "Could not insert link into the database."
-msgstr ""
+msgstr "Konnte Link nicht in die Datenbank einfügen."
 
 #. translators: %s: A link to install the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:356
 msgid "If you are looking to use the link manager, please install the <a href=\"%s\">Link Manager plugin</a>."
-msgstr ""
+msgstr "Wenn Sie den Link-Manager verwenden möchten, installieren Sie bitte das <a href=\"%s\">Link Manager Plugin</a>."
 
 #. translators: %s: A link to activate the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:371
 msgid "Please activate the <a href=\"%s\">Link Manager plugin</a> to use the link manager."
-msgstr ""
+msgstr "Bitte aktivieren Sie das <a href=\"%s\">Link Manager Plugin</a> um den Link-Manager zu verwenden."
 
 #. translators: 1: Plugin name, 2: Number of the plugin, 3: Total number of plugins being updated.
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:33
@@ -3283,13 +3283,13 @@ msgstr "Aktualisierung des Plugins %1$s (%2$d von %3$d)"
 #: wp-admin/includes/class-plugin-installer-skin.php:151
 #: wp-admin/includes/class-plugin-upgrader-skin.php:101
 msgid "Go to Plugins page"
-msgstr ""
+msgstr "Zur Plugin-Seite gehen"
 
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:65
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:66
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:80
 msgid "Go to ClassicPress Updates page"
-msgstr ""
+msgstr "Zur ClassicPress Updates Seite gehen"
 
 #. translators: 1: Theme name, 2: Number of the theme, 3: Total number of themes being updated.
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:34
@@ -3300,7 +3300,7 @@ msgstr "Aktualisierung des Themes %1$s (%2$d von %3$d)"
 #: wp-admin/includes/class-theme-installer-skin.php:164
 #: wp-admin/includes/class-theme-upgrader-skin.php:127
 msgid "Go to Themes page"
-msgstr ""
+msgstr "Zur Themeseite gehen"
 
 #: wp-admin/includes/class-bulk-upgrader-skin.php:41
 msgid "The update process is starting. This process may take a while on some hosts, so please be patient."
@@ -3314,12 +3314,12 @@ msgstr "Beim Aktualisieren von %1$s ist ein Fehler aufgetreten: %2$s"
 #. translators: %s: Title of an update.
 #: wp-admin/includes/class-bulk-upgrader-skin.php:45
 msgid "The update of %s failed."
-msgstr ""
+msgstr "Die Aktualisierung von %s ist fehlgeschlagen."
 
 #. translators: %s: Title of an update.
 #: wp-admin/includes/class-bulk-upgrader-skin.php:47
 msgid "%s updated successfully."
-msgstr ""
+msgstr "%s erfolgreich aktualisiert."
 
 #: wp-admin/includes/class-bulk-upgrader-skin.php:48
 msgid "All updates have been completed."
@@ -3335,7 +3335,7 @@ msgstr "ClassicPress ist auf dem neuesten Stand."
 
 #: wp-admin/includes/class-core-upgrader.php:30
 msgid "Another update is currently in progress."
-msgstr ""
+msgstr "Eine weitere Aktualisierung ist im Gange."
 
 #: wp-admin/includes/class-core-upgrader.php:31
 #: wp-admin/includes/class-language-pack-upgrader.php:115
@@ -3380,7 +3380,7 @@ msgstr "Aufgrund eines Fehlers während der Aktualisierung hat ClassicPress die 
 #: wp-admin/includes/class-wp-upgrader.php:166
 #: wp-admin/includes/update-core.php:313
 msgid "The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions."
-msgstr ""
+msgstr "Das Update kann nicht installiert werden, da einige Dateien nicht kopiert werden konnten. Dies liegt in der Regel an inkonsistenten Dateirechten."
 
 #: wp-admin/includes/class-custom-background.php:66
 #: wp-admin/menu.php:220
@@ -3401,7 +3401,7 @@ msgstr "Du kannst auch eine Hintergrundfarbe auswählen, indem du auf den Button
 
 #: wp-admin/includes/class-custom-background.php:94
 msgid "Do not forget to click on the Save Changes button when you are finished."
-msgstr ""
+msgstr "Vergessen Sie nicht, auf den Knopf Änderungen speichern zu klicken, wenn Sie fertig sind."
 
 #: wp-admin/includes/class-custom-background.php:100
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
@@ -3410,7 +3410,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Dok
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:868
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support-Foren</a>"
 
 #: wp-admin/includes/class-custom-background.php:233
 #: wp-admin/includes/theme.php:320
@@ -3420,7 +3420,7 @@ msgstr "Hintergrund anpassen"
 #. translators: %s: URL to background image configuration in Customizer.
 #: wp-admin/includes/class-custom-background.php:241
 msgid "You can now manage and live-preview Custom Backgrounds in the <a href=\"%s\">Customizer</a>."
-msgstr ""
+msgstr "Sie können jetzt Benutzerdefinierte Hintergründe im <a href=\"%s\">Customizer</a> verwalten und live vorschlagen."
 
 #. translators: %s: Home URL.
 #: wp-admin/includes/class-custom-background.php:254
@@ -3638,7 +3638,7 @@ msgstr "Du kannst ein individuelles Header-Bild für deine Website festlegen. La
 
 #: wp-admin/includes/class-custom-image-header.php:113
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you would like and click the &#8220;Save Changes&#8221; button."
-msgstr ""
+msgstr "Einige Themes sind mit zusätzlichen Header-Bildern gebündelt. Wenn mehrere Bilder angezeigt werden, wählen Sie das Bild aus, das Sie möchten und klicken Sie auf die Schaltfläche &#8220;Änderungen speichern&#8221;."
 
 #: wp-admin/includes/class-custom-image-header.php:114
 msgid "If your theme has more than one default header image, or you have uploaded more than one custom header image, you have the option of having ClassicPress display a randomly different image on each page of your site. Click the &#8220;Random&#8221; radio button next to the Uploaded Images or Default Images section to enable this feature."
@@ -3646,7 +3646,7 @@ msgstr "Falls dein Theme mehr als ein Standard-Header-Bild hat oder du mehr als 
 
 #: wp-admin/includes/class-custom-image-header.php:115
 msgid "If you do not want a header image to be displayed on your site at all, click the &#8220;Remove Header Image&#8221; button at the bottom of the Header Image section of this page. If you want to re-enable the header image later, you just have to select one of the other image options and click &#8220;Save Changes&#8221;."
-msgstr ""
+msgstr "Wenn Sie nicht wollen, dass ein Header-Bild auf Ihrer Seite angezeigt wird klicken Sie auf die Schaltfläche &#8220;Headerbild&#8221; am unteren Rand des Bildabschnitts der Kopfzeile dieser Seite. Wenn Sie das Header-Bild später wieder aktivieren möchten Sie müssen nur eine der anderen Bildoptionen auswählen und auf &#8220;Änderungen speichern&#8221; klicken."
 
 #: wp-admin/includes/class-custom-image-header.php:122
 #: wp-admin/includes/class-custom-image-header.php:744
@@ -3657,7 +3657,7 @@ msgstr "Header-Text"
 #. translators: %s: URL to General Settings screen.
 #: wp-admin/includes/class-custom-image-header.php:126
 msgid "For most themes, the header text is your Site Title and Tagline, as defined in the <a href=\"%s\">General Settings</a> section."
-msgstr ""
+msgstr "Für die meisten Themen ist der Headertext Ihr Seitentitel und Ihre Tagline, wie im Abschnitt <a href=\"%s\">Allgemeine Einstellungen</a> definiert."
 
 #: wp-admin/includes/class-custom-image-header.php:130
 msgid "In the Header Text section of this page, you can choose whether to display this text or hide it. You can also choose a color for the text by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
@@ -3665,7 +3665,7 @@ msgstr "Du kannst wählen, ob du den Header-Text anzeigen lassen möchtest oder 
 
 #: wp-admin/includes/class-custom-image-header.php:131
 msgid "Do not forget to click &#8220;Save Changes&#8221; when you are done!"
-msgstr ""
+msgstr "Vergessen Sie nicht, auf &#8220;Änderungen speichern&#8221; zu klicken, wenn Sie fertig sind!"
 
 #: wp-admin/includes/class-custom-image-header.php:137
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
@@ -3683,7 +3683,7 @@ msgstr "Eigener Header"
 #. translators: %s: URL to header image configuration in Customizer.
 #: wp-admin/includes/class-custom-image-header.php:512
 msgid "You can now manage and live-preview Custom Header in the <a href=\"%s\">Customizer</a>."
-msgstr ""
+msgstr "Sie können nun benutzerdefinierte Kopfzeilen im <a href=\"%s\">Customizer</a> verwalten und live vorschlagen."
 
 #. translators: %s: Home URL.
 #: wp-admin/includes/class-custom-image-header.php:525
@@ -3793,7 +3793,7 @@ msgstr "Standard: %s"
 #: wp-admin/includes/class-custom-image-header.php:819
 #: wp-admin/includes/class-custom-image-header.php:1005
 msgid "The active theme does not support uploading a custom header image."
-msgstr ""
+msgstr "Das aktive Theme unterstützt das Hochladen eines benutzerdefinierten Header-Bildes nicht."
 
 #: wp-admin/includes/class-custom-image-header.php:898
 #: wp-admin/includes/class-custom-image-header.php:1057
@@ -3832,7 +3832,7 @@ msgstr "Fehler beim Bild hochladen"
 
 #: wp-admin/includes/class-custom-image-header.php:1016
 msgid "The active theme does not support a flexible sized header image."
-msgstr ""
+msgstr "Das aktive Theme unterstützt kein flexibles Header-Bild."
 
 #: wp-admin/includes/class-custom-image-header.php:1105
 msgid "Sorry, you are not allowed to customize headers."
@@ -3864,7 +3864,7 @@ msgstr "Aktualisierung der Übersetzungen für %1$s (%2$s)&#160;&hellip;"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:113
 msgid "Some of your translations need updating. Sit tight for a few more seconds while they are updated as well."
-msgstr ""
+msgstr "Einige Ihrer Übersetzungen benötigen eine Aktualisierung. Setze sie für ein paar Sekunden ein, während sie ebenfalls aktualisiert werden."
 
 #: wp-admin/includes/class-language-pack-upgrader.php:114
 #: wp-admin/update-core.php:656
@@ -3886,11 +3886,11 @@ msgstr "Die Übersetzung wurde erfolgreich aktualisiert."
 
 #: wp-admin/includes/class-language-pack-upgrader.php:121
 msgid "Removing the old version of the translation&#8230;"
-msgstr ""
+msgstr "Entfernen der alten Version der Übersetzung&#8230;"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:122
 msgid "Could not remove the old translation."
-msgstr ""
+msgstr "Die alte Übersetzung konnte nicht entfernt werden."
 
 #. translators: 1: .po, 2: .mo
 #: wp-admin/includes/class-language-pack-upgrader.php:352
@@ -3903,7 +3903,7 @@ msgstr "Plugin aktivieren und Import starten"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:110
 msgid "Activate Plugin &amp; Go to Press This"
-msgstr ""
+msgstr "Plugin aktivieren &amp; zu Press This gehen"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:116
 #: wp-admin/includes/class-plugin-upgrader-skin.php:96
@@ -3920,20 +3920,20 @@ msgstr "Netzwerkweit aktivieren"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:133
 msgid "Go to Importers"
-msgstr ""
+msgstr "Zu Importern gehen"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:139
 #: wp-admin/includes/class-plugin-installer-skin.php:145
 msgid "Go to Plugin Installer"
-msgstr ""
+msgstr "Zum Plugin-Installer gehen"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:211
 msgid "This plugin is already installed."
-msgstr ""
+msgstr "Dieses Plugin ist bereits installiert."
 
 #: wp-admin/includes/class-plugin-installer-skin.php:216
 msgid "Plugin name"
-msgstr ""
+msgstr "Plugin-Name"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:217
 #: wp-admin/includes/class-theme-installer-skin.php:240
@@ -3941,44 +3941,44 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1095
 #: wp-admin/includes/class-wp-debug-data.php:1190
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:219
 #: wp-admin/includes/class-theme-installer-skin.php:242
 msgid "Required WordPress version"
-msgstr ""
+msgstr "Erforderliche WordPress-Version"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:220
 #: wp-admin/includes/class-theme-installer-skin.php:243
 msgid "Required PHP version"
-msgstr ""
+msgstr "Erforderliche PHP-Version"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:224
 msgctxt "plugin"
 msgid "Current"
-msgstr ""
+msgstr "Aktuell"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:225
 msgctxt "plugin"
 msgid "Uploaded"
-msgstr ""
+msgstr "Hochgeladen"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:259
 msgid "The plugin cannot be updated due to the following:"
-msgstr ""
+msgstr "Das Plugin kann nicht aktualisiert werden, da folgendes:"
 
 #. translators: 1: Current PHP version, 2: Version required by the uploaded plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:268
 #: wp-admin/includes/class-plugin-upgrader.php:449
 msgid "The PHP version on your server is %1$s, however the uploaded plugin requires %2$s."
-msgstr ""
+msgstr "Die PHP-Version auf Ihrem Server ist %1$s, das hochgeladene Plugin benötigt jedoch %2$s."
 
 #. translators: 1: Current WordPress version, 2: Version required by the uploaded plugin.
 #. translators: 1: Current ClassicPress version, 2: Version required by the uploaded plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:280
 #: wp-admin/includes/class-plugin-upgrader.php:460
 msgid "Your ClassicPress version is %1$s, however the uploaded plugin requires %2$s."
-msgstr ""
+msgstr "Ihre ClassicPress-Version ist %1$s, aber das hochgeladene Plugin benötigt %2$s."
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-plugin-installer-skin.php:295
