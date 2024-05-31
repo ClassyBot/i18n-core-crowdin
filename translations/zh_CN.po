@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-18 11:51\n"
+"PO-Revision-Date: 2024-05-31 23:11\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4907,7 +4907,7 @@ msgstr "在一些系统中，您的数据库的名称是以您的用户名为前
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:1233
 msgid "If you do not know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">Support forums</a>."
-msgstr ""
+msgstr "如果您不知道如何设置数据库，您应该<strong>联系您的主机提供商</strong>获取协助。如果这些都失败了，您或许可以在<a href=\"%s\">支持论坛</a>找到帮助。"
 
 #: wp-includes/class-wpdb.php:1234
 #: wp-includes/class-wpdb.php:2003
@@ -4915,26 +4915,26 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-section.php:90
 #: wp-includes/load.php:181
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #. translators: %s: Database access abstraction class, usually wpdb or a class extending wpdb.
 #: wp-includes/class-wpdb.php:1284
 msgid "%s must set a database connection for use with escaping."
-msgstr ""
+msgstr "%s 必须设置一个数据库连接来使用转义。"
 
 #. translators: %s: wpdb::prepare()
 #: wp-includes/class-wpdb.php:1464
 msgid "The query argument of %s must have a placeholder."
-msgstr ""
+msgstr "%s 的查询参数必须有一个占位符。"
 
 #. translators: %s: A list of placeholders found to be a problem.
 #: wp-includes/class-wpdb.php:1641
 msgid "Arguments cannot be prepared as both an Identifier and Value. Found the following conflicts: %s"
-msgstr ""
+msgstr "参数不能同时作为标识符和值准备。找到以下冲突： %s"
 
 #: wp-includes/class-wpdb.php:1661
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
-msgstr ""
+msgstr "查询只期望一个占位符，但发送了含有多个占位符的数组。"
 
 #. translators: 1: Number of placeholders, 2: Number of arguments passed.
 #: wp-includes/class-wpdb.php:1677
