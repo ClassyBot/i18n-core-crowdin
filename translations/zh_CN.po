@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-18 11:51\n"
+"PO-Revision-Date: 2024-05-31 23:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -27139,11 +27139,11 @@ msgstr ""
 #. extending wpdb
 #: wp-includes/wp-db.php:1110
 msgid "%s must set a database connection for use with escaping."
-msgstr ""
+msgstr "%s 必须设置一个数据库连接来使用转义。"
 
 #: wp-includes/wp-db.php:1230
 msgid "The query argument of %s must have a placeholder."
-msgstr ""
+msgstr "%s 的查询参数必须有一个占位符。"
 
 #: wp-includes/wp-db.php:1246
 msgid "Unsupported value type (%s)."
@@ -27151,7 +27151,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1283
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
-msgstr ""
+msgstr "查询只期望一个占位符，但发送了含有多个占位符的数组。"
 
 #. translators: 1: number of placeholders, 2: number of arguments passed
 #: wp-includes/wp-db.php:1294
