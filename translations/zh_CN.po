@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-31 23:10\n"
+"PO-Revision-Date: 2024-06-01 11:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1798,7 +1798,7 @@ msgstr ""
 #: wp-admin/edit-form-comment.php:89 wp-includes/comment.php:242
 msgctxt "comment status"
 msgid "Approved"
-msgstr ""
+msgstr "已批准"
 
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
@@ -1808,7 +1808,7 @@ msgstr ""
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #. translators: %s: comment date
 #: wp-admin/edit-form-comment.php:102
@@ -3907,7 +3907,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:639
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:575
 msgid "Restore this comment from the spam"
@@ -3936,7 +3936,7 @@ msgstr ""
 #: wp-includes/media-template.php:438 wp-includes/media-template.php:541
 msgctxt "verb"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:637
@@ -4277,7 +4277,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:135
 msgctxt "attachment filter"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-admin/includes/class-wp-media-list-table.php:160
 #: wp-admin/includes/class-wp-media-list-table.php:513
@@ -4440,7 +4440,7 @@ msgstr ""
 #: wp-admin/network/site-info.php:174
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:41
 #: wp-admin/network/site-info.php:175
@@ -20106,7 +20106,7 @@ msgstr "在此浏览器保存我的姓名、电子邮件地址和网址，以用
 #. translators: %s: login URL
 #: wp-includes/comment-template.php:2235
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "您必须<a href=\"%s\">登录</a>才可以发送评论。"
 
 #. translators: 1: edit user link, 2: accessibility text, 3: user name, 4:
 #. logout URL
@@ -20121,34 +20121,34 @@ msgstr ""
 
 #: wp-includes/comment-template.php:2248
 msgid "Your email address will not be published."
-msgstr ""
+msgstr "您的电子邮件地址将不会被公开。"
 
 #: wp-includes/comment-template.php:2262
 msgid "Cancel reply"
-msgstr ""
+msgstr "取消回复"
 
 #: wp-includes/comment-template.php:2263
 msgid "Post Comment"
-msgstr ""
+msgstr "发表评论"
 
 #: wp-includes/comment.php:241
 msgid "Unapproved"
-msgstr ""
+msgstr "未批准"
 
 #: wp-includes/comment.php:244
 msgctxt "comment status"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-includes/comment.php:684 wp-includes/comment.php:687
 #: wp-includes/comment.php:690
 msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
-msgstr ""
+msgstr "检测到重复的评论；看起来好像你已经说过这句话了！"
 
 #: wp-includes/comment.php:740 wp-includes/comment.php:886
 #: wp-includes/comment.php:889
 msgid "You are posting comments too quickly. Slow down."
-msgstr ""
+msgstr "您的评论操作过于频繁。请慢一点。"
 
 #: wp-includes/comment.php:1160
 msgid "<strong>ERROR</strong>: your name is too long."
@@ -20997,7 +20997,7 @@ msgstr ""
 #: wp-includes/functions.php:3814 wp-includes/ms-load.php:455
 #: wp-includes/wp-db.php:1577
 msgid "Error establishing a database connection"
-msgstr ""
+msgstr "建立数据库连接时出错"
 
 #. translators: 1: PHP function name, 2: version number, 3: alternative
 #. function name
@@ -27147,7 +27147,7 @@ msgstr "%s 的查询参数必须有一个占位符。"
 
 #: wp-includes/wp-db.php:1246
 msgid "Unsupported value type (%s)."
-msgstr ""
+msgstr "不支持的值类型（%s）。"
 
 #: wp-includes/wp-db.php:1283
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
@@ -27156,7 +27156,7 @@ msgstr "查询只期望一个占位符，但发送了含有多个占位符的数
 #. translators: 1: number of placeholders, 2: number of arguments passed
 #: wp-includes/wp-db.php:1294
 msgid "The query does not contain the correct number of placeholders (%1$d) for the number of arguments passed (%2$d)."
-msgstr ""
+msgstr "请求的查询所含的占位符数量（%1$d）对于传递的参数数量（%2$d）而言不正确。"
 
 #. translators: 1: Database error message, 2: SQL query, 3: Name of the calling
 #. function
@@ -27171,7 +27171,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1379 wp-includes/wp-db.php:1396
 msgid "ClassicPress database error:"
-msgstr ""
+msgstr "ClassicPress数据库错误："
 
 #. translators: 1: wp-config.php. 2: database host
 #: wp-includes/wp-db.php:1581
@@ -27180,7 +27180,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1587
 msgid "Are you sure you have the correct username and password?"
-msgstr ""
+msgstr "您确定用户名和密码正确吗？"
 
 #: wp-includes/wp-db.php:1588
 msgid "Are you sure that you have typed the correct hostname?"
@@ -27197,7 +27197,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1737
 msgid "Error reconnecting to the database"
-msgstr ""
+msgstr "重新连接数据库时出错"
 
 #. translators: %s: database host
 #: wp-includes/wp-db.php:1741
