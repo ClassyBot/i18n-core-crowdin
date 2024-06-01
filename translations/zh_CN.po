@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-31 23:11\n"
+"PO-Revision-Date: 2024-06-01 11:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4939,60 +4939,60 @@ msgstr "查询只期望一个占位符，但发送了含有多个占位符的数
 #. translators: 1: Number of placeholders, 2: Number of arguments passed.
 #: wp-includes/class-wpdb.php:1677
 msgid "The query does not contain the correct number of placeholders (%1$d) for the number of arguments passed (%2$d)."
-msgstr ""
+msgstr "请求的查询所含的占位符数量（%1$d）对于传递的参数数量（%2$d）而言不正确。"
 
 #. translators: %s: Value type.
 #: wp-includes/class-wpdb.php:1721
 msgid "Unsupported value type (%s)."
-msgstr ""
+msgstr "不支持的值类型（%s）。"
 
 #: wp-includes/class-wpdb.php:1814
 #: wp-includes/class-wpdb.php:1831
 msgid "ClassicPress database error:"
-msgstr ""
+msgstr "ClassicPress数据库错误："
 
 #: wp-includes/class-wpdb.php:1985
 #: wp-includes/functions.php:5366
 msgid "Error establishing a database connection"
-msgstr ""
+msgstr "建立数据库连接时出错"
 
 #. translators: 1: wp-config.php, 2: Database host.
 #: wp-includes/class-wpdb.php:1989
 msgid "This either means that the username and password information in your %1$s file is incorrect or that contact with the database server at %2$s could not be established. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "这意味着您的 %1$s 文件中的用户名和密码信息不正确，或者无法与 %2$s 的数据库服务器建立联接。这可能意味着您的主机的数据库服务器已关闭。"
 
 #: wp-includes/class-wpdb.php:1995
 msgid "Are you sure you have the correct username and password?"
-msgstr ""
+msgstr "您确定用户名和密码正确吗？"
 
 #: wp-includes/class-wpdb.php:1996
 msgid "Are you sure you have typed the correct hostname?"
-msgstr ""
+msgstr "您确定数据库主机名正确吗？"
 
 #: wp-includes/class-wpdb.php:1997
 #: wp-includes/class-wpdb.php:2150
 msgid "Are you sure the database server is running?"
-msgstr ""
+msgstr "数据库服务器是否正在运行？"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:2002
 #: wp-includes/class-wpdb.php:2156
 #: wp-includes/load.php:180
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
-msgstr ""
+msgstr "如果您不确定这些术语意味着什么，您可能应该联系您的主机提供商。如若您仍然需要帮助，您可以访问 <a href=\"%s\">ClassicPress支持论坛</a>。"
 
 #: wp-includes/class-wpdb.php:2141
 msgid "Error reconnecting to the database"
-msgstr ""
+msgstr "重新连接数据库时出错"
 
 #. translators: %s: Database host.
 #: wp-includes/class-wpdb.php:2145
 msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "这意味着与 %s 数据库服务器的联系已丢失。这可能意味着您的主机的数据库服务器已经关闭。"
 
 #: wp-includes/class-wpdb.php:2151
 msgid "Are you sure the database server is not under particularly heavy load?"
-msgstr ""
+msgstr "数据库服务器是否超负荷？"
 
 #: wp-includes/class-wpdb.php:2221
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
@@ -5239,72 +5239,72 @@ msgstr "在此浏览器保存我的姓名、电子邮件地址和网址，以用
 #. translators: %s: Login URL.
 #: wp-includes/comment-template.php:2612
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr ""
+msgstr "您必须<a href=\"%s\">登录</a>才可以发送评论。"
 
 #. translators: 1: User name, 2: Edit user link, 3: Logout URL.
 #: wp-includes/comment-template.php:2621
 msgid "Logged in as %1$s. <a href=\"%2$s\">Edit your profile</a>. <a href=\"%3$s\">Log out?</a>"
-msgstr ""
+msgstr "您已以%1$s的身份登录。<a href=\"%2$s\">编辑您的个人资料</a>。<a href=\"%3$s\">退出登录？</a>"
 
 #: wp-includes/comment-template.php:2633
 msgid "Your email address will not be published."
-msgstr ""
+msgstr "您的电子邮件地址将不会被公开。"
 
 #: wp-includes/comment-template.php:2652
 msgid "Cancel reply"
-msgstr ""
+msgstr "取消回复"
 
 #: wp-includes/comment-template.php:2653
 msgid "Post Comment"
-msgstr ""
+msgstr "发表评论"
 
 #: wp-includes/comment-template.php:2742
 msgid "Array values must only be a string or `true` boolean"
-msgstr ""
+msgstr "数组值只能是字符串或布尔值`true`"
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
-msgstr ""
+msgstr "未批准"
 
 #: wp-includes/comment.php:266
 msgctxt "comment status"
 msgid "Approved"
-msgstr ""
+msgstr "已批准"
 
 #: wp-includes/comment.php:267
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #: wp-includes/comment.php:268
 msgctxt "comment status"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-includes/comment.php:713
 msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
-msgstr ""
+msgstr "检测到重复的评论；看起来好像你已经说过这句话了！"
 
 #: wp-includes/comment.php:775
 #: wp-includes/comment.php:935
 msgid "You are posting comments too quickly. Slow down."
-msgstr ""
+msgstr "您的评论操作过于频繁。请慢一点。"
 
 #: wp-includes/comment.php:1280
 msgid "<strong>Error:</strong> Your name is too long."
-msgstr ""
+msgstr "<strong>错误：</strong> 您的名字过长。"
 
 #: wp-includes/comment.php:1284
 msgid "<strong>Error:</strong> Your email address is too long."
-msgstr ""
+msgstr "<strong>错误：</strong> 您的电子邮件地址过长。"
 
 #: wp-includes/comment.php:1288
 msgid "<strong>Error:</strong> Your URL is too long."
-msgstr ""
+msgstr "<strong>错误：</strong> 您的URL过长。"
 
 #: wp-includes/comment.php:1292
 msgid "<strong>Error:</strong> Your comment is too long."
-msgstr ""
+msgstr "<strong>错误：</strong> 您的评论过长。"
 
 #: wp-includes/comment.php:1330
 msgid "Please consider writing more inclusive code."
