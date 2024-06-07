@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-01 11:10\n"
+"PO-Revision-Date: 2024-06-07 13:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20172,7 +20172,7 @@ msgstr ""
 
 #: wp-includes/comment.php:3066
 msgid "Sorry, comments are not allowed for this item."
-msgstr ""
+msgstr "对不起，此项目不允许评论。"
 
 #: wp-includes/comment.php:3117
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:395
@@ -20198,31 +20198,31 @@ msgstr ""
 
 #: wp-includes/comment.php:3173 wp-includes/comment.php:3282
 msgid "ClassicPress Comments"
-msgstr ""
+msgstr "ClassicPress 评论"
 
 #: wp-includes/comment.php:3208
 msgid "Comment Author"
-msgstr ""
+msgstr "评论作者"
 
 #: wp-includes/comment.php:3209
 msgid "Comment Author Email"
-msgstr ""
+msgstr "评论作者电子邮件地址"
 
 #: wp-includes/comment.php:3210
 msgid "Comment Author URL"
-msgstr ""
+msgstr "评论作者 URL"
 
 #: wp-includes/comment.php:3211
 msgid "Comment Author IP"
-msgstr ""
+msgstr "评论作者 IP"
 
 #: wp-includes/comment.php:3212
 msgid "Comment Author User Agent"
-msgstr ""
+msgstr "评论作者用户代理"
 
 #: wp-includes/comment.php:3213
 msgid "Comment Date"
-msgstr ""
+msgstr "评论日期"
 
 #: wp-includes/comment.php:3214
 msgid "Comment Content"
