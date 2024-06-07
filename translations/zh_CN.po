@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-01 11:10\n"
+"PO-Revision-Date: 2024-06-07 13:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5308,68 +5308,68 @@ msgstr "<strong>错误：</strong> 您的评论过长。"
 
 #: wp-includes/comment.php:1330
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "请考虑写入更完整的代码。"
 
 #: wp-includes/comment.php:2440
 msgid "Could not update comment status."
-msgstr ""
+msgstr "无法更新评论状态。"
 
 #: wp-includes/comment.php:2605
 msgid "Could not update comment in the database."
-msgstr ""
+msgstr "无法更新数据库中的评论。"
 
 #: wp-includes/comment.php:3510
 msgid "Sorry, replies to unapproved comments are not allowed."
-msgstr ""
+msgstr "对不起，不允许回复未批准的评论。"
 
 #: wp-includes/comment.php:3578
 msgid "Sorry, comments are not allowed for this item."
-msgstr ""
+msgstr "对不起，此项目不允许评论。"
 
 #: wp-includes/comment.php:3638
 msgid "<strong>Error:</strong> Please fill the required fields."
-msgstr ""
+msgstr "<strong>错误：</strong> 请填写必填字段。"
 
 #: wp-includes/comment.php:3640
 msgid "<strong>Error:</strong> Please enter a valid email address."
-msgstr ""
+msgstr "<strong>错误：</strong> 请输入一个有效的电子邮件地址。"
 
 #: wp-includes/comment.php:3668
 msgid "<strong>Error:</strong> Please type your comment text."
-msgstr ""
+msgstr "<strong>错误：</strong> 请输入您的评论文本。"
 
 #: wp-includes/comment.php:3682
 msgid "<strong>Error:</strong> The comment could not be saved. Please try again later."
-msgstr ""
+msgstr "<strong>错误：</strong> 无法保存评论。请稍后再试。"
 
 #: wp-includes/comment.php:3698
 #: wp-includes/comment.php:3808
 msgid "ClassicPress Comments"
-msgstr ""
+msgstr "ClassicPress 评论"
 
 #: wp-includes/comment.php:3733
 msgid "Comment Author"
-msgstr ""
+msgstr "评论作者"
 
 #: wp-includes/comment.php:3734
 msgid "Comment Author Email"
-msgstr ""
+msgstr "评论作者电子邮件地址"
 
 #: wp-includes/comment.php:3735
 msgid "Comment Author URL"
-msgstr ""
+msgstr "评论作者 URL"
 
 #: wp-includes/comment.php:3736
 msgid "Comment Author IP"
-msgstr ""
+msgstr "评论作者 IP"
 
 #: wp-includes/comment.php:3737
 msgid "Comment Author User Agent"
-msgstr ""
+msgstr "评论作者用户代理"
 
 #: wp-includes/comment.php:3738
 msgid "Comment Date"
-msgstr ""
+msgstr "评论日期"
 
 #: wp-includes/comment.php:3739
 msgid "Comment Content"
