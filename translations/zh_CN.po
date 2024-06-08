@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-07 13:31\n"
+"PO-Revision-Date: 2024-06-08 01:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1994,7 +1994,7 @@ msgstr "「slug」是名称的URL友好版本。它通常全部小写，并仅�
 #: wp-includes/media-template.php:1086 wp-includes/media-template.php:1175
 #: wp-includes/script-loader.php:412
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: wp-admin/edit-tag-form.php:167 wp-admin/edit-tags.php:442
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
@@ -3320,7 +3320,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:126
 #: wp-includes/script-loader.php:875
 msgid "Live Preview"
-msgstr ""
+msgstr "实时预览"
 
 #: wp-admin/includes/class-theme-installer-skin.php:74
 #: wp-admin/includes/class-theme-upgrader-skin.php:65
@@ -4809,7 +4809,7 @@ msgstr ""
 #: wp-includes/script-loader.php:879
 msgctxt "plugin"
 msgid "Activate %s"
-msgstr ""
+msgstr "激活「%s」"
 
 #. translators: %s: Plugin name
 #. translators: %s: plugin name
@@ -5467,7 +5467,7 @@ msgstr[0] ""
 #: wp-admin/includes/class-wp-users-list-table.php:570
 msgctxt "no user roles"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -11511,7 +11511,7 @@ msgstr ""
 #: wp-admin/includes/theme.php:712
 #: wp-includes/customize/class-wp-customize-theme-control.php:134
 msgid "Install &amp; Preview"
-msgstr ""
+msgstr "安装并预览"
 
 #: wp-admin/includes/translation-install.php:23
 msgid "Invalid translation type."
@@ -12978,7 +12978,7 @@ msgstr ""
 #: wp-admin/nav-menus.php:807
 #: wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:46
 msgid "Automatically add new top-level pages to this menu"
-msgstr ""
+msgstr "自动将新的顶级页面添加到此菜单"
 
 #: wp-admin/nav-menus.php:814
 msgid "Display location"
@@ -13230,7 +13230,7 @@ msgstr ""
 
 #: wp-admin/network/settings.php:265 wp-includes/deprecated.php:2679
 msgid "First Post"
-msgstr ""
+msgstr "首个帖子"
 
 #: wp-admin/network/settings.php:270
 msgid "The first post on a new site."
@@ -15302,7 +15302,7 @@ msgstr ""
 #: wp-admin/press-this.php:62 wp-includes/deprecated.php:3927
 #: wp-includes/deprecated.php:3944
 msgid "The Press This plugin is required."
-msgstr ""
+msgstr "需要插件「Press This」。"
 
 #: wp-admin/press-this.php:63 wp-admin/press-this.php:69
 msgid "Installation Required"
@@ -15669,7 +15669,7 @@ msgstr ""
 #: wp-admin/themes.php:142 wp-admin/themes.php:320
 #: wp-includes/customize/class-wp-customize-themes-section.php:87
 msgid "No themes found. Try a different search."
-msgstr ""
+msgstr "未找到主题。请尝试其他搜索词。"
 
 #: wp-admin/theme-install.php:65
 msgid "Expand Sidebar"
@@ -15755,7 +15755,7 @@ msgstr ""
 #: wp-includes/script-loader.php:881
 msgctxt "theme"
 msgid "Activate %s"
-msgstr ""
+msgstr "激活「%s」"
 
 #: wp-admin/theme-install.php:283
 msgctxt "Button label for a theme"
@@ -20305,132 +20305,132 @@ msgstr "未设置图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:174
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image that matches the size of your video &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "点击「新增图片」以从您的计算机中上传一张图片。您的主题建议使用与您的视频尺寸相符的图片&#8212;在您上传完成后，您可以裁剪图片以适应尺寸。"
 
 #. translators: %s: header size in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:177
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header size of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "点击「新增图片」以从您的计算机中上传一张图片。您的主题建议使用页眉尺寸为%s像素的图片&#8212;在您上传完成后，您可以裁剪图片以适应尺寸。"
 
 #. translators: %s: header width in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:182
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header width of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "点击「新增图片」以从您的计算机中上传一张图片。您的主题建议使用尺寸为%s的图片&#8212;在您上传完成后，您可以裁剪图片以适应尺寸。"
 
 #. translators: %s: header height in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:187
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header height of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "点击「新增图片」以从您的计算机中上传一张图片。您的主题建议使用页眉高度为%s像素的图片&#8212;在您上传完成后，您可以裁剪图片以适应尺寸。"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:196
 msgid "Current header"
-msgstr ""
+msgstr "当前页眉"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:204
 msgid "Hide header image"
-msgstr ""
+msgstr "隐藏页眉图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:204
 msgid "Hide image"
-msgstr ""
+msgstr "隐藏图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:205
 msgid "Add new header image"
-msgstr ""
+msgstr "添加新页眉图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:205
 msgid "Add new image"
-msgstr ""
+msgstr "添加新图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:210
 msgctxt "custom headers"
 msgid "Previously uploaded"
-msgstr ""
+msgstr "以前上传的图像"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:217
 msgctxt "custom headers"
 msgid "Suggested"
-msgstr ""
+msgstr "推荐的图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:223
 #: wp-includes/customize/class-wp-customize-media-control.php:228
 msgid "Select video"
-msgstr ""
+msgstr "选择视频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:224
 msgid "Change video"
-msgstr ""
+msgstr "更换视频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:227
 #: wp-includes/widgets/class-wp-widget-media-video.php:31
 msgid "No video selected"
-msgstr ""
+msgstr "未选择视频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:229
 msgid "Choose video"
-msgstr ""
+msgstr "选择视频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:233
 #: wp-includes/customize/class-wp-customize-media-control.php:238
 msgid "Select audio"
-msgstr ""
+msgstr "选择音频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:234
 msgid "Change audio"
-msgstr ""
+msgstr "更换音频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:237
 #: wp-includes/widgets/class-wp-widget-media-audio.php:31
 msgid "No audio selected"
-msgstr ""
+msgstr "未选择音频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:239
 msgid "Choose audio"
-msgstr ""
+msgstr "选择音频"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:243
 #: wp-includes/customize/class-wp-customize-media-control.php:248
 msgid "Select image"
-msgstr ""
+msgstr "选择图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:244
 msgid "Change image"
-msgstr ""
+msgstr "更换图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:247
 #: wp-includes/widgets/class-wp-widget-media-image.php:31
 msgid "No image selected"
-msgstr ""
+msgstr "未选择图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:249
 msgid "Choose image"
-msgstr ""
+msgstr "选择图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:253
 #: wp-includes/customize/class-wp-customize-media-control.php:258
 msgid "Select file"
-msgstr ""
+msgstr "选择文件"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:254
 msgid "Change file"
-msgstr ""
+msgstr "更换文件"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:257
 msgid "No file selected"
-msgstr ""
+msgstr "未选择文件"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:259
 msgid "Choose file"
-msgstr ""
+msgstr "选择文件"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:42
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:85
 msgid "Menu Options"
-msgstr ""
+msgstr "菜单选项"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:38
 msgid "Add Items"
-msgstr ""
+msgstr "添加条目"
 
 #. translators: %s: "Add Items" button text
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:44
@@ -20439,12 +20439,12 @@ msgstr ""
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:50
 msgid "Add or remove menu items"
-msgstr ""
+msgstr "添加或删除菜单项"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:54
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:60
 msgid "Reorder"
-msgstr ""
+msgstr "重新排序"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:58
 msgid "When in reorder mode, additional controls to reorder menu items will be available in the items list above."
@@ -20586,25 +20586,25 @@ msgstr ""
 
 #: wp-includes/customize/class-wp-customize-themes-panel.php:42
 msgid "Active theme"
-msgstr ""
+msgstr "启用主题"
 
 #: wp-includes/customize/class-wp-customize-themes-panel.php:44
 msgid "Previewing theme"
-msgstr ""
+msgstr "正在预览主题"
 
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgid "Change theme"
-msgstr ""
+msgstr "更换主题"
 
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr ""
+msgstr "更换"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
 msgid "You are browsing %s"
-msgstr ""
+msgstr "您正在浏览 %s"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:84
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"https://forums.classicpress.net/c/support\">support forums</a>."
@@ -20613,11 +20613,11 @@ msgstr ""
 #. translators: %s: "Search WordPress.org themes" button
 #: wp-includes/customize/class-wp-customize-themes-section.php:91
 msgid "No themes found. Try a different search, or %s."
-msgstr ""
+msgstr "未找到主题。请尝试其他搜索词或%s。"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:92
 msgid "Search WordPress.org themes"
-msgstr ""
+msgstr "搜索 WordPress.org 主题"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:113
 msgid "Back to theme sources"
@@ -20628,25 +20628,25 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-section.php:131
 #: wp-includes/customize/class-wp-customize-themes-section.php:132
 msgid "Search themes&hellip;"
-msgstr ""
+msgstr "搜索主题&hellip;"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:122
 msgid "Filter themes"
-msgstr ""
+msgstr "筛选主题"
 
 #. translators: %s: number of filters selected.
 #: wp-includes/customize/class-wp-customize-themes-section.php:125
 msgid "Filter themes (%s)"
-msgstr ""
+msgstr "筛选主题（%s）"
 
 #. translators: %s: number of themes displayed.
 #: wp-includes/customize/class-wp-customize-themes-section.php:141
 msgid "%s themes"
-msgstr ""
+msgstr "%s 个主题"
 
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:63
 msgid "When in reorder mode, additional controls to reorder widgets will be available in the widgets list above."
-msgstr ""
+msgstr "当处于重新排序模式时，上面的小工具列表中会出现新的选项以用于重新排序小工具。"
 
 #. translators: Date query invalid date message: 1: invalid value, 2: type of
 #. value, 3: minimum valid value, 4: maximum valid value
@@ -20670,19 +20670,19 @@ msgstr ""
 
 #: wp-includes/deprecated.php:963
 msgid "Last updated"
-msgstr ""
+msgstr "最后更新"
 
 #: wp-includes/deprecated.php:1848 wp-includes/post-template.php:1508
 msgid "Missing Attachment"
-msgstr ""
+msgstr "缺失附件"
 
 #: wp-includes/deprecated.php:2679
 msgid "Last Post"
-msgstr ""
+msgstr "最后一个帖子"
 
 #: wp-includes/deprecated.php:3130
 msgid "Are you sure you want to do this?"
-msgstr ""
+msgstr "您确定要这样做吗？"
 
 #. translators: %s: file name
 #: wp-includes/deprecated.php:3182
@@ -20691,89 +20691,89 @@ msgstr ""
 
 #: wp-includes/deprecated.php:3186
 msgid "The GD image library is not installed."
-msgstr ""
+msgstr "GD 图像库未安装。"
 
 #. translators: %s: file name
 #: wp-includes/deprecated.php:3195
 msgid "File &#8220;%s&#8221; is not an image."
-msgstr ""
+msgstr "文件 &#8220;%s&#8221; 不是图像。"
 
 #. translators: 1: post title, 2: site name
 #: wp-includes/embed.php:467
 msgid "&#8220;%1$s&#8221; &#8212; %2$s"
-msgstr ""
+msgstr "&#8220;%1$s&#8221; &#8212; %2$s"
 
 #. translators: %s: Name of current post
 #: wp-includes/embed.php:803 wp-includes/post-template.php:270
 msgid "Continue reading %s"
-msgstr ""
+msgstr "继续阅读 %s"
 
 #: wp-includes/embed.php:957
 msgid "%s <span class=\"screen-reader-text\">Comment</span>"
 msgid_plural "%s <span class=\"screen-reader-text\">Comments</span>"
-msgstr[0] ""
+msgstr[0] "%s <span class=\"screen-reader-text\">条评论</span>"
 
 #: wp-includes/embed.php:981
 msgid "Open sharing dialog"
-msgstr ""
+msgstr "打开共享对话框"
 
 #: wp-includes/embed.php:998
 msgid "Sharing options"
-msgstr ""
+msgstr "共享选项"
 
 #: wp-includes/embed.php:1003
 msgid "ClassicPress Embed"
-msgstr ""
+msgstr "ClassicPress 嵌入内容"
 
 #: wp-includes/embed.php:1006
 msgid "HTML Embed"
-msgstr ""
+msgstr "HTML 嵌入内容"
 
 #: wp-includes/embed.php:1013
 msgid "Copy and paste this URL into your ClassicPress site to embed"
-msgstr ""
+msgstr "复制并粘贴此网址到您的ClassicPress站点以嵌入内容"
 
 #: wp-includes/embed.php:1020
 msgid "Copy and paste this code into your site to embed"
-msgstr ""
+msgstr "复制并粘贴此代码到您的站点以嵌入内容"
 
 #: wp-includes/embed.php:1025
 msgid "Close sharing dialog"
-msgstr ""
+msgstr "关闭共享对话框"
 
 #. translators: Comments feed title. 1: Post title
 #: wp-includes/feed-atom-comments.php:33
 msgid "Comments on %s"
-msgstr ""
+msgstr "%s 上的评论"
 
 #. translators: Comments feed title. 1: Site name, 2: Search query
 #: wp-includes/feed-atom-comments.php:36 wp-includes/feed-rss2-comments.php:41
 msgid "Comments for %1$s searching on %2$s"
-msgstr ""
+msgstr "在%1$s上搜索%2$s的评论"
 
 #. translators: Comments feed title. 1: Site name
 #: wp-includes/feed-atom-comments.php:39 wp-includes/feed-rss2-comments.php:44
 msgid "Comments for %s"
-msgstr ""
+msgstr "%s 的评论"
 
 #. translators: Individual comment title. 1: Post title, 2: Comment author name
 #: wp-includes/feed-atom-comments.php:81 wp-includes/feed-rss2-comments.php:80
 msgid "Comment on %1$s by %2$s"
-msgstr ""
+msgstr "由%2$s发表在%1$s上的评论"
 
 #. translators: Comment author title. 1: Comment author name
 #: wp-includes/feed-atom-comments.php:84 wp-includes/feed-rss2-comments.php:83
 msgid "By: %s"
-msgstr ""
+msgstr "由： %s"
 
 #. translators: Comments feed title. 1: Post title
 #: wp-includes/feed-rss2-comments.php:38
 msgid "Comments on: %s"
-msgstr ""
+msgstr "%s 上的评论："
 
 #: wp-includes/feed-rss2-comments.php:91
 msgid "Protected Comments: Please enter your password to view comments."
-msgstr ""
+msgstr "受保护的评论：请输入您的密码以查看评论。"
 
 #. translators: %s: 'document_title_separator' filter name
 #: wp-includes/feed.php:103 wp-includes/feed.php:129
@@ -20976,19 +20976,19 @@ msgstr ""
 
 #: wp-includes/functions.php:2656
 msgid "The link you followed has expired."
-msgstr ""
+msgstr "您关注的链接已过期。"
 
 #: wp-includes/functions.php:2661 wp-includes/ms-functions.php:2047
 msgid "Please try again."
-msgstr ""
+msgstr "请再试一次。"
 
 #: wp-includes/functions.php:2786
 msgid "&laquo; Back"
-msgstr ""
+msgstr "&laquo; 返回"
 
 #: wp-includes/functions.php:2798 wp-load.php:92
 msgid "ClassicPress &rsaquo; Error"
-msgstr ""
+msgstr "ClassicPress &rsaquo; 错误"
 
 #: wp-includes/functions.php:3810
 msgid "Database Error"
