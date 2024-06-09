@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-08 01:30\n"
+"PO-Revision-Date: 2024-06-09 15:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5711,42 +5711,42 @@ msgstr "重新排序"
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:57
 #: wp-includes/customize/class-wp-widget-area-customize-control.php:61
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:63
 msgid "When in reorder mode, additional controls to reorder menu items will be available in the items list above."
-msgstr ""
+msgstr "当处于重新排序模式时，上面的菜单项目列表中会出现新的选项以用于重新排序菜单项目。"
 
 #. translators: 1: Title of a menu item, 2: Type of a menu item.
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:77
 msgid "Remove Menu Item: %1$s (%2$s)"
-msgstr ""
+msgstr "删除菜单项： %1$s （%2$s）"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:95
 msgid "Navigation Label"
-msgstr ""
+msgstr "导航标签"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:107
 msgid "Title Attribute"
-msgstr ""
+msgstr "标题属性"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:113
 msgid "CSS Classes"
-msgstr ""
+msgstr "CSS 类"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:119
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "链接关系（XFN）"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:127
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "如果已启用的主题支持它，该描述将显示在菜单中。"
 
 #. translators: Nav menu item original title. %s: Original title.
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:147
 msgid "Original: %s"
-msgstr ""
+msgstr "原始标题：%s"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:730
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:862
