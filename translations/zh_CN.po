@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-09 15:10\n"
+"PO-Revision-Date: 2024-06-10 04:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5751,24 +5751,24 @@ msgstr "原始标题：%s"
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:730
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:862
 msgid "Invalid URL."
-msgstr ""
+msgstr "无效的 URL。"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:85
 msgid "Create a menu for this location"
-msgstr ""
+msgstr "为此位置创建一个菜单"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:85
 msgid "+ Create New Menu"
-msgstr ""
+msgstr "+ 创建新菜单"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:86
 msgid "Edit selected menu"
-msgstr ""
+msgstr "编辑所选菜单"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:86
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:182
 msgid "Edit Menu"
-msgstr ""
+msgstr "编辑菜单"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:48
 msgctxt "menu locations"
