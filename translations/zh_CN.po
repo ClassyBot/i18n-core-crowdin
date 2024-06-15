@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-10 04:20\n"
+"PO-Revision-Date: 2024-06-15 13:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4644,7 +4644,7 @@ msgstr ""
 #: wp-admin/theme-install.php:297 wp-admin/themes.php:282
 #: wp-admin/themes.php:423 wp-admin/themes.php:478
 msgid "By %s"
-msgstr ""
+msgstr "由 %s 制作"
 
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:545
@@ -12945,7 +12945,7 @@ msgstr "菜单名称"
 #: wp-admin/nav-menus.php:765 wp-admin/nav-menus.php:844
 #: wp-includes/customize/class-wp-customize-new-menu-control.php:50
 msgid "Create Menu"
-msgstr ""
+msgstr "创建菜单"
 
 #: wp-admin/nav-menus.php:765 wp-admin/nav-menus.php:844
 msgid "Save Menu"
@@ -15872,14 +15872,14 @@ msgstr ""
 
 #: wp-admin/themes.php:268 wp-admin/themes.php:407
 msgid "New version available."
-msgstr ""
+msgstr "有新版本可用。"
 
 #. translators: ClassicPress child theme name
 #: wp-admin/themes.php:281 wp-admin/themes.php:318 wp-admin/themes.php:419
 #: wp-includes/customize/class-wp-customize-theme-control.php:83
 #: wp-includes/customize/class-wp-customize-themes-section.php:78
 msgid "Theme Details"
-msgstr ""
+msgstr "主题详情"
 
 #. translators: %s: theme name
 #. translators: %s: Theme name
@@ -20480,14 +20480,14 @@ msgstr "编辑菜单"
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:46
 msgctxt "menu locations"
 msgid "Where do you want this menu to appear?"
-msgstr ""
+msgstr "您希望此菜单显示在哪里？"
 
 #. translators: 1: Codex URL, 2: additional link attributes, 3: accessibility
 #. text
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:51
 msgctxt "menu locations"
 msgid "(If you plan to use a menu <a href=\"%1$s\" %2$s>widget%3$s</a>, skip this step.)"
-msgstr ""
+msgstr "（如果您计划使用菜单<a href=\"%1$s\" %2$s>小工具%3$s</a>，跳过此步骤）"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:52
 msgid "https://codex.wordpress.org/WordPress_Widgets"
@@ -20502,82 +20502,82 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:77
 msgctxt "menu location"
 msgid "(Current: %s)"
-msgstr ""
+msgstr "（当前：%s）"
 
 #. translators: 1: original menu name, 2: duplicate count
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:512
 msgid "%1$s (%2$d)"
-msgstr ""
+msgstr "%1$s（%2$d）"
 
 #: wp-includes/customize/class-wp-customize-partial.php:207
 msgid "Partial render must echo the content or return the content string (or array), but not both."
-msgstr ""
+msgstr "部分渲染必须输出内容或返回内容字符串 （或数组），但并不可两者兼而有之。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:193
 msgid "Click to edit this menu."
-msgstr ""
+msgstr "点击以编辑此菜单。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:194
 msgid "Click to edit this widget."
-msgstr ""
+msgstr "点击以编辑此小工具。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:195
 msgid "Click to edit the site title."
-msgstr ""
+msgstr "点击以编辑站点标题。"
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:196
 msgid "Click to edit this element."
-msgstr ""
+msgstr "点击以编辑此元素。"
 
 #. translators: %s: document.write()
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:198
 msgid "%s is forbidden"
-msgstr ""
+msgstr "%s 被禁止"
 
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:67
 #: wp-includes/media-template.php:1253
 msgid "Preview as a browser icon"
-msgstr ""
+msgstr "作为浏览器图标预览"
 
 #: wp-includes/customize/class-wp-customize-site-icon-control.php:71
 #: wp-includes/media-template.php:1260
 msgid "Preview as an app icon"
-msgstr ""
+msgstr "作为应用程序图标预览"
 
 #. translators: %s: theme name
 #: wp-includes/customize/class-wp-customize-theme-control.php:61
 msgid "Details for theme: %s"
-msgstr ""
+msgstr "主题详细信息： %s"
 
 #. translators: %s: theme name
 #: wp-includes/customize/class-wp-customize-theme-control.php:63
 msgid "Customize theme: %s"
-msgstr ""
+msgstr "自定义主题： %s"
 
 #. translators: %s: theme name
 #: wp-includes/customize/class-wp-customize-theme-control.php:65
 msgid "Live preview theme: %s"
-msgstr ""
+msgstr "实时预览主题： %s"
 
 #. translators: %s: theme name
 #: wp-includes/customize/class-wp-customize-theme-control.php:67
 msgid "Install and preview theme: %s"
-msgstr ""
+msgstr "安装并实时预览主题： %s"
 
 #. translators: Theme author name
 #: wp-includes/customize/class-wp-customize-theme-control.php:87
 msgctxt "theme author"
 msgid "By %s"
-msgstr ""
+msgstr "由 %s 制作"
 
 #. translators: %s: "Update now" button
 #: wp-includes/customize/class-wp-customize-theme-control.php:95
 msgid "New version available. %s"
-msgstr ""
+msgstr "有新版本可用。 %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:95
 msgid "Update now"
-msgstr ""
+msgstr "立即升级"
 
 #. translators: %s: theme name
 #: wp-includes/customize/class-wp-customize-theme-control.php:114
