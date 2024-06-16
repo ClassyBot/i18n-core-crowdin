@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-16 01:50\n"
+"PO-Revision-Date: 2024-06-16 13:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -6285,192 +6285,192 @@ msgstr[0] "%s 分钟"
 #: wp-includes/functions.php:550
 msgid "%s hour"
 msgid_plural "%s hours"
-msgstr[0] ""
+msgstr[0] "%s 小时"
 
 #. translators: Time difference between two dates, in days. %s: Number of days.
 #: wp-includes/formatting.php:3865
 msgid "%s day"
 msgid_plural "%s days"
-msgstr[0] ""
+msgstr[0] "%s 天"
 
 #. translators: Time difference between two dates, in weeks. %s: Number of weeks.
 #: wp-includes/formatting.php:3872
 msgid "%s week"
 msgid_plural "%s weeks"
-msgstr[0] ""
+msgstr[0] "%s 周"
 
 #. translators: Time difference between two dates, in months. %s: Number of months.
 #: wp-includes/formatting.php:3879
 msgid "%s month"
 msgid_plural "%s months"
-msgstr[0] ""
+msgstr[0] "%s 月"
 
 #. translators: Time difference between two dates, in years. %s: Number of years.
 #: wp-includes/formatting.php:3886
 msgid "%s year"
 msgid_plural "%s years"
-msgstr[0] ""
+msgstr[0] "%s 年"
 
 #. translators: Maximum number of words used in a post excerpt.
 #: wp-includes/formatting.php:3947
 msgctxt "excerpt_length"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 #: wp-includes/formatting.php:3996
 #: wp-includes/general-template.php:4561
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-includes/formatting.php:4805
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
-msgstr ""
+msgstr "输入的电子邮件地址似乎不是一个有效的电子邮件地址。请输入一个有效的电子邮件地址。"
 
 #: wp-includes/formatting.php:4919
 msgid "The ClassicPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "您输入的 ClassicPress 地址似乎不是一个有效的 URL。请输入一个有效的 URL。"
 
 #: wp-includes/formatting.php:4932
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "您输入的站点地址似乎不是一个有效的URL。请输入一个有效的URL。"
 
 #: wp-includes/formatting.php:4991
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
-msgstr ""
+msgstr "您输入的时区无效。请选择一个有效的时区。"
 
 #. translators: %s: Documentation URL.
 #: wp-includes/formatting.php:5011
 msgid "A structure tag is required when using custom permalinks. <a href=\"%s\">Learn more</a>"
-msgstr ""
+msgstr "使用自定义永久链接时需要一个结构标签。 <a href=\"%s\">了解更多</a>"
 
 #: wp-includes/formatting.php:5012
 msgid "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
 
 #. translators: 1: Option name, 2: Error code.
 #: wp-includes/formatting.php:5040
 msgid "Could not sanitize the %1$s option. Error code: %2$s"
-msgstr ""
+msgstr "无法过滤 %1$s 选项。错误代码： %2$s"
 
 #. translators: Used to join items in a list with more than 2 items.
 #: wp-includes/formatting.php:5256
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s、%2$s"
 
 #. translators: Used to join last two items in a list with more than 2 times.
 #: wp-includes/formatting.php:5258
 msgid "%1$s, and %2$s"
-msgstr ""
+msgstr "%1$s、和 %2$s"
 
 #. translators: Used to join items in a list with only 2 items.
 #: wp-includes/formatting.php:5260
 msgid "%1$s and %2$s"
-msgstr ""
+msgstr "%1$s 和 %2$s"
 
 #. translators: 1: The function name, 2: The argument number, 3: The argument name, 4: The expected type, 5: The provided type.
 #: wp-includes/formatting.php:5444
 msgid "Warning: %1$s expects parameter %2$s (%3$s) to be a %4$s, %5$s given."
-msgstr ""
+msgstr "警告：%1$s 需要参数 %2$s（%3$s）是 %4$s，给出 %5$s。"
 
 #. translators: If months in your language require a genitive case, translate this to 'on'. Do not translate into your own language.
 #: wp-includes/functions.php:345
 msgctxt "decline months names: on or off"
 msgid "off"
-msgstr ""
+msgstr "off"
 
 #. translators: Unit symbol for yottabyte.
 #: wp-includes/functions.php:465
 msgctxt "unit symbol"
 msgid "YB"
-msgstr ""
+msgstr "YB"
 
 #. translators: Unit symbol for zettabyte.
 #: wp-includes/functions.php:467
 msgctxt "unit symbol"
 msgid "ZB"
-msgstr ""
+msgstr "ZB"
 
 #. translators: Unit symbol for exabyte.
 #: wp-includes/functions.php:469
 msgctxt "unit symbol"
 msgid "EB"
-msgstr ""
+msgstr "EB"
 
 #. translators: Unit symbol for petabyte.
 #: wp-includes/functions.php:471
 msgctxt "unit symbol"
 msgid "PB"
-msgstr ""
+msgstr "PB"
 
 #. translators: Unit symbol for terabyte.
 #: wp-includes/functions.php:473
 msgctxt "unit symbol"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #. translators: Unit symbol for gigabyte.
 #: wp-includes/functions.php:475
 msgctxt "unit symbol"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #. translators: Unit symbol for megabyte.
 #: wp-includes/functions.php:477
 msgctxt "unit symbol"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. translators: Unit symbol for kilobyte.
 #: wp-includes/functions.php:479
 msgctxt "unit symbol"
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 #. translators: Unit symbol for byte.
 #: wp-includes/functions.php:481
 #: wp-includes/functions.php:486
 msgctxt "unit symbol"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. translators: %s: Time duration in minute or minutes.
 #: wp-includes/functions.php:556
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
+msgstr[0] "%s 分钟"
 
 #: wp-includes/functions.php:1603
 msgid "<strong>Error:</strong> This is not a valid feed template."
-msgstr ""
+msgstr "<strong>错误：</strong> 这不是一个有效的 Feed 模板。"
 
 #. translators: %s: Database repair URL.
 #: wp-includes/functions.php:1823
 msgid "One or more database tables are unavailable. The database may need to be <a href=\"%s\">repaired</a>."
-msgstr ""
+msgstr "一个或多个数据库表不可用。数据库可能需要被<a href=\"%s\">修复</a>。"
 
 #: wp-includes/functions.php:2874
 msgid "Empty filename"
-msgstr ""
+msgstr "文件名为空"
 
 #: wp-includes/functions.php:2879
 #: wp-includes/script-loader.php:787
 msgid "Sorry, you are not allowed to upload this file type."
-msgstr ""
+msgstr "对不起，您无权上传此类型的文件。"
 
 #. translators: %s: File name.
 #: wp-includes/functions.php:2933
 msgid "Could not write file %s"
-msgstr ""
+msgstr "无法写入文件 %s"
 
 #. translators: %s: Site title.
 #: wp-includes/functions.php:3580
 msgid "You are attempting to log out of %s"
-msgstr ""
+msgstr "您正在尝试从「%s」注销"
 
 #. translators: %s: Logout URL.
 #: wp-includes/functions.php:3590
 msgid "Do you really want to <a href=\"%s\">log out</a>?"
-msgstr ""
+msgstr "您真的要<a href=\"%s\">注销</a>吗？"
 
 #: wp-includes/functions.php:3594
 msgid "The link you followed has expired."
@@ -6493,71 +6493,71 @@ msgstr "ClassicPress &rsaquo; 错误"
 #. translators: 1: WP_REST_Response, 2: WP_Error
 #: wp-includes/functions.php:4412
 msgid "Return a %1$s or %2$s object from your callback when using the REST API."
-msgstr ""
+msgstr "在使用REST API时，从回调中返回一个 %1$s 或 %2$s 对象。"
 
 #. translators: %s: Path to the JSON file.
 #: wp-includes/functions.php:4550
 msgid "File %s doesn't exist!"
-msgstr ""
+msgstr "文件 %s 不存在！"
 
 #. translators: 1: Path to the JSON file, 2: Error message.
 #: wp-includes/functions.php:4564
 msgid "Error when decoding a JSON file at path %1$s: %2$s"
-msgstr ""
+msgstr "解码路径 %1$s 的 JSON 文件时出错： %2$s"
 
 #: wp-includes/functions.php:5366
 msgid "Database Error"
-msgstr ""
+msgstr "数据库错误"
 
 #. translators: 1: PHP function name, 2: Version number, 3: Alternative function name.
 #: wp-includes/functions.php:5426
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "函数 %1$s 自从版本 %2$s <strong>已弃用</strong>！请改用 %3$s。"
 
 #. translators: 1: PHP function name, 2: Version number.
 #: wp-includes/functions.php:5437
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr ""
+msgstr "函数 %1$s 自从版本 %2$s <strong>已弃用</strong>，并且没有替代选项可用。"
 
 #. translators: 1: PHP class name, 2: PHP parent class name, 3: Version number, 4: __construct() method.
 #: wp-includes/functions.php:5518
 msgid "The called constructor method for %1$s class in %2$s is <strong>deprecated</strong> since version %3$s! Use %4$s instead."
-msgstr ""
+msgstr "所调用的 %2$s 类的构建方法 %1$s 自从版本 %3$s <strong>已弃用</strong>！请改用 %4$s。"
 
 #. translators: 1: PHP class name, 2: Version number, 3: __construct() method.
 #: wp-includes/functions.php:5530
 msgid "The called constructor method for %1$s class is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "所调用的构建方法 %1$s 自从版本 %2$s <strong>已弃用</strong>！请改用 %3$s。"
 
 #. translators: 1: PHP file name, 2: Version number, 3: Alternative file name.
 #: wp-includes/functions.php:5615
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "文件 %1$s 自从版本 %2$s <strong>已弃用</strong>！请改用 %3$s。"
 
 #. translators: 1: PHP file name, 2: Version number.
 #: wp-includes/functions.php:5626
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr ""
+msgstr "文件 %1$s 自从版本 %2$s <strong>已弃用</strong>，并且没有替代选项可用。"
 
 #. translators: 1: PHP function name, 2: Version number, 3: Optional message regarding the change.
 #: wp-includes/functions.php:5709
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
-msgstr ""
+msgstr "函数 %1$s 在调用时使用了一个自从版本 %2$s <strong>已弃用</strong>的参数！请改用 %3$s。"
 
 #. translators: 1: PHP function name, 2: Version number.
 #: wp-includes/functions.php:5720
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr ""
+msgstr "函数 %1$s 在调用时使用了一个自从版本 %2$s <strong>已弃用</strong>的参数，并且没有替代选项可用。"
 
 #. translators: 1: WordPress hook name, 2: Version number, 3: Alternative hook name.
 #: wp-includes/functions.php:5800
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "钩子 %1$s 自从版本 %2$s <strong>已弃用</strong>！请改用 %3$s。"
 
 #. translators: 1: WordPress hook name, 2: Version number.
 #: wp-includes/functions.php:5811
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
-msgstr ""
+msgstr "钩子 %1$s 自从版本 %2$s <strong>已弃用</strong>，并且没有替代选项可用。"
 
 #. translators: %s: Version number.
 #: wp-includes/functions.php:5865
@@ -6833,642 +6833,642 @@ msgstr "年："
 #: wp-includes/general-template.php:1692
 msgctxt "date archive title prefix"
 msgid "Month:"
-msgstr ""
+msgstr "月："
 
 #: wp-includes/general-template.php:1694
 #: wp-includes/general-template.php:2358
 msgctxt "daily archives date format"
 msgid "F j, Y"
-msgstr ""
+msgstr "Y F j"
 
 #: wp-includes/general-template.php:1695
 msgctxt "date archive title prefix"
 msgid "Day:"
-msgstr ""
+msgstr "日："
 
 #: wp-includes/general-template.php:1698
 msgctxt "post format archive title"
 msgid "Asides"
-msgstr ""
+msgstr "侧边栏"
 
 #: wp-includes/general-template.php:1700
 msgctxt "post format archive title"
 msgid "Galleries"
-msgstr ""
+msgstr "图库"
 
 #: wp-includes/general-template.php:1702
 msgctxt "post format archive title"
 msgid "Images"
-msgstr ""
+msgstr "图像"
 
 #: wp-includes/general-template.php:1704
 msgctxt "post format archive title"
 msgid "Videos"
-msgstr ""
+msgstr "视频"
 
 #: wp-includes/general-template.php:1706
 msgctxt "post format archive title"
 msgid "Quotes"
-msgstr ""
+msgstr "引用"
 
 #: wp-includes/general-template.php:1708
 msgctxt "post format archive title"
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 #: wp-includes/general-template.php:1710
 msgctxt "post format archive title"
 msgid "Statuses"
-msgstr ""
+msgstr "状态"
 
 #: wp-includes/general-template.php:1712
 msgctxt "post format archive title"
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 #: wp-includes/general-template.php:1714
 msgctxt "post format archive title"
 msgid "Chats"
-msgstr ""
+msgstr "聊天"
 
 #: wp-includes/general-template.php:1718
 msgctxt "post type archive title prefix"
 msgid "Archives:"
-msgstr ""
+msgstr "归档："
 
 #. translators: %s: Taxonomy singular name.
 #: wp-includes/general-template.php:1726
 msgctxt "taxonomy term archive title prefix"
 msgid "%s:"
-msgstr ""
+msgstr "%s："
 
 #. translators: 1: Title prefix. 2: Title.
 #: wp-includes/general-template.php:1745
 msgctxt "archive title"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #. translators: 1: Month, 2: Year.
 #: wp-includes/general-template.php:2044
 #: wp-includes/media.php:4502
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%2$d %1$s"
 
 #. translators: Calendar caption: 1: Month name, 2: 4-digit year.
 #: wp-includes/general-template.php:2288
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%2$s %1$s"
 
 #. translators: Post calendar label. %s: Date.
 #: wp-includes/general-template.php:2360
 msgid "Posts published on %s"
-msgstr ""
+msgstr "发表于 %s 的帖子"
 
 #: wp-includes/general-template.php:2387
 msgid "Previous and next months"
-msgstr ""
+msgstr "前几个月和后几个月"
 
 #. translators: Separator between blog name and feed type in feed links.
 #: wp-includes/general-template.php:3071
 #: wp-includes/general-template.php:3123
 msgctxt "feed link"
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #. translators: 1: Blog title, 2: Separator (raquo).
 #: wp-includes/general-template.php:3073
 msgid "%1$s %2$s Feed"
-msgstr ""
+msgstr "%1$s %2$s 订阅源"
 
 #. translators: 1: Blog title, 2: Separator (raquo).
 #: wp-includes/general-template.php:3075
 msgid "%1$s %2$s Comments Feed"
-msgstr ""
+msgstr "%1$s %2$s 评论订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Post title.
 #: wp-includes/general-template.php:3125
 msgid "%1$s %2$s %3$s Comments Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s 评论订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Category name.
 #: wp-includes/general-template.php:3127
 msgid "%1$s %2$s %3$s Category Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s 分类订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Tag name.
 #: wp-includes/general-template.php:3129
 msgid "%1$s %2$s %3$s Tag Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s 标签订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Term name, 4: Taxonomy singular name.
 #: wp-includes/general-template.php:3131
 msgid "%1$s %2$s %3$s %4$s Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s %4$s 订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Author name.
 #: wp-includes/general-template.php:3133
 msgid "%1$s %2$s Posts by %3$s Feed"
-msgstr ""
+msgstr "%1$s %2$s 作者 %3$s 的文章订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Search query.
 #: wp-includes/general-template.php:3135
 msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
-msgstr ""
+msgstr "%1$s %2$s 搜索结果「%3$s」订阅源\n"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Post type name.
 #: wp-includes/general-template.php:3137
 msgid "%1$s %2$s %3$s Feed"
-msgstr ""
+msgstr "%1$s %2$s %3$s 订阅源"
 
 #: wp-includes/general-template.php:4457
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; 上一个"
 
 #: wp-includes/general-template.php:4458
 msgid "Next &raquo;"
-msgstr ""
+msgstr "下一个 &raquo;"
 
 #: wp-includes/general-template.php:4670
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: wp-includes/general-template.php:4682
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr ""
+msgstr "明亮"
 
 #: wp-includes/general-template.php:4694
 msgctxt "admin color scheme"
 msgid "Modern"
-msgstr ""
+msgstr "现代"
 
 #: wp-includes/general-template.php:4706
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr ""
+msgstr "蔚蓝"
 
 #: wp-includes/general-template.php:4718
 msgctxt "admin color scheme"
 msgid "Midnight"
-msgstr ""
+msgstr "子夜"
 
 #: wp-includes/general-template.php:4730
 msgctxt "admin color scheme"
 msgid "Sunrise"
-msgstr ""
+msgstr "晨曦"
 
 #: wp-includes/general-template.php:4742
 msgctxt "admin color scheme"
 msgid "Ectoplasm"
-msgstr ""
+msgstr "繁星"
 
 #: wp-includes/general-template.php:4754
 msgctxt "admin color scheme"
 msgid "Ocean"
-msgstr ""
+msgstr "远洋"
 
 #: wp-includes/general-template.php:4766
 msgctxt "admin color scheme"
 msgid "Coffee"
-msgstr ""
+msgstr "岩彩"
 
 #. translators: Character to identify required form fields.
 #: wp-includes/general-template.php:5133
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. translators: %s: Asterisk symbol (*).
 #: wp-includes/general-template.php:5157
 msgid "Required fields are marked %s"
-msgstr ""
+msgstr "必填字段标记为 %s"
 
 #: wp-includes/general-template.php:5239
 msgid "Powered by ClassicPress"
-msgstr ""
+msgstr "由 ClassicPress 强势驱动"
 
 #: wp-includes/https-detection.php:134
 msgid "HTTPS request failed."
-msgstr ""
+msgstr "HTTPS 请求失败。"
 
 #: wp-includes/https-detection.php:139
 msgid "SSL verification failed."
-msgstr ""
+msgstr "SSL 验证失败。"
 
 #: wp-includes/https-detection.php:150
 msgid "It looks like the response did not come from this site."
-msgstr ""
+msgstr "看起来该响应并非源自这个站点。"
 
 #. translators: 1: CUSTOM_TAGS, 2: Global variable names.
 #: wp-includes/kses.php:714
 msgid "When using the %1$s constant, make sure to set these globals to an array: %2$s."
-msgstr ""
+msgstr "当使用 %1$s 常量时，请确保将这些全局变量设置为一个数组： %2$s。"
 
 #: wp-includes/l10n.php:1573
 msgctxt "translations"
 msgid "Installed"
-msgstr ""
+msgstr "已安装"
 
 #: wp-includes/l10n.php:1581
 msgctxt "default site language"
 msgid "Site Default"
-msgstr ""
+msgstr "站点默认"
 
 #: wp-includes/l10n.php:1610
 msgctxt "translations"
 msgid "Available"
-msgstr ""
+msgstr "可供使用"
 
 #: wp-includes/link-template.php:836
 msgid "Comments Feed"
-msgstr ""
+msgstr "评论订阅源"
 
 #: wp-includes/link-template.php:1149
 #: wp-includes/link-template.php:1517
 #: wp-includes/link-template.php:1627
 #: wp-includes/link-template.php:1690
 msgid "Edit This"
-msgstr ""
+msgstr "编辑此内容"
 
 #. translators: %s: The word 'and'.
 #: wp-includes/link-template.php:1826
 msgid "Use commas instead of %s to separate excluded terms."
-msgstr ""
+msgstr "使用逗号而不是 %s 来分隔要排除的条目。"
 
 #: wp-includes/link-template.php:2046
 #: wp-includes/link-template.php:2322
 msgid "Previous Post"
-msgstr ""
+msgstr "上一篇文章"
 
 #: wp-includes/link-template.php:2046
 #: wp-includes/link-template.php:2322
 msgid "Next Post"
-msgstr ""
+msgstr "下一篇文章"
 
 #: wp-includes/link-template.php:2538
 #: wp-includes/link-template.php:2691
 msgid "Next Page &raquo;"
-msgstr ""
+msgstr "下一页 &raquo;"
 
 #: wp-includes/link-template.php:2631
 #: wp-includes/link-template.php:2690
 msgid "&laquo; Previous Page"
-msgstr ""
+msgstr "&laquo; 上一页"
 
 #: wp-includes/link-template.php:2767
 msgid "Post navigation"
-msgstr ""
+msgstr "文章导航"
 
 #: wp-includes/link-template.php:2768
 #: wp-includes/link-template.php:2852
 #: wp-includes/link-template.php:2924
 msgid "Posts"
-msgstr ""
+msgstr "文章"
 
 #: wp-includes/link-template.php:2849
 msgid "Older posts"
-msgstr ""
+msgstr "较早的文章"
 
 #: wp-includes/link-template.php:2850
 msgid "Newer posts"
-msgstr ""
+msgstr "较新的文章"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/link-template.php:2851
 #: wp-includes/link-template.php:2923
 #: wp-includes/link-template.php:2991
 msgid "Posts navigation"
-msgstr ""
+msgstr "文章导航"
 
 #: wp-includes/link-template.php:2921
 msgctxt "previous set of posts"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: wp-includes/link-template.php:2922
 msgctxt "next set of posts"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: wp-includes/link-template.php:3111
 msgid "Newer Comments &raquo;"
-msgstr ""
+msgstr "较新的评论 &raquo;"
 
 #: wp-includes/link-template.php:3165
 msgid "&laquo; Older Comments"
-msgstr ""
+msgstr "&laquo; 较旧的评论"
 
 #: wp-includes/link-template.php:3278
 msgid "Older comments"
-msgstr ""
+msgstr "较旧的评论"
 
 #: wp-includes/link-template.php:3279
 msgid "Newer comments"
-msgstr ""
+msgstr "较新的评论"
 
 #: wp-includes/link-template.php:3280
 #: wp-includes/link-template.php:3343
 msgid "Comments navigation"
-msgstr ""
+msgstr "评论导航"
 
 #: wp-includes/link-template.php:4214
 msgid "This is the short link."
-msgstr ""
+msgstr "这是短链接。"
 
 #: wp-includes/load.php:170
 msgid "Your PHP installation appears to be missing the MySQL extension which is required by ClassicPress."
-msgstr ""
+msgstr "您的 PHP 安装似乎缺少 ClassicPress 所需的 MySQL 扩展。"
 
 #. translators: %s: mysqli.
 #: wp-includes/load.php:174
 msgid "Please check that the %s PHP extension is installed and enabled."
-msgstr ""
+msgstr "请检查是否安装并启用了 %s PHP 扩展。"
 
 #: wp-includes/load.php:190
 msgid "Requirements Not Met"
-msgstr ""
+msgstr "不满足要求"
 
 #. translators: %s: WP_ENVIRONMENT_TYPES
 #: wp-includes/load.php:230
 msgid "The %s constant is no longer supported."
-msgstr ""
+msgstr "常量 %s 不再受支持。"
 
 #: wp-includes/load.php:304
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
-msgstr ""
+msgstr "正在执行例行维护，请一分钟后再回来。"
 
 #: wp-includes/load.php:305
 msgid "Maintenance"
-msgstr ""
+msgstr "维护"
 
 #. translators: 1: $table_prefix, 2: wp-config.php
 #: wp-includes/load.php:649
 msgid "<strong>Error:</strong> %1$s in %2$s can only contain numbers, letters, and underscores."
-msgstr ""
+msgstr "<strong>错误：</strong> %1$s 在 %2$s 中只能包含数字、字母和下划线。"
 
 #: wp-includes/load.php:800
 msgid "The site you have requested is not installed properly. Please contact the system administrator."
-msgstr ""
+msgstr "您请求的站点未被正确安装。请与系统管理员联系。"
 
 #: wp-includes/load.php:1670
 msgid "Scrape key check failed. Please try again."
-msgstr ""
+msgstr "查询密钥失败。请重试。"
 
 #. translators: 1: Link to tutorial, 2: Additional link attributes, 3: Accessibility text.
 #: wp-includes/media-template.php:161
 msgid "<a href=\"%1$s\" %2$s>Learn how to describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "<a href=\"%1$s\" %2$s>学习如何描述图像%3$s</a>的目的。如果图像纯粹是装饰性的，请留空。"
 
 #: wp-includes/media-template.php:175
 msgctxt "media modal menu actions"
 msgid "Actions"
-msgstr ""
+msgstr "操作"
 
 #: wp-includes/media-template.php:177
 msgctxt "media modal menu"
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:188
 msgid "Selected media actions"
-msgstr ""
+msgstr "选定的媒体操作"
 
 #: wp-includes/media-template.php:214
 #: wp-includes/media-template.php:221
 #: wp-includes/media-template.php:263
 msgid "Drop files to upload"
-msgstr ""
+msgstr "拖放文件以上传"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:232
 msgid "Close uploader"
-msgstr ""
+msgstr "关闭上传器"
 
 #: wp-includes/media-template.php:242
 msgid "Your browser cannot upload files"
-msgstr ""
+msgstr "您的浏览器无法上传文件"
 
 #. translators: %s: https://apps.wordpress.org
 #: wp-includes/media-template.php:247
 msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
-msgstr ""
+msgstr "您设备上的网页浏览器不能用于上传文件。您或许可以为您的设备使用<a href=\"%s\">原生应用</a>。"
 
 #: wp-includes/media-template.php:255
 msgid "Upload Limit Exceeded"
-msgstr ""
+msgstr "超过上传限制"
 
 #: wp-includes/media-template.php:264
 msgctxt "Uploader: Drop files here - or - Select Files"
 msgid "or"
-msgstr ""
+msgstr "或"
 
 #: wp-includes/media-template.php:265
 msgid "Select Files"
-msgstr ""
+msgstr "选择文件"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-includes/media-template.php:296
 msgid "Maximum upload file size: %s."
-msgstr ""
+msgstr "最大上传文件大小： %s"
 
 #. translators: 1: Suggested width number, 2: Suggested height number.
 #: wp-includes/media-template.php:306
 #: wp-includes/media.php:4665
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr ""
+msgstr "建议的图像尺寸： %1$s * %2$s 像素。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:326
 msgid "List view"
-msgstr ""
+msgstr "列表视图"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:334
 msgid "Grid view"
-msgstr ""
+msgstr "网格视图"
 
 #: wp-includes/media-template.php:342
 msgid "Uploading"
-msgstr ""
+msgstr "上传中"
 
 #: wp-includes/media-template.php:353
 msgid "Dismiss errors"
-msgstr ""
+msgstr "忽略错误"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:365
 msgid "Edit previous media item"
-msgstr ""
+msgstr "编辑上一个媒体项目"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:366
 msgid "Edit next media item"
-msgstr ""
+msgstr "编辑下一个媒体项目"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:376
 msgid "Attachment Preview"
-msgstr ""
+msgstr "附件预览"
 
 #: wp-includes/media-template.php:414
 #: wp-includes/media-template.php:712
 msgid "Edit Image"
-msgstr ""
+msgstr "编辑图像"
 
 #: wp-includes/media-template.php:416
 msgid "Document Preview"
-msgstr ""
+msgstr "文档预览"
 
 #: wp-includes/media-template.php:424
 #: wp-includes/media-template.php:650
 msgid "Saved."
-msgstr ""
+msgstr "已保存。"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:430
 msgid "Details"
-msgstr ""
+msgstr "详情"
 
 #: wp-includes/media-template.php:433
 msgid "Uploaded on:"
-msgstr ""
+msgstr "上传于："
 
 #: wp-includes/media-template.php:435
 msgid "Uploaded by:"
-msgstr ""
+msgstr "上传者："
 
 #: wp-includes/media-template.php:444
 msgid "Uploaded to:"
-msgstr ""
+msgstr "上传至："
 
 #: wp-includes/media-template.php:452
 msgid "File name:"
-msgstr ""
+msgstr "文件名："
 
 #: wp-includes/media-template.php:453
 msgid "File type:"
-msgstr ""
+msgstr "文件类型："
 
 #: wp-includes/media-template.php:454
 msgid "File size:"
-msgstr ""
+msgstr "文件大小："
 
 #: wp-includes/media-template.php:457
 msgid "Dimensions:"
-msgstr ""
+msgstr "尺寸："
 
 #. translators: 1: A number of pixels wide, 2: A number of pixels tall.
 #: wp-includes/media-template.php:460
 #: wp-includes/media-template.php:699
 msgid "%1$s by %2$s pixels"
-msgstr ""
+msgstr "%1$s * %2$s 像素"
 
 #: wp-includes/media-template.php:467
 #: wp-includes/media-template.php:706
 msgid "Original image:"
-msgstr ""
+msgstr "原始图像："
 
 #: wp-includes/media-template.php:474
 #: wp-includes/media-template.php:717
 msgid "Length:"
-msgstr ""
+msgstr "时长："
 
 #: wp-includes/media-template.php:482
 msgid "Bitrate:"
-msgstr ""
+msgstr "比特率："
 
 #: wp-includes/media-template.php:490
 #: wp-includes/media-template.php:724
 msgid "Used as:"
-msgstr ""
+msgstr "用作："
 
 #: wp-includes/media-template.php:504
 #: wp-includes/media-template.php:1055
 #: wp-includes/media-template.php:1118
 #: wp-includes/widgets/class-wp-widget-media-image.php:98
 msgid "Alternative Text"
-msgstr ""
+msgstr "替代文本"
 
 #: wp-includes/media-template.php:518
 #: wp-includes/media-template.php:763
 #: wp-includes/media.php:2998
 msgid "Artist"
-msgstr ""
+msgstr "艺人"
 
 #: wp-includes/media-template.php:519
 #: wp-includes/media-template.php:764
 #: wp-includes/media.php:2999
 msgid "Album"
-msgstr ""
+msgstr "专辑"
 
 #: wp-includes/media-template.php:537
 #: wp-includes/media-template.php:782
 msgid "File URL:"
-msgstr ""
+msgstr "文件 URL："
 
 #: wp-includes/media-template.php:540
 #: wp-includes/media-template.php:785
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "复制 URL 到剪贴板"
 
 #: wp-includes/media-template.php:541
 #: wp-includes/media-template.php:786
 msgid "Copied!"
-msgstr ""
+msgstr "已复制！"
 
 #: wp-includes/media-template.php:549
 msgid "View attachment page"
-msgstr ""
+msgstr "查看附件页面"
 
 #: wp-includes/media-template.php:555
 msgid "Edit more details"
-msgstr ""
+msgstr "编辑更多详情"
 
 #: wp-includes/media-template.php:559
 msgid "Download file"
-msgstr ""
+msgstr "下载文件"
 
 #: wp-includes/media-template.php:567
 #: wp-includes/media-template.php:730
 #: wp-includes/media.php:4617
 msgid "Restore from Trash"
-msgstr ""
+msgstr "从回收站恢复"
 
 #: wp-includes/media-template.php:569
 #: wp-includes/media-template.php:732
 #: wp-includes/media.php:4616
 msgid "Move to Trash"
-msgstr ""
+msgstr "移至回收站"
 
 #: wp-includes/media-template.php:572
 #: wp-includes/media-template.php:735
 #: wp-includes/media.php:4618
 msgid "Delete permanently"
-msgstr ""
+msgstr "永久删除"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:617
 msgid "Deselect"
-msgstr ""
+msgstr "取消选择"
 
 #: wp-includes/media-template.php:627
 msgid "Caption&hellip;"
-msgstr ""
+msgstr "说明&hellip;"
 
 #: wp-includes/media-template.php:631
 msgid "Video title"
-msgstr ""
+msgstr "视频标题"
 
 #: wp-includes/media-template.php:632
 msgid "Video title&hellip;"
-msgstr ""
+msgstr "视频标题&hellip;"
 
 #: wp-includes/media-template.php:634
 msgid "Audio title"
-msgstr ""
+msgstr "音频标题"
 
 #: wp-includes/media-template.php:635
 msgid "Audio title&hellip;"
@@ -7719,225 +7719,230 @@ msgstr ""
 #: wp-includes/media-template.php:1483
 #: wp-includes/widgets/class-wp-widget-media-video.php:87
 msgid "Tracks (subtitles, captions, descriptions, chapters, or metadata)"
-msgstr ""
+msgstr "曲目（字幕、标题、说明、章节或元数据）"
 
 #. translators: 1: "srclang" HTML attribute, 2: "label" HTML attribute, 3: "kind" HTML attribute.
 #: wp-includes/media-template.php:1473
 msgid "The %1$s, %2$s, and %3$s values can be edited to set the video track language and kind."
-msgstr ""
+msgstr "可以通过编辑 %1$s、 %2$s 和 %3$s 值来设置视频语言和类型。"
 
 #: wp-includes/media-template.php:1480
 msgctxt "media"
 msgid "Remove video track"
-msgstr ""
+msgstr "移除视频轨道"
 
 #: wp-includes/media-template.php:1484
 msgid "There are no associated subtitles."
-msgstr ""
+msgstr "没有关联的字幕。"
 
 #: wp-includes/media-template.php:1518
 #: wp-includes/media.php:4606
 msgid "No items found."
-msgstr ""
+msgstr "未找到项目。"
 
 #: wp-includes/media-template.php:1525
 msgid "Image crop area preview. Requires mouse interaction."
-msgstr ""
+msgstr "图像裁剪区域预览。需要鼠标交互。"
 
 #: wp-includes/media-template.php:1532
 msgid "As a browser icon"
-msgstr ""
+msgstr "作为浏览器图标"
 
 #: wp-includes/media-template.php:1542
 msgid "As an app icon"
-msgstr ""
+msgstr "作为应用程序图标"
 
 #. translators: %s: Playlist item title.
 #: wp-includes/media.php:2628
 #: wp-includes/media.php:2649
 msgctxt "playlist item title"
 msgid "&#8220;%s&#8221;"
-msgstr ""
+msgstr "&#8220;%s&#8221;"
 
 #: wp-includes/media.php:3003
 msgid "Genre"
-msgstr ""
+msgstr "流派"
 
 #: wp-includes/media.php:3005
 msgctxt "video or audio"
 msgid "Length"
-msgstr ""
+msgstr "时长"
 
 #: wp-includes/media.php:3007
 msgid "Bitrate"
-msgstr ""
+msgstr "比特率"
 
 #: wp-includes/media.php:3008
 msgid "Bitrate Mode"
-msgstr ""
+msgstr "比特率模式"
 
 #: wp-includes/media.php:3885
 msgid "No editor could be selected."
-msgstr ""
+msgstr "没有编辑器可供选择。"
 
 #: wp-includes/media.php:4167
 msgid "(no author)"
-msgstr ""
+msgstr "（无作者）"
 
 #: wp-includes/media.php:4173
 #: wp-includes/script-loader.php:1057
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:107
 msgid "(no title)"
-msgstr ""
+msgstr "（无标题）"
 
 #: wp-includes/media.php:4577
 #: wp-includes/media.php:4599
 msgid "Add media"
-msgstr ""
+msgstr "添加媒体"
 
 #: wp-includes/media.php:4579
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #: wp-includes/media.php:4581
 #: wp-includes/script-loader.php:1055
 #: wp-login.php:666
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #. translators: This is a would-be plural string used in the media manager. If there is not a word you can use in your language to avoid issues with the lack of plural support here, turn it into "selected: %d" then translate it.
 #: wp-includes/media.php:4590
 msgid "%d selected"
-msgstr ""
+msgstr "%d 已选择"
 
 #: wp-includes/media.php:4591
 msgid "Drag and drop to reorder media files."
-msgstr ""
+msgstr "拖放以重新排序媒体文件。"
 
 #: wp-includes/media.php:4594
 msgid "Upload files"
-msgstr ""
+msgstr "上传文件"
 
 #: wp-includes/media.php:4595
 msgid "Upload images"
-msgstr ""
+msgstr "上传图像"
 
 #: wp-includes/media.php:4598
 msgid "Media Library"
-msgstr ""
+msgstr "媒体库"
 
 #: wp-includes/media.php:4600
 msgid "Create a new gallery"
-msgstr ""
+msgstr "创建新相册"
 
 #: wp-includes/media.php:4601
 msgid "Create a new playlist"
-msgstr ""
+msgstr "创建新播放列表"
 
 #: wp-includes/media.php:4602
 msgid "Create a new video playlist"
-msgstr ""
+msgstr "创建新视频播放列表"
 
 #: wp-includes/media.php:4603
 msgid "&#8592; Go to library"
-msgstr ""
+msgstr "&#8592; 转到媒体库"
 
 #: wp-includes/media.php:4604
 msgid "All media items"
-msgstr ""
+msgstr "所有媒体项目"
 
 #: wp-includes/media.php:4605
 msgid "All dates"
-msgstr ""
+msgstr "所有日期"
 
 #: wp-includes/media.php:4608
 msgctxt "media items"
 msgid "Unattached"
-msgstr ""
+msgstr "未使用"
 
 #: wp-includes/media.php:4609
 msgctxt "media items"
 msgid "Mine"
-msgstr ""
+msgstr "我的"
 
 #: wp-includes/media.php:4610
 msgctxt "noun"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-includes/media.php:4612
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 " 'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "您即将从您的站点中永久删除此项目。\n"
+"该操作不能被撤销。\n"
+"按下「取消」以终止，「确认」以继续。"
 
 #: wp-includes/media.php:4613
 msgid "You are about to permanently delete these items from your site.\n"
 "This action cannot be undone.\n"
 " 'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "您即将从您的站点中永久删除这些项目。\n"
+"该操作不能被撤销。\n"
+"按下「取消」以终止，「确认」以继续。"
 
 #: wp-includes/media.php:4614
 msgid "You are about to trash these items.\n"
 "  'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "您即将将这些项目移入回收站。\n"
+"按下「取消」以终止，「确认」以继续。"
 
 #: wp-includes/media.php:4615
 msgid "Bulk select"
-msgstr ""
+msgstr "批量选择"
 
 #: wp-includes/media.php:4619
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "删除附件时出错。"
 
 #: wp-includes/media.php:4622
 msgid "Filter by type"
-msgstr ""
+msgstr "按类型筛选"
 
 #: wp-includes/media.php:4624
 msgid "Search media"
-msgstr ""
+msgstr "搜索媒体"
 
 #: wp-includes/media.php:4625
 msgid "Search media items..."
-msgstr ""
+msgstr "搜索媒体项目..."
 
 #. translators: %d: Number of attachments found in a search.
 #: wp-includes/media.php:4627
 msgid "Number of media items found: %d"
-msgstr ""
+msgstr "找到的媒体项目数量： %d"
 
 #: wp-includes/media.php:4628
 msgid "No media items found."
-msgstr ""
+msgstr "未找到媒体项目。"
 
 #: wp-includes/media.php:4629
 msgid "No media items found. Try a different search."
-msgstr ""
+msgstr "未找到媒体项目，请尝试其他搜索词。"
 
 #: wp-includes/media.php:4632
 msgid "Attachment details"
-msgstr ""
+msgstr "附件详情"
 
 #: wp-includes/media.php:4635
 msgid "Insert from URL"
-msgstr ""
+msgstr "从 URL 插入"
 
 #: wp-includes/media.php:4642
 msgid "Create gallery"
-msgstr ""
+msgstr "创建相册"
 
 #: wp-includes/media.php:4643
 msgid "Edit gallery"
-msgstr ""
+msgstr "编辑相册"
 
 #: wp-includes/media.php:4644
 msgid "&#8592; Cancel gallery"
-msgstr ""
+msgstr "&#8592; 取消相册"
 
 #: wp-includes/media.php:4645
 msgid "Insert gallery"
-msgstr ""
+msgstr "插入相册"
 
 #: wp-includes/media.php:4646
 msgid "Update gallery"
