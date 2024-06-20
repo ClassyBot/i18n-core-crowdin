@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-09 15:14\n"
+"PO-Revision-Date: 2024-06-20 15:13\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4038,17 +4038,17 @@ msgstr ""
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Categories"
-msgstr ""
+msgstr "&larr; Aller aux catégories"
 
 #: wp-includes/class-wp-taxonomy.php:640
 msgctxt "navigation link block title"
 msgid "Tag Link"
-msgstr ""
+msgstr "Lien du tag"
 
 #: wp-includes/class-wp-taxonomy.php:641
 msgctxt "navigation link block title"
 msgid "Category Link"
-msgstr ""
+msgstr "Lien de catégorie"
 
 #: wp-includes/class-wp-taxonomy.php:644
 msgctxt "navigation link block description"
