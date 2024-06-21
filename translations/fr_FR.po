@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-02 16:02\n"
+"PO-Revision-Date: 2024-06-21 03:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -19562,7 +19562,7 @@ msgstr "Vert"
 
 #: wp-includes/class-wp-theme.php:781
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Pink"
@@ -19614,7 +19614,7 @@ msgstr "Mise en page responsive"
 
 #: wp-includes/class-wp-theme.php:786
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:787
 msgid "Photoblogging"
