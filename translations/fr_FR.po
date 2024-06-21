@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-20 15:13\n"
+"PO-Revision-Date: 2024-06-21 03:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4053,12 +4053,12 @@ msgstr "Lien de catégorie"
 #: wp-includes/class-wp-taxonomy.php:644
 msgctxt "navigation link block description"
 msgid "A link to a tag."
-msgstr ""
+msgstr "Un lien vers un tag."
 
 #: wp-includes/class-wp-taxonomy.php:645
 msgctxt "navigation link block description"
 msgid "A link to a category."
-msgstr ""
+msgstr "Un lien vers une catégorie."
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
@@ -4067,17 +4067,17 @@ msgstr "L’identifiant du terme est partagé par plusieurs taxinomies"
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:119
 msgid "Added:"
-msgstr ""
+msgstr "Ajouté :"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:132
 msgid "Deleted:"
-msgstr ""
+msgstr "Supprimé :"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:145
 msgid "Unchanged:"
-msgstr ""
+msgstr "Non modifié :"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:261
@@ -4090,7 +4090,7 @@ msgstr "La feuille de style est absente."
 
 #: wp-includes/class-wp-theme.php:279
 msgid "<strong>Error:</strong> The themes directory is either empty or does not exist. Please check your installation."
-msgstr ""
+msgstr "<strong>Erreur :</strong> Le répertoire des thèmes est soit vide soit n'existe pas. Veuillez vérifier votre installation."
 
 #: wp-includes/class-wp-theme.php:284
 msgid "Stylesheet is not readable."
@@ -4154,7 +4154,7 @@ msgstr "Vert"
 
 #: wp-includes/class-wp-theme.php:1004
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: wp-includes/class-wp-theme.php:1005
 msgid "Pink"
@@ -4208,7 +4208,7 @@ msgstr "Mise en page responsive"
 
 #: wp-includes/class-wp-theme.php:1017
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:1018
 msgid "Photoblogging"
@@ -4494,13 +4494,13 @@ msgstr "Désolé, vous n’avez pas l’autorisation d’ajouter un terme à l�
 #: wp-includes/class-wp-xmlrpc-server.php:5217
 #: wp-includes/class-wp-xmlrpc-server.php:5971
 msgid "Sorry, the post could not be updated."
-msgstr ""
+msgstr "Désolé, cette publication n'a pas pu être mise à jour."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1701
 #: wp-includes/class-wp-xmlrpc-server.php:5137
 #: wp-includes/class-wp-xmlrpc-server.php:5626
 msgid "Sorry, the post could not be created."
-msgstr ""
+msgstr "Désolé, cette publication n'a pas pu être créée."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1756
 msgid "There is a revision of this post that is more recent."
@@ -4516,7 +4516,7 @@ msgstr "Désolé, vous n’avez pas l’autorisation de supprimer cet article."
 #: wp-includes/class-wp-xmlrpc-server.php:1842
 #: wp-includes/class-wp-xmlrpc-server.php:5277
 msgid "Sorry, the post could not be deleted."
-msgstr ""
+msgstr "Désolé, la publication n’a pas pu être supprimée."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2003
 #: wp-includes/class-wp-xmlrpc-server.php:4567
@@ -4775,7 +4775,7 @@ msgstr "Soit il n’y a aucun article, soit une erreur s’est produite."
 #: wp-includes/class-wp-xmlrpc-server.php:5064
 #: wp-includes/class-wp-xmlrpc-server.php:5077
 msgid "Sorry, this method is not supported."
-msgstr ""
+msgstr "Désolé, cette méthode n'est pas supportée."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5193
 #: wp-includes/class-wp-xmlrpc-server.php:5267
@@ -8920,17 +8920,17 @@ msgstr[1] "Vidéos <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2906
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: wp-includes/post.php:2907
 msgid "Manage Documents"
-msgstr ""
+msgstr "Gérer les documents"
 
 #. translators: %s: Number of documents.
 #: wp-includes/post.php:2909
 msgid "Document <span class=\"count\">(%s)</span>"
 msgid_plural "Documents <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Document <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 
 #: wp-includes/post.php:2915
@@ -8939,7 +8939,7 @@ msgstr ""
 
 #: wp-includes/post.php:2916
 msgid "Manage Spreadsheets"
-msgstr ""
+msgstr "Gérer les feuilles de calcul"
 
 #. translators: %s: Number of spreadsheets.
 #: wp-includes/post.php:2918
