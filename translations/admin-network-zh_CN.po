@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-16 13:50\n"
+"PO-Revision-Date: 2024-06-26 01:42\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -753,29 +753,29 @@ msgstr "您好，###USERNAME###\n\n"
 #. translators: %s: Site title.
 #: wp-admin/ms-delete-site.php:93
 msgid "[%s] Delete My Site"
-msgstr ""
+msgstr "[%s] 删除我的站点"
 
 #: wp-admin/ms-delete-site.php:104
 msgid "Thank you. Please check your email for a link to confirm your action. Your site will not be deleted until this link is clicked."
-msgstr ""
+msgstr "谢谢您。请检查您的电子邮件中的链接以确认您的操作。在点击此链接之前，您的站点将不会被删除。"
 
 #. translators: %s: Network title.
 #: wp-admin/ms-delete-site.php:113
 msgid "If you do not want to use your %s site any more, you can delete it using the form below. When you click <strong>Delete My Site Permanently</strong> you will be sent an email with a link in it. Click on this link to delete your site."
-msgstr ""
+msgstr "如果您不希望继续使用您的站点「%s」，您可以使用下面的表单以申请删除站点。当您点击<strong>永久删除我的站点</strong>时，您将会收到一封包含一个链接的电子邮件。单击电子邮件中的链接以删除您的站点。"
 
 #: wp-admin/ms-delete-site.php:118
 msgid "Remember, once deleted your site cannot be restored."
-msgstr ""
+msgstr "请牢记，删除站点的操作是不可逆的。"
 
 #. translators: %s: Site address.
 #: wp-admin/ms-delete-site.php:127
 msgid "I'm sure I want to permanently delete my site, and I am aware I can never get it back or use %s again."
-msgstr ""
+msgstr "我确定要删除我的站点「%s」，并且我已知晓我无法再继续使用或恢复我的站点。"
 
 #: wp-admin/ms-delete-site.php:132
 msgid "Delete My Site Permanently"
-msgstr ""
+msgstr "永久删除我的站点"
 
 #: wp-admin/my-sites.php:17
 #: wp-admin/network/index.php:17
@@ -794,15 +794,15 @@ msgstr ""
 #: wp-admin/network/users.php:65
 #: wp-admin/network/users.php:160
 msgid "Sorry, you are not allowed to access this page."
-msgstr ""
+msgstr "对不起，您无权访问此页面。"
 
 #: wp-admin/my-sites.php:33
 msgid "The primary site you chose does not exist."
-msgstr ""
+msgstr "您所选择的主站点不存在。"
 
 #: wp-admin/my-sites.php:38
 msgid "My Sites"
-msgstr ""
+msgstr "我的站点"
 
 #: wp-admin/my-sites.php:46
 msgid "This screen shows an individual user all of their sites in this network, and also allows that user to set a primary site. They can use the links under each site to visit either the front end or the dashboard for that site."
