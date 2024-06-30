@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-26 13:41\n"
+"PO-Revision-Date: 2024-06-30 12:40\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -1264,62 +1264,62 @@ msgstr "要允许的类型。不同类型之间用空格分隔。"
 
 #: wp-admin/network/settings.php:427
 msgid "Max upload file size"
-msgstr ""
+msgstr "最大上传文件大小"
 
 #. translators: %s: File size in kilobytes.
 #: wp-admin/network/settings.php:432
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:439
 msgid "Size in kilobytes"
-msgstr ""
+msgstr "以千字节记的空间大小"
 
 #: wp-admin/network/settings.php:451
 msgid "Language Settings"
-msgstr ""
+msgstr "语言设置"
 
 #: wp-admin/network/settings.php:454
 msgid "Default Language"
-msgstr ""
+msgstr "默认语言"
 
 #: wp-admin/network/settings.php:501
 msgid "Menu Settings"
-msgstr ""
+msgstr "菜单设置"
 
 #: wp-admin/network/settings.php:504
 msgid "Enable administration menus"
-msgstr ""
+msgstr "启用管理菜单"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:509
 msgid "Enable menus"
-msgstr ""
+msgstr "启用菜单"
 
 #: wp-admin/network/site-info.php:14
 #: wp-admin/network/site-settings.php:14
 #: wp-admin/network/site-users.php:14
 msgid "Sorry, you are not allowed to edit this site."
-msgstr ""
+msgstr "对不起，您无权编辑此站点。"
 
 #: wp-admin/network/site-info.php:23
 #: wp-admin/network/site-settings.php:23
 #: wp-admin/network/site-themes.php:46
 #: wp-admin/network/site-users.php:41
 msgid "Invalid site ID."
-msgstr ""
+msgstr "无效的站点 ID。"
 
 #: wp-admin/network/site-info.php:28
 #: wp-admin/network/site-settings.php:28
 #: wp-admin/network/site-themes.php:53
 #: wp-admin/network/site-users.php:46
 msgid "The requested site does not exist."
-msgstr ""
+msgstr "所请求的站点不存在。"
 
 #: wp-admin/network/site-info.php:126
 msgid "Site info updated."
-msgstr ""
+msgstr "站点信息已更新。"
 
 #. translators: %s: Site title.
 #: wp-admin/network/site-info.php:132
@@ -1327,64 +1327,64 @@ msgstr ""
 #: wp-admin/network/site-themes.php:171
 #: wp-admin/network/site-users.php:200
 msgid "Edit Site: %s"
-msgstr ""
+msgstr "编辑站点： %s"
 
 #: wp-admin/network/site-info.php:168
 #: wp-admin/network/site-info.php:176
 #: wp-admin/network/site-new.php:204
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "站点地址（URL）"
 
 #: wp-admin/network/site-info.php:190
 msgctxt "site"
 msgid "Public"
-msgstr ""
+msgstr "公开"
 
 #: wp-admin/network/site-info.php:199
 msgid "Attributes"
-msgstr ""
+msgstr "属性"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/site-info.php:205
 msgid "Set site attributes"
-msgstr ""
+msgstr "设置站点属性"
 
 #: wp-admin/network/site-new.php:17
 msgid "Sorry, you are not allowed to add sites to this network."
-msgstr ""
+msgstr "对不起，您无权向该网络添加站点。"
 
 #: wp-admin/network/site-new.php:25
 msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
-msgstr ""
+msgstr "超级管理员可使用此屏幕向网络添加新站点。这不受注册设置的影响。"
 
 #: wp-admin/network/site-new.php:26
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
-msgstr ""
+msgstr "如果新站点的管理员电子邮件地址不存在于数据库中，新用户也将被创建。"
 
 #: wp-admin/network/site-new.php:40
 msgid "Cannot create an empty site."
-msgstr ""
+msgstr "无法创建空站点。"
 
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
 msgid "The following words are reserved for use by ClassicPress functions and cannot be used as site names: %s"
-msgstr ""
+msgstr "以下名称保留给 ClassicPress 功能使用，因而不能用作站点名称： %s"
 
 #: wp-admin/network/site-new.php:87
 msgid "Missing or invalid site address."
-msgstr ""
+msgstr "缺失或无效的站点地址。"
 
 #: wp-admin/network/site-new.php:91
 msgid "Missing email address."
-msgstr ""
+msgstr "缺失电子邮件地址。"
 
 #: wp-admin/network/site-new.php:96
 msgid "Invalid email address."
-msgstr ""
+msgstr "无效的电子邮件地址。"
 
 #: wp-admin/network/site-new.php:121
 msgid "The domain or path entered conflicts with an existing username."
-msgstr ""
+msgstr "输入的域名或路径与现有用户名相冲突。"
 
 #: wp-admin/network/site-new.php:126
 msgid "There was an error creating the user."
