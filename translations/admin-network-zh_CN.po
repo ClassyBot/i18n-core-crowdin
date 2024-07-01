@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-06-30 12:40\n"
+"PO-Revision-Date: 2024-07-01 00:40\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -1388,37 +1388,37 @@ msgstr "输入的域名或路径与现有用户名相冲突。"
 
 #: wp-admin/network/site-new.php:126
 msgid "There was an error creating the user."
-msgstr ""
+msgstr "创建用户时出错。"
 
 #. translators: 1: Dashboard URL, 2: Network admin edit URL.
 #: wp-admin/network/site-new.php:170
 msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
-msgstr ""
+msgstr "站点已添加。<a href=\"%1$s\">访问仪表盘</a>或<a href=\"%2$s\">编辑站点</a>"
 
 #: wp-admin/network/site-new.php:178
 #: wp-admin/network/site-new.php:188
 msgid "Add New Site"
-msgstr ""
+msgstr "添加站点"
 
 #: wp-admin/network/site-new.php:219
 msgid "Only lowercase letters (a-z), numbers, and hyphens are allowed."
-msgstr ""
+msgstr "只允许小写字母（a-z），数字和连字符。"
 
 #: wp-admin/network/site-new.php:227
 msgid "Site Title"
-msgstr ""
+msgstr "站点标题"
 
 #: wp-admin/network/site-new.php:240
 msgid "Site Language"
-msgstr ""
+msgstr "站点语言"
 
 #: wp-admin/network/site-new.php:288
 msgid "Admin Email"
-msgstr ""
+msgstr "管理员电子邮件地址"
 
 #: wp-admin/network/site-new.php:297
 msgid "A new user will be created if the above email address is not in the database."
-msgstr ""
+msgstr "如果上述电子邮件地址不在数据库中，将创建一个新用户。"
 
 #: wp-admin/network/site-new.php:297
 msgid "The username and a link to set the password will be mailed to this email address."
