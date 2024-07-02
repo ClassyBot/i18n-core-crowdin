@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-02 08:41\n"
+"PO-Revision-Date: 2024-07-02 20:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1803,7 +1803,7 @@ msgstr "已批准"
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
@@ -1831,7 +1831,7 @@ msgstr ""
 #. translators: %s: comment link
 #: wp-admin/edit-form-comment.php:141
 msgid "In reply to: %s"
-msgstr ""
+msgstr "回复到：%s"
 
 #: wp-admin/edit-form-comment.php:166
 #: wp-admin/includes/class-wp-comments-list-table.php:309
@@ -2748,7 +2748,7 @@ msgstr "（无标题）"
 #: wp-includes/post.php:749 wp-includes/post.php:769
 #: wp-includes/script-loader.php:585 wp-includes/script-loader.php:746
 msgid "Published"
-msgstr ""
+msgstr "已发表"
 
 #: wp-admin/includes/ajax-actions.php:1798
 #: wp-admin/includes/class-wp-posts-list-table.php:997
@@ -2756,14 +2756,14 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:94 wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/template.php:1765
 msgid "Scheduled"
-msgstr ""
+msgstr "已计划"
 
 #: wp-admin/includes/ajax-actions.php:1801
 #: wp-admin/includes/class-wp-posts-list-table.php:1650
 #: wp-admin/includes/meta-boxes.php:97 wp-admin/includes/meta-boxes.php:120
 #: wp-includes/post.php:747
 msgid "Pending Review"
-msgstr ""
+msgstr "等待审核"
 
 #: wp-admin/includes/ajax-actions.php:1804
 #: wp-admin/includes/class-wp-posts-list-table.php:1651
@@ -2771,7 +2771,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:124 wp-admin/includes/template.php:1754
 #: wp-includes/post.php:746 wp-includes/post.php:767
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 #: wp-admin/includes/ajax-actions.php:2037
 msgid "Sorry, you are not allowed to attach files to this post."
@@ -3792,7 +3792,7 @@ msgstr[0] ""
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "待定 <span class=\"count\">（%s）</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -3813,7 +3813,7 @@ msgstr[0] ""
 msgctxt "comments"
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "弃稿 <span class=\"count\">（%s）</span>"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:296
 #: wp-admin/includes/class-wp-comments-list-table.php:563
@@ -5076,7 +5076,7 @@ msgstr ""
 #: wp-admin/includes/template.php:1749 wp-includes/post.php:748
 #: wp-includes/post.php:768 wp-includes/script-loader.php:741
 msgid "Private"
-msgstr ""
+msgstr "私密"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1514
 #: wp-admin/includes/meta-boxes.php:861
@@ -11176,7 +11176,7 @@ msgstr "按回车键以打开此分区"
 #: wp-includes/option.php:2007 wp-includes/option.php:2017
 #: wp-includes/option.php:2053 wp-includes/option.php:2063
 msgid "The \"%s\" options group has been removed. Use another settings group."
-msgstr ""
+msgstr "「%s」选项组已被删除。请使用另一个设置组。"
 
 #: wp-admin/includes/template.php:1546
 msgid "Attach to existing content"
@@ -11193,7 +11193,7 @@ msgstr ""
 #: wp-admin/includes/template.php:1760 wp-includes/post.php:250
 msgctxt "post status"
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-admin/includes/template.php:1770
 msgid "Front Page"
@@ -22490,39 +22490,39 @@ msgstr "一个与您所在时区相同的城市。"
 
 #: wp-includes/option.php:1874
 msgid "A date format for all date strings."
-msgstr "所有日期字符串的日期格式。"
+msgstr "所有日期字符串的格式。"
 
 #: wp-includes/option.php:1880
 msgid "A time format for all time strings."
-msgstr "所有时间字符串的时间格式。"
+msgstr "所有时间字符串的格式。"
 
 #: wp-includes/option.php:1886
 msgid "A day number of the week that the week should start on."
-msgstr ""
+msgstr "一个标志着每周应从星期几开始的数字。"
 
 #: wp-includes/option.php:1894
 msgid "ClassicPress locale code."
-msgstr ""
+msgstr "ClassicPress 本地化代码。"
 
 #: wp-includes/option.php:1901
 msgid "Convert emoticons like :-) and :-P to graphics on display."
-msgstr ""
+msgstr "将字符表情，例如「:-)」和「:-P」转换为真实emoji。"
 
 #: wp-includes/option.php:1908
 msgid "Default post category."
-msgstr ""
+msgstr "默认文章分类。"
 
 #: wp-includes/option.php:1914
 msgid "Default post format."
-msgstr ""
+msgstr "默认文章格式。"
 
 #: wp-includes/option.php:1920
 msgid "Blog pages show at most."
-msgstr ""
+msgstr "最多允许显示的博客页面。"
 
 #: wp-includes/option.php:1931
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new articles."
-msgstr ""
+msgstr "在新文章上允许来自其他博客的通知（Pingbacks和Trackbacks）。"
 
 #: wp-includes/option.php:1941
 msgid "Allow people to post comments on new articles."
@@ -22531,7 +22531,7 @@ msgstr ""
 #. translators: 1: $sanitize_callback, 2: register_setting()
 #: wp-includes/option.php:2077
 msgid "%1$s is deprecated. The callback from %2$s is used instead."
-msgstr ""
+msgstr "%1$s 已被弃用。现在使用%2$s的回调。"
 
 #: wp-includes/pluggable.php:537
 msgid "<strong>ERROR</strong>: Invalid username, email address or incorrect password."
@@ -22544,54 +22544,54 @@ msgstr ""
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1474
 msgid "New trackback on your post \"%s\""
-msgstr ""
+msgstr "您的文章「%s」上有新的Trackback"
 
 #. translators: 1: Trackback/pingback website name, 2: website IP address, 3:
 #. website hostname
 #: wp-includes/pluggable.php:1476 wp-includes/pluggable.php:1487
 #: wp-includes/pluggable.php:1637 wp-includes/pluggable.php:1647
 msgid "Website: %1$s (IP address: %2$s, %3$s)"
-msgstr ""
+msgstr "站点：%1$s（IP地址：%2$s，%3$s）"
 
 #. translators: 1: Trackback/pingback/comment author URL
 #: wp-includes/pluggable.php:1477 wp-includes/pluggable.php:1488
 #: wp-includes/pluggable.php:1499 wp-includes/pluggable.php:1639
 #: wp-includes/pluggable.php:1649 wp-includes/pluggable.php:1661
 msgid "URL: %s"
-msgstr ""
+msgstr "URL：%s"
 
 #. translators: 1: Comment text
 #: wp-includes/pluggable.php:1478 wp-includes/pluggable.php:1489
 #: wp-includes/pluggable.php:1500 wp-includes/pluggable.php:1663
 msgid "Comment: %s"
-msgstr ""
+msgstr "评论：%s"
 
 #: wp-includes/pluggable.php:1479
 msgid "You can see all trackbacks on this post here:"
-msgstr ""
+msgstr "您可以在这里看到此文章的所有Trackbacks："
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1481
 msgid "[%1$s] Trackback: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] Trackback：「%2$s」"
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1485
 msgid "New pingback on your post \"%s\""
-msgstr ""
+msgstr "您的文章「%s」上有新的Pingback"
 
 #: wp-includes/pluggable.php:1490
 msgid "You can see all pingbacks on this post here:"
-msgstr ""
+msgstr "您可以在这里看到此文章的所有Pingbacks："
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1492
 msgid "[%1$s] Pingback: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] Pingback：「%2$s」"
 
 #: wp-includes/pluggable.php:1495
 msgid "New comment on your post \"%s\""
-msgstr ""
+msgstr "您的文章「%s」上有新的评论"
 
 #. translators: 1: comment author, 2: comment author's IP address, 3: comment
 #. author's hostname
@@ -22599,70 +22599,70 @@ msgstr ""
 #. comment author's hostname
 #: wp-includes/pluggable.php:1497 wp-includes/pluggable.php:1657
 msgid "Author: %1$s (IP address: %2$s, %3$s)"
-msgstr ""
+msgstr "作者：%1$s（IP地址：%2$s，%3$s）"
 
 #. translators: 1: Comment author URL
 #. translators: %s: user email address
 #: wp-includes/pluggable.php:1498 wp-includes/pluggable.php:1659
 #: wp-includes/pluggable.php:1835
 msgid "Email: %s"
-msgstr ""
+msgstr "电子邮件地址：%s"
 
 #: wp-includes/pluggable.php:1501
 msgid "You can see all comments on this post here:"
-msgstr ""
+msgstr "您可以在这里看到此文章的所有评论："
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1503
 msgid "[%1$s] Comment: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] 评论：「%2$s」"
 
 #: wp-includes/pluggable.php:1507
 msgid "Permalink: %s"
-msgstr ""
+msgstr "永久链接：%s"
 
 #. translators: Comment moderation. 1: Comment action URL
 #: wp-includes/pluggable.php:1511 wp-includes/pluggable.php:1672
 msgid "Trash it: %s"
-msgstr ""
+msgstr "移入回收站：%s"
 
 #. translators: Comment moderation. 1: Comment action URL
 #: wp-includes/pluggable.php:1513 wp-includes/pluggable.php:1675
 msgid "Delete it: %s"
-msgstr ""
+msgstr "删除：%s"
 
 #. translators: Comment moderation. 1: Comment action URL
 #: wp-includes/pluggable.php:1515 wp-includes/pluggable.php:1679
 msgid "Spam it: %s"
-msgstr ""
+msgstr "标记为垃圾：%s"
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1634
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
-msgstr ""
+msgstr "文章「%s」上有新的Trackback正等待您的审核"
 
 #: wp-includes/pluggable.php:1640
 msgid "Trackback excerpt: "
-msgstr ""
+msgstr "Trackback摘要： "
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1644
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
-msgstr ""
+msgstr "文章「%s」上有新的Pingback正等待您的审核"
 
 #: wp-includes/pluggable.php:1650
 msgid "Pingback excerpt: "
-msgstr ""
+msgstr "Pingback摘要： "
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1654
 msgid "A new comment on the post \"%s\" is waiting for your approval"
-msgstr ""
+msgstr "文章「%s」上有新的评论正等待您的审核"
 
 #. translators: Comment moderation. 1: Comment action URL
 #: wp-includes/pluggable.php:1668
 msgid "Approve it: %s"
-msgstr ""
+msgstr "批准：%s"
 
 #. translators: Comment moderation. 1: Number of comments awaiting approval
 #: wp-includes/pluggable.php:1682
@@ -22879,179 +22879,179 @@ msgstr ""
 
 #: wp-includes/post.php:126 wp-includes/post.php:127
 msgid "Custom CSS"
-msgstr ""
+msgstr "自定义 CSS"
 
 #: wp-includes/post.php:155
 msgctxt "post type general name"
 msgid "Changesets"
-msgstr ""
+msgstr "变更集"
 
 #: wp-includes/post.php:156
 msgctxt "post type singular name"
 msgid "Changeset"
-msgstr ""
+msgstr "变更集"
 
 #: wp-includes/post.php:157
 msgctxt "admin menu"
 msgid "Changesets"
-msgstr ""
+msgstr "变更集"
 
 #: wp-includes/post.php:158
 msgctxt "add new on admin bar"
 msgid "Changeset"
-msgstr ""
+msgstr "变更集"
 
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr ""
+msgstr "新增变更集"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
-msgstr ""
+msgstr "新增变更集"
 
 #: wp-includes/post.php:161
 msgid "New Changeset"
-msgstr ""
+msgstr "新变更集"
 
 #: wp-includes/post.php:162
 msgid "Edit Changeset"
-msgstr ""
+msgstr "编辑变更集"
 
 #: wp-includes/post.php:163
 msgid "View Changeset"
-msgstr ""
+msgstr "查看变更集"
 
 #: wp-includes/post.php:164
 msgid "All Changesets"
-msgstr ""
+msgstr "所有变更集"
 
 #: wp-includes/post.php:165
 msgid "Search Changesets"
-msgstr ""
+msgstr "搜索变更集"
 
 #: wp-includes/post.php:166
 msgid "No changesets found."
-msgstr ""
+msgstr "未找到变更集。"
 
 #: wp-includes/post.php:167
 msgid "No changesets found in Trash."
-msgstr ""
+msgstr "在回收站中未找到变更集。"
 
 #: wp-includes/post.php:200
 msgid "oEmbed Responses"
-msgstr ""
+msgstr "oEmbed 响应"
 
 #: wp-includes/post.php:201
 msgid "oEmbed Response"
-msgstr ""
+msgstr "oEmbed 响应"
 
 #: wp-includes/post.php:215
 msgid "User Requests"
-msgstr ""
+msgstr "用户请求"
 
 #: wp-includes/post.php:216
 msgid "User Request"
-msgstr ""
+msgstr "用户请求"
 
 #: wp-includes/post.php:229
 msgctxt "post status"
 msgid "Published"
-msgstr ""
+msgstr "已发表"
 
 #: wp-includes/post.php:232
 msgid "Published <span class=\"count\">(%s)</span>"
 msgid_plural "Published <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "已发表 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:236
 msgctxt "post status"
 msgid "Scheduled"
-msgstr ""
+msgstr "已计划"
 
 #: wp-includes/post.php:239
 msgid "Scheduled <span class=\"count\">(%s)</span>"
 msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "已计划 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:243
 msgctxt "post status"
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 #: wp-includes/post.php:246
 msgid "Draft <span class=\"count\">(%s)</span>"
 msgid_plural "Drafts <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "草稿 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:253
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "待定 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:257
 msgctxt "post status"
 msgid "Private"
-msgstr ""
+msgstr "私密"
 
 #: wp-includes/post.php:260
 msgid "Private <span class=\"count\">(%s)</span>"
 msgid_plural "Private <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "私密 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr ""
+msgstr "弃稿"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "弃稿 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
 msgid "Confirmed"
-msgstr ""
+msgstr "已确认"
 
 #: wp-includes/post.php:299
 msgctxt "request status"
 msgid "Failed"
-msgstr ""
+msgstr "失败"
 
 #: wp-includes/post.php:306
 msgctxt "request status"
 msgid "Completed"
-msgstr ""
+msgstr "已完成"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
-msgstr ""
+msgstr "已确认"
 
 #: wp-includes/post.php:786
 msgid "Failed"
-msgstr ""
+msgstr "失败"
 
 #: wp-includes/post.php:787
 msgid "Completed"
-msgstr ""
+msgstr "已完成"
 
 #: wp-includes/post.php:1190 wp-includes/post.php:1191
 msgid "Post type names must be between 1 and 20 characters in length."
-msgstr ""
+msgstr "文章类型名称必须介于 1 到 20 个字符之间。"
 
 #: wp-includes/post.php:1241
 msgid "Unregistering a built-in post type is not allowed"
-msgstr ""
+msgstr "不允许取消注册内置的文章类型"
 
 #: wp-includes/post.php:1444
 msgctxt "post type general name"
@@ -23249,16 +23249,16 @@ msgstr "页面列表"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr ""
+msgstr "图像"
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"
-msgstr ""
+msgstr "管理图像"
 
 #: wp-includes/post.php:2410
 msgid "Image <span class=\"count\">(%s)</span>"
 msgid_plural "Images <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "图像 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
@@ -23267,12 +23267,12 @@ msgstr ""
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
-msgstr ""
+msgstr "管理音频"
 
 #: wp-includes/post.php:2411
 msgid "Audio <span class=\"count\">(%s)</span>"
 msgid_plural "Audio <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "音频 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
@@ -23281,12 +23281,12 @@ msgstr ""
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
-msgstr ""
+msgstr "管理视频"
 
 #: wp-includes/post.php:2412
 msgid "Video <span class=\"count\">(%s)</span>"
 msgid_plural "Video <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "视频 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:3046
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
@@ -23345,20 +23345,20 @@ msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-request.php:657
 msgid "Invalid JSON body passed."
-msgstr ""
+msgstr "发送了无效的 JSON 实体。"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:805
 #: wp-includes/rest-api/class-wp-rest-request.php:871
 msgid "Invalid parameter(s): %s"
-msgstr ""
+msgstr "无效参数：%s"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:843
 msgid "Missing parameter(s): %s"
-msgstr ""
+msgstr "缺失参数：%s"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:861
 msgid "Invalid parameter."
-msgstr ""
+msgstr "参数无效。"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:264
 msgid "The REST API can no longer be completely disabled, the rest_authentication_errors filter can be used to restrict access to the API, instead."
@@ -23366,20 +23366,20 @@ msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-server.php:280
 msgid "JSONP support is disabled on this site."
-msgstr ""
+msgstr "该站点禁用了 JSONP 支持。"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:286
 msgid "Invalid JSONP callback function."
-msgstr ""
+msgstr "无效的 JSONP 回调函数。"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:854
 msgid "The handler for the route is invalid"
-msgstr ""
+msgstr "路由处理程序无效"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:911
 #: wp-includes/script-loader.php:167 wp-includes/script-loader.php:679
 msgid "Sorry, you are not allowed to do that."
-msgstr ""
+msgstr "对不起，您无权操作。"
 
 #: wp-includes/rest-api/class-wp-rest-server.php:975
 msgid "No route was found matching the URL and request method"
@@ -23387,7 +23387,7 @@ msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1062
 msgid "The specified namespace could not be found."
-msgstr ""
+msgstr "找不到指定的命名空间。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:73
 msgid "Sorry, you are not allowed to upload media on this site."
@@ -24310,7 +24310,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:428
 msgid "You are not currently logged in."
-msgstr ""
+msgstr "您目前尚未登录。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:450
 msgid "Sorry, you are not allowed to create new users."
@@ -24510,7 +24510,7 @@ msgstr ""
 
 #: wp-includes/rest-api.php:1115
 msgid "%1$s is not a valid property of Object."
-msgstr ""
+msgstr "%1$s 不是对象的有效属性。"
 
 #. translators: %s: IP address
 #: wp-includes/rest-api.php:1163
@@ -24520,42 +24520,42 @@ msgstr ""
 #. translators: 1: parameter, 2: minimum number
 #: wp-includes/rest-api.php:1173
 msgid "%1$s must be greater than %2$d"
-msgstr ""
+msgstr "%1$s 必须大于 %2$d"
 
 #. translators: 1: parameter, 2: minimum number
 #: wp-includes/rest-api.php:1176
 msgid "%1$s must be greater than or equal to %2$d"
-msgstr ""
+msgstr "%1$s 必须大于或等于 %2$d"
 
 #. translators: 1: parameter, 2: maximum number
 #: wp-includes/rest-api.php:1181
 msgid "%1$s must be less than %2$d"
-msgstr ""
+msgstr "%1$s 必须小于 %2$d"
 
 #. translators: 1: parameter, 2: maximum number
 #: wp-includes/rest-api.php:1184
 msgid "%1$s must be less than or equal to %2$d"
-msgstr ""
+msgstr "%1$s 必须小于或等于 %2$d"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
 #: wp-includes/rest-api.php:1190
 msgid "%1$s must be between %2$d (exclusive) and %3$d (exclusive)"
-msgstr ""
+msgstr "%1$s 必须介于 %2$d（不含）和 %3$d（不含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
 #: wp-includes/rest-api.php:1195
 msgid "%1$s must be between %2$d (inclusive) and %3$d (exclusive)"
-msgstr ""
+msgstr "%1$s 必须介于 %2$d（含）和 %3$d（不含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
 #: wp-includes/rest-api.php:1200
 msgid "%1$s must be between %2$d (exclusive) and %3$d (inclusive)"
-msgstr ""
+msgstr "%1$s 必须介于 %2$d（不含）和 %3$d（含）之间"
 
 #. translators: 1: parameter, 2: minimum number, 3: maximum number
 #: wp-includes/rest-api.php:1205
 msgid "%1$s must be between %2$d (inclusive) and %3$d (inclusive)"
-msgstr ""
+msgstr "%1$s 必须介于 %2$d（含）和 %3$d（含）之间"
 
 #: wp-includes/revision.php:295
 msgid "Cannot create a revision of a revision"
