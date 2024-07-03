@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-02 20:40\n"
+"PO-Revision-Date: 2024-07-03 08:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1789,7 +1789,7 @@ msgstr "评论"
 #: wp-admin/includes/class-wp-posts-list-table.php:1638
 #: wp-admin/includes/user.php:1024
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: wp-admin/edit-form-comment.php:88
 msgid "Comment status"
@@ -2438,7 +2438,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-pages.php:30
 #: wp-includes/widgets/class-wp-widget-pages.php:43
 msgid "Pages"
-msgstr ""
+msgstr "页面"
 
 #: wp-admin/export.php:261 wp-admin/includes/media.php:2250
 #: wp-admin/includes/misc.php:1810 wp-admin/includes/plugin-install.php:351
@@ -4224,7 +4224,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:361 wp-admin/includes/nav-menu.php:649
 #: wp-includes/post-template.php:867
 msgid "Previous page"
-msgstr ""
+msgstr "上一页"
 
 #: wp-admin/includes/class-wp-list-table.php:780
 #: wp-admin/includes/class-wp-list-table.php:783
@@ -4240,7 +4240,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:362 wp-admin/includes/nav-menu.php:650
 #: wp-includes/post-template.php:866
 msgid "Next page"
-msgstr ""
+msgstr "下一页"
 
 #: wp-admin/includes/class-wp-list-table.php:806
 msgid "Last page"
@@ -12486,7 +12486,7 @@ msgstr "跳转至工具栏"
 #: wp-admin/menu.php:25 wp-admin/network/menu.php:13
 #: wp-includes/post-template.php:1343
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: wp-admin/menu.php:28 wp-admin/my-sites.php:35 wp-includes/admin-bar.php:426
 msgid "My Sites"
@@ -13397,7 +13397,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:623
 #: wp-includes/rest-api.php:1157 wp-includes/user.php:3204
 msgid "Invalid email address."
-msgstr ""
+msgstr "无效的电子邮件地址。"
 
 #: wp-admin/network/site-new.php:113
 msgid "The domain or path entered conflicts with an existing username."
@@ -21970,11 +21970,11 @@ msgstr ""
 
 #: wp-includes/media.php:3560
 msgid "Update gallery"
-msgstr ""
+msgstr "更新相册"
 
 #: wp-includes/media.php:3561
 msgid "Add to gallery"
-msgstr ""
+msgstr "添加至相册"
 
 #: wp-includes/media.php:3562
 msgid "Add to Gallery"
@@ -21982,7 +21982,7 @@ msgstr ""
 
 #: wp-includes/media.php:3563
 msgid "Reverse order"
-msgstr ""
+msgstr "反转排序"
 
 #: wp-includes/media.php:3566
 msgid "Image Details"
@@ -22011,15 +22011,15 @@ msgstr ""
 
 #: wp-includes/media.php:3576
 msgid "Crop your image"
-msgstr ""
+msgstr "裁剪您的图像"
 
 #: wp-includes/media.php:3577
 msgid "Cropping&hellip;"
-msgstr ""
+msgstr "裁剪中&hellip;"
 
 #: wp-includes/media.php:3580
 msgid "There has been an error cropping your image."
-msgstr ""
+msgstr "裁剪您的图像时发生错误。"
 
 #: wp-includes/media.php:3583
 msgid "Audio Details"
@@ -22055,7 +22055,7 @@ msgstr ""
 
 #: wp-includes/media.php:3597
 msgid "Drag and drop to reorder tracks."
-msgstr ""
+msgstr "拖放以重新排序曲目。"
 
 #: wp-includes/media.php:3598
 msgid "Create Audio Playlist"
@@ -22071,23 +22071,23 @@ msgstr ""
 
 #: wp-includes/media.php:3601
 msgid "Insert audio playlist"
-msgstr ""
+msgstr "插入音频播放列表"
 
 #: wp-includes/media.php:3602
 msgid "Update audio playlist"
-msgstr ""
+msgstr "更新音频播放列表"
 
 #: wp-includes/media.php:3603
 msgid "Add to audio playlist"
-msgstr ""
+msgstr "添加至音频播放列表"
 
 #: wp-includes/media.php:3604
 msgid "Add to Audio Playlist"
-msgstr ""
+msgstr "添加至音频播放列表"
 
 #: wp-includes/media.php:3607
 msgid "Drag and drop to reorder videos."
-msgstr ""
+msgstr "拖放以重新排序视频。"
 
 #: wp-includes/media.php:3608
 msgid "Create Video Playlist"
@@ -22103,15 +22103,15 @@ msgstr ""
 
 #: wp-includes/media.php:3611
 msgid "Insert video playlist"
-msgstr ""
+msgstr "插入视频播放列表"
 
 #: wp-includes/media.php:3612
 msgid "Update video playlist"
-msgstr ""
+msgstr "更新视频播放列表"
 
 #: wp-includes/media.php:3613
 msgid "Add to video playlist"
-msgstr ""
+msgstr "添加至视频播放列表"
 
 #: wp-includes/media.php:3614
 msgid "Add to Video Playlist"
@@ -22119,7 +22119,7 @@ msgstr ""
 
 #: wp-includes/media.php:3969
 msgid "ClassicPress Media"
-msgstr ""
+msgstr "ClassicPress 媒体"
 
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL, 3: wp-config.php, 4:
 #. is_subdomain_install()
@@ -22454,23 +22454,23 @@ msgstr ""
 #. translators: %s: menu name
 #: wp-includes/nav-menu.php:324 wp-includes/nav-menu.php:337
 msgid "The menu name %s conflicts with another menu name. Please try another."
-msgstr ""
+msgstr "菜单名称「%s」与另一个菜单名称冲突。请尝试另一个。"
 
 #: wp-includes/nav-menu.php:404
 msgid "The given object ID is not that of a menu item."
-msgstr ""
+msgstr "给定的对象 ID 不是一个菜单项。"
 
 #: wp-includes/nav-menu.php:409
 msgid "Invalid menu ID."
-msgstr ""
+msgstr "无效的菜单 ID。"
 
 #: wp-includes/option.php:163
 msgid "%s is a protected WP option and may not be modified"
-msgstr ""
+msgstr "「%s」是受保护的WP选项，不能被修改。"
 
 #: wp-includes/option.php:1826
 msgid "Site title."
-msgstr ""
+msgstr "站点标题。"
 
 #: wp-includes/option.php:1834
 msgid "Site tagline."
@@ -22668,43 +22668,43 @@ msgstr "批准：%s"
 #: wp-includes/pluggable.php:1682
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
-msgstr[0] ""
+msgstr[0] "目前有 %s 条评论正在等待批准。请访问管理面板："
 
 #. translators: Comment moderation notification email subject. 1: Site name, 2:
 #. Post title
 #: wp-includes/pluggable.php:1687
 msgid "[%1$s] Please moderate: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] 请审核： 「%2$s」"
 
 #. translators: %s: user name
 #: wp-includes/pluggable.php:1755
 msgid "Password changed for user: %s"
-msgstr ""
+msgstr "用户的密码已更改：%s"
 
 #. translators: Password change notification email subject. %s: Site title
 #: wp-includes/pluggable.php:1763
 msgid "[%s] Password Changed"
-msgstr ""
+msgstr "[%s] 密码已更改"
 
 #. translators: %s: site title
 #: wp-includes/pluggable.php:1831
 msgid "New user registration on your site %s:"
-msgstr ""
+msgstr "站点「%s」有新的用户注册："
 
 #. translators: %s: user login
 #: wp-includes/pluggable.php:1833 wp-includes/pluggable.php:1897
 #: wp-login.php:366
 msgid "Username: %s"
-msgstr ""
+msgstr "用户名：%s"
 
 #. translators: Password change notification email subject. %s: Site title
 #: wp-includes/pluggable.php:1840
 msgid "[%s] New User Registration"
-msgstr ""
+msgstr "[%s] 新用户注册"
 
 #: wp-includes/pluggable.php:1898
 msgid "To set your password, visit the following address:"
-msgstr ""
+msgstr "要设置您的密码，请访问以下地址："
 
 #. translators: Password change notification email subject. %s: Site title
 #: wp-includes/pluggable.php:1906
@@ -22713,144 +22713,144 @@ msgstr ""
 
 #: wp-includes/plugin.php:810
 msgid "Only a static class method or function can be used in an uninstall hook."
-msgstr ""
+msgstr "只有静态类方法或函数可以作为卸载钩子。"
 
 #: wp-includes/post-formats.php:68
 msgid "Invalid post."
-msgstr ""
+msgstr "文章无效。"
 
 #: wp-includes/post-formats.php:90
 msgctxt "Post format"
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 #: wp-includes/post-formats.php:91
 msgctxt "Post format"
 msgid "Aside"
-msgstr ""
+msgstr "侧边栏"
 
 #: wp-includes/post-formats.php:92
 msgctxt "Post format"
 msgid "Chat"
-msgstr ""
+msgstr "聊天"
 
 #: wp-includes/post-formats.php:93
 msgctxt "Post format"
 msgid "Gallery"
-msgstr ""
+msgstr "相册"
 
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
 msgid "Link"
-msgstr ""
+msgstr "链接"
 
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
 msgid "Image"
-msgstr ""
+msgstr "图像"
 
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
 msgid "Quote"
-msgstr ""
+msgstr "引用"
 
 #: wp-includes/post-formats.php:97
 msgctxt "Post format"
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: wp-includes/post-formats.php:98
 msgctxt "Post format"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
-msgstr ""
+msgstr "受保护：%s"
 
 #: wp-includes/post-template.php:145
 msgid "Private: %s"
-msgstr ""
+msgstr "私密：%s"
 
 #: wp-includes/post-template.php:273
 msgid "(more&hellip;)"
-msgstr ""
+msgstr "（更多&hellip;）"
 
 #: wp-includes/post-template.php:385
 msgid "There is no excerpt because this is a protected post."
-msgstr ""
+msgstr "由于这是一篇受保护的文章，其没有摘要。"
 
 #: wp-includes/post-template.php:860
 msgid "Pages:"
-msgstr ""
+msgstr "页面："
 
 #. translators: %s: Post custom field name
 #: wp-includes/post-template.php:1031
 msgctxt "Post custom field name"
 msgid "%s:"
-msgstr ""
+msgstr "%s："
 
 #: wp-includes/post-template.php:1610
 msgid "This content is password protected. To view it please enter your password below:"
-msgstr ""
+msgstr "此内容受密码保护。要查看它，请在下方输入您的密码："
 
 #: wp-includes/post-template.php:1611
 msgctxt "post password form"
 msgid "Enter"
-msgstr ""
+msgstr "输入"
 
 #. translators: revision date format, see https://secure.php.net/date
 #: wp-includes/post-template.php:1709 wp-includes/post-template.php:1745
 msgctxt "revision date format"
 msgid "F j, Y @ H:i:s"
-msgstr ""
+msgstr "Y F j H:i:s"
 
 #. translators: %s: revision date
 #. translators: %s: revision date with author avatar
 #: wp-includes/post-template.php:1711 wp-includes/post-template.php:1763
 msgid "%s [Autosave]"
-msgstr ""
+msgstr "%s [自动保存]"
 
 #. translators: %s: revision date
 #. translators: %s: revision date with author avatar
 #: wp-includes/post-template.php:1713 wp-includes/post-template.php:1765
 msgid "%s [Current Revision]"
-msgstr ""
+msgstr "%s [当前修订版本]"
 
 #. translators: post revision title: 1: author avatar, 2: author name, 3: time
 #. ago, 4: date
 #: wp-includes/post-template.php:1755
 msgid "%1$s %2$s, %3$s ago (%4$s)"
-msgstr ""
+msgstr "%1$s %2$s，在%3$s之前（%4$s）"
 
 #: wp-includes/post-template.php:1821
 msgid "JavaScript must be enabled to use this feature."
-msgstr ""
+msgstr "必须启用 JavaScript 才能使用此功能。"
 
 #: wp-includes/post.php:23
 msgctxt "add new from admin bar"
 msgid "Post"
-msgstr ""
+msgstr "文章"
 
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
 msgid "Page"
-msgstr ""
+msgstr "页面"
 
 #: wp-includes/post.php:64
 msgctxt "post type general name"
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23391,36 +23391,36 @@ msgstr "找不到指定的命名空间。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:73
 msgid "Sorry, you are not allowed to upload media on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上上传媒体。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:82
 msgid "Sorry, you are not allowed to upload media to this post."
-msgstr ""
+msgstr "对不起，您无权在该文章上上传媒体。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:100
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:206
 msgid "Invalid parent type."
-msgstr ""
+msgstr "无效的父类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:403
 msgid "Alternative text to display when attachment is not displayed."
-msgstr ""
+msgstr "附件未显示时要显示的替代文本。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:412
 msgid "The attachment caption."
-msgstr ""
+msgstr "附件标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:421
 msgid "Caption for the attachment, as it exists in the database."
-msgstr ""
+msgstr "附件的标题，其存在于数据库中。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:426
 msgid "HTML caption for the attachment, transformed for display."
-msgstr ""
+msgstr "附件的 HTML 格式的标题，其在显示时将会被转换。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:435
 msgid "The attachment description."
-msgstr ""
+msgstr "附件描述。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:444
 msgid "Description for the object, as it exists in the database."
@@ -23432,11 +23432,11 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:458
 msgid "Attachment type."
-msgstr ""
+msgstr "附件类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:466
 msgid "The attachment MIME type."
-msgstr ""
+msgstr "附件的 MIME 类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:473
 msgid "Details about the media file, specific to its type."
@@ -24506,7 +24506,7 @@ msgstr ""
 #: wp-includes/rest-api.php:1129 wp-includes/rest-api.php:1134
 #: wp-includes/rest-api.php:1139 wp-includes/rest-api.php:1144
 msgid "%1$s is not of type %2$s."
-msgstr ""
+msgstr "%1$s 不属于 %2$s 的类型。"
 
 #: wp-includes/rest-api.php:1115
 msgid "%1$s is not a valid property of Object."
@@ -24515,7 +24515,7 @@ msgstr "%1$s 不是对象的有效属性。"
 #. translators: %s: IP address
 #: wp-includes/rest-api.php:1163
 msgid "%s is not a valid IP address."
-msgstr ""
+msgstr "%s 不是一个有效的 IP 地址。"
 
 #. translators: 1: parameter, 2: minimum number
 #: wp-includes/rest-api.php:1173
