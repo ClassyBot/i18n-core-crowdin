@@ -17,19 +17,19 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-05-09 15:16\n"
+"PO-Revision-Date: 2024-07-04 15:23\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
 msgctxt "page title"
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: wp-admin/about.php:20
 #: wp-admin/credits.php:22
 #: wp-admin/freedoms.php:36
 msgid "Welcome to ClassicPress!"
-msgstr ""
+msgstr "欢迎使用 ClassicPress！"
 
 #. translators: %s: Plugin version.
 #. translators: %s: Plugin version number.
@@ -47,7 +47,7 @@ msgstr ""
 #: wp-admin/includes/update.php:232
 #: wp-admin/includes/update.php:264
 msgid "Version %s"
-msgstr ""
+msgstr "%s 版本"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -55,33 +55,33 @@ msgstr ""
 #: wp-admin/credits.php:32
 #: wp-admin/freedoms.php:46
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">CMS for Creators</a>."
-msgstr ""
+msgstr "感谢您使用 ClassicPress，<a href=\"%s\">为创作者而生的 CMS（内容管理系统）</a>。"
 
 #: wp-admin/about.php:35
 #: wp-admin/credits.php:37
 #: wp-admin/freedoms.php:51
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr ""
+msgstr "愿薪火相传，美德不灭。"
 
 #: wp-admin/about.php:40
 #: wp-admin/credits.php:43
 #: wp-admin/freedoms.php:57
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: wp-admin/about.php:41
 #: wp-admin/credits.php:13
 #: wp-admin/credits.php:44
 #: wp-admin/freedoms.php:58
 msgid "Credits"
-msgstr ""
+msgstr "致谢"
 
 #: wp-admin/about.php:42
 #: wp-admin/credits.php:45
 #: wp-admin/freedoms.php:19
 #: wp-admin/freedoms.php:59
 msgid "Freedoms"
-msgstr ""
+msgstr "自由"
 
 #: wp-admin/about.php:43
 #: wp-admin/credits.php:46
@@ -91,91 +91,91 @@ msgstr ""
 #: wp-admin/options-privacy.php:157
 #: wp-admin/privacy-policy-guide.php:40
 msgid "Privacy"
-msgstr ""
+msgstr "隐私"
 
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:53
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "帮助我们将 ClassicPress 翻译成您的语言！<a href=\"%s\">了解更多</a>。"
 
 #: wp-admin/about.php:60
 msgid "About ClassicPress"
-msgstr ""
+msgstr "关于 ClassicPress"
 
 #. translators: link to ClassicPress site
 #: wp-admin/about.php:67
 msgid "<a href=\"%s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%s\"><strong>ClassicPress</strong></a> 是 WordPress %s 的一个分支，其使用久经沙场的 TinyMCE 经典编辑器界面。"
 
 #: wp-admin/about.php:75
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "多年来，它为数百万个站点奠定了坚实的基础。 而且我们认为，它在未来也依然是一个出色的基础。"
 
 #: wp-admin/about.php:80
 msgid "Join our growing community"
-msgstr ""
+msgstr "加入我们日益发展的社区"
 
 #. translators: 1: link with instructions to join ClassicPress Zulip, 2: link to community forums
 #: wp-admin/about.php:85
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Zulip group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "要进行关于 ClassicPress 的一般性讨论，<a href=\"%1$s\"><strong>请加入我们的 Zulip 群聊</strong></a>或我们的<a href=\"%2$s\"><strong>社区论坛</strong></a>。"
 
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress support forum
 #: wp-admin/about.php:95
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "如果您需要其他方面的帮助，请查看我们的<a href=\"%1$s\"><strong>有问必答页面</strong></a>。如果您的问题在那里并没有被涉及到，您可以在我们的<a href=\"%2$s\"><strong>支持论坛</strong></a>上发布新帖。"
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:105
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%2$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr ""
+msgstr "ClassicPress 在 <a href=\"%1$s\"><strong>GitHub</strong></a>上进行开发。 若有针对特定错误的报告或是技术建议，请参阅<a href=\"%2$s\"><strong>问题列表</strong></a>并在您的问题未被指出时提交您的报告。"
 
 #: wp-admin/about.php:111
 msgid "ClassicPress changelogs"
-msgstr ""
+msgstr "ClassicPress 更新日志"
 
 #: wp-admin/about.php:112
 msgid "ClassicPress 2.0.0"
-msgstr ""
+msgstr "ClassicPress 2.0.0"
 
 #. translators: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:117
 msgid "For a list of new features and other changes from WordPress %1$s, see the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "若要查看其相较于 WordPress %1$s 功能差异和修改的完整列表，请转到<a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) 发行注解</strong></a>。"
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:127
 msgid "ClassicPress 1.0.1 - %s"
-msgstr ""
+msgstr "ClassicPress 1.0.1 ～ %s"
 
 #. translators: link to ClassicPress release announcements subforum
 #: wp-admin/about.php:136
 msgid "The changes and new features included in recent versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Announcements subforum</strong></a>."
-msgstr ""
+msgstr "最新版本的 ClassicPress 中包含的更改和新功能可以在我们的<a href=\"%s\"><strong>发布公告</strong></a>中找到。"
 
 #: wp-admin/about.php:141
 msgid "ClassicPress 1.0.0"
-msgstr ""
+msgstr "ClassicPress 1.0.0"
 
 #. translators: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:146
 msgid "For a list of new features and other changes in WordPress %1$s, see the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "若要查看其相较于 WordPress %1$s 功能差异和修改的完整列表，请转到<a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) 发行注解</strong></a>。"
 
 #: wp-admin/about.php:152
 msgid "ClassicPress Maintenance and Security Releases"
-msgstr ""
+msgstr "ClassicPress 维护和安全更新"
 
 #: wp-admin/about.php:155
 msgid "This version of ClassicPress includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "这个版本的 ClassicPress 包含以下版本的 WordPress 的所有更改："
 
 #. translators: %s: WordPress version.
 #. translators: %s: ClassicPress version number
 #: wp-admin/about.php:164
 #: wp-admin/about.php:251
 msgid "<strong>Version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>版本 %s</strong> 修复了一些安全漏洞。"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -185,7 +185,7 @@ msgstr ""
 #: wp-admin/about.php:221
 #: wp-admin/about.php:272
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
-msgstr ""
+msgstr "欲了解更多信息，请参阅<a href=\"%s\">发行注解</a>。"
 
 #. translators: %s: WordPress version.
 #. translators: %s: WordPress version
@@ -195,101 +195,101 @@ msgstr ""
 #: wp-admin/about.php:224
 #: wp-admin/upgrade.php:81
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
-msgstr ""
+msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:184
 #: wp-admin/about.php:209
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>WordPress 版本 %1$s</strong> 修复了一些安全漏洞并修复了 %2$s 个问题。"
 
 #: wp-admin/about.php:239
 msgid "Maintenance Release"
-msgstr ""
+msgstr "维护更新"
 
 #: wp-admin/about.php:240
 msgid "Maintenance Releases"
-msgstr ""
+msgstr "维护更新"
 
 #: wp-admin/about.php:242
 msgid "Security Release"
-msgstr ""
+msgstr "安全更新"
 
 #: wp-admin/about.php:243
 msgid "Security Releases"
-msgstr ""
+msgstr "安全更新"
 
 #: wp-admin/about.php:245
 msgid "Maintenance and Security Release"
-msgstr ""
+msgstr "维护和安全更新"
 
 #: wp-admin/about.php:246
 msgid "Maintenance and Security Releases"
-msgstr ""
+msgstr "维护和安全更新"
 
 #. translators: %s: ClassicPress version number
 #: wp-admin/about.php:249
 msgid "<strong>Version %s</strong> addressed one security issue."
-msgstr ""
+msgstr "<strong>版本 %s</strong> 修复了一个安全漏洞。"
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:254
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>版本 %1$s</strong> 修复了 %2$s 个错误。"
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs. Singular security issue.
 #: wp-admin/about.php:260
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>版本 %1$s</strong> 修复了一个安全漏洞并修复了 %2$s 个问题。"
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs. More than one security issue.
 #: wp-admin/about.php:266
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>版本 %1$s</strong> 修复了一些安全漏洞并修复了 %2$s 个问题。"
 
 #. translators: %s: https://www.classicpress.net
 #: wp-admin/admin-footer.php:37
 msgid "Thank you for creating with <a href=\"%s\">ClassicPress</a>."
-msgstr ""
+msgstr "感谢您使用 <a href=\"%s\">ClassicPress</a> 进行创作。"
 
 #: wp-admin/admin-footer.php:38
 #: wp-admin/upgrade.php:69
 msgid "https://www.classicpress.net/"
-msgstr ""
+msgstr "https://www.classicpress.net/"
 
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
 msgid "Network Admin: %s"
-msgstr ""
+msgstr "网络管理：%s"
 
 #. translators: User dashboard screen title. %s: Network title.
 #: wp-admin/admin-header.php:43
 msgid "User Dashboard: %s"
-msgstr ""
+msgstr "用户仪表盘：%s"
 
 #. translators: Admin screen title. %s: Admin screen name.
 #: wp-admin/admin-header.php:50
 msgid "%s &#8212; ClassicPress"
-msgstr ""
+msgstr "%s &#8212; ClassicPress"
 
 #. translators: Editor admin screen title. 1: "Edit item" text for the post type, 2: Post title.
 #: wp-admin/admin-header.php:60
 msgid "%1$s &#8220;%2$s&#8221;"
-msgstr ""
+msgstr "%1$s &#8220;%2$s&#8221;"
 
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site name.
 #: wp-admin/admin-header.php:68
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
 msgid "Recovery Mode &#8212; %s"
-msgstr ""
+msgstr "恢复模式 &#8212; %s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: Post edited date, 2: Post edited time.
@@ -312,7 +312,7 @@ msgstr ""
 #: wp-admin/options-general.php:524
 #: wp-admin/update-core.php:907
 msgid "F j, Y"
-msgstr ""
+msgstr "Y F j"
 
 #. translators: Comment time format. See https://www.php.net/manual/datetime.format.php
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
@@ -333,7 +333,7 @@ msgstr ""
 #: wp-admin/options-general.php:493
 #: wp-admin/options-general.php:572
 msgid "g:i a"
-msgstr ""
+msgstr "a g:i"
 
 #: wp-admin/admin.php:262
 msgid "Invalid plugin page."
@@ -719,27 +719,27 @@ msgstr ""
 
 #: wp-admin/comment.php:142
 msgid "Permanently delete comment"
-msgstr ""
+msgstr "永久删除评论"
 
 #: wp-admin/comment.php:145
 msgid "You are about to approve the following comment:"
-msgstr ""
+msgstr "您即将批准下列评论："
 
 #: wp-admin/comment.php:146
 msgid "Approve comment"
-msgstr ""
+msgstr "批准评论"
 
 #: wp-admin/comment.php:154
 msgid "This comment is currently approved."
-msgstr ""
+msgstr "此评论目前已被批准。"
 
 #: wp-admin/comment.php:157
 msgid "This comment is currently marked as spam."
-msgstr ""
+msgstr "此评论目前已被标记为垃圾评论。"
 
 #: wp-admin/comment.php:160
 msgid "This comment is currently in the Trash."
-msgstr ""
+msgstr "此评论目前已放入回收站中。"
 
 #: wp-admin/comment.php:168
 #: wp-admin/includes/network.php:440
@@ -749,7 +749,7 @@ msgstr ""
 #: wp-admin/plugins.php:349
 #: wp-admin/theme-editor.php:311
 msgid "Caution:"
-msgstr ""
+msgstr "注意："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/comment.php:172
@@ -768,7 +768,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:306
 #: wp-admin/includes/theme-install.php:109
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: wp-admin/comment.php:177
 #: wp-admin/edit-form-comment.php:63
@@ -778,7 +778,7 @@ msgstr ""
 #: wp-admin/user-new.php:422
 #: wp-admin/user-new.php:536
 msgid "Email"
-msgstr ""
+msgstr "电子邮件地址"
 
 #: wp-admin/comment.php:183
 #: wp-admin/edit-form-comment.php:69
@@ -788,23 +788,23 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:188
 #: wp-admin/includes/class-wp-comments-list-table.php:474
 msgid "In response to"
-msgstr ""
+msgstr "回复"
 
 #. translators: %s: Comment link.
 #: wp-admin/comment.php:206
 #: wp-admin/includes/class-wp-comments-list-table.php:926
 msgid "In reply to %s."
-msgstr ""
+msgstr "回复 %s。"
 
 #: wp-admin/comment.php:214
 msgid "Submitted on"
-msgstr ""
+msgstr "提交于"
 
 #. translators: 1: Comment date, 2: Comment time.
 #. translators: Publish box date string. 1: Date, 2: Time.
@@ -818,7 +818,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:232
 #: wp-admin/includes/meta-boxes.php:439
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Comment date format. See https://www.php.net/manual/datetime.format.php
 #. translators: Date format in table columns, see https://www.php.net/manual/datetime.format.php
@@ -829,13 +829,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:539
 #: wp-admin/includes/class-wp-posts-list-table.php:1170
 msgid "Y/m/d"
-msgstr ""
+msgstr "Y/m/d"
 
 #. translators: Field name in comment form.
 #: wp-admin/comment.php:234
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 #: wp-admin/comment.php:238
 #: wp-admin/edit-form-comment.php:159
@@ -853,7 +853,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:292
 #: wp-admin/includes/post.php:1548
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #: wp-admin/comment.php:247
 #: wp-admin/includes/class-walker-nav-menu-edit.php:304
@@ -878,27 +878,27 @@ msgstr ""
 #: wp-admin/widgets-form.php:545
 #: wp-admin/js/post.js:1028
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: wp-admin/comment.php:282
 #: wp-admin/edit-comments.php:281
 #: wp-admin/includes/comment.php:55
 msgid "Sorry, you are not allowed to edit comments on this post."
-msgstr ""
+msgstr "对不起，您无权在该文章上编辑评论。"
 
 #: wp-admin/comment.php:370
 msgid "Unknown action."
-msgstr ""
+msgstr "未知操作。"
 
 #. translators: %s: https://www.classicpress.net/contributors
 #: wp-admin/credits.php:54
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr ""
+msgstr "ClassicPress 是由一个充满热情的<a href=\"%1$s\">全球团队</a>创建的。"
 
 #. translators: %s: https://www.classicpress.net/get-involved
 #: wp-admin/credits.php:60
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "有兴趣协助开发吗？<a href=\"%s\">参与到 ClassicPress 中来</a>。"
 
 #: wp-admin/customize.php:17
 #: wp-admin/customize.php:34
@@ -927,24 +927,24 @@ msgstr ""
 #: wp-admin/users.php:15
 #: wp-admin/widgets.php:17
 msgid "You need a higher level of permission."
-msgstr ""
+msgstr "您需要更高的权限。"
 
 #: wp-admin/customize.php:18
 msgid "Sorry, you are not allowed to customize this site."
-msgstr ""
+msgstr "对不起，您无权自定义此站点。"
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
-msgstr ""
+msgstr "对不起，您无权编辑此变更集。"
 
 #: wp-admin/customize.php:71
 msgid "Your scheduled changes just published"
-msgstr ""
+msgstr "您的已计划的更改刚刚发布了"
 
 #: wp-admin/customize.php:72
 #: wp-admin/customize.php:81
 msgid "Customize New Changes"
-msgstr ""
+msgstr "自定义新更改"
 
 #: wp-admin/customize.php:79
 #: wp-admin/includes/class-custom-image-header.php:818
@@ -958,17 +958,17 @@ msgstr ""
 #: wp-admin/js/tags.js:62
 #: wp-admin/js/updates.js:1940
 msgid "Something went wrong."
-msgstr ""
+msgstr "发生了一个错误。"
 
 #: wp-admin/customize.php:80
 msgid "This changeset cannot be further modified."
-msgstr ""
+msgstr "此变更集不能被进一步修改。"
 
 #: wp-admin/customize.php:147
 #: wp-admin/includes/class-wp-debug-data.php:411
 #: wp-admin/includes/dashboard.php:1176
 msgid "Loading&hellip;"
-msgstr ""
+msgstr "正在加载&hellip;"
 
 #: wp-admin/customize.php:189
 #: wp-admin/includes/meta-boxes.php:389
@@ -976,17 +976,17 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:1624
 #: wp-admin/js/post.js:795
 msgid "Publish"
-msgstr ""
+msgstr "发布"
 
 #: wp-admin/customize.php:189
 msgid "Activate &amp; Publish"
-msgstr ""
+msgstr "启用并发布"
 
 #: wp-admin/customize.php:192
 #: wp-admin/customize.php:197
 #: wp-admin/edit-form-advanced.php:396
 msgid "Publish Settings"
-msgstr ""
+msgstr "发布选项"
 
 #: wp-admin/customize.php:195
 #: wp-admin/theme-install.php:386
@@ -996,7 +996,7 @@ msgstr ""
 #: wp-admin/themes.php:1160
 msgctxt "theme"
 msgid "Cannot Activate"
-msgstr ""
+msgstr "无法启用"
 
 #: wp-admin/customize.php:202
 #: wp-admin/includes/class-theme-upgrader-skin.php:92
@@ -1007,7 +1007,7 @@ msgstr ""
 #: wp-admin/themes.php:908
 #: wp-admin/themes.php:1141
 msgid "Customize"
-msgstr ""
+msgstr "定制"
 
 #: wp-admin/customize.php:203
 #: wp-admin/includes/class-custom-background.php:265
@@ -1022,64 +1022,64 @@ msgstr ""
 #: wp-admin/theme-install.php:408
 #: wp-admin/theme-install.php:565
 msgid "Preview"
-msgstr ""
+msgstr "预览"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:209
 msgid "Close the Customizer and go back to the previous page"
-msgstr ""
+msgstr "关闭定制器并返回上一页"
 
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-admin/customize.php:231
 msgid "You are customizing %s"
-msgstr ""
+msgstr "您正在定制 %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:237
 #: wp-admin/includes/class-wp-screen.php:954
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: wp-admin/customize.php:244
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
-msgstr ""
+msgstr "定制器允许您在发布修改前预览您的站点。您可以在预览中前往不同的页面。某些可编辑的元素上方将会显示用于编辑的快捷方式。定制器仅应当用于非区块主题。"
 
 #: wp-admin/customize.php:249
 msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentation on Customizer</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">定制器文档</a>"
 
 #: wp-admin/customize.php:262
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
-msgstr ""
+msgstr "隐藏控件"
 
 #: wp-admin/customize.php:264
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
-msgstr ""
+msgstr "隐藏控件"
 
 #: wp-admin/edit-comments.php:14
 msgid "Sorry, you are not allowed to edit comments."
-msgstr ""
+msgstr "对不起，您无权编辑评论。"
 
 #. translators: 1: Comments count, 2: Post title.
 #: wp-admin/edit-comments.php:156
 msgid "Comments (%1$s) on &#8220;%2$s&#8221;"
-msgstr ""
+msgstr "「%2$s」上的 %1$s 条评论"
 
 #. translators: %s: Post title.
 #. translators: %s: Link to post.
 #: wp-admin/edit-comments.php:164
 #: wp-admin/edit-comments.php:233
 msgid "Comments on &#8220;%s&#8221;"
-msgstr ""
+msgstr "「%s」上的评论"
 
 #. translators: %s: Comments count.
 #: wp-admin/edit-comments.php:175
 #: wp-admin/js/edit-comments.js:195
 #: wp-admin/js/edit-comments.js:215
 msgid "Comments (%s)"
-msgstr ""
+msgstr "评论（%s）"
 
 #. translators: Hidden accessibility text.
 #. translators: Default privacy policy heading.
@@ -1096,15 +1096,15 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:1716
 #: wp-admin/js/edit-comments.js:220
 msgid "Comments"
-msgstr ""
+msgstr "评论"
 
 #: wp-admin/edit-comments.php:191
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the bulk actions."
-msgstr ""
+msgstr "您可以管理您网站上的评论，就像您管理文章和其他内容那样。此屏幕可以以与其他管理屏幕相同的方式自定义，并且您可以使用悬停操作链接或批量操作对评论采取操作。"
 
 #: wp-admin/edit-comments.php:197
 msgid "Moderating Comments"
-msgstr ""
+msgstr "审核评论"
 
 #: wp-admin/edit-comments.php:199
 msgid "A red bar on the left means the comment is waiting for you to moderate it."
@@ -1363,222 +1363,222 @@ msgstr ""
 
 #: wp-admin/edit-form-advanced.php:282
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr ""
+msgstr "标题字段和文章编辑区域是固定的，但是您可以任意拖动其他方框来重新排序它们。您也可以通过点击其标题栏收起或展开它们。使用「屏幕选项」栏来取消隐藏额外的一些区域（摘要、发送Trackbacks、自定义字段、讨论、Slug、作者），或者修改页面布局为单栏或双栏。"
 
 #: wp-admin/edit-form-advanced.php:287
 msgid "Customizing This Display"
-msgstr ""
+msgstr "定制此显示"
 
 #: wp-admin/edit-form-advanced.php:292
 msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
-msgstr ""
+msgstr "<strong>标题</strong> &mdash; 为您的文章输入一个标题。在您输入了标题之后，您将可以在下方看到并编辑其固定链接。"
 
 #: wp-admin/edit-form-advanced.php:293
 msgid "<strong>Post editor</strong> &mdash; Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab."
-msgstr ""
+msgstr "<strong>文章编辑器</strong> &mdash; 输入您文章的内容。有两种编辑模式可选：可视或代码。点击对应的栏目可以切换模式。"
 
 #: wp-admin/edit-form-advanced.php:294
 msgid "Visual mode gives you an editor that is similar to a word processor. Click the Toolbar Toggle button to get a second row of controls."
-msgstr ""
+msgstr "「可视」模式为您提供了一个类似于文字处理程序的编辑器界面。单击「切换工具栏」按钮可以展开第二行控件。"
 
 #: wp-admin/edit-form-advanced.php:295
 msgid "The Text mode allows you to enter HTML along with your post text. Note that &lt;p&gt; and &lt;br&gt; tags are converted to line breaks when switching to the Text editor to make it less cluttered. When you type, a single line break can be used instead of typing &lt;br&gt;, and two line breaks instead of paragraph tags. The line breaks are converted back to tags automatically."
-msgstr ""
+msgstr "「代码」模式允许您在文本之外输入 HTML 代码。请注意，为了使编辑器不那么拥挤，&lt;p&gt;以及&lt;br&gt;标签会在切换到「代码」模式时被自动转换为换行符。当您在键入时，您可以简单的输入换行符而不是&lt;br&gt;，或者连续的两个换行而不是段落标签。这些换行符会被自动转换为对应的标签。"
 
 #: wp-admin/edit-form-advanced.php:296
 msgid "You can insert media files by clicking the button above the post editor and following the directions. You can align or edit images using the inline formatting toolbar available in Visual mode."
-msgstr ""
+msgstr "您可以点击编辑器上方的按钮并根据指示插入媒体文件。您可以使用在「可视」模式下的内联格式化工具栏对齐或编辑图像。"
 
 #: wp-admin/edit-form-advanced.php:297
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
-msgstr ""
+msgstr "您可以使用右边的图标启用「专注写作」模式。 此功能不适用于旧浏览器或屏幕较小的设备，并且要求在「屏幕选项」中启用全宽编辑器。"
 
 #. translators: %s: Alt + F10
 #: wp-admin/edit-form-advanced.php:300
 msgid "Keyboard users: When you are working in the visual editor, you can use %s to access the toolbar."
-msgstr ""
+msgstr "致键盘用户：当您在可视编辑器中工作时，您可以使用 %s 来访问工具栏。"
 
 #: wp-admin/edit-form-advanced.php:307
 msgid "Title and Post Editor"
-msgstr ""
+msgstr "标题和文章编辑器"
 
 #. translators: %s: URL to Press This bookmarklet.
 #: wp-admin/edit-form-advanced.php:315
 msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
-msgstr ""
+msgstr "您也可以使用 <a href=\"%s\">Press This bookmarklet</a> 创建文章。"
 
 #: wp-admin/edit-form-advanced.php:319
 msgid "<a href=\"https://wordpress.org/documentation/article/write-posts-classic-editor/\">Documentation on Writing and Editing Posts</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/write-posts-classic-editor/\">写作与编辑文档</a>"
 
 #: wp-admin/edit-form-advanced.php:323
 #: wp-admin/edit.php:302
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr ""
+msgstr "页面和文章很相似——它们都具有一个标题、正文、以及相关联的元数据，但是它们并非像顺序排列的博客一样，它们会「永久」地存在于某个地方。页面没有分类或标签，但是可以具有层级结构。您可以将某个页面指定为另一个页面的「上级」，从而形成一组页面。"
 
 #: wp-admin/edit-form-advanced.php:324
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
-msgstr ""
+msgstr "创建一个页面与创建一篇文章非常相似，屏幕可以使用相同的拖放方式定制，屏幕选项标签和您选择的展开/收起方框。此屏幕同样有「专注写作」模式，可通过全屏按钮在「可视」模式和「代码」模式中使用。页面编辑器大都与文章编辑器相同，但是在页面属性框中有一些专属于页面的功能。"
 
 #: wp-admin/edit-form-advanced.php:329
 msgid "About Pages"
-msgstr ""
+msgstr "关于页面"
 
 #: wp-admin/edit-form-advanced.php:336
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-add-new-screen/\">Documentation on Adding New Pages</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/pages-add-new-screen/\">新增页面文档</a>"
 
 #: wp-admin/edit-form-advanced.php:337
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">Documentation on Editing Pages</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">编辑页面文档</a>"
 
 #: wp-admin/edit-form-advanced.php:346
 #: wp-admin/media.php:88
 msgid "This screen allows you to edit fields for metadata in a file within the media library."
-msgstr ""
+msgstr "此屏幕允许您编辑媒体库中一个文件的元数据字段。"
 
 #: wp-admin/edit-form-advanced.php:347
 #: wp-admin/media.php:89
 msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
-msgstr ""
+msgstr "对于图像，您可以单击缩略图下方的「编辑图像」按钮以展开一个内联的图像编辑器。您可以裁剪、旋转、或是翻转图像，当然也可以撤销与重做。右侧的方框提供了更多的编辑功能，包括调整图像大小，以及单独裁剪缩略图。您可以单击这些方框里的「帮助」以获取更多信息。"
 
 #: wp-admin/edit-form-advanced.php:348
 #: wp-admin/media.php:90
 msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
-msgstr ""
+msgstr "请注意您需要单击一下图像才能裁剪图像（前提是「裁剪」图标已被选中），然后调整裁剪框以选中需要的部分。然后单击「保存」以完成裁剪。"
 
 #: wp-admin/edit-form-advanced.php:349
 #: wp-admin/media.php:91
 msgid "Remember to click Update to save metadata entered or changed."
-msgstr ""
+msgstr "请记得单击「更新」按钮来完成对元数据的新增或修改。"
 
 #: wp-admin/edit-form-advanced.php:355
 #: wp-admin/media.php:97
 msgid "<a href=\"https://wordpress.org/documentation/article/edit-media/\">Documentation on Edit Media</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/edit-media/\">编辑媒体文档</a>"
 
 #: wp-admin/edit-form-advanced.php:361
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
-msgstr ""
+msgstr "您可以通过单击「添加媒体」按钮上传和插入媒体（图像、音频、文档等）。您可以从已经上传到媒体库的图像和文件中选择或上传新媒体以添加到您的页面或文章。若要创建相册，请选择要添加的图像，并单击「创建新相册」按钮。"
 
 #: wp-admin/edit-form-advanced.php:362
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://wordpress.org/documentation/article/embeds/\">Learn more about embeds</a>."
-msgstr ""
+msgstr "您也可以嵌入源自许多受欢迎网站的媒体，包括Twitter、YouTube、Flickr以及其他网站；只需将媒体网址粘贴到您文章/页面内容内独立的一行中。<a href=\"https://wordpress.org/documentation/article/embeds/\">了解关于嵌入媒体的更多信息</a>。"
 
 #: wp-admin/edit-form-advanced.php:367
 msgid "Inserting Media"
-msgstr ""
+msgstr "插入媒体"
 
 #: wp-admin/edit-form-advanced.php:374
 msgid "Several boxes on this screen contain settings for how your content will be published, including:"
-msgstr ""
+msgstr "屏幕上的几个方框包含如何发布您的内容的设置，包括："
 
 #: wp-admin/edit-form-advanced.php:376
 msgid "<strong>Publish</strong> &mdash; You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). The Password protected option allows you to set an arbitrary password for each post. The Private option hides the post from everyone except editors and administrators. Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
-msgstr ""
+msgstr "<strong>发布</strong> &mdash; 您可以在此设置您文章的发表选项。您可以通过单击「编辑」来展示状态、可见性、以及发布时间字段的更多选项。「可见性」包含了使用密码保护文章和置顶文章的选项。「密码保护」选项允许您为文章设置一个任意的密码。「私密」选项允许您对除了编辑和管理员之外的全部用户隐藏文章。「发布时间」允许您设置文章的发布时间，无论是过去的时间还是未来的时间，这样您就可以计划于未来发布某篇文章，或是回退文章的发布时间。"
 
 #: wp-admin/edit-form-advanced.php:380
 msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Your theme could enable all or some of 10 possible formats. <a href=\"https://wordpress.org/documentation/article/post-formats/#supported-formats\">Learn more about each post format</a>."
-msgstr ""
+msgstr "<strong>格式</strong> &mdash; 文章格式决定了您的主题将如何显示某篇特定文章。例如，您可以设置一个包含标题和正文的<em>标准</em>博客文章，或是仅有一小段内容的<em>侧边栏</em>。您的主题可以使用全部 10 种文章格式。<a href=\"https://wordpress.org/documentation/article/post-formats/#supported-formats\">了解关于文章格式的更多信息</a>。"
 
 #. translators: %s: Featured image.
 #: wp-admin/edit-form-advanced.php:386
 msgid "<strong>%s</strong> &mdash; This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the image as a post thumbnail on the home page, a custom header, etc."
-msgstr ""
+msgstr "<strong>%s</strong> &mdash; 这允许您在不将某个图像插入文章的情况下将其与您的文章建立关联。这通常仅在您的主题使用该图像作为首页的文章封面、自定义页眉等情况时很有用。"
 
 #: wp-admin/edit-form-advanced.php:401
 msgid "<strong>Send Trackbacks</strong> &mdash; Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
-msgstr ""
+msgstr "<strong>发送 Trackbacks</strong> &mdash; Trackbacks 是一种通知旧式博客系统您链接到了它们的方式。键入您希望发送 Trackback 的 URL。如果您连接到了其他 WordPress 站点， 它们将自动通过 Pingbacks 被通知。在这种情况下，该字段不是必需的。"
 
 #: wp-admin/edit-form-advanced.php:402
 msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
-msgstr ""
+msgstr "<strong>讨论</strong> &mdash; 您可以打开或关闭评论以及 Pingbacks。此外，如果该文章有评论，您还可以在此处查看和审阅它们。"
 
 #: wp-admin/edit-form-advanced.php:407
 #: wp-admin/options-discussion.php:16
 msgid "Discussion Settings"
-msgstr ""
+msgstr "讨论设置"
 
 #: wp-admin/edit-form-advanced.php:412
 msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
-msgstr ""
+msgstr "<strong>上级</strong> &mdash; 您可以以一种层级结构来排列您的页面。例如，您可以设立一个「关于」页面，其包含「生活故事」和「我的小狗」作为其下级。对于具体的层次数没有限制。"
 
 #: wp-admin/edit-form-advanced.php:413
 msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
-msgstr ""
+msgstr "<strong>模板</strong> &mdash; 某些主题包含了自定义的模板以供特定的，可能包含额外的布局和功能的页面使用。在这种情况下，您将可以在该下拉菜单中查看它们。"
 
 #: wp-admin/edit-form-advanced.php:414
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
-msgstr ""
+msgstr "<strong>排序</strong> &mdash; 页面通常按字母顺序排序，但是您也可以手动指定顺序，只需在该字段中输入一个数字（1 代表一号位，以此类推。）即可。"
 
 #: wp-admin/edit-form-advanced.php:419
 msgid "Page Attributes"
-msgstr ""
+msgstr "页面属性"
 
 #: wp-admin/edit-form-advanced.php:461
 msgctxt "Admin Post Navigation"
 msgid "Previous post: "
-msgstr ""
+msgstr "上一篇文章: "
 
 #: wp-admin/edit-form-advanced.php:463
 msgctxt "Admin Post Navigation"
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; 上一个"
 
 #: wp-admin/edit-form-advanced.php:471
 msgctxt "Admin Post Navigation"
 msgid "Next post: "
-msgstr ""
+msgstr "下一篇文章： "
 
 #: wp-admin/edit-form-advanced.php:473
 msgctxt "Admin Post Navigation"
 msgid "Next &rarr;"
-msgstr ""
+msgstr "下一个 &rarr;"
 
 #: wp-admin/edit-form-advanced.php:490
 msgid "<strong>Connection lost.</strong> Saving has been disabled until you are reconnected."
-msgstr ""
+msgstr "<strong>连接丢失。</strong>直到您重新建立连接前，您无法保存任何内容。"
 
 #: wp-admin/edit-form-advanced.php:491
 msgid "This post is being backed up in your browser, just in case."
-msgstr ""
+msgstr "此文章已在您的浏览器中备份，以防万一。"
 
 #: wp-admin/edit-form-advanced.php:559
 msgid "Add title"
-msgstr ""
+msgstr "添加标题"
 
 #: wp-admin/edit-form-advanced.php:586
 msgid "Get Shortlink"
-msgstr ""
+msgstr "获取短链接"
 
 #. translators: %s: Number of words.
 #: wp-admin/edit-form-advanced.php:654
 msgid "Word count: %s"
-msgstr ""
+msgstr "字数统计：%s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: User's display name, 2: Date of last edit, 3: Time of last edit.
 #: wp-admin/edit-form-advanced.php:667
 #: wp-admin/includes/ajax-actions.php:2813
 msgid "Last edited by %1$s on %2$s at %3$s"
-msgstr ""
+msgstr "由 %1$s 最后编辑于 %2$s %3$s"
 
 #. translators: 1: Post edited date, 2: Post edited time.
 #. translators: 1: Date of last edit, 2: Time of last edit.
 #: wp-admin/edit-form-advanced.php:670
 #: wp-admin/includes/ajax-actions.php:2816
 msgid "Last edited on %1$s at %2$s"
-msgstr ""
+msgstr "最后编辑于 %1$s %2$s"
 
 #: wp-admin/edit-form-comment.php:37
 msgctxt "comment"
 msgid "Permalink:"
-msgstr ""
+msgstr "永久链接："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:53
 msgid "Comment Author"
-msgstr ""
+msgstr "评论作者"
 
 #: wp-admin/edit-form-comment.php:59
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:28
@@ -1588,7 +1588,7 @@ msgstr ""
 #: wp-admin/includes/template.php:488
 #: wp-admin/user-edit.php:428
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:84
