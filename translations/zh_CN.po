@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-04 03:20\n"
+"PO-Revision-Date: 2024-07-04 15:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -492,7 +492,7 @@ msgstr "返回"
 #: wp-admin/comment.php:64
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:653
 msgid "Sorry, you are not allowed to edit this comment."
-msgstr ""
+msgstr "对不起，您无权编辑此评论。"
 
 #: wp-admin/comment.php:67
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
@@ -2594,7 +2594,7 @@ msgstr "，"
 #: wp-admin/includes/ajax-actions.php:291
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s（%2$s）"
 
 #. translators: %s: number of comments
 #: wp-admin/includes/ajax-actions.php:380
@@ -2820,7 +2820,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:3781
 #: wp-admin/includes/ajax-actions.php:3846
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr ""
+msgstr "无法连接到文件系统。请确认您的凭据。"
 
 #: wp-admin/includes/ajax-actions.php:3456 wp-admin/update.php:172
 #: wp-admin/update.php:192
@@ -2855,7 +2855,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:3616 wp-admin/plugin-install.php:18
 #: wp-admin/update.php:96 wp-admin/update.php:144
 msgid "Sorry, you are not allowed to install plugins on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上安装插件。"
 
 #: wp-admin/includes/ajax-actions.php:3721 wp-admin/update.php:24
 #: wp-admin/update.php:50 wp-admin/update.php:71
@@ -2870,7 +2870,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3824 wp-admin/plugins.php:249
 msgid "Sorry, you are not allowed to delete plugins for this site."
-msgstr ""
+msgstr "对不起，您无权删除此站点的插件。"
 
 #: wp-admin/includes/ajax-actions.php:3833 wp-admin/plugins.php:467
 msgid "You cannot delete a plugin while it is active on the main site."
@@ -15108,7 +15108,7 @@ msgstr ""
 
 #: wp-admin/plugins.php:33 wp-admin/plugins.php:157
 msgid "Sorry, you are not allowed to activate this plugin."
-msgstr ""
+msgstr "对不起，您无权启用此插件。"
 
 #: wp-admin/plugins.php:75
 msgid "Sorry, you are not allowed to activate plugins for this site."
@@ -15122,7 +15122,7 @@ msgstr ""
 
 #: wp-admin/plugins.php:179
 msgid "Sorry, you are not allowed to deactivate this plugin."
-msgstr ""
+msgstr "对不起，您无权停用此插件。"
 
 #: wp-admin/plugins.php:205
 msgid "Sorry, you are not allowed to deactivate plugins for this site."
@@ -23536,76 +23536,76 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:429
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:438
 msgid "Sorry, you are not allowed to edit '%s' for comments."
-msgstr ""
+msgstr "对不起，您无权编辑评论的「%s」。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:444
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:449
 msgid "Sorry, you are not allowed to create this comment without a post."
-msgstr ""
+msgstr "对不起，您无权在没有文章的情况下创建此评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:453
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:457
 msgid "Sorry, you are not allowed to create a comment on this post."
-msgstr ""
+msgstr "对不起，您无权在该文章上发表评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:481
 msgid "Cannot create existing comment."
-msgstr ""
+msgstr "无法创建已存在的评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:486
 msgid "Cannot create a comment with that type."
-msgstr ""
+msgstr "无法创建此类型的评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:501
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:705
 msgid "Invalid comment content."
-msgstr ""
+msgstr "无效的评论内容。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:527
 msgid "Creating a comment requires valid author name and email values."
-msgstr ""
+msgstr "创建评论需要有效的作者名称和电子邮件地址。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:546
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:713
 msgid "Comment field exceeds maximum length allowed."
-msgstr ""
+msgstr "评论字段超过允许的最大长度。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:587
 msgid "Creating comment failed."
-msgstr ""
+msgstr "创建评论失败。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:676
 msgid "Sorry, you are not allowed to change the comment type."
-msgstr ""
+msgstr "对不起，您无权切换评论类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:697
 msgid "Updating comment status failed."
-msgstr ""
+msgstr "更新评论状态失败。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:719
 msgid "Updating comment failed."
-msgstr ""
+msgstr "更新评论失败。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:814
 msgid "The comment does not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "评论不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:818
 msgid "The comment has already been trashed."
-msgstr ""
+msgstr "评论已放入回收站。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:827
 msgid "The comment cannot be deleted."
-msgstr ""
+msgstr "评论不能被删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1122
 msgid "Invalid comment author ID."
-msgstr ""
+msgstr "无效的评论作者 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1199
 msgid "The ID of the user object, if author was a user."
-msgstr ""
+msgstr "用户对象的 ID，如果评论作者是现有用户的话。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1204
 msgid "Email address for the object author."
@@ -23669,7 +23669,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1289
 msgid "The ID of the associated post object."
-msgstr ""
+msgstr "关联的文章对象的 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1295
 msgid "State of the object."
@@ -23683,7 +23683,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1318
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1286
 msgid "Avatar URL with image size of %d pixels."
-msgstr ""
+msgstr "图片大小为 %d 像素的头像 URL。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1326
 msgid "Avatar URLs for the object author."
@@ -23691,51 +23691,51 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1352
 msgid "Limit response to comments published after a given ISO8601 compliant date."
-msgstr ""
+msgstr "限制对指定的 ISO8601 兼容日期后发布的评论的回复。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1358
 msgid "Limit result set to comments assigned to specific user IDs. Requires authorization."
-msgstr ""
+msgstr "限制结果为分配给特定用户 ID 的评论。需要授权。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1366
 msgid "Ensure result set excludes comments assigned to specific user IDs. Requires authorization."
-msgstr ""
+msgstr "确保结果排除分配给特定用户 ID 的评论。需要授权。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1375
 msgid "Limit result set to that from a specific author email. Requires authorization."
-msgstr ""
+msgstr "将结果限制为来自特定作者电子邮件地址的结果。需要授权。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1381
 msgid "Limit response to comments published before a given ISO8601 compliant date."
-msgstr ""
+msgstr "限制对指定的 ISO8601 兼容日期前发布的评论的回复。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1387
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2306
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:905
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1320
 msgid "Ensure result set excludes specific IDs."
-msgstr ""
+msgstr "确保结果排除特定 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1396
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2315
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:914
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1329
 msgid "Limit result set to specific IDs."
-msgstr ""
+msgstr "限制结果为特定 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1405
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2331
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:924
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1338
 msgid "Offset the result set by a specific number of items."
-msgstr ""
+msgstr "以特定数量的项目来偏移结果。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1410
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2336
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:930
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1344
 msgid "Order sort attribute ascending or descending."
-msgstr ""
+msgstr "按顺序排序属性升序或降序。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1420
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2343
@@ -23745,23 +23745,23 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1436
 msgid "Limit result set to comments of specific parent IDs."
-msgstr ""
+msgstr "限制结果为特定上级 ID 的评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1445
 msgid "Ensure result set excludes specific parent IDs."
-msgstr ""
+msgstr "确保结果排除特定上级 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1454
 msgid "Limit result set to comments assigned to specific post IDs."
-msgstr ""
+msgstr "限制结果为附加到特定文章 ID 的评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1463
 msgid "Limit result set to comments assigned a specific status. Requires authorization."
-msgstr ""
+msgstr "限制结果为特定状态的评论。需要授权。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1471
 msgid "Limit result set to comments assigned a specific type. Requires authorization."
-msgstr ""
+msgstr "限制结果为特定类型的评论。需要授权。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1478
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:82
@@ -24484,18 +24484,18 @@ msgstr "必须指定路由。"
 #. 3: new function name
 #: wp-includes/rest-api.php:495
 msgid "%1$s (since %2$s; use %3$s instead)"
-msgstr ""
+msgstr "%1$s（自从 %2$s 开始，请使用 %3$s 代替）"
 
 #. translators: 1: function name, 2: ClassicPress or WordPress version number
 #: wp-includes/rest-api.php:498 wp-includes/rest-api.php:522
 msgid "%1$s (since %2$s; no alternative available)"
-msgstr ""
+msgstr "%1$s（自从 %2$s 开始，暂时没有可用的替代）"
 
 #. translators: 1: function name, 2: ClassicPress or WordPress version number,
 #. 3: error message
 #: wp-includes/rest-api.php:519
 msgid "%1$s (since %2$s; %3$s)"
-msgstr ""
+msgstr "%1$s（自从 %2$s 开始；%3$s）"
 
 #: wp-includes/rest-api.php:784
 msgid "Cookie nonce is invalid"
