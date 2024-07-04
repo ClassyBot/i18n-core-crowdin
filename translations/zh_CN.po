@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-03 08:41\n"
+"PO-Revision-Date: 2024-07-04 03:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1540,7 +1540,7 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:237 wp-admin/revision.php:80
 #: wp-includes/post.php:95
 msgid "Revisions"
-msgstr ""
+msgstr "修订版本"
 
 #: wp-admin/edit-form-advanced.php:244 wp-admin/edit-link-form.php:27
 #: wp-admin/includes/image-edit.php:221 wp-admin/includes/meta-boxes.php:35
@@ -1927,7 +1927,7 @@ msgstr ""
 #: wp-admin/menu.php:69
 msgctxt "link"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/edit-link-form.php:82
 msgid "Link added."
@@ -2588,7 +2588,7 @@ msgstr ""
 #: wp-includes/script-loader.php:790
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr "，"
 
 #. translators: 1: user_login, 2: user_email
 #: wp-admin/includes/ajax-actions.php:291
@@ -10804,7 +10804,7 @@ msgstr "对不起，您无权以该用户的身份发布文章。"
 #: wp-admin/includes/post.php:162 wp-includes/post.php:3299
 #: wp-includes/rest-api.php:1151 wp-includes/script-loader.php:641
 msgid "Invalid date."
-msgstr ""
+msgstr "日期无效。"
 
 #: wp-admin/includes/post.php:454 wp-includes/class-wp-xmlrpc-server.php:2788
 #: wp-includes/class-wp-xmlrpc-server.php:2990
@@ -12434,7 +12434,7 @@ msgstr ""
 
 #: wp-admin/media.php:45 wp-includes/post.php:67
 msgid "Edit Media"
-msgstr ""
+msgstr "编辑媒体"
 
 #: wp-admin/media.php:61
 msgid "You attempted to edit an attachment that doesn&#8217;t exist. Perhaps it was deleted?"
@@ -12457,7 +12457,7 @@ msgstr ""
 #: wp-admin/upload.php:230
 msgctxt "file"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/media.php:119 wp-admin/media.php:128
 msgid "Update Media"
@@ -12545,7 +12545,7 @@ msgstr ""
 #: wp-admin/menu.php:212 wp-admin/network/menu.php:62 wp-admin/plugins.php:526
 msgctxt "plugin"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
@@ -12565,7 +12565,7 @@ msgstr ""
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12703,7 +12703,7 @@ msgstr ""
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13074,7 +13074,7 @@ msgstr ""
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -15844,7 +15844,7 @@ msgstr "&hellip;"
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -22855,27 +22855,27 @@ msgstr "媒体"
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"
-msgstr ""
+msgstr "查看附件页面"
 
 #: wp-includes/post.php:69
 msgid "Attachment Attributes"
-msgstr ""
+msgstr "附件属性"
 
 #: wp-includes/post.php:96
 msgid "Revision"
-msgstr ""
+msgstr "修订版本"
 
 #: wp-includes/post.php:113
 msgid "Navigation Menu Items"
-msgstr ""
+msgstr "导航菜单项"
 
 #: wp-includes/post.php:114
 msgid "Navigation Menu Item"
-msgstr ""
+msgstr "导航菜单项"
 
 #: wp-includes/post.php:126 wp-includes/post.php:127
 msgid "Custom CSS"
@@ -23290,11 +23290,11 @@ msgstr[0] "视频 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:3046
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
-msgstr ""
+msgstr "为文章数量传递一个整数已经废弃。请以一个包含参数的数组代替。"
 
 #: wp-includes/post.php:3227
 msgid "Content, title, and excerpt are empty."
-msgstr ""
+msgstr "内容、标题和摘要是空的。"
 
 #: wp-includes/post.php:3473
 msgid "Could not update post in the database"
@@ -23307,11 +23307,11 @@ msgstr ""
 #. translators: %s: taxonomy name
 #: wp-includes/post.php:3519
 msgid "Invalid taxonomy: %s."
-msgstr ""
+msgstr "无效分类：%s。"
 
 #: wp-includes/post.php:3586
 msgid "Invalid page template."
-msgstr ""
+msgstr "无效的页面模板。"
 
 #: wp-includes/query.php:153 wp-includes/query.php:174
 #: wp-includes/query.php:195 wp-includes/query.php:219
@@ -23327,13 +23327,13 @@ msgstr ""
 #: wp-includes/query.php:659 wp-includes/query.php:679
 #: wp-includes/query.php:699 wp-includes/query.php:719
 msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr ""
+msgstr "条件查询标签在查询运行前无法工作。在此之前，它们总是返回false。"
 
 #. translators: 1: pre_get_posts 2: WP_Query->is_main_query() 3:
 #. is_main_query() 4: link to codex is_main_query() page.
 #: wp-includes/query.php:739
 msgid "In %1$s, use the %2$s method, not the %3$s function. See %4$s."
-msgstr ""
+msgstr "在 %1$s 中，请使用 %2$s 方法，而不是 %3$s 函数。请参阅 %4$s。"
 
 #: wp-includes/query.php:743
 msgid "https://codex.wordpress.org/Function_Reference/is_main_query"
@@ -23341,7 +23341,7 @@ msgstr ""
 
 #: wp-includes/registration-functions.php:7 wp-includes/registration.php:7
 msgid "This file no longer needs to be included."
-msgstr ""
+msgstr "不需要再包含该文件。"
 
 #: wp-includes/rest-api/class-wp-rest-request.php:657
 msgid "Invalid JSON body passed."
@@ -24474,11 +24474,11 @@ msgstr ""
 
 #: wp-includes/rest-api.php:37
 msgid "Routes must be namespaced with plugin or theme name and version."
-msgstr ""
+msgstr "路由必须以插件或主题的名称及版本作为命名空间。"
 
 #: wp-includes/rest-api.php:40
 msgid "Route must be specified."
-msgstr ""
+msgstr "必须指定路由。"
 
 #. translators: 1: function name, 2: ClassicPress or WordPress version number,
 #. 3: new function name
