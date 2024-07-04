@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-03 08:41\n"
+"PO-Revision-Date: 2024-07-04 03:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8615,35 +8615,35 @@ msgstr "媒体"
 #: wp-includes/post.php:78
 msgctxt "file"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-includes/post.php:79
 msgid "Edit Media"
-msgstr ""
+msgstr "编辑媒体"
 
 #: wp-includes/post.php:80
 msgid "View Attachment Page"
-msgstr ""
+msgstr "查看附件页面"
 
 #: wp-includes/post.php:81
 msgid "Attachment Attributes"
-msgstr ""
+msgstr "附件属性"
 
 #: wp-includes/post.php:111
 msgid "Revisions"
-msgstr ""
+msgstr "修订版本"
 
 #: wp-includes/post.php:112
 msgid "Revision"
-msgstr ""
+msgstr "修订版本"
 
 #: wp-includes/post.php:132
 msgid "Navigation Menu Items"
-msgstr ""
+msgstr "导航菜单项"
 
 #: wp-includes/post.php:133
 msgid "Navigation Menu Item"
-msgstr ""
+msgstr "导航菜单项"
 
 #: wp-includes/post.php:171
 #: wp-includes/post.php:172
@@ -8898,90 +8898,90 @@ msgstr[0] "视频 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:2906
 msgid "Documents"
-msgstr ""
+msgstr "文档"
 
 #: wp-includes/post.php:2907
 msgid "Manage Documents"
-msgstr ""
+msgstr "管理文档"
 
 #. translators: %s: Number of documents.
 #: wp-includes/post.php:2909
 msgid "Document <span class=\"count\">(%s)</span>"
 msgid_plural "Documents <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "文档 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:2915
 msgid "Spreadsheets"
-msgstr ""
+msgstr "电子表格"
 
 #: wp-includes/post.php:2916
 msgid "Manage Spreadsheets"
-msgstr ""
+msgstr "管理电子表格"
 
 #. translators: %s: Number of spreadsheets.
 #: wp-includes/post.php:2918
 msgid "Spreadsheet <span class=\"count\">(%s)</span>"
 msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "电子表格 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:2924
 msgctxt "file type group"
 msgid "Archives"
-msgstr ""
+msgstr "归档"
 
 #: wp-includes/post.php:2925
 msgid "Manage Archives"
-msgstr ""
+msgstr "管理归档"
 
 #. translators: %s: Number of archives.
 #: wp-includes/post.php:2927
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "归档 <span class=\"count\">（%s）</span>"
 
 #: wp-includes/post.php:3706
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
-msgstr ""
+msgstr "为文章数量传递一个整数已经废弃。请以一个包含参数的数组代替。"
 
 #: wp-includes/post.php:3909
 msgid "Content, title, and excerpt are empty."
-msgstr ""
+msgstr "内容、标题和摘要是空的。"
 
 #: wp-includes/post.php:3982
 #: wp-includes/rest-api.php:2157
 #: wp-includes/script-loader.php:1148
 msgid "Invalid date."
-msgstr ""
+msgstr "日期无效。"
 
 #: wp-includes/post.php:4206
 msgid "Could not update attachment in the database."
-msgstr ""
+msgstr "无法更新数据库中的附件。"
 
 #: wp-includes/post.php:4208
 msgid "Could not update post in the database."
-msgstr ""
+msgstr "无法在数据库中更新文章。"
 
 #: wp-includes/post.php:4249
 msgid "Could not insert attachment into the database."
-msgstr ""
+msgstr "无法将附件插入到数据库中。"
 
 #: wp-includes/post.php:4251
 msgid "Could not insert post into the database."
-msgstr ""
+msgstr "无法将文章插入数据库。"
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/post.php:4315
 msgid "Invalid taxonomy: %s."
-msgstr ""
+msgstr "无效分类：%s。"
 
 #: wp-includes/post.php:4385
 msgid "Invalid page template."
-msgstr ""
+msgstr "无效的页面模板。"
 
 #: wp-includes/post.php:5034
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr "，"
 
 #: wp-includes/query.php:165
 #: wp-includes/query.php:191
@@ -9013,48 +9013,48 @@ msgstr ""
 #: wp-includes/query.php:882
 #: wp-includes/query.php:906
 msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr ""
+msgstr "条件查询标签在查询运行前无法工作。在此之前，它们总是返回false。"
 
 #. translators: 1: pre_get_posts, 2: WP_Query->is_main_query(), 3: is_main_query(), 4: Documentation URL.
 #: wp-includes/query.php:915
 msgid "In %1$s, use the %2$s method, not the %3$s function. See %4$s."
-msgstr ""
+msgstr "在 %1$s 中，请使用 %2$s 方法，而不是 %3$s 函数。请参阅 %4$s。"
 
 #: wp-includes/query.php:919
 msgid "https://developer.wordpress.org/reference/functions/is_main_query/"
-msgstr ""
+msgstr "https://developer.wordpress.org/reference/functions/is_main_query/"
 
 #: wp-includes/registration-functions.php:9
 #: wp-includes/registration.php:9
 msgid "This file no longer needs to be included."
-msgstr ""
+msgstr "不需要再包含该文件。"
 
 #: wp-includes/rest-api.php:41
 msgid "Routes must be namespaced with plugin or theme name and version."
-msgstr ""
+msgstr "路由必须以插件或主题的名称及版本作为命名空间。"
 
 #: wp-includes/rest-api.php:44
 msgid "Route must be specified."
-msgstr ""
+msgstr "必须指定路由。"
 
 #: wp-includes/rest-api.php:51
 msgid "Namespace must not start or end with a slash."
-msgstr ""
+msgstr "命名空间不能以斜杠开头或结束。"
 
 #. translators: %s: rest_api_init
 #: wp-includes/rest-api.php:59
 msgid "REST API routes must be registered on the %s action."
-msgstr ""
+msgstr "REST API 路由必须在 %s 动作中注册。"
 
 #. translators: 1: The REST API route being registered, 2: The argument name, 3: The suggested function name.
 #: wp-includes/rest-api.php:98
 msgid "The REST API route definition for %1$s is missing the required %2$s argument. For REST API routes that are intended to be public, use %3$s as the permission callback."
-msgstr ""
+msgstr "%1$s REST API 路由定义缺少所需的 %2$s 参数。对于打算公开的 REST API 路由，请使用 %3$s 作为权限回调。"
 
 #. translators: 1: $args, 2: The REST API route being registered.
 #: wp-includes/rest-api.php:113
 msgid "REST API %1$s should be an array of arrays. Non-array value detected for %2$s."
-msgstr ""
+msgstr "REST API %1$s 应该是数组。 %2$s 的值并非是数组。"
 
 #. translators: 1: Function name, 2: WordPress version number, 3: New function name.
 #: wp-includes/rest-api.php:611
