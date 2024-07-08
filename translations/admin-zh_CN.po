@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-08 05:22\n"
+"PO-Revision-Date: 2024-07-08 17:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -700,7 +700,7 @@ msgstr "标记为垃圾"
 
 #: wp-admin/comment.php:137
 msgid "You are about to move the following comment to the Trash:"
-msgstr "您即将将以下评论移动到回收站："
+msgstr "您即将将以下评论移至回收站："
 
 #: wp-admin/comment.php:138
 #: wp-admin/edit-form-comment.php:242
@@ -715,7 +715,7 @@ msgstr "移至回收站"
 
 #: wp-admin/comment.php:141
 msgid "You are about to delete the following comment:"
-msgstr ""
+msgstr "您即将删除下列评论："
 
 #: wp-admin/comment.php:142
 msgid "Permanently delete comment"
@@ -1594,7 +1594,7 @@ msgstr "名称"
 #: wp-admin/edit-form-comment.php:84
 #: wp-admin/includes/template.php:469
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 #: wp-admin/edit-form-comment.php:105
 #: wp-admin/edit-link-form.php:30
@@ -1608,73 +1608,73 @@ msgstr ""
 #: wp-admin/js/widgets.js:429
 #: wp-admin/js/widgets/custom-html-widgets.js:261
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: wp-admin/edit-form-comment.php:113
 #: wp-admin/export.php:234
 #: wp-admin/export.php:286
 #: wp-admin/includes/meta-boxes.php:104
 msgid "Status:"
-msgstr ""
+msgstr "状态："
 
 #: wp-admin/edit-form-comment.php:117
 msgid "Approved"
-msgstr ""
+msgstr "已批准"
 
 #: wp-admin/edit-form-comment.php:120
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-admin/edit-form-comment.php:123
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:133
 msgid "Comment status"
-msgstr ""
+msgstr "评论状态"
 
 #: wp-admin/edit-form-comment.php:136
 msgctxt "comment status"
 msgid "Approved"
-msgstr ""
+msgstr "已批准"
 
 #: wp-admin/edit-form-comment.php:137
 msgctxt "comment status"
 msgid "Pending"
-msgstr ""
+msgstr "待定"
 
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
 msgid "Submitted on: %s"
-msgstr ""
+msgstr "提交于：%s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:162
 #: wp-admin/includes/meta-boxes.php:296
 msgid "Edit date and time"
-msgstr ""
+msgstr "编辑日期与时间"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:169
 #: wp-admin/includes/meta-boxes.php:304
 msgid "Date and time"
-msgstr ""
+msgstr "日期与时间"
 
 #. translators: %s: Post link.
 #: wp-admin/edit-form-comment.php:197
 msgid "In response to: %s"
-msgstr ""
+msgstr "发表在：%s"
 
 #. translators: %s: Comment link.
 #: wp-admin/edit-form-comment.php:214
 msgid "In reply to: %s"
-msgstr ""
+msgstr "回复到：%s"
 
 #: wp-admin/edit-form-comment.php:242
 #: wp-admin/includes/class-wp-comments-list-table.php:793
@@ -1684,7 +1684,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:785
 #: wp-admin/includes/media.php:1669
 msgid "Delete Permanently"
-msgstr ""
+msgstr "永久删除"
 
 #: wp-admin/edit-form-comment.php:245
 #: wp-admin/edit-tag-form.php:298
@@ -1703,64 +1703,64 @@ msgstr ""
 #: wp-admin/js/post.js:798
 #: wp-admin/js/post.js:821
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #. translators: %s: URL to Links screen.
 #: wp-admin/edit-link-form.php:16
 msgid "<a href=\"%s\">Links</a> / Edit Link"
-msgstr ""
+msgstr "<a href=\"%s\">链接</a> / 编辑链接"
 
 #: wp-admin/edit-link-form.php:17
 #: wp-admin/includes/meta-boxes.php:1176
 msgid "Update Link"
-msgstr ""
+msgstr "更新链接"
 
 #. translators: %s: URL to Links screen.
 #: wp-admin/edit-link-form.php:22
 msgid "<a href=\"%s\">Links</a> / Add New Link"
-msgstr ""
+msgstr "<a href=\"%s\">链接</a> / 添加链接"
 
 #: wp-admin/edit-link-form.php:23
 #: wp-admin/includes/meta-boxes.php:1178
 msgid "Add Link"
-msgstr ""
+msgstr "添加链接"
 
 #: wp-admin/edit-link-form.php:31
 #: wp-admin/includes/class-wp-links-list-table.php:134
 msgid "Categories"
-msgstr ""
+msgstr "分类"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-link-form.php:32
 #: wp-admin/includes/meta-boxes.php:1261
 msgid "Target"
-msgstr ""
+msgstr "目标"
 
 #: wp-admin/edit-link-form.php:33
 #: wp-admin/includes/class-walker-nav-menu-edit.php:226
 #: wp-admin/includes/nav-menu.php:1128
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "链接关系（XFN）"
 
 #: wp-admin/edit-link-form.php:34
 msgid "Advanced"
-msgstr ""
+msgstr "高级"
 
 #: wp-admin/edit-link-form.php:68
 msgid "You can add or edit links on this screen by entering information in each of the boxes. Only the link&#8217;s web address and name (the text you want to display on your site as the link) are required fields."
-msgstr ""
+msgstr "您可以在每个框中输入信息，添加或编辑此屏幕上的链接。只有链接的网页地址和名称（你想要在你的站点中用于显示链接的文本）是必填字段。"
 
 #: wp-admin/edit-link-form.php:69
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you do not use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
-msgstr ""
+msgstr "链接名称、网页地址和描述的方框有固定位置，其他方框可以通过拖放来重新排序。您也可以在「屏幕选项」中隐藏您不使用的方框，或者通过点击方框的标题栏来最小化方框。"
 
 #: wp-admin/edit-link-form.php:70
 msgid "XFN stands for <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. ClassicPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
-msgstr ""
+msgstr "XFN 代表 <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a>, 是可选的。 ClassicPress允许生成 XFN 属性来显示您与站点作者/所有者之间的关系。"
 
 #: wp-admin/edit-link-form.php:76
 msgid "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentation on Creating Links</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">创建链接文档</a>"
 
 #. translators: Add new links.
 #: wp-admin/edit-link-form.php:90
@@ -1768,29 +1768,29 @@ msgstr ""
 #: wp-admin/menu.php:83
 msgctxt "link"
 msgid "Add New"
-msgstr ""
+msgstr "新增链接"
 
 #: wp-admin/edit-link-form.php:95
 msgid "Link added."
-msgstr ""
+msgstr "链接已添加。"
 
 #: wp-admin/edit-link-form.php:114
 #: wp-admin/includes/class-wp-links-list-table.php:132
 msgctxt "link name"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #: wp-admin/edit-link-form.php:117
 msgid "Example: Nifty blogging software"
-msgstr ""
+msgstr "例如：实用的博客软件"
 
 #: wp-admin/edit-link-form.php:122
 msgid "Web Address"
-msgstr ""
+msgstr "网址"
 
 #: wp-admin/edit-link-form.php:125
 msgid "Example: <code>https://www.classicpress.net</code> &#8212; do not forget the <code>https://</code>"
-msgstr ""
+msgstr "例如：<code>https://www.classicpress.net</code> &#8212; 不要忘记 <code>https://</code>"
 
 #: wp-admin/edit-link-form.php:130
 #: wp-admin/edit-tag-form.php:203
@@ -1803,11 +1803,11 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:1129
 #: wp-admin/themes.php:603
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: wp-admin/edit-link-form.php:133
 msgid "This will be shown when someone hovers over the link in the blogroll, or optionally below the link."
-msgstr ""
+msgstr "这段文字将会在某人悬停于链接上方时显示。有时也会显示在链接下方。"
 
 #: wp-admin/edit-tag-form.php:147
 #: wp-admin/edit-tags.php:453
@@ -1815,7 +1815,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-terms-list-table.php:679
 msgctxt "term name"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-tag-form.php:152
@@ -1826,7 +1826,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:970
 #: wp-admin/includes/meta-boxes.php:1721
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
 #: wp-admin/edit-tag-form.php:186
 #: wp-admin/edit-tags.php:473
@@ -1836,12 +1836,12 @@ msgstr ""
 #: wp-admin/includes/media.php:2911
 #: wp-admin/includes/media.php:2927
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: wp-admin/edit-tag-form.php:195
 #: wp-admin/edit-tags.php:504
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
-msgstr ""
+msgstr "分类和标签不同，其可以具有分层结构。您或许有一个「爵士乐」分类，其下则有「Bebop」和「Big Band」的子分类。这是完全可选的。"
 
 #: wp-admin/edit-tag-form.php:302
 #: wp-admin/includes/class-wp-links-list-table.php:87
@@ -1863,25 +1863,25 @@ msgstr ""
 #: wp-admin/themes.php:1171
 #: wp-admin/widgets-form.php:335
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: wp-admin/edit-tags.php:13
 #: wp-admin/edit-tags.php:19
 #: wp-admin/includes/class-wp-terms-list-table.php:57
 msgid "Invalid taxonomy."
-msgstr ""
+msgstr "无效分类。"
 
 #: wp-admin/edit-tags.php:23
 msgid "Sorry, you are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在该分类上编辑条目。"
 
 #: wp-admin/edit-tags.php:29
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在该分类上管理条目。"
 
 #: wp-admin/edit-tags.php:86
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在该分类上创建条目。"
 
 #: wp-admin/edit-tags.php:117
 #: wp-admin/edit.php:176
@@ -1889,19 +1889,19 @@ msgstr ""
 #: wp-admin/themes.php:63
 #: wp-admin/upload.php:283
 msgid "Sorry, you are not allowed to delete this item."
-msgstr ""
+msgstr "对不起，您无权删除此项目。"
 
 #: wp-admin/edit-tags.php:137
 #: wp-admin/options.php:84
 msgid "Sorry, you are not allowed to delete these items."
-msgstr ""
+msgstr "对不起，您无权删除这些项目。"
 
 #: wp-admin/edit-tags.php:160
 #: wp-admin/edit-tags.php:180
 #: wp-admin/post.php:127
 #: wp-admin/term.php:31
 msgid "You attempted to edit an item that does not exist. Perhaps it was deleted?"
-msgstr ""
+msgstr "你正试图编辑一个不存在的项目。或许它已被删除？"
 
 #: wp-admin/edit-tags.php:173
 #: wp-admin/includes/class-wp-screen.php:288
@@ -1912,7 +1912,7 @@ msgstr ""
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
 msgid "Sorry, you are not allowed to edit this item."
-msgstr ""
+msgstr "对不起，您无权编辑此项目。"
 
 #. translators: %s: URL to Writing Settings screen.
 #: wp-admin/edit-tags.php:250
