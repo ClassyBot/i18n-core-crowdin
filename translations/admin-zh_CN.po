@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-08 17:21\n"
+"PO-Revision-Date: 2024-07-09 05:20\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1108,48 +1108,48 @@ msgstr "审核评论"
 
 #: wp-admin/edit-comments.php:199
 msgid "A red bar on the left means the comment is waiting for you to moderate it."
-msgstr ""
+msgstr "左边的红色栏代表着该条评论正在等待您审核。"
 
 #: wp-admin/edit-comments.php:200
 msgid "In the <strong>Author</strong> column, in addition to the author&#8217;s name, email address, and blog URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
-msgstr ""
+msgstr "在<strong>作者</strong>一列中，除了作者的名称、电子邮件地址和博客 URL，评论者的 IP 地址也会显示。点击此链接将显示源自此 IP 地址的所有评论。"
 
 #: wp-admin/edit-comments.php:201
 msgid "In the <strong>Comment</strong> column, hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
-msgstr ""
+msgstr "在<strong>评论</strong>一列中，在任何评论上悬停可以让您选择批准、回复（并批准）、快速编辑、编辑、标记为垃圾标记或将评论移入回收站。"
 
 #: wp-admin/edit-comments.php:202
 msgid "In the <strong>In response to</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If there are pending comments, a red notification circle with the number of pending comments is displayed. Clicking the notification circle will filter the comments screen to show only pending comments on that post."
-msgstr ""
+msgstr "在<strong>回复至</strong>一列中包含了三个元素。这段文本是启发该评论的文章名称，以及对应项目的文章编辑器链接。「查看文章」链接将会带您到站点上对应的文章页面。包含数字的一个小气泡显示该文章所有已批准的评论的数量。如果有任何评论待审，则会显示一个包含所有待审评论数量的红色的通知气泡。单击该气泡将会筛选出该文章所有待审的评论。"
 
 #: wp-admin/edit-comments.php:203
 msgid "In the <strong>Submitted on</strong> column, the date and time the comment was left on your site appears. Clicking on the date/time link will take you to that comment on your live site."
-msgstr ""
+msgstr "在<strong>提交于</strong>一列中将显示评论发表的日期与时间。单击日期/时间链接将会带您至您站点上对应评论所显示的页面。"
 
 #: wp-admin/edit-comments.php:204
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
-msgstr ""
+msgstr "许多人利用键盘快捷键以更快地审核他们的评论。使用旁边的链接来了解更多信息。"
 
 #: wp-admin/edit-comments.php:211
 msgid "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">Documentation on Comment Spam</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/understand-comment-spam/\">垃圾评论文档</a>"
 
 #: wp-admin/edit-comments.php:212
 #: wp-admin/user-edit.php:349
 msgid "<a href=\"https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/#keyboard-shortcuts-for-comments\">Documentation on Keyboard Shortcuts</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/#keyboard-shortcuts-for-comments\">键盘快捷键文档</a>"
 
 #: wp-admin/edit-comments.php:218
 msgid "Filter comments list"
-msgstr ""
+msgstr "筛选评论列表"
 
 #: wp-admin/edit-comments.php:219
 msgid "Comments list navigation"
-msgstr ""
+msgstr "评论列表导航"
 
 #: wp-admin/edit-comments.php:220
 msgid "Comments list"
-msgstr ""
+msgstr "评论列表"
 
 #. translators: %s: Search query.
 #: wp-admin/edit-comments.php:263
@@ -1161,19 +1161,19 @@ msgstr ""
 #: wp-admin/users.php:638
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
-msgstr ""
+msgstr "搜索结果： %s"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:301
 msgid "%s comment approved."
 msgid_plural "%s comments approved."
-msgstr[0] ""
+msgstr[0] "%s 条评论已被批准。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:307
 msgid "%s comment marked as spam."
 msgid_plural "%s comments marked as spam."
-msgstr[0] ""
+msgstr[0] "%s 条评论已被标记为垃圾。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:307
@@ -1186,74 +1186,74 @@ msgstr[0] ""
 #: wp-admin/upload.php:71
 #: wp-admin/upload.php:92
 msgid "Undo"
-msgstr ""
+msgstr "撤消"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:312
 msgid "%s comment restored from the spam."
 msgid_plural "%s comments restored from the spam."
-msgstr[0] ""
+msgstr[0] "%s 条评论已被取消标记为垃圾。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:318
 msgid "%s comment moved to the Trash."
 msgid_plural "%s comments moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s 条评论已被移动至回收站。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:323
 msgid "%s comment restored from the Trash."
 msgid_plural "%s comments restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s 条评论已从回收站中恢复。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:328
 msgid "%s comment permanently deleted."
 msgid_plural "%s comments permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s 条评论已被永久删除。"
 
 #: wp-admin/edit-comments.php:336
 msgid "This comment is already approved."
-msgstr ""
+msgstr "此评论已被批准过。"
 
 #: wp-admin/edit-comments.php:336
 #: wp-admin/edit-comments.php:342
 msgid "Edit comment"
-msgstr ""
+msgstr "编辑评论"
 
 #: wp-admin/edit-comments.php:339
 msgid "This comment is already in the Trash."
-msgstr ""
+msgstr "此评论目前已在回收站中。"
 
 #: wp-admin/edit-comments.php:339
 msgid "View Trash"
-msgstr ""
+msgstr "查看回收站"
 
 #: wp-admin/edit-comments.php:342
 msgid "This comment is already marked as spam."
-msgstr ""
+msgstr "此评论目前已被标记为垃圾评论。"
 
 #: wp-admin/edit-comments.php:357
 msgid "Search Comments"
-msgstr ""
+msgstr "搜索评论"
 
 #: wp-admin/edit-form-advanced.php:127
 #: wp-admin/edit-form-advanced.php:134
 msgid "Preview post"
-msgstr ""
+msgstr "预览文章"
 
 #: wp-admin/edit-form-advanced.php:141
 msgid "View post"
-msgstr ""
+msgstr "查看文章"
 
 #: wp-admin/edit-form-advanced.php:148
 #: wp-admin/edit-form-advanced.php:155
 msgid "Preview page"
-msgstr ""
+msgstr "预览页面"
 
 #: wp-admin/edit-form-advanced.php:162
 msgid "View page"
-msgstr ""
+msgstr "查看页面"
 
 #. translators: Publish box date format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/edit-form-advanced.php:171
@@ -1262,7 +1262,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:441
 msgctxt "publish box date format"
 msgid "M j, Y"
-msgstr ""
+msgstr "Y F j"
 
 #. translators: Publish box time format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/edit-form-advanced.php:173
@@ -1271,95 +1271,95 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:443
 msgctxt "publish box time format"
 msgid "H:i"
-msgstr ""
+msgstr "H:i"
 
 #: wp-admin/edit-form-advanced.php:178
 #: wp-admin/edit-form-advanced.php:181
 msgid "Post updated."
-msgstr ""
+msgstr "文章已更新。"
 
 #: wp-admin/edit-form-advanced.php:179
 #: wp-admin/edit-form-advanced.php:194
 msgid "Custom field updated."
-msgstr ""
+msgstr "自定义字段已更新。"
 
 #: wp-admin/edit-form-advanced.php:180
 #: wp-admin/edit-form-advanced.php:195
 msgid "Custom field deleted."
-msgstr ""
+msgstr "自定义字段已删除。"
 
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:183
 msgid "Post restored to revision from %s."
-msgstr ""
+msgstr "文章已还原至修订版本「%s」。"
 
 #: wp-admin/edit-form-advanced.php:184
 msgid "Post published."
-msgstr ""
+msgstr "文章已发表。"
 
 #: wp-admin/edit-form-advanced.php:185
 msgid "Post saved."
-msgstr ""
+msgstr "文章已保存。"
 
 #: wp-admin/edit-form-advanced.php:186
 msgid "Post submitted."
-msgstr ""
+msgstr "文章已提交。"
 
 #. translators: %s: Scheduled date for the post.
 #: wp-admin/edit-form-advanced.php:188
 msgid "Post scheduled for: %s."
-msgstr ""
+msgstr "文章已预定于 %s 发表。"
 
 #: wp-admin/edit-form-advanced.php:189
 msgid "Post draft updated."
-msgstr ""
+msgstr "文章草稿已更新。"
 
 #: wp-admin/edit-form-advanced.php:193
 #: wp-admin/edit-form-advanced.php:196
 msgid "Page updated."
-msgstr ""
+msgstr "页面已更新。"
 
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:198
 msgid "Page restored to revision from %s."
-msgstr ""
+msgstr "页面已从还原至修订版本「%s」。"
 
 #: wp-admin/edit-form-advanced.php:199
 msgid "Page published."
-msgstr ""
+msgstr "页面已发表。"
 
 #: wp-admin/edit-form-advanced.php:200
 msgid "Page saved."
-msgstr ""
+msgstr "页面已保存。"
 
 #: wp-admin/edit-form-advanced.php:201
 msgid "Page submitted."
-msgstr ""
+msgstr "页面已提交。"
 
 #. translators: %s: Scheduled date for the page.
 #: wp-admin/edit-form-advanced.php:203
 msgid "Page scheduled for: %s."
-msgstr ""
+msgstr "页面已预定于 %s 发表。"
 
 #: wp-admin/edit-form-advanced.php:204
 msgid "Page draft updated."
-msgstr ""
+msgstr "页面草稿已更新。"
 
 #: wp-admin/edit-form-advanced.php:206
 #: wp-admin/media.php:109
 #: wp-admin/upload.php:18
 #: wp-admin/upload.php:89
 msgid "Media file updated."
-msgstr ""
+msgstr "媒体文件已上传。"
 
 #: wp-admin/edit-form-advanced.php:234
 msgid "You can't publish an empty post."
-msgstr ""
+msgstr "您不能发布一篇空文章。"
 
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:253
 msgid "There is an autosave of this post that is more recent than the version below. <a href=\"%s\">View the autosave</a>"
-msgstr ""
+msgstr "此文章有一个可用的自动保存，其比下方的版本更新。<a href=\"%s\">查看自动保存</a>"
 
 #: wp-admin/edit-form-advanced.php:282
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
@@ -2141,77 +2141,77 @@ msgstr ""
 #: wp-admin/edit.php:353
 msgid "%s post not updated, somebody is editing it."
 msgid_plural "%s posts not updated, somebody is editing them."
-msgstr[0] ""
+msgstr[0] "%s 帖子未被更新，因为有人正在编辑。"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:355
 msgid "%s post permanently deleted."
 msgid_plural "%s posts permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s 篇文章已被永久删除。"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:357
 msgid "%s post moved to the Trash."
 msgid_plural "%s posts moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s 篇文章已被移动至回收站。"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:359
 msgid "%s post restored from the Trash."
 msgid_plural "%s posts restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s 篇文章已从回收站中恢复。"
 
 #. translators: %s: Number of pages.
 #: wp-admin/edit.php:363
 msgid "%s page updated."
 msgid_plural "%s pages updated."
-msgstr[0] ""
+msgstr[0] "%s 份页面已更新。"
 
 #: wp-admin/edit.php:364
 msgid "1 page not updated, somebody is editing it."
-msgstr ""
+msgstr "一份页面未更新，因为有人正在编辑它。"
 
 #. translators: %s: Number of pages.
 #: wp-admin/edit.php:366
 msgid "%s page not updated, somebody is editing it."
 msgid_plural "%s pages not updated, somebody is editing them."
-msgstr[0] ""
+msgstr[0] "%s 份页面未更新，因为有人正在编辑。"
 
 #. translators: %s: Number of pages.
 #: wp-admin/edit.php:368
 msgid "%s page permanently deleted."
 msgid_plural "%s pages permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s 份页面已被永久删除。"
 
 #. translators: %s: Number of pages.
 #: wp-admin/edit.php:370
 msgid "%s page moved to the Trash."
 msgid_plural "%s pages moved to the Trash."
-msgstr[0] ""
+msgstr[0] "%s 份页面已被移动至回收站。"
 
 #. translators: %s: Number of pages.
 #: wp-admin/edit.php:372
 msgid "%s page restored from the Trash."
 msgid_plural "%s pages restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s 份页面已从回收站中恢复。"
 
 #: wp-admin/erase-personal-data.php:13
 msgid "Sorry, you are not allowed to erase personal data on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上抹除个人数据。"
 
 #: wp-admin/erase-personal-data.php:17
 #: wp-admin/erase-personal-data.php:107
 #: wp-admin/menu.php:342
 msgid "Erase Personal Data"
-msgstr ""
+msgstr "抹除个人数据"
 
 #: wp-admin/erase-personal-data.php:25
 msgid "This screen is where you manage requests to erase personal data."
-msgstr ""
+msgstr "此屏幕是您管理抹除个人数据请求的地方。"
 
 #: wp-admin/erase-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to delete, anonymize, or forget the data they collect about an individual. The rights those laws enshrine are sometimes called the \"Right to be Forgotten\"."
-msgstr ""
+msgstr "世界各地的隐私法要求企业和在线服务删除、匿名化或忘记他们收集的有关个人的数据。这些法律所赋予的权利有时被称为「被遗忘的权利」。"
 
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
