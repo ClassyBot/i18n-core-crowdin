@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-09 05:20\n"
+"PO-Revision-Date: 2024-07-11 01:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1917,11 +1917,11 @@ msgstr "对不起，您无权编辑此项目。"
 #. translators: %s: URL to Writing Settings screen.
 #: wp-admin/edit-tags.php:250
 msgid "You can use categories to define sections of your site and group related posts. The default category is &#8220;Uncategorized&#8221; until you change it in your <a href=\"%s\">writing settings</a>."
-msgstr ""
+msgstr "您可以使用分类来确定您站点上的不同分区，或是将相关的文章归类在一起。除非您在<a href=\"%s\">撰写设置</a>中修改默认分类，其将会是「未分类」。"
 
 #: wp-admin/edit-tags.php:254
 msgid "You can create groups of links by using Link Categories. Link Category names must be unique and Link Categories are separate from the categories you use for posts."
-msgstr ""
+msgstr "您可以通过使用链接分类创建一组链接。 链接分类名称必须是唯一的。此外，链接分类和文章分类是相互独立的。"
 
 #: wp-admin/edit-tags.php:256
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there is no relationship from one tag to another."
