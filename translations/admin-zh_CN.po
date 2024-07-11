@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-11 01:00\n"
+"PO-Revision-Date: 2024-07-11 13:02\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1917,7 +1917,7 @@ msgstr "对不起，您无权编辑此项目。"
 #. translators: %s: URL to Writing Settings screen.
 #: wp-admin/edit-tags.php:250
 msgid "You can use categories to define sections of your site and group related posts. The default category is &#8220;Uncategorized&#8221; until you change it in your <a href=\"%s\">writing settings</a>."
-msgstr "您可以使用分类来确定您站点上的不同分区，或是将相关的文章归类在一起。除非您在<a href=\"%s\">撰写设置</a>中修改默认分类，其将会是「未分类」。"
+msgstr "您可以使用分类来确定您站点上的不同板块，或是将相关的文章归类在一起。除非您在<a href=\"%s\">撰写设置</a>中修改默认分类，其将会是「未分类」。"
 
 #: wp-admin/edit-tags.php:254
 msgid "You can create groups of links by using Link Categories. Link Category names must be unique and Link Categories are separate from the categories you use for posts."
@@ -1925,217 +1925,217 @@ msgstr "您可以通过使用链接分类创建一组链接。 链接分类名�
 
 #: wp-admin/edit-tags.php:256
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there is no relationship from one tag to another."
-msgstr ""
+msgstr "您可以通过<strong>标签</strong>来为您的文章分配关键词。与分类不同的是，标签没有分层结构。换句话说，标签之间是没有相互联系的。"
 
 #: wp-admin/edit-tags.php:260
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
-msgstr ""
+msgstr "您可以通过批量操作下拉菜单来删除链接分类。不过，此操作不会删除对应分类中的链接，这些链接只会被移动至默认分类中。"
 
 #: wp-admin/edit-tags.php:262
 msgid "What&#8217;s the difference between categories and tags? Normally, tags are ad-hoc keywords that identify important information in your post (names, subjects, etc) that may or may not recur in other posts, while categories are pre-determined sections. If you think of your site like a book, the categories are like the Table of Contents and the tags are like the terms in the index."
-msgstr ""
+msgstr "标签和分类不同的地方在于：通常来讲，标签是一个单一用途的关键词，用于标识您文章中的重点（人名，主题，诸如此类），这些东西或许会出现在别的文章中，也可能不再出现。而分类则是一些预定义的板块。如果将您的站点想象成一本书，那么分类就是目录，而标签则是术语表中的术语。"
 
 #: wp-admin/edit-tags.php:275
 msgid "When adding a new category on this screen, you&#8217;ll fill in the following fields:"
-msgstr ""
+msgstr "当您在该屏幕上添加一个新的分类时，您需要填写以下字段："
 
 #: wp-admin/edit-tags.php:277
 msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
-msgstr ""
+msgstr "当您在该屏幕上添加一个新的标签时，您需要填写以下字段："
 
 #: wp-admin/edit-tags.php:281
 msgid "<strong>Name</strong> &mdash; The name is how it appears on your site."
-msgstr ""
+msgstr "<strong>名称</strong> &mdash; 名称就是其显示在您站点上的名称。"
 
 #: wp-admin/edit-tags.php:283
 msgid "<strong>Slug</strong> &mdash; The &#8220;slug&#8221; is the URL-friendly version of the name. It is usually all lowercase and contains only letters, numbers, and hyphens."
-msgstr ""
+msgstr "<strong>Slug</strong> &mdash; 「Slug」是名称的 URL 友好版本。通常来讲，Slug 只包含小写字母、数字、以及连字符。"
 
 #: wp-admin/edit-tags.php:286
 msgid "<strong>Parent</strong> &mdash; Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have child categories for Bebop and Big Band. Totally optional. To create a subcategory, just choose another category from the Parent dropdown."
-msgstr ""
+msgstr "<strong>父分类</strong> &mdash; 分类和标签不同，分类可以具有分层结构。您可以有一个爵士乐分类，其下有 Bebop 和 Big Band 的子分类。这完全是可选的。要创建一个子分类，只需要在父分类下拉菜单中选择另一个分类。"
 
 #: wp-admin/edit-tags.php:289
 msgid "<strong>Description</strong> &mdash; The description is not prominent by default; however, some themes may display it."
-msgstr ""
+msgstr "<strong>描述</strong> &mdash; 描述默认不会显示，但是某些主题可能会显示它。"
 
 #: wp-admin/edit-tags.php:291
 msgid "You can change the display of this screen using the Screen Options tab to set how many items are displayed per screen and to display/hide columns in the table."
-msgstr ""
+msgstr "您可以使用屏幕选项卡来更改一个屏幕中显示的项目数量，以及显示/隐藏表格中的某些列。"
 
 #: wp-admin/edit-tags.php:296
 msgid "Adding Categories"
-msgstr ""
+msgstr "添加分类"
 
 #: wp-admin/edit-tags.php:296
 msgid "Adding Tags"
-msgstr ""
+msgstr "添加标签"
 
 #: wp-admin/edit-tags.php:305
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-categories-screen/\">Documentation on Categories</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/posts-categories-screen/\">分类文档</a>"
 
 #: wp-admin/edit-tags.php:307
 msgid "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">Documentation on Link Categories</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">链接分类文档</a>"
 
 #: wp-admin/edit-tags.php:309
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-tags-screen/\">Documentation on Tags</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/posts-tags-screen/\">标签文档</a>"
 
 #. translators: %s: Default category.
 #: wp-admin/edit-tags.php:621
 msgid "Deleting a category does not delete the posts in that category. Instead, posts that were only assigned to the deleted category are set to the default category %s. The default category cannot be deleted."
-msgstr ""
+msgstr "删除分类并不会删除该分类中的文章。这些文章只会被移动至默认分类「%s」。默认分类不能被删除。"
 
 #. translators: %s: URL to Categories to Tags Converter tool.
 #: wp-admin/edit-tags.php:632
 msgid "Categories can be selectively converted to tags using the <a href=\"%s\">category to tag converter</a>."
-msgstr ""
+msgstr "分类可以通过<a href=\"%s\">分类和标签转换器</a>来有选择性的被转换为标签。"
 
 #. translators: %s: URL to Categories to Tags Converter tool.
 #: wp-admin/edit-tags.php:645
 msgid "Tags can be selectively converted to categories using the <a href=\"%s\">tag to category converter</a>."
-msgstr ""
+msgstr "标签可以通过<a href=\"%s\">分类和标签转换器</a>来有选择性的被转换为分类。"
 
 #: wp-admin/edit.php:22
 #: wp-admin/edit.php:47
 #: wp-admin/post.php:135
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr ""
+msgstr "对不起，您无权编辑这种类型的文章。"
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
 #: wp-admin/upload.php:247
 msgid "Sorry, you are not allowed to move this item to the Trash."
-msgstr ""
+msgstr "对不起，您无权将此项目移动到回收站。"
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
 #: wp-admin/upload.php:251
 msgid "Error in moving the item to Trash."
-msgstr ""
+msgstr "移动项目到回收站时出错。"
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
 #: wp-admin/upload.php:268
 msgid "Sorry, you are not allowed to restore this item from the Trash."
-msgstr ""
+msgstr "对不起，您无权将此项目从回收站中恢复。"
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
 #: wp-admin/upload.php:272
 msgid "Error in restoring the item from Trash."
-msgstr ""
+msgstr "从回收站恢复项目时出错。"
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
 #: wp-admin/upload.php:287
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "删除附件时出错。"
 
 #: wp-admin/edit.php:185
 #: wp-admin/post.php:329
 msgid "Error in deleting the item."
-msgstr ""
+msgstr "删除项目时出错。"
 
 #: wp-admin/edit.php:249
 msgid "This screen provides access to all of your posts. You can customize the display of this screen to suit your workflow."
-msgstr ""
+msgstr "您可以在此屏幕上访问您的全部文章。您可以自定义此屏幕的显示以适应您的工作流。"
 
 #: wp-admin/edit.php:255
 #: wp-admin/users.php:43
 msgid "Screen Content"
-msgstr ""
+msgstr "屏幕内容"
 
 #: wp-admin/edit.php:257
 msgid "You can customize the display of this screen&#8217;s contents in a number of ways:"
-msgstr ""
+msgstr "您可以通过多种方式自定义此屏幕要显示的内容："
 
 #: wp-admin/edit.php:259
 msgid "You can hide/display columns based on your needs and decide how many posts to list per screen using the Screen Options tab."
-msgstr ""
+msgstr "通过「屏幕选项」选项卡，您可以根据您的需要隐藏/显示列，并决定每个屏幕要显示多少篇文章。"
 
 #: wp-admin/edit.php:260
 msgid "You can filter the list of posts by post status using the text links above the posts list to only show posts with that status. The default view is to show all posts."
-msgstr ""
+msgstr "您可以使用文章列表上方的文本链接以按文章状态过滤文章。默认视图会显示所有文章。"
 
 #: wp-admin/edit.php:261
 msgid "You can view posts in a simple title list or with an excerpt using the Screen Options tab."
-msgstr ""
+msgstr "您可以在一个简单的标题列表中查看文章，也可以使用「屏幕选项」选项卡以显示节录。"
 
 #: wp-admin/edit.php:262
 msgid "You can refine the list to show only posts in a specific category or from a specific month by using the dropdown menus above the posts list. Click the Filter button after making your selection. You also can refine the list by clicking on the post author, category or tag in the posts list."
-msgstr ""
+msgstr "您可以通过使用文章列表上方的下拉菜单来调整列表以只显示特定分类或特定月份的文章。进行选择后单击筛选按钮。 您也可以通过点击文章作者、分类或文章列表中的标签来进一步调整列表。"
 
 #: wp-admin/edit.php:269
 #: wp-admin/upload.php:329
 #: wp-admin/users.php:74
 msgid "Available Actions"
-msgstr ""
+msgstr "可用操作"
 
 #: wp-admin/edit.php:271
 msgid "Hovering over a row in the posts list will display action links that allow you to manage your post. You can perform the following actions:"
-msgstr ""
+msgstr "在文章列表中的一行上悬停将显示允许您管理您的文章的操作链接。您可以执行以下操作："
 
 #: wp-admin/edit.php:273
 msgid "<strong>Edit</strong> takes you to the editing screen for that post. You can also reach that screen by clicking on the post title."
-msgstr ""
+msgstr "<strong>编辑</strong> 将您带到编辑该文章的屏幕。您也可以点击帖子标题以到达那个屏幕。"
 
 #: wp-admin/edit.php:274
 msgid "<strong>Quick Edit</strong> provides inline access to the metadata of your post, allowing you to update post details without leaving this screen."
-msgstr ""
+msgstr "<strong>快速编辑</strong> 在单一屏幕内提供对您文章的元数据的访问，允许您在不离开此屏幕的情况下更新文章的详细信息。"
 
 #: wp-admin/edit.php:275
 msgid "<strong>Trash</strong> removes your post from this list and places it in the Trash, from which you can permanently delete it."
-msgstr ""
+msgstr "<strong>废弃</strong> 将您的文章从此屏幕移除并标记为弃稿，并可以进一步永久删除对应的文章。"
 
 #: wp-admin/edit.php:276
 msgid "<strong>Preview</strong> will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
-msgstr ""
+msgstr "<strong>预览</strong> 将向您展示当前草稿在发表后的样子。查看将带您到站点上文章实际发表的页面。具体哪个链接可用取决于您的文章状态。"
 
 #: wp-admin/edit.php:283
 #: wp-admin/includes/class-wp-list-table.php:568
 msgid "Bulk actions"
-msgstr ""
+msgstr "批量操作"
 
 #: wp-admin/edit.php:285
 msgid "You can also edit or move multiple posts to the Trash at once. Select the posts you want to act on using the checkboxes, then select the action you want to take from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "您也可以一次编辑或标记多个文章为弃稿。用复选框标记您想要使用操作的文章，然后从批量操作菜单中选择您想要采取的操作，然后点击执行。"
 
 #: wp-admin/edit.php:286
 msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected posts at once. To remove a post from the grouping, just click the x next to its name in the Bulk Edit area that appears."
-msgstr ""
+msgstr "当使用批量编辑时，您可以同时更改所有选中文章的元数据（分类、作者等）。要从分类中删除帖子，只需单击出现在批量编辑区域中其名称旁边的 x。"
 
 #: wp-admin/edit.php:292
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-screen/\">Documentation on Managing Posts</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/posts-screen/\">管理文章文档</a>"
 
 #: wp-admin/edit.php:308
 msgid "Managing Pages"
-msgstr ""
+msgstr "管理页面"
 
 #: wp-admin/edit.php:310
 msgid "Managing pages is very similar to managing posts, and the screens can be customized in the same way."
-msgstr ""
+msgstr "管理页面与管理文章非常相似，两个屏幕也可以以同样的方式自定义。"
 
 #: wp-admin/edit.php:311
 msgid "You can also perform the same types of actions, including narrowing the list by using the filters, acting on a page using the action links that appear when you hover over a row, or using the Bulk actions menu to edit the metadata for multiple pages at once."
-msgstr ""
+msgstr "您也可以执行相同类型的操作，包括使用过筛选缩小列表范围，使用当你悬停在一行时出现的动作链接，或者使用批量操作菜单一次编辑多个页面的元数据。"
 
 #: wp-admin/edit.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">Documentation on Managing Pages</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">管理页面文档</a>"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:350
 msgid "%s post updated."
 msgid_plural "%s posts updated."
-msgstr[0] ""
+msgstr[0] "%s 篇文章已更新。"
 
 #: wp-admin/edit.php:351
 msgid "1 post not updated, somebody is editing it."
-msgstr ""
+msgstr "1 篇文章未更新，某人正在编辑它。"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:353
