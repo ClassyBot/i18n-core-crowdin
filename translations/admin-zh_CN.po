@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-15 01:10\n"
+"PO-Revision-Date: 2024-07-15 13:15\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2331,132 +2331,132 @@ msgstr "导出个人数据"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
-msgstr ""
+msgstr "此屏幕是您管理导出个人数据请求的地方。"
 
 #: wp-admin/export-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to provide an export of some of the data they collect about an individual, and to deliver that export on request. The rights those laws enshrine are sometimes called the \"Right of Data Portability\". It allows individuals to obtain and reuse their personal data for their own purposes across different services. It allows them to move, copy or transfer personal data easily from one IT environment to another."
-msgstr ""
+msgstr "世界各地的隐私法要求企业和在线服务提供他们收集的有关个人的一些数据，并应当在被请求时导出这些数据。这些法律所赋予的权利有时被称为「数据传递权」。它使个人能够在不同的服务部门为自己的目的获取和再利用其个人资料。它使他们能够轻松地将个人数据从一个信息技术环境转移、复制或转移到另一个信息技术环境。"
 
 #: wp-admin/export-personal-data.php:28
 msgid "Note: Since this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with export requests. For example, you should also send the requester some of the data collected from or stored with the 3rd party services your organization uses."
-msgstr ""
+msgstr "注意：由于这个工具只能从 ClassicPress 和相关的插件收集数据，您可能需要做更多的工作来满足数据导出请求。例如，您还负责确保由您的组织使用的第三方服务收集或存储的数据被导出。"
 
 #: wp-admin/export-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from registered users who have logged in to the site. Generally, these users are people who contribute to the site in some way -- content, store management, and so on. With rare exceptions, these users do not include occasional visitors who might have registered to comment on articles or buy products. The data ClassicPress retains can include:"
-msgstr ""
+msgstr "ClassicPress 收集（但<em>永远不会</em>公开）有限的一些已登录用户的数据。通常来讲，这些用户以某种方式为站点做出贡献——内容、商店管理、诸如此类。除了在某些极端情况下，这些用户中不包含只是偶尔查看站点，并注册了账户以用于发表评论或是购买商品的访客。ClassicPress 收集的数据可能包含："
 
 #: wp-admin/export-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user, which populates the Upcoming Community Events dashboard widget with relevant information."
-msgstr ""
+msgstr "<strong>社区事件位置</strong> &mdash; 用户的 IP 地址，它用于即将到来的社区事件仪表板小部件的相关信息。"
 
 #: wp-admin/export-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; For user comments, Email Address, IP Address, User Agent (Browser/OS), Date/Time, Comment Content, and Content URL."
-msgstr ""
+msgstr "<strong>评论</strong> &mdash; 用户评论、电子邮件地址、IP地址、用户代理 （浏览器/操作系统）、日期与时间、评论内容和内容 URL。"
 
 #: wp-admin/export-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for media files the user uploads."
-msgstr ""
+msgstr "<strong>媒体</strong> &mdash; 用户上传的媒体文件的 URL列表。"
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/export-personal-data.php:48
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Exporter tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "如果您不确定，检查插件文档或者联系插件作者以确定插件是否会收集个人信息，以及其是否支持「个人信息导出」工具。这些信息或许可以在<a href=\"%s\">隐私政策指南</a>中找到。"
 
 #: wp-admin/export-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Export Personal Data request should include data from plugins as well."
-msgstr ""
+msgstr "许多插件可以在 ClassicPress 数据库或远程服务器中收集或存储个人数据。任何个人数据导出请求也应确保包含了这些插件中的数据。"
 
 #: wp-admin/export-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">learn more about how to add the Personal Data Exporter to a plugin here</a>."
-msgstr ""
+msgstr "如果您是插件开发者，您可以<a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">在此了解如何将您的插件集成至「个人信息导出」工具中</a>。"
 
 #: wp-admin/export-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-export-personal-data-screen/\">Documentation on Export Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-export-personal-data-screen/\">导出个人信息文档</a>"
 
 #: wp-admin/export-personal-data.php:94
 msgid "Filter export personal data list"
-msgstr ""
+msgstr "筛选导出个人数据列表"
 
 #: wp-admin/export-personal-data.php:95
 msgid "Export personal data list navigation"
-msgstr ""
+msgstr "导出个人数据列表导航"
 
 #: wp-admin/export-personal-data.php:96
 msgid "Export personal data list"
-msgstr ""
+msgstr "导出个人数据列表"
 
 #: wp-admin/export-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by exporting known data for a given user in a .zip file."
-msgstr ""
+msgstr "这个工具通过将给定用户的已知数据导出为一个.zip文件来帮助网站所有者遵守本地法律和条例。"
 
 #: wp-admin/export-personal-data.php:114
 msgid "Add Data Export Request"
-msgstr ""
+msgstr "添加数据导出请求"
 
 #: wp-admin/export-personal-data.php:132
 msgid "Send personal data export confirmation email."
-msgstr ""
+msgstr "发送个人数据导出确认电子邮件。"
 
 #: wp-admin/export.php:13
 msgid "Sorry, you are not allowed to export the content of this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上导出内容。"
 
 #: wp-admin/export.php:20
 #: wp-admin/menu.php:338
 msgid "Export"
-msgstr ""
+msgstr "导出"
 
 #: wp-admin/export.php:52
 msgid "You can export a file of your site&#8217;s content in order to import it into another installation or platform. The export file will be an XML file format called WXR. Posts, pages, comments, custom fields, categories, and tags can be included. You can choose for the WXR file to include only certain posts or pages by setting the dropdown filters to limit the export by category, author, date range by month, or publishing status."
-msgstr ""
+msgstr "您可以导出一个包含您站点内容的文件以便导入到另一个安装或平台。导出文件将是一个名为 WXR 的 XML 文件。这个文件中可以包含文章、页面、评论、自定义字段、类别和标签。您可以通过下拉菜单中的筛选器来将导出的 WXR 文件限定于只包含某些分类、作者、按照月份的时间范围、或者某些特定状态的文章或页面。"
 
 #: wp-admin/export.php:53
 msgid "Once generated, your WXR file can be imported by another ClassicPress site or by another blogging platform able to access this format."
-msgstr ""
+msgstr "一旦生成，您的 WXR 文件可以通过另一个 ClassicPress 站点或另一个能够访问此格式的博客平台导入。"
 
 #: wp-admin/export.php:59
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-export-screen/\">Documentation on Export</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-export-screen/\">导出站点文档</a>"
 
 #: wp-admin/export.php:173
 msgid "When you click the button below ClassicPress will create an XML file for you to save to your computer."
-msgstr ""
+msgstr "当您点击下面的按钮时，ClassicPress 将为您创建一个 XML 文件以保存到您的计算机。"
 
 #: wp-admin/export.php:174
 msgid "This format, which is called ClassicPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr ""
+msgstr "此格式称为ClassicPress eXtendRSS 或 WXR，它将包含您的文章、页面、评论、自定义字段和标签。"
 
 #: wp-admin/export.php:175
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another ClassicPress installation to import the content from this site."
-msgstr ""
+msgstr "一旦您保存了下载文件，您可以在另一个 ClassicPress 安装中使用导入功能从此站点导入内容。"
 
 #: wp-admin/export.php:177
 msgid "Choose what to export"
-msgstr ""
+msgstr "选择要导出的内容"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/export.php:183
 msgid "Content to export"
-msgstr ""
+msgstr "要导出的内容"
 
 #: wp-admin/export.php:187
 msgid "All content"
-msgstr ""
+msgstr "所有内容"
 
 #: wp-admin/export.php:188
 msgid "This will contain all of your posts, pages, comments, custom fields, terms, navigation menus, and custom posts."
-msgstr ""
+msgstr "这将包含您所有的文章、页面、评论、自定义字段、条目、导航菜单和自定义文章。"
 
 #: wp-admin/export.php:190
 #: wp-admin/includes/class-wp-users-list-table.php:377
 msgctxt "post type general name"
 msgid "Posts"
-msgstr ""
+msgstr "文章"
 
 #: wp-admin/export.php:193
 msgid "Categories:"
-msgstr ""
+msgstr "分类："
 
 #: wp-admin/export.php:194
 #: wp-admin/export.php:206
@@ -2465,25 +2465,25 @@ msgstr ""
 #: wp-admin/export.php:288
 #: wp-admin/includes/class-wp-users-list-table.php:189
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: wp-admin/export.php:198
 #: wp-admin/export.php:250
 msgid "Authors:"
-msgstr ""
+msgstr "作者："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/export.php:218
 #: wp-admin/export.php:270
 #: wp-admin/export.php:315
 msgid "Date range:"
-msgstr ""
+msgstr "日期范围："
 
 #: wp-admin/export.php:221
 #: wp-admin/export.php:273
 #: wp-admin/export.php:318
 msgid "Start date:"
-msgstr ""
+msgstr "起始日期："
 
 #: wp-admin/export.php:223
 #: wp-admin/export.php:228
@@ -2499,17 +2499,17 @@ msgstr ""
 #: wp-admin/privacy.php:220
 #: wp-admin/widgets-form.php:317
 msgid "&mdash; Select &mdash;"
-msgstr ""
+msgstr "&mdash; 选择一个选项 &mdash;"
 
 #: wp-admin/export.php:226
 #: wp-admin/export.php:278
 #: wp-admin/export.php:323
 msgid "End date:"
-msgstr ""
+msgstr "结束日期："
 
 #: wp-admin/export.php:247
 msgid "Pages"
-msgstr ""
+msgstr "页面"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/export.php:308
@@ -2519,68 +2519,68 @@ msgstr ""
 #: wp-admin/menu.php:66
 #: wp-admin/menu.php:355
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #: wp-admin/export.php:342
 msgid "Download Export File"
-msgstr ""
+msgstr "下载导出文件"
 
 #: wp-admin/freedoms.php:66
 msgid "From time to time, your ClassicPress site may send anonymous data to ClassicPress.net. Some examples of the kinds of data that may be sent are the version of ClassicPress your site is running and a list of installed plugins and themes."
-msgstr ""
+msgstr "您的 ClassicPress 网站可能会不时发送匿名数据到 ClassPress.net。被发送的数据包含类似于您的网站正在运行的 ClassicPress 版本以及已安装的插件和主题列表。"
 
 #: wp-admin/freedoms.php:68
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, how we use it, and what precautions we take to ensure site owners&#8217; privacy, please see the <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr ""
+msgstr "我们很重视隐私和透明度。欲了解更多关于我们收集什么样的信息，我们如何使用这些信息，以及我们采取了什么样的行动以确保站点所有者的隐私，请参见<a href=\"%s\">ClassicPress 隐私政策</a>。"
 
 #: wp-admin/freedoms.php:73
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPress 是一个由来自世界各地的志愿开发者构成的社区打造的自由软件。ClassicPress 附带了一些惊为天人的权利，这一切都要归功于其<a href=\"%s\">许可证</a>，即 GPL（GNU 通用公共许可证）。"
 
 #: wp-admin/freedoms.php:76
 msgid "You have the freedom to run the program, for any purpose. (freedom 0)"
-msgstr ""
+msgstr "自由之零——可将程序用于任何用途。"
 
 #: wp-admin/freedoms.php:77
 msgid "You have access to the source code, the freedom to study how the program works, and the freedom to change it to make it do what you wish. (freedom 1)"
-msgstr ""
+msgstr "自由之一——您可以自由的访问程序的源代码，研究程序的运行原理，以及修改程序以符合您希望其工作的方式。"
 
 #: wp-admin/freedoms.php:78
 msgid "You have the freedom to redistribute copies of the original program so you can help your neighbor. (freedom 2)"
-msgstr ""
+msgstr "自由之二——将程序重新分发。"
 
 #: wp-admin/freedoms.php:79
 msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. (freedom 3)"
-msgstr ""
+msgstr "自由之三——将您修改过的版本分发给其他人，以使整个社区可以受益于您的修改。"
 
 #: wp-admin/freedoms.php:85
 #: wp-admin/includes/plugin-install.php:731
 #: wp-admin/plugin-install.php:98
 #: wp-admin/plugins.php:550
 msgid "https://wordpress.org/plugins/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/"
 
 #: wp-admin/freedoms.php:86
 #: wp-admin/theme-install.php:111
 #: wp-admin/themes.php:157
 msgid "https://wordpress.org/themes/"
-msgstr ""
+msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:89
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr ""
+msgstr "在 ClassicPress.net 中的每个插件和主题都与 GPL（GNU 通用公共许可证） 100% 兼容，因此您在这里寻找<a href=\"%1$s\">插件</a>和<a href=\"%2$s\">主题</a>时不应感到顾虑。如果您在其他地方获取了插件或主题，请确保首先询问作者它是否兼容 <a href=\"%3$s\">GPL</a>。如果他们并不尊重 ClassicPress 使用的许可证，那我们不建议您使用它。"
 
 #: wp-admin/freedoms.php:93
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
-msgstr ""
+msgstr "如果您希望其他软件也能拥有如此棒的自由，那太好了！欲了解更多，请前往<a href=\"https://www.fsf.org/\">自由软件基金会（FSF）</a>。"
 
 #: wp-admin/import.php:25
 msgid "This screen lists links to plugins to import data from blogging/content management platforms. Choose the platform you want to import from, and click Install Now when you are prompted in the popup window. If your platform is not listed, click the link to search the plugin directory for other importer plugins to see if there is one for your platform."
-msgstr ""
+msgstr "此屏幕列出可以从博客/内容管理系统（CMS）中导入数据的插件链接。选择您想要从中导入内容的平台，并在弹出窗口提示时点击立即安装。 如果您的平台未被列出，点击链接以在插件目录中搜索其他的导入工具，查看您的平台是否有对应的插件可供使用。"
 
 #: wp-admin/import.php:26
 msgid "In previous versions of ClassicPress, all importers were built-in. They have been turned into plugins since most people only use them once or infrequently."
-msgstr ""
+msgstr "在旧版本的 ClassicPress 中，所有导入器都是内置的。由于大多数人只是偶尔使用一次这些工具，我们将其变为了插件形式的。"
 
 #: wp-admin/import.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-import-screen/\">Documentation on Import</a>"
@@ -2899,30 +2899,30 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3767
 msgid "This preview is unavailable in the editor."
-msgstr ""
+msgstr "此预览在编辑器中不可用。"
 
 #: wp-admin/includes/ajax-actions.php:3896
 msgid "Could not log out user sessions. Please try again."
-msgstr ""
+msgstr "无法注销用户会话。请重试。"
 
 #: wp-admin/includes/ajax-actions.php:3905
 msgid "You are now logged out everywhere else."
-msgstr ""
+msgstr "您现在已在其他任何地方登出。"
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:3909
 msgid "%s has been logged out."
-msgstr ""
+msgstr "%s 已被登出。"
 
 #: wp-admin/includes/ajax-actions.php:3934
 msgid "Image could not be processed."
-msgstr ""
+msgstr "无法处理图像。"
 
 #: wp-admin/includes/ajax-actions.php:4110
 #: wp-admin/includes/ajax-actions.php:4235
 #: wp-admin/includes/ajax-actions.php:4330
 msgid "No theme specified."
-msgstr ""
+msgstr "未指定主题。"
 
 #: wp-admin/includes/ajax-actions.php:4123
 #: wp-admin/theme-install.php:16
@@ -2930,7 +2930,7 @@ msgstr ""
 #: wp-admin/update.php:328
 #: wp-admin/update.php:366
 msgid "Sorry, you are not allowed to install themes on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上安装主题。"
 
 #: wp-admin/includes/ajax-actions.php:4166
 #: wp-admin/includes/ajax-actions.php:4298
@@ -2939,23 +2939,23 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:4589
 #: wp-admin/includes/ajax-actions.php:4658
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr ""
+msgstr "无法连接到文件系统。请确认您的凭据。"
 
 #: wp-admin/includes/ajax-actions.php:4249
 #: wp-admin/update.php:235
 #: wp-admin/update.php:258
 msgid "Sorry, you are not allowed to update themes for this site."
-msgstr ""
+msgstr "对不起，您无权升级此站点的主题。"
 
 #: wp-admin/includes/ajax-actions.php:4309
 #: wp-admin/includes/class-theme-upgrader.php:63
 #: wp-admin/includes/class-theme-upgrader.php:100
 msgid "Theme update failed."
-msgstr ""
+msgstr "主题升级失败。"
 
 #: wp-admin/includes/ajax-actions.php:4342
 msgid "Sorry, you are not allowed to delete themes on this site."
-msgstr ""
+msgstr "对不起，您无权删除此站点的主题。"
 
 #: wp-admin/includes/ajax-actions.php:4347
 #: wp-admin/includes/file.php:440
@@ -2965,17 +2965,17 @@ msgstr ""
 #: wp-admin/themes.php:28
 #: wp-admin/themes.php:71
 msgid "The requested theme does not exist."
-msgstr ""
+msgstr "所请求的主题不存在。"
 
 #: wp-admin/includes/ajax-actions.php:4380
 msgid "Theme could not be deleted."
-msgstr ""
+msgstr "主题无法被删除。"
 
 #: wp-admin/includes/ajax-actions.php:4404
 #: wp-admin/includes/ajax-actions.php:4513
 #: wp-admin/includes/ajax-actions.php:4621
 msgid "No plugin specified."
-msgstr ""
+msgstr "未指定插件。"
 
 #: wp-admin/includes/ajax-actions.php:4415
 #: wp-admin/plugin-install.php:19
@@ -2983,177 +2983,177 @@ msgstr ""
 #: wp-admin/update.php:176
 #: wp-admin/update.php:214
 msgid "Sorry, you are not allowed to install plugins on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上安装插件。"
 
 #: wp-admin/includes/ajax-actions.php:4528
 #: wp-admin/update.php:29
 #: wp-admin/update.php:57
 #: wp-admin/update.php:80
 msgid "Sorry, you are not allowed to update plugins for this site."
-msgstr ""
+msgstr "对不起，您无权升级此站点的插件。"
 
 #: wp-admin/includes/ajax-actions.php:4600
 #: wp-admin/includes/class-plugin-upgrader.php:64
 #: wp-admin/includes/class-plugin-upgrader.php:91
 msgid "Plugin update failed."
-msgstr ""
+msgstr "插件升级失败。"
 
 #: wp-admin/includes/ajax-actions.php:4634
 #: wp-admin/plugins.php:269
 msgid "Sorry, you are not allowed to delete plugins for this site."
-msgstr ""
+msgstr "对不起，您无权删除此站点的插件。"
 
 #: wp-admin/includes/ajax-actions.php:4643
 #: wp-admin/plugins.php:623
 msgid "You cannot delete a plugin while it is active on the main site."
-msgstr ""
+msgstr "您无法删除一个已在主站点上启用的插件。"
 
 #: wp-admin/includes/ajax-actions.php:4674
 msgid "Plugin could not be deleted."
-msgstr ""
+msgstr "插件无法被删除。"
 
 #: wp-admin/includes/ajax-actions.php:4710
 #: wp-admin/includes/ajax-actions.php:4762
 #: wp-admin/plugins.php:13
 msgid "Sorry, you are not allowed to manage plugins for this site."
-msgstr ""
+msgstr "对不起，您无权管理此站点的插件。"
 
 #: wp-admin/includes/ajax-actions.php:4811
 #: wp-admin/plugin-editor.php:187
 #: wp-admin/theme-editor.php:194
 msgid "File edited successfully."
-msgstr ""
+msgstr "文件编辑成功。"
 
 #: wp-admin/includes/ajax-actions.php:4825
 #: wp-admin/includes/ajax-actions.php:5015
 msgid "Missing request ID."
-msgstr ""
+msgstr "缺少请求 ID。"
 
 #: wp-admin/includes/ajax-actions.php:4831
 #: wp-admin/includes/ajax-actions.php:5021
 msgid "Invalid request ID."
-msgstr ""
+msgstr "无效的请求 ID。"
 
 #: wp-admin/includes/ajax-actions.php:4835
 #: wp-admin/includes/ajax-actions.php:5026
 msgid "Sorry, you are not allowed to perform this action."
-msgstr ""
+msgstr "对不起，您无权执行此操作。"
 
 #: wp-admin/includes/ajax-actions.php:4844
 #: wp-admin/includes/ajax-actions.php:5035
 msgid "Invalid request type."
-msgstr ""
+msgstr "无效的请求类型。"
 
 #: wp-admin/includes/ajax-actions.php:4849
 msgid "A valid email address must be given."
-msgstr ""
+msgstr "必须提供有效的电子邮件地址。"
 
 #: wp-admin/includes/ajax-actions.php:4853
 msgid "Missing exporter index."
-msgstr ""
+msgstr "缺少导出器索引。"
 
 #: wp-admin/includes/ajax-actions.php:4859
 #: wp-admin/includes/ajax-actions.php:5051
 msgid "Missing page index."
-msgstr ""
+msgstr "缺少页面索引。"
 
 #: wp-admin/includes/ajax-actions.php:4888
 msgid "An exporter has improperly used the registration filter."
-msgstr ""
+msgstr "某个导入器使用注册过滤器的方式不正确。"
 
 #: wp-admin/includes/ajax-actions.php:4894
 msgid "Exporter index cannot be negative."
-msgstr ""
+msgstr "导出器索引不能为负值。"
 
 #: wp-admin/includes/ajax-actions.php:4898
 msgid "Exporter index is out of range."
-msgstr ""
+msgstr "导出器索引超出范围。"
 
 #: wp-admin/includes/ajax-actions.php:4902
 #: wp-admin/includes/ajax-actions.php:5090
 msgid "Page index cannot be less than one."
-msgstr ""
+msgstr "页面索引不能小于一。"
 
 #. translators: %s: Exporter array index.
 #: wp-admin/includes/ajax-actions.php:4912
 msgid "Expected an array describing the exporter at index %s."
-msgstr ""
+msgstr "预期在索引 %s 中描述导出器的数组。"
 
 #. translators: %s: Exporter array index.
 #: wp-admin/includes/ajax-actions.php:4919
 msgid "Exporter array at index %s does not include a friendly name."
-msgstr ""
+msgstr "索引 %s 的导出器数组不包含友好名称。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4928
 msgid "Exporter does not include a callback: %s."
-msgstr ""
+msgstr "导出器不包含回调：%s。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4935
 msgid "Exporter callback is not a valid callback: %s."
-msgstr ""
+msgstr "导出器回调不是有效的回调：%s。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4949
 msgid "Expected response as an array from exporter: %s."
-msgstr ""
+msgstr "预期的导出器响应为数组：%s。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4956
 msgid "Expected data in response array from exporter: %s."
-msgstr ""
+msgstr "预期在导出器相应数组中包含数据：%s。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4963
 msgid "Expected data array in response array from exporter: %s."
-msgstr ""
+msgstr "预期在导出器响应数组中包含数据数组：%s。"
 
 #. translators: %s: Exporter friendly name.
 #: wp-admin/includes/ajax-actions.php:4970
 msgid "Expected done (boolean) in response array from exporter: %s."
-msgstr ""
+msgstr "预期导出器响应数组中的完成（布尔值）：%s。"
 
 #: wp-admin/includes/ajax-actions.php:5041
 msgid "Invalid email address in request."
-msgstr ""
+msgstr "请求中包含无效的电子邮件地址。"
 
 #: wp-admin/includes/ajax-actions.php:5045
 msgid "Missing eraser index."
-msgstr ""
+msgstr "缺少擦除索引。"
 
 #: wp-admin/includes/ajax-actions.php:5082
 msgid "Eraser index cannot be less than one."
-msgstr ""
+msgstr "擦除索引不能小于一。"
 
 #: wp-admin/includes/ajax-actions.php:5086
 msgid "Eraser index is out of range."
-msgstr ""
+msgstr "擦除索引超出范围。"
 
 #. translators: %d: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5099
 msgid "Expected an array describing the eraser at index %d."
-msgstr ""
+msgstr "预期在索引 %d 中描述擦除器的数组。"
 
 #. translators: %d: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5104
 msgid "Eraser array at index %d does not include a friendly name."
-msgstr ""
+msgstr "索引 %d 的擦除器数组不包含友好名称。"
 
 #. translators: %s: Eraser friendly name.
 #: wp-admin/includes/ajax-actions.php:5113
 msgid "Eraser does not include a callback: %s."
-msgstr ""
+msgstr "擦除器不包含回调：%s。"
 
 #. translators: %s: Eraser friendly name.
 #: wp-admin/includes/ajax-actions.php:5123
 msgid "Eraser callback is not valid: %s."
-msgstr ""
+msgstr "擦除器回调不是有效回调：%s。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5140
 msgid "Did not receive array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "没有从 %1$s 擦除器接收数组（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5151
@@ -3403,39 +3403,39 @@ msgstr ""
 #: wp-admin/includes/class-custom-background.php:260
 #: wp-admin/includes/template.php:2318
 msgid "Background Image"
-msgstr ""
+msgstr "背景图像"
 
 #: wp-admin/includes/class-custom-background.php:306
 #: wp-admin/includes/class-custom-image-header.php:714
 msgid "Remove Image"
-msgstr ""
+msgstr "移除图像"
 
 #: wp-admin/includes/class-custom-background.php:310
 msgid "Remove Background Image"
-msgstr ""
+msgstr "移除背景图像"
 
 #: wp-admin/includes/class-custom-background.php:311
 msgid "This will remove the background image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "这将移除背景图像。您将无法恢复任何自定义图像。"
 
 #: wp-admin/includes/class-custom-background.php:320
 #: wp-admin/includes/class-custom-background.php:324
 msgid "Restore Original Image"
-msgstr ""
+msgstr "还原原始图像"
 
 #: wp-admin/includes/class-custom-background.php:325
 msgid "This will restore the original background image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "这将恢复原始背景图像。您将无法恢复任何自定义图像。"
 
 #: wp-admin/includes/class-custom-background.php:333
 #: wp-admin/includes/class-custom-image-header.php:578
 msgid "Select Image"
-msgstr ""
+msgstr "选择图像"
 
 #: wp-admin/includes/class-custom-background.php:336
 #: wp-admin/includes/class-custom-image-header.php:648
 msgid "Choose an image from your computer:"
-msgstr ""
+msgstr "从您的电脑中选择一份图像："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:340
@@ -3444,205 +3444,205 @@ msgstr ""
 #: wp-admin/includes/media.php:2206
 #: wp-admin/includes/media.php:2210
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: wp-admin/includes/class-custom-background.php:343
 #: wp-admin/includes/class-custom-image-header.php:665
 msgid "Or choose an image from your media library:"
-msgstr ""
+msgstr "或者从您的媒体库中选择一个图像："
 
 #: wp-admin/includes/class-custom-background.php:345
 msgid "Choose a Background Image"
-msgstr ""
+msgstr "选择背景图像"
 
 #: wp-admin/includes/class-custom-background.php:346
 msgid "Set as background"
-msgstr ""
+msgstr "设为背景"
 
 #: wp-admin/includes/class-custom-background.php:346
 #: wp-admin/includes/class-custom-image-header.php:669
 #: wp-admin/options-general.php:322
 msgid "Choose Image"
-msgstr ""
+msgstr "选择图像"
 
 #: wp-admin/includes/class-custom-background.php:355
 msgid "Display Options"
-msgstr ""
+msgstr "显示选项"
 
 #: wp-admin/includes/class-custom-background.php:372
 msgid "Top Left"
-msgstr ""
+msgstr "左上"
 
 #: wp-admin/includes/class-custom-background.php:376
 msgid "Top"
-msgstr ""
+msgstr "顶端"
 
 #: wp-admin/includes/class-custom-background.php:380
 msgid "Top Right"
-msgstr ""
+msgstr "右上"
 
 #: wp-admin/includes/class-custom-background.php:386
 #: wp-admin/includes/media.php:1152
 #: wp-admin/includes/media.php:2913
 msgid "Left"
-msgstr ""
+msgstr "左侧"
 
 #: wp-admin/includes/class-custom-background.php:390
 #: wp-admin/includes/media.php:1153
 #: wp-admin/includes/media.php:2915
 msgid "Center"
-msgstr ""
+msgstr "居中"
 
 #: wp-admin/includes/class-custom-background.php:394
 #: wp-admin/includes/media.php:1154
 #: wp-admin/includes/media.php:2917
 msgid "Right"
-msgstr ""
+msgstr "右侧"
 
 #: wp-admin/includes/class-custom-background.php:400
 msgid "Bottom Left"
-msgstr ""
+msgstr "左下"
 
 #: wp-admin/includes/class-custom-background.php:404
 msgid "Bottom"
-msgstr ""
+msgstr "底端"
 
 #: wp-admin/includes/class-custom-background.php:408
 msgid "Bottom Right"
-msgstr ""
+msgstr "右下"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:415
 #: wp-admin/includes/class-custom-background.php:419
 msgid "Image Position"
-msgstr ""
+msgstr "图像位置"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:439
 #: wp-admin/includes/class-custom-background.php:443
 msgid "Image Size"
-msgstr ""
+msgstr "图像尺寸"
 
 #: wp-admin/includes/class-custom-background.php:447
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "原始"
 
 #: wp-admin/includes/class-custom-background.php:448
 msgid "Fit to Screen"
-msgstr ""
+msgstr "适合屏幕"
 
 #: wp-admin/includes/class-custom-background.php:449
 msgid "Fill Screen"
-msgstr ""
+msgstr "充满屏幕"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:455
 #: wp-admin/includes/class-custom-background.php:459
 msgctxt "Background Repeat"
 msgid "Repeat"
-msgstr ""
+msgstr "重复"
 
 #: wp-admin/includes/class-custom-background.php:463
 msgid "Repeat Background Image"
-msgstr ""
+msgstr "背景图像重复"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:468
 #: wp-admin/includes/class-custom-background.php:472
 msgctxt "Background Scroll"
 msgid "Scroll"
-msgstr ""
+msgstr "滚动"
 
 #: wp-admin/includes/class-custom-background.php:476
 msgid "Scroll with Page"
-msgstr ""
+msgstr "随页面滚动"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:481
 #: wp-admin/includes/class-custom-background.php:485
 msgid "Background Color"
-msgstr ""
+msgstr "背景颜色"
 
 #: wp-admin/includes/class-custom-background.php:630
 #: wp-admin/includes/image-edit.php:288
 #: wp-admin/includes/media.php:1194
 msgid "Thumbnail"
-msgstr ""
+msgstr "缩略图"
 
 #: wp-admin/includes/class-custom-background.php:631
 #: wp-admin/includes/media.php:1195
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 #: wp-admin/includes/class-custom-background.php:632
 #: wp-admin/includes/media.php:1196
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 #: wp-admin/includes/class-custom-background.php:633
 #: wp-admin/includes/media.php:1197
 msgid "Full Size"
-msgstr ""
+msgstr "全尺寸"
 
 #: wp-admin/includes/class-custom-image-header.php:74
 #: wp-admin/menu.php:215
 msgid "Header"
-msgstr ""
+msgstr "页眉"
 
 #: wp-admin/includes/class-custom-image-header.php:102
 msgid "This screen is used to customize the header section of your theme."
-msgstr ""
+msgstr "此屏幕用于自定义您主题的页眉部分。"
 
 #: wp-admin/includes/class-custom-image-header.php:103
 msgid "You can choose from the theme&#8217;s default header images, or use one of your own. You can also customize how your Site Title and Tagline are displayed."
-msgstr ""
+msgstr "您可以从主题的默认页眉图像中选择、或使用您自己的一份图像。您也可以自定义您的站点名称和站点描述的显示方式。"
 
 #: wp-admin/includes/class-custom-image-header.php:110
 #: wp-admin/includes/class-custom-image-header.php:531
 #: wp-admin/includes/template.php:2290
 #: wp-admin/includes/template.php:2297
 msgid "Header Image"
-msgstr ""
+msgstr "页眉图像"
 
 #: wp-admin/includes/class-custom-image-header.php:112
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately. Alternatively, you can use an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button."
-msgstr ""
+msgstr "您可以为您的站点设置一个自定义页眉图像。只需上传并裁剪图像，新的页眉将立即生效。或者，您可以通过单击「选择图像」按钮使用已经上传到媒体库的图像。"
 
 #: wp-admin/includes/class-custom-image-header.php:113
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you would like and click the &#8220;Save Changes&#8221; button."
-msgstr ""
+msgstr "一些主题自带额外的页眉图像。如果您看到多张图片，请选择您想要的图片，并单击「保存更改」按钮。"
 
 #: wp-admin/includes/class-custom-image-header.php:114
 msgid "If your theme has more than one default header image, or you have uploaded more than one custom header image, you have the option of having ClassicPress display a randomly different image on each page of your site. Click the &#8220;Random&#8221; radio button next to the Uploaded Images or Default Images section to enable this feature."
-msgstr ""
+msgstr "如果您的主题有多于一个默认的页眉图像，或者您上传了多个自定义页眉图像，您可以选择让 ClassicPress 在您站点的每个页面上随机显示不同的图像。点击上传图像或默认图像部分旁边的「随机」单选框以启用此功能。"
 
 #: wp-admin/includes/class-custom-image-header.php:115
 msgid "If you do not want a header image to be displayed on your site at all, click the &#8220;Remove Header Image&#8221; button at the bottom of the Header Image section of this page. If you want to re-enable the header image later, you just have to select one of the other image options and click &#8220;Save Changes&#8221;."
-msgstr ""
+msgstr "如果您不希望在您的站点上显示页眉图像，单击底部的「移除页眉图像」按钮。如果您想稍后希望重新启用页眉图像，您只需选择其他图像选项之一并单击「保存更改」。"
 
 #: wp-admin/includes/class-custom-image-header.php:122
 #: wp-admin/includes/class-custom-image-header.php:744
 #: wp-admin/includes/class-custom-image-header.php:749
 msgid "Header Text"
-msgstr ""
+msgstr "页眉文本"
 
 #. translators: %s: URL to General Settings screen.
 #: wp-admin/includes/class-custom-image-header.php:126
 msgid "For most themes, the header text is your Site Title and Tagline, as defined in the <a href=\"%s\">General Settings</a> section."
-msgstr ""
+msgstr "对于大多数主题，页眉文本是你的站点标题和站点描述，这可在<a href=\"%s\">常规设置</a>中定义。"
 
 #: wp-admin/includes/class-custom-image-header.php:130
 msgid "In the Header Text section of this page, you can choose whether to display this text or hide it. You can also choose a color for the text by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr ""
+msgstr "在此页面的页眉文本部分中，您可以选择是否要显示这些文本。您也可以通过「选择颜色」按钮选择这些文本的颜色。在单击该按钮后，使用颜色选择器，或是通过输入一个有效的 HTML 颜色代码（例如：「#ff0000」代表红色）以选择一个颜色。"
 
 #: wp-admin/includes/class-custom-image-header.php:131
 msgid "Do not forget to click &#8220;Save Changes&#8221; when you are done!"
-msgstr ""
+msgstr "在完成修改后，不要忘了单击「保存更改」按钮！"
 
 #: wp-admin/includes/class-custom-image-header.php:137
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">自定义页眉文档</a>"
 
 #: wp-admin/includes/class-custom-image-header.php:317
 msgid "<strong>Random:</strong> Show a different image on each page."
@@ -3876,12 +3876,12 @@ msgstr ""
 
 #: wp-admin/includes/class-plugin-installer-skin.php:110
 msgid "Activate Plugin &amp; Go to Press This"
-msgstr ""
+msgstr "启用插件并转到 Press This"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:116
 #: wp-admin/includes/class-plugin-upgrader-skin.php:96
 msgid "Activate Plugin"
-msgstr ""
+msgstr "启用插件"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:124
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:581
@@ -3889,24 +3889,24 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugins-list-table.php:806
 #: wp-admin/js/updates.js:755
 msgid "Network Activate"
-msgstr ""
+msgstr "网络启用"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:133
 msgid "Go to Importers"
-msgstr ""
+msgstr "转到导入器"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:139
 #: wp-admin/includes/class-plugin-installer-skin.php:145
 msgid "Go to Plugin Installer"
-msgstr ""
+msgstr "转到插件安装器"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:211
 msgid "This plugin is already installed."
-msgstr ""
+msgstr "此插件已被安装。"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:216
 msgid "Plugin name"
-msgstr ""
+msgstr "插件名称"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:217
 #: wp-admin/includes/class-theme-installer-skin.php:240
@@ -3914,173 +3914,173 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1095
 #: wp-admin/includes/class-wp-debug-data.php:1190
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:219
 #: wp-admin/includes/class-theme-installer-skin.php:242
 msgid "Required WordPress version"
-msgstr ""
+msgstr "所需的 WordPress 版本"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:220
 #: wp-admin/includes/class-theme-installer-skin.php:243
 msgid "Required PHP version"
-msgstr ""
+msgstr "所需的 PHP 版本"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:224
 msgctxt "plugin"
 msgid "Current"
-msgstr ""
+msgstr "时下"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:225
 msgctxt "plugin"
 msgid "Uploaded"
-msgstr ""
+msgstr "已上传"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:259
 msgid "The plugin cannot be updated due to the following:"
-msgstr ""
+msgstr "由于以下原因，无法更新插件："
 
 #. translators: 1: Current PHP version, 2: Version required by the uploaded plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:268
 #: wp-admin/includes/class-plugin-upgrader.php:449
 msgid "The PHP version on your server is %1$s, however the uploaded plugin requires %2$s."
-msgstr ""
+msgstr "您服务器上的 PHP 版本是 %1$s，然而上传的插件需要 %2$s。"
 
 #. translators: 1: Current WordPress version, 2: Version required by the uploaded plugin.
 #. translators: 1: Current ClassicPress version, 2: Version required by the uploaded plugin.
 #: wp-admin/includes/class-plugin-installer-skin.php:280
 #: wp-admin/includes/class-plugin-upgrader.php:460
 msgid "Your ClassicPress version is %1$s, however the uploaded plugin requires %2$s."
-msgstr ""
+msgstr "您的 ClassicPress 版本是 %1$s，不过，上传的插件需要 %2$s。"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-plugin-installer-skin.php:295
 msgid "You are uploading an older version of a current plugin. You can continue to install the older version, but be sure to <a href=\"%s\">back up your database and files</a> first."
-msgstr ""
+msgstr "您正在降级插件。您可以继续降级操作，但请确保先<a href=\"%s\">备份您的数据库和文件</a>。"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:296
 #: wp-admin/includes/class-plugin-installer-skin.php:302
 #: wp-admin/includes/class-theme-installer-skin.php:331
 #: wp-admin/includes/class-theme-installer-skin.php:337
 msgid "https://wordpress.org/documentation/article/wordpress-backups/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/wordpress-backups/"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-plugin-installer-skin.php:301
 msgid "You are updating a plugin. Be sure to <a href=\"%s\">back up your database and files</a> first."
-msgstr ""
+msgstr "您正在升级插件。请确保先<a href=\"%s\">备份您的数据库和文件</a>。"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:313
 msgctxt "plugin"
 msgid "Replace current with uploaded"
-msgstr ""
+msgstr "用上传的版本替代当前版本"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:324
 #: wp-admin/includes/class-theme-installer-skin.php:359
 msgid "Cancel and go back"
-msgstr ""
+msgstr "取消并返回"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:342
 #: wp-admin/includes/class-theme-installer-skin.php:377
 msgid "The uploaded file has expired. Please go back and upload it again."
-msgstr ""
+msgstr "上传的文件已过期。请返回并再次上传。"
 
 #: wp-admin/includes/class-plugin-upgrader-skin.php:62
 #: wp-admin/update.php:63
 msgid "Update Plugin"
-msgstr ""
+msgstr "升级插件"
 
 #: wp-admin/includes/class-plugin-upgrader-skin.php:85
 #: wp-admin/update-core.php:1005
 #: wp-admin/update-core.php:1046
 msgid "Update progress"
-msgstr ""
+msgstr "升级进度"
 
 #: wp-admin/includes/class-plugin-upgrader.php:57
 msgid "The plugin is at the latest version."
-msgstr ""
+msgstr "此插件处于最新版本。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:62
 msgid "Removing the old version of the plugin&#8230;"
-msgstr ""
+msgstr "正在移除旧版本的插件&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:63
 msgid "Could not remove the old plugin."
-msgstr ""
+msgstr "无法移除旧版本的插件。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:65
 #: wp-admin/includes/class-plugin-upgrader.php:92
 msgid "Plugin updated successfully."
-msgstr ""
+msgstr "插件升级成功。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:66
 msgid "Plugins updated successfully."
-msgstr ""
+msgstr "插件升级成功。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:75
 #: wp-admin/includes/class-theme-upgrader.php:73
 msgid "Installation package not available."
-msgstr ""
+msgstr "安装包不可用。"
 
 #. translators: %s: Package URL.
 #: wp-admin/includes/class-plugin-upgrader.php:77
 #: wp-admin/includes/class-theme-upgrader.php:75
 msgid "Downloading installation package from %s&#8230;"
-msgstr ""
+msgstr "正在从 %s&#8230; 下载安装包"
 
 #: wp-admin/includes/class-plugin-upgrader.php:78
 #: wp-admin/includes/class-theme-upgrader.php:76
 msgid "Unpacking the package&#8230;"
-msgstr ""
+msgstr "正在解压安装包&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:79
 msgid "Installing the plugin&#8230;"
-msgstr ""
+msgstr "正在安装插件&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:80
 msgid "Removing the current plugin&#8230;"
-msgstr ""
+msgstr "正在移除当前插件&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:81
 msgid "Could not remove the current plugin."
-msgstr ""
+msgstr "无法移除当前插件。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:82
 msgid "The plugin contains no files."
-msgstr ""
+msgstr "此插件没有文件。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:83
 msgid "Plugin installation failed."
-msgstr ""
+msgstr "插件安装失败。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:84
 msgid "Plugin installed successfully."
-msgstr ""
+msgstr "插件安装成功。"
 
 #. translators: 1: Plugin name, 2: Plugin version.
 #: wp-admin/includes/class-plugin-upgrader.php:86
 msgid "Successfully installed the plugin <strong>%1$s %2$s</strong>."
-msgstr ""
+msgstr "成功的安装了插件 <strong>%1$s %2$s</strong>。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:90
 msgid "Updating the plugin&#8230;"
-msgstr ""
+msgstr "正在升级插件&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:96
 msgid "Downgrading the plugin&#8230;"
-msgstr ""
+msgstr "正在降级插件&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:97
 msgid "Plugin downgrade failed."
-msgstr ""
+msgstr "插件降级失败。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:98
 msgid "Plugin downgraded successfully."
-msgstr ""
+msgstr "插件降级成功。"
 
 #: wp-admin/includes/class-plugin-upgrader.php:440
 msgid "No valid plugins were found."
-msgstr ""
+msgstr "找不到有效的插件。"
 
 #: wp-admin/includes/class-theme-installer-skin.php:131
 #: wp-admin/includes/class-theme-upgrader-skin.php:103
@@ -4096,13 +4096,13 @@ msgstr ""
 #: wp-admin/themes.php:1162
 #: wp-admin/js/updates.js:1430
 msgid "Live Preview"
-msgstr ""
+msgstr "实时预览"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #: wp-admin/includes/class-theme-installer-skin.php:133
 #: wp-admin/includes/class-theme-upgrader-skin.php:105
 msgid "Live Preview &#8220;%s&#8221;"
-msgstr ""
+msgstr "实时预览「%s」"
 
 #: wp-admin/includes/class-theme-installer-skin.php:141
 #: wp-admin/includes/class-theme-upgrader-skin.php:113
@@ -4119,7 +4119,7 @@ msgstr ""
 #: wp-admin/js/updates.js:766
 #: wp-admin/js/updates.js:1419
 msgid "Activate"
-msgstr ""
+msgstr "启用"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #. translators: %s: Theme name.
@@ -4128,20 +4128,20 @@ msgstr ""
 #: wp-admin/includes/class-wp-themes-list-table.php:214
 msgctxt "theme"
 msgid "Activate &#8220;%s&#8221;"
-msgstr ""
+msgstr "启用「%s」"
 
 #: wp-admin/includes/class-theme-installer-skin.php:150
 #: wp-admin/js/updates.js:1408
 msgid "Network Enable"
-msgstr ""
+msgstr "网络启用"
 
 #: wp-admin/includes/class-theme-installer-skin.php:158
 msgid "Go to Theme Installer"
-msgstr ""
+msgstr "转到主题安装器"
 
 #: wp-admin/includes/class-theme-installer-skin.php:224
 msgid "This theme is already installed."
-msgstr ""
+msgstr "此主题已被安装。"
 
 #: wp-admin/includes/class-theme-installer-skin.php:239
 msgid "Theme name"
@@ -4384,54 +4384,54 @@ msgstr ""
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:256
 msgid "Down one"
-msgstr ""
+msgstr "下一个"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:259
 msgid "To the top"
-msgstr ""
+msgstr "返回顶部"
 
 #. translators: %s: Link to menu item's original object.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:267
 msgid "Original: %s"
-msgstr ""
+msgstr "原始标题：%s"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:276
 #: wp-admin/includes/class-wp-users-list-table.php:506
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:29
 msgid "Created"
-msgstr ""
+msgstr "创建于"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:30
 msgid "Last Used"
-msgstr ""
+msgstr "上次使用"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:31
 msgid "Last IP"
-msgstr ""
+msgstr "上次使用的 IP"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:32
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:118
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:238
 msgid "Revoke"
-msgstr ""
+msgstr "吊销"
 
 #. translators: %s: the application password's given name.
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:117
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:237
 msgid "Revoke \"%s\""
-msgstr ""
+msgstr "吊销「%s」"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:156
 msgid "Revoke all application passwords"
-msgstr ""
+msgstr "吊销所有应用程序密码"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:225
 msgid "Just now"
-msgstr ""
+msgstr "立即"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:258
@@ -4440,37 +4440,37 @@ msgstr ""
 #: wp-admin/includes/class-wp-list-table.php:1594
 #: wp-admin/includes/update.php:919
 msgid "Show more details"
-msgstr ""
+msgstr "显示详情"
 
 #. translators: %s: The "$dir" argument.
 #: wp-admin/includes/class-wp-automatic-updater.php:81
 msgid "The \"%s\" argument must be a non-empty string."
-msgstr ""
+msgstr "「%s」参数必须是非空字符串。"
 
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:405
 msgid "Updating to ClassicPress %s"
-msgstr ""
+msgstr "正在更新到 ClassicPress %s"
 
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:407
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-automatic-updater.php:419
 msgid "Updating theme: %s"
-msgstr ""
+msgstr "升级主题：%s"
 
 #. translators: %s: Plugin name.
 #: wp-admin/includes/class-wp-automatic-updater.php:431
 msgid "Updating plugin: %s"
-msgstr ""
+msgstr "升级插件：%s"
 
 #. translators: %s: Project name (plugin, theme, or WordPress).
 #: wp-admin/includes/class-wp-automatic-updater.php:436
 msgid "Translations for %s"
-msgstr ""
+msgstr "%s 的翻译"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:463
 #: wp-admin/includes/class-wp-upgrader.php:151
@@ -4478,93 +4478,93 @@ msgstr ""
 #: wp-admin/includes/plugin.php:948
 #: wp-admin/includes/theme.php:62
 msgid "Could not access filesystem."
-msgstr ""
+msgstr "无法访问文件系统。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:478
 #: wp-admin/js/updates.js:826
 #: wp-admin/js/updates.js:1495
 msgid "Installation failed."
-msgstr ""
+msgstr "安装失败。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:481
 msgid "ClassicPress updated successfully."
-msgstr ""
+msgstr "ClassicPress 升级成功。"
 
 #. translators: Site updated notification email subject. 1: Site title, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:769
 msgid "[%1$s] Your site has updated to ClassicPress %2$s"
-msgstr ""
+msgstr "[%1$s] 您的站点已更新至 ClassicPress %2$s"
 
 #. translators: Update available notification email subject. 1: Site title, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:775
 msgid "[%1$s] ClassicPress %2$s is available. Please update!"
-msgstr ""
+msgstr "[%1$s] ClassicPress %2$s 可用。请更新！"
 
 #. translators: Site down notification email subject. 1: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:780
 msgid "[%1$s] URGENT: Your site may be down due to a failed update"
-msgstr ""
+msgstr "[%1$s] 紧急！您的站点可能由于一次失败的升级而停止工作"
 
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:797
 msgid "Howdy! Your site at %1$s has been updated automatically to ClassicPress %2$s."
-msgstr ""
+msgstr "您好！您在 %1$s 的站点已自动更新到 ClassicPress %2$s。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:803
 msgid "No further action is needed on your part."
-msgstr ""
+msgstr "您无需采取进一步行动。"
 
 #. translators: %s: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:809
 msgid "For more on version %s, see the About ClassicPress screen:"
-msgstr ""
+msgstr "要了解关于 %s 版本的更多信息，请参见「关于 ClassicPress」屏幕："
 
 #. translators: %s: ClassicPress latest version.
 #: wp-admin/includes/class-wp-automatic-updater.php:814
 msgid "ClassicPress %s is also now available."
-msgstr ""
+msgstr "ClassicPress %s 现在也可用。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:815
 #: wp-admin/includes/class-wp-automatic-updater.php:838
 msgid "Updating is easy and only takes a few moments:"
-msgstr ""
+msgstr "升级很容易，这只需要几分钟："
 
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:825
 msgid "Please update your site at %1$s to ClassicPress %2$s."
-msgstr ""
+msgstr "请将您在 %1$s 的站点升级至 ClassicPress %2$s。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:835
 msgid "An attempt was made, but your site could not be updated automatically."
-msgstr ""
+msgstr "已尝试升级，但是您的站点无法被自动更新。"
 
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:846
 msgid "Your site at %1$s experienced a critical failure while trying to update ClassicPress to version %2$s."
-msgstr ""
+msgstr "您在 %1$s 的站点在尝试升级 ClassicPress 到版本 %2$s 时遇到了严重错误。"
 
 #. translators: 1: Home URL, 2: ClassicPress latest version.
 #: wp-admin/includes/class-wp-automatic-updater.php:853
 msgid "Your site at %1$s experienced a critical failure while trying to update to the latest version of ClassicPress, %2$s."
-msgstr ""
+msgstr "您在 %1$s 的站点在尝试升级 ClassicPress 到最新版本 %2$s 时遇到了严重错误。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:859
 msgid "This means your site may be offline or broken. Don't panic; this can be fixed."
-msgstr ""
+msgstr "这意味着您的网站可能处于离线状态或已被损坏。请不要惊慌；这是可以修复的。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:861
 msgid "Please check out your site now. It's possible that everything is working. If it says you need to update, you should do so:"
-msgstr ""
+msgstr "请立即检查您的站点。有可能一切如常。如果它说您需要更新，您应该这样做："
 
 #. translators: %s: Support email address.
 #: wp-admin/includes/class-wp-automatic-updater.php:871
 msgid "The ClassicPress team is willing to help you. Forward this email to %s and the team will work with you to make sure your site is working."
-msgstr ""
+msgstr "ClassicPress 团队愿意帮助您。将此电子邮件转发到 %s ，我们的团队将与您合作，并确保您的站点正常运行。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:876
 #: wp-admin/includes/class-wp-automatic-updater.php:1310
 msgid "If you experience any issues or need support, the volunteers in the ClassicPress.net support forums may be able to help."
-msgstr ""
+msgstr "如果您遇到任何问题或需要支持，ClassicPress.net 支持论坛中的志愿者可能能够提供帮助。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:877
 #: wp-admin/includes/plugin-install.php:186
@@ -4574,63 +4574,63 @@ msgstr ""
 #: wp-admin/includes/translation-install.php:97
 #: wp-admin/theme-install.php:65
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:882
 #: wp-admin/update-core.php:840
 msgid "Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers."
-msgstr ""
+msgstr "不断升级您的网站对安全非常重要。它也使互联网对您以及您的读者更加安全。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:886
 msgid "Reach out to ClassicPress Core developers to ensure you'll never have this problem again."
-msgstr ""
+msgstr "联系 ClassicPress 核心开发者，以确保您永远不会再次遇到这个问题。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:891
 msgid "You also have some plugins or themes with updates available. Update them now:"
-msgstr ""
+msgstr "您还有一些可以更新的插件或主题。现在就更新它们："
 
 #: wp-admin/includes/class-wp-automatic-updater.php:895
 #: wp-admin/includes/class-wp-automatic-updater.php:1312
 msgid "The ClassicPress Team"
-msgstr ""
+msgstr "ClassicPress 团队"
 
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:900
 msgid "Your site was running version %s."
-msgstr ""
+msgstr "您的站点正在运行 %s 版本。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:901
 msgid "Some data that describes the error your site encountered has been put together."
-msgstr ""
+msgstr "一些描述您网站所遇到的错误的数据已被汇总。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:902
 msgid "Your hosting company, support forum volunteers, or a friendly developer may be able to use this information to help you:"
-msgstr ""
+msgstr "您的托管服务提供商、支持论坛中的志愿者、或一位友好的开发者可能能够使用此信息来帮助您："
 
 #. translators: %s: Error code.
 #: wp-admin/includes/class-wp-automatic-updater.php:919
 msgid "Error code: %s"
-msgstr ""
+msgstr "错误代码：%s"
 
 #. translators: %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1091
 msgid "[%s] Some plugins and themes have automatically updated"
-msgstr ""
+msgstr "[%s] 一些插件和主题已自动升级"
 
 #. translators: %s: Home URL.
 #: wp-admin/includes/class-wp-automatic-updater.php:1094
 msgid "Howdy! Some plugins and themes have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
-msgstr ""
+msgstr "您好！一些插件和主题已经自动在你的站点 %s 上升级至最新版本。您不需要采取进一步行动。"
 
 #. translators: %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1099
 msgid "[%s] Some plugins were automatically updated"
-msgstr ""
+msgstr "[%s] 一些插件已自动升级"
 
 #. translators: %s: Home URL.
 #: wp-admin/includes/class-wp-automatic-updater.php:1102
 msgid "Howdy! Some plugins have automatically updated to their latest versions on your site at %s. No further action is needed on your part."
-msgstr ""
+msgstr "您好！一些插件已经自动在你的站点 %s 上升级至最新版本。您不需要采取进一步行动。"
 
 #. translators: %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1107
@@ -4903,96 +4903,96 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:366
 #: wp-admin/includes/meta-boxes.php:475
 msgid "Delete permanently"
-msgstr ""
+msgstr "永久删除"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:418
 #: wp-admin/includes/class-wp-links-list-table.php:120
 #: wp-admin/includes/class-wp-media-list-table.php:217
 #: wp-admin/includes/class-wp-posts-list-table.php:600
 msgid "Filter"
-msgstr ""
+msgstr "筛选"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:426
 msgid "Empty Spam"
-msgstr ""
+msgstr "清空垃圾"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:426
 #: wp-admin/includes/class-wp-media-list-table.php:222
 #: wp-admin/includes/class-wp-posts-list-table.php:607
 msgid "Empty Trash"
-msgstr ""
+msgstr "清空回收站"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:470
 #: wp-admin/includes/class-wp-post-comments-list-table.php:26
 msgctxt "column name"
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:477
 msgctxt "column name"
 msgid "Submitted on"
-msgstr ""
+msgstr "提交于"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:502
 #: wp-admin/includes/class-wp-posts-list-table.php:1894
 msgid "Pings"
-msgstr ""
+msgstr "Pings"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:510
 msgid "Filter by comment type"
-msgstr ""
+msgstr "按评论类型筛选"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:515
 msgid "All comment types"
-msgstr ""
+msgstr "所有评论类型"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:728
 #: wp-admin/includes/class-wp-comments-list-table.php:753
 #: wp-admin/includes/dashboard.php:751
 msgid "Unapprove this comment"
-msgstr ""
+msgstr "取消批准此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:736
 #: wp-admin/includes/class-wp-comments-list-table.php:745
 #: wp-admin/includes/dashboard.php:743
 msgid "Approve this comment"
-msgstr ""
+msgstr "批准此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:763
 #: wp-admin/includes/dashboard.php:774
 msgid "Mark this comment as spam"
-msgstr ""
+msgstr "将此评论标记为垃圾评论"
 
 #. translators: "Mark as spam" link.
 #: wp-admin/includes/class-wp-comments-list-table.php:765
 #: wp-admin/includes/dashboard.php:776
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "垃圾"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:772
 msgid "Restore this comment from the spam"
-msgstr ""
+msgstr "从垃圾评论中恢复此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:773
 msgctxt "comment"
 msgid "Not Spam"
-msgstr ""
+msgstr "不是垃圾"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:782
 msgid "Restore this comment from the Trash"
-msgstr ""
+msgstr "从回收站中恢复此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:792
 #: wp-admin/includes/dashboard.php:784
 msgid "Delete this comment permanently"
-msgstr ""
+msgstr "永久删除此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:800
 #: wp-admin/includes/dashboard.php:792
 msgid "Move this comment to the Trash"
-msgstr ""
+msgstr "将此评论移动至回收站"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:801
 #: wp-admin/includes/class-wp-media-list-table.php:769
@@ -5001,39 +5001,39 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:793
 msgctxt "verb"
 msgid "Trash"
-msgstr ""
+msgstr "丢弃"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:809
 #: wp-admin/includes/dashboard.php:758
 msgid "Edit this comment"
-msgstr ""
+msgstr "编辑此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:821
 msgid "Quick edit this comment inline"
-msgstr ""
+msgstr "快速编辑评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:822
 #: wp-admin/includes/class-wp-posts-list-table.php:1457
 #: wp-admin/includes/class-wp-terms-list-table.php:497
 msgid "Quick&nbsp;Edit"
-msgstr ""
+msgstr "快速编辑"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:831
 #: wp-admin/includes/dashboard.php:766
 msgid "Reply to this comment"
-msgstr ""
+msgstr "回复此评论"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:832
 #: wp-admin/includes/dashboard.php:767
 #: wp-admin/js/edit-comments.js:372
 #: wp-admin/js/edit-comments.js:1014
 msgid "Reply"
-msgstr ""
+msgstr "回复"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:902
 msgid "Select comment"
-msgstr ""
+msgstr "选择评论"
 
 #. translators: %s: Latest ClassicPress version number.
 #. translators: %s: Latest plugin version number.
@@ -5044,7 +5044,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1173
 #: wp-admin/includes/class-wp-debug-data.php:1293
 msgid "(Latest version: %s)"
-msgstr ""
+msgstr "（最新版本：%s）"
 
 #: wp-admin/includes/class-wp-debug-data.php:68
 #: wp-admin/includes/class-wp-debug-data.php:73
@@ -5056,44 +5056,44 @@ msgstr ""
 #: wp-admin/setup-config.php:115
 #: wp-admin/upgrade.php:69
 msgid "ClassicPress"
-msgstr ""
+msgstr "ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:76
 #: wp-admin/options-general.php:367
 msgid "Site Language"
-msgstr ""
+msgstr "站点语言"
 
 #: wp-admin/includes/class-wp-debug-data.php:80
 msgid "User Language"
-msgstr ""
+msgstr "用户语言"
 
 #: wp-admin/includes/class-wp-debug-data.php:84
 #: wp-admin/options-general.php:425
 msgid "Timezone"
-msgstr ""
+msgstr "时区"
 
 #: wp-admin/includes/class-wp-debug-data.php:88
 msgid "Home URL"
-msgstr ""
+msgstr "主页 URL"
 
 #: wp-admin/includes/class-wp-debug-data.php:93
 msgid "Site URL"
-msgstr ""
+msgstr "站点 URL"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-debug-data.php:98
 #: wp-admin/options-permalink.php:330
 #: wp-admin/options-permalink.php:336
 msgid "Permalink structure"
-msgstr ""
+msgstr "永久链接结构"
 
 #: wp-admin/includes/class-wp-debug-data.php:99
 msgid "No permalink structure set"
-msgstr ""
+msgstr "未设置永久链接结构"
 
 #: wp-admin/includes/class-wp-debug-data.php:103
 msgid "Is this site using HTTPS?"
-msgstr ""
+msgstr "此站点是否使用 HTTPS？"
 
 #: wp-admin/includes/class-wp-debug-data.php:104
 #: wp-admin/includes/class-wp-debug-data.php:109
@@ -5104,7 +5104,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:264
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: wp-admin/includes/class-wp-debug-data.php:104
 #: wp-admin/includes/class-wp-debug-data.php:109
@@ -5115,65 +5115,65 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:266
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: wp-admin/includes/class-wp-debug-data.php:108
 msgid "Is this a multisite?"
-msgstr ""
+msgstr "这是多站点吗？"
 
 #: wp-admin/includes/class-wp-debug-data.php:113
 msgid "Can anyone register on this site?"
-msgstr ""
+msgstr "任何人都可以在此站点注册吗？"
 
 #: wp-admin/includes/class-wp-debug-data.php:118
 msgid "Is this site discouraging search engines?"
-msgstr ""
+msgstr "此网站是否不希望搜索引擎爬网？"
 
 #: wp-admin/includes/class-wp-debug-data.php:123
 msgid "Default comment status"
-msgstr ""
+msgstr "默认评论状态"
 
 #: wp-admin/includes/class-wp-debug-data.php:124
 msgctxt "comment status"
 msgid "Open"
-msgstr ""
+msgstr "开放"
 
 #: wp-admin/includes/class-wp-debug-data.php:124
 msgctxt "comment status"
 msgid "Closed"
-msgstr ""
+msgstr "关闭"
 
 #: wp-admin/includes/class-wp-debug-data.php:128
 msgid "Environment type"
-msgstr ""
+msgstr "环境类型"
 
 #: wp-admin/includes/class-wp-debug-data.php:137
 msgid "Directories and Sizes"
-msgstr ""
+msgstr "目录及尺寸"
 
 #: wp-admin/includes/class-wp-debug-data.php:143
 msgid "Drop-ins"
-msgstr ""
+msgstr "Drop-ins"
 
 #. translators: %s: wp-content directory name.
 #: wp-admin/includes/class-wp-debug-data.php:147
 #: wp-admin/includes/class-wp-plugins-list-table.php:666
 msgid "Drop-ins are single files, found in the %s directory, that replace or enhance ClassicPress features in ways that are not possible for traditional plugins."
-msgstr ""
+msgstr "Drop-ins 是单个文件，可在 %s 目录中找到。这些文件可以提供传统插件无法使用的方式替换或优化 ClassicPress 功能。"
 
 #: wp-admin/includes/class-wp-debug-data.php:154
 #: wp-admin/includes/theme.php:817
 #: wp-admin/themes.php:971
 msgid "Active Theme"
-msgstr ""
+msgstr "启用主题"
 
 #: wp-admin/includes/class-wp-debug-data.php:159
 msgid "Parent Theme"
-msgstr ""
+msgstr "父主题"
 
 #: wp-admin/includes/class-wp-debug-data.php:164
 msgid "Inactive Themes"
-msgstr ""
+msgstr "未启用主题"
 
 #: wp-admin/includes/class-wp-debug-data.php:170
 msgid "Must Use Plugins"
@@ -5422,168 +5422,168 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-debug-data.php:629
 msgid "GD supported file formats"
-msgstr ""
+msgstr "GD 支持的文件格式"
 
 #: wp-admin/includes/class-wp-debug-data.php:645
 msgid "Unable to determine if Ghostscript is installed"
-msgstr ""
+msgstr "无法确定 Ghostscript 是否已安装"
 
 #: wp-admin/includes/class-wp-debug-data.php:650
 msgid "Ghostscript version"
-msgstr ""
+msgstr "Ghostscript 版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:669
 msgid "(Supports 64bit values)"
-msgstr ""
+msgstr "（支持 64 位数值）"
 
 #: wp-admin/includes/class-wp-debug-data.php:669
 msgid "(Does not support 64bit values)"
-msgstr ""
+msgstr "（不支持 64 位数值）"
 
 #: wp-admin/includes/class-wp-debug-data.php:683
 msgid "Server architecture"
-msgstr ""
+msgstr "服务器架构"
 
 #: wp-admin/includes/class-wp-debug-data.php:684
 msgid "Unable to determine server architecture"
-msgstr ""
+msgstr "无法确定服务器结构"
 
 #: wp-admin/includes/class-wp-debug-data.php:688
 msgid "Web server"
-msgstr ""
+msgstr "Web 服务器"
 
 #: wp-admin/includes/class-wp-debug-data.php:689
 msgid "Unable to determine what web server software is used"
-msgstr ""
+msgstr "无法确定使用了什么 Web 服务器软件"
 
 #: wp-admin/includes/class-wp-debug-data.php:693
 msgid "PHP version"
-msgstr ""
+msgstr "PHP 版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:698
 msgid "PHP SAPI"
-msgstr ""
+msgstr "PHP SAPI"
 
 #: wp-admin/includes/class-wp-debug-data.php:699
 msgid "Unable to determine PHP SAPI"
-msgstr ""
+msgstr "无法确定 PHP SAPI"
 
 #: wp-admin/includes/class-wp-debug-data.php:706
 msgid "Server settings"
-msgstr ""
+msgstr "服务器设置"
 
 #: wp-admin/includes/class-wp-debug-data.php:716
 msgid "PHP max input variables"
-msgstr ""
+msgstr "PHP 最大输入变量数量"
 
 #: wp-admin/includes/class-wp-debug-data.php:720
 msgid "PHP time limit"
-msgstr ""
+msgstr "PHP 运行时间限制"
 
 #: wp-admin/includes/class-wp-debug-data.php:726
 #: wp-admin/includes/class-wp-debug-data.php:735
 msgid "PHP memory limit"
-msgstr ""
+msgstr "PHP 内存限制"
 
 #: wp-admin/includes/class-wp-debug-data.php:730
 msgid "PHP memory limit (only for admin screens)"
-msgstr ""
+msgstr "PHP 内存限制（仅适用于管理界面）"
 
 #: wp-admin/includes/class-wp-debug-data.php:741
 msgid "Max input time"
-msgstr ""
+msgstr "最大输入时间"
 
 #: wp-admin/includes/class-wp-debug-data.php:745
 msgid "Upload max filesize"
-msgstr ""
+msgstr "最大上传大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:749
 msgid "PHP post max size"
-msgstr ""
+msgstr "PHP POST 最大数据大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:758
 #: wp-admin/includes/class-wp-debug-data.php:763
 msgid "cURL version"
-msgstr ""
+msgstr "cURL 版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:773
 msgid "Is SUHOSIN installed?"
-msgstr ""
+msgstr "SUHOSIN 是否已安装？"
 
 #: wp-admin/includes/class-wp-debug-data.php:782
 msgid "Is the Imagick library available?"
-msgstr ""
+msgstr "Imagick 库是否可用？"
 
 #: wp-admin/includes/class-wp-debug-data.php:791
 msgid "Are pretty permalinks supported?"
-msgstr ""
+msgstr "是否支持美观的永久链接？"
 
 #. translators: %s: .htaccess
 #: wp-admin/includes/class-wp-debug-data.php:807
 msgid "Custom rules have been added to your %s file."
-msgstr ""
+msgstr "自定义规则已添加到您的 %s 文件。"
 
 #. translators: %s: .htaccess
 #: wp-admin/includes/class-wp-debug-data.php:810
 msgid "Your %s file contains only core ClassicPress features."
-msgstr ""
+msgstr "您的 %s 文件仅包含核心 ClassicPress 功能。"
 
 #: wp-admin/includes/class-wp-debug-data.php:814
 msgid ".htaccess rules"
-msgstr ""
+msgstr ".htaccess 规则"
 
 #: wp-admin/includes/class-wp-debug-data.php:834
 msgid "Extension"
-msgstr ""
+msgstr "扩展"
 
 #: wp-admin/includes/class-wp-debug-data.php:839
 msgid "Server version"
-msgstr ""
+msgstr "服务器版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:844
 msgid "Client version"
-msgstr ""
+msgstr "客户端版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:849
 #: wp-admin/setup-config.php:169
 msgid "Database username"
-msgstr ""
+msgstr "数据库用户名"
 
 #: wp-admin/includes/class-wp-debug-data.php:855
 #: wp-admin/setup-config.php:171
 msgid "Database host"
-msgstr ""
+msgstr "数据库主机"
 
 #: wp-admin/includes/class-wp-debug-data.php:861
 #: wp-admin/setup-config.php:168
 msgid "Database name"
-msgstr ""
+msgstr "数据库名称"
 
 #: wp-admin/includes/class-wp-debug-data.php:867
 msgid "Table prefix"
-msgstr ""
+msgstr "表前缀"
 
 #: wp-admin/includes/class-wp-debug-data.php:873
 msgid "Database charset"
-msgstr ""
+msgstr "数据库字符集"
 
 #: wp-admin/includes/class-wp-debug-data.php:879
 msgid "Database collation"
-msgstr ""
+msgstr "数据库排序规则"
 
 #: wp-admin/includes/class-wp-debug-data.php:885
 msgid "Max allowed packet size"
-msgstr ""
+msgstr "最大允许数据包大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:890
 msgid "Max connections number"
-msgstr ""
+msgstr "最大连接数"
 
 #: wp-admin/includes/class-wp-debug-data.php:901
 #: wp-admin/includes/class-wp-debug-data.php:948
 #: wp-admin/includes/class-wp-debug-data.php:1270
 msgid "No version or author information is available."
-msgstr ""
+msgstr "没有可用的版本或作者信息。"
 
 #. translators: 1: Plugin version number. 2: Plugin author name.
 #. translators: 1: Theme version number. 2: Theme author name.
@@ -5591,7 +5591,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:953
 #: wp-admin/includes/class-wp-debug-data.php:1275
 msgid "Version %1$s by %2$s"
-msgstr ""
+msgstr "由 %2$s 制作的 %1$s 版本"
 
 #. translators: %s: Plugin author name.
 #. translators: %s: Theme author name.
@@ -5613,7 +5613,7 @@ msgstr ""
 #: wp-admin/themes.php:888
 #: wp-admin/themes.php:982
 msgid "By %s"
-msgstr ""
+msgstr "由 %s 制作"
 
 #: wp-admin/includes/class-wp-debug-data.php:1007
 #: wp-admin/includes/class-wp-debug-data.php:1322
@@ -5621,7 +5621,7 @@ msgstr ""
 #: wp-admin/themes.php:700
 #: wp-admin/js/updates.js:2982
 msgid "Auto-updates enabled"
-msgstr ""
+msgstr "自动更新已启用"
 
 #: wp-admin/includes/class-wp-debug-data.php:1009
 #: wp-admin/includes/class-wp-debug-data.php:1324
@@ -5629,7 +5629,7 @@ msgstr ""
 #: wp-admin/themes.php:698
 #: wp-admin/js/updates.js:2993
 msgid "Auto-updates disabled"
-msgstr ""
+msgstr "自动更新已禁用"
 
 #. translators: 1: Theme name. 2: Theme slug.
 #: wp-admin/includes/class-wp-debug-data.php:1070
@@ -5637,35 +5637,35 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1184
 #: wp-admin/includes/class-wp-debug-data.php:1345
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s（%2$s）"
 
 #: wp-admin/includes/class-wp-debug-data.php:1104
 #: wp-admin/includes/class-wp-debug-data.php:1199
 msgid "Author website"
-msgstr ""
+msgstr "作者网站"
 
 #: wp-admin/includes/class-wp-debug-data.php:1114
 msgid "Theme features"
-msgstr ""
+msgstr "主题特性"
 
 #: wp-admin/includes/class-wp-debug-data.php:1118
 #: wp-admin/includes/class-wp-debug-data.php:1204
 msgid "Theme directory location"
-msgstr ""
+msgstr "主题目录位置"
 
 #: wp-admin/includes/class-wp-debug-data.php:1157
 #: wp-admin/plugins.php:574
 #: wp-admin/themes.php:197
 msgid "Auto-updates"
-msgstr ""
+msgstr "自动更新"
 
 #: wp-admin/includes/class-wp-debug-data.php:1243
 msgid "Auto-update"
-msgstr ""
+msgstr "自动更新"
 
 #: wp-admin/includes/class-wp-debug-data.php:1359
 msgid "The must use plugins directory"
-msgstr ""
+msgstr "必须使用的插件目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:1614
 msgid "The size cannot be calculated. The directory is not accessible. Usually caused by invalid permissions."
@@ -5953,41 +5953,41 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-media-list-table.php:134
 msgid "All media items"
-msgstr ""
+msgstr "所有媒体项目"
 
 #: wp-admin/includes/class-wp-media-list-table.php:157
 msgctxt "media items"
 msgid "Unattached"
-msgstr ""
+msgstr "未使用"
 
 #: wp-admin/includes/class-wp-media-list-table.php:162
 msgctxt "media items"
 msgid "Mine"
-msgstr ""
+msgstr "我的"
 
 #: wp-admin/includes/class-wp-media-list-table.php:169
 msgctxt "attachment filter"
 msgid "Trash"
-msgstr ""
+msgstr "回收站"
 
 #: wp-admin/includes/class-wp-media-list-table.php:194
 #: wp-admin/includes/class-wp-media-list-table.php:611
 #: wp-admin/includes/class-wp-media-list-table.php:800
 msgid "Attach"
-msgstr ""
+msgstr "附件"
 
 #: wp-admin/includes/class-wp-media-list-table.php:259
 msgid "No media files found in Trash."
-msgstr ""
+msgstr "在回收站中未找到媒体文件。"
 
 #: wp-admin/includes/class-wp-media-list-table.php:261
 msgid "No media files found."
-msgstr ""
+msgstr "未找到媒体文件。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:284
 msgid "Filter by type"
-msgstr ""
+msgstr "按类型筛选"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:315
@@ -6002,24 +6002,24 @@ msgstr ""
 #: wp-admin/includes/template.php:1932
 #: wp-admin/includes/theme-install.php:139
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #. translators: Column name.
 #: wp-admin/includes/class-wp-media-list-table.php:329
 msgctxt "column name"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: wp-admin/includes/class-wp-media-list-table.php:360
 msgctxt "column name"
 msgid "Uploaded to"
-msgstr ""
+msgstr "上传至"
 
 #. translators: Column name.
 #: wp-admin/includes/class-wp-media-list-table.php:373
 msgctxt "column name"
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
@@ -6028,19 +6028,19 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:1116
 #: wp-admin/includes/class-wp-terms-list-table.php:410
 msgid "&#8220;%s&#8221; (Edit)"
-msgstr ""
+msgstr "「%s」（编辑）"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:481
 #: wp-admin/includes/media.php:1636
 #: wp-admin/includes/media.php:3289
 msgid "File name:"
-msgstr ""
+msgstr "文件名："
 
 #: wp-admin/includes/class-wp-media-list-table.php:530
 #: wp-admin/includes/class-wp-posts-list-table.php:1163
 msgid "Unpublished"
-msgstr ""
+msgstr "未发布"
 
 #. translators: %s: Human-readable time difference.
 #: wp-admin/includes/class-wp-media-list-table.php:537
@@ -6050,24 +6050,24 @@ msgstr ""
 #: wp-admin/includes/revision.php:250
 #: wp-admin/includes/revision.php:293
 msgid "%s ago"
-msgstr ""
+msgstr "%s 前"
 
 #: wp-admin/includes/class-wp-media-list-table.php:580
 msgid "(Private post)"
-msgstr ""
+msgstr "（私密）"
 
 #. translators: %s: Title of the post the attachment is attached to.
 #: wp-admin/includes/class-wp-media-list-table.php:596
 msgid "Detach from &#8220;%s&#8221;"
-msgstr ""
+msgstr "从「%s」中移除"
 
 #: wp-admin/includes/class-wp-media-list-table.php:597
 msgid "Detach"
-msgstr ""
+msgstr "移除"
 
 #: wp-admin/includes/class-wp-media-list-table.php:601
 msgid "(Unattached)"
-msgstr ""
+msgstr "（未使用）"
 
 #. translators: %s: Attachment title.
 #: wp-admin/includes/class-wp-media-list-table.php:610
