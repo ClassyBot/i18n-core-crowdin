@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-11 13:02\n"
+"PO-Revision-Date: 2024-07-15 01:10\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2216,118 +2216,118 @@ msgstr "世界各地的隐私法要求企业和在线服务删除、匿名化或
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
 msgid "The tool associates data stored in ClassicPress with a supplied email address, including profile data and comments."
-msgstr ""
+msgstr "存储在 ClassicPress 中的工具关联数据包含一个提供的电子邮件地址，个人资料和评论。"
 
 #: wp-admin/erase-personal-data.php:28
 msgid "Note: As this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with erasure requests. For example, you are also responsible for ensuring that data collected by or stored with the 3rd party services your organization uses gets deleted."
-msgstr ""
+msgstr "注意：由于这个工具只能从 ClassicPress 和相关的插件收集数据，您可能需要做更多的工作来满足数据删除请求。例如，您还负责确保由您的组织使用的第三方服务收集或存储的数据被删除。"
 
 #: wp-admin/erase-personal-data.php:35
 #: wp-admin/export-personal-data.php:35
 msgid "Default Data"
-msgstr ""
+msgstr "默认数据"
 
 #: wp-admin/erase-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from logged-in users but then deletes it or anonymizes it. That data can include: "
-msgstr ""
+msgstr "ClassicPress 收集（但是<em>永远不会</em>公开）有限的一些已登录用户的个人数据。并且随后会删除或者匿名化它们。这些数据包含："
 
 #: wp-admin/erase-personal-data.php:38
 #: wp-admin/export-personal-data.php:38
 msgid "<strong>Profile Information</strong> &mdash; user email address, username, display name, nickname, first name, last name, description/bio, and registration date."
-msgstr ""
+msgstr "<strong>个人资料信息</strong> &mdash; 用户电子邮件地址、用户名、显示名称、昵称、姓氏、描述/签名以及注册日期。"
 
 #: wp-admin/erase-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user which is used for the Upcoming Community Events shown in the dashboard widget."
-msgstr ""
+msgstr "<strong>社区事件位置</strong> &mdash; 用户用于仪表板小部件中显示的即将到来的社区事件的 IP 地址。"
 
 #: wp-admin/erase-personal-data.php:40
 #: wp-admin/export-personal-data.php:40
 msgid "<strong>Session Tokens</strong> &mdash; User login information, IP Addresses, Expiration Date, User Agent (Browser/OS), and Last Login."
-msgstr ""
+msgstr "<strong>Session Tokens</strong> &mdash; 用户的登录信息、IP 地址、过期时间、用户代理（浏览器/操作系统），以及最后一次登录日期。"
 
 #: wp-admin/erase-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; ClassicPress does not delete comments. The software does anonymize (but, again, <em>never</em> publishes) the associated Email Address, IP Address, and User Agent (Browser/OS)."
-msgstr ""
+msgstr "<strong>评论</strong> &mdash; ClassicPress 不会删除评论。此软件确实会匿名化（但是<em>永远不会</em>发表）与其相关联的电子邮件地址、IP 地址、以及用户代理（浏览器/操作系统）。"
 
 #: wp-admin/erase-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for all media file uploads made by the user."
-msgstr ""
+msgstr "<strong>媒体</strong> &mdash; 一个包含了所有用户上传的媒体的 URL 的列表。"
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/erase-personal-data.php:48
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Eraser tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "如果您不确定，检查插件文档或者联系插件作者以确定插件是否会收集个人信息，以及其是否支持「个人信息抹除」工具。这些信息或许在<a href=\"%s\">隐私政策指南</a>中找到。"
 
 #: wp-admin/erase-personal-data.php:55
 #: wp-admin/export-personal-data.php:55
 msgid "Plugin Data"
-msgstr ""
+msgstr "插件数据"
 
 #: wp-admin/erase-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Erase Personal Data request should delete data from plugins as well."
-msgstr ""
+msgstr "许多插件可以在 ClassicPress 数据库或远程服务器中收集或存储个人数据。任何个人数据抹除请求也应从插件中删除数据。"
 
 #: wp-admin/erase-personal-data.php:58
 msgid "If you are a plugin author, you can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "如果您是插件开发者，您可以<a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">在此了解如何将您的插件集成至「个人信息抹除」工具中</a>。"
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">抹除个人信息文档</a>"
 
 #: wp-admin/erase-personal-data.php:94
 msgid "Filter erase personal data list"
-msgstr ""
+msgstr "筛选抹除个人数据列表"
 
 #: wp-admin/erase-personal-data.php:95
 msgid "Erase personal data list navigation"
-msgstr ""
+msgstr "抹除个人数据列表导航"
 
 #: wp-admin/erase-personal-data.php:96
 msgid "Erase personal data list"
-msgstr ""
+msgstr "抹除个人数据列表"
 
 #: wp-admin/erase-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by deleting or anonymizing known data for a given user."
-msgstr ""
+msgstr "这个工具通过抹除或匿名化给定用户的已知数据来帮助网站所有者遵守本地法律和条例。"
 
 #: wp-admin/erase-personal-data.php:114
 msgid "Add Data Erasure Request"
-msgstr ""
+msgstr "添加数据抹除请求"
 
 #: wp-admin/erase-personal-data.php:119
 #: wp-admin/export-personal-data.php:119
 msgid "Username or email address"
-msgstr ""
+msgstr "用户名或电子邮件地址"
 
 #: wp-admin/erase-personal-data.php:127
 #: wp-admin/export-personal-data.php:127
 msgid "Confirmation email"
-msgstr ""
+msgstr "确认电子邮件"
 
 #: wp-admin/erase-personal-data.php:132
 msgid "Send personal data erasure confirmation email."
-msgstr ""
+msgstr "发送个人数据抹除确认电子邮件。"
 
 #: wp-admin/erase-personal-data.php:138
 #: wp-admin/export-personal-data.php:138
 msgid "Send Request"
-msgstr ""
+msgstr "发送请求"
 
 #: wp-admin/erase-personal-data.php:150
 #: wp-admin/export-personal-data.php:150
 msgid "Search Requests"
-msgstr ""
+msgstr "搜索请求"
 
 #: wp-admin/export-personal-data.php:13
 msgid "Sorry, you are not allowed to export personal data on this site."
-msgstr ""
+msgstr "对不起，您无权在该站点上导出个人数据。"
 
 #: wp-admin/export-personal-data.php:17
 #: wp-admin/export-personal-data.php:107
 #: wp-admin/menu.php:341
 msgid "Export Personal Data"
-msgstr ""
+msgstr "导出个人数据"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
