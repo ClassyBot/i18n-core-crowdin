@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-16 04:50\n"
+"PO-Revision-Date: 2024-07-16 16:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2705,7 +2705,7 @@ msgstr[0] "%s 条评论"
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] "%s 评论等待审核"
+msgstr[0] "%s 条评论正等待审核"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -2717,12 +2717,12 @@ msgstr[0] "%s 评论等待审核"
 #: wp-admin/js/updates.js:1070
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
+msgstr[0] "%s 项"
 
 #. translators: %d: Comment ID.
 #: wp-admin/includes/ajax-actions.php:919
 msgid "Comment %d does not exist"
-msgstr ""
+msgstr "评论 %d 不存在"
 
 #: wp-admin/includes/ajax-actions.php:1036
 #: wp-admin/includes/ajax-actions.php:2301
@@ -2730,48 +2730,48 @@ msgstr ""
 #: wp-admin/js/media.js:132
 #: wp-admin/js/updates.js:1949
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "发生了一个错误。请重新加载页面并再试一次。"
 
 #: wp-admin/includes/ajax-actions.php:1255
 msgid "You cannot reply to a comment on a draft post."
-msgstr ""
+msgstr "您不能对草稿中评论的评论进行回复。"
 
 #: wp-admin/includes/ajax-actions.php:1279
 msgid "Sorry, you must be logged in to reply to a comment."
-msgstr ""
+msgstr "抱歉，您必须登录才能回复评论。"
 
 #: wp-admin/includes/ajax-actions.php:1285
 #: wp-admin/includes/ajax-actions.php:1402
 msgid "Please type your comment text."
-msgstr ""
+msgstr "请输入您的评论文本。"
 
 #: wp-admin/includes/ajax-actions.php:1502
 msgid "Menu Item"
-msgstr ""
+msgstr "菜单项"
 
 #. translators: 1: Post creation date, 2: Post creation time.
 #: wp-admin/includes/ajax-actions.php:1559
 msgid "Draft created on %1$s at %2$s"
-msgstr ""
+msgstr "草稿创建于 %1$s %2$s"
 
 #: wp-admin/includes/ajax-actions.php:1576
 #: wp-admin/includes/ajax-actions.php:1584
 msgid "Please provide a custom field value."
-msgstr ""
+msgstr "请提供自定义字段值。"
 
 #: wp-admin/includes/ajax-actions.php:1607
 msgid "Please provide a custom field name."
-msgstr ""
+msgstr "请提供自定义字段名称。"
 
 #. translators: %s: The new user.
 #: wp-admin/includes/ajax-actions.php:1697
 msgid "User %s added"
-msgstr ""
+msgstr "已添加用户 %s"
 
 #: wp-admin/includes/ajax-actions.php:1989
 #: wp-admin/includes/post.php:272
 msgid "Sorry, you are not allowed to edit this page."
-msgstr ""
+msgstr "对不起，您无权编辑此页面。"
 
 #: wp-admin/includes/ajax-actions.php:1993
 #: wp-admin/includes/media.php:3741
@@ -2779,34 +2779,34 @@ msgstr ""
 #: wp-admin/includes/post.php:1964
 #: wp-admin/includes/post.php:1968
 msgid "Sorry, you are not allowed to edit this post."
-msgstr ""
+msgstr "对不起，您无权编辑此文章。"
 
 #: wp-admin/includes/ajax-actions.php:2000
 msgid "Someone"
-msgstr ""
+msgstr "某人"
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:2003
 msgid "Saving is disabled: %s is currently editing this post."
-msgstr ""
+msgstr "保存已禁用： %s 正在编辑此帖子。"
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:2007
 msgid "Saving is disabled: %s is currently editing this page."
-msgstr ""
+msgstr "保存已禁用： %s 正在编辑此页面。"
 
 #: wp-admin/includes/ajax-actions.php:2126
 #: wp-admin/includes/ajax-actions.php:2132
 #: wp-admin/includes/edit-tag-messages.php:18
 msgid "Item not updated."
-msgstr ""
+msgstr "项目未更新。"
 
 #: wp-admin/includes/ajax-actions.php:2176
 #: wp-admin/includes/ajax-actions.php:3841
 #: wp-admin/includes/class-wp-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:92
 msgid "No items found."
-msgstr ""
+msgstr "未找到项目。"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-posts-list-table.php:1638
@@ -2815,23 +2815,23 @@ msgstr ""
 #: wp-admin/includes/media.php:2569
 #: wp-admin/includes/media.php:2892
 msgid "Title"
-msgstr ""
+msgstr "标题"
 
 #: wp-admin/includes/ajax-actions.php:2179
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-posts-list-table.php:1937
 #: wp-admin/includes/class-wp-privacy-requests-table.php:44
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: wp-admin/includes/ajax-actions.php:2182
 #: wp-admin/includes/media.php:3262
@@ -2840,7 +2840,7 @@ msgstr ""
 #: wp-admin/includes/template.php:1973
 #: wp-admin/js/inline-edit-post.js:356
 msgid "(no title)"
-msgstr ""
+msgstr "（无标题）"
 
 #: wp-admin/includes/ajax-actions.php:2188
 #: wp-admin/includes/class-wp-posts-list-table.php:1180
@@ -2849,7 +2849,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:152
 #: wp-admin/js/post.js:836
 msgid "Published"
-msgstr ""
+msgstr "已发表"
 
 #: wp-admin/includes/ajax-actions.php:2191
 #: wp-admin/includes/class-wp-posts-list-table.php:1185
@@ -2857,14 +2857,14 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:115
 #: wp-admin/includes/meta-boxes.php:156
 msgid "Scheduled"
-msgstr ""
+msgstr "已计划"
 
 #: wp-admin/includes/ajax-actions.php:2194
 #: wp-admin/includes/class-wp-posts-list-table.php:1951
 #: wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/meta-boxes.php:158
 msgid "Pending Review"
-msgstr ""
+msgstr "等待审核"
 
 #: wp-admin/includes/ajax-actions.php:2197
 #: wp-admin/includes/class-wp-posts-list-table.php:1952
@@ -2872,30 +2872,30 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:160
 #: wp-admin/includes/meta-boxes.php:162
 msgid "Draft"
-msgstr ""
+msgstr "草稿"
 
 #: wp-admin/includes/ajax-actions.php:2430
 msgid "Upload failed. Please reload and try again."
-msgstr ""
+msgstr "上传失败。请重新加载页面并再试一次。"
 
 #: wp-admin/includes/ajax-actions.php:2466
 msgid "Upload failed."
-msgstr ""
+msgstr "上传失败。"
 
 #: wp-admin/includes/ajax-actions.php:2509
 msgid "Sorry, you are not allowed to attach files to this post."
-msgstr ""
+msgstr "对不起，您无权在该文章上附加媒体。"
 
 #: wp-admin/includes/ajax-actions.php:2536
 #: wp-admin/includes/class-custom-background.php:525
 #: wp-admin/includes/class-custom-image-header.php:963
 msgid "The uploaded file is not a valid image. Please try again."
-msgstr ""
+msgstr "上传的文件不是有效的图像。请再试一次。"
 
 #. translators: %s: URL that could not be embedded.
 #: wp-admin/includes/ajax-actions.php:3733
 msgid "%s failed to embed."
-msgstr ""
+msgstr "嵌入 %s 时失败。"
 
 #: wp-admin/includes/ajax-actions.php:3767
 msgid "This preview is unavailable in the editor."
@@ -3646,36 +3646,36 @@ msgstr "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">自定�
 
 #: wp-admin/includes/class-custom-image-header.php:317
 msgid "<strong>Random:</strong> Show a different image on each page."
-msgstr ""
+msgstr "<strong>随机：</strong>在不同的页面上显示不同的图像。"
 
 #: wp-admin/includes/class-custom-image-header.php:504
 #: wp-admin/includes/theme.php:322
 msgid "Custom Header"
-msgstr ""
+msgstr "自定义页眉"
 
 #. translators: %s: URL to header image configuration in Customizer.
 #: wp-admin/includes/class-custom-image-header.php:512
 msgid "You can now manage and live-preview Custom Header in the <a href=\"%s\">Customizer</a>."
-msgstr ""
+msgstr "您现在可以在<a href=\"%s\">定制器</a>中管理和实时预览自定义页眉。"
 
 #. translators: %s: Home URL.
 #: wp-admin/includes/class-custom-image-header.php:525
 msgid "Header updated. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "页眉已更新。请<a href=\"%s\">访问您的站点</a>来看看它的样式。"
 
 #: wp-admin/includes/class-custom-image-header.php:580
 msgid "You can select an image to be shown at the top of your site by uploading from your computer or choosing from your media library. After selecting an image you will be able to crop it."
-msgstr ""
+msgstr "您可以从您的计算机中上传或从您的媒体库中选择要显示的图像。在选择图像后，您将能够裁剪它。"
 
 #. translators: 1: Image width in pixels, 2: Image height in pixels.
 #: wp-admin/includes/class-custom-image-header.php:587
 msgid "Images of exactly <strong>%1$d &times; %2$d pixels</strong> will be used as-is."
-msgstr ""
+msgstr "分辨率正好为<strong>%1$d &times; %2$d像素</strong>的图像将不会被裁剪。"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:595
 msgid "Images should be at least %s wide."
-msgstr ""
+msgstr "图像应至少宽 %s。"
 
 #. translators: %d: Custom header width.
 #. translators: %d: Custom header height.
@@ -3684,195 +3684,195 @@ msgstr ""
 #: wp-admin/includes/class-custom-image-header.php:626
 #: wp-admin/includes/class-custom-image-header.php:638
 msgid "%d pixels"
-msgstr ""
+msgstr "%d 像素"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:607
 msgid "Images should be at least %s tall."
-msgstr ""
+msgstr "图像应至少高 %s。"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:623
 msgid "Suggested width is %s."
-msgstr ""
+msgstr "建议宽度为 %s。"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:635
 msgid "Suggested height is %s."
-msgstr ""
+msgstr "建议高度为 %s。"
 
 #: wp-admin/includes/class-custom-image-header.php:668
 msgid "Choose a Custom Header"
-msgstr ""
+msgstr "选择一个自定义页眉"
 
 #: wp-admin/includes/class-custom-image-header.php:669
 msgid "Set as header"
-msgstr ""
+msgstr "设置为页眉"
 
 #: wp-admin/includes/class-custom-image-header.php:684
 msgid "Uploaded Images"
-msgstr ""
+msgstr "上传的图像"
 
 #: wp-admin/includes/class-custom-image-header.php:686
 msgid "You can choose one of your previously uploaded headers, or show a random one."
-msgstr ""
+msgstr "您可以从您先前上传的页眉中选择一个，或者随机显示一个。"
 
 #: wp-admin/includes/class-custom-image-header.php:697
 msgid "Default Images"
-msgstr ""
+msgstr "默认图像"
 
 #: wp-admin/includes/class-custom-image-header.php:700
 msgid "If you don&lsquo;t want to upload your own image, you can use one of these cool headers, or show a random one."
-msgstr ""
+msgstr "如果您不想上传您自己的图像，您可以使用下列这些酷酷的页眉，或者随机显示一个。"
 
 #: wp-admin/includes/class-custom-image-header.php:702
 msgid "You can use one of these cool headers or show a random one on each page."
-msgstr ""
+msgstr "您可以使用下列这些酷酷的页眉，或者随机显示一个。"
 
 #: wp-admin/includes/class-custom-image-header.php:716
 msgid "This will remove the header image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "这将移除页眉图像。您将无法恢复任何自定义图像。"
 
 #: wp-admin/includes/class-custom-image-header.php:717
 msgid "Remove Header Image"
-msgstr ""
+msgstr "移除页眉图像"
 
 #: wp-admin/includes/class-custom-image-header.php:732
 msgid "Reset Image"
-msgstr ""
+msgstr "重置图像"
 
 #: wp-admin/includes/class-custom-image-header.php:734
 msgid "This will restore the original header image. You will not be able to restore any customizations."
-msgstr ""
+msgstr "这将恢复原始页眉图像。您将无法恢复任何自定义图像。"
 
 #: wp-admin/includes/class-custom-image-header.php:735
 msgid "Restore Original Header Image"
-msgstr ""
+msgstr "恢复原始页眉图像"
 
 #: wp-admin/includes/class-custom-image-header.php:752
 msgid "Show header text with your image."
-msgstr ""
+msgstr "同时显示您的图像和页眉文字。"
 
 #: wp-admin/includes/class-custom-image-header.php:758
 msgid "Text Color"
-msgstr ""
+msgstr "文本颜色"
 
 #. translators: %s: Default text color.
 #: wp-admin/includes/class-custom-image-header.php:780
 msgctxt "color"
 msgid "Default: %s"
-msgstr ""
+msgstr "默认：%s"
 
 #: wp-admin/includes/class-custom-image-header.php:819
 #: wp-admin/includes/class-custom-image-header.php:1005
 msgid "The active theme does not support uploading a custom header image."
-msgstr ""
+msgstr "当前所启用的主题不支持上传自定义页眉图片。"
 
 #: wp-admin/includes/class-custom-image-header.php:898
 #: wp-admin/includes/class-custom-image-header.php:1057
 #: wp-admin/includes/class-custom-image-header.php:1400
 msgid "Image could not be processed. Please go back and try again."
-msgstr ""
+msgstr "无法处理图像。请返回，然后再试一次。"
 
 #: wp-admin/includes/class-custom-image-header.php:898
 #: wp-admin/includes/class-custom-image-header.php:1057
 msgid "Image Processing Error"
-msgstr ""
+msgstr "图像处理错误"
 
 #: wp-admin/includes/class-custom-image-header.php:913
 msgid "Crop Header Image"
-msgstr ""
+msgstr "裁剪页眉图像"
 
 #: wp-admin/includes/class-custom-image-header.php:916
 msgid "Choose the part of the image you want to use as your header."
-msgstr ""
+msgstr "选择您想要用作页眉的图像部分。"
 
 #: wp-admin/includes/class-custom-image-header.php:917
 msgid "You need JavaScript to choose a part of the image."
-msgstr ""
+msgstr "您需要 JavaScript 来选择图像的一部分。"
 
 #: wp-admin/includes/class-custom-image-header.php:935
 msgid "Crop and Publish"
-msgstr ""
+msgstr "裁剪并发布"
 
 #: wp-admin/includes/class-custom-image-header.php:941
 msgid "Skip Cropping, Publish Image as Is"
-msgstr ""
+msgstr "跳过裁剪"
 
 #: wp-admin/includes/class-custom-image-header.php:969
 msgid "Image Upload Error"
-msgstr ""
+msgstr "图像上传错误"
 
 #: wp-admin/includes/class-custom-image-header.php:1016
 msgid "The active theme does not support a flexible sized header image."
-msgstr ""
+msgstr "当前所启用的主题不支持自适应尺寸页眉图片。"
 
 #: wp-admin/includes/class-custom-image-header.php:1105
 msgid "Sorry, you are not allowed to customize headers."
-msgstr ""
+msgstr "对不起，您无权自定义页眉。"
 
 #: wp-admin/includes/class-file-upload-upgrader.php:57
 #: wp-admin/includes/class-file-upload-upgrader.php:120
 #: wp-admin/includes/class-file-upload-upgrader.php:136
 msgid "Please select a file"
-msgstr ""
+msgstr "请选择一个文件"
 
 #: wp-admin/includes/class-file-upload-upgrader.php:92
 #: wp-admin/includes/file.php:1636
 #: wp-admin/includes/file.php:1791
 msgid "Incompatible Archive."
-msgstr ""
+msgstr "档案不兼容。"
 
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:31
 #: wp-admin/update-core.php:667
 #: wp-admin/update-core.php:1073
 msgid "Update Translations"
-msgstr ""
+msgstr "更新翻译"
 
 #. translators: 1: Project name (plugin, theme, or ClassicPress), 2: Language.
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:51
 #: wp-admin/includes/class-wp-automatic-updater.php:438
 msgid "Updating translations for %1$s (%2$s)&#8230;"
-msgstr ""
+msgstr "正在更新 %1$s（%2$s）的翻译&#8230;"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:113
 msgid "Some of your translations need updating. Sit tight for a few more seconds while they are updated as well."
-msgstr ""
+msgstr "您的某些翻译需要升级。请稍等几秒钟时间。"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:114
 #: wp-admin/update-core.php:656
 msgid "Your translations are all up to date."
-msgstr ""
+msgstr "您的翻译都是最新的。"
 
 #. translators: %s: Package URL.
 #: wp-admin/includes/class-language-pack-upgrader.php:117
 msgid "Downloading translation from %s&#8230;"
-msgstr ""
+msgstr "正在从 %s 下载翻译&#8230;"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:119
 msgid "Translation update failed."
-msgstr ""
+msgstr "升级翻译失败。"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:120
 msgid "Translation updated successfully."
-msgstr ""
+msgstr "翻译升级成功。"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:121
 msgid "Removing the old version of the translation&#8230;"
-msgstr ""
+msgstr "正在移除旧版本的翻译&#8230;"
 
 #: wp-admin/includes/class-language-pack-upgrader.php:122
 msgid "Could not remove the old translation."
-msgstr ""
+msgstr "无法移除旧版本的翻译。"
 
 #. translators: 1: .po, 2: .mo
 #: wp-admin/includes/class-language-pack-upgrader.php:352
 msgid "The language pack is missing either the %1$s or %2$s files."
-msgstr ""
+msgstr "语言包缺少 %1$s 或 %2$s 文件。"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:104
 msgid "Activate Plugin &amp; Run Importer"
-msgstr ""
+msgstr "激活插件并运行导入器"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:110
 msgid "Activate Plugin &amp; Go to Press This"
@@ -4026,7 +4026,7 @@ msgstr "安装包不可用。"
 #: wp-admin/includes/class-plugin-upgrader.php:77
 #: wp-admin/includes/class-theme-upgrader.php:75
 msgid "Downloading installation package from %s&#8230;"
-msgstr "正在从 %s&#8230; 下载安装包"
+msgstr "正在从 %s 下载安装包&#8230;"
 
 #: wp-admin/includes/class-plugin-upgrader.php:78
 #: wp-admin/includes/class-theme-upgrader.php:76
