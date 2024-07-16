@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-15 13:15\n"
+"PO-Revision-Date: 2024-07-16 04:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2584,44 +2584,44 @@ msgstr "在旧版本的 ClassicPress 中，所有导入器都是内置的。由�
 
 #: wp-admin/import.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-import-screen/\">Documentation on Import</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-import-screen/\">导入站点文档</a>"
 
 #: wp-admin/import.php:33
 msgid "<a href=\"https://wordpress.org/support/forums\">Support</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/forums\">支持</a>"
 
 #: wp-admin/import.php:65
 #: wp-admin/includes/network.php:116
 #: wp-admin/themes.php:305
 #: wp-admin/users.php:329
 msgid "Error:"
-msgstr ""
+msgstr "错误："
 
 #. translators: %s: Importer slug.
 #: wp-admin/import.php:68
 msgid "The %s importer is invalid or is not installed."
-msgstr ""
+msgstr "导入器「%s」未启用或者未被安装。"
 
 #: wp-admin/import.php:73
 msgid "If you have posts or comments in another system, ClassicPress can import those into this site. To get started, choose a system to import from below:"
-msgstr ""
+msgstr "如果您在其他系统中有文章或评论，ClassicPress 可以帮助您将这些内容导入至当前站点。要开始，请在下方选择一个选项以继续："
 
 #: wp-admin/import.php:96
 msgid "No importers are available."
-msgstr ""
+msgstr "没有可用的导入器。"
 
 #. translators: %s: Importer name.
 #: wp-admin/import.php:132
 #: wp-admin/import.php:181
 #: wp-admin/js/updates.js:861
 msgid "Run %s"
-msgstr ""
+msgstr "运行 %s"
 
 #: wp-admin/import.php:133
 #: wp-admin/import.php:182
 #: wp-admin/js/updates.js:865
 msgid "Run Importer"
-msgstr ""
+msgstr "运行导入器"
 
 #. translators: %s: Importer name.
 #. translators: %s: Plugin name and version.
@@ -2633,7 +2633,7 @@ msgstr ""
 #: wp-admin/js/updates.js:2270
 msgctxt "plugin"
 msgid "Install %s now"
-msgstr ""
+msgstr "立即安装 %s"
 
 #: wp-admin/import.php:160
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:526
@@ -2646,12 +2646,12 @@ msgstr ""
 #: wp-admin/js/updates.js:2231
 #: wp-admin/js/updates.js:2274
 msgid "Install Now"
-msgstr ""
+msgstr "立即安装"
 
 #. translators: %s: URL to Import screen on the main site.
 #: wp-admin/import.php:165
 msgid "This importer is not installed. Please install importers from <a href=\"%s\">the main site</a>."
-msgstr ""
+msgstr "此导入器未安装。请在<a href=\"%s\">主站点</a>中安装导入器。"
 
 #. translators: %s: Importer name.
 #. translators: %s: Plugin name and version.
@@ -2660,18 +2660,18 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:618
 #: wp-admin/includes/class-wp-plugins-list-table.php:1074
 msgid "More information about %s"
-msgstr ""
+msgstr "关于 %s 的更多信息"
 
 #: wp-admin/import.php:205
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
 msgid "Details"
-msgstr ""
+msgstr "详情"
 
 #. translators: %s: URL to Add Plugins screen.
 #: wp-admin/import.php:228
 msgid "If the importer you need is not listed, <a href=\"%s\">search the plugin directory</a> to see if an importer is available."
-msgstr ""
+msgstr "如果您需要的导入器未列出，请<a href=\"%s\">搜索插件目录</a>以查看是否有可用的相关导入器。"
 
 #: wp-admin/includes/ajax-actions.php:124
 #: wp-admin/includes/meta-boxes.php:574
@@ -2681,13 +2681,13 @@ msgstr ""
 #: wp-admin/js/tags-box.js:9
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr "，"
 
 #. translators: 1: User login, 2: User email address.
 #: wp-admin/includes/ajax-actions.php:336
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s（%2$s）"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -2695,7 +2695,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:342
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
+msgstr[0] "%s 条评论"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:429
@@ -2705,7 +2705,7 @@ msgstr[0] ""
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s 评论等待审核"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
