@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-16 16:51\n"
+"PO-Revision-Date: 2024-07-17 04:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -3158,27 +3158,27 @@ msgstr "没有从 %1$s 擦除器接收数组（索引 %2$d）。"
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5151
 msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "在 %1$s 抹除器的响应数组中预期 items_removed 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5162
 msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "在 %1$s 抹除器的响应数组中预期 items_retained 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5173
 msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "在 %1$s 抹除器的响应数组中预期 messages 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5184
 msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "在 %1$s 抹除器的响应数组中预期 messages 键来作为一个数组的引用（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
 #: wp-admin/includes/ajax-actions.php:5195
 msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
-msgstr ""
+msgstr "在 %1$s 抹除器的响应数组中预期 done 标记（索引 %2$d）。"
 
 #. translators: 1: The Site Health action that is no longer used by core. 2: The new function that replaces it.
 #: wp-admin/includes/ajax-actions.php:5248
@@ -3186,94 +3186,94 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:5314
 #: wp-admin/includes/ajax-actions.php:5364
 msgid "The Site Health check for %1$s has been replaced with %2$s."
-msgstr ""
+msgstr "%1$s 的站点健康检查已被 %2$s 替换。"
 
 #: wp-admin/includes/ajax-actions.php:5436
 msgid "Invalid data. No selected item."
-msgstr ""
+msgstr "无效数据。没有选中项目。"
 
 #: wp-admin/includes/ajax-actions.php:5442
 msgid "Invalid data. Unknown state."
-msgstr ""
+msgstr "无效数据。未知状态。"
 
 #: wp-admin/includes/ajax-actions.php:5447
 #: wp-admin/includes/ajax-actions.php:5472
 msgid "Invalid data. Unknown type."
-msgstr ""
+msgstr "无效数据。未知类型。"
 
 #: wp-admin/includes/ajax-actions.php:5454
 msgid "Sorry, you are not allowed to modify plugins."
-msgstr ""
+msgstr "对不起，您无权修改插件。"
 
 #: wp-admin/includes/ajax-actions.php:5464
 msgid "Sorry, you are not allowed to modify themes."
-msgstr ""
+msgstr "对不起，您无权修改主题。"
 
 #: wp-admin/includes/ajax-actions.php:5476
 msgid "Invalid data. The item does not exist."
-msgstr ""
+msgstr "无效数据。项目不存在。"
 
 #: wp-admin/includes/ajax-actions.php:5510
 msgid "Cannot send password reset, permission denied."
-msgstr ""
+msgstr "无法发送密码重置邮件，权限不足。"
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/ajax-actions.php:5520
 msgid "A password reset link was emailed to %s."
-msgstr ""
+msgstr "密码重置链接已发送至 %s。"
 
 #: wp-admin/includes/bookmark.php:32
 #: wp-admin/includes/bookmark.php:379
 #: wp-admin/link-manager.php:12
 #: wp-admin/link-manager.php:92
 msgid "Sorry, you are not allowed to edit the links for this site."
-msgstr ""
+msgstr "对不起，您无权编辑此站点的链接。"
 
 #: wp-admin/includes/bookmark.php:228
 msgid "Could not update link in the database."
-msgstr ""
+msgstr "无法在数据库中更新链接。"
 
 #: wp-admin/includes/bookmark.php:236
 msgid "Could not insert link into the database."
-msgstr ""
+msgstr "无法将链接插入数据库。"
 
 #. translators: %s: A link to install the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:356
 msgid "If you are looking to use the link manager, please install the <a href=\"%s\">Link Manager plugin</a>."
-msgstr ""
+msgstr "如果您希望使用链接管理器，请安装<a href=\"%s\">链接管理器插件</a>。"
 
 #. translators: %s: A link to activate the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:371
 msgid "Please activate the <a href=\"%s\">Link Manager plugin</a> to use the link manager."
-msgstr ""
+msgstr "请激活<a href=\"%s\">链接管理器插件</a>来使用链接管理器。"
 
 #. translators: 1: Plugin name, 2: Number of the plugin, 3: Total number of plugins being updated.
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:33
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "正在更新插件 %1$s（%2$d/%3$d）"
 
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:60
 #: wp-admin/includes/class-plugin-installer-skin.php:151
 #: wp-admin/includes/class-plugin-upgrader-skin.php:101
 msgid "Go to Plugins page"
-msgstr ""
+msgstr "转到插件页面"
 
 #: wp-admin/includes/class-bulk-plugin-upgrader-skin.php:65
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:66
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:80
 msgid "Go to ClassicPress Updates page"
-msgstr ""
+msgstr "转到 ClassicPress 升级页面"
 
 #. translators: 1: Theme name, 2: Number of the theme, 3: Total number of themes being updated.
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:34
 msgid "Updating Theme %1$s (%2$d/%3$d)"
-msgstr ""
+msgstr "正在更新主题 %1$s（%2$d/%3$d）"
 
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:61
 #: wp-admin/includes/class-theme-installer-skin.php:164
 #: wp-admin/includes/class-theme-upgrader-skin.php:127
 msgid "Go to Themes page"
-msgstr ""
+msgstr "转到主题页面"
 
 #: wp-admin/includes/class-bulk-upgrader-skin.php:41
 msgid "The update process is starting. This process may take a while on some hosts, so please be patient."
