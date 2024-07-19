@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-19 05:00\n"
+"PO-Revision-Date: 2024-07-19 17:01\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -6966,250 +6966,250 @@ msgstr ""
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:479
 msgid "In this subsection you should note what information is captured through comments. We have noted the data which ClassicPress collects by default."
-msgstr ""
+msgstr "在此分节中，您应当说明随评论一起收集的信息是什么。我们在默认情况下会标注 ClassicPress 所收集的信息。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:482
 msgid "When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection."
-msgstr ""
+msgstr "当访客留下评论，我们除了会收集评论表单中的数据之外，为了应对垃圾评论，我们还会收集访客的 IP 地址以及浏览器用户代理字符串。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:484
 msgid "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
-msgstr ""
+msgstr "基于您的电子邮件地址创建的匿名字符串（也称为哈希）有可能会提供给 Gravatar 服务，以查看您是否在使用它。Gravatar 服务隐私政策可在这里查阅：https://automattic.com/privacy/。在您的评论获得批准后，您的个人资料图片将在您的评论中向公众公开。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:492
 msgid "In this subsection you should note what information may be disclosed by users who can upload media files. All uploaded files are usually publicly accessible."
-msgstr ""
+msgstr "在此分节中，您应当向您的用户展示上传媒体文件时有可能会暴露出来的信息。所有上传的文件通常来说都是向整个互联网公开的。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:495
 msgid "If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website."
-msgstr ""
+msgstr "如果您向站点上传了图像，您应当避免上传那些包含内嵌位置数据（EXIF GPS）的图像。任何访客都可以随后通过下载这些图像来提取图像中的位置信息。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:500
 msgid "Contact forms"
-msgstr ""
+msgstr "联系表单"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:502
 msgid "By default, ClassicPress does not include a contact form. If you use a contact form plugin, use this subsection to note what personal data is captured when someone submits a contact form, and how long you keep it. For example, you may note that you keep contact form submissions for a certain period for customer service purposes, but you do not use the information submitted through them for marketing purposes."
-msgstr ""
+msgstr "默认情况下，ClassicPress 不提供联系表单功能。如果您正在使用联系表单插件，则您应当使用该子分区来向用户指明这些联系表单将会收集的信息，以及这些信息将会被存储的时间。例如，您可以说明这些信息将会在一段特定的时间内被用于用户服务相关目的，但不会被用于营销目的。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:506
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:510
 msgid "In this subsection you should list the cookies your web site uses, including those set by your plugins, social media, and analytics. We have provided the cookies which ClassicPress installs by default."
-msgstr ""
+msgstr "在此分节中，您应当列举您站点将会使用的 Cookies，包括由您的插件、社交媒体、统计工具所设置的 Cookies。我们在默认情况下已经提供了 ClassicPress 所会使用的 Cookies。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:513
 msgid "If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
-msgstr ""
+msgstr "如果您在我们的站点上留下评论，您应当可以选择将您的用户名、电子邮件地址、以及网址保存在 Cookies 当中。这些 Cookies 是为了您的方便而设置的，这样一来您就无需反复输入同样的信息。这些 Cookies 的有效期为一年。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:515
 msgid "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
-msgstr ""
+msgstr "如果您访问我们的登录页面，我们将会设置一个临时 Cookie 来确保您的浏览器支持 Cookies。此 Cookie 不包含任何个人信息，并将会在您关闭浏览器时被删除。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:517
 msgid "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
-msgstr ""
+msgstr "当您登录到该站点时，我们也会设置几个 Cookies，以用于保存您的登录信息以及屏幕显示选项。登录 Cookies 有效期为两天，屏幕选项 Cookies 有效期为一年。如果您选择了「记住我」，那么登录 Cookies 的有效期将被延长至两周。当您退出登录时，登录 Cookies 将会被移除。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:519
 msgid "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
-msgstr ""
+msgstr "如果您编辑或发表文章，此时会有一个额外的 Cookie 被存储至您的浏览器中。此 Cookie 不包含个人信息，其仅用于标记您刚刚编辑的文章的文章 ID。此 Cookie 的有效期为一天。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:524
 msgid "Embedded content from other websites"
-msgstr ""
+msgstr "来自其他网站的嵌入内容"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:526
 msgid "Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
-msgstr ""
+msgstr "此站点上的文章可以包含嵌入的内容（例如视频、图片、文章等）。来自其他站点的内嵌内容的表现方式与访客直接访问其他站点的方式完全相同。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:528
 msgid "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
-msgstr ""
+msgstr "这些站点可能也会收集您的信息，使用 Cookies，嵌入其他的第三方跟踪工具，以及监视您与嵌入内容的交互，包括您在对应站点已有账户并且登录到对应账户的情况。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:533
 msgid "Analytics"
-msgstr ""
+msgstr "分析"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:535
 msgid "In this subsection you should note what analytics package you use, how users can opt out of analytics tracking, and a link to your analytics provider&#8217;s privacy policy, if any."
-msgstr ""
+msgstr "在本分节中，您应当说明您正在使用的分析工具包，用户如何停止被分析，以及在内容分析工具的隐私政策可用时提供一个对应的链接。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:537
 msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a WordPress plugin that provides analytics services. In that case, add information from that plugin here."
-msgstr ""
+msgstr "默认情况下，ClassicPress 不会收集任何统计信息。不过，有许多 Web 托管账户会收集一些匿名的数据。您还有可能安装了提供统计服务的插件；在这种情况下，可以在下方添加对应插件的信息。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:541
 msgid "Who we share your data with"
-msgstr ""
+msgstr "我们与谁共享您的数据"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:545
 msgid "In this section you should name and list all third party providers with whom you share site data, including partners, cloud-based services, payment processors, and third party service providers, and note what data you share with them and why. Link to their own privacy policies if possible."
-msgstr ""
+msgstr "在本节中，您应当列举所有您分享站点信息的第三方，包括合作伙伴、云服务、支付网关、以及其他第三方服务提供商，并说明您共享什么样的信息；如果可能，也在此提供对应服务的隐私政策链接。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:547
 msgid "By default ClassicPress does not share any personal data with anyone."
-msgstr ""
+msgstr "默认情况下，ClassicPress 不与任何人共享任何个人数据。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:550
 msgid "If you request a password reset, your IP address will be included in the reset email."
-msgstr ""
+msgstr "如果您请求重置密码，您的 IP 地址将被包含在密码重置电子邮件中。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:554
 msgid "How long we retain your data"
-msgstr ""
+msgstr "我们保存您数据的时间"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:558
 msgid "In this section you should explain how long you retain personal data collected or processed by the web site. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years."
-msgstr ""
+msgstr "在本节中，您应该解释您保留站点所收集或处理的个人数据的时间。虽然你有责任想出一个保存数据时长的安排以及对其进行解释，此处确实需要列出这一信息。例如，您可能想要说您希望将联系表单条目保存六个月， 将分析记录保存一年，以及将客户采购记录保存十年。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:561
 msgid "If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
-msgstr ""
+msgstr "如果您留下评论，评论及其元数据将被无限期保留。这是为了我们能够自动识别和批准任何后续评论，而不是将它们置于审核队列。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:563
 msgid "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
-msgstr ""
+msgstr "对于在我们的网站上注册了账户的用户（如果有的话），我们也会将他们所提供的个人信息存储在他们的用户资料中。所有用户可以随时查看、编辑或删除他们自己的个人信息（但他们不能更改他们的用户名）。站点管理员也可以查看和编辑该信息。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:567
 msgid "What rights you have over your data"
-msgstr ""
+msgstr "您对您的数据拥有什么权利"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:571
 msgid "In this section you should explain what rights your users have over their data and how they can invoke those rights."
-msgstr ""
+msgstr "在本节中，您应该解释您的用户对他们的数据拥有哪些权利，以及他们如何能够援引这些权利。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:574
 msgid "If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
-msgstr ""
+msgstr "如果您在此站点有一个帐户，或留下评论， 您可以请求获取一份我们保存的个人数据的导出文件，包括您提供给我们的任何数据。您也可以请求我们删除我们所保存的您的任何个人数据。这不包括我们为行政、法律或安全目的必须保存的任何数据。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:578
 msgid "Where your data is sent"
-msgstr ""
+msgstr "您的数据将会被发送至何处"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:582
 msgid "In this section you should list all transfers of your site data outside the European Union and describe the means by which that data is safeguarded to European data protection standards. This could include your web hosting, cloud storage, or other third party services."
-msgstr ""
+msgstr "在本节中，您应列出在欧洲联盟以外的站点数据的所有发送地点，并说明如何保护这些数据以符合欧洲数据保护标准。这可以包括您的网页托管、云存储或其他第三方服务。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:584
 msgid "European data protection law requires data about European residents which is transferred outside the European Union to be safeguarded to the same standards as if the data was in Europe. So in addition to listing where data goes, you should describe how you ensure that these standards are met either by yourself or by your third party providers, whether that is through an agreement such as Privacy Shield, model clauses in your contracts, or binding corporate rules."
-msgstr ""
+msgstr "欧洲数据保护法要求和欧洲公民相关的信息在发送至欧洲以外时以和欧洲相同的保护标准保护这些信息。因此，除了列举数据的去向，您还应当说明您或第三方如何确保这些标准的实现。"
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:587
 msgid "Visitor comments may be checked through an automated spam detection service."
-msgstr ""
+msgstr "访客评论可能会被自动垃圾评论检测服务检查。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:592
 msgid "Contact information"
-msgstr ""
+msgstr "联系信息"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:594
 msgid "In this section you should provide a contact method for privacy-specific concerns. If you are required to have a Data Protection Officer, list their name and full contact details here as well."
-msgstr ""
+msgstr "在本节中，您应该为与隐私相关的特定问题提供一个联系方式。如果您被要求有一名数据保护干事，请也在此列出他们的姓名和完整的联系细节。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:599
 msgid "Additional information"
-msgstr ""
+msgstr "其他信息"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:601
 msgid "If you use your site for commercial purposes and you engage in more complex collection or processing of personal data, you should note the following information in your privacy policy in addition to the information we have already discussed."
-msgstr ""
+msgstr "如果您将您的网站用于商业目的，并参与更复杂的个人数据收集或处理， 除了我们已经讨论过的信息外，您应该在隐私政策中注意以下信息。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:606
 msgid "How we protect your data"
-msgstr ""
+msgstr "我们如何保护您的数据"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:608
 msgid "In this section you should explain what measures you have taken to protect your users&#8217; data. This could include technical measures such as encryption; security measures such as two factor authentication; and measures such as staff training in data protection. If you have carried out a Privacy Impact Assessment, you can mention it here too."
-msgstr ""
+msgstr "在本节中，您应该解释您采取了哪些措施来保护您的用户的数据。这可包括诸如加密等技术措施；诸如双重认证之类的安全措施；以及诸如工作人员数据保护方面的培训等措施。如果您进行了隐私影响评估，您也可以在这里提及这一点。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:613
 msgid "What data breach procedures we have in place"
-msgstr ""
+msgstr "我们在面对数据泄漏时的应急应对程序"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:615
 msgid "In this section you should explain what procedures you have in place to deal with data breaches, either potential or real, such as internal reporting systems, contact mechanisms, or bug bounties."
-msgstr ""
+msgstr "在本节中，您应该解释您有什么程序来处理数据泄漏，不论是潜在的还是实际的，例如内部报告系统、联系机制或错误报告。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:620
 msgid "What third parties we receive data from"
-msgstr ""
+msgstr "我们从哪个第三方接收数据"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:622
 msgid "If your web site receives data about users from third parties, including advertisers, this information must be included within the section of your privacy policy dealing with third party data."
-msgstr ""
+msgstr "如果您的网站从第三方收到有关用户的数据，包括广告商， 此信息必须包含在您隐私政策关于第三方数据的一节中。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:627
 msgid "What automated decision making and/or profiling we do with user data"
-msgstr ""
+msgstr "我们对用户数据进行什么自动决策和/或剖析"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:629
 msgid "If your web site provides a service which includes automated decision making - for example, allowing customers to apply for credit, or aggregating their data into an advertising profile - you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention."
-msgstr ""
+msgstr "如果您的网站提供了一个包括自动决策的服务――例如，允许客户申请信贷， 或者将他们的数据集成到广告资料――您必须注意，这已经在发生，并说明关于如何使用这一信息的信息，与该综合数据一起作出了哪些决定， 以及使用者对在没有人干预的情况下作出的决定拥有什么权利。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:634
 msgid "Industry regulatory disclosure requirements"
-msgstr ""
+msgstr "行业管理披露要求"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:636
 msgid "If you are a member of a regulated industry, or if you are subject to additional privacy laws, you may be required to disclose that information here."
-msgstr ""
+msgstr "如果您是受监管行业的成员，或者您受其他隐私法的约束，您可能需要在此处披露该信息。"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:43
 msgid "Requester"
-msgstr ""
+msgstr "请求方"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:45
 msgid "Requested"
-msgstr ""
+msgstr "已请求"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:46
 msgid "Next steps"
@@ -7444,22 +7444,22 @@ msgstr ""
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:403
 msgid "ClassicPress development updates are blocked by the %s constant."
-msgstr ""
+msgstr "ClassPress 预览更新被 %s 常量阻止。"
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:415
 msgid "ClassicPress development updates are blocked by the %s filter."
-msgstr ""
+msgstr "ClassPress 预览更新被 %s 过滤器阻止。"
 
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:435
 msgid "ClassicPress security and maintenance releases are blocked by %s."
-msgstr ""
+msgstr "ClassicPress 安全和维护更新被 %s 阻止。"
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:447
 msgid "ClassicPress security and maintenance releases are blocked by the %s filter."
-msgstr ""
+msgstr "ClassicPress 安全和维护更新被 %s 过滤器阻止。"
 
 #: wp-admin/includes/class-wp-site-health.php:259
 #: wp-admin/includes/class-wp-site-health.php:737
@@ -7476,33 +7476,33 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:2264
 #: wp-admin/includes/class-wp-site-health.php:2389
 msgid "Performance"
-msgstr ""
+msgstr "性能"
 
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress 版本 %s"
 
 #: wp-admin/includes/class-wp-site-health.php:281
 msgid "Unable to check if any new versions of ClassicPress are available."
-msgstr ""
+msgstr "无法检查是否有任何新版本的 ClassicPress 可用。"
 
 #: wp-admin/includes/class-wp-site-health.php:287
 msgid "Check for updates manually"
-msgstr ""
+msgstr "手动检查更新"
 
 #. translators: %s: The latest version of ClassicPress available.
 #: wp-admin/includes/class-wp-site-health.php:300
 msgid "ClassicPress update available (%s)"
-msgstr ""
+msgstr "ClassicPress更新可用（%s）"
 
 #: wp-admin/includes/class-wp-site-health.php:307
 msgid "Install the latest version of ClassicPress"
-msgstr ""
+msgstr "安装最新版本的 ClassicPress"
 
 #: wp-admin/includes/class-wp-site-health.php:315
 msgid "A new version of ClassicPress is available."
-msgstr ""
+msgstr "ClassicPress 有新版本可供使用。"
 
 #: wp-admin/includes/class-wp-site-health.php:320
 #: wp-admin/includes/class-wp-site-health.php:360
@@ -7516,185 +7516,185 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:1842
 #: wp-admin/includes/class-wp-site-health.php:2202
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 #: wp-admin/includes/class-wp-site-health.php:323
 msgid "A new minor update is available for your site. Because minor updates often address security, it&#8217;s important to install them."
-msgstr ""
+msgstr "有新的小版本更新可供使用。由于小版本更新通常会修复安全问题，这些更新很重要。"
 
 #. translators: %s: The current version of ClassicPress installed on this site.
 #: wp-admin/includes/class-wp-site-health.php:330
 msgid "Your version of ClassicPress (%s) is up to date"
-msgstr ""
+msgstr "您的 ClassicPresse 版本（%s）是最新版本"
 
 #: wp-admin/includes/class-wp-site-health.php:336
 msgid "You are currently running the latest version of ClassicPress available, keep it up!"
-msgstr ""
+msgstr "您目前正在运行最新版本的 ClassicPress，好样的！"
 
 #: wp-admin/includes/class-wp-site-health.php:357
 msgid "Your plugins are all up to date"
-msgstr ""
+msgstr "您的所有插件都是最新的"
 
 #: wp-admin/includes/class-wp-site-health.php:365
 msgid "Plugins extend your site&#8217;s functionality with things like contact forms, ecommerce and much more. That means they have deep access to your site, so it&#8217;s vital to keep them up to date."
-msgstr ""
+msgstr "插件扩展您网站的功能，例如联系表单、电子商务，诸如此类。这意味着他们可以深入访问您的网站，所以随时更新插件非常重要。"
 
 #: wp-admin/includes/class-wp-site-health.php:370
 msgid "Manage your plugins"
-msgstr ""
+msgstr "管理您的插件"
 
 #: wp-admin/includes/class-wp-site-health.php:399
 msgid "You have plugins waiting to be updated"
-msgstr ""
+msgstr "您有插件等待更新"
 
 #. translators: %d: The number of outdated plugins.
 #: wp-admin/includes/class-wp-site-health.php:405
 msgid "Your site has %d plugin waiting to be updated."
 msgid_plural "Your site has %d plugins waiting to be updated."
-msgstr[0] ""
+msgstr[0] "您的站点有 %d 款插件等待更新。"
 
 #: wp-admin/includes/class-wp-site-health.php:417
 msgid "Update your plugins"
-msgstr ""
+msgstr "升级您的插件"
 
 #: wp-admin/includes/class-wp-site-health.php:423
 msgid "Your site has 1 active plugin, and it is up to date."
-msgstr ""
+msgstr "您的站点有一款活跃插件，此插件已是最新。"
 
 #. translators: %d: The number of active plugins.
 #: wp-admin/includes/class-wp-site-health.php:430
 msgid "Your site has %d active plugin, and it is up to date."
 msgid_plural "Your site has %d active plugins, and they are all up to date."
-msgstr[0] ""
+msgstr[0] "您的站点有 %d 款活跃插件，这些插件已是最新。"
 
 #: wp-admin/includes/class-wp-site-health.php:441
 msgid "Your site does not have any active plugins."
-msgstr ""
+msgstr "您的站点无任何活跃插件。"
 
 #: wp-admin/includes/class-wp-site-health.php:452
 msgid "You should remove inactive plugins"
-msgstr ""
+msgstr "您应当删除未启用的插件"
 
 #. translators: %d: The number of inactive plugins.
 #: wp-admin/includes/class-wp-site-health.php:458
 msgid "Your site has %d inactive plugin."
 msgid_plural "Your site has %d inactive plugins."
-msgstr[0] ""
+msgstr[0] "您的站点有 %d 款未启用的插件。"
 
 #: wp-admin/includes/class-wp-site-health.php:465
 msgid "Inactive plugins are tempting targets for attackers. If you are not going to use a plugin, you should consider removing it."
-msgstr ""
+msgstr "未启用的插件是攻击者垂涎的目标。如果您不打算使用某插件，则应当将其删除。"
 
 #: wp-admin/includes/class-wp-site-health.php:471
 msgid "Manage inactive plugins"
-msgstr ""
+msgstr "管理未启用插件"
 
 #: wp-admin/includes/class-wp-site-health.php:491
 msgid "Your themes are all up to date"
-msgstr ""
+msgstr "您的所有主题都是最新的"
 
 #: wp-admin/includes/class-wp-site-health.php:499
 msgid "Themes add your site&#8217;s look and feel. It&#8217;s important to keep them up to date, to stay consistent with your brand and keep your site secure."
-msgstr ""
+msgstr "主题为您的站点提供外观。确保它们保持最新在安全性和美观上都非常重要。"
 
 #: wp-admin/includes/class-wp-site-health.php:504
 msgid "Manage your themes"
-msgstr ""
+msgstr "管理您的主题"
 
 #: wp-admin/includes/class-wp-site-health.php:572
 msgid "You have themes waiting to be updated"
-msgstr ""
+msgstr "您有主题等待更新"
 
 #. translators: %d: The number of outdated themes.
 #: wp-admin/includes/class-wp-site-health.php:578
 msgid "Your site has %d theme waiting to be updated."
 msgid_plural "Your site has %d themes waiting to be updated."
-msgstr[0] ""
+msgstr[0] "您的站点有 %d 款主题等待更新。"
 
 #: wp-admin/includes/class-wp-site-health.php:591
 msgid "Your site has 1 installed theme, and it is up to date."
-msgstr ""
+msgstr "您的站点安装了一款主题，此主题已是最新。"
 
 #. translators: %d: The number of themes.
 #: wp-admin/includes/class-wp-site-health.php:598
 msgid "Your site has %d installed theme, and it is up to date."
 msgid_plural "Your site has %d installed themes, and they are all up to date."
-msgstr[0] ""
+msgstr[0] "您的站点安装了 %d 款主题，这些主题已是最新。"
 
 #: wp-admin/includes/class-wp-site-health.php:609
 msgid "Your site does not have any installed themes."
-msgstr ""
+msgstr "您的站点无任何已安装主题。"
 
 #: wp-admin/includes/class-wp-site-health.php:621
 #: wp-admin/includes/class-wp-site-health.php:667
 msgid "You should remove inactive themes"
-msgstr ""
+msgstr "您应当删除未启用的主题"
 
 #. translators: %d: The number of inactive themes.
 #: wp-admin/includes/class-wp-site-health.php:628
 #: wp-admin/includes/class-wp-site-health.php:647
 msgid "Your site has %d inactive theme."
 msgid_plural "Your site has %d inactive themes."
-msgstr[0] ""
+msgstr[0] "您的站点有 %d 款未启用的主题。"
 
 #. translators: 1: The currently active theme. 2: The active theme's parent theme.
 #: wp-admin/includes/class-wp-site-health.php:637
 msgid "To enhance your site&#8217;s security, you should consider removing any themes you are not using. You should keep your active theme, %1$s, and %2$s, its parent theme."
-msgstr ""
+msgstr "为了增强您的站点的安全性，您应该考虑删除您没有使用的任何主题。你应当保留您的活跃主题，%1$s，以及 %2$s，其父主题。"
 
 #. translators: 1: The default theme for ClassicPress. 2: The currently active theme. 3: The active theme's parent theme.
 #: wp-admin/includes/class-wp-site-health.php:656
 msgid "To enhance your site&#8217;s security, you should consider removing any themes you are not using. You should keep %1$s, the default ClassicPress theme, %2$s, your active theme, and %3$s, its parent theme."
-msgstr ""
+msgstr "为了增强您的站点的安全性，您应该考虑删除您没有使用的任何主题。你应当保留您的活跃主题，%1$s，ClassicPress 默认主题，%2$s，您的活跃主题，以及 %3$s，其父主题。"
 
 #. translators: 1: The amount of inactive themes. 2: The currently active theme.
 #: wp-admin/includes/class-wp-site-health.php:674
 msgid "Your site has %1$d inactive theme, other than %2$s, your active theme."
 msgid_plural "Your site has %1$d inactive themes, other than %2$s, your active theme."
-msgstr[0] ""
+msgstr[0] "您的站点除了 %2$s，您的活跃主题以外，有 %1$d 款未启用主题。"
 
 #: wp-admin/includes/class-wp-site-health.php:682
 #: wp-admin/includes/class-wp-site-health.php:698
 msgid "You should consider removing any unused themes to enhance your site&#8217;s security."
-msgstr ""
+msgstr "你应该考虑删除任何未使用的主题以增强你的站点的安全性。"
 
 #. translators: 1: The amount of inactive themes. 2: The default theme for ClassicPress. 3: The currently active theme.
 #: wp-admin/includes/class-wp-site-health.php:689
 msgid "Your site has %1$d inactive theme, other than %2$s, the default ClassicPress theme, and %3$s, your active theme."
 msgid_plural "Your site has %1$d inactive themes, other than %2$s, the default ClassicPress theme, and %3$s, your active theme."
-msgstr[0] ""
+msgstr[0] "您的站点有 %1$d 非活动主题，除了 %2$s 以外，默认的 ClassicPress 主，以及 %3$s，您的活跃主题。"
 
 #: wp-admin/includes/class-wp-site-health.php:708
 msgid "Have a default theme available"
-msgstr ""
+msgstr "确保安装一个默认主题"
 
 #: wp-admin/includes/class-wp-site-health.php:712
 msgid "Your site does not have any default theme. Default themes are used by ClassicPress automatically if anything is wrong with your chosen theme."
-msgstr ""
+msgstr "在您的站点上找不到任何默认主题。ClassicPress 在当前主题出现任何问题时，会自动使用默认主题。"
 
 #. translators: %s: The current PHP version.
 #: wp-admin/includes/class-wp-site-health.php:732
 msgid "Your site is running PHP version (%s)"
-msgstr ""
+msgstr "您的网站正在运行 PHP %s"
 
 #. translators: %s: The minimum recommended PHP version.
 #: wp-admin/includes/class-wp-site-health.php:744
 msgid "PHP is one of the programming languages used to build ClassicPress. Newer versions of PHP receive regular security updates and may increase your site&#8217;s performance. The minimum recommended version of PHP is %s."
-msgstr ""
+msgstr "PHP 是构建 ClassicPress 的主要语言之一。新版本的 PHP 会获取常规安全更新，并可能增强您站点的安全性。PHP 的最低建议版本为 %s。"
 
 #: wp-admin/includes/class-wp-site-health.php:751
 #: wp-admin/includes/dashboard.php:1682
 msgid "Learn more about updating PHP"
-msgstr ""
+msgstr "了解更多关于更新 PHP 的信息"
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/class-wp-site-health.php:765
 msgid "Your site is running on an older and unsupported version of PHP (%s), which should be updated"
-msgstr ""
+msgstr "您的网站正在运行陈旧且不受支持的 PHP（%s）版本，其应当被更新"
 
 #: wp-admin/includes/class-wp-site-health.php:825
 msgid "Required and recommended modules are installed"
-msgstr ""
+msgstr "必须和推荐的模块已安装"
 
 #: wp-admin/includes/class-wp-site-health.php:833
 msgid "PHP modules perform most of the tasks on the server that make your site run. Any changes to these must be made by your server administrator."
