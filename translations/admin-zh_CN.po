@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-17 16:51\n"
+"PO-Revision-Date: 2024-07-19 05:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -5185,31 +5185,31 @@ msgstr "未启用主题"
 
 #: wp-admin/includes/class-wp-debug-data.php:170
 msgid "Must Use Plugins"
-msgstr ""
+msgstr "强制使用的插件"
 
 #: wp-admin/includes/class-wp-debug-data.php:176
 msgid "Active Plugins"
-msgstr ""
+msgstr "活跃插件"
 
 #: wp-admin/includes/class-wp-debug-data.php:182
 msgid "Inactive Plugins"
-msgstr ""
+msgstr "停用插件"
 
 #: wp-admin/includes/class-wp-debug-data.php:188
 msgid "Media Handling"
-msgstr ""
+msgstr "媒体处理"
 
 #: wp-admin/includes/class-wp-debug-data.php:193
 msgid "Server"
-msgstr ""
+msgstr "服务器"
 
 #: wp-admin/includes/class-wp-debug-data.php:194
 msgid "The options shown below relate to your server setup. If changes are required, you may need your web host&#8217;s assistance."
-msgstr ""
+msgstr "下面显示的选项与您的服务器设置相关。如果您需要更改这些设置，您可能需要联系您的主机提供商以获取协助。"
 
 #: wp-admin/includes/class-wp-debug-data.php:199
 msgid "Database"
-msgstr ""
+msgstr "数据库"
 
 #: wp-admin/includes/class-wp-debug-data.php:204
 #: wp-admin/includes/class-wp-debug-data.php:214
@@ -5223,7 +5223,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1150
 #: wp-admin/includes/class-wp-debug-data.php:1236
 msgid "Disabled"
-msgstr ""
+msgstr "停用"
 
 #: wp-admin/includes/class-wp-debug-data.php:209
 #: wp-admin/includes/class-wp-debug-data.php:214
@@ -5237,7 +5237,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1148
 #: wp-admin/includes/class-wp-debug-data.php:1234
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 #: wp-admin/includes/class-wp-debug-data.php:217
 #: wp-admin/includes/class-wp-debug-data.php:226
@@ -5250,27 +5250,27 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1105
 #: wp-admin/includes/class-wp-debug-data.php:1200
 msgid "Undefined"
-msgstr ""
+msgstr "未定义"
 
 #: wp-admin/includes/class-wp-debug-data.php:247
 msgid "ClassicPress Constants"
-msgstr ""
+msgstr "ClassicPress 常量"
 
 #: wp-admin/includes/class-wp-debug-data.php:248
 msgid "These settings alter where and how parts of ClassicPress are loaded."
-msgstr ""
+msgstr "这些设置决定 ClassicPress 部件的载入方式和区域。"
 
 #: wp-admin/includes/class-wp-debug-data.php:346
 msgid "Filesystem Permissions"
-msgstr ""
+msgstr "文件系统权限"
 
 #: wp-admin/includes/class-wp-debug-data.php:347
 msgid "Shows whether ClassicPress is able to write to the directories it needs access to."
-msgstr ""
+msgstr "显示 ClassicPress 是否有权限写入其需要访问的目录。"
 
 #: wp-admin/includes/class-wp-debug-data.php:350
 msgid "The main ClassicPress directory"
-msgstr ""
+msgstr "主 ClassicPress 目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:351
 #: wp-admin/includes/class-wp-debug-data.php:356
@@ -5279,7 +5279,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:371
 #: wp-admin/includes/class-wp-debug-data.php:1360
 msgid "Writable"
-msgstr ""
+msgstr "可写"
 
 #: wp-admin/includes/class-wp-debug-data.php:351
 #: wp-admin/includes/class-wp-debug-data.php:356
@@ -5288,145 +5288,145 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:371
 #: wp-admin/includes/class-wp-debug-data.php:1360
 msgid "Not writable"
-msgstr ""
+msgstr "只读"
 
 #: wp-admin/includes/class-wp-debug-data.php:355
 msgid "The wp-content directory"
-msgstr ""
+msgstr "wp-content 目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:360
 msgid "The uploads directory"
-msgstr ""
+msgstr "uploads（上传）目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:365
 msgid "The plugins directory"
-msgstr ""
+msgstr "plugins（插件）目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:370
 msgid "The themes directory"
-msgstr ""
+msgstr "hemes（主题）目录"
 
 #: wp-admin/includes/class-wp-debug-data.php:394
 msgid "Site count"
-msgstr ""
+msgstr "站点数"
 
 #: wp-admin/includes/class-wp-debug-data.php:399
 msgid "Network count"
-msgstr ""
+msgstr "网络数"
 
 #: wp-admin/includes/class-wp-debug-data.php:405
 msgid "User count"
-msgstr ""
+msgstr "用户数"
 
 #: wp-admin/includes/class-wp-debug-data.php:415
 msgid "ClassicPress directory location"
-msgstr ""
+msgstr "ClassicPress 目录位置"
 
 #: wp-admin/includes/class-wp-debug-data.php:419
 msgid "ClassicPress directory size"
-msgstr ""
+msgstr "ClassicPress 目录大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:424
 msgid "Uploads directory location"
-msgstr ""
+msgstr "上传目录位置"
 
 #: wp-admin/includes/class-wp-debug-data.php:428
 msgid "Uploads directory size"
-msgstr ""
+msgstr "上传目录大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:433
 msgid "Themes directory location"
-msgstr ""
+msgstr "主题目录位置"
 
 #: wp-admin/includes/class-wp-debug-data.php:437
 msgid "Themes directory size"
-msgstr ""
+msgstr "主题目录大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:442
 msgid "Plugins directory location"
-msgstr ""
+msgstr "插件目录位置"
 
 #: wp-admin/includes/class-wp-debug-data.php:446
 msgid "Plugins directory size"
-msgstr ""
+msgstr "插件目录大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:451
 msgid "Database size"
-msgstr ""
+msgstr "数据库大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:456
 msgid "Total installation size"
-msgstr ""
+msgstr "总安装大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:470
 #: wp-admin/includes/class-wp-debug-data.php:492
 #: wp-admin/includes/class-wp-debug-data.php:509
 #: wp-admin/includes/class-wp-debug-data.php:1649
 msgid "Not available"
-msgstr ""
+msgstr "不可用"
 
 #: wp-admin/includes/class-wp-debug-data.php:482
 msgid "Active editor"
-msgstr ""
+msgstr "活跃编辑器"
 
 #: wp-admin/includes/class-wp-debug-data.php:496
 msgid "ImageMagick version number"
-msgstr ""
+msgstr "ImageMagick 版本号"
 
 #: wp-admin/includes/class-wp-debug-data.php:501
 msgid "ImageMagick version string"
-msgstr ""
+msgstr "ImageMagick 版本字符串"
 
 #: wp-admin/includes/class-wp-debug-data.php:508
 msgid "Imagick version"
-msgstr ""
+msgstr "Imagick 版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:514
 msgid "File upload settings"
-msgstr ""
+msgstr "文件上传设置"
 
 #. translators: %s: ini_get()
 #: wp-admin/includes/class-wp-debug-data.php:517
 #: wp-admin/includes/class-wp-debug-data.php:709
 msgid "Unable to determine some settings, as the %s function has been disabled."
-msgstr ""
+msgstr "无法确定某些设置，因为 %s 函数已被禁用。"
 
 #: wp-admin/includes/class-wp-debug-data.php:531
 #: wp-admin/includes/class-wp-site-health.php:2534
 msgid "File uploads"
-msgstr ""
+msgstr "文件上传"
 
 #: wp-admin/includes/class-wp-debug-data.php:536
 msgid "Max size of post data allowed"
-msgstr ""
+msgstr "最大允许的 POST 数据包大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:540
 msgid "Max size of an uploaded file"
-msgstr ""
+msgstr "最大上传文件大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:544
 msgid "Max effective file size"
-msgstr ""
+msgstr "最大有效文件大小"
 
 #: wp-admin/includes/class-wp-debug-data.php:548
 msgid "Max number of files allowed"
-msgstr ""
+msgstr "允许的最大文件数"
 
 #: wp-admin/includes/class-wp-debug-data.php:576
 msgid "Imagick Resource Limits"
-msgstr ""
+msgstr "Imagick 资源限制"
 
 #: wp-admin/includes/class-wp-debug-data.php:588
 msgid "ImageMagick supported file formats"
-msgstr ""
+msgstr "ImageMagick 支持的文件格式"
 
 #: wp-admin/includes/class-wp-debug-data.php:589
 msgid "Unable to determine"
-msgstr ""
+msgstr "无法确定"
 
 #: wp-admin/includes/class-wp-debug-data.php:602
 msgid "GD version"
-msgstr ""
+msgstr "GD 版本"
 
 #: wp-admin/includes/class-wp-debug-data.php:629
 msgid "GD supported file formats"
