@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-19 17:01\n"
+"PO-Revision-Date: 2024-07-22 04:30\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -6714,71 +6714,71 @@ msgstr "主页（无父页面）"
 #: wp-admin/includes/media.php:2516
 #: wp-admin/includes/meta-boxes.php:1097
 msgid "Order"
-msgstr ""
+msgstr "排序"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1823
 #: wp-admin/includes/meta-boxes.php:1065
 msgid "Template"
-msgstr ""
+msgstr "模板"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1830
 #: wp-admin/includes/meta-boxes.php:1090
 msgid "Default template"
-msgstr ""
+msgstr "默认模板"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1884
 #: wp-admin/includes/class-wp-posts-list-table.php:1897
 msgid "Allow"
-msgstr ""
+msgstr "允许"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1885
 #: wp-admin/includes/class-wp-posts-list-table.php:1898
 msgid "Do not allow"
-msgstr ""
+msgstr "不允许"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1914
 msgid "Allow Comments"
-msgstr ""
+msgstr "允许评论"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1923
 msgid "Allow Pings"
-msgstr ""
+msgstr "允许引用"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1961
 #: wp-admin/includes/class-wp-posts-list-table.php:1964
 msgid "Sticky"
-msgstr ""
+msgstr "置顶"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1965
 msgid "Not Sticky"
-msgstr ""
+msgstr "正常"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1973
 msgid "Make this post sticky"
-msgstr ""
+msgstr "置顶此文章"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1986
 #: wp-admin/includes/meta-boxes.php:1628
 msgctxt "post format"
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:60
 msgid "Download personal data"
-msgstr ""
+msgstr "下载个人数据"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:61
 msgid "Downloading data..."
-msgstr ""
+msgstr "正在下载数据..."
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:62
 msgid "Download personal data again"
-msgstr ""
+msgstr "再次下载个人数据"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:63
 #: wp-admin/includes/class-wp-upgrader.php:160
 msgid "Download failed."
-msgstr ""
+msgstr "下载失败。"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:63
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:136
@@ -6787,83 +6787,83 @@ msgstr ""
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:142
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:149
 msgid "Retry"
-msgstr ""
+msgstr "重试"
 
 #. translators: %s: Request email.
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:88
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:94
 msgid "Mark export request for &#8220;%s&#8221; as completed."
-msgstr ""
+msgstr "标记「%s」的导出请求已完成。"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:92
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:98
 msgid "Complete request"
-msgstr ""
+msgstr "完成请求"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:116
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:122
 msgid "Waiting for confirmation"
-msgstr ""
+msgstr "等待确认"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:133
 msgid "Send export link"
-msgstr ""
+msgstr "发送导出链接"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:134
 msgid "Sending email..."
-msgstr ""
+msgstr "正在发送电子邮件..."
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:135
 msgid "Email sent."
-msgstr ""
+msgstr "电子邮件已发送。"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:136
 msgid "Email could not be sent."
-msgstr ""
+msgstr "无法发送电子邮件。"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:156
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:163
 msgid "Remove request"
-msgstr ""
+msgstr "移除请求"
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:65
 msgid "Force erase personal data"
-msgstr ""
+msgstr "强制抹除个人数据"
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:66
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:140
 msgid "Erasing data..."
-msgstr ""
+msgstr "正在抹除数据..."
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:67
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:141
 msgid "Erasure completed."
-msgstr ""
+msgstr "抹除成功。"
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:68
 msgid "Force erasure has failed."
-msgstr ""
+msgstr "强制抹除失败。"
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:139
 msgid "Erase personal data"
-msgstr ""
+msgstr "抹除个人数据"
 
 #: wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php:142
 msgid "Data erasure has failed."
-msgstr ""
+msgstr "数据抹除失败。"
 
 #. translators: %s: Privacy Policy Guide URL.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:147
 msgid "The suggested privacy policy text has changed. Please <a href=\"%s\">review the guide</a> and update your privacy policy."
-msgstr ""
+msgstr "建议的隐私政策文本已更改。请<a href=\"%s\">重新检查建议文本</a>并相应的更新您的隐私政策。"
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:335
 msgid "Need help putting together your new Privacy Policy page? Check out our guide for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr ""
+msgstr "创建您的隐私政策页面时遇到困难？请查看我们的隐私政策指南来了解应当包含的内容，以及您主题和插件所建议的内容。"
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:337
 msgid "View Privacy Policy Guide."
-msgstr ""
+msgstr "查看隐私政策指南。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:349
@@ -6883,65 +6883,65 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:842
 msgid "(opens in a new tab)"
-msgstr ""
+msgstr "（在新标签页中打开）"
 
 #. translators: %s: Date of plugin deactivation.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:377
 msgid "Removed %s."
-msgstr ""
+msgstr "移除于 %s。"
 
 #. translators: %s: Date of plugin deactivation.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:380
 msgid "You deactivated this plugin on %s and may no longer need this policy."
-msgstr ""
+msgstr "您在 %s 上停用了此插件，并可能不再需要此政策。"
 
 #. translators: %s: Date of privacy policy text update.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:386
 msgid "Updated %s."
-msgstr ""
+msgstr "更新于 %s。"
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:411
 msgid "Copy suggested policy text to clipboard"
-msgstr ""
+msgstr "将建议的隐私政策文本复制到剪贴板"
 
 #. translators: Hidden accessibility text. %s: Plugin name.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:415
 msgid "Copy suggested policy text from %s."
-msgstr ""
+msgstr "将 %s 建议的隐私政策文本复制到剪贴板."
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:437
 msgid "Suggested text:"
-msgstr ""
+msgstr "建议文本："
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:447
 msgid "Who we are"
-msgstr ""
+msgstr "我们是谁"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:451
 msgid "In this section you should note your site URL, as well as the name of the company, organization, or individual behind it, and some accurate contact information."
-msgstr ""
+msgstr "在本节中，您应该指出您的站点 URL 以及公司名称，组织或其背后的个人，以及一些准确的联系信息。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:453
 msgid "The amount of information you may be required to show will vary depending on your local or national business regulations. You may, for example, be required to display a physical address, a registered address, or your company registration number."
-msgstr ""
+msgstr "您需要包含的信息数量可能会根据您所在区域的相关政策而有所不同。例如，您可能被要求提供实际地址，注册地址，或者您的公司注册码。"
 
 #. translators: Default privacy policy text. %s: Site URL.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:456
 msgid "Our website address is: %s."
-msgstr ""
+msgstr "我们的站点地址是：%s"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:461
 msgid "What personal data we collect and why we collect it"
-msgstr ""
+msgstr "我们收集什么个人数据以及我们收集这些数据的原因"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:463
 msgid "In this section you should note what personal data you collect from users and site visitors. This may include personal data, such as name, email address, personal account preferences; transactional data, such as purchase information; and technical data, such as information about cookies."
-msgstr ""
+msgstr "在本节中，您应该说明您从用户和站点访问者那里收集的个人数据。这可能包括个人资料，如姓名、电子邮件地址、个人账户首选项；交易数据，例如购买信息；以及技术数据，例如关于 Cookies 的信息。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:465
