@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 04:30\n"
+"PO-Revision-Date: 2024-07-22 16:31\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -6946,22 +6946,22 @@ msgstr "在本节中，您应该说明您从用户和站点访问者那里收集
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:465
 msgid "You should also note any collection and retention of sensitive personal data, such as data concerning health."
-msgstr ""
+msgstr "您还应该说明对任何敏感的个人资料的收集和保存，例如有关健康的资料。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:467
 msgid "In addition to listing what personal data you collect, you need to note why you collect it. These explanations must note either the legal basis for your data collection and retention or the active consent the user has given."
-msgstr ""
+msgstr "除了列出您所收集的个人数据外，您还需要指出您为什么要收集它。这些解释必须说明收集和保存数据的法律依据或用户给予的明确同意。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:469
 msgid "Personal data is not just created by a user&#8217;s interactions with your site. Personal data is also generated from technical processes such as contact forms, comments, cookies, analytics, and third party embeds."
-msgstr ""
+msgstr "个人数据不仅仅是由用户与您的站点的交互创建的。个人数据也是通过诸如联系表单、评论、Cookies、分析和第三方嵌入等技术过程产生的。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:471
 msgid "By default ClassicPress does not collect any personal data about visitors, and only collects the data shown on the User Profile screen from registered users. However some of your plugins may collect personal data. You should add the relevant information below."
-msgstr ""
+msgstr "默认情况下，ClassicPress 不会保存任何有关访客的个人信息，并只会收集注册用户填写在「个人资料」页面中的信息。但是，您的某些插件可能会收集个人信息。您应当在下方添加相关的信息。"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:479
@@ -7698,229 +7698,229 @@ msgstr "必须和推荐的模块已安装"
 
 #: wp-admin/includes/class-wp-site-health.php:833
 msgid "PHP modules perform most of the tasks on the server that make your site run. Any changes to these must be made by your server administrator."
-msgstr ""
+msgstr "PHP 模块执行使您的网站运行的服务器上的大部分任务。对这些做出更改必须由您的服务器管理员进行。"
 
 #. translators: 1: Link to the hosting group page about recommended PHP modules. 2: Additional link attributes. 3: Accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:836
 msgid "ClassicPress maintains a list of those modules, both recommended and required, in <a href=\"%1$s\" %2$s>the server requirements%3$s</a>."
-msgstr ""
+msgstr "ClassicPress 维护着一份模块列表，包括推荐的和必需的。这些列表可在<a href=\"%1$s\" %2$s>系统要求%3$s</a>中找到。"
 
 #. translators: Localized team handbook, if one exists.
 #: wp-admin/includes/class-wp-site-health.php:838
 msgid "https://make.wordpress.org/hosting/handbook/handbook/server-environment/#php-extensions"
-msgstr ""
+msgstr "https://make.wordpress.org/hosting/handbook/handbook/server-environment/#php-extensions"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:1002
 #: wp-admin/includes/class-wp-site-health.php:1389
 #: wp-admin/includes/class-wp-site-health.php:1801
 msgid "Error"
-msgstr ""
+msgstr "错误"
 
 #. translators: %s: The module name.
 #: wp-admin/includes/class-wp-site-health.php:1005
 msgid "The required module, %s, is not installed, or has been disabled."
-msgstr ""
+msgstr "一个必需模块，即 %s，可能没有被安装，或是已被禁用。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:1011
 #: wp-admin/includes/class-wp-site-health.php:1810
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 #. translators: %s: The module name.
 #: wp-admin/includes/class-wp-site-health.php:1014
 msgid "The optional module, %s, is not installed, or has been disabled."
-msgstr ""
+msgstr "一个可选模块，即 %s，可能没有被安装，或是已被禁用。"
 
 #: wp-admin/includes/class-wp-site-health.php:1042
 msgid "One or more recommended modules are missing"
-msgstr ""
+msgstr "缺少一个或多个推荐的模块"
 
 #: wp-admin/includes/class-wp-site-health.php:1045
 msgid "One or more required modules are missing"
-msgstr ""
+msgstr "缺少一个或多个必需的模块"
 
 #: wp-admin/includes/class-wp-site-health.php:1063
 msgid "PHP default timezone is valid"
-msgstr ""
+msgstr "PHP 默认时区有效"
 
 #: wp-admin/includes/class-wp-site-health.php:1071
 msgid "PHP default timezone was configured by ClassicPress on loading. This is necessary for correct calculations of dates and times."
-msgstr ""
+msgstr "PHP 默认时区是由 ClassicPress 在加载时配置的。这是正确计算日期和时间所必需的。"
 
 #: wp-admin/includes/class-wp-site-health.php:1080
 msgid "PHP default timezone is invalid"
-msgstr ""
+msgstr "PHP 默认时区无效"
 
 #. translators: %s: date_default_timezone_set()
 #: wp-admin/includes/class-wp-site-health.php:1086
 msgid "PHP default timezone was changed after ClassicPress loading by a %s function call. This interferes with correct calculations of dates and times."
-msgstr ""
+msgstr "PHP 默认时区在 ClassicPress 加载后被函数 %s 修改了。这将会影响日期和时间的正确计算。"
 
 #: wp-admin/includes/class-wp-site-health.php:1104
 msgid "No PHP sessions detected"
-msgstr ""
+msgstr "未检测到 PHP 会话"
 
 #. translators: 1: session_start(), 2: session_write_close()
 #: wp-admin/includes/class-wp-site-health.php:1114
 msgid "PHP sessions created by a %1$s function call may interfere with REST API and loopback requests. An active session should be closed by %2$s before making any HTTP requests."
-msgstr ""
+msgstr "由 %1$s 函数调用创建的 PHP 会话可能会干扰 REST API 和环回请求。在作出任何 HTTP 请求之前，活动会话应由 %2$s 关闭。"
 
 #: wp-admin/includes/class-wp-site-health.php:1125
 msgid "An active PHP session was detected"
-msgstr ""
+msgstr "检测到活跃的 PHP 会话"
 
 #. translators: 1: session_start(), 2: session_write_close()
 #: wp-admin/includes/class-wp-site-health.php:1131
 msgid "A PHP session was created by a %1$s function call. This interferes with REST API and loopback requests. The session should be closed by %2$s before making any HTTP requests."
-msgstr ""
+msgstr "%1$s 函数创建了一个 PHP 会话。这可能会干扰 REST API 和环回请求。此会话应当先由 %2$s 关闭，然后才能进行 HTTP 请求。"
 
 #: wp-admin/includes/class-wp-site-health.php:1154
 msgid "SQL server is up to date"
-msgstr ""
+msgstr "SQL 服务器已是最新"
 
 #: wp-admin/includes/class-wp-site-health.php:1162
 msgid "The SQL server is a required piece of software for the database ClassicPress uses to store all your site&#8217;s content and settings."
-msgstr ""
+msgstr "SQL 服务器是 ClassicPress 所需的用于数据库的软件，用于存储您站点的所有内容和设置。"
 
 #. translators: Localized version of ClassicPress requirements if one exists.
 #: wp-admin/includes/class-wp-site-health.php:1167
 msgid "https://wordpress.org/about/requirements/"
-msgstr ""
+msgstr "https://wordpress.org/about/requirements/"
 
 #: wp-admin/includes/class-wp-site-health.php:1168
 msgid "Learn more about what ClassicPress requires to run."
-msgstr ""
+msgstr "了解关于 ClassicPress 运行要求的更多信息。"
 
 #: wp-admin/includes/class-wp-site-health.php:1180
 msgid "Outdated SQL server"
-msgstr ""
+msgstr "陈旧的 SQL 服务器"
 
 #. translators: 1: The database engine in use (MySQL or MariaDB). 2: Database server recommended version number.
 #: wp-admin/includes/class-wp-site-health.php:1186
 msgid "For optimal performance and security reasons, you should consider running %1$s version %2$s or higher. Contact your web hosting company to correct this."
-msgstr ""
+msgstr "出于最佳性能和安全考虑，您应该考虑运行 %1$s 版本 %2$s 或更高版本。请联系您的主机提供商来纠正这个问题。"
 
 #: wp-admin/includes/class-wp-site-health.php:1196
 msgid "Severely outdated SQL server"
-msgstr ""
+msgstr "严重过时的 SQL 服务器"
 
 #. translators: 1: The database engine in use (MySQL or MariaDB). 2: Database server minimum version number.
 #: wp-admin/includes/class-wp-site-health.php:1203
 msgid "ClassicPress requires %1$s version %2$s or higher. Contact your web hosting company to correct this."
-msgstr ""
+msgstr "ClassPress 需要 %1$s 版本 %2$s 或更高版本。请联系您的主机提供商纠正这个问题。"
 
 #. translators: 1: The name of the drop-in. 2: The name of the database engine.
 #: wp-admin/includes/class-wp-site-health.php:1216
 msgid "You are using a %1$s drop-in which might mean that a %2$s database is not being used."
-msgstr ""
+msgstr "您正在使用一个 %1$s Drop-in，这可能意味着并没有使用 %2$s 数据库。"
 
 #: wp-admin/includes/class-wp-site-health.php:1247
 msgid "UTF8MB4 is supported"
-msgstr ""
+msgstr "支持 UTF8MB4"
 
 #: wp-admin/includes/class-wp-site-health.php:1255
 msgid "UTF8MB4 is the character set ClassicPress prefers for database storage because it safely supports the widest set of characters and encodings, including Emoji, enabling better support for non-English languages."
-msgstr ""
+msgstr "UTF8MB4 是 ClassicPress 希望用于数据库中的字符集。此字符集可安全支持各类字符，包括表情符号，以用于对非英语语言提供更好的支持。"
 
 #: wp-admin/includes/class-wp-site-health.php:1265
 msgid "utf8mb4 requires a MySQL update"
-msgstr ""
+msgstr "UTF8MB4 需要 MySQL 更新"
 
 #. translators: %s: Version number.
 #: wp-admin/includes/class-wp-site-health.php:1271
 msgid "ClassicPress&#8217; utf8mb4 support requires MySQL version %s or greater. Please contact your server administrator."
-msgstr ""
+msgstr "ClassicPress &#8217; 上的 UTF8MB4 支持需要 MySQL 版本 %s 或更高版本。请联系您的服务器管理员。"
 
 #: wp-admin/includes/class-wp-site-health.php:1278
 msgid "Your MySQL version supports utf8mb4."
-msgstr ""
+msgstr "您的 MySQL 版本支持 UTF8MB4。"
 
 #: wp-admin/includes/class-wp-site-health.php:1285
 msgid "utf8mb4 requires a MariaDB update"
-msgstr ""
+msgstr "UTF8MB4 需要 MariaDB 更新"
 
 #. translators: %s: Version number.
 #: wp-admin/includes/class-wp-site-health.php:1291
 msgid "ClassicPress&#8217; utf8mb4 support requires MariaDB version %s or greater. Please contact your server administrator."
-msgstr ""
+msgstr "ClassicPress &#8217; 上的 UTF8MB4 支持需要 MariaDB 版本 %s 或更高版本。请联系您的服务器管理员。"
 
 #: wp-admin/includes/class-wp-site-health.php:1298
 msgid "Your MariaDB version supports utf8mb4."
-msgstr ""
+msgstr "您的 MariaDB 版本支持 UTF8MB4。"
 
 #: wp-admin/includes/class-wp-site-health.php:1315
 #: wp-admin/includes/class-wp-site-health.php:1331
 msgid "utf8mb4 requires a newer client library"
-msgstr ""
+msgstr "UTF8MB4 需要客户端运行库更新"
 
 #. translators: 1: Name of the library, 2: Number of version.
 #: wp-admin/includes/class-wp-site-health.php:1321
 #: wp-admin/includes/class-wp-site-health.php:1337
 msgid "ClassicPress&#8217; utf8mb4 support requires MySQL client library (%1$s) version %2$s or newer. Please contact your server administrator."
-msgstr ""
+msgstr "ClassicPress &#8217; 上的 UTF8MB4 支持需要 MySQL 客户端（%1$s）版本 %2$s 或更高版本。请联系您的服务器管理员。"
 
 #: wp-admin/includes/class-wp-site-health.php:1357
 msgid "Can communicate with ClassicPress.net"
-msgstr ""
+msgstr "可以与 ClassicPress.net 通信"
 
 #: wp-admin/includes/class-wp-site-health.php:1365
 msgid "Communicating with the ClassicPress servers is used to check for new versions, and to both install and update ClassicPress core, themes or plugins."
-msgstr ""
+msgstr "和 ClassicPress 服务器间的通信可用于检查更新，以及安装、升级 ClassicPress 核心、主题、或插件。"
 
 #: wp-admin/includes/class-wp-site-health.php:1382
 msgid "Could not reach ClassicPress.net"
-msgstr ""
+msgstr "无法与 ClassicPress.net 通信"
 
 #. translators: 1: The IP address WordPress.org resolves to. 2: The error returned by the lookup.
 #: wp-admin/includes/class-wp-site-health.php:1392
 msgid "Your site is unable to reach ClassicPress.net at %1$s, and returned the error: %2$s"
-msgstr ""
+msgstr "您的站点无法与 ClassicPress.net（%1$s）建立连接，并且返回了如下错误：%2$s"
 
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:1402
 msgid "https://wordpress.org/support"
-msgstr ""
+msgstr "https://wordpress.org/support"
 
 #: wp-admin/includes/class-wp-site-health.php:1403
 msgid "Get help resolving this issue."
-msgstr ""
+msgstr "获得解决此问题的帮助。"
 
 #: wp-admin/includes/class-wp-site-health.php:1427
 msgid "Your site is not set to output debug information"
-msgstr ""
+msgstr "您的站点没有设置为输出调试信息"
 
 #: wp-admin/includes/class-wp-site-health.php:1435
 msgid "Debug mode is often enabled to gather more details about an error or site failure, but may contain sensitive information which should not be available on a publicly available website."
-msgstr ""
+msgstr "调试模式常常被启用来收集更多关于站点错误的详细信息， 但可能含有不应在公开网站上可访问的敏感信息。"
 
 #. translators: Documentation explaining debugging in WordPress.
 #: wp-admin/includes/class-wp-site-health.php:1440
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 
 #: wp-admin/includes/class-wp-site-health.php:1441
 msgid "Learn more about debugging in ClassicPress."
-msgstr ""
+msgstr "了解更多关于在 ClassicPress 中调试的信息。"
 
 #: wp-admin/includes/class-wp-site-health.php:1450
 msgid "Your site is set to log errors to a potentially public file"
-msgstr ""
+msgstr "您的站点被设置为将错误记录到可能允许公开访问的文件"
 
 #. translators: %s: WP_DEBUG_LOG
 #: wp-admin/includes/class-wp-site-health.php:1458
 msgid "The value, %s, has been added to this website&#8217;s configuration file. This means any errors on the site will be written to a file which is potentially available to all users."
-msgstr ""
+msgstr "该值（%s）已被添加至站点的配置文件。这意味着任何此站点上发生的错误都有可能被写入一个可能允许公开访问的文件。"
 
 #: wp-admin/includes/class-wp-site-health.php:1465
 msgid "Your site is set to display errors to site visitors"
-msgstr ""
+msgstr "您的站点设置为向站点访问者显示错误"
 
 #. translators: 1: WP_DEBUG_DISPLAY, 2: WP_DEBUG
 #: wp-admin/includes/class-wp-site-health.php:1478
 msgid "The value, %1$s, has either been enabled by %2$s or added to your configuration file. This will make errors display on the front end of your site."
-msgstr ""
+msgstr "该值（%1$s）可能已被 %2$s 启用，或是已被添加至您站点的配置文件；这将会使站点上的错误在您站点的前端展示。"
 
 #: wp-admin/includes/class-wp-site-health.php:1508
 msgid "Your website is using an active HTTPS connection"
@@ -8143,216 +8143,216 @@ msgstr ""
 #. translators: %s: The name of the query parameter being tested.
 #: wp-admin/includes/class-wp-site-health.php:2088
 msgid "The REST API did not process the %s query parameter correctly."
-msgstr ""
+msgstr "REST API 未正确处理 %s 查询参数。"
 
 #: wp-admin/includes/class-wp-site-health.php:2107
 msgid "Files can be uploaded"
-msgstr ""
+msgstr "文件可以上传"
 
 #. translators: 1: file_uploads, 2: php.ini
 #: wp-admin/includes/class-wp-site-health.php:2117
 msgid "The %1$s directive in %2$s determines if uploading files is allowed on your site."
-msgstr ""
+msgstr "%2$s 中的 %1$s 指令决定是否允许在您的站点上上传文件。"
 
 #. translators: %s: ini_get()
 #: wp-admin/includes/class-wp-site-health.php:2130
 msgid "The %s function has been disabled, some media settings are unavailable because of this."
-msgstr ""
+msgstr "%s 功能已被禁用，一些媒体设置因此不可用。"
 
 #. translators: 1: file_uploads, 2: 0
 #: wp-admin/includes/class-wp-site-health.php:2142
 msgid "%1$s is set to %2$s. You won't be able to upload files on your site."
-msgstr ""
+msgstr "%1$s 被设置为 %2$s。您将无法在您站点上上传文件。"
 
 #. translators: 1: post_max_size, 2: upload_max_filesize
 #: wp-admin/includes/class-wp-site-health.php:2156
 msgid "The \"%1$s\" value is smaller than \"%2$s\""
-msgstr ""
+msgstr "「%1$s」值小于「%2$s」"
 
 #. translators: 1: post_max_size, 2: upload_max_filesize
 #: wp-admin/includes/class-wp-site-health.php:2167
 msgid "The setting for %1$s is currently configured as 0, this could cause some problems when trying to upload files through plugin or theme features that rely on various upload methods. It is recommended to configure this setting to a fixed value, ideally matching the value of %2$s, as some upload methods read the value 0 as either unlimited, or disabled."
-msgstr ""
+msgstr "%1$s 目前被设置为 0，这有可能会造成依赖于各类上传功能的插件或主题发生错误。我们建议您将该值设置为某个固定的值，最好和 %2$s 的值相同；这是因为某些上传功能会将值 0 理解为上传不受限制，或是不允许上传。"
 
 #. translators: 1: post_max_size, 2: upload_max_filesize
 #: wp-admin/includes/class-wp-site-health.php:2177
 msgid "The setting for %1$s is smaller than %2$s, this could cause some problems when trying to upload files."
-msgstr ""
+msgstr "%1$s 的设置小于 %2$s，这可能会在尝试上传文件时造成一些问题。"
 
 #: wp-admin/includes/class-wp-site-health.php:2199
 msgid "The Authorization header is working as expected"
-msgstr ""
+msgstr "授权表头按预期工作"
 
 #: wp-admin/includes/class-wp-site-health.php:2207
 msgid "The Authorization header is used by third-party applications you have approved for this site. Without this header, those apps cannot connect to your site."
-msgstr ""
+msgstr "此站点的第三方应用程序使用授权标头。没有此标头，这些应用将无法连接到您的站点。"
 
 #: wp-admin/includes/class-wp-site-health.php:2214
 msgid "The authorization header is missing"
-msgstr ""
+msgstr "缺少授权标头"
 
 #: wp-admin/includes/class-wp-site-health.php:2216
 msgid "The authorization header is invalid"
-msgstr ""
+msgstr "授权标头无效"
 
 #: wp-admin/includes/class-wp-site-health.php:2224
 msgid "If you are still seeing this warning after having tried the actions below, you may need to contact your hosting provider for further assistance."
-msgstr ""
+msgstr "如果您在尝试下面的操作后仍然看到此警告，您可能需要联系您的主机提供商以获得进一步协助。"
 
 #: wp-admin/includes/class-wp-site-health.php:2235
 msgid "Flush permalinks"
-msgstr ""
+msgstr "刷新永久链接"
 
 #: wp-admin/includes/class-wp-site-health.php:2240
 msgid "https://developer.wordpress.org/rest-api/frequently-asked-questions/#why-is-authentication-not-working"
-msgstr ""
+msgstr "https://developer.wordpress.org/rest-api/frequently-asked-questions/#why-is-authentication-not-working"
 
 #: wp-admin/includes/class-wp-site-health.php:2241
 msgid "Learn how to configure the Authorization header."
-msgstr ""
+msgstr "学习如何配置授权标头。"
 
 #: wp-admin/includes/class-wp-site-health.php:2258
 msgid "Page cache enhances the speed and performance of your site by saving and serving static pages instead of calling for a page every time a user visits."
-msgstr ""
+msgstr "页面缓存保存并显示静态页面，而无需每次用户访问时调用一个页面，从而提高网站的速度和性能。"
 
 #: wp-admin/includes/class-wp-site-health.php:2259
 msgid "Page cache is detected by looking for an active page cache plugin as well as making three requests to the homepage and looking for one or more of the following HTTP client caching response headers:"
-msgstr ""
+msgstr "页面缓存是通过寻找活跃的缓存插件以及向首页进行 HTTP 请求来实现的。在向首页进行请求时，将会检查如下的 HTTP 客户端缓存标头："
 
 #: wp-admin/includes/class-wp-site-health.php:2273
 msgid "https://wordpress.org/documentation/article/optimization/#Caching"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/optimization/#Caching"
 
 #: wp-admin/includes/class-wp-site-health.php:2274
 msgid "Learn more about page cache"
-msgstr ""
+msgstr "了解更多关于页面缓存的信息"
 
 #: wp-admin/includes/class-wp-site-health.php:2283
 msgid "Unable to detect the presence of page cache"
-msgstr ""
+msgstr "无法检测到页面缓存"
 
 #. translators: 1: Error message, 2: Error code.
 #: wp-admin/includes/class-wp-site-health.php:2287
 msgid "Unable to detect page cache due to possible loopback request problem. Please verify that the loopback request test is passing. Error: %1$s (Code: %2$s)"
-msgstr ""
+msgstr "由于可能出现的环回请求问题，无法检测到页面缓存。请检查环回请求是否正常工作。错误：%1$s（状态码：%2$s）"
 
 #: wp-admin/includes/class-wp-site-health.php:2299
 msgid "Page cache is not detected but the server response time is OK"
-msgstr ""
+msgstr "未检测到页面缓存，但服务器响应时间正常"
 
 #: wp-admin/includes/class-wp-site-health.php:2302
 msgid "Page cache is detected and the server response time is good"
-msgstr ""
+msgstr "检测到页面缓存，且服务器响应时间良好"
 
 #: wp-admin/includes/class-wp-site-health.php:2306
 msgid "Page cache is not detected and the server response time is slow"
-msgstr ""
+msgstr "未检测到页面缓存，且服务器响应时间缓慢"
 
 #: wp-admin/includes/class-wp-site-health.php:2308
 msgid "Page cache is detected but the server response time is still slow"
-msgstr ""
+msgstr "检测到页面缓存，但服务器响应时间缓慢"
 
 #: wp-admin/includes/class-wp-site-health.php:2315
 msgid "Server response time could not be determined. Verify that loopback requests are working."
-msgstr ""
+msgstr "无法确定服务器响应时间。请检查环回请求是否正常。"
 
 #. translators: 1: The response time in milliseconds, 2: The recommended threshold in milliseconds.
 #: wp-admin/includes/class-wp-site-health.php:2322
 msgid "Median server response time was %1$s milliseconds. This is less than the recommended %2$s milliseconds threshold."
-msgstr ""
+msgstr "服务器响应时间的中位数是 %1$s 毫秒。该值低于推荐的 %2$s 毫秒阈值。"
 
 #. translators: 1: The response time in milliseconds, 2: The recommended threshold in milliseconds.
 #: wp-admin/includes/class-wp-site-health.php:2329
 msgid "Median server response time was %1$s milliseconds. It should be less than the recommended %2$s milliseconds threshold."
-msgstr ""
+msgstr "服务器响应时间的中位数是 %1$s 毫秒。该值应当低于推荐的 %2$s 毫秒阈值。"
 
 #: wp-admin/includes/class-wp-site-health.php:2336
 msgid "No client caching response headers were detected."
-msgstr ""
+msgstr "没有检测到客户端缓存响应标头。"
 
 #. translators: %d: Number of caching headers.
 #: wp-admin/includes/class-wp-site-health.php:2341
 msgid "There was %d client caching response header detected:"
 msgid_plural "There were %d client caching response headers detected:"
-msgstr[0] ""
+msgstr[0] "检测到 %d 个客户端缓存响应标头："
 
 #: wp-admin/includes/class-wp-site-health.php:2354
 msgid "A page cache plugin was detected."
-msgstr ""
+msgstr "检测到一个页面缓存插件。"
 
 #: wp-admin/includes/class-wp-site-health.php:2357
 msgid "A page cache plugin was not detected."
-msgstr ""
+msgstr "未检测到页面缓存插件。"
 
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:2382
 msgid "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
 
 #: wp-admin/includes/class-wp-site-health.php:2392
 msgid "A persistent object cache is being used"
-msgstr ""
+msgstr "正在使用持久对象缓存"
 
 #: wp-admin/includes/class-wp-site-health.php:2395
 msgid "A persistent object cache makes your site&#8217;s database more efficient, resulting in faster load times because ClassicPress can retrieve your site&#8217;s content and settings much more quickly."
-msgstr ""
+msgstr "持久对象缓存可以使您的数据库工作更加迅速，这样 ClassicPress 就可以更快的获取您站点上的内容和设置，并提升页面加载速度。"
 
 #: wp-admin/includes/class-wp-site-health.php:2400
 msgid "Learn more about persistent object caching."
-msgstr ""
+msgstr "了解关于持久对象缓存的更多信息。"
 
 #: wp-admin/includes/class-wp-site-health.php:2411
 msgid "A persistent object cache is not required"
-msgstr ""
+msgstr "不需要持久对象缓存"
 
 #: wp-admin/includes/class-wp-site-health.php:2418
 msgid "Your hosting provider can tell you if a persistent object cache can be enabled on your site."
-msgstr ""
+msgstr "您的托管提供商可以告诉您是否可以在您的网站上启用持久对象缓存。"
 
 #. translators: Available object caching services.
 #: wp-admin/includes/class-wp-site-health.php:2423
 msgid "Your host appears to support the following object caching services: %s."
-msgstr ""
+msgstr "您的主机似乎支持以下对象缓存服务：%s。"
 
 #: wp-admin/includes/class-wp-site-health.php:2444
 msgid "You should use a persistent object cache"
-msgstr ""
+msgstr "您应该使用一个持久对象缓存"
 
 #: wp-admin/includes/class-wp-site-health.php:2477
 msgid "ClassicPress Version"
-msgstr ""
+msgstr "ClassicPress 版本"
 
 #: wp-admin/includes/class-wp-site-health.php:2481
 msgid "Plugin Versions"
-msgstr ""
+msgstr "插件版本"
 
 #: wp-admin/includes/class-wp-site-health.php:2485
 msgid "Theme Versions"
-msgstr ""
+msgstr "主题版本"
 
 #: wp-admin/includes/class-wp-site-health.php:2489
 msgid "PHP Version"
-msgstr ""
+msgstr "PHP 版本"
 
 #: wp-admin/includes/class-wp-site-health.php:2493
 msgid "PHP Extensions"
-msgstr ""
+msgstr "PHP 扩展"
 
 #: wp-admin/includes/class-wp-site-health.php:2497
 msgid "PHP Default Timezone"
-msgstr ""
+msgstr "PHP 默认时区"
 
 #: wp-admin/includes/class-wp-site-health.php:2501
 msgid "PHP Sessions"
-msgstr ""
+msgstr "PHP 会话"
 
 #: wp-admin/includes/class-wp-site-health.php:2505
 msgid "Database Server version"
-msgstr ""
+msgstr "数据库服务器版本"
 
 #: wp-admin/includes/class-wp-site-health.php:2509
 msgid "MySQL utf8mb4 support"
-msgstr ""
+msgstr "MySQL UTF8MB4 支持"
 
 #: wp-admin/includes/class-wp-site-health.php:2513
 msgid "Secure communication"
@@ -8603,42 +8603,42 @@ msgstr ""
 #: wp-admin/includes/plugin.php:952
 #: wp-admin/includes/theme.php:66
 msgid "Filesystem error."
-msgstr ""
+msgstr "文件系统错误。"
 
 #: wp-admin/includes/class-wp-upgrader.php:153
 msgid "Unable to locate ClassicPress root directory."
-msgstr ""
+msgstr "无法定位 ClassicPress 根目录。"
 
 #: wp-admin/includes/class-wp-upgrader.php:154
 msgid "Unable to locate ClassicPress content directory (wp-content)."
-msgstr ""
+msgstr "无法定位 ClassicPress 内容目录（wp-content）。"
 
 #: wp-admin/includes/class-wp-upgrader.php:155
 #: wp-admin/includes/plugin.php:958
 msgid "Unable to locate ClassicPress plugin directory."
-msgstr ""
+msgstr "无法定位 ClassicPress 插件目录。"
 
 #: wp-admin/includes/class-wp-upgrader.php:156
 #: wp-admin/includes/theme.php:72
 msgid "Unable to locate ClassicPress theme directory."
-msgstr ""
+msgstr "无法定位 ClassicPress 主题目录。"
 
 #. translators: %s: Directory name.
 #: wp-admin/includes/class-wp-upgrader.php:158
 msgid "Unable to locate needed folder (%s)."
-msgstr ""
+msgstr "无法定位所需文件夹（%s）。"
 
 #: wp-admin/includes/class-wp-upgrader.php:161
 msgid "Installing the latest version&#8230;"
-msgstr ""
+msgstr "正在安装最新版本&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:162
 msgid "The package contains no files."
-msgstr ""
+msgstr "此软件包没有文件。"
 
 #: wp-admin/includes/class-wp-upgrader.php:163
 msgid "Destination folder already exists."
-msgstr ""
+msgstr "目标文件夹已存在。"
 
 #: wp-admin/includes/class-wp-upgrader.php:164
 #: wp-admin/includes/file.php:1716
@@ -8646,65 +8646,65 @@ msgstr ""
 #: wp-admin/includes/file.php:1931
 #: wp-admin/includes/file.php:2014
 msgid "Could not create directory."
-msgstr ""
+msgstr "无法创建目录。"
 
 #: wp-admin/includes/class-wp-upgrader.php:165
 msgid "The package could not be installed."
-msgstr ""
+msgstr "软件包无法安装。"
 
 #: wp-admin/includes/class-wp-upgrader.php:168
 #: wp-admin/includes/update-core.php:505
 msgid "Enabling Maintenance mode&#8230;"
-msgstr ""
+msgstr "正在启用维护模式&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:169
 #: wp-admin/includes/update-core.php:650
 msgid "Disabling Maintenance mode&#8230;"
-msgstr ""
+msgstr "正在停用维护模式&#8230;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:158
 #: wp-admin/includes/deprecated.php:578
 msgid "No users found."
-msgstr ""
+msgstr "未找到用户。"
 
 #. translators: %s: Number of users.
 #: wp-admin/includes/class-wp-users-list-table.php:206
 msgctxt "users"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "全部 <span class=\"count\">（%s）</span>"
 
 #. translators: 1: User role name, 2: Number of users.
 #: wp-admin/includes/class-wp-users-list-table.php:231
 #: wp-admin/includes/class-wp-users-list-table.php:249
 msgid "%1$s <span class=\"count\">(%2$s)</span>"
-msgstr ""
+msgstr "%1$s<span class=\"count\">（%2$s）</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:246
 msgid "No role"
-msgstr ""
+msgstr "无角色"
 
 #: wp-admin/includes/class-wp-users-list-table.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:525
 msgid "Send password reset"
-msgstr ""
+msgstr "发送密码重置邮件"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-users-list-table.php:309
 #: wp-admin/includes/class-wp-users-list-table.php:313
 msgid "Change role to&hellip;"
-msgstr ""
+msgstr "将角色变更为&hellip;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:315
 #: wp-admin/user-edit.php:451
 #: wp-admin/user-edit.php:453
 #: wp-admin/users.php:127
 msgid "&mdash; No role for this site &mdash;"
-msgstr ""
+msgstr "&mdash; 此站点没有角色 &mdash;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:318
 msgid "Change"
-msgstr ""
+msgstr "变更"
 
 #: wp-admin/includes/class-wp-users-list-table.php:373
 #: wp-admin/includes/file.php:2430
@@ -8714,142 +8714,142 @@ msgstr ""
 #: wp-admin/user-edit.php:432
 #: wp-admin/user-new.php:532
 msgid "Username"
-msgstr ""
+msgstr "用户名"
 
 #: wp-admin/includes/class-wp-users-list-table.php:376
 #: wp-admin/user-edit.php:438
 #: wp-admin/user-new.php:467
 #: wp-admin/user-new.php:628
 msgid "Role"
-msgstr ""
+msgstr "角色"
 
 #: wp-admin/includes/class-wp-users-list-table.php:474
 #: wp-admin/user-edit.php:463
 msgid "Super Admin"
-msgstr ""
+msgstr "超级管理员"
 
 #. translators: %s: Author's display name.
 #: wp-admin/includes/class-wp-users-list-table.php:516
 msgid "View posts by %s"
-msgstr ""
+msgstr "查看 %s 的文章"
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-admin/includes/class-wp-users-list-table.php:600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-users-list-table.php:612
 msgctxt "name"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #. translators: Hidden accessibility text. %s: Number of posts.
 #: wp-admin/includes/class-wp-users-list-table.php:630
 msgid "%s post by this author"
 msgid_plural "%s posts by this author"
-msgstr[0] ""
+msgstr[0] "此作者的 %s 篇文章"
 
 #: wp-admin/includes/class-wp-users-list-table.php:739
 msgctxt "no user roles"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: wp-admin/includes/dashboard.php:35
 msgid "You are using an insecure browser!"
-msgstr ""
+msgstr "您正在使用一个不安全的浏览器！"
 
 #: wp-admin/includes/dashboard.php:37
 msgid "Your browser is out of date!"
-msgstr ""
+msgstr "您的浏览器已经过时！"
 
 #: wp-admin/includes/dashboard.php:50
 msgid "PHP Update Required"
-msgstr ""
+msgstr "需要 PHP 更新"
 
 #: wp-admin/includes/dashboard.php:52
 msgid "PHP Update Recommended"
-msgstr ""
+msgstr "建议更新 PHP"
 
 #: wp-admin/includes/dashboard.php:68
 #: wp-admin/site-health.php:238
 msgid "Site Health Status"
-msgstr ""
+msgstr "站点健康状态"
 
 #: wp-admin/includes/dashboard.php:73
 msgid "At a Glance"
-msgstr ""
+msgstr "一目了然"
 
 #: wp-admin/includes/dashboard.php:77
 msgid "Right Now"
-msgstr ""
+msgstr "当下"
 
 #: wp-admin/includes/dashboard.php:82
 msgid "Activity"
-msgstr ""
+msgstr "活动"
 
 #: wp-admin/includes/dashboard.php:87
 msgid "Quick Draft"
-msgstr ""
+msgstr "快速草稿"
 
 #: wp-admin/includes/dashboard.php:87
 #: wp-admin/includes/dashboard.php:660
 msgid "Your Recent Drafts"
-msgstr ""
+msgstr "您最近的草稿"
 
 #: wp-admin/includes/dashboard.php:92
 msgid "ClassicPress News"
-msgstr ""
+msgstr "ClassicPress 新闻"
 
 #: wp-admin/includes/dashboard.php:99
 msgid "ClassicPress Directory"
-msgstr ""
+msgstr "ClassicPress 目录"
 
 #: wp-admin/includes/dashboard.php:156
 msgid "View all"
-msgstr ""
+msgstr "查看全部"
 
 #: wp-admin/includes/dashboard.php:218
 msgid "Configure"
-msgstr ""
+msgstr "配置"
 
 #: wp-admin/includes/dashboard.php:259
 #: wp-admin/includes/template.php:2478
 #: wp-admin/nav-menus.php:847
 #: wp-admin/options.php:417
 msgid "Save Changes"
-msgstr ""
+msgstr "保存更改"
 
 #. translators: %s: Number of posts.
 #: wp-admin/includes/dashboard.php:320
 msgid "%s Post"
 msgid_plural "%s Posts"
-msgstr[0] ""
+msgstr[0] "%s 篇文章"
 
 #. translators: %s: Number of pages.
 #: wp-admin/includes/dashboard.php:323
 msgid "%s Page"
 msgid_plural "%s Pages"
-msgstr[0] ""
+msgstr[0] "%s 份页面"
 
 #: wp-admin/includes/dashboard.php:408
 msgid "Search engines discouraged"
-msgstr ""
+msgstr "不鼓励搜索引擎爬网"
 
 #: wp-admin/includes/dashboard.php:459
 msgid "Create a New Site"
-msgstr ""
+msgstr "创建新站点"
 
 #: wp-admin/includes/dashboard.php:462
 msgid "Create a New User"
-msgstr ""
+msgstr "创建新用户"
 
 #. translators: %s: Number of users on the network.
 #: wp-admin/includes/dashboard.php:469
 msgid "%s user"
 msgid_plural "%s users"
-msgstr[0] ""
+msgstr[0] "%s 位用户"
 
 #. translators: %s: Number of sites on the network.
 #: wp-admin/includes/dashboard.php:471
