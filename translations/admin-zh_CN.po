@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-22 16:31\n"
+"PO-Revision-Date: 2024-07-23 04:30\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -7213,233 +7213,233 @@ msgstr "已请求"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:46
 msgid "Next steps"
-msgstr ""
+msgstr "下一步"
 
 #. translators: %s: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:158
 msgctxt "requests"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "全部 <span class=\"count\">（%s）</span>"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:211
 msgid "Resend confirmation requests"
-msgstr ""
+msgstr "重新发送确认请求"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:212
 msgid "Mark requests as completed"
-msgstr ""
+msgstr "标记请求为已完成"
 
 #: wp-admin/includes/class-wp-privacy-requests-table.php:213
 msgid "Delete requests"
-msgstr ""
+msgstr "删除请求"
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:254
 msgid "%d confirmation request failed to resend."
 msgid_plural "%d confirmation requests failed to resend."
-msgstr[0] ""
+msgstr[0] "%d 个确认请求无法被重新发送。"
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:271
 msgid "%d confirmation request re-sent successfully."
 msgid_plural "%d confirmation requests re-sent successfully."
-msgstr[0] ""
+msgstr[0] "%d 个确认请求重新发送成功。"
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:298
 msgid "%d request marked as complete."
 msgid_plural "%d requests marked as complete."
-msgstr[0] ""
+msgstr[0] "%d 个请求已标记为完成。"
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:324
 msgid "%d request failed to delete."
 msgid_plural "%d requests failed to delete."
-msgstr[0] ""
+msgstr[0] "%d 个请求删除失败。"
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:341
 msgid "%d request deleted successfully."
 msgid_plural "%d requests deleted successfully."
-msgstr[0] ""
+msgstr[0] "%d 个请求删除成功。"
 
 #: wp-admin/includes/class-wp-screen.php:288
 #: wp-admin/post.php:20
 msgid "A post ID mismatch has been detected."
-msgstr ""
+msgstr "检测到文章 ID 不匹配。"
 
 #: wp-admin/includes/class-wp-screen.php:738
 msgid "Filter items list"
-msgstr ""
+msgstr "筛选项目列表"
 
 #: wp-admin/includes/class-wp-screen.php:739
 msgid "Items list navigation"
-msgstr ""
+msgstr "项目列表导航"
 
 #: wp-admin/includes/class-wp-screen.php:740
 msgid "Items list"
-msgstr ""
+msgstr "项目列表"
 
 #: wp-admin/includes/class-wp-screen.php:848
 msgid "Contextual Help Tab"
-msgstr ""
+msgstr "上下文帮助选项卡"
 
 #: wp-admin/includes/class-wp-screen.php:947
 msgid "Screen Options"
-msgstr ""
+msgstr "屏幕选项"
 
 #: wp-admin/includes/class-wp-screen.php:980
 msgid "Additional settings"
-msgstr ""
+msgstr "附加设置"
 
 #: wp-admin/includes/class-wp-screen.php:984
 msgid "Enable full-height editor and distraction-free functionality."
-msgstr ""
+msgstr "启用全宽编辑器和专注写作功能。"
 
 #: wp-admin/includes/class-wp-screen.php:999
 msgctxt "Admin Post Navigation"
 msgid "Enable Previous and Next buttons"
-msgstr ""
+msgstr "启用向前和向后按钮"
 
 #: wp-admin/includes/class-wp-screen.php:1059
 msgid "Screen Options Tab"
-msgstr ""
+msgstr "屏幕选项选项卡"
 
 #: wp-admin/includes/class-wp-screen.php:1111
 msgid "Screen elements"
-msgstr ""
+msgstr "界面元素"
 
 #: wp-admin/includes/class-wp-screen.php:1113
 msgid "Some screen elements can be shown or hidden by using the checkboxes."
-msgstr ""
+msgstr "使用复选框可以显示或隐藏某些界面上的元素。"
 
 #: wp-admin/includes/class-wp-screen.php:1114
 msgid "Expand or collapse the elements by clicking on their headings, and arrange them by dragging their headings or by clicking on the up and down arrows."
-msgstr ""
+msgstr "点击元素的标题展开或折叠， 并通过拖动标题或点击上下箭头来排序它们。"
 
 #: wp-admin/includes/class-wp-screen.php:1132
 msgctxt "Welcome panel"
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎"
 
 #: wp-admin/includes/class-wp-screen.php:1153
 msgid "Columns"
-msgstr ""
+msgstr "列"
 
 #: wp-admin/includes/class-wp-screen.php:1202
 #: wp-admin/includes/theme.php:334
 #: wp-admin/includes/theme.php:369
 #: wp-admin/index.php:70
 msgid "Layout"
-msgstr ""
+msgstr "布局"
 
 #. translators: %s: Number of columns on the page.
 #: wp-admin/includes/class-wp-screen.php:1209
 msgid "%s column"
 msgid_plural "%s columns"
-msgstr[0] ""
+msgstr[0] "%s 列"
 
 #: wp-admin/includes/class-wp-screen.php:1231
 msgid "Number of items per page:"
-msgstr ""
+msgstr "每页项目数："
 
 #: wp-admin/includes/class-wp-screen.php:1271
 msgid "Pagination"
-msgstr ""
+msgstr "分页"
 
 #: wp-admin/includes/class-wp-screen.php:1324
 msgid "View mode"
-msgstr ""
+msgstr "视图"
 
 #. translators: 1: Name of the constant used. 2: Value of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:78
 msgid "The %1$s constant is defined as %2$s"
-msgstr ""
+msgstr "%1$s 常量被定义为 %2$s"
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:101
 msgid "A plugin has prevented updates by disabling %s."
-msgstr ""
+msgstr "一个插件已通过禁用 %s 阻止了更新。"
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:122
 msgid "The %s filter is enabled."
-msgstr ""
+msgstr "%s 筛选器已启用。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:149
 msgid "All automatic updates are disabled."
-msgstr ""
+msgstr "所有自动更新都已禁用。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:169
 msgid "A previous automatic background update ended with a critical failure, so updates are now disabled."
-msgstr ""
+msgstr "上一次自动更新发生了致命错误，因此自动更新现已被禁用。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:170
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:185
 msgid "You would have received an email because of this."
-msgstr ""
+msgstr "您应当已经因此而收到了一封电子邮件。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:171
 msgid "When you've been able to update using the \"Update now\" button on Dashboard > Updates, this error will be cleared for future update attempts."
-msgstr ""
+msgstr "当您使用「仪表盘」>「更新」顺利更新时，此错误将会被消除。"
 
 #. translators: %s: Code of error shown.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:174
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:191
 msgid "The error code was %s."
-msgstr ""
+msgstr "错误代码是 %s。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:183
 msgid "A previous automatic background update could not occur."
-msgstr ""
+msgstr "上一次自动更新无法进行。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:188
 msgid "Another attempt will be made with the next release."
-msgstr ""
+msgstr "在下次更新可用时时将再次尝试。"
 
 #. translators: 1: Folder name. 2: Version control directory. 3: Filter name.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:243
 msgid "The folder %1$s was detected as being under version control (%2$s), but the %3$s filter is allowing updates."
-msgstr ""
+msgstr "检测到文件夹 %1$s 受版本控制系统管理（%2$s），但 %3$s 筛选器目前允许更新。"
 
 #. translators: 1: Folder name. 2: Version control directory.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:256
 msgid "The folder %1$s was detected as being under version control (%2$s)."
-msgstr ""
+msgstr "检测到 %1$s 文件夹受版本控制系统管理（%2$s）。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:265
 msgid "No version control systems were detected."
-msgstr ""
+msgstr "未检测到任何版本控制系统。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:287
 msgid "Your installation of ClassicPress prompts for FTP credentials to perform updates."
-msgstr ""
+msgstr "您的 ClassicPress 安装使用 FTP 凭据来进行更新。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:288
 msgid "(Your site is performing updates over FTP due to file ownership. Talk to your hosting company.)"
-msgstr ""
+msgstr "（由于文件权限问题，您的站点需要通过 FTP 来进行更新。请联系您的主机提供商。）"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:297
 msgid "Your installation of ClassicPress does not require FTP credentials to perform updates."
-msgstr ""
+msgstr "您的 ClassicPress 安装无需 FTP 凭据来进行更新。"
 
 #. translators: %s: ClassicPress version.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:345
 msgid "Couldn't retrieve a list of the checksums for ClassicPress %s."
-msgstr ""
+msgstr "无法检索 ClassicPress %s 的校验码列表。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:348
 msgid "This could mean that connections are failing to WordPress.org or ClassicPress.net."
-msgstr ""
+msgstr "这可能意味着您的站点无法连接至 WordPress.org 或 ClassicPress.net。"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:374
 msgid "Some files are not writable by ClassicPress:"
-msgstr ""
+msgstr "某些文件对 ClassicPress 而言不可写："
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:379
 msgid "All of your ClassicPress files are writable."
-msgstr ""
+msgstr "您所有的 ClassicPress 文件都可写。"
 
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:403
@@ -8356,148 +8356,148 @@ msgstr "MySQL UTF8MB4 支持"
 
 #: wp-admin/includes/class-wp-site-health.php:2513
 msgid "Secure communication"
-msgstr ""
+msgstr "安全通信"
 
 #: wp-admin/includes/class-wp-site-health.php:2517
 msgid "Scheduled events"
-msgstr ""
+msgstr "预定事件"
 
 #: wp-admin/includes/class-wp-site-health.php:2521
 msgid "HTTP Requests"
-msgstr ""
+msgstr "HTTP 请求"
 
 #: wp-admin/includes/class-wp-site-health.php:2525
 msgid "REST API availability"
-msgstr ""
+msgstr "REST API 可用性"
 
 #: wp-admin/includes/class-wp-site-health.php:2530
 msgid "Debugging enabled"
-msgstr ""
+msgstr "调试已启用"
 
 #: wp-admin/includes/class-wp-site-health.php:2538
 msgid "Plugin and theme auto-updates"
-msgstr ""
+msgstr "插件和主题自动更新"
 
 #: wp-admin/includes/class-wp-site-health.php:2544
 msgid "Communication with ClassicPress.net"
-msgstr ""
+msgstr "与 ClassicPress.net 的通信"
 
 #: wp-admin/includes/class-wp-site-health.php:2550
 msgid "Background updates"
-msgstr ""
+msgstr "后台更新"
 
 #: wp-admin/includes/class-wp-site-health.php:2556
 msgid "Loopback request"
-msgstr ""
+msgstr "环回请求"
 
 #: wp-admin/includes/class-wp-site-health.php:2562
 msgid "HTTPS status"
-msgstr ""
+msgstr "HTTPS 状态"
 
 #: wp-admin/includes/class-wp-site-health.php:2573
 msgid "Authorization header"
-msgstr ""
+msgstr "授权标头"
 
 #: wp-admin/includes/class-wp-site-health.php:2584
 msgid "Page cache"
-msgstr ""
+msgstr "页面缓存"
 
 #: wp-admin/includes/class-wp-site-health.php:2591
 msgid "Persistent object cache"
-msgstr ""
+msgstr "持久对象缓存"
 
 #: wp-admin/includes/class-wp-site-health.php:2702
 msgid "No scheduled events exist on this site."
-msgstr ""
+msgstr "此站点上没有已预定的事件。"
 
 #: wp-admin/includes/class-wp-site-health.php:2837
 msgid "Auto-updates for plugins and/or themes appear to be disabled, but settings are still set to be displayed. This could cause auto-updates to not work as expected."
-msgstr ""
+msgstr "插件和/或主题的自动更新似乎已禁用，但相关设置仍然设置为显示。 这可能导致自动更新无法正常工作。"
 
 #: wp-admin/includes/class-wp-site-health.php:2846
 msgid "Auto-updates for plugins and themes appear to be disabled. This will prevent your site from receiving new versions automatically when available."
-msgstr ""
+msgstr "插件和主题的自动更新看起来已被禁用。这将阻止您的站点在更新可用时自动接收新版本。"
 
 #: wp-admin/includes/class-wp-site-health.php:2851
 msgid "Auto-updates for plugins appear to be disabled. This will prevent your site from receiving new versions automatically when available."
-msgstr ""
+msgstr "插件的自动更新看起来已被禁用。这将阻止您的站点在更新可用时自动接收新版本。"
 
 #: wp-admin/includes/class-wp-site-health.php:2856
 msgid "Auto-updates for themes appear to be disabled. This will prevent your site from receiving new versions automatically when available."
-msgstr ""
+msgstr "主题的自动更新看起来已被禁用。这将阻止您的站点在更新可用时自动接收新版本。"
 
 #: wp-admin/includes/class-wp-site-health.php:2862
 msgid "There appear to be no issues with plugin and theme auto-updates."
-msgstr ""
+msgstr "插件和主题自动更新似乎没有问题。"
 
 #: wp-admin/includes/class-wp-site-health.php:2910
 msgid "The loopback request to your site failed, this means features relying on them are not currently working as expected."
-msgstr ""
+msgstr "由于无法正常在您的站点上进行环回请求，某些依赖于此的功能可能无法正常工作。"
 
 #. translators: 1: The ClassicPress error message. 2: The ClassicPress error code.
 #: wp-admin/includes/class-wp-site-health.php:2913
 msgid "Error: %1$s (%2$s)"
-msgstr ""
+msgstr "错误：%1$s（%2$s）"
 
 #. translators: %d: The HTTP response code returned.
 #: wp-admin/includes/class-wp-site-health.php:2926
 msgid "The loopback request returned an unexpected http status code, %d, it was not possible to determine if this will prevent features from working as expected."
-msgstr ""
+msgstr "您站点上的环回请求返回了意料之外的 HTTP 响应码，即 %d，因此暂时无法确定该状态码是否会对相关功能造成影响。"
 
 #: wp-admin/includes/class-wp-site-health.php:2934
 msgid "The loopback request to your site completed successfully."
-msgstr ""
+msgstr "您站点上的环回请求可以正常工作。"
 
 #: wp-admin/includes/class-wp-site-health.php:3041
 #: wp-admin/js/site-health.js:340
 msgid "A test is unavailable"
-msgstr ""
+msgstr "一个测试项目不可用"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:198
 #: wp-admin/link-manager.php:50
 #: wp-admin/menu.php:80
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:200
 msgctxt "Number/count of items"
 msgid "Count"
-msgstr ""
+msgstr "计数"
 
 #. translators: %s: Taxonomy term name.
 #: wp-admin/includes/class-wp-terms-list-table.php:506
 msgid "Delete &#8220;%s&#8221;"
-msgstr ""
+msgstr "删除「%s」"
 
 #. translators: %s: Taxonomy term name.
 #: wp-admin/includes/class-wp-terms-list-table.php:516
 msgid "View &#8220;%s&#8221; archive"
-msgstr ""
+msgstr "查看归档「%s」"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-terms-list-table.php:565
 msgid "No description"
-msgstr ""
+msgstr "无描述"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:63
 msgctxt "themes"
 msgid "Featured"
-msgstr ""
+msgstr "精选"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:65
 #: wp-admin/theme-install.php:195
 msgctxt "themes"
 msgid "Latest"
-msgstr ""
+msgstr "最新"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:66
 msgctxt "themes"
 msgid "Recently Updated"
-msgstr ""
+msgstr "最近更新"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:175
 msgid "No themes match your request."
-msgstr ""
+msgstr "没有符合您请求的主题。"
 
 #. translators: %s: Theme version.
 #. translators: %s: ClassicPress version.
@@ -8505,48 +8505,48 @@ msgstr ""
 #: wp-admin/includes/class-wp-theme-install-list-table.php:476
 #: wp-admin/update-core.php:74
 msgid "Update to version %s"
-msgstr ""
+msgstr "升级到版本 %s"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:325
 #: wp-admin/includes/class-wp-theme-install-list-table.php:484
 msgid "This theme is already installed and is up to date"
-msgstr ""
+msgstr "此主题已经安装并且已经为最新版本"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:326
 #: wp-admin/includes/class-wp-theme-install-list-table.php:485
 #: wp-admin/theme-install.php:286
 msgctxt "theme"
 msgid "Installed"
-msgstr ""
+msgstr "已安装"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:335
 #: wp-admin/theme-install.php:398
 msgctxt "theme"
 msgid "Install %s"
-msgstr ""
+msgstr "安装 %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:345
 msgid "Preview %s"
-msgstr ""
+msgstr "预览 %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
 #: wp-admin/theme-install.php:421
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:402
 #: wp-admin/theme-install.php:71
 #: wp-admin/theme-install.php:558
 msgid "Collapse Sidebar"
-msgstr ""
+msgstr "收起侧栏"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:404
 #: wp-admin/theme-install.php:560
 msgid "Collapse"
-msgstr ""
+msgstr "收起"
 
 #. translators: %s: Plugin name.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:493
@@ -8556,48 +8556,49 @@ msgstr ""
 #: wp-admin/theme-install.php:400
 #: wp-admin/theme-install.php:452
 msgid "Install"
-msgstr ""
+msgstr "安装"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:519
 #: wp-admin/includes/class-wp-themes-list-table.php:278
 #: wp-admin/includes/plugin-install.php:685
 msgid "Version:"
-msgstr ""
+msgstr "版本："
 
 #. translators: 1: URL to Themes tab on Edit Site screen, 2: URL to Add Themes screen.
 #: wp-admin/includes/class-wp-themes-list-table.php:101
 msgid "You only have one theme enabled for this site right now. Visit the Network Admin to <a href=\"%1$s\">enable</a> or <a href=\"%2$s\">install</a> more themes."
-msgstr ""
+msgstr "此站点目前只有一个可用主题。访问「网络管理」界面来<a href=\"%1$s\">启用</a>或<a href=\"%2$s\">安装</a>更多主题。"
 
 #. translators: %s: URL to Themes tab on Edit Site screen.
 #: wp-admin/includes/class-wp-themes-list-table.php:110
 msgid "You only have one theme enabled for this site right now. Visit the Network Admin to <a href=\"%s\">enable</a> more themes."
-msgstr ""
+msgstr "此站点目前只有一个可用主题。访问「网络管理」界面以<a href=\"%s\">启用</a>更多主题。"
 
 #. translators: %s: URL to Add Themes screen.
 #: wp-admin/includes/class-wp-themes-list-table.php:121
 msgid "You only have one theme installed right now. Live a little! You can choose from over 1,000 free themes in the ClassicPress Theme Directory at any time: just click on the <a href=\"%s\">Install Themes</a> tab above."
-msgstr ""
+msgstr "您目前只安装了一个主题。不要让自己 OUT 了！您可以随时在 ClassicPress 主题目录中访问超过 1000 款免费主题：只需单击上方的<a href=\"%s\">安装主题</a>即可。"
 
 #. translators: %s: Network title.
 #: wp-admin/includes/class-wp-themes-list-table.php:131
 msgid "Only the active theme is available to you. Contact the %s administrator for information about accessing additional themes."
-msgstr ""
+msgstr "您只能使用已启用的主题。联系「%s」的管理员以获取关于如何访问更多主题的协助。"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-themes-list-table.php:231
 msgid "You are about to delete this theme '%s'\n"
 "  'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "您即将删除「%s」主题。\n"
+"按下「取消」以终止，「确认」以继续。"
 
 #. translators: 1: Link to documentation on child themes, 2: Name of parent theme.
 #: wp-admin/includes/class-wp-themes-list-table.php:284
 msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
-msgstr ""
+msgstr "此<a href=\"%1$s\">子主题</a>需要其父主题 %2$s。"
 
 #: wp-admin/includes/class-wp-upgrader.php:150
 msgid "Invalid data provided."
-msgstr ""
+msgstr "提供的数据无效。"
 
 #: wp-admin/includes/class-wp-upgrader.php:152
 #: wp-admin/includes/plugin.php:952
@@ -9094,212 +9095,212 @@ msgstr ""
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1656
 msgid "Your site is running on an outdated version of PHP (%s), which should be updated."
-msgstr ""
+msgstr "您的网站正在运行陈旧的 PHP（%s）版本，其应当被更新。"
 
 #: wp-admin/includes/dashboard.php:1663
 msgid "What is PHP and how does it affect my site?"
-msgstr ""
+msgstr "PHP 是什么，以及它如何影响我的站点？"
 
 #: wp-admin/includes/dashboard.php:1665
 msgid "PHP is one of the programming languages used to build ClassicPress. Newer versions of PHP receive regular security updates and may increase your site&#8217;s performance."
-msgstr ""
+msgstr "PHP 是构建 ClassicPress 的主要语言之一。新版本的 PHP 会获取常规安全更新，并可能增强您站点的性能。"
 
 #. translators: %s: The minimum recommended PHP version.
 #: wp-admin/includes/dashboard.php:1670
 msgid "The minimum recommended version of PHP is %s."
-msgstr ""
+msgstr "建议的 PHP 最低版本为 %s。"
 
 #: wp-admin/includes/dashboard.php:1752
 msgid "No information yet&hellip;"
-msgstr ""
+msgstr "尚无信息&hellip;"
 
 #: wp-admin/includes/dashboard.php:1754
 #: wp-admin/site-health.php:127
 msgid "Results are still loading&hellip;"
-msgstr ""
+msgstr "结果仍在加载&hellip;"
 
 #. translators: %s: URL to Site Health screen.
 #: wp-admin/includes/dashboard.php:1765
 msgid "Site health checks will automatically run periodically to gather information about your site. You can also <a href=\"%s\">visit the Site Health screen</a> to gather information about your site now."
-msgstr ""
+msgstr "站点健康检查将自动定期进行，以收集有关您站点的信息。您也可以访问<a href=\"%s\">站点健康屏幕</a>来立即收集有关您站点的信息。"
 
 #: wp-admin/includes/dashboard.php:1773
 msgid "Great job! Your site currently passes all site health checks."
-msgstr ""
+msgstr "干得好！您的站点目前通过了所有站点健康检查。"
 
 #: wp-admin/includes/dashboard.php:1775
 msgid "Your site has a critical issue that should be addressed as soon as possible to improve its performance and security."
-msgstr ""
+msgstr "您的站点有一个应当立即解决的关键问题，此问题可能会影响您站点的性能与安全性。"
 
 #: wp-admin/includes/dashboard.php:1777
 msgid "Your site has critical issues that should be addressed as soon as possible to improve its performance and security."
-msgstr ""
+msgstr "您的站点有一些应当立即解决的关键问题，以提升您站点的性能与安全性。"
 
 #: wp-admin/includes/dashboard.php:1779
 msgid "Your site&#8217;s health is looking good, but there is still one thing you can do to improve its performance and security."
-msgstr ""
+msgstr "您站点的健康状态良好，但是您还可以做一件事以进一步提升其性能与安全性。"
 
 #: wp-admin/includes/dashboard.php:1781
 msgid "Your site&#8217;s health is looking good, but there are still some things you can do to improve its performance and security."
-msgstr ""
+msgstr "您站点的健康状态良好，但是您还可以做一些事以进一步提升其性能与安全性。"
 
 #. translators: 1: Number of issues. 2: URL to Site Health screen.
 #: wp-admin/includes/dashboard.php:1791
 msgid "Take a look at the <strong>%1$d item</strong> on the <a href=\"%2$s\">Site Health screen</a>."
 msgid_plural "Take a look at the <strong>%1$d items</strong> on the <a href=\"%2$s\">Site Health screen</a>."
-msgstr[0] ""
+msgstr[0] "查看<a href=\"%2$s\">站点健康屏幕</a>上的 <strong>%1$d 个项目</strong>。"
 
 #: wp-admin/includes/dashboard.php:1828
 msgid "We would like to let you know about the ClassicPress Directory."
-msgstr ""
+msgstr "我们很想让您了解一下 ClassicPress 目录。"
 
 #: wp-admin/includes/dashboard.php:1829
 msgid "You can browse the new directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
-msgstr ""
+msgstr "您现在可以在<a href=\"%1$s\" target=\"_blank\">%1$s</a>查看这个新目录。"
 
 #: wp-admin/includes/dashboard.php:1841
 msgid "<a href=\"%1$s\">Install</a> the ClassicPress Directory Integration plugin to install plugins from the Plugins Menu."
-msgstr ""
+msgstr "您也可以通过<a href=\"%1$s\">安装</a> ClassicPress 目录集成工具插件，来从「插件」页面安装目录中的插件。"
 
 #. translators: 1: Starting number of users on the current page, 2: Ending number of users, 3: Total number of users.
 #: wp-admin/includes/deprecated.php:613
 msgid "Displaying %1$s&#8211;%2$s of %3$s"
-msgstr ""
+msgstr "正在显示 %3$s 个项目中的第 %1$s &#8211; %2$s 个项目"
 
 #: wp-admin/includes/deprecated.php:1388
 msgid "Popular Plugin"
-msgstr ""
+msgstr "广受欢迎"
 
 #. translators: %s: Plugin name.
 #: wp-admin/includes/deprecated.php:1391
 msgctxt "plugin"
 msgid "Install %s"
-msgstr ""
+msgstr "安装 %s"
 
 #: wp-admin/includes/edit-tag-messages.php:14
 msgid "Item added."
-msgstr ""
+msgstr "项目已添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:15
 msgid "Item deleted."
-msgstr ""
+msgstr "项目已删除。"
 
 #: wp-admin/includes/edit-tag-messages.php:16
 msgid "Item updated."
-msgstr ""
+msgstr "项目已更新。"
 
 #: wp-admin/includes/edit-tag-messages.php:17
 msgid "Item not added."
-msgstr ""
+msgstr "项目未添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:19
 msgid "Items deleted."
-msgstr ""
+msgstr "项目已删除。"
 
 #: wp-admin/includes/edit-tag-messages.php:24
 msgid "Category added."
-msgstr ""
+msgstr "分类已添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:25
 msgid "Category deleted."
-msgstr ""
+msgstr "分类已删除。"
 
 #: wp-admin/includes/edit-tag-messages.php:26
 msgid "Category updated."
-msgstr ""
+msgstr "分类已更新。"
 
 #: wp-admin/includes/edit-tag-messages.php:27
 msgid "Category not added."
-msgstr ""
+msgstr "分类未添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:28
 msgid "Category not updated."
-msgstr ""
+msgstr "分类未更新。"
 
 #: wp-admin/includes/edit-tag-messages.php:29
 msgid "Categories deleted."
-msgstr ""
+msgstr "分类已删除。"
 
 #: wp-admin/includes/edit-tag-messages.php:34
 msgid "Tag added."
-msgstr ""
+msgstr "标签已添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:35
 msgid "Tag deleted."
-msgstr ""
+msgstr "标签已删除。"
 
 #: wp-admin/includes/edit-tag-messages.php:36
 msgid "Tag updated."
-msgstr ""
+msgstr "标签已更新。"
 
 #: wp-admin/includes/edit-tag-messages.php:37
 msgid "Tag not added."
-msgstr ""
+msgstr "标签未添加。"
 
 #: wp-admin/includes/edit-tag-messages.php:38
 msgid "Tag not updated."
-msgstr ""
+msgstr "标签未更新。"
 
 #: wp-admin/includes/edit-tag-messages.php:39
 msgid "Tags deleted."
-msgstr ""
+msgstr "标签已删除。"
 
 #: wp-admin/includes/file.php:16
 msgid "Theme Functions"
-msgstr ""
+msgstr "主题功能"
 
 #: wp-admin/includes/file.php:17
 msgid "Theme Header"
-msgstr ""
+msgstr "主题页眉"
 
 #: wp-admin/includes/file.php:18
 msgid "Theme Footer"
-msgstr ""
+msgstr "主题页脚"
 
 #: wp-admin/includes/file.php:19
 #: wp-admin/widgets-form.php:299
 msgid "Sidebar"
-msgstr ""
+msgstr "侧栏"
 
 #: wp-admin/includes/file.php:21
 msgid "Search Form"
-msgstr ""
+msgstr "搜索表单"
 
 #: wp-admin/includes/file.php:22
 msgid "404 Template"
-msgstr ""
+msgstr "404 页面模板"
 
 #: wp-admin/includes/file.php:23
 msgid "Links Template"
-msgstr ""
+msgstr "链接模板"
 
 #: wp-admin/includes/file.php:25
 msgid "Main Index Template"
-msgstr ""
+msgstr "主索引模板"
 
 #: wp-admin/includes/file.php:26
 msgid "Archives"
-msgstr ""
+msgstr "归档"
 
 #: wp-admin/includes/file.php:27
 msgid "Author Template"
-msgstr ""
+msgstr "作者模板"
 
 #: wp-admin/includes/file.php:28
 msgid "Taxonomy Template"
-msgstr ""
+msgstr "基本分类模板"
 
 #: wp-admin/includes/file.php:29
 msgid "Category Template"
-msgstr ""
+msgstr "分类模板"
 
 #: wp-admin/includes/file.php:30
 msgid "Tag Template"
-msgstr ""
+msgstr "标签模板"
 
 #: wp-admin/includes/file.php:31
 msgid "Posts Page"
-msgstr ""
+msgstr "文章页面"
 
 #: wp-admin/includes/file.php:33
 msgid "Date Template"
@@ -9525,217 +9526,217 @@ msgstr ""
 
 #: wp-admin/includes/file.php:1134
 msgid "Invalid URL Provided."
-msgstr ""
+msgstr "提供的 URL 无效。"
 
 #: wp-admin/includes/file.php:1145
 msgid "Could not create temporary file."
-msgstr ""
+msgstr "无法创建临时文件。"
 
 #. translators: 1: File checksum, 2: Expected checksum value.
 #: wp-admin/includes/file.php:1343
 msgid "The checksum of the file (%1$s) does not match the expected checksum value (%2$s)."
-msgstr ""
+msgstr "文件的校验值（(%1$s）与预期值（%2$s）不匹配。"
 
 #. translators: %s: The filename of the package.
 #: wp-admin/includes/file.php:1372
 #: wp-admin/includes/file.php:1391
 #: wp-admin/includes/file.php:1426
 msgid "The authenticity of %s could not be verified as signature verification is unavailable on this system."
-msgstr ""
+msgstr "无法验证 %s 的真实性，因为无法在此系统上进行签名验证。"
 
 #. translators: %s: The filename of the package.
 #: wp-admin/includes/file.php:1444
 msgid "The authenticity of %s could not be verified as no signature was found."
-msgstr ""
+msgstr "无法验证 %s 的真实性，因为没有找到签名。"
 
 #. translators: %s: The filename of the package.
 #: wp-admin/includes/file.php:1492
 msgid "The authenticity of %s could not be verified."
-msgstr ""
+msgstr "无法验证 %s 的真实性。"
 
 #: wp-admin/includes/file.php:1645
 #: wp-admin/includes/file.php:1725
 msgid "Could not retrieve file from archive."
-msgstr ""
+msgstr "无法从归档中获取文件。"
 
 #: wp-admin/includes/file.php:1744
 msgid "Could not extract file from archive."
-msgstr ""
+msgstr "无法从归档中提取文件。"
 
 #: wp-admin/includes/file.php:1748
 #: wp-admin/includes/file.php:1878
 #: wp-admin/includes/file.php:1923
 #: wp-admin/includes/update-core.php:701
 msgid "Could not copy file."
-msgstr ""
+msgstr "无法复制文件。"
 
 #: wp-admin/includes/file.php:1795
 msgid "Empty archive."
-msgstr ""
+msgstr "空归档。"
 
 #: wp-admin/includes/file.php:1906
 msgid "Directory listing failed."
-msgstr ""
+msgstr "列出目录失败。"
 
 #: wp-admin/includes/file.php:1980
 msgid "The source and destination are the same."
-msgstr ""
+msgstr "源文件与目标文件相同。"
 
 #: wp-admin/includes/file.php:1985
 msgid "The destination folder already exists."
-msgstr ""
+msgstr "目标文件夹已存在。"
 
 #: wp-admin/includes/file.php:1988
 msgid "The destination directory already exists and could not be removed."
-msgstr ""
+msgstr "目标文件夹已存在，且无法删除。"
 
 #: wp-admin/includes/file.php:2385
 msgid "<strong>Error:</strong> Could not connect to the server. Please verify the settings are correct."
-msgstr ""
+msgstr "<strong>错误：</strong>无法连接到服务器。请检查设置是否正确。"
 
 #: wp-admin/includes/file.php:2394
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #: wp-admin/includes/file.php:2397
 msgid "FTPS (SSL)"
-msgstr ""
+msgstr "FTPS（SSL）"
 
 #: wp-admin/includes/file.php:2400
 msgid "SSH2"
-msgstr ""
+msgstr "SSH2"
 
 #: wp-admin/includes/file.php:2426
 msgid "Connection Information"
-msgstr ""
+msgstr "连接信息"
 
 #: wp-admin/includes/file.php:2432
 msgid "To perform the requested action, ClassicPress needs to access your web server."
-msgstr ""
+msgstr "要执行请求的操作，ClassicPress 需要访问您的 Web 服务器。"
 
 #: wp-admin/includes/file.php:2436
 msgid "Please enter your FTP or SSH credentials to proceed."
-msgstr ""
+msgstr "请输入您的 FTP 或 SSH 凭据以继续。"
 
 #: wp-admin/includes/file.php:2437
 msgid "FTP/SSH Username"
-msgstr ""
+msgstr "FTP/SSH 用户名"
 
 #: wp-admin/includes/file.php:2438
 msgid "FTP/SSH Password"
-msgstr ""
+msgstr "FTP/SSH 密码"
 
 #: wp-admin/includes/file.php:2440
 msgid "Please enter your FTP credentials to proceed."
-msgstr ""
+msgstr "请输入您的 FTP 凭据以继续。"
 
 #: wp-admin/includes/file.php:2441
 msgid "FTP Username"
-msgstr ""
+msgstr "FTP 用户名"
 
 #: wp-admin/includes/file.php:2442
 msgid "FTP Password"
-msgstr ""
+msgstr "FTP 密码"
 
 #: wp-admin/includes/file.php:2446
 msgid "If you do not remember your credentials, you should contact your web host."
-msgstr ""
+msgstr "如果您不记得您的凭据，您应该联系您的主机提供商。"
 
 #: wp-admin/includes/file.php:2460
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 #: wp-admin/includes/file.php:2461
 msgid "example: www.wordpress.org"
-msgstr ""
+msgstr "例如：www.wordpress.org"
 
 #: wp-admin/includes/file.php:2475
 msgid "This password will not be stored on the server."
-msgstr ""
+msgstr "此密码将不会保存在服务器上。"
 
 #: wp-admin/includes/file.php:2481
 msgid "Connection Type"
-msgstr ""
+msgstr "连接类型"
 
 #: wp-admin/includes/file.php:2502
 msgid "Authentication Keys"
-msgstr ""
+msgstr "认证密钥"
 
 #: wp-admin/includes/file.php:2504
 msgid "Public Key:"
-msgstr ""
+msgstr "公钥："
 
 #: wp-admin/includes/file.php:2508
 msgid "Private Key:"
-msgstr ""
+msgstr "私钥："
 
 #: wp-admin/includes/file.php:2511
 msgid "Enter the location on the server where the public and private keys are located. If a passphrase is needed, enter that in the password field above."
-msgstr ""
+msgstr "输入公钥和私钥存储在服务器上的位置。如果需要密码，请在上面的密码字段中输入密码。"
 
 #: wp-admin/includes/file.php:2531
 msgid "Proceed"
-msgstr ""
+msgstr "继续"
 
 #. translators: %s: The function name.
 #: wp-admin/includes/file.php:2659
 msgid "%s expects a non-empty string."
-msgstr ""
+msgstr "%s 需要一个非空字符串。"
 
 #: wp-admin/includes/image-edit.php:28
 #: wp-admin/includes/image-edit.php:928
 msgid "Image data does not exist. Please re-upload the image."
-msgstr ""
+msgstr "图像数据不存在。请重新上传图像。"
 
 #: wp-admin/includes/image-edit.php:62
 msgid "Crop"
-msgstr ""
+msgstr "裁剪"
 
 #: wp-admin/includes/image-edit.php:74
 msgid "Rotate left"
-msgstr ""
+msgstr "向左旋转"
 
 #: wp-admin/includes/image-edit.php:75
 msgid "Rotate right"
-msgstr ""
+msgstr "向右旋转"
 
 #: wp-admin/includes/image-edit.php:78
 msgid "Image rotation is not supported by your web host."
-msgstr ""
+msgstr "您的主机不支持图像旋转。"
 
 #: wp-admin/includes/image-edit.php:84
 msgid "Flip vertical"
-msgstr ""
+msgstr "垂直翻转"
 
 #: wp-admin/includes/image-edit.php:85
 msgid "Flip horizontal"
-msgstr ""
+msgstr "水平翻转"
 
 #: wp-admin/includes/image-edit.php:89
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 #: wp-admin/includes/image-edit.php:114
 msgid "Scale Image"
-msgstr ""
+msgstr "收缩图像"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:118
 msgid "Scale Image Help"
-msgstr ""
+msgstr "收缩图像帮助"
 
 #: wp-admin/includes/image-edit.php:122
 msgid "You can proportionally scale the original image. For best results, scaling should be done before you crop, flip, or rotate. Images can only be scaled down, not up."
-msgstr ""
+msgstr "您可以按比例收缩原始图像。 为了取得最佳效果，应该在你剪裁、翻转或旋转之前完成收缩。图像只能被收缩而不是放大。"
 
 #. translators: %s: Image width and height in pixels.
 #: wp-admin/includes/image-edit.php:129
 msgid "Original dimensions %s"
-msgstr ""
+msgstr "原始尺寸 %s"
 
 #: wp-admin/includes/image-edit.php:138
 msgid "New dimensions:"
-msgstr ""
+msgstr "新尺寸："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:143
@@ -9952,156 +9953,156 @@ msgstr ""
 
 #: wp-admin/includes/import.php:217
 msgid "Import posts from an RSS feed."
-msgstr ""
+msgstr "从 RSS 订阅源导入文章。"
 
 #: wp-admin/includes/import.php:222
 msgid "Tumblr"
-msgstr ""
+msgstr "Tumblr"
 
 #: wp-admin/includes/import.php:223
 msgid "Import posts &amp; media from Tumblr using their API."
-msgstr ""
+msgstr "使用它们的 API 从 Tumblr 导入文章及媒体。"
 
 #: wp-admin/includes/import.php:229
 msgid "Install the WordPress importer to import posts, pages, comments, custom fields, categories, and tags from a WordPress export file."
-msgstr ""
+msgstr "安装 WordPress 导入器以从 WordPress 导出文件中导入文章、页面、评论、自定义字段、分类和标签。"
 
 #: wp-admin/includes/media.php:18
 msgid "From Computer"
-msgstr ""
+msgstr "从计算机上传"
 
 #: wp-admin/includes/media.php:19
 msgid "From URL"
-msgstr ""
+msgstr "从 URL 下载"
 
 #: wp-admin/includes/media.php:20
 msgid "Gallery"
-msgstr ""
+msgstr "相册"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:164
 #: wp-admin/upload.php:309
 msgid "Media Library"
-msgstr ""
+msgstr "媒体库"
 
 #. translators: %s: Number of attachments.
 #: wp-admin/includes/media.php:64
 msgid "Gallery (%s)"
-msgstr ""
+msgstr "相册（%s）"
 
 #. translators: 1: Audio track title, 2: Album title, 3: Artist name.
 #: wp-admin/includes/media.php:331
 msgid "\"%1$s\" from %2$s by %3$s."
-msgstr ""
+msgstr "由 %3$s 制作的「%2$s」中的曲目「%1$s」。"
 
 #. translators: 1: Audio track title, 2: Album title.
 #: wp-admin/includes/media.php:334
 msgid "\"%1$s\" from %2$s."
-msgstr ""
+msgstr "「%2$s」中的曲目「%1$s」。"
 
 #. translators: 1: Audio track title, 2: Artist name.
 #: wp-admin/includes/media.php:337
 msgid "\"%1$s\" by %2$s."
-msgstr ""
+msgstr "由 %2$s 制作的曲目「%1$s」。"
 
 #. translators: %s: Audio track title.
 #: wp-admin/includes/media.php:340
 msgid "\"%s\"."
-msgstr ""
+msgstr "曲目「%s」。"
 
 #. translators: 1: Audio album title, 2: Artist name.
 #: wp-admin/includes/media.php:346
 msgid "%1$s by %2$s."
-msgstr ""
+msgstr "由 %2$s 制作的「%1$s」。"
 
 #. translators: Audio file track information. %d: Year of audio track release.
 #: wp-admin/includes/media.php:358
 msgid "Released: %d."
-msgstr ""
+msgstr "发行时间：%d。"
 
 #. translators: Audio file track information. 1: Audio track number, 2: Total audio tracks.
 #: wp-admin/includes/media.php:368
 msgid "Track %1$s of %2$s."
-msgstr ""
+msgstr "%2$s 曲目中的 %1$s"
 
 #. translators: Audio file track information. %s: Audio track number.
 #: wp-admin/includes/media.php:375
 msgid "Track %s."
-msgstr ""
+msgstr "曲目 %s。"
 
 #. translators: Audio file genre information. %s: Audio genre name.
 #: wp-admin/includes/media.php:384
 msgid "Genre: %s."
-msgstr ""
+msgstr "流派：%s。"
 
 #: wp-admin/includes/media.php:531
 msgid "Uploads"
-msgstr ""
+msgstr "上传"
 
 #: wp-admin/includes/media.php:652
 msgid "Add Media"
-msgstr ""
+msgstr "添加媒体"
 
 #: wp-admin/includes/media.php:957
 msgid "Saved."
-msgstr ""
+msgstr "已保存。"
 
 #: wp-admin/includes/media.php:1036
 msgid "Invalid image URL."
-msgstr ""
+msgstr "无效的图像 URL。"
 
 #: wp-admin/includes/media.php:1245
 msgid "Size"
-msgstr ""
+msgstr "尺寸"
 
 #: wp-admin/includes/media.php:1280
 #: wp-admin/includes/media.php:1416
 msgid "File URL"
-msgstr ""
+msgstr "文件 URL"
 
 #: wp-admin/includes/media.php:1281
 msgid "Attachment Post URL"
-msgstr ""
+msgstr "附件文章 URL"
 
 #: wp-admin/includes/media.php:1396
 #: wp-admin/includes/media.php:3181
 msgid "Caption"
-msgstr ""
+msgstr "标题"
 
 #: wp-admin/includes/media.php:1406
 msgid "Link URL"
-msgstr ""
+msgstr "链接 URL"
 
 #: wp-admin/includes/media.php:1409
 #: wp-admin/includes/media.php:2929
 msgid "Enter a link URL or click above for presets."
-msgstr ""
+msgstr "输入链接地址或点击上面的预设。"
 
 #: wp-admin/includes/media.php:1420
 msgid "Location of the uploaded file."
-msgstr ""
+msgstr "已上传文件的位置。"
 
 #: wp-admin/includes/media.php:1476
 #: wp-admin/includes/media.php:2901
 #: wp-admin/includes/media.php:3158
 msgid "Alternative Text"
-msgstr ""
+msgstr "替代文本"
 
 #: wp-admin/includes/media.php:1477
 #: wp-admin/includes/media.php:2904
 msgid "Alt text for the image, e.g. &#8220;The Mona Lisa&#8221;"
-msgstr ""
+msgstr "图像的替代文本，例如「清明上河图」。"
 
 #: wp-admin/includes/media.php:1481
 #: wp-admin/includes/media.php:2908
 msgid "Alignment"
-msgstr ""
+msgstr "对齐方式"
 
 #: wp-admin/includes/media.php:1554
 #: wp-admin/includes/media.php:2503
 #: wp-admin/js/user-profile.js:84
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: wp-admin/includes/media.php:1555
 #: wp-admin/includes/media.php:2504
@@ -10110,84 +10111,84 @@ msgstr ""
 #: wp-admin/user-new.php:596
 #: wp-admin/js/user-profile.js:84
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 #: wp-admin/includes/media.php:1618
 #: wp-admin/includes/media.php:3069
 msgid "Edit Image"
-msgstr ""
+msgstr "编辑图像"
 
 #: wp-admin/includes/media.php:1637
 #: wp-admin/includes/media.php:3292
 msgid "File type:"
-msgstr ""
+msgstr "文件类型："
 
 #: wp-admin/includes/media.php:1638
 msgid "Upload date:"
-msgstr ""
+msgstr "上传日期："
 
 #: wp-admin/includes/media.php:1641
 #: wp-admin/includes/media.php:3414
 msgid "Dimensions:"
-msgstr ""
+msgstr "分辨率："
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:2934
 #: wp-admin/includes/media.php:2940
 msgid "Insert into Post"
-msgstr ""
+msgstr "插入到文章"
 
 #. translators: %s: File name.
 #: wp-admin/includes/media.php:1674
 msgid "You are about to delete %s."
-msgstr ""
+msgstr "您即将删除「%s」。"
 
 #: wp-admin/includes/media.php:1675
 #: wp-admin/upgrade.php:75
 #: wp-admin/upgrade.php:155
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #. translators: %s: https://apps.wordpress.org
 #: wp-admin/includes/media.php:2033
 msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
-msgstr ""
+msgstr "您设备上的网页浏览器不能用于上传文件。您或许可以为您的设备使用<a href=\"%s\">原生应用</a>。"
 
 #: wp-admin/includes/media.php:2177
 msgid "Drop files to upload"
-msgstr ""
+msgstr "拖放文件以上传"
 
 #: wp-admin/includes/media.php:2178
 msgctxt "Uploader: Drop files here - or - Select Files"
 msgid "or"
-msgstr ""
+msgstr "或者"
 
 #: wp-admin/includes/media.php:2179
 msgid "Select Files"
-msgstr ""
+msgstr "选择文件"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2228
 msgid "Maximum upload file size: %s."
-msgstr ""
+msgstr "最大上传文件大小：%s"
 
 #: wp-admin/includes/media.php:2281
 msgid "Add media files from your computer"
-msgstr ""
+msgstr "从您的计算机添加媒体文件"
 
 #: wp-admin/includes/media.php:2310
 #: wp-admin/includes/media.php:2527
 #: wp-admin/includes/media.php:2833
 msgid "Save all changes"
-msgstr ""
+msgstr "保存所有更改"
 
 #: wp-admin/includes/media.php:2348
 msgid "Insert media from another website"
-msgstr ""
+msgstr "从另一个网站插入媒体"
 
 #: wp-admin/includes/media.php:2502
 msgid "All Tabs:"
-msgstr ""
+msgstr "所有选项卡："
 
 #: wp-admin/includes/media.php:2506
 msgid "Sort Order:"
@@ -10415,237 +10416,237 @@ msgstr ""
 #: wp-admin/includes/template.php:893
 #: wp-admin/js/post.js:1027
 msgid "OK"
-msgstr ""
+msgstr "确定"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
-msgstr ""
+msgstr "可见性："
 
 #: wp-admin/includes/meta-boxes.php:183
 #: wp-admin/includes/meta-boxes.php:217
 msgid "Password protected"
-msgstr ""
+msgstr "密码保护"
 
 #: wp-admin/includes/meta-boxes.php:186
 #: wp-admin/js/post.js:903
 msgid "Public, Sticky"
-msgstr ""
+msgstr "公开，置顶"
 
 #: wp-admin/includes/meta-boxes.php:189
 #: wp-admin/includes/meta-boxes.php:211
 #: wp-admin/js/post.js:903
 msgid "Public"
-msgstr ""
+msgstr "公开"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:200
 msgid "Edit visibility"
-msgstr ""
+msgstr "编辑可见性"
 
 #: wp-admin/includes/meta-boxes.php:214
 msgid "Stick this post to the front page"
-msgstr ""
+msgstr "将此文章在首页置顶"
 
 #: wp-admin/includes/meta-boxes.php:218
 msgid "Password:"
-msgstr ""
+msgstr "密码："
 
 #. translators: Post date information. %s: Date on which the post is currently scheduled to be published.
 #: wp-admin/includes/meta-boxes.php:241
 msgid "Scheduled for: %s"
-msgstr ""
+msgstr "预定于：%s"
 
 #. translators: Post date information. %s: Date on which the post was published.
 #: wp-admin/includes/meta-boxes.php:244
 msgid "Published on: %s"
-msgstr ""
+msgstr "发表于：%s"
 
 #: wp-admin/includes/meta-boxes.php:246
 #: wp-admin/includes/meta-boxes.php:260
 msgid "Publish <b>immediately</b>"
-msgstr ""
+msgstr "<b>立即</b>发表"
 
 #. translators: Post date information. %s: Date on which the post is to be published.
 #: wp-admin/includes/meta-boxes.php:249
 msgid "Schedule for: %s"
-msgstr ""
+msgstr "预定在：%s"
 
 #. translators: Post date information. %s: Date on which the post is to be published.
 #: wp-admin/includes/meta-boxes.php:252
 msgid "Publish on: %s"
-msgstr ""
+msgstr "发表在：%s"
 
 #. translators: Post revisions heading. %s: The number of available revisions.
 #: wp-admin/includes/meta-boxes.php:273
 msgid "Revisions: %s"
-msgstr ""
+msgstr "修订版本：%s"
 
 #: wp-admin/includes/meta-boxes.php:275
 msgctxt "revisions"
 msgid "Browse"
-msgstr ""
+msgstr "浏览"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:278
 msgid "Browse revisions"
-msgstr ""
+msgstr "浏览修订版本"
 
 #. translators: %s: URL to the Customizer.
 #: wp-admin/includes/meta-boxes.php:320
 msgid "This draft comes from your <a href=\"%s\">unpublished customization changes</a>. You can edit, but there is no need to publish now. It will be published automatically with those changes."
-msgstr ""
+msgstr "这个草稿来自您的<a href=\"%s\">未发布的自定义更改</a>。您可以编辑它，但不必立即发布。它将自动发布这些更改。"
 
 #: wp-admin/includes/meta-boxes.php:384
 #: wp-admin/includes/meta-boxes.php:385
 #: wp-admin/js/post.js:792
 msgctxt "post action/button label"
 msgid "Schedule"
-msgstr ""
+msgstr "预定"
 
 #: wp-admin/includes/meta-boxes.php:395
 #: wp-admin/includes/meta-boxes.php:396
 msgid "Submit for Review"
-msgstr ""
+msgstr "提交审阅"
 
 #. translators: Attachment information. %s: Date the attachment was uploaded.
 #: wp-admin/includes/meta-boxes.php:446
 msgid "Uploaded on: %s"
-msgstr ""
+msgstr "上传于：%s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:528
 #: wp-admin/includes/theme.php:329
 msgid "Post Formats"
-msgstr ""
+msgstr "文章类型"
 
 #: wp-admin/includes/meta-boxes.php:626
 #: wp-admin/includes/meta-boxes.php:1239
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:708
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:777
 #: wp-admin/includes/meta-boxes.php:1669
 #: wp-admin/options-reading.php:177
 msgid "Excerpt"
-msgstr ""
+msgstr "摘要"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:784
 msgid "Excerpts are optional hand-crafted summaries of your content that can be used in your theme. <a href=\"%s\">Learn more about manual excerpts</a>."
-msgstr ""
+msgstr "摘录是可选的手工编写的您的内容摘要，可被您的主题使用。<a href=\"%s\">了解更多有关手动摘要的信息</a>。"
 
 #: wp-admin/includes/meta-boxes.php:785
 msgid "https://wordpress.org/documentation/article/what-is-an-excerpt-classic-editor/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/what-is-an-excerpt-classic-editor/"
 
 #: wp-admin/includes/meta-boxes.php:804
 msgid "Already pinged:"
-msgstr ""
+msgstr "已经 Ping 过的："
 
 #: wp-admin/includes/meta-boxes.php:814
 msgid "Send trackbacks to:"
-msgstr ""
+msgstr "发送 Trackbacks 至："
 
 #: wp-admin/includes/meta-boxes.php:817
 msgid "Separate multiple URLs with spaces"
-msgstr ""
+msgstr "用空格分隔多个 URL"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:822
 msgid "Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. If you link other ClassicPress sites, they&#8217;ll be notified automatically using <a href=\"%s\">pingbacks</a>, no other action necessary."
-msgstr ""
+msgstr "Trackbacks 是一种通知旧式博客系统您链接到了他们的方式。如果您链接到其他 ClassicPress 站点，它们将被自动通过 <a href=\"%s\">Pingbacks</a> 提醒，无需额外操作。"
 
 #: wp-admin/includes/meta-boxes.php:823
 msgid "https://wordpress.org/documentation/article/introduction-to-blogging/#comments"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/introduction-to-blogging/#comments"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:859
 msgid "Custom fields can be used to add extra metadata to a post that you can <a href=\"%s\">use in your theme</a>."
-msgstr ""
+msgstr "自定义字段可用于在文章中附加<a href=\"%s\">您的主题可用</a>的额外元数据。"
 
 #: wp-admin/includes/meta-boxes.php:860
 msgid "https://wordpress.org/documentation/article/assign-custom-fields/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/assign-custom-fields/"
 
 #: wp-admin/includes/meta-boxes.php:878
 msgid "Allow comments"
-msgstr ""
+msgstr "允许评论"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:883
 msgid "Allow <a href=\"%s\">trackbacks and pingbacks</a>"
-msgstr ""
+msgstr "允许 <a href=\"%s\">Trackbacks 和 Pingbacks</a>"
 
 #: wp-admin/includes/meta-boxes.php:884
 msgid "https://wordpress.org/documentation/article/introduction-to-blogging/#managing-comments"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/introduction-to-blogging/#managing-comments"
 
 #: wp-admin/includes/meta-boxes.php:925
 #: wp-admin/includes/template.php:506
 msgid "Add Comment"
-msgstr ""
+msgstr "添加评论"
 
 #: wp-admin/includes/meta-boxes.php:939
 msgid "No comments yet."
-msgstr ""
+msgstr "尚无评论。"
 
 #: wp-admin/includes/meta-boxes.php:949
 msgid "Show comments"
-msgstr ""
+msgstr "显示评论"
 
 #: wp-admin/includes/meta-boxes.php:1037
 msgid "(no parent)"
-msgstr ""
+msgstr "（无父级）"
 
 #: wp-admin/includes/meta-boxes.php:1110
 msgid "Need help? Use the Help tab above the screen title."
-msgstr ""
+msgstr "需要帮助？使用屏幕标题上方的「帮助」选项卡。"
 
 #: wp-admin/includes/meta-boxes.php:1141
 msgid "Visit Link"
-msgstr ""
+msgstr "查看链接"
 
 #: wp-admin/includes/meta-boxes.php:1149
 msgid "Keep this link private"
-msgstr ""
+msgstr "保持此链接为私密"
 
 #: wp-admin/includes/meta-boxes.php:1207
 msgid "All categories"
-msgstr ""
+msgstr "所有分类"
 
 #: wp-admin/includes/meta-boxes.php:1208
 msgctxt "categories"
 msgid "Most Used"
-msgstr ""
+msgstr "最常用的"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:1230
 #: wp-admin/includes/meta-boxes.php:1235
 msgid "+ Add New Category"
-msgstr ""
+msgstr "+ 添加新分类"
 
 #: wp-admin/includes/meta-boxes.php:1238
 msgid "New category name"
-msgstr ""
+msgstr "新分类名称"
 
 #: wp-admin/includes/meta-boxes.php:1266
 msgid "<code>_blank</code> &mdash; new window or tab."
-msgstr ""
+msgstr "<code>_blank</code> &mdash; 在新标签页中打开。"
 
 #: wp-admin/includes/meta-boxes.php:1269
 msgid "<code>_top</code> &mdash; current window or tab, with no frames."
-msgstr ""
+msgstr "<code>_top</code> &mdash; 在当前标签页内打开，且没有框架。"
 
 #: wp-admin/includes/meta-boxes.php:1272
 msgid "<code>_none</code> &mdash; same window or tab."
-msgstr ""
+msgstr "<code>_none</code> &mdash; 在同一个标签页内打开。"
 
 #: wp-admin/includes/meta-boxes.php:1274
 msgid "Choose the target frame for your link."
@@ -10919,78 +10920,78 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:682
 #: wp-admin/includes/nav-menu.php:919
 msgid "Add to Menu"
-msgstr ""
+msgstr "添加至菜单"
 
 #: wp-admin/includes/nav-menu.php:392
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: wp-admin/includes/nav-menu.php:442
 #: wp-admin/includes/nav-menu.php:737
 msgid "No items."
-msgstr ""
+msgstr "无项目。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/nav-menu.php:465
 #: wp-admin/includes/nav-menu.php:767
 msgid "Page"
-msgstr ""
+msgstr "页面"
 
 #: wp-admin/includes/nav-menu.php:513
 #: wp-admin/includes/nav-menu.php:528
 msgid "Most Recent"
-msgstr ""
+msgstr "最近"
 
 #: wp-admin/includes/nav-menu.php:518
 #: wp-admin/includes/nav-menu.php:820
 msgid "View All"
-msgstr ""
+msgstr "查看全部"
 
 #: wp-admin/includes/nav-menu.php:606
 #: wp-admin/includes/nav-menu.php:907
 #: wp-admin/js/nav-menu.js:496
 msgid "No results found."
-msgstr ""
+msgstr "未找到结果。"
 
 #: wp-admin/includes/nav-menu.php:1056
 msgid "Add menu items from the column on the left."
-msgstr ""
+msgstr "从左侧的列中添加菜单项。"
 
 #. translators: %s: Walker class name.
 #: wp-admin/includes/nav-menu.php:1080
 msgid "The Walker class named %s does not exist."
-msgstr ""
+msgstr "名为 %s 的 Walker 类不存在。"
 
 #: wp-admin/includes/nav-menu.php:1098
 msgid "Click Save Menu to make pending menu items public."
-msgstr ""
+msgstr "单击保存菜单以公开待定菜单项。"
 
 #: wp-admin/includes/nav-menu.php:1102
 msgid "There are some invalid menu items. Please check or delete them."
-msgstr ""
+msgstr "有一些无效的菜单项。请检查或删除它们。"
 
 #: wp-admin/includes/nav-menu.php:1123
 msgid "Show advanced menu properties"
-msgstr ""
+msgstr "显示高级菜单属性"
 
 #: wp-admin/includes/nav-menu.php:1125
 msgid "Link Target"
-msgstr ""
+msgstr "链接目标"
 
 #: wp-admin/includes/nav-menu.php:1127
 msgid "CSS Classes"
-msgstr ""
+msgstr "CSS 类"
 
 #. translators: %s: Nav menu title.
 #: wp-admin/includes/nav-menu.php:1263
 msgid "%s has been updated."
-msgstr ""
+msgstr "%s 已被更新。"
 
 #. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
 #: wp-admin/includes/network.php:118
 msgid "The constant %s cannot be defined when creating a network."
-msgstr ""
+msgstr "无法在创建网络时定义常量 %s。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/network.php:128
@@ -11005,160 +11006,160 @@ msgstr ""
 #: wp-admin/includes/template.php:1287
 #: wp-admin/options.php:366
 msgid "Warning:"
-msgstr ""
+msgstr "警告："
 
 #. translators: %s: URL to Plugins screen.
 #: wp-admin/includes/network.php:130
 msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
-msgstr ""
+msgstr "请在初始化网络前<a href=\"%s\">禁用您的所有插件</a>。"
 
 #: wp-admin/includes/network.php:133
 msgid "Once the network is created, you may reactivate your plugins."
-msgstr ""
+msgstr "一旦网络初始化完毕，您可以重新启用您的插件。"
 
 #: wp-admin/includes/network.php:142
 msgid "Installing a network of sites with your server address is experimental."
-msgstr ""
+msgstr "使用您的服务器地址来创建网络目前不稳定。"
 
 #. translators: %s: Port number.
 #: wp-admin/includes/network.php:145
 msgid "Use port numbers such as %s at your own risk."
-msgstr ""
+msgstr "如果您希望使用类似于 %s 的端口号，请自行承担风险。"
 
 #: wp-admin/includes/network.php:156
 msgid "Error: The network could not be created."
-msgstr ""
+msgstr "错误：无法初始化网络。"
 
 #. translators: %s: Default network title.
 #: wp-admin/includes/network.php:168
 msgid "%s Sites"
-msgstr ""
+msgstr "%s 站点"
 
 #: wp-admin/includes/network.php:177
 msgid "Welcome to the Network installation process!"
-msgstr ""
+msgstr "欢迎来到网络安装过程！"
 
 #: wp-admin/includes/network.php:178
 msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of ClassicPress sites. Configuration files will be created in the next step."
-msgstr ""
+msgstr "在下方输入相关信息，您就可以踏上 ClassicPress 站点网络的旅程了。在下一步中会向您提供对应的配置文件。"
 
 #: wp-admin/includes/network.php:191
 msgid "Note:"
-msgstr ""
+msgstr "注："
 
 #. translators: %s: mod_rewrite
 #: wp-admin/includes/network.php:194
 msgid "Please make sure the Apache %s module is installed as it will be used at the end of this installation."
-msgstr ""
+msgstr "请确保 Apache 模块 %s 已安装，因为它将在此安装结束时被使用。"
 
 #. translators: %s: mod_rewrite
 #: wp-admin/includes/network.php:202
 msgid "It looks like the Apache %s module is not installed."
-msgstr ""
+msgstr "看起来 Apache 模块 %s 未被安装。"
 
 #. translators: 1: mod_rewrite, 2: mod_rewrite documentation URL, 3: Google search for mod_rewrite.
 #: wp-admin/includes/network.php:212
 msgid "If %1$s is disabled, ask your administrator to enable that module, or look at the <a href=\"%2$s\">Apache documentation</a> or <a href=\"%3$s\">elsewhere</a> for help setting it up."
-msgstr ""
+msgstr "如果 %1$s 被禁用，请联系管理员启用该模块，或查看 <a href=\"%2$s\">Apache 文档</a>或<a href=\"%3$s\">其他地方</a>以协助您配置。"
 
 #: wp-admin/includes/network.php:223
 msgid "Addresses of Sites in your Network"
-msgstr ""
+msgstr "您网络中的站点地址"
 
 #: wp-admin/includes/network.php:224
 msgid "Please choose whether you would like sites in your ClassicPress network to use sub-domains or sub-directories."
-msgstr ""
+msgstr "请选择您希望您 ClassicPress 网络中的站点要使用子目录还是子域名形式。"
 
 #: wp-admin/includes/network.php:225
 msgid "You cannot change this later."
-msgstr ""
+msgstr "您稍后将无法修改这一选项。"
 
 #: wp-admin/includes/network.php:226
 msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
-msgstr ""
+msgstr "如果您希望使用虚拟主机（子域名）配置，则您需要创建通配符 DNS 记录。"
 
 #: wp-admin/includes/network.php:230
 msgid "Sub-domains"
-msgstr ""
+msgstr "子域名"
 
 #. translators: 1: Host name.
 #: wp-admin/includes/network.php:235
 msgctxt "subdomain examples"
 msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
-msgstr ""
+msgstr "例如 <code>site1.%1$s</code>、<code>site2.%1$s</code>"
 
 #: wp-admin/includes/network.php:242
 msgid "Sub-directories"
-msgstr ""
+msgstr "子目录"
 
 #. translators: 1: Host name.
 #: wp-admin/includes/network.php:247
 msgctxt "subdirectory examples"
 msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
-msgstr ""
+msgstr "例如 <code>%1$s/site1</code>、<code>%1$s/site2</code>"
 
 #: wp-admin/includes/network.php:259
 #: wp-admin/includes/network.php:621
 #: wp-admin/includes/network.php:683
 msgid "Subdirectory networks may not be fully compatible with custom wp-content directories."
-msgstr ""
+msgstr "子目录形式的网络可能与自定义 wp-content 目录不完全兼容。"
 
 #: wp-admin/includes/network.php:265
 #: wp-admin/includes/network.php:279
 #: wp-admin/includes/network.php:339
 msgid "Server Address"
-msgstr ""
+msgstr "服务器地址"
 
 #. translators: 1: Site URL, 2: Host name, 3: www.
 #: wp-admin/includes/network.php:270
 msgid "You should consider changing your site domain to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
-msgstr ""
+msgstr "在启用网络功能之前，您应该考虑将您的站点域名更改为 %1$s。您仍然可以使用 %3$s 前缀以及类似于 %2$s 的地址访问您的站点，但任何链接都不会包含 %3$s 前缀。"
 
 #. translators: %s: Host name.
 #: wp-admin/includes/network.php:284
 #: wp-admin/includes/network.php:344
 msgid "The internet address of your network will be %s."
-msgstr ""
+msgstr "您的网络的互联网地址将会是 %s。"
 
 #: wp-admin/includes/network.php:293
 msgid "Network Details"
-msgstr ""
+msgstr "网络详情"
 
 #: wp-admin/includes/network.php:297
 #: wp-admin/includes/network.php:315
 msgid "Sub-directory Installation"
-msgstr ""
+msgstr "子目录安装"
 
 #. translators: 1: localhost, 2: localhost.localdomain
 #: wp-admin/includes/network.php:302
 msgid "Because you are using %1$s, the sites in your ClassicPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains."
-msgstr ""
+msgstr "因为您正在使用 %1$s，所以您 ClassicPress 网络中的站点必须使用子目录形式。如果您想要使用子域名，请考虑使用 %2$s。"
 
 #: wp-admin/includes/network.php:308
 #: wp-admin/includes/network.php:321
 #: wp-admin/includes/network.php:332
 msgid "The main site in a sub-directory installation will need to use a modified permalink structure, potentially breaking existing links."
-msgstr ""
+msgstr "子目录安装中的主站点需要使用修改过的永久链接结构，这可能会损坏已有的链接。"
 
 #: wp-admin/includes/network.php:318
 msgid "Because your installation is in a directory, the sites in your ClassicPress network must use sub-directories."
-msgstr ""
+msgstr "因为您的安装在一个目录中，您 ClassicPress 网络中的站点必须使用子目录。"
 
 #: wp-admin/includes/network.php:328
 msgid "Sub-domain Installation"
-msgstr ""
+msgstr "子域名安装"
 
 #: wp-admin/includes/network.php:331
 msgid "Because your installation is not new, the sites in your ClassicPress network must use sub-domains."
-msgstr ""
+msgstr "由于您的安装不是新的，您的 ClassicPress 网络中的站点必须使用子域名。"
 
 #: wp-admin/includes/network.php:352
 msgid "Network Title"
-msgstr ""
+msgstr "网络名称"
 
 #: wp-admin/includes/network.php:356
 msgid "What would you like to call your network?"
-msgstr ""
+msgstr "您希望如何称呼您的网络？"
 
 #: wp-admin/includes/network.php:361
 msgid "Network Admin Email"
