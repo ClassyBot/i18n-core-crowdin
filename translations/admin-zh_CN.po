@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-23 04:30\n"
+"PO-Revision-Date: 2024-07-24 00:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -7924,91 +7924,91 @@ msgstr "该值（%1$s）可能已被 %2$s 启用，或是已被添加至您站�
 
 #: wp-admin/includes/class-wp-site-health.php:1508
 msgid "Your website is using an active HTTPS connection"
-msgstr ""
+msgstr "您的站点正在使用活跃的 HTTPS 连接"
 
 #: wp-admin/includes/class-wp-site-health.php:1516
 msgid "An HTTPS connection is a more secure way of browsing the web. Many services now have HTTPS as a requirement. HTTPS allows you to take advantage of new features that can increase site speed, improve search rankings, and gain the trust of your visitors by helping to protect their online privacy."
-msgstr ""
+msgstr "HTTPS 是更加安全的浏览网络的方式。现在的许多服务都要求使用 HTTPS。HTTPS 允许您利用那些提升站点速度的新功能，以及提升搜索引擎排名，以及通过帮助保护您访客的隐私而获取他们的信任。"
 
 #: wp-admin/includes/class-wp-site-health.php:1521
 msgid "Learn more about why you should use HTTPS"
-msgstr ""
+msgstr "了解更多关于为什么要使用 HTTPS 的信息"
 
 #: wp-admin/includes/class-wp-site-health.php:1532
 msgid "Your website does not use HTTPS"
-msgstr ""
+msgstr "您的站点没有使用 HTTPS"
 
 #. translators: %s: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1540
 msgid "You are accessing this website using HTTPS, but your <a href=\"%s\">Site Address</a> is not set up to use HTTPS by default."
-msgstr ""
+msgstr "您正在使用 HTTPS 访问此站点，但您的<a href=\"%s\">站点地址</a>未设置为在默认情况下使用 HTTPS。"
 
 #. translators: %s: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1549
 msgid "Your <a href=\"%s\">Site Address</a> is not set up to use HTTPS."
-msgstr ""
+msgstr "您的<a href=\"%s\">站点地址</a>没有设置为使用 HTTPS。"
 
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1560
 msgid "You are accessing this website using HTTPS, but your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS by default."
-msgstr ""
+msgstr "您正在使用 HTTPS 访问此站点，但是您的 <a href=\"%1$s\">ClassicPress 地址</a>以及<a href=\"%2$s\">站点地址</a>未被设置为在默认情况下使用 HTTPS。"
 
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1570
 msgid "Your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS."
-msgstr ""
+msgstr "您的 <a href=\"%1$s\">ClassicPress 地址</a>和<a href=\"%2$s\">站点地址</a>未设置为使用 HTTPS。"
 
 #: wp-admin/includes/class-wp-site-health.php:1581
 msgid "HTTPS is already supported for your website."
-msgstr ""
+msgstr "您的站点已经支持 HTTPS。"
 
 #. translators: 1: wp-config.php, 2: WP_HOME, 3: WP_SITEURL
 #: wp-admin/includes/class-wp-site-health.php:1589
 msgid "However, your ClassicPress Address is currently controlled by a PHP constant and therefore cannot be updated. You need to edit your %1$s and remove or update the definitions of %2$s and %3$s."
-msgstr ""
+msgstr "然而，您的 ClassicPress 地址目前由一个 PHP 常量控制，因此无法被更新。您需要编辑您的 %1$s 并删除或更新 %2$s 和 %3$s 的定义。"
 
 #: wp-admin/includes/class-wp-site-health.php:1603
 #: wp-admin/includes/class-wp-site-health.php:1611
 msgid "Update your site to use HTTPS"
-msgstr ""
+msgstr "更新您的站点以使用 HTTPS"
 
 #: wp-admin/includes/class-wp-site-health.php:1622
 #: wp-admin/includes/class-wp-site-health.php:1629
 msgid "Talk to your web host about supporting HTTPS for your website."
-msgstr ""
+msgstr "请联系您的主机提供商以了解如何为您的站点启用 HTTPS 支持。"
 
 #: wp-admin/includes/class-wp-site-health.php:1655
 msgid "Securely communicating between servers are needed for transactions such as fetching files, conducting sales on store sites, and much more."
-msgstr ""
+msgstr "在进行诸多在线活动时都需要安全通信，例如获取文件、进行交易，诸如此类。"
 
 #: wp-admin/includes/class-wp-site-health.php:1666
 msgid "Your site can communicate securely with other services"
-msgstr ""
+msgstr "您的站点可以安全地与其他服务通信"
 
 #: wp-admin/includes/class-wp-site-health.php:1670
 msgid "Your site is unable to communicate securely with other services"
-msgstr ""
+msgstr "您的网站无法与其他服务进行安全通信"
 
 #: wp-admin/includes/class-wp-site-health.php:1674
 msgid "Talk to your web host about OpenSSL support for PHP."
-msgstr ""
+msgstr "请与您的主机提供商联系以了解有关 PHP 对 OpenSSL 的支持。"
 
 #: wp-admin/includes/class-wp-site-health.php:1693
 msgid "Scheduled events are running"
-msgstr ""
+msgstr "计划事件正在运行"
 
 #: wp-admin/includes/class-wp-site-health.php:1701
 msgid "Scheduled events are what periodically looks for updates to plugins, themes and ClassicPress itself. It is also what makes sure scheduled posts are published on time. It may also be used by various plugins to make sure that planned actions are executed."
-msgstr ""
+msgstr "计划事件用于定期检查插件、主题、以及 ClassicPress 自身是否有更新可用。计划事件也用于确保预定发表的文章按时发表。许多插件也会使用计划事件来确保预定的操作正常执行。"
 
 #: wp-admin/includes/class-wp-site-health.php:1712
 msgid "It was not possible to check your scheduled events"
-msgstr ""
+msgstr "无法检查您的计划事件"
 
 #. translators: %s: The error message returned while from the cron scheduler.
 #: wp-admin/includes/class-wp-site-health.php:1718
 msgid "While trying to test your site&#8217;s scheduled events, the following error was returned: %s"
-msgstr ""
+msgstr "当尝试您站点上的计划事件时，返回了如下错误：%s"
 
 #: wp-admin/includes/class-wp-site-health.php:1725
 msgid "A scheduled event has failed"
