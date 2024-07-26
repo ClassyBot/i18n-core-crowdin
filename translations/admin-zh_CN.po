@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-24 12:46\n"
+"PO-Revision-Date: 2024-07-26 01:32\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -8856,111 +8856,111 @@ msgstr[0] "%s 位用户"
 #: wp-admin/includes/dashboard.php:471
 msgid "%s site"
 msgid_plural "%s sites"
-msgstr[0] ""
+msgstr[0] "%s 个站点"
 
 #. translators: 1: Text indicating the number of sites on the network, 2: Text indicating the number of users on the network.
 #: wp-admin/includes/dashboard.php:474
 msgid "You have %1$s and %2$s."
-msgstr ""
+msgstr "您有%1$s和%2$s。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/dashboard.php:505
 #: wp-admin/includes/dashboard.php:509
 #: wp-admin/users.php:651
 msgid "Search Users"
-msgstr ""
+msgstr "搜索用户"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/dashboard.php:518
 #: wp-admin/includes/dashboard.php:522
 msgid "Search Sites"
-msgstr ""
+msgstr "搜索站点"
 
 #: wp-admin/includes/dashboard.php:599
 #: wp-admin/index.php:104
 msgid "Content"
-msgstr ""
+msgstr "内容"
 
 #: wp-admin/includes/dashboard.php:600
 msgid "What&#8217;s on your mind?"
-msgstr ""
+msgstr "在想什么呢？"
 
 #: wp-admin/includes/dashboard.php:608
 #: wp-admin/includes/meta-boxes.php:56
 #: wp-admin/js/post.js:859
 msgid "Save Draft"
-msgstr ""
+msgstr "保存草稿"
 
 #: wp-admin/includes/dashboard.php:656
 msgid "View all drafts"
-msgstr ""
+msgstr "查看所有草稿"
 
 #. translators: Maximum number of words used in a preview of a draft on the dashboard.
 #: wp-admin/includes/dashboard.php:664
 msgctxt "draft_length"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: wp-admin/includes/dashboard.php:800
 msgid "View this comment"
-msgstr ""
+msgstr "查看此评论"
 
 #. translators: 1: Comment author, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:864
 msgid "From %1$s on %2$s %3$s"
-msgstr ""
+msgstr "由 %1$s 在 %2$s 上发表 %3$s"
 
 #: wp-admin/includes/dashboard.php:867
 #: wp-admin/includes/dashboard.php:874
 #: wp-admin/includes/dashboard.php:904
 #: wp-admin/includes/dashboard.php:911
 msgid "[Pending]"
-msgstr ""
+msgstr "[待审]"
 
 #. translators: 1: Comment author, 2: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:872
 msgid "From %1$s %2$s"
-msgstr ""
+msgstr "由 %1$s 发表 %2$s"
 
 #: wp-admin/includes/dashboard.php:884
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:887
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: Type of comment, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:901
 msgctxt "dashboard"
 msgid "%1$s on %2$s %3$s"
-msgstr ""
+msgstr "%1$s 发表于 %2$s %3$s"
 
 #. translators: 1: Type of comment, 2: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:909
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:943
 msgid "Publishing Soon"
-msgstr ""
+msgstr "即将发表"
 
 #: wp-admin/includes/dashboard.php:952
 msgid "Recently Published"
-msgstr ""
+msgstr "近期发表"
 
 #: wp-admin/includes/dashboard.php:961
 msgid "No activity yet!"
-msgstr ""
+msgstr "尚无活动！"
 
 #: wp-admin/includes/dashboard.php:1025
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 #: wp-admin/includes/dashboard.php:1027
 msgid "Tomorrow"
-msgstr ""
+msgstr "明日"
 
 #. translators: Date and time format for recent posts on the dashboard, from a different calendar year, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/dashboard.php:1030
