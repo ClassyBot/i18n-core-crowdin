@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-26 13:31\n"
+"PO-Revision-Date: 2024-07-28 23:10\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -9741,16 +9741,16 @@ msgstr "新尺寸："
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:143
 msgid "scale width"
-msgstr ""
+msgstr "缩放宽度"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:151
 msgid "scale height"
-msgstr ""
+msgstr "缩放高度"
 
 #: wp-admin/includes/image-edit.php:156
 msgid "Scale"
-msgstr ""
+msgstr "收缩"
 
 #: wp-admin/includes/image-edit.php:168
 msgid "Restore original image"
