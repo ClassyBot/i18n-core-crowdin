@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-28 23:10\n"
+"PO-Revision-Date: 2024-07-29 11:13\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -9754,202 +9754,202 @@ msgstr "收缩"
 
 #: wp-admin/includes/image-edit.php:168
 msgid "Restore original image"
-msgstr ""
+msgstr "还原原始图像"
 
 #: wp-admin/includes/image-edit.php:172
 msgid "Discard any changes and restore the original image."
-msgstr ""
+msgstr "放弃任何更改并还原原始图像。"
 
 #: wp-admin/includes/image-edit.php:175
 msgid "Previously edited copies of the image will not be deleted."
-msgstr ""
+msgstr "以前编辑过的图像副本将不会被删除。"
 
 #: wp-admin/includes/image-edit.php:180
 msgid "Restore image"
-msgstr ""
+msgstr "还原图像"
 
 #: wp-admin/includes/image-edit.php:190
 msgid "Image Crop"
-msgstr ""
+msgstr "裁剪图像"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:194
 msgid "Image Crop Help"
-msgstr ""
+msgstr "图像裁剪帮助"
 
 #: wp-admin/includes/image-edit.php:199
 msgid "To crop the image, click on it and drag to make your selection."
-msgstr ""
+msgstr "要裁剪图像，请点击它并拖动以进行选择。"
 
 #: wp-admin/includes/image-edit.php:201
 msgid "Crop Aspect Ratio"
-msgstr ""
+msgstr "裁剪宽高比"
 
 #: wp-admin/includes/image-edit.php:202
 msgid "The aspect ratio is the relationship between the width and height. You can preserve the aspect ratio by holding down the shift key while resizing your selection. Use the input box to specify the aspect ratio, e.g. 1:1 (square), 4:3, 16:9, etc."
-msgstr ""
+msgstr "宽高比是宽度与高度之间的关系。 您可以通过按住 Shift 键来保留宽高比，同时调整您的选择大小。使用输入框指定宽高比，例如 1:1（正方形）、4:3、16:9 等。"
 
 #: wp-admin/includes/image-edit.php:204
 msgid "Crop Selection"
-msgstr ""
+msgstr "裁剪选择"
 
 #: wp-admin/includes/image-edit.php:205
 msgid "Once you have made your selection, you can adjust it by entering the size in pixels. The minimum selection size is the thumbnail size as set in the Media settings."
-msgstr ""
+msgstr "一旦您做出选择，您可以通过输入像素大小来调整它。最小选择大小是媒体设置中设定的缩略图。"
 
 #: wp-admin/includes/image-edit.php:210
 msgid "Aspect ratio:"
-msgstr ""
+msgstr "宽高比："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:215
 msgid "crop ratio width"
-msgstr ""
+msgstr "裁剪比率宽度"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:223
 msgid "crop ratio height"
-msgstr ""
+msgstr "裁剪比率高度"
 
 #: wp-admin/includes/image-edit.php:231
 msgid "Selection:"
-msgstr ""
+msgstr "选区："
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:236
 msgid "selection width"
-msgstr ""
+msgstr "选区宽度"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:244
 msgid "selection height"
-msgstr ""
+msgstr "选区高度"
 
 #: wp-admin/includes/image-edit.php:260
 msgid "Thumbnail Settings"
-msgstr ""
+msgstr "缩略图设置"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:264
 msgid "Thumbnail Settings Help"
-msgstr ""
+msgstr "缩略图设置帮助"
 
 #: wp-admin/includes/image-edit.php:268
 msgid "You can edit the image while preserving the thumbnail. For example, you may wish to have a square thumbnail that displays just a section of the image."
-msgstr ""
+msgstr "您可以在保存缩略图的同时编辑图像。 例如，您可能希望有一个只显示一部分图像的正方形缩略图。"
 
 #: wp-admin/includes/image-edit.php:274
 msgid "Current thumbnail"
-msgstr ""
+msgstr "当前缩略图"
 
 #: wp-admin/includes/image-edit.php:279
 msgid "Apply changes to:"
-msgstr ""
+msgstr "应用更改至："
 
 #: wp-admin/includes/image-edit.php:283
 msgid "All image sizes"
-msgstr ""
+msgstr "所有图像尺寸"
 
 #: wp-admin/includes/image-edit.php:293
 msgid "All sizes except thumbnail"
-msgstr ""
+msgstr "除缩略图以外的所有尺寸"
 
 #: wp-admin/includes/image-edit.php:325
 msgid "There are unsaved changes that will be lost. 'OK' to continue, 'Cancel' to return to the Image Editor."
-msgstr ""
+msgstr "一些未保存的修改将会丢失。按「确定」键继续，「取消」以返回图像编辑器。"
 
 #. translators: 1: $image, 2: WP_Image_Editor
 #: wp-admin/includes/image-edit.php:360
 #: wp-admin/includes/image-edit.php:449
 #: wp-admin/includes/image-edit.php:614
 msgid "%1$s needs to be a %2$s object."
-msgstr ""
+msgstr "%1$s 需要是一个 %2$s 对象。"
 
 #: wp-admin/includes/image-edit.php:790
 msgid "Cannot load image metadata."
-msgstr ""
+msgstr "无法加载图像元数据。"
 
 #: wp-admin/includes/image-edit.php:850
 msgid "Cannot save image metadata."
-msgstr ""
+msgstr "无法保存图像元数据。"
 
 #: wp-admin/includes/image-edit.php:855
 msgid "Image metadata is inconsistent."
-msgstr ""
+msgstr "图像元数据不一致。"
 
 #: wp-admin/includes/image-edit.php:857
 msgid "Image restored successfully."
-msgstr ""
+msgstr "图像恢复成功。"
 
 #: wp-admin/includes/image-edit.php:887
 msgid "Unable to create new image."
-msgstr ""
+msgstr "无法创建新图像。"
 
 #: wp-admin/includes/image-edit.php:911
 msgid "Error while saving the scaled image. Please reload the page and try again."
-msgstr ""
+msgstr "保存缩放过的图像时出错。请重新加载页面并重试。"
 
 #: wp-admin/includes/image-edit.php:920
 msgid "Nothing to save, the image has not changed."
-msgstr ""
+msgstr "没有什么可保存的，图像没有发生更改。"
 
 #: wp-admin/includes/image-edit.php:969
 msgid "Unable to save the image."
-msgstr ""
+msgstr "无法保存此图像。"
 
 #: wp-admin/includes/image-edit.php:1106
 msgid "Image saved"
-msgstr ""
+msgstr "图像已保存"
 
 #: wp-admin/includes/image.php:167
 msgid "The attached file cannot be found."
-msgstr ""
+msgstr "找不到附加文件。"
 
 #: wp-admin/includes/import.php:186
 msgid "Blogger"
-msgstr ""
+msgstr "Blogger"
 
 #: wp-admin/includes/import.php:187
 msgid "Import posts, comments, and users from a Blogger blog."
-msgstr ""
+msgstr "从 Blogger 博客导入文章、评论和用户。"
 
 #: wp-admin/includes/import.php:192
 #: wp-admin/tools.php:48
 #: wp-admin/tools.php:73
 msgid "Categories and Tags Converter"
-msgstr ""
+msgstr "分类和标签转换器"
 
 #: wp-admin/includes/import.php:193
 msgid "Convert existing categories to tags or tags to categories, selectively."
-msgstr ""
+msgstr "选择性地将现有分类转换为标签、或将标签转换为分类。"
 
 #: wp-admin/includes/import.php:198
 msgid "LiveJournal"
-msgstr ""
+msgstr "LiveJournal"
 
 #: wp-admin/includes/import.php:199
 msgid "Import posts from LiveJournal using their API."
-msgstr ""
+msgstr "使用 API 从 LiveJournal 导入文章。"
 
 #: wp-admin/includes/import.php:204
 msgid "Movable Type and TypePad"
-msgstr ""
+msgstr "Movable Type 及 TypePad"
 
 #: wp-admin/includes/import.php:205
 msgid "Import posts and comments from a Movable Type or TypePad blog."
-msgstr ""
+msgstr "从 Movable Type 或 TypePad 博客中导入文章和评论。"
 
 #: wp-admin/includes/import.php:210
 msgid "Blogroll"
-msgstr ""
+msgstr "Blogroll"
 
 #: wp-admin/includes/import.php:211
 msgid "Import links in OPML format."
-msgstr ""
+msgstr "以 OPML 格式导入链接。"
 
 #: wp-admin/includes/import.php:216
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: wp-admin/includes/import.php:217
 msgid "Import posts from an RSS feed."
@@ -12370,100 +12370,100 @@ msgstr "站点图标"
 
 #: wp-admin/includes/template.php:2332
 msgid "Logo"
-msgstr ""
+msgstr "徽标"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2557
 msgid "Likely direct inclusion of %1$s in order to use %2$s. This is very wrong. Hook the %2$s call into the %3$s action instead."
-msgstr ""
+msgstr "可能直接通过引入 %1$s 文件来使用 %2$s 函数。此操作不正确。请通过注入 %3$s 操作来调用 %2$s。"
 
 #: wp-admin/includes/template.php:2583
 msgid "The backup of this post in your browser is different from the version below."
-msgstr ""
+msgstr "在您浏览器中此文章的备份与下方的版本不同。"
 
 #: wp-admin/includes/template.php:2584
 msgid "Restore the backup"
-msgstr ""
+msgstr "还原备份"
 
 #: wp-admin/includes/template.php:2587
 msgid "This will replace the current editor content with the last backup version. You can use undo and redo in the editor to get the old content back or to return to the restored version."
-msgstr ""
+msgstr "这将用上次备份版本替换当前编辑器内容。您可以在编辑器中使用撤消和重做来恢复旧的内容或返回已恢复的版本。"
 
 #. translators: Hidden accessibility text. 1: The rating, 2: The number of ratings.
 #: wp-admin/includes/template.php:2640
 msgid "%1$s rating based on %2$s rating"
 msgid_plural "%1$s rating based on %2$s ratings"
-msgstr[0] ""
+msgstr[0] "%1$s 分，基于 %2$s 次评价"
 
 #. translators: Hidden accessibility text. %s: The rating.
 #: wp-admin/includes/template.php:2644
 msgid "%s rating"
-msgstr ""
+msgstr "%s 评分"
 
 #: wp-admin/includes/template.php:2670
 msgid "You are currently editing the page that shows your latest posts."
-msgstr ""
+msgstr "您正在编辑显示您最新文章的页面。"
 
 #: wp-admin/includes/theme-install.php:95
 msgid "Search for themes by keyword."
-msgstr ""
+msgstr "通过关键字搜索主题。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:104
 msgid "Type of search"
-msgstr ""
+msgstr "搜索类型"
 
 #: wp-admin/includes/theme-install.php:110
 msgctxt "Theme Installer"
 msgid "Tag"
-msgstr ""
+msgstr "标签"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:117
 #: wp-admin/includes/theme-install.php:134
 msgid "Search by keyword"
-msgstr ""
+msgstr "按关键字搜索"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:121
 msgid "Search by author"
-msgstr ""
+msgstr "按作者搜索"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:125
 msgid "Search by tag"
-msgstr ""
+msgstr "按标签搜索"
 
 #: wp-admin/includes/theme-install.php:152
 #: wp-admin/theme-install.php:198
 msgid "Feature Filter"
-msgstr ""
+msgstr "特性筛选"
 
 #: wp-admin/includes/theme-install.php:153
 msgid "Find a theme based on specific features."
-msgstr ""
+msgstr "基于特定功能查找一个主题。"
 
 #: wp-admin/includes/theme-install.php:185
 msgid "Find Themes"
-msgstr ""
+msgstr "查找主题"
 
 #: wp-admin/includes/theme-install.php:197
 msgid "If you have a theme in a .zip format, you may install or update it by uploading it here."
-msgstr ""
+msgstr "如果你有一个 .zip 格式的插主题，你可以在这里上传它来安装或更新它。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:203
 msgid "Theme zip file"
-msgstr ""
+msgstr "主题 zip 文件"
 
 #: wp-admin/includes/theme-install.php:264
 msgid "Theme Installation"
-msgstr ""
+msgstr "主题安装"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:102
 msgid "Could not fully remove the theme %s."
-msgstr ""
+msgstr "无法完全删除主题 %s。"
 
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number.
 #. translators: 1: Plugin name, 2: Details URL, 3: Additional link attributes, 4: Version number.
@@ -12472,7 +12472,7 @@ msgstr ""
 #: wp-admin/includes/update.php:488
 #: wp-admin/includes/update.php:679
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" %3$s>View version %4$s details</a>."
-msgstr ""
+msgstr "%1$s 有一个新的版本可用。<a href=\"%2$s\" %3$s>查看版本 %4$s 详情</a>。"
 
 #. translators: 1: Theme name, 2: Version number.
 #. translators: 1: Plugin name, 2: Version number.
@@ -12488,14 +12488,14 @@ msgstr ""
 #: wp-admin/includes/update.php:711
 #: wp-admin/update-core.php:417
 msgid "View %1$s version %2$s details"
-msgstr ""
+msgstr "查看 %1$s 版本 %2$s 详情"
 
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number.
 #. translators: 1: Theme name, 2: Details URL, 3: Additional link attributes, 4: Version number.
 #: wp-admin/includes/theme.php:236
 #: wp-admin/includes/update.php:692
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" %3$s>View version %4$s details</a>. <em>Automatic update is unavailable for this theme.</em>"
-msgstr ""
+msgstr "%1$s 有一个新版本可用。<a href=\"%2$s\" %3$s>查看版本 %4$s 详情</a>。<em>自动更新对此主题不可用。</em>"
 
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number, 5: Update URL, 6: Additional link attributes.
 #. translators: 1: Plugin name, 2: Details URL, 3: Additional link attributes, 4: Version number, 5: Update URL, 6: Additional link attributes.
@@ -12504,112 +12504,112 @@ msgstr ""
 #: wp-admin/includes/update.php:515
 #: wp-admin/includes/update.php:705
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" %3$s>View version %4$s details</a> or <a href=\"%5$s\" %6$s>update now</a>."
-msgstr ""
+msgstr "%1$s 有一个新的版本可用。<a href=\"%2$s\" %3$s>查看版本 %4$s 详情</a>或<a href=\"%5$s\" %6$s>立即升级</a>。"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:262
 #: wp-admin/includes/update.php:718
 msgctxt "theme"
 msgid "Update %s now"
-msgstr ""
+msgstr "立即升级 %s"
 
 #: wp-admin/includes/theme.php:306
 #: wp-admin/includes/theme.php:371
 msgid "Subject"
-msgstr ""
+msgstr "主题"
 
 #: wp-admin/includes/theme.php:307
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: wp-admin/includes/theme.php:308
 msgid "E-Commerce"
-msgstr ""
+msgstr "电子商务"
 
 #: wp-admin/includes/theme.php:309
 msgid "Education"
-msgstr ""
+msgstr "教育"
 
 #: wp-admin/includes/theme.php:310
 msgid "Entertainment"
-msgstr ""
+msgstr "娱乐"
 
 #: wp-admin/includes/theme.php:311
 msgid "Food & Drink"
-msgstr ""
+msgstr "饮食"
 
 #: wp-admin/includes/theme.php:312
 msgid "Holiday"
-msgstr ""
+msgstr "假日"
 
 #: wp-admin/includes/theme.php:313
 msgid "News"
-msgstr ""
+msgstr "新闻"
 
 #: wp-admin/includes/theme.php:314
 msgid "Photography"
-msgstr ""
+msgstr "摄影"
 
 #: wp-admin/includes/theme.php:315
 msgid "Portfolio"
-msgstr ""
+msgstr "个人"
 
 #: wp-admin/includes/theme.php:318
 #: wp-admin/includes/theme.php:370
 msgid "Features"
-msgstr ""
+msgstr "特性"
 
 #: wp-admin/includes/theme.php:319
 msgid "Accessibility Ready"
-msgstr ""
+msgstr "辅助功能就绪"
 
 #: wp-admin/includes/theme.php:321
 msgid "Custom Colors"
-msgstr ""
+msgstr "自定义颜色"
 
 #: wp-admin/includes/theme.php:323
 msgid "Custom Logo"
-msgstr ""
+msgstr "自定义徽标"
 
 #: wp-admin/includes/theme.php:324
 msgid "Editor Style"
-msgstr ""
+msgstr "编辑器样式"
 
 #: wp-admin/includes/theme.php:325
 msgid "Featured Image Header"
-msgstr ""
+msgstr "特色图像页眉"
 
 #: wp-admin/includes/theme.php:326
 msgid "Featured Images"
-msgstr ""
+msgstr "特色图像"
 
 #: wp-admin/includes/theme.php:327
 msgid "Footer Widgets"
-msgstr ""
+msgstr "页脚小工具"
 
 #: wp-admin/includes/theme.php:328
 msgid "Full Width Template"
-msgstr ""
+msgstr "全宽模板"
 
 #: wp-admin/includes/theme.php:330
 msgid "Sticky Post"
-msgstr ""
+msgstr "文章置顶"
 
 #: wp-admin/includes/theme.php:331
 msgid "Theme Options"
-msgstr ""
+msgstr "主题选项"
 
 #: wp-admin/includes/theme.php:335
 msgid "Grid Layout"
-msgstr ""
+msgstr "网格布局"
 
 #: wp-admin/includes/theme.php:336
 msgid "One Column"
-msgstr ""
+msgstr "单列"
 
 #: wp-admin/includes/theme.php:337
 msgid "Two Columns"
-msgstr ""
+msgstr "两列"
 
 #: wp-admin/includes/theme.php:338
 msgid "Three Columns"
@@ -13618,114 +13618,114 @@ msgstr "%1$s 表不正确。它报告了如下错误：%2$s。ClassicPress 将�
 #. translators: %s: Table name.
 #: wp-admin/maint/repair.php:126
 msgid "Successfully repaired the %s table."
-msgstr ""
+msgstr "成功修复了表 %s。"
 
 #. translators: 1: Table name, 2: Error message.
 #: wp-admin/maint/repair.php:129
 msgid "Failed to repair the %1$s table. Error: %2$s"
-msgstr ""
+msgstr "无法修复表 %1$s。错误：%2$s"
 
 #. translators: %s: Table name.
 #: wp-admin/maint/repair.php:141
 msgid "The %s table is already optimized."
-msgstr ""
+msgstr "表 %s 已被优化。"
 
 #. translators: %s: Table name.
 #: wp-admin/maint/repair.php:148
 msgid "Successfully optimized the %s table."
-msgstr ""
+msgstr "成功优化了表 %s。"
 
 #. translators: 1: Table name. 2: Error message.
 #: wp-admin/maint/repair.php:151
 msgid "Failed to optimize the %1$s table. Error: %2$s"
-msgstr ""
+msgstr "无法优化表 %1$s。错误：%2$s"
 
 #. translators: %s: URL to "Fixing WordPress" forum.
 #: wp-admin/maint/repair.php:161
 msgid "Some database problems could not be repaired. Please copy-and-paste the following list of errors to the <a href=\"%s\">ClassicPress support forums</a> to get additional assistance."
-msgstr ""
+msgstr "一些数据库问题无法修复。请复制并粘贴以下错误列表至 <a href=\"%s\">ClassicPress 支持论坛</a>以获取更多协助。"
 
 #: wp-admin/maint/repair.php:162
 msgid "https://wordpress.org/support/forum/how-to-and-troubleshooting"
-msgstr ""
+msgstr "https://wordpress.org/support/forum/how-to-and-troubleshooting"
 
 #: wp-admin/maint/repair.php:170
 msgid "Repairs complete. Please remove the following line from wp-config.php to prevent this page from being used by unauthorized users."
-msgstr ""
+msgstr "修复完成。请从 wp-config.php 中删除以下行，以防止此页面被未经授权的用户使用。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/maint/repair.php:176
 msgid "ClassicPress database repair"
-msgstr ""
+msgstr "ClassicPress 数据库修复"
 
 #: wp-admin/maint/repair.php:180
 msgid "One or more database tables are unavailable. To allow ClassicPress to attempt to repair these tables, press the &#8220;Repair Database&#8221; button. Repairing can take a while, so please be patient."
-msgstr ""
+msgstr "一个或多个数据库表不可用。要允许 ClassicPress 尝试修复这些表，请单击「修复数据库」按钮。修复可能需要一段时间，所以请耐心等待。"
 
 #: wp-admin/maint/repair.php:182
 msgid "ClassicPress can automatically look for some common database problems and repair them. Repairing can take a while, so please be patient."
-msgstr ""
+msgstr "ClassicPress 可以自动寻找一些常见的数据库问题并进行修复。修复可能需要一段时间，所以请耐心等待。"
 
 #: wp-admin/maint/repair.php:185
 msgid "Repair Database"
-msgstr ""
+msgstr "修复数据库"
 
 #: wp-admin/maint/repair.php:186
 msgid "ClassicPress can also attempt to optimize the database. This improves performance in some situations. Repairing and optimizing the database can take a long time and the database will be locked while optimizing."
-msgstr ""
+msgstr "ClassicPress 也可以尝试优化数据库，在某些情况下提高性能。修复和优化数据库可能需要很长时间，数据库将在被优化时锁定。"
 
 #: wp-admin/maint/repair.php:187
 msgid "Repair and Optimize Database"
-msgstr ""
+msgstr "修复并优化数据库"
 
 #: wp-admin/media-new.php:43
 msgid "Upload New Media"
-msgstr ""
+msgstr "上传新媒体"
 
 #: wp-admin/media-new.php:51
 msgid "You can upload media files here without creating a post first. This allows you to upload files to use with posts and pages later and/or to get a web link for a particular file that you can share. There are three options for uploading files:"
-msgstr ""
+msgstr "您可以在这里上传媒体文件而无需首先创建一个文章。这允许您稍后将所上传文件与文章和页面一起使用和/或获取您可以共享的特定文件的 Web 链接。上传文件有三个选项："
 
 #: wp-admin/media-new.php:53
 msgid "<strong>Drag and drop</strong> your files into the area below. Multiple files are allowed."
-msgstr ""
+msgstr "将您的文件<strong>拖放</strong>至上传区域中。允许同时上传多个文件。"
 
 #: wp-admin/media-new.php:54
 msgid "Clicking <strong>Select Files</strong> opens a navigation window showing you files in your operating system. Selecting <strong>Open</strong> after clicking on the file you want activates a progress bar on the uploader screen."
-msgstr ""
+msgstr "单击<strong>选择文件</strong>会打开一个对话框，允许您选择您操作系统中的文件。在选择您希望上传的文件后单击<strong>打开</strong>，您将会在屏幕上看到一个上传进度条。"
 
 #: wp-admin/media-new.php:55
 msgid "Revert to the <strong>Browser Uploader</strong> by clicking the link below the drag and drop box."
-msgstr ""
+msgstr "点击拖放框下面的链接以恢复使用<strong>浏览器上传器</strong>。"
 
 #: wp-admin/media-new.php:61
 msgid "<a href=\"https://wordpress.org/documentation/article/media-add-new-screen/\">Documentation on Uploading Media Files</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/media-add-new-screen/\">上传媒体文档</a>"
 
 #: wp-admin/media-upload.php:39
 msgid "Invalid item ID."
-msgstr ""
+msgstr "无效的项目 ID。"
 
 #: wp-admin/media.php:23
 #: wp-admin/media.php:62
 msgid "Sorry, you are not allowed to edit this attachment."
-msgstr ""
+msgstr "对不起，您无权编辑此附件。"
 
 #: wp-admin/media.php:49
 msgid "Edit Media"
-msgstr ""
+msgstr "编辑媒体"
 
 #: wp-admin/media.php:68
 msgid "You attempted to edit an attachment that does not exist. Perhaps it was deleted?"
-msgstr ""
+msgstr "你正试图编辑一个不存在的附件。或许它已被删除？"
 
 #: wp-admin/media.php:71
 msgid "You attempted to edit an item that is not an attachment. Please go back and try again."
-msgstr ""
+msgstr "您试图编辑一个不是附件的项目。请返回并重试。"
 
 #: wp-admin/media.php:74
 msgid "You cannot edit this attachment because it is in the Trash. Please move it out of the Trash and try again."
-msgstr ""
+msgstr "您不能编辑此附件，因为它在回收站中。请将其移出回收站，然后再试一次。"
 
 #. translators: Add new file.
 #: wp-admin/media.php:130
@@ -13734,114 +13734,114 @@ msgstr ""
 #: wp-admin/upload.php:373
 msgctxt "file"
 msgid "Add New"
-msgstr ""
+msgstr "新增文件"
 
 #: wp-admin/menu-header.php:321
 #: wp-admin/js/common.js:1989
 msgid "Collapse Main menu"
-msgstr ""
+msgstr "收起主菜单"
 
 #: wp-admin/menu-header.php:323
 msgid "Collapse menu"
-msgstr ""
+msgstr "收起菜单"
 
 #: wp-admin/menu-header.php:329
 msgid "Main menu"
-msgstr ""
+msgstr "主菜单"
 
 #: wp-admin/menu-header.php:330
 msgid "Skip to main content"
-msgstr ""
+msgstr "跳转至主要内容"
 
 #: wp-admin/menu-header.php:331
 msgid "Skip to toolbar"
-msgstr ""
+msgstr "跳转至工具栏"
 
 #: wp-admin/menu.php:26
 msgid "Home"
-msgstr ""
+msgstr "首页"
 
 #: wp-admin/menu.php:29
 msgid "My Sites"
-msgstr ""
+msgstr "我的站点"
 
 #. translators: %s: Number of pending updates.
 #: wp-admin/menu.php:49
 msgid "Updates %s"
-msgstr ""
+msgstr "更新 %s"
 
 #: wp-admin/menu.php:67
 msgid "Library"
-msgstr ""
+msgstr "媒体库"
 
 #: wp-admin/menu.php:81
 msgctxt "admin menu"
 msgid "All Links"
-msgstr ""
+msgstr "所有链接"
 
 #: wp-admin/menu.php:84
 msgid "Link Categories"
-msgstr ""
+msgstr "链接分类"
 
 #. translators: %s: Number of comments.
 #: wp-admin/menu.php:98
 msgid "Comments %s"
-msgstr ""
+msgstr "评论 %s"
 
 #: wp-admin/menu.php:109
 msgid "All Comments"
-msgstr ""
+msgstr "所有评论"
 
 #: wp-admin/menu.php:188
 msgid "Appearance"
-msgstr ""
+msgstr "外观"
 
 #. translators: %s: Number of available theme updates.
 #: wp-admin/menu.php:203
 msgid "Themes %s"
-msgstr ""
+msgstr "主题 %s"
 
 #: wp-admin/menu.php:210
 #: wp-admin/nav-menus.php:32
 #: wp-admin/nav-menus.php:700
 msgid "Menus"
-msgstr ""
+msgstr "菜单"
 
 #: wp-admin/menu.php:240
 msgctxt "theme editor"
 msgid "Editor"
-msgstr ""
+msgstr "编辑"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/menu.php:256
 msgid "Plugins %s"
-msgstr ""
+msgstr "插件 %s"
 
 #: wp-admin/menu.php:258
 msgid "Installed Plugins"
-msgstr ""
+msgstr "已安装插件"
 
 #. translators: Add new plugin.
 #: wp-admin/menu.php:262
 #: wp-admin/plugins.php:729
 msgctxt "plugin"
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: wp-admin/menu.php:263
 #: wp-admin/plugins.php:728
 msgctxt "plugin"
 msgid "Add New"
-msgstr ""
+msgstr "新增插件"
 
 #: wp-admin/menu.php:264
 msgid "Plugin File Editor"
-msgstr ""
+msgstr "插件文件编辑器"
 
 #: wp-admin/menu.php:270
 #: wp-admin/users.php:25
 msgid "Users"
-msgstr ""
+msgstr "用户"
 
 #: wp-admin/menu.php:272
 #: wp-admin/menu.php:284
@@ -14534,29 +14534,29 @@ msgstr "复古（自动生成）"
 
 #: wp-admin/options-discussion.php:324
 msgid "RoboHash (Generated)"
-msgstr ""
+msgstr "Robohash（自动生成）"
 
 #: wp-admin/options-general.php:20
 msgid "General Settings"
-msgstr ""
+msgstr "通用设置"
 
 #. translators: Date and time format for exact current time, mainly about timezones, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/options-general.php:23
 msgctxt "timezone date format"
 msgid "Y-m-d H:i:s"
-msgstr ""
+msgstr "Y-m-d H:i:s"
 
 #: wp-admin/options-general.php:31
 msgid "The fields on this screen determine some of the basics of your site setup."
-msgstr ""
+msgstr "此屏幕上的字段决定了您站点设置的一些基本内容。"
 
 #: wp-admin/options-general.php:32
 msgid "Most themes show the site title at the top of every page, in the title bar of the browser, and as the identifying name for syndicated feeds. Many themes also show the tagline."
-msgstr ""
+msgstr "大多数主题都会将站点标题显示在每页的页首，浏览器的标签页名，以及标记订阅源身份的标题中。许多主题也会显示站点描述。"
 
 #: wp-admin/options-general.php:35
 msgid "The ClassicPress URL and the site URL can be the same (example.com) or different; for example, having the ClassicPress core files (example.com/classicpress) in a subdirectory instead of the root directory."
-msgstr ""
+msgstr "ClassicPress URL 和站点 URL 可以是相同的（example.com），也可以不同；例如，可以将 ClassicPress 核心文件放置于一个子目录中（example.com/classicpress），而不是根目录。"
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
