@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-30 04:30\n"
+"PO-Revision-Date: 2024-07-30 16:30\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -11564,73 +11564,73 @@ msgstr "立即安装更新"
 #. translators: %s: Plugin version.
 #: wp-admin/includes/plugin-install.php:914
 msgid "Newer Version (%s) Installed"
-msgstr ""
+msgstr "新版本（%s）已安装"
 
 #: wp-admin/includes/plugin-install.php:917
 msgid "Latest Version Installed"
-msgstr ""
+msgstr "最新版本已安装"
 
 #. translators: 1: Site Wide Only: true, 2: Network: true
 #: wp-admin/includes/plugin.php:100
 msgid "The %1$s plugin header is deprecated. Use %2$s instead."
-msgstr ""
+msgstr "%1$s 插件头已被废弃。请改用 %2$s 代替。"
 
 #. translators: %s: Plugin author.
 #: wp-admin/includes/plugin.php:222
 msgid "By %s."
-msgstr ""
+msgstr "由 %s 制作。"
 
 #: wp-admin/includes/plugin.php:502
 msgid "Advanced caching plugin."
-msgstr ""
+msgstr "高级缓存插件。"
 
 #: wp-admin/includes/plugin.php:503
 msgid "Custom database class."
-msgstr ""
+msgstr "自定义数据库类。"
 
 #: wp-admin/includes/plugin.php:504
 msgid "Custom database error message."
-msgstr ""
+msgstr "自定义数据库错误消息。"
 
 #: wp-admin/includes/plugin.php:505
 msgid "Custom installation script."
-msgstr ""
+msgstr "自定义安装脚本。"
 
 #: wp-admin/includes/plugin.php:506
 msgid "Custom maintenance message."
-msgstr ""
+msgstr "自定义维护信息。"
 
 #: wp-admin/includes/plugin.php:507
 msgid "External object cache."
-msgstr ""
+msgstr "外部对象缓存。"
 
 #: wp-admin/includes/plugin.php:508
 msgid "Custom PHP error message."
-msgstr ""
+msgstr "自定义 PHP 错误信息。"
 
 #: wp-admin/includes/plugin.php:509
 msgid "Custom PHP fatal error handler."
-msgstr ""
+msgstr "自定义 PHP 致命错误处理器。"
 
 #: wp-admin/includes/plugin.php:513
 msgid "Executed before Multisite is loaded."
-msgstr ""
+msgstr "在多站点加载之前执行。"
 
 #: wp-admin/includes/plugin.php:514
 msgid "Custom site deleted message."
-msgstr ""
+msgstr "自定义站点删除消息。"
 
 #: wp-admin/includes/plugin.php:515
 msgid "Custom site inactive message."
-msgstr ""
+msgstr "自定义站点未激活消息。"
 
 #: wp-admin/includes/plugin.php:516
 msgid "Custom site suspended message."
-msgstr ""
+msgstr "自定义站点封禁消息。"
 
 #: wp-admin/includes/plugin.php:735
 msgid "The plugin generated unexpected output."
-msgstr ""
+msgstr "插件生成了意外的输出。"
 
 #: wp-admin/includes/plugin.php:886
 msgid "One of the plugins is invalid."
@@ -14077,218 +14077,218 @@ msgstr "如果您还没有创建任何菜单，请<strong>单击「创建新菜�
 
 #: wp-admin/nav-menus.php:651
 msgid "You can assign theme locations to individual menus by <strong>selecting the desired settings</strong> at the bottom of the menu editor. To assign menus to all theme locations at once, <strong>visit the Manage Locations tab</strong> at the top of the screen."
-msgstr ""
+msgstr "您可以通过在菜单编辑器的底部<strong>选取您希望的选项</strong>来为每个菜单分配一个主题中的位置。要同时为所有位置分配菜单，请访问在屏幕顶端的<strong>管理位置选项卡</strong>。"
 
 #: wp-admin/nav-menus.php:656
 msgid "Menu Management"
-msgstr ""
+msgstr "菜单管理"
 
 #: wp-admin/nav-menus.php:661
 msgid "Each navigation menu may contain a mix of links to pages, categories, custom URLs or other content types. Menu links are added by selecting items from the expanding boxes in the left-hand column below."
-msgstr ""
+msgstr "每个导航菜单可能包含页面、分类、自定义 URL 或其他内容类型的链接。菜单链接是通过从左侧列的扩展框中选择项目添加的。"
 
 #: wp-admin/nav-menus.php:662
 msgid "<strong>Clicking the arrow to the right of any menu item</strong> in the editor will reveal a standard group of settings. Additional settings such as link target, CSS classes, link relationships, and link descriptions can be enabled and disabled via the Screen Options tab."
-msgstr ""
+msgstr "<strong>点击编辑器中任何菜单项右侧的箭头</strong>将会显示一个标准的设置组。可以通过屏幕选项选项卡启用和禁用其他设置，如链接目标、CSS 类、链接关系和链接描述。"
 
 #: wp-admin/nav-menus.php:663
 msgid "Add one or several items at once by <strong>selecting the checkbox next to each item and clicking Add to Menu</strong>"
-msgstr ""
+msgstr "可以通过<strong>选中选项旁的复选框并单击「添加至菜单」</strong>来同时添加多个项目至菜单。"
 
 #: wp-admin/nav-menus.php:664
 msgid "To add a custom link, <strong>expand the Custom Links section, enter a URL and link text, and click Add to Menu</strong>"
-msgstr ""
+msgstr "要添加自定义链接，<strong>请先展开自定义链接部分，并输入 URL 和链接文本，然后单击「添加到菜单」</strong>。"
 
 #: wp-admin/nav-menus.php:665
 msgid "To reorganize menu items, <strong>drag and drop items with your mouse or use your keyboard</strong>. Drag or move a menu item a little to the right to make it a submenu"
-msgstr ""
+msgstr "要重新整理菜单项，<strong>请用鼠标拖放项目或使用您的键盘</strong>。向右拖动或移动一个菜单项可使其成为子菜单项。"
 
 #: wp-admin/nav-menus.php:666
 msgid "Delete a menu item by <strong>expanding it and clicking the Remove link</strong>"
-msgstr ""
+msgstr "可以通过<strong>展开菜单项并单击「移除」链接</strong>来删除菜单项。"
 
 #: wp-admin/nav-menus.php:671
 msgid "Editing Menus"
-msgstr ""
+msgstr "编辑菜单"
 
 #: wp-admin/nav-menus.php:676
 msgid "This screen is used for globally assigning menus to locations defined by your theme."
-msgstr ""
+msgstr "此屏幕用于全局分配菜单到您主题定义的位置。"
 
 #: wp-admin/nav-menus.php:677
 msgid "To assign menus to one or more theme locations, <strong>select a menu from each location&#8217;s dropdown</strong>. When you are finished, <strong>click Save Changes</strong>"
-msgstr ""
+msgstr "要将菜单分配至一个或多个主题中的位置，<strong>请在每个位置的下拉框中选取一个菜单</strong>。当您完成操作时，别忘了单击<strong>保存修改</strong>。"
 
 #: wp-admin/nav-menus.php:678
 msgid "To edit a menu currently assigned to a theme location, <strong>click the adjacent &#8217;Edit&#8217; link</strong>"
-msgstr ""
+msgstr "要编辑已经分配至某个主题中的位置的菜单，请单击<strong>菜单旁的「编辑」链接</strong>。"
 
 #: wp-admin/nav-menus.php:679
 msgid "To add a new menu instead of assigning an existing one, <strong>click the &#8217;Use new menu&#8217; link</strong>. Your new menu will be automatically assigned to that theme location"
-msgstr ""
+msgstr "要创建新菜单而不是分配已有菜单，请<strong>单击「使用新菜单」链接</strong>。您的新菜单将会被自动分配至对应的主题位置。"
 
 #: wp-admin/nav-menus.php:692
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-menus-screen/\">Documentation on Menus</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-menus-screen/\">菜单文档</a>"
 
 #: wp-admin/nav-menus.php:715
 #: wp-admin/widgets-form.php:393
 msgid "Manage with Live Preview"
-msgstr ""
+msgstr "使用实时预览管理"
 
 #: wp-admin/nav-menus.php:730
 #: wp-admin/options-privacy.php:161
 #: wp-admin/privacy-policy-guide.php:44
 #: wp-admin/site-health.php:131
 msgid "Secondary menu"
-msgstr ""
+msgstr "次级菜单"
 
 #: wp-admin/nav-menus.php:731
 msgid "Edit Menus"
-msgstr ""
+msgstr "编辑菜单"
 
 #: wp-admin/nav-menus.php:742
 msgid "Manage Locations"
-msgstr ""
+msgstr "管理位置"
 
 #: wp-admin/nav-menus.php:755
 msgid "Your theme supports one menu. Select which menu you would like to use."
-msgstr ""
+msgstr "您的主题支持一个菜单位置。请选择您想要使用的菜单。"
 
 #. translators: %s: Number of menus.
 #: wp-admin/nav-menus.php:759
 msgid "Your theme supports %s menu. Select which menu appears in each location."
 msgid_plural "Your theme supports %s menus. Select which menu appears in each location."
-msgstr[0] ""
+msgstr[0] "您的主题支持 %s 个菜单位置。请选择每个位置要显示什么菜单。"
 
 #: wp-admin/nav-menus.php:773
 msgid "Theme Location"
-msgstr ""
+msgstr "主题位置"
 
 #: wp-admin/nav-menus.php:774
 msgid "Assigned Menu"
-msgstr ""
+msgstr "分配的菜单"
 
 #: wp-admin/nav-menus.php:783
 msgid "Select a Menu"
-msgstr ""
+msgstr "选择菜单"
 
 #: wp-admin/nav-menus.php:814
 msgctxt "menu"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/nav-menus.php:817
 msgid "Edit selected menu"
-msgstr ""
+msgstr "编辑所选菜单"
 
 #: wp-admin/nav-menus.php:838
 msgctxt "menu"
 msgid "Use new menu"
-msgstr ""
+msgstr "使用新菜单"
 
 #: wp-admin/nav-menus.php:864
 msgid "Create your first menu below."
-msgstr ""
+msgstr "在下方创建您的第一个菜单。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/nav-menus.php:868
 msgid "Fill in the Menu Name and click the Create Menu button to create your first menu."
-msgstr ""
+msgstr "填写菜单名称并点击创建菜单按钮以创建您的第一个菜单。"
 
 #. translators: %s: URL to create a new menu.
 #: wp-admin/nav-menus.php:877
 msgid "Edit your menu below, or <a href=\"%s\">create a new menu</a>. Do not forget to save your changes!"
-msgstr ""
+msgstr "在下面编辑您的菜单，或者<a href=\"%s\">创建一个新的菜单</a>。不要忘记保存您的修改！"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/nav-menus.php:892
 #: wp-admin/nav-menus.php:962
 msgid "Click the Save Menu button to save your changes."
-msgstr ""
+msgstr "单击「保存菜单」按钮以保存您的修改。"
 
 #: wp-admin/nav-menus.php:899
 msgid "Select a menu to edit:"
-msgstr ""
+msgstr "选择要编辑的菜单："
 
 #. translators: %s: URL to create a new menu.
 #: wp-admin/nav-menus.php:947
 msgid "or <a href=\"%s\">create a new menu</a>. Do not forget to save your changes!"
-msgstr ""
+msgstr "或<a href=\"%s\">创建一个新的菜单</a>。不要忘记保存您的修改！"
 
 #: wp-admin/nav-menus.php:986
 msgid "Add menu items"
-msgstr ""
+msgstr "添加菜单项"
 
 #: wp-admin/nav-menus.php:994
 msgid "Menu structure"
-msgstr ""
+msgstr "菜单结构"
 
 #: wp-admin/nav-menus.php:1017
 msgid "Menu Name"
-msgstr ""
+msgstr "菜单名称"
 
 #: wp-admin/nav-menus.php:1020
 #: wp-admin/nav-menus.php:1157
 msgid "Create Menu"
-msgstr ""
+msgstr "创建菜单"
 
 #: wp-admin/nav-menus.php:1020
 #: wp-admin/nav-menus.php:1157
 msgid "Save Menu"
-msgstr ""
+msgstr "保存菜单"
 
 #: wp-admin/nav-menus.php:1035
 msgid "Edit your default menu by adding or removing items. Drag the items into the order you prefer. Click Create Menu to save your changes."
-msgstr ""
+msgstr "通过添加或删除项目来编辑您的默认菜单。将项目排序为您喜欢的样子。单击「创建菜单」以保存您的修改。"
 
 #: wp-admin/nav-menus.php:1037
 msgid "Drag the items into the order you prefer. Click the arrow on the left of the item to reveal additional configuration options."
-msgstr ""
+msgstr "拖动项目到您喜欢的顺序。单击项目左侧的箭头以显示额外的配置选项。"
 
 #: wp-admin/nav-menus.php:1048
 #: wp-admin/nav-menus.php:1083
 msgid "Bulk Select"
-msgstr ""
+msgstr "批量选择"
 
 #: wp-admin/nav-menus.php:1064
 msgid "Give your menu a name, then click Create Menu."
-msgstr ""
+msgstr "为您的菜单选取一个名称，然后单击「创建菜单」。"
 
 #: wp-admin/nav-menus.php:1085
 msgid "Remove Selected Items"
-msgstr ""
+msgstr "移除所选项目"
 
 #: wp-admin/nav-menus.php:1087
 msgid "List of menu items selected for deletion:"
-msgstr ""
+msgstr "要删除的菜单项列表："
 
 #: wp-admin/nav-menus.php:1094
 msgid "Menu Settings"
-msgstr ""
+msgstr "菜单设置"
 
 #: wp-admin/nav-menus.php:1110
 msgid "Auto add pages"
-msgstr ""
+msgstr "自动添加页面"
 
 #: wp-admin/nav-menus.php:1112
 msgid "Automatically add new top-level pages to this menu"
-msgstr ""
+msgstr "自动将新的顶级页面添加到此菜单"
 
 #: wp-admin/nav-menus.php:1119
 msgid "Display location"
-msgstr ""
+msgstr "显示位置"
 
 #. translators: %s: Menu name.
 #: wp-admin/nav-menus.php:1139
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
-msgstr ""
+msgstr "（当前设置为：%s）"
 
 #: wp-admin/nav-menus.php:1182
 msgid "Delete Menu"
-msgstr ""
+msgstr "删除菜单"
 
 #: wp-admin/options-discussion.php:12
 #: wp-admin/options-general.php:16
@@ -14298,7 +14298,7 @@ msgstr ""
 #: wp-admin/options-writing.php:13
 #: wp-admin/options.php:51
 msgid "Sorry, you are not allowed to manage options for this site."
-msgstr ""
+msgstr "对不起，您无权管理此站点的选项。"
 
 #: wp-admin/options-discussion.php:25
 msgid "This screen provides many options for controlling the management and display of comments and links to your posts/pages. So many, in fact, they will not all fit here! :) Use the documentation links to get information on what each discussion setting does."
@@ -14863,233 +14863,233 @@ msgstr ""
 
 #: wp-admin/options-media.php:75
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 #: wp-admin/options-media.php:78
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 #: wp-admin/options-media.php:82
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
-msgstr ""
+msgstr "裁剪缩略图到精确尺寸（通常缩略图是成比例的）"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-media.php:87
 #: wp-admin/options-media.php:91
 msgid "Medium size"
-msgstr ""
+msgstr "中尺寸"
 
 #: wp-admin/options-media.php:94
 #: wp-admin/options-media.php:110
 msgid "Max Width"
-msgstr ""
+msgstr "最大宽度"
 
 #: wp-admin/options-media.php:97
 #: wp-admin/options-media.php:113
 msgid "Max Height"
-msgstr ""
+msgstr "最大高度"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-media.php:103
 #: wp-admin/options-media.php:107
 msgid "Large size"
-msgstr ""
+msgstr "大尺寸"
 
 #: wp-admin/options-media.php:127
 msgid "Embeds"
-msgstr ""
+msgstr "嵌入内容"
 
 #: wp-admin/options-media.php:134
 msgid "Uploading Files"
-msgstr ""
+msgstr "正在上传文件"
 
 #: wp-admin/options-media.php:146
 msgid "Store uploads in this folder"
-msgstr ""
+msgstr "将上传内容存储在此文件夹中"
 
 #. translators: %s: wp-content/uploads
 #: wp-admin/options-media.php:151
 msgid "Default is %s"
-msgstr ""
+msgstr "默认为 %s"
 
 #: wp-admin/options-media.php:158
 msgid "Full URL path to files"
-msgstr ""
+msgstr "文件的完整 URL 路径"
 
 #: wp-admin/options-media.php:160
 msgid "Configuring this is optional. By default, it should be blank."
-msgstr ""
+msgstr "配置它是可选的。默认情况下，它应该是空的。"
 
 #: wp-admin/options-media.php:167
 msgid "How do you want your uploads organized?"
-msgstr ""
+msgstr "您希望如何组织您的上传内容？"
 
 #: wp-admin/options-media.php:172
 msgid "Store all uploads in the same folder."
-msgstr ""
+msgstr "将所有上传文件存储在同一文件夹中。"
 
 #: wp-admin/options-media.php:175
 msgid "Organize uploads into year-based folders."
-msgstr ""
+msgstr "将上传内容分配至以年为基准的文件夹中。"
 
 #: wp-admin/options-media.php:178
 msgid "Organize uploads into month- and year-based folders."
-msgstr ""
+msgstr "将上传内容分配至以年月为基准的文件夹中。"
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
 msgid "Permalink Settings"
-msgstr ""
+msgstr "永久链接设置"
 
 #: wp-admin/options-permalink.php:24
 msgid "Permalinks are the permanent URLs to your individual pages and blog posts, as well as your category and tag archives. A permalink is the web address used to link to your content. The URL to each post should be permanent, and never change &#8212; hence the name permalink."
-msgstr ""
+msgstr "永久链接是您个人页面和博客文章，以及分类和标签归档的永久不变的链接。永久链接是用于链接您内容的网页地址。每个帖子的 URL 应该是永久性的，因此永远不要更改 &#8212;，这样才能叫做永久链接。"
 
 #: wp-admin/options-permalink.php:25
 msgid "This screen allows you to choose your permalink structure. You can choose from common settings or create custom URL structures."
-msgstr ""
+msgstr "此屏幕允许您选择您的永久链接结构。您可以从普通设置中选取或创建自定义 URL 结构。"
 
 #: wp-admin/options-permalink.php:34
 msgid "Permalinks can contain useful information, such as the post date, title, or other elements. You can choose from any of the suggested permalink formats, or you can craft your own if you select Custom Structure."
-msgstr ""
+msgstr "永久链接可以包含有用的信息，例如文章日期、标题或其他元素。您可以从推荐的任何永久链接格式中选择。或者如果您选择自定义结构，您可以自行制作。"
 
 #. translators: %s: Percent sign (%).
 #: wp-admin/options-permalink.php:37
 msgid "If you pick an option other than Plain, your general URL path with structure tags (terms surrounded by %s) will also appear in the custom structure field and your path can be further modified there."
-msgstr ""
+msgstr "如果您选择了除平淡以外的选项，您带结构标签的通用 URL 路径（由 %s包围的条目）也会出现在自定义结构字段中，您的路径可以在这里进一步修改。"
 
 #. translators: 1: %category%, 2: %tag%
 #: wp-admin/options-permalink.php:42
 msgid "When you assign multiple categories or tags to a post, only one can show up in the permalink: the lowest numbered category. This applies if your custom structure includes %1$s or %2$s."
-msgstr ""
+msgstr "当您将多个分类或标签分配给一篇文章时，只有一个可以在永久链接中显示：最短的分类名。仅当您的自定义结构包含 %1$s 或 %2$s，其才会产生影响。"
 
 #: wp-admin/options-permalink.php:53
 msgid "Custom Structures"
-msgstr ""
+msgstr "自定义结构"
 
 #: wp-admin/options-permalink.php:54
 msgid "The Optional fields let you customize the &#8220;category&#8221; and &#8220;tag&#8221; base names that will appear in archive URLs. For example, the page listing all posts in the &#8220;Uncategorized&#8221; category could be <code>/topics/uncategorized</code> instead of <code>/category/uncategorized</code>."
-msgstr ""
+msgstr "可选字段允许您自定义「分类」和「标签」将显示在归档页面的基础名称。例如，「未分类」归档页可以显示在<code>/topics/uncategorized</code>而不是<code>/category/uncategorized</code>中。"
 
 #: wp-admin/options-permalink.php:60
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-permalinks-screen/\">Documentation on Permalinks Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/settings-permalinks-screen/\">永久链接文档</a>"
 
 #: wp-admin/options-permalink.php:61
 msgid "<a href=\"https://wordpress.org/documentation/article/customize-permalinks/\">Documentation on Using Permalinks</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/customize-permalinks/\">使用永久链接文档</a>"
 
 #: wp-admin/options-permalink.php:64
 msgid "<a href=\"https://wordpress.org/documentation/article/nginx/\">Documentation on Nginx configuration</a>."
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/nginx/\">Nginx 配置文档</a>。"
 
 #: wp-admin/options-permalink.php:176
 msgid "Permalink structure updated."
-msgstr ""
+msgstr "永久链接结构已更新。"
 
 #. translators: %s: web.config
 #. translators: %s: .htaccess
 #: wp-admin/options-permalink.php:183
 #: wp-admin/options-permalink.php:196
 msgid "You should update your %s file now."
-msgstr ""
+msgstr "您现在应该更新您的 %s 文件。"
 
 #. translators: %s: web.config
 #: wp-admin/options-permalink.php:189
 msgid "Permalink structure updated. Remove write access on %s file now!"
-msgstr ""
+msgstr "永久链接结构已更新。现在移除在 %s 文件上的写访问权限！"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-permalink.php:226
 msgid "ClassicPress offers you the ability to create a custom URL structure for your permalinks and archives. Custom URL structures can improve the aesthetics, usability, and forward-compatibility of your links. A <a href=\"%s\">number of tags are available</a>, and here are some examples to get you started."
-msgstr ""
+msgstr "ClassicPress 能够为您的永久链接和归档创建一个自定义的 URL 结构。自定义 URL 结构可以提高您链接的视觉效果、可用性和向前兼容性。有<a href=\"%s\">不少标签</a>可用，为此我们准备了一些便于您开始的例子。。"
 
 #: wp-admin/options-permalink.php:227
 msgid "https://wordpress.org/support/article/using-permalinks/"
-msgstr ""
+msgstr "https://wordpress.org/support/article/using-permalinks/"
 
 #: wp-admin/options-permalink.php:246
 msgid "Plain"
-msgstr ""
+msgstr "平淡"
 
 #: wp-admin/options-permalink.php:252
 msgid "Day and name"
-msgstr ""
+msgstr "日期和名称"
 
 #: wp-admin/options-permalink.php:254
 #: wp-admin/options-permalink.php:260
 #: wp-admin/options-permalink.php:272
 msgctxt "sample permalink structure"
 msgid "sample-post"
-msgstr ""
+msgstr "sample-post"
 
 #: wp-admin/options-permalink.php:258
 msgid "Month and name"
-msgstr ""
+msgstr "月份和名称"
 
 #: wp-admin/options-permalink.php:264
 msgid "Numeric"
-msgstr ""
+msgstr "数字"
 
 #: wp-admin/options-permalink.php:265
 #: wp-admin/options-permalink.php:266
 msgctxt "sample permalink base"
 msgid "archives"
-msgstr ""
+msgstr "archives"
 
 #: wp-admin/options-permalink.php:270
 msgid "Post name"
-msgstr ""
+msgstr "文章名称"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:280
 msgid "%s (The year of the post, four digits, for example 2004.)"
-msgstr ""
+msgstr "%s（文章发表年份，四位数字，例如 2008。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:282
 msgid "%s (Month of the year, for example 05.)"
-msgstr ""
+msgstr "%s（一年之中的月份，例如 08。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:284
 msgid "%s (Day of the month, for example 28.)"
-msgstr ""
+msgstr "%s（一月之中的日期，例如 24。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:286
 msgid "%s (Hour of the day, for example 15.)"
-msgstr ""
+msgstr "%s（一天中的小时，例如 15。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:288
 msgid "%s (Minute of the hour, for example 43.)"
-msgstr ""
+msgstr "%s（一小时中的分钟，例如 43。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:290
 msgid "%s (Second of the minute, for example 33.)"
-msgstr ""
+msgstr "%s（一分钟之中的秒，例如 33。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:292
 msgid "%s (The unique ID of the post, for example 423.)"
-msgstr ""
+msgstr "%s（文章的唯一 ID，例如 423。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:294
 msgid "%s (The sanitized post title (slug).)"
-msgstr ""
+msgstr "%s（已经安全化的文章标题（slug）。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:296
 msgid "%s (Category slug. Nested sub-categories appear as nested directories in the URL.)"
-msgstr ""
+msgstr "%s（分类 slug。具有分层结构的子分类将会在 URL 中显示为子目录。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:298
 msgid "%s (A sanitized version of the author name.)"
-msgstr ""
+msgstr "%s（已安全化的作者名称。）"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:311
