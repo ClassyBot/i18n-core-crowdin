@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-29 11:13\n"
+"PO-Revision-Date: 2024-07-30 04:30\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -11411,155 +11411,155 @@ msgstr "论坛"
 
 #: wp-admin/includes/plugin-install.php:390
 msgid "These are some of the most common types of plugins. Not all categories are represented here."
-msgstr ""
+msgstr "这些是一些最常见的插件类别。并非所有类别都在这里展示。"
 
 #. translators: %s: URL to "Features as Plugins" page.
 #: wp-admin/includes/plugin-install.php:424
 msgid "You are using a development version of ClassicPress. These feature plugins are also under development. <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "您正在使用一个开发版本的 ClassicPress。这些功能性插件同样处于开发当中。<a href=\"%s\">了解更多</a>。"
 
 #: wp-admin/includes/plugin-install.php:429
 msgid "These suggestions are based on the plugins you and other users have installed."
-msgstr ""
+msgstr "这些建议基于您和其他用户已安装的插件。"
 
 #: wp-admin/includes/plugin-install.php:600
 msgctxt "Plugin installer section title"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #: wp-admin/includes/plugin-install.php:601
 msgctxt "Plugin installer section title"
 msgid "Installation"
-msgstr ""
+msgstr "安装"
 
 #: wp-admin/includes/plugin-install.php:602
 msgctxt "Plugin installer section title"
 msgid "FAQ"
-msgstr ""
+msgstr "常见问题"
 
 #: wp-admin/includes/plugin-install.php:603
 msgctxt "Plugin installer section title"
 msgid "Screenshots"
-msgstr ""
+msgstr "屏幕截图"
 
 #: wp-admin/includes/plugin-install.php:604
 msgctxt "Plugin installer section title"
 msgid "Changelog"
-msgstr ""
+msgstr "更新日志"
 
 #: wp-admin/includes/plugin-install.php:605
 msgctxt "Plugin installer section title"
 msgid "Reviews"
-msgstr ""
+msgstr "评价"
 
 #: wp-admin/includes/plugin-install.php:606
 msgctxt "Plugin installer section title"
 msgid "Other Notes"
-msgstr ""
+msgstr "其它说明"
 
 #: wp-admin/includes/plugin-install.php:629
 #: wp-admin/update.php:152
 msgid "Plugin Installation"
-msgstr ""
+msgstr "插件安装"
 
 #: wp-admin/includes/plugin-install.php:687
 msgid "Author:"
-msgstr ""
+msgstr "作者："
 
 #: wp-admin/includes/plugin-install.php:697
 msgid "Requires WordPress Version:"
-msgstr ""
+msgstr "所需的 WordPress 版本:"
 
 #. translators: %s: Version number.
 #: wp-admin/includes/plugin-install.php:700
 #: wp-admin/includes/plugin-install.php:710
 msgid "%s or higher"
-msgstr ""
+msgstr "%s 或以上"
 
 #: wp-admin/includes/plugin-install.php:704
 msgid "Compatible Up to WordPress Version:"
-msgstr ""
+msgstr "兼容至 WordPress 版本："
 
 #: wp-admin/includes/plugin-install.php:707
 msgid "Requires PHP Version:"
-msgstr ""
+msgstr "所需的 PHP 版本:"
 
 #: wp-admin/includes/plugin-install.php:714
 msgid "Active Installations:"
-msgstr ""
+msgstr "活跃安装数："
 
 #: wp-admin/includes/plugin-install.php:731
 msgid "WordPress.org Plugin Page &#187;"
-msgstr ""
+msgstr "WordPress.org 插件页面 &#187;"
 
 #: wp-admin/includes/plugin-install.php:733
 msgid "Plugin Homepage &#187;"
-msgstr ""
+msgstr "插件主页 &#187;"
 
 #: wp-admin/includes/plugin-install.php:735
 #: wp-admin/includes/plugin-install.php:822
 msgid "Donate to this plugin &#187;"
-msgstr ""
+msgstr "为此插件捐赠 &#187;"
 
 #: wp-admin/includes/plugin-install.php:739
 msgid "Average Rating"
-msgstr ""
+msgstr "平均评分"
 
 #. translators: %s: Number of ratings.
 #: wp-admin/includes/plugin-install.php:753
 msgid "(based on %s rating)"
 msgid_plural "(based on %s ratings)"
-msgstr[0] ""
+msgstr[0] "（基于 %s 次评分）"
 
 #: wp-admin/includes/plugin-install.php:763
 msgid "Reviews"
-msgstr ""
+msgstr "评价"
 
 #: wp-admin/includes/plugin-install.php:764
 msgid "Read all reviews on WordPress.org or write your own!"
-msgstr ""
+msgstr "阅读所有在 WordPress.org 上的评价或撰写您自己的评价！"
 
 #. translators: 1: Number of stars (used to determine singular/plural), 2: Number of reviews.
 #: wp-admin/includes/plugin-install.php:772
 msgid "Reviews with %1$d star: %2$s. Opens in a new tab."
 msgid_plural "Reviews with %1$d stars: %2$s. Opens in a new tab."
-msgstr[0] ""
+msgstr[0] "%2$s 个 %1$d 星评价。（将会在新标签页中打开。）"
 
 #. translators: %s: Number of stars.
 #: wp-admin/includes/plugin-install.php:790
 msgid "%d star"
 msgid_plural "%d stars"
-msgstr[0] ""
+msgstr[0] "%d 星"
 
 #: wp-admin/includes/plugin-install.php:804
 msgid "Contributors"
-msgstr ""
+msgstr "贡献者"
 
 #: wp-admin/includes/plugin-install.php:837
 msgid "<strong>Error:</strong> This plugin <strong>requires a newer version of PHP</strong>."
-msgstr ""
+msgstr "<strong>错误：</strong> 此插件 <strong>需要更新版本的 PHP</strong>。"
 
 #. translators: %s: URL to Update PHP page.
 #: wp-admin/includes/plugin-install.php:841
 msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_blank\">了解更多关于更新 PHP 的信息</a>。"
 
 #: wp-admin/includes/plugin-install.php:854
 msgid "<strong>Warning:</strong> This plugin <strong>has not been tested</strong> with your current version of ClassicPress."
-msgstr ""
+msgstr "<strong>警告：</strong>此插件未与您的 ClassicPress 版本<strong>进行兼容性测试</strong>。"
 
 #: wp-admin/includes/plugin-install.php:858
 msgid "<strong>Error:</strong> This plugin <strong>requires a newer version of ClassicPress</strong>."
-msgstr ""
+msgstr "<strong>错误：</strong> 此插件 <strong>需要更新版本的 ClassicPress</strong>。"
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/plugin-install.php:862
 msgid "<a href=\"%s\" target=\"_parent\">Click here to update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_parent\">点击这里升级 ClassicPress</a>。"
 
 #: wp-admin/includes/plugin-install.php:903
 msgid "Install Update Now"
-msgstr ""
+msgstr "立即安装更新"
 
 #. translators: %s: Plugin version.
 #: wp-admin/includes/plugin-install.php:914
