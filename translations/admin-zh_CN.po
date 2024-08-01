@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-30 16:30\n"
+"PO-Revision-Date: 2024-08-01 03:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -13144,47 +13144,47 @@ msgstr "<strong>错误：</strong>此用户名无效，因为它使用了非法�
 
 #: wp-admin/includes/user.php:219
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>错误：</strong>此用户名已被注册。请另选一个。"
 
 #: wp-admin/includes/user.php:226
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
-msgstr ""
+msgstr "<strong>错误：</strong>抱歉，该用户名不被允许。"
 
 #: wp-admin/includes/user.php:231
 msgid "<strong>Error:</strong> Please enter an email address."
-msgstr ""
+msgstr "<strong>错误：</strong>请输入一个电子邮件地址。"
 
 #: wp-admin/includes/user.php:233
 msgid "<strong>Error:</strong> The email address is not correct."
-msgstr ""
+msgstr "<strong>错误：</strong>电子邮件地址不正确。"
 
 #: wp-admin/includes/user.php:237
 msgid "<strong>Error:</strong> This email is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>错误：</strong>此电子邮件已被注册。请另选一个。"
 
 #: wp-admin/includes/user.php:555
 msgid "Notice:"
-msgstr ""
+msgstr "注意："
 
 #: wp-admin/includes/user.php:556
 msgid "You&rsquo;re using the auto-generated password for your account. Would you like to change it?"
-msgstr ""
+msgstr "您正在使用一个自动生成的密码。您希望更改它吗？"
 
 #: wp-admin/includes/user.php:558
 msgid "Yes, take me to my profile page"
-msgstr ""
+msgstr "是，转到我的个人资料页面"
 
 #: wp-admin/includes/user.php:559
 msgid "No thanks, do not remind me again"
-msgstr ""
+msgstr "否，且不要再提醒我"
 
 #: wp-admin/includes/user.php:595
 msgid "Use https"
-msgstr ""
+msgstr "使用 HTTPS"
 
 #: wp-admin/includes/user.php:596
 msgid "Always use https when visiting the admin"
-msgstr ""
+msgstr "在访问管理面板时总是使用 HTTPS"
 
 #. translators: 1: Site title, 2: Site URL, 3: User role.
 #: wp-admin/includes/user.php:619
@@ -13195,50 +13195,54 @@ msgid "Hi,\n"
 "this email. This invitation will expire in a few days.\n\n"
 "Please click the following link to activate your user account:\n"
 "%%s"
-msgstr ""
+msgstr "您好，\n"
+"您已以%3$s的身份被受邀加入站点「%1$s」（%2$s）。\n"
+"如果您不希望加入该站点，请忽略此消息。邀请链接将会在几天后失效。\n\n"
+"请单击下面的链接来启用您的账户：\n"
+"%s"
 
 #: wp-admin/includes/user.php:679
 msgid "The application ID must be a UUID."
-msgstr ""
+msgstr "应用程序 ID 必须是一个 UUID。"
 
 #: wp-admin/includes/user.php:721
 #: wp-admin/includes/user.php:743
 msgid "Invalid URL format."
-msgstr ""
+msgstr "无效的 URL 格式。"
 
 #: wp-admin/includes/user.php:750
 msgid "The URL must be served over a secure connection."
-msgstr ""
+msgstr "URL 必须通过安全连接提供。"
 
 #: wp-admin/includes/widgets.php:239
 msgctxt "widget"
 msgid "Edit"
-msgstr ""
+msgstr "编辑小工具"
 
 #: wp-admin/includes/widgets.php:240
 msgctxt "widget"
 msgid "Add"
-msgstr ""
+msgstr "添加小工具"
 
 #: wp-admin/includes/widgets.php:252
 #: wp-admin/widgets-form.php:292
 msgid "There are no options for this widget."
-msgstr ""
+msgstr "此小工具没有选项。"
 
 #: wp-admin/includes/widgets.php:273
 #: wp-admin/js/set-post-thumbnail.js:21
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 #: wp-admin/index.php:33
 #: wp-admin/menu.php:24
 #: wp-admin/user/menu.php:10
 msgid "Dashboard"
-msgstr ""
+msgstr "仪表盘"
 
 #: wp-admin/index.php:36
 msgid "Welcome to your ClassicPress Dashboard!"
-msgstr ""
+msgstr "欢迎使用 ClassicPress 仪表盘！"
 
 #: wp-admin/index.php:37
 msgid "The Dashboard is the first place you will come to every time you log into your site. It is where you access to all the site management features of ClassicPress. You can get help for any screen by clicking the Help tab above the screen title."
