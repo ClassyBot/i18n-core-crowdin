@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-01 03:50\n"
+"PO-Revision-Date: 2024-08-01 15:53\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -8792,7 +8792,7 @@ msgstr "活动"
 
 #: wp-admin/includes/dashboard.php:87
 msgid "Quick Draft"
-msgstr "快速草稿"
+msgstr "灵感一瞬"
 
 #: wp-admin/includes/dashboard.php:87
 #: wp-admin/includes/dashboard.php:660
@@ -13246,121 +13246,121 @@ msgstr "欢迎使用 ClassicPress 仪表盘！"
 
 #: wp-admin/index.php:37
 msgid "The Dashboard is the first place you will come to every time you log into your site. It is where you access to all the site management features of ClassicPress. You can get help for any screen by clicking the Help tab above the screen title."
-msgstr ""
+msgstr "仪表盘是您每次登录到您的站点时都会到达的第一个页面。这是访问所有 ClassicPress 站点管理功能的地方。您可以点击屏幕标题上方的「帮助」选项卡以获取帮助。"
 
 #: wp-admin/index.php:51
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
-msgstr ""
+msgstr "左侧的导航菜单提供了通往所有 ClassicPress 管理屏幕的链接，并且会在您悬浮时显示子项目。您也可以单击底部的收起菜单按钮来收起该导航菜单。"
 
 #: wp-admin/index.php:52
 msgid "Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful ClassicPress information."
-msgstr ""
+msgstr "位于屏幕顶部的工具栏中的链接用于连接您站点的前端与仪表盘，同时也提供了您的个人资料链接以及关于 ClassicPress 的一些信息。"
 
 #: wp-admin/index.php:57
 msgid "Navigation"
-msgstr ""
+msgstr "导航"
 
 #: wp-admin/index.php:62
 msgid "You can use the following controls to arrange your Dashboard screen to suit your workflow. This is true on most other administration screens as well."
-msgstr ""
+msgstr "您可以使用下列控制方式来使仪表盘符合您的工作流。这些方式通常也适用于其他屏幕。"
 
 #: wp-admin/index.php:63
 msgid "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to choose which Dashboard boxes to show."
-msgstr ""
+msgstr "<strong>屏幕选项</strong> &mdash; 屏幕选项选项卡可以用于选择要在仪表盘上显示哪些元素。"
 
 #: wp-admin/index.php:64
 msgid "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
-msgstr ""
+msgstr "<strong>拖放</strong> &mdash; 您可以通过拖拽组件上方的标题栏，并在您希望的位置显示出一个灰色的虚线方框时放开的方式来重新排序组件。"
 
 #: wp-admin/index.php:65
 msgid "<strong>Box Controls</strong> &mdash; Click the title bar of the box to expand or collapse it. Some boxes added by plugins may have configurable content, and will show a &#8220;Configure&#8221; link in the title bar if you hover over it."
-msgstr ""
+msgstr "<strong>组件控制</strong> &mdash; 单击组件上方的标题栏可以展开或收起组件。某些组件是由插件添加的，并有可能会在您悬停于其上时提供一个「配置」链接。"
 
 #: wp-admin/index.php:75
 msgid "The boxes on your Dashboard screen are:"
-msgstr ""
+msgstr "您仪表板屏幕上的组件如下："
 
 #: wp-admin/index.php:78
 msgid "<strong>Welcome</strong> &mdash; Shows links for some of the most common tasks when setting up a new site."
-msgstr ""
+msgstr "<strong>欢迎</strong> &mdash; 显示您创建一个新站点时最常使用的链接与任务。"
 
 #: wp-admin/index.php:82
 msgid "<strong>Site Health Status</strong> &mdash; Informs you of any potential issues that should be addressed to improve the performance or security of your website."
-msgstr ""
+msgstr "<strong>站点健康状态</strong> &mdash; 可为您站点目前潜在的安全与性能问题提供启示和指示。"
 
 #: wp-admin/index.php:86
 msgid "<strong>At a Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version of ClassicPress you are using."
-msgstr ""
+msgstr "<strong>一目了然</strong> &mdash; 可为您提供您站点目前内容的概览、您当前运行的主题、以及 ClassicPress 版本。"
 
 #: wp-admin/index.php:89
 msgid "<strong>Activity</strong> &mdash; Shows the upcoming scheduled posts, recently published posts, and the most recent comments on your posts and allows you to moderate them."
-msgstr ""
+msgstr "<strong>活动</strong> &mdash; 显示即将发表的已预订文章、最近发表的文章、以及您文章上最近发表的评论，并允许您管理它们。"
 
 #: wp-admin/index.php:92
 msgid "<strong>Quick Draft</strong> &mdash; Allows you to create a new post and save it as a draft. Also displays links to the 3 most recent draft posts you've started."
-msgstr ""
+msgstr "<strong>灵感一瞬</strong> &mdash; 允许您快速撰写一篇文章并且将其保存为草稿。该组件也会显示您最近 3 份草稿。"
 
 #. translators: %s: ClassicPress Planet URL.
 #: wp-admin/index.php:97
 msgid "<strong>ClassicPress News</strong> &mdash; Latest news from the official <a href=\"%s\">ClassicPress blog</a>."
-msgstr ""
+msgstr "<strong>ClassicPress 新闻</strong> &mdash; 显示来自官方 <a href=\"%s\">ClassicPress 博客</a>的最新文章。"
 
 #: wp-admin/index.php:113
 msgid "<a href=\"https://wordpress.org/support/article/dashboard-screen/\">Documentation on Dashboard</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/article/dashboard-screen/\">仪表盘文档</a>"
 
 #. translators: %s: Human-readable time interval.
 #: wp-admin/index.php:143
 msgid "The admin email verification page will reappear after %s."
-msgstr ""
+msgstr "管理员电子邮件验证页面将在 %s 之后重新出现。"
 
 #: wp-admin/index.php:166
 msgid "Dismiss the welcome panel"
-msgstr ""
+msgstr "关闭欢迎面板"
 
 #: wp-admin/install.php:73
 msgid "ClassicPress &rsaquo; Installation"
-msgstr ""
+msgstr "ClassicPress &rsaquo; 安装"
 
 #: wp-admin/install.php:108
 msgctxt "Howdy"
 msgid "Welcome"
-msgstr ""
+msgstr "欢迎"
 
 #: wp-admin/install.php:114
 #: wp-admin/options-general.php:69
 msgid "Site Title"
-msgstr ""
+msgstr "站点标题"
 
 #: wp-admin/install.php:122
 msgid "User(s) already exists."
-msgstr ""
+msgstr "用户已经存在。"
 
 #: wp-admin/install.php:127
 msgid "Usernames can have only alphanumeric characters, spaces, underscores, hyphens, periods, and the @ symbol."
-msgstr ""
+msgstr "用户名只能包含字母、数字字符、空格、下划线、连字符、句点、以及 @ 符号。"
 
 #: wp-admin/install.php:144
 #: wp-admin/user-edit.php:745
 #: wp-admin/user-new.php:594
 #: wp-admin/js/user-profile.js:81
 msgid "Hide password"
-msgstr ""
+msgstr "隐藏密码"
 
 #: wp-admin/install.php:151
 #: wp-admin/user-edit.php:204
 msgid "Important:"
-msgstr ""
+msgstr "重要："
 
 #. translators: The non-breaking space prevents 1Password from thinking the text "log in" should trigger a password save prompt.
 #: wp-admin/install.php:153
 msgid "You will need this password to log&nbsp;in. Please store it in a secure location."
-msgstr ""
+msgstr "您需要此密码才能登录。请将其存储在一个安全的位置。"
 
 #: wp-admin/install.php:158
 #: wp-admin/user-new.php:603
 msgid "Repeat Password"
-msgstr ""
+msgstr "重复密码"
 
 #: wp-admin/install.php:159
 #: wp-admin/user-edit.php:485
@@ -13370,13 +13370,13 @@ msgstr ""
 #: wp-admin/user-new.php:583
 #: wp-admin/user-new.php:603
 msgid "(required)"
-msgstr ""
+msgstr "（必填）"
 
 #: wp-admin/install.php:167
 #: wp-admin/user-edit.php:769
 #: wp-admin/user-new.php:610
 msgid "Confirm Password"
-msgstr ""
+msgstr "确认密码"
 
 #: wp-admin/install.php:171
 #: wp-admin/user-edit.php:773
@@ -15098,245 +15098,245 @@ msgstr "%s（已安全化的作者名称。）"
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:311
 msgid "%s added to permalink structure"
-msgstr ""
+msgstr "%s 已添加到永久链接结构"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:313
 msgid "%s removed from permalink structure"
-msgstr ""
+msgstr "%s 已从永久链接结构中移除"
 
 #. translators: %s: Permalink structure tag.
 #: wp-admin/options-permalink.php:315
 msgid "%s (already used in permalink structure)"
-msgstr ""
+msgstr "%s（已经在永久链接结构中使用）"
 
 #: wp-admin/options-permalink.php:317
 msgid "Common Settings"
-msgstr ""
+msgstr "常用设置"
 
 #. translators: %s: %postname%
 #: wp-admin/options-permalink.php:322
 msgid "Select the permalink structure for your website. Including the %s tag makes links easy to understand, and can help your posts rank higher in search engines."
-msgstr ""
+msgstr "选择您网站的永久链接结构。包含 %s 标签可使链接更易于理解，并可以帮助您的文章在搜索引擎取得更高的排名。"
 
 #: wp-admin/options-permalink.php:365
 msgid "Custom Structure"
-msgstr ""
+msgstr "自定义结构"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-permalink.php:370
 msgid "Customize permalink structure by selecting available tags"
-msgstr ""
+msgstr "通过选择可用标签以自定义永久链接结构"
 
 #: wp-admin/options-permalink.php:386
 msgid "Available tags:"
-msgstr ""
+msgstr "可用标签："
 
 #: wp-admin/options-permalink.php:412
 msgid "Optional"
-msgstr ""
+msgstr "可选"
 
 #. translators: %s: Placeholder that must come at the start of the URL.
 #: wp-admin/options-permalink.php:417
 msgid "If you like, you may enter custom structures for your category and tag URLs here. For example, using <code>topics</code> as your category base would make your category links like <code>%s/topics/uncategorized/</code>. If you leave these blank the defaults will be used."
-msgstr ""
+msgstr "如果您喜欢，您可以在此为您的分类和标签 URL 输入自定义结构。例如，如果您使用<code>topics</code>作为您分类的基础，那么您的分类链接将会变为类似于<code>%s/topics/uncategorized/</code>的样子。如果您在此处留空，则将会使用默认设置。"
 
 #. translators: Prefix for category permalinks.
 #: wp-admin/options-permalink.php:427
 msgid "Category base"
-msgstr ""
+msgstr "分类基础"
 
 #: wp-admin/options-permalink.php:439
 msgid "Tag base"
-msgstr ""
+msgstr "标签基础"
 
 #. translators: 1: web.config, 2: Documentation URL, 3: Ctrl + A, 4: ⌘ + A, 5: Element code.
 #: wp-admin/options-permalink.php:466
 msgid "<strong>Error:</strong> Your %1$s file is not <a href=\"%2$s\">writable</a>, so updating it automatically was not possible. This is the URL rewrite rule you should have in your %1$s file. Click in the field and press %3$s (or %4$s on Mac) to select all. Then insert this rule inside of the %5$s element in %1$s file."
-msgstr ""
+msgstr "<strong>错误：</strong>您的 %1$s 文件<a href=\"%2$s\">不可写</a>，因而无法自动更新它。您需要在 %1$s 文件中手动加入下列重写规则。单击下面的字段并按下 %3$s （Mac 用户请使用 %4$s）以选中全部内容。接下来将此规则插入 %1$s 文件中的 %5$s 元素中。"
 
 #: wp-admin/options-permalink.php:468
 #: wp-admin/options-permalink.php:500
 #: wp-admin/options-permalink.php:536
 msgid "https://wordpress.org/support/article/changing-file-permissions/"
-msgstr ""
+msgstr "https://wordpress.org/support/article/changing-file-permissions/"
 
 #: wp-admin/options-permalink.php:478
 #: wp-admin/options-permalink.php:510
 #: wp-admin/options-permalink.php:545
 msgid "Rewrite rules:"
-msgstr ""
+msgstr "重写规则："
 
 #. translators: %s: web.config
 #: wp-admin/options-permalink.php:489
 msgid "If you temporarily make your %s file writable to generate rewrite rules automatically, do not forget to revert the permissions after the rule has been saved."
-msgstr ""
+msgstr "如果您暂时让您的 %s 文件可自动生成重写规则， 不要忘记在规则保存后恢复权限。"
 
 #. translators: 1: Documentation URL, 2: web.config, 3: Ctrl + A, 4: ⌘ + A
 #: wp-admin/options-permalink.php:499
 msgid "<strong>Error:</strong> The root directory of your site is not <a href=\"%1$s\">writable</a>, so creating a file automatically was not possible. This is the URL rewrite rule you should have in your %2$s file. Create a new file called %2$s in the root directory of your site. Click in the field and press %3$s (or %4$s on Mac) to select all. Then insert this code into the %2$s file."
-msgstr ""
+msgstr "<strong>错误：</strong>您的站点的根目录<a href=\"%1$s\">不可写</a>，因此无法自动创建文件。这是您应当添加至您的 %2$s 文件的 URL 重写规则。在您站点的根目录中创建一个名为 %2$s 的文件。单击下面的字段并且按下 %3$s （Mac 用户请使用 %4$s）以选中全部内容。接着将此代码插入 %2$s 文件。"
 
 #. translators: %s: web.config
 #: wp-admin/options-permalink.php:521
 msgid "If you temporarily make your site&#8217;s root directory writable to generate the %s file automatically, do not forget to revert the permissions after the file has been created."
-msgstr ""
+msgstr "如果你暂时使你的网站的根目录可自动生成 %s 文件，不要忘记在文件创建后恢复权限。"
 
 #. translators: 1: .htaccess, 2: Documentation URL, 3: Ctrl + A, 4: ⌘ + A
 #: wp-admin/options-permalink.php:534
 msgid "<strong>Error:</strong> Your %1$s file is not <a href=\"%2$s\">writable</a>, so updating it automatically was not possible. These are the mod_rewrite rules you should have in your %1$s file. Click in the field and press %3$s (or %4$s on Mac) to select all."
-msgstr ""
+msgstr "<strong>错误：</strong>您的 %1$s 文件<a href=\"%2$s\">不可写</a>，因而无法自动更新它。您需要在 %1$s 文件中手动加入下列 mod_rewrite 规则。单击下面的字段并按下 %3$s （Mac 用户请使用 %4$s）以选中全部内容。"
 
 #: wp-admin/options-privacy.php:13
 #: wp-admin/privacy-policy-guide.php:13
 msgid "Sorry, you are not allowed to manage privacy options on this site."
-msgstr ""
+msgstr "对不起，您无权管理此站点的隐私选项。"
 
 #: wp-admin/options-privacy.php:40
 msgid "The Privacy screen lets you either build a new privacy-policy page or choose one you already have to show."
-msgstr ""
+msgstr "隐私屏幕允许您构建一个新的隐私政策页面或选择一个您已经拥有的页面。"
 
 #: wp-admin/options-privacy.php:41
 msgid "This screen includes suggestions to help you write your own privacy policy. However, it is your responsibility to use these resources correctly, to provide the information required by your privacy policy, and to keep this information current and accurate."
-msgstr ""
+msgstr "此屏幕包含帮助您编写自己隐私政策的建议。然而，你有责任正确地使用这些资源，提供您的隐私政策所要求的信息，并保持此信息的最新性和准确性。"
 
 #: wp-admin/options-privacy.php:47
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-privacy-screen/\">Documentation on Privacy Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/settings-privacy-screen/\">隐私设置文档</a>"
 
 #: wp-admin/options-privacy.php:57
 #: wp-admin/privacy.php:25
 msgid "Privacy Policy page updated successfully."
-msgstr ""
+msgstr "隐私政策页面更新成功。"
 
 #. translators: %s: URL to Customizer -> Menus.
 #: wp-admin/options-privacy.php:74
 msgid "Privacy Policy page setting updated successfully. Remember to <a href=\"%s\">update your menus</a>!"
-msgstr ""
+msgstr "隐私政策页面设置更新成功。记住<a href=\"%s\">更新您的菜单</a>！"
 
 #: wp-admin/options-privacy.php:102
 #: wp-admin/privacy.php:75
 msgid "Unable to create a Privacy Policy page."
-msgstr ""
+msgstr "无法创建隐私政策页面。"
 
 #: wp-admin/options-privacy.php:126
 #: wp-admin/privacy.php:99
 msgid "The currently selected Privacy Policy page does not exist. Please create or select a new page."
-msgstr ""
+msgstr "当前选择的隐私政策页面不存在。请创建或选择一个新页面。"
 
 #. translators: %s: URL to Pages Trash.
 #: wp-admin/options-privacy.php:136
 msgid "The currently selected Privacy Policy page is in the Trash. Please create or select a new Privacy Policy page or <a href=\"%s\">restore the current page</a>."
-msgstr ""
+msgstr "当前选择的隐私政策页面在回收站中。请创建或选择一个新的隐私政策页面、或<a href=\"%s\">还原当前页面</a>。"
 
 #. translators: Tab heading for Site Health Status page.
 #: wp-admin/options-privacy.php:165
 #: wp-admin/privacy-policy-guide.php:48
 msgctxt "Privacy Settings"
 msgid "Settings"
-msgstr ""
+msgstr "隐私设置"
 
 #. translators: Tab heading for Site Health Status page.
 #: wp-admin/options-privacy.php:172
 #: wp-admin/privacy-policy-guide.php:55
 msgctxt "Privacy Settings"
 msgid "Policy Guide"
-msgstr ""
+msgstr "隐私政策指南"
 
 #: wp-admin/options-privacy.php:181
 #: wp-admin/privacy-policy-guide.php:64
 msgid "The Privacy Settings require JavaScript."
-msgstr ""
+msgstr "隐私设置需要 JavaScript。"
 
 #: wp-admin/options-privacy.php:185
 #: wp-admin/privacy.php:120
 msgid "Privacy Settings"
-msgstr ""
+msgstr "隐私设置"
 
 #: wp-admin/options-privacy.php:187
 msgid "As a website owner, you may need to follow national or international privacy laws. For example, you may need to create and display a privacy policy."
-msgstr ""
+msgstr "作为网站所有者，您可能需要遵循国家或国际隐私法。例如，您可能需要创建和显示隐私政策。"
 
 #: wp-admin/options-privacy.php:188
 #: wp-admin/privacy.php:131
 msgid "If you already have a Privacy Policy page, please select it below. If not, please create one."
-msgstr ""
+msgstr "如果您已经有隐私政策页面，请在下面选择它。如果没有，请创建一个。"
 
 #: wp-admin/options-privacy.php:191
 msgid "The new page will include help and suggestions for your privacy policy."
-msgstr ""
+msgstr "新页面将包含您隐私政策的帮助和建议。"
 
 #: wp-admin/options-privacy.php:192
 msgid "However, it is your responsibility to use those resources correctly, to provide the information that your privacy policy requires, and to keep that information current and accurate."
-msgstr ""
+msgstr "然而，你有责任正确地使用这些资源， 提供您的隐私政策所要求的信息，并保持该信息的最新性和准确性。"
 
 #: wp-admin/options-privacy.php:195
 msgid "After your Privacy Policy page is set, you should edit it."
-msgstr ""
+msgstr "在您的隐私政策页面设置后，您应该编辑它。"
 
 #: wp-admin/options-privacy.php:196
 msgid "You should also review your privacy policy from time to time, especially after installing or updating any themes or plugins. There may be changes or new suggested information for you to consider adding to your policy."
-msgstr ""
+msgstr "您还应该不时审查您的隐私政策，特别是在安装或更新任何主题或插件之后。可能会有更改或建议您考虑添加到您的政策的新信息。"
 
 #. translators: 1: URL to edit Privacy Policy page, 2: URL to view Privacy Policy page.
 #. translators: 1: URL to edit page, 2: URL to view page
 #: wp-admin/options-privacy.php:215
 #: wp-admin/privacy.php:160
 msgid "<a href=\"%1$s\">Edit</a> or <a href=\"%2$s\">view</a> your Privacy Policy page content."
-msgstr ""
+msgstr "<a href=\"%1$s\">编辑</a>或<a href=\"%2$s\">查看</a>您的隐私政策页内容。"
 
 #. translators: 1: URL to edit Privacy Policy page, 2: URL to preview Privacy Policy page.
 #. translators: 1: URL to edit page, 2: URL to preview page
 #: wp-admin/options-privacy.php:222
 #: wp-admin/privacy.php:163
 msgid "<a href=\"%1$s\">Edit</a> or <a href=\"%2$s\">preview</a> your Privacy Policy page content."
-msgstr ""
+msgstr "<a href=\"%1$s\">编辑</a>或<a href=\"%2$s\">预览</a>您的隐私政策页内容。"
 
 #. translators: 1: Privacy Policy guide URL, 2: Additional link attributes, 3: Accessibility text.
 #: wp-admin/options-privacy.php:233
 msgid "Need help putting together your new Privacy Policy page? <a href=\"%1$s\" %2$s>Check out our privacy policy guide%3$s</a> for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr ""
+msgstr "创建您的隐私政策页面时遇到困难？请查看我们的<a href=\"%1$s\" %2$s>隐私政策指南%3$s</a>来了解应当包含的内容，以及您主题和插件所建议的内容。"
 
 #: wp-admin/options-privacy.php:259
 msgid "Create a new Privacy Policy page"
-msgstr ""
+msgstr "创建一个新的隐私政策页"
 
 #: wp-admin/options-privacy.php:261
 #: wp-admin/privacy.php:241
 msgid "There are no pages."
-msgstr ""
+msgstr "没有页面。"
 
 #: wp-admin/options-privacy.php:271
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: wp-admin/options-privacy.php:282
 #: wp-admin/privacy.php:190
 msgid "Change your Privacy Policy page"
-msgstr ""
+msgstr "更改您的隐私政策页"
 
 #: wp-admin/options-privacy.php:284
 #: wp-admin/privacy.php:192
 msgid "Select a Privacy Policy page"
-msgstr ""
+msgstr "选择一个隐私政策页"
 
 #: wp-admin/options-privacy.php:305
 #: wp-admin/privacy.php:229
 msgid "Use This Page"
-msgstr ""
+msgstr "使用此页面"
 
 #: wp-admin/options-reading.php:17
 msgid "Reading Settings"
-msgstr ""
+msgstr "阅读设置"
 
 #: wp-admin/options-reading.php:26
 msgid "This screen contains the settings that affect the display of your content."
-msgstr ""
+msgstr "此屏幕包含影响您内容显示的设置。"
 
 #. translators: %s: URL to create a new page.
 #: wp-admin/options-reading.php:29
 msgid "You can choose what&#8217;s displayed on the homepage of your site. It can be posts in reverse chronological order (classic blog), or a fixed/static page. To set a static homepage, you first need to create two <a href=\"%s\">Pages</a>. One will become the homepage, and the other will be where your posts are displayed."
-msgstr ""
+msgstr "您可以选择站点的首页要显示的内容。这可以是按反转时间顺序的文章（传统博客），也可以是一个静态页面。要设置一个静态首页，您首先需要创建两个<a href=\"%s\">页面</a>。其中一个是您的首页，另一个将用于显示您的文章。"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-reading.php:34
@@ -15559,208 +15559,208 @@ msgstr ""
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
-msgstr ""
+msgstr "编辑插件"
 
 #: wp-admin/plugin-editor.php:127
 msgid "You can use the plugin file editor to make changes to any of your plugins&#8217; individual PHP files. Be aware that if you make changes, plugins updates will overwrite your customizations."
-msgstr ""
+msgstr "你可以使用插件文件编辑器来更改你的任何插件中的独立 PHP 文件。请注意，如果您做了修改，插件更新将覆盖您的自定义内容。"
 
 #: wp-admin/plugin-editor.php:128
 msgid "Choose a plugin to edit from the dropdown menu and click the Select button. Click once on any file name to load it in the editor, and make your changes. Do not forget to save your changes (Update File) when you are finished."
-msgstr ""
+msgstr "从下拉菜单中选择要编辑的插件，然后点击选择按钮。在任何文件名上点击一次即可在编辑器中加载，并做出更改。完成后不要忘记保存您的更改（更新文件）。"
 
 #: wp-admin/plugin-editor.php:129
 msgid "The documentation menu below the editor lists the PHP functions recognized in the plugin file. Clicking Look Up takes you to a web page about that particular function."
-msgstr ""
+msgstr "编辑器下面的文档菜单列出在插件文件中识别到的 PHP 函数。点击查找将转到到一个关于该特定函数的网页。"
 
 #: wp-admin/plugin-editor.php:130
 #: wp-admin/theme-editor.php:33
 msgid "When using a keyboard to navigate:"
-msgstr ""
+msgstr "当使用键盘导航时："
 
 #: wp-admin/plugin-editor.php:132
 #: wp-admin/theme-editor.php:35
 msgid "In the editing area, the Tab key enters a tab character."
-msgstr ""
+msgstr "在编辑区域中，Tab 键将输入一个缩进控制符。"
 
 #: wp-admin/plugin-editor.php:133
 #: wp-admin/theme-editor.php:36
 msgid "To move away from this area, press the Esc key followed by the Tab key."
-msgstr ""
+msgstr "要离开这个区域，请先按 Esc 键，然后按 Tab 键。"
 
 #: wp-admin/plugin-editor.php:134
 #: wp-admin/theme-editor.php:37
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
-msgstr ""
+msgstr "致屏幕阅读器用户：在表单模式下，您可能需要按两次 Esc 键。"
 
 #: wp-admin/plugin-editor.php:136
 msgid "If you want to make changes but do not want them to be overwritten when the plugin is updated, you may be ready to think about writing your own plugin. For information on how to edit plugins, write your own from scratch, or just better understand their anatomy, check out the links below."
-msgstr ""
+msgstr "如果您想要做出修改，但不想在插件更新时覆盖它们，您可能已经准备好想编写您自己的插件。关于如何编辑插件的信息、或是要从零开始编写插件、或者只是希望更好地理解他们的结构，请参阅下方的链接。"
 
 #: wp-admin/plugin-editor.php:137
 #: wp-admin/theme-editor.php:46
 msgid "Any edits to files from this screen will be reflected on all sites in the network."
-msgstr ""
+msgstr "从此屏幕上对文件的任何编辑都会在网络中的所有站点生效。"
 
 #: wp-admin/plugin-editor.php:143
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-editor-screen/\">Documentation on Editing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-editor-screen/\">编辑插件文档</a>"
 
 #: wp-admin/plugin-editor.php:144
 msgid "<a href=\"https://developer.wordpress.org/plugins/\">Documentation on Writing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/plugins/\">编写插件文档</a>"
 
 #: wp-admin/plugin-editor.php:170
 #: wp-admin/theme-editor.php:169
 msgid "Function Name&hellip;"
-msgstr ""
+msgstr "函数名称&hellip;"
 
 #: wp-admin/plugin-editor.php:191
 #: wp-admin/theme-editor.php:198
 msgid "There was an error while trying to update the file. You may need to fix something and try updating again."
-msgstr ""
+msgstr "尝试更新文件时出错。您可能需要修复某些东西，然后再尝试更新。"
 
 #. translators: %s: Plugin file name.
 #: wp-admin/plugin-editor.php:203
 msgid "Editing %s (active)"
-msgstr ""
+msgstr "编辑 %s（活跃）"
 
 #. translators: %s: Plugin file name.
 #: wp-admin/plugin-editor.php:206
 msgid "Browsing %s (active)"
-msgstr ""
+msgstr "浏览 %s（活跃）"
 
 #. translators: %s: Plugin file name.
 #: wp-admin/plugin-editor.php:211
 msgid "Editing %s (inactive)"
-msgstr ""
+msgstr "编辑 %s（停用）"
 
 #. translators: %s: Plugin file name.
 #: wp-admin/plugin-editor.php:214
 msgid "Browsing %s (inactive)"
-msgstr ""
+msgstr "浏览 %s（停用）"
 
 #: wp-admin/plugin-editor.php:222
 msgid "Select plugin to edit:"
-msgstr ""
+msgstr "选择要编辑的插件："
 
 #: wp-admin/plugin-editor.php:245
 msgid "Plugin Files"
-msgstr ""
+msgstr "插件文件"
 
 #: wp-admin/plugin-editor.php:266
 #: wp-admin/theme-editor.php:290
 msgid "Selected file content:"
-msgstr ""
+msgstr "选定的文件内容："
 
 #: wp-admin/plugin-editor.php:275
 #: wp-admin/theme-editor.php:299
 msgid "Documentation:"
-msgstr ""
+msgstr "文档："
 
 #: wp-admin/plugin-editor.php:277
 #: wp-admin/theme-editor.php:301
 msgid "Look Up"
-msgstr ""
+msgstr "查找"
 
 #: wp-admin/plugin-editor.php:285
 msgid "<strong>Warning:</strong> Making changes to active plugins is not recommended."
-msgstr ""
+msgstr "<strong>警告：</strong>不推荐修改活跃的插件。"
 
 #: wp-admin/plugin-editor.php:290
 #: wp-admin/theme-editor.php:320
 msgid "Update File"
-msgstr ""
+msgstr "更新文件"
 
 #: wp-admin/plugin-editor.php:330
 #: wp-admin/theme-editor.php:364
 msgid "Heads up!"
-msgstr ""
+msgstr "慢着！"
 
 #: wp-admin/plugin-editor.php:331
 msgid "You appear to be making direct edits to your plugin in the ClassicPress dashboard. Editing plugins directly is not recommended as it may introduce incompatibilities that break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "您似乎正尝试在 ClassicPress 仪表盘中直接修改插件。不推荐直接修改插件，这有可能会引入兼容性问题，并且您所做的修改可能会在未来的更新中丢失。"
 
 #: wp-admin/plugin-editor.php:332
 msgid "If you absolutely have to make direct edits to this plugin, use a file manager to create a copy with a new name and hang on to the original. That way, you can re-enable a functional version if something goes wrong."
-msgstr ""
+msgstr "如果您绝对需要直接编辑此插件，请使用文件管理器创建一个带有新名称的副本，并将其附加至原件。这样，如果出现错误，你可以重新启用能正常工作的版本。"
 
 #: wp-admin/plugin-editor.php:336
 #: wp-admin/theme-editor.php:385
 msgid "I understand"
-msgstr ""
+msgstr "我明白"
 
 #: wp-admin/plugin-install.php:51
 msgid "Add Plugins"
-msgstr ""
+msgstr "添加插件"
 
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/plugin-install.php:97
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by thousands of developers all over the world. All plugins in the <a href=\"%s\">ClassicPress Plugin Directory</a> are compatible with the license ClassicPress uses, but they are not necessarily designed for ClassicPress. Be sure to confirm their compatibility prior to install!"
-msgstr ""
+msgstr "插件可注入 ClassicPress 来以自定义功能扩展其功能。插件是由独立于 ClassicPress 之外的全球数千名开发者开发的。所有在 <a href=\"%s\">ClassicPress 插件目录</a>中的插件都与 ClassicPress 所使用的许可证兼容，虽然他们并非都为 ClassicPress 开发；请务必在安装插件前检查他们的兼容性！"
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
-msgstr ""
+msgstr "您可以自己在插件屏幕上搜索或浏览插件目录以安装新插件。"
 
 #: wp-admin/plugin-install.php:100
 #: wp-admin/plugins.php:546
 #: wp-admin/theme-install.php:113
 #: wp-admin/themes.php:138
 msgid "The search results will be updated as you type."
-msgstr ""
+msgstr "搜索结果将随着您的输入而同步更新。"
 
 #: wp-admin/plugin-install.php:107
 msgid "Adding Plugins"
-msgstr ""
+msgstr "添加插件"
 
 #: wp-admin/plugin-install.php:109
 msgid "If you know what you are looking for, Search is your best bet. The Search screen has options to search the ClassicPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr ""
+msgstr "如果您知道你在寻找什么，搜索是您最好的朋友。可按照特定条目、作者或标签来搜索 ClassicPress 插件目录。您也可以通过选择热门标签来搜索目录。标签的字体越大，意味着越多插件已被标记为该标签。"
 
 #: wp-admin/plugin-install.php:110
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
-msgstr ""
+msgstr "如果您只想了解有什么东西可用，您可以浏览「精选」和「热门」栏目。这些栏目将会定期更新。"
 
 #: wp-admin/plugin-install.php:111
 msgid "You can also browse a user&#8217;s favorite plugins, by using the Favorites link above the plugins list and entering their WordPress.org username."
-msgstr ""
+msgstr "您也可以通过使用插件列表上的「收藏夹」链接并输入他们的 WordPress.org 用户名来浏览用户收藏的插件。"
 
 #: wp-admin/plugin-install.php:112
 msgid "If you want to install a plugin that you&#8217;ve downloaded elsewhere, click the Upload Plugin button above the plugins list. You will be prompted to upload the .zip package, and once uploaded, you can activate the new plugin."
-msgstr ""
+msgstr "如果您希望安装一个在别处下载的插件，请点击插件列表上的上传插件按钮。您将被提示上传 .zip 包，一旦上传，您可以启用新的插件。"
 
 #: wp-admin/plugin-install.php:118
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-add-new-screen/\">Documentation on Installing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-add-new-screen/\">安装插件文档</a>"
 
 #: wp-admin/plugin-install.php:124
 #: wp-admin/plugins.php:594
 msgid "Filter plugins list"
-msgstr ""
+msgstr "筛选插件列表"
 
 #: wp-admin/plugin-install.php:125
 #: wp-admin/plugins.php:595
 msgid "Plugins list navigation"
-msgstr ""
+msgstr "插件列表导航"
 
 #: wp-admin/plugin-install.php:126
 #: wp-admin/plugins.php:596
 msgid "Plugins list"
-msgstr ""
+msgstr "插件列表"
 
 #: wp-admin/plugin-install.php:148
 msgid "Browse Plugins"
-msgstr ""
+msgstr "浏览插件"
 
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
 msgid "Sorry, you are not allowed to activate this plugin."
-msgstr ""
+msgstr "对不起，您无权启用此插件。"
 
 #: wp-admin/plugins.php:92
 msgid "Sorry, you are not allowed to activate plugins for this site."
-msgstr ""
+msgstr "对不起，您无权启用此站点的插件。"
 
 #: wp-admin/plugins.php:157
 #: wp-admin/update-core.php:330
@@ -15768,23 +15768,23 @@ msgstr ""
 #: wp-admin/update-core.php:999
 #: wp-admin/update-core.php:1004
 msgid "Update Plugins"
-msgstr ""
+msgstr "升级插件"
 
 #: wp-admin/plugins.php:199
 msgid "Sorry, you are not allowed to deactivate this plugin."
-msgstr ""
+msgstr "对不起，您无权停用此插件。"
 
 #: wp-admin/plugins.php:226
 msgid "Sorry, you are not allowed to deactivate plugins for this site."
-msgstr ""
+msgstr "对不起，您无权停用此站点的插件。"
 
 #: wp-admin/plugins.php:341
 msgid "Delete Plugin"
-msgstr ""
+msgstr "删除插件"
 
 #: wp-admin/plugins.php:343
 msgid "This plugin may be active on other sites in the network."
-msgstr ""
+msgstr "此插件可能在网络中的其他站点处于活跃状态。"
 
 #: wp-admin/plugins.php:345
 msgid "You are about to remove the following plugin:"
@@ -16002,215 +16002,215 @@ msgstr ""
 
 #: wp-admin/post.php:282
 msgid "The item you are trying to restore from the Trash no longer exists."
-msgstr ""
+msgstr "您试图从回收站还原的项目已被删除。"
 
 #: wp-admin/post.php:311
 msgid "This item has already been deleted."
-msgstr ""
+msgstr "此项目已被删除。"
 
 #: wp-admin/press-this.php:44
 msgid "Activate Press This"
-msgstr ""
+msgstr "激活 Press This"
 
 #. translators: %s: URL to Press This bookmarklet on the main site.
 #: wp-admin/press-this.php:68
 msgid "Press This is not installed. Please install Press This from <a href=\"%s\">the main site</a>."
-msgstr ""
+msgstr "Press This 未被安装。请在<a href=\"%s\">此处</a>安装 Press This。"
 
 #: wp-admin/press-this.php:74
 msgid "The Press This plugin is required."
-msgstr ""
+msgstr "需要插件「Press This」。"
 
 #: wp-admin/press-this.php:75
 #: wp-admin/press-this.php:81
 msgid "Installation Required"
-msgstr ""
+msgstr "需要安装"
 
 #: wp-admin/press-this.php:80
 msgid "Press This is not available. Please contact your site administrator."
-msgstr ""
+msgstr "Press This 不可用。请与站点管理员联系。"
 
 #: wp-admin/privacy-policy-guide.php:21
 #: wp-admin/privacy-policy-guide.php:68
 #: wp-admin/privacy-policy-guide.php:77
 msgid "Privacy Policy Guide"
-msgstr ""
+msgstr "隐私政策指南"
 
 #: wp-admin/privacy-policy-guide.php:69
 msgid "Introduction"
-msgstr ""
+msgstr "导言"
 
 #: wp-admin/privacy-policy-guide.php:70
 msgid "This text template will help you to create your web site&#8217;s privacy policy."
-msgstr ""
+msgstr "此文本模板将帮助您创建您站点的隐私政策。"
 
 #: wp-admin/privacy-policy-guide.php:71
 msgid "The template contains a suggestion of sections you most likely will need. Under each section heading you will find a short summary of what information you should provide, which will help you to get started. Some sections include suggested policy content, others will have to be completed with information from your theme and plugins."
-msgstr ""
+msgstr "模板包含您最可能需要的部分的建议。在每一节的标题下，您都会找到您应该提供的信息的简短摘要，这将有助于您开始工作。有些部分包含建议的政策内容，其他部分则必须用您的主题和插件提供的信息完成。"
 
 #: wp-admin/privacy-policy-guide.php:72
 msgid "Please edit your privacy policy content, making sure to delete the summaries, and adding any information from your theme and plugins. Once you publish your policy page, remember to add it to your navigation menu."
-msgstr ""
+msgstr "请编辑您的隐私政策内容，确保删除摘要，并从您的主题和插件中添加全部信息。一旦您发布了您的隐私政策页面，请确保将其添加到您的导航菜单。"
 
 #: wp-admin/privacy-policy-guide.php:73
 msgid "It is your responsibility to write a comprehensive privacy policy, to make sure it reflects all national and international legal requirements on privacy, and to keep your policy current and accurate."
-msgstr ""
+msgstr "您有责任编写一份全面的隐私政策。确保它反映关于隐私的所有国家和国际法律要求，并使你的政策保持最新和准确。"
 
 #: wp-admin/privacy-policy-guide.php:89
 msgid "Policies"
-msgstr ""
+msgstr "政策"
 
 #: wp-admin/privacy.php:13
 msgid "Sorry, you are not allowed to manage privacy on this site."
-msgstr ""
+msgstr "对不起，您无权管理此站点的隐私选项。"
 
 #. translators: %s: URL to Customizer -> Menus
 #: wp-admin/privacy.php:42
 msgid "Privacy Policy page updated successfully. Remember to <a href=\"%s\">update your menus</a>!"
-msgstr ""
+msgstr "隐私政策页面更新成功。记住<a href=\"%s\">更新您的菜单</a>！"
 
 #. translators: URL to Pages Trash
 #: wp-admin/privacy.php:109
 msgid "The currently selected Privacy Policy page is in the trash. Please create or select a new Privacy Policy page or <a href=\"%s\">restore the current page</a>."
-msgstr ""
+msgstr "当前选择的隐私政策页面在回收站中。请创建或选择一个新的隐私政策页面、或<a href=\"%s\">还原当前页面</a>。"
 
 #: wp-admin/privacy.php:128
 msgid "Privacy Policy page"
-msgstr ""
+msgstr "隐私政策页"
 
 #: wp-admin/privacy.php:130
 msgid "As a website owner, you may need to follow national or international privacy laws. For example, you may need to create and display a Privacy Policy."
-msgstr ""
+msgstr "作为网站所有者，您可能需要遵循国家或国际隐私法。例如，您可能需要创建和显示隐私政策。"
 
 #: wp-admin/privacy.php:134
 msgid "The new page will include help and suggestions for your Privacy Policy."
-msgstr ""
+msgstr "新页面将包含您隐私政策的帮助和建议。"
 
 #: wp-admin/privacy.php:135
 msgid "However, it is your responsibility to use those resources correctly, to provide the information that your Privacy Policy requires, and to keep that information current and accurate."
-msgstr ""
+msgstr "然而，你有责任正确地使用这些资源， 提供您的隐私政策所要求的信息，并保持该信息的最新性和准确性。"
 
 #: wp-admin/privacy.php:138
 msgid "After your Privacy Policy page is set, we suggest that you edit it."
-msgstr ""
+msgstr "在您的隐私政策页面设置完毕后，我们建议您编辑它。"
 
 #: wp-admin/privacy.php:139
 msgid "We would also suggest reviewing your Privacy Policy from time to time, especially after installing or updating any themes or plugins. There may be changes or new suggested information for you to consider adding to your policy."
-msgstr ""
+msgstr "我们还建议您不时审查您的隐私政策，特别是在安装或更新任何主题或插件之后。可能会有更改或建议您考虑添加到您的政策的新信息。"
 
 #: wp-admin/privacy.php:173
 msgid "Need help putting together your new Privacy Policy page? <a href=\"%1$s\" %2$s>Check out our guide%3$s</a> for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr ""
+msgstr "创建您的隐私政策页面时遇到困难？请查看我们的<a href=\"%1$s\" %2$s>隐私政策指南%3$s</a>来了解应当包含的内容，以及您主题和插件所建议的内容。"
 
 #: wp-admin/privacy.php:213
 msgid "Select an existing page:"
-msgstr ""
+msgstr "选择一个现有页面："
 
 #: wp-admin/privacy.php:239
 msgid "Or:"
-msgstr ""
+msgstr "或者："
 
 #: wp-admin/privacy.php:248
 msgid "Create New Page"
-msgstr ""
+msgstr "创建新页面"
 
 #. translators: %s: Post title.
 #: wp-admin/revision.php:109
 msgid "Compare Revisions of &#8220;%s&#8221;"
-msgstr ""
+msgstr "比较「%s」的修订版本"
 
 #: wp-admin/revision.php:110
 msgid "&larr; Go to editor"
-msgstr ""
+msgstr "&larr; 转到编辑器"
 
 #: wp-admin/revision.php:141
 msgid "This screen is used for managing your content revisions."
-msgstr ""
+msgstr "此屏幕用于管理您内容的修订版本。"
 
 #: wp-admin/revision.php:142
 msgid "Revisions are saved copies of your post or page, which are periodically created as you update your content. The red text on the left shows the content that was removed. The green text on the right shows the content that was added."
-msgstr ""
+msgstr "修订版保存您的文章或页面的副本，这些副本是在您更新内容时定期创建的。左侧的红色文本显示被删除的内容。右侧的绿色文本显示添加的内容。"
 
 #: wp-admin/revision.php:143
 msgid "From this screen you can review, compare, and restore revisions:"
-msgstr ""
+msgstr "您可以在此屏幕上审阅、比较和还原修订版本："
 
 #: wp-admin/revision.php:144
 msgid "To navigate between revisions, <strong>drag the slider handle left or right</strong> or <strong>use the Previous or Next buttons</strong>."
-msgstr ""
+msgstr "若要在修订版本之间导航，<strong>拖动滑块至左侧或右侧</strong>或者<strong>使用上一个或下一个按钮</strong>。"
 
 #: wp-admin/revision.php:145
 msgid "Compare two different revisions by <strong>selecting the &#8220;Compare any two revisions&#8221; box</strong> to the side."
-msgstr ""
+msgstr "要比较两个不同的版本，请使用屏幕侧边的<strong>比较任意两个修订版本</strong>组件。"
 
 #: wp-admin/revision.php:146
 msgid "To restore a revision, <strong>click Restore This Revision</strong>."
-msgstr ""
+msgstr "要还原修订版本，<strong>点击「还原此修订版本」</strong>"
 
 #: wp-admin/revision.php:157
 msgid "<a href=\"https://wordpress.org/documentation/article/revisions/\">Revisions Management</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/revisions/\">管理修订版本</a>"
 
 #: wp-admin/revision.php:179
 msgid "Revision by "
-msgstr ""
+msgstr "修订者："
 
 #: wp-admin/revision.php:181
 msgid "Autosave by "
-msgstr ""
+msgstr "自动保存者："
 
 #: wp-admin/revision.php:183
 msgid "Current Revision by "
-msgstr ""
+msgstr "当前修订者："
 
 #: wp-admin/revision.php:209
 msgid "Earlier Revision"
-msgstr ""
+msgstr "较早的修订"
 
 #: wp-admin/revision.php:214
 msgid "Later Revision"
-msgstr ""
+msgstr "较晚的修订"
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
 msgid "Sorry, I need a %s file to work from. Please re-upload this file to your ClassicPress installation."
-msgstr ""
+msgstr "抱歉，我需要一个 %s 文件才能工作。请将此文件重新上传至您的 ClassicPress 安装。"
 
 #. translators: 1: wp-config.php, 2: install.php
 #: wp-admin/setup-config.php:63
 msgid "The file %1$s already exists. If you need to reset any of the configuration items in this file, please delete it first. You may try <a href=\"%2$s\">installing now</a>."
-msgstr ""
+msgstr "文件 %1$s 已经存在。如果您需要重置该文件中的某些内容，请先将其删除。您或许可以尝试<a href=\"%2$s\">现在安装</a>。"
 
 #. translators: 1: wp-config.php, 2: install.php
 #: wp-admin/setup-config.php:76
 msgid "The file %1$s already exists one level above your ClassicPress installation. If you need to reset any of the configuration items in this file, please delete it first. You may try <a href=\"%2$s\">installing now</a>."
-msgstr ""
+msgstr "文件 %1$s 已经存在于您 ClassicPress 安装的上级。如果您需要重置该文件中的某些内容，请先将其删除。您或许可以尝试<a href=\"%2$s\">现在安装</a>。"
 
 #: wp-admin/setup-config.php:111
 msgid "ClassicPress &rsaquo; Setup Configuration File"
-msgstr ""
+msgstr "ClassicPress &rsaquo; 初始化配置文件"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/setup-config.php:163
 msgid "Before getting started"
-msgstr ""
+msgstr "在开始之前......"
 
 #: wp-admin/setup-config.php:166
 msgid "Welcome to ClassicPress. Before getting started, you will need to know the following items."
-msgstr ""
+msgstr "欢迎使用 ClassicPress。在开始之前，您需要下列的几个项目。"
 
 #: wp-admin/setup-config.php:170
 msgid "Database password"
-msgstr ""
+msgstr "数据库密码"
 
 #: wp-admin/setup-config.php:172
 msgid "Table prefix (if you want to run more than one ClassicPress in a single database)"
-msgstr ""
+msgstr "表前缀（如果您想要在单个数据库中运行多个 ClassicPress）"
 
 #. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:178
 msgid "This information is being used to create a %s file."
-msgstr ""
+msgstr "此信息将被用于创建 %s 文件。"
 
 #. translators: 1: wp-config-sample.php, 2: wp-config.php
 #: wp-admin/setup-config.php:186
@@ -16435,230 +16435,230 @@ msgstr ""
 
 #: wp-admin/site-health.php:241
 msgid "The site health check shows information about your ClassicPress configuration and items that may need your attention."
-msgstr ""
+msgstr "站点健康检查显示了您的 ClassicPress 配置和可能需要您关注的项目的信息。"
 
 #. translators: %s: Number of critical issues found.
 #: wp-admin/site-health.php:247
 #: wp-admin/js/site-health.js:150
 msgid "%s critical issue"
 msgid_plural "%s critical issues"
-msgstr[0] ""
+msgstr[0] "%s 项关键问题"
 
 #: wp-admin/site-health.php:251
 msgid "Critical issues are items that may have a high impact on your sites performance or security, and resolving these issues should be prioritized."
-msgstr ""
+msgstr "关键问题是可能对您的站点性能或安全性能有很大影响的问题，应优先考虑解决这些问题。"
 
 #. translators: %s: Number of recommended improvements.
 #: wp-admin/site-health.php:260
 #: wp-admin/js/site-health.js:155
 msgid "%s recommended improvement"
 msgid_plural "%s recommended improvements"
-msgstr[0] ""
+msgstr[0] "%s 项推荐改进"
 
 #: wp-admin/site-health.php:264
 msgid "Recommended items are considered beneficial to your site, although not as important to prioritize as a critical issue, they may include improvements to things such as; Performance, user experience, and more."
-msgstr ""
+msgstr "推荐的项目被认为有益于您的网站。这些项目虽然不像关键问题那样重要，但可以用于改进性能、用户体验、诸如此类。"
 
 #: wp-admin/site-health.php:272
 msgid "Passed tests"
-msgstr ""
+msgstr "通过的测试"
 
 #. translators: %s: Number of items with no issues.
 #: wp-admin/site-health.php:281
 #: wp-admin/js/site-health.js:160
 msgid "%s item with no issues detected"
 msgid_plural "%s items with no issues detected"
-msgstr[0] ""
+msgstr[0] "%s 个项目，并且没有检测到问题"
 
 #: wp-admin/theme-editor.php:22
 msgid "Edit Themes"
-msgstr ""
+msgstr "编辑主题"
 
 #: wp-admin/theme-editor.php:30
 msgid "You can use the theme file editor to edit the individual CSS and PHP files which make up your theme."
-msgstr ""
+msgstr "您可以使用主题文件编辑器来编辑构成您主题的 CSS 和 PHP 文件。"
 
 #: wp-admin/theme-editor.php:31
 msgid "Begin by choosing a theme to edit from the dropdown menu and clicking the Select button. A list then appears of the theme&#8217;s template files. Clicking once on any file name causes the file to appear in the large Editor box."
-msgstr ""
+msgstr "从下拉菜单中选择要编辑的主题并单击选择按钮。然后会出现主题的模板文件列表。单击任何文件名一次会使文件出现在大编辑器框中。"
 
 #: wp-admin/theme-editor.php:32
 msgid "For PHP files, you can use the documentation dropdown to select from functions recognized in that file. Look Up takes you to a web page with reference material about that particular function."
-msgstr ""
+msgstr "对于 PHP 文件，您可以使用文档下拉框并从该文件中识别的函数中进行选择。「查找」将转到一个带有该特定函数的参考资料的网页。"
 
 #: wp-admin/theme-editor.php:39
 msgid "After typing in your edits, click Update File."
-msgstr ""
+msgstr "在编辑完成后，单击「更新文件」。"
 
 #: wp-admin/theme-editor.php:40
 msgid "<strong>Advice:</strong> Think very carefully about your site crashing if you are live-editing the theme currently in use."
-msgstr ""
+msgstr "<strong>建议：</strong>在修改您当前的活跃主题时，请三思而后行。"
 
 #. translators: %s: Link to documentation on child themes.
 #: wp-admin/theme-editor.php:43
 msgid "Upgrading to a newer version of the same theme will override changes made here. To avoid this, consider creating a <a href=\"%s\">child theme</a> instead."
-msgstr ""
+msgstr "升级到同一主题的新版本将覆盖在这里所作的更改。为了避免这种情况，请考虑创建一个<a href=\"%s\">子主题</a>。"
 
 #: wp-admin/theme-editor.php:52
 msgid "<a href=\"https://developer.wordpress.org/themes/\">Documentation on Theme Development</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/themes/\">主题开发文档</a>"
 
 #: wp-admin/theme-editor.php:53
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-theme-file-editor-screen/\">Documentation on Editing Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-theme-file-editor-screen/\">编辑主题文档</a>"
 
 #: wp-admin/theme-editor.php:54
 msgid "<a href=\"https://wordpress.org/documentation/article/editing-files/\">Documentation on Editing Files</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/editing-files/\">编辑文件文档</a>"
 
 #: wp-admin/theme-editor.php:55
 msgid "<a href=\"https://developer.wordpress.org/themes/basics/template-tags/\">Documentation on Template Tags</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/themes/basics/template-tags/\">模板标签文档</a>"
 
 #: wp-admin/theme-editor.php:205
 msgid "Did you know?"
-msgstr ""
+msgstr "你知道吗？"
 
 #. translators: %s: Link to Custom CSS section in the Customizer.
 #: wp-admin/theme-editor.php:210
 msgid "There is no need to change your CSS here &mdash; you can edit and live preview CSS changes in the <a href=\"%s\">built-in CSS editor</a>."
-msgstr ""
+msgstr "无需在此处更改 CSS 样式 &mdash; 您可以在<a href=\"%s\">内建 CSS 编辑器中</a>编辑并实时预览 CSS 更改。"
 
 #: wp-admin/theme-editor.php:231
 msgid "Select theme to edit:"
-msgstr ""
+msgstr "选择要编辑的主题："
 
 #: wp-admin/theme-editor.php:252
 msgid "This theme is broken."
-msgstr ""
+msgstr "此主题已损坏。"
 
 #: wp-admin/theme-editor.php:257
 msgid "Theme Files"
-msgstr ""
+msgstr "主题文件"
 
 #. translators: %s: Link to edit parent theme.
 #: wp-admin/theme-editor.php:264
 msgid "This child theme inherits templates from a parent theme, %s."
-msgstr ""
+msgstr "此子主题继承父主题的「%s」模板。"
 
 #: wp-admin/theme-editor.php:313
 msgid "This is a file in your current parent theme."
-msgstr ""
+msgstr "这是您当前父主题中的一个文件。"
 
 #: wp-admin/theme-editor.php:367
 msgid "You appear to be making direct edits to your theme in the ClassicPress dashboard. It is not recommended! Editing your theme directly could break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "您似乎正尝试在 ClassicPress 仪表盘中直接修改主题。不推荐直接修改主题！这有可能会损坏您的站点，并且您所做的修改可能会在未来的更新中丢失。"
 
 #. translators: %s: Link to documentation on child themes.
 #: wp-admin/theme-editor.php:375
 msgid "If you need to tweak more than your theme&#8217;s CSS, you might want to try <a href=\"%s\">making a child theme</a>."
-msgstr ""
+msgstr "如果您希望对主题作出的修改不止于 CSS，您或许希望考虑使用<a href=\"%s\">子主题</a>。"
 
 #: wp-admin/theme-editor.php:381
 msgid "If you decide to go ahead with direct edits anyway, use a file manager to create a copy with a new name and hang on to the original. That way, you can re-enable a functional version if something goes wrong."
-msgstr ""
+msgstr "如果您绝对需要直接编辑，请使用文件管理器创建一个带有新名称的副本，并将其附加至原件。这样，如果出现错误，您可以重新启用能正常工作的版本。"
 
 #: wp-admin/theme-install.php:25
 msgid "Add Themes"
-msgstr ""
+msgstr "添加主题"
 
 #: wp-admin/theme-install.php:57
 #: wp-admin/themes.php:232
 msgid "Add New Theme"
-msgstr ""
+msgstr "添加新主题"
 
 #: wp-admin/theme-install.php:58
 msgid "Search Themes"
-msgstr ""
+msgstr "搜索主题"
 
 #: wp-admin/theme-install.php:59
 msgid "Search themes..."
-msgstr ""
+msgstr "搜索主题..."
 
 #: wp-admin/theme-install.php:60
 #: wp-admin/theme-install.php:165
 #: wp-admin/theme-install.php:167
 #: wp-admin/update.php:340
 msgid "Upload Theme"
-msgstr ""
+msgstr "上传主题"
 
 #: wp-admin/theme-install.php:61
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 #. translators: %s: Support forums URL.
 #: wp-admin/theme-install.php:64
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net, or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "发生了一个未知错误。WordPress.org，ClassicPress.net，或是此服务器的配置可能出现了一点问题。如果您继续遇到问题，请尝试使用<a href=\"%s\">支持论坛</a>。"
 
 #. translators: %d: Number of themes.
 #: wp-admin/theme-install.php:69
 #: wp-admin/themes.php:236
 msgid "Number of Themes found: %d"
-msgstr ""
+msgstr "找到的主题数量：%d"
 
 #: wp-admin/theme-install.php:70
 #: wp-admin/theme-install.php:245
 #: wp-admin/themes.php:237
 #: wp-admin/themes.php:583
 msgid "No themes found. Try a different search."
-msgstr ""
+msgstr "未找到主题。请尝试其他搜索词。"
 
 #: wp-admin/theme-install.php:72
 msgid "Expand Sidebar"
-msgstr ""
+msgstr "展开侧栏"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/theme-install.php:74
 msgid "Select one or more Theme features to filter by"
-msgstr ""
+msgstr "选择一个或多个主题功能进行筛选"
 
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:110
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license WordPress uses."
-msgstr ""
+msgstr "您可以在此屏幕上的主题安装器为您的站点找到来自于 <a href=\"%s\">ClassicPress 主题目录</a>中的主题。这些主题由第三方所设计，免费使用，并且与 WordPress 所使用的许可证兼容。"
 
 #: wp-admin/theme-install.php:113
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
-msgstr ""
+msgstr "您可以通过关键词、作者、或标签搜索主题，也可以通过功能过滤器中列出的标准进行更加精确的搜索。"
 
 #: wp-admin/theme-install.php:114
 msgid "Alternately, you can browse the themes that are Popular or Latest. When you find a theme you like, you can preview it or install it."
-msgstr ""
+msgstr "或者，您可以浏览受欢迎的主题或最近的主题。当您找到您喜欢的主题时，您可以预览或安装它。"
 
 #. translators: %s: /wp-content/themes
 #: wp-admin/theme-install.php:117
 msgid "You can Upload a theme manually if you have already downloaded its ZIP archive onto your computer (make sure it is from a trusted and original source). You can also do it the old-fashioned way and copy a downloaded theme&#8217;s folder via FTP into your %s directory."
-msgstr ""
+msgstr "如果您已经下载了 ZIP 归档到您的电脑，您可以手动上传一个主题（请确保它是从一个受信任的、原始的来源获取的）。你也可以以较为古老的的方式，即通过 FTP 复制一个已下载的主题文件夹到您的 %s 目录。"
 
 #: wp-admin/theme-install.php:130
 msgid "Once you have generated a list of themes, you can preview and install any of them. Click on the thumbnail of the theme you are interested in previewing. It will open up in a full-screen Preview page to give you a better idea of how that theme will look."
-msgstr ""
+msgstr "一旦您生成了主题清单，您可以预览和安装其中任何主题。点击您感兴趣的主题缩略图。它将在全屏预览页面打开，允许您更好地了解该主题的外观。"
 
 #: wp-admin/theme-install.php:131
 msgid "To install the theme so you can preview it with your site&#8217;s content and customize its theme options, click the \"Install\" button at the top of the left-hand pane. The theme files will be downloaded to your website automatically. When this is complete, the theme is now available for activation, which you can do by clicking the \"Activate\" link, or by navigating to your Manage Themes screen and clicking the \"Live Preview\" link under any installed theme&#8217;s thumbnail image."
-msgstr ""
+msgstr "要为了预览主题在您站点上的样式并安装和自定义一个主题，请单击左侧侧栏上方的「安装」按钮。主题文件将自动下载至您的站点。当此操作完成后，主题就可以通过「启用」链接激活并使用。您也可以转到「管理主题」屏幕并且单击主题预览图下方的「实时预览」链接来预览主题。"
 
 #: wp-admin/theme-install.php:136
 msgid "Previewing and Installing"
-msgstr ""
+msgstr "预览和安装"
 
 #: wp-admin/theme-install.php:143
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-themes-screen/#install-themes\">Documentation on Adding New Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-themes-screen/#install-themes\">添加主题文档</a>"
 
 #: wp-admin/theme-install.php:144
 msgid "<a href=\"https://wordpress.org/documentation/article/block-themes/\">Documentation on Block Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/block-themes/\">区块主题文档</a>"
 
 #: wp-admin/theme-install.php:174
 msgid "The Theme Installer screen requires JavaScript."
-msgstr ""
+msgstr "主题安装程序屏幕需要 JavaScript。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/theme-install.php:184
 msgid "Filter themes list"
-msgstr ""
+msgstr "筛选主题列表"
 
 #: wp-admin/theme-install.php:194
 msgctxt "themes"
