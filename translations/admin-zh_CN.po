@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-02 08:02\n"
+"PO-Revision-Date: 2024-08-02 20:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -14576,192 +14576,192 @@ msgstr "UTC，即协调世界时间。"
 
 #: wp-admin/options-general.php:53
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-general-screen/\">Documentation on General Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/settings-general-screen/\">通用设置文档</a>"
 
 #. translators: Site tagline.
 #: wp-admin/options-general.php:75
 msgid "Just another ClassicPress site"
-msgstr ""
+msgstr "又一个 ClassicPress 站点"
 
 #. translators: %s: Network title.
 #: wp-admin/options-general.php:78
 msgid "Just another %s site"
-msgstr ""
+msgstr "又一个%s站点"
 
 #: wp-admin/options-general.php:82
 msgid "Tagline"
-msgstr ""
+msgstr "站点描述"
 
 #: wp-admin/options-general.php:84
 msgid "In a few words, explain what this site is about."
-msgstr ""
+msgstr "用几句话来解释这个站点的目标或内容。"
 
 #. translators: %s: The selected image filename.
 #: wp-admin/options-general.php:119
 #: wp-admin/js/site-icon.js:161
 msgid "App icon preview: The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "应用程序图标预览：当前图像没有替代文本。文件名为：%s"
 
 #. translators: %s: The selected image filename.
 #: wp-admin/options-general.php:125
 #: wp-admin/js/site-icon.js:168
 msgid "Browser icon preview: The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "浏览器图标预览：当前图像没有替代文本。文件名为：%s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:132
 #: wp-admin/js/site-icon.js:150
 msgid "App icon preview: Current image: %s"
-msgstr ""
+msgstr "应用程序图标预览：当前图像：%s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:138
 #: wp-admin/js/site-icon.js:155
 msgid "Browser icon preview: Current image: %s"
-msgstr ""
+msgstr "浏览器图标预览：当前图像：%s"
 
 #: wp-admin/options-general.php:165
 #: wp-admin/options-general.php:174
 msgid "Choose a Site Icon"
-msgstr ""
+msgstr "选择一个站点图标"
 
 #: wp-admin/options-general.php:166
 #: wp-admin/options-general.php:172
 msgid "Change Site Icon"
-msgstr ""
+msgstr "更改站点图标"
 
 #: wp-admin/options-general.php:167
 msgid "Set as Site Icon"
-msgstr ""
+msgstr "设为站点图标"
 
 #: wp-admin/options-general.php:182
 msgid "Remove Site Icon"
-msgstr ""
+msgstr "移除站点图标"
 
 #. translators: %s: Site Icon size in pixels.
 #: wp-admin/options-general.php:189
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "站点图标是您在浏览器标签、书签栏和 WordPress 移动应用程序中看到的。它应该是方形的，并且至少为 %s 像素。"
 
 #: wp-admin/options-general.php:212
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "ClassicPress 地址（URL）"
 
 #: wp-admin/options-general.php:217
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "站点地址（URL）"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
 msgid "Enter the same address here unless you <a href=\"%s\">want your site home page to be different from your ClassicPress installation directory</a>."
-msgstr ""
+msgstr "除非您希望<a href=\"%s\">您的首页地址与 ClassicPress 安装地址不同</a>，请在此填写相同的地址。"
 
 #: wp-admin/options-general.php:225
 msgid "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"
 
 #: wp-admin/options-general.php:236
 msgid "Administration Email Address"
-msgstr ""
+msgstr "管理员电子邮件地址"
 
 #: wp-admin/options-general.php:238
 msgid "This address is used for admin purposes. If you change this, an email will be sent to your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "此地址用于管理目的。 如果您更改此设置，系统将向您的新地址发送一封电子邮件进行确认。<strong>新地址在得到确认之前不会生效。</strong>"
 
 #. translators: %s: New admin email.
 #: wp-admin/options-general.php:248
 msgid "There is a pending change of the admin email to %s."
-msgstr ""
+msgstr "修改管理员电子邮件地址为 %s 的操作尚未完成。"
 
 #: wp-admin/options-general.php:285
 #: wp-admin/options-general.php:288
 msgid "Custom Login Image"
-msgstr ""
+msgstr "自定义登录图像"
 
 #: wp-admin/options-general.php:290
 msgid "If you choose an image here and enable this option, then that image will be shown at the top of the login page instead of the ClassicPress logo."
-msgstr ""
+msgstr "如果您在此选择一个图像并启用此选项，那么该图像将会显示在登录页面顶部，而不是 ClassicPress 徽标。"
 
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:644
 msgid "Learn more."
-msgstr ""
+msgstr "了解更多。"
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
-msgstr ""
+msgstr "没有自定义图像：使用 <strong>ClassicPress 徽标</strong>"
 
 #: wp-admin/options-general.php:307
 msgid "Use my custom image as a <strong>logo</strong>"
-msgstr ""
+msgstr "使用我的自定义图像作为一个<strong>徽标</strong>"
 
 #: wp-admin/options-general.php:317
 msgid "Use my custom image as a <strong>banner</strong>"
-msgstr ""
+msgstr "使用我的自定义图像作为一个<strong>横幅</strong>"
 
 #: wp-admin/options-general.php:323
 msgid "Clear Image"
-msgstr ""
+msgstr "移除图像"
 
 #: wp-admin/options-general.php:327
 msgid "Changing the custom login image requires JavaScript to be enabled."
-msgstr ""
+msgstr "更改自定义登录图像需要启用 JavaScript。"
 
 #: wp-admin/options-general.php:345
 msgid "Anyone can register"
-msgstr ""
+msgstr "任何人都可以注册"
 
 #: wp-admin/options-general.php:350
 msgid "New User Default Role"
-msgstr ""
+msgstr "新用户默认角色"
 
 #. translators: 1: WPLANG, 2: wp-config.php
 #: wp-admin/options-general.php:392
 msgid "The %1$s constant in your %2$s file is no longer needed."
-msgstr ""
+msgstr "您的 %2$s 文件中的 %1$s 常量不再被需要。"
 
 #. translators: %s: UTC abbreviation
 #: wp-admin/options-general.php:436
 msgid "Choose either a city in the same timezone as you or a %s (Coordinated Universal Time) time offset."
-msgstr ""
+msgstr "选择一个与您相同时区的城市，或者选择一个 %s（协调世界时间）时间偏移。"
 
 #. translators: %s: UTC time.
 #: wp-admin/options-general.php:447
 msgid "Universal time is %s."
-msgstr ""
+msgstr "协调时间为 %s。"
 
 #. translators: %s: Local time.
 #: wp-admin/options-general.php:457
 msgid "Local time is %s."
-msgstr ""
+msgstr "本地时间为 %s。"
 
 #: wp-admin/options-general.php:473
 msgid "This timezone is currently in daylight saving time."
-msgstr ""
+msgstr "此时区目前正处于夏令时。"
 
 #: wp-admin/options-general.php:475
 msgid "This timezone is currently in standard time."
-msgstr ""
+msgstr "此时区目前处于标准时间。"
 
 #. translators: %s: Date and time.
 #: wp-admin/options-general.php:488
 msgid "Daylight saving time begins on: %s."
-msgstr ""
+msgstr "夏令时开始于：%s"
 
 #. translators: %s: Date and time.
 #: wp-admin/options-general.php:490
 msgid "Standard time begins on: %s."
-msgstr ""
+msgstr "标准时间开始于：%s"
 
 #: wp-admin/options-general.php:496
 msgid "This timezone does not observe daylight saving time."
-msgstr ""
+msgstr "此时区无夏令时。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:507
 #: wp-admin/options-general.php:512
 msgid "Date Format"
-msgstr ""
+msgstr "日期格式"
 
 #: wp-admin/options-general.php:539
 #: wp-admin/options-general.php:587
@@ -14841,29 +14841,29 @@ msgstr "媒体设置"
 
 #: wp-admin/options-media.php:20
 msgid "You can set maximum sizes for images inserted into your written content; you can also insert an image as Full Size."
-msgstr ""
+msgstr "您可以为插入到您的写作内容中的图像设置最大尺寸；您也可以将图像以全尺寸插入。"
 
 #: wp-admin/options-media.php:26
 msgid "Uploading Files allows you to choose the folder and path for storing your uploaded files."
-msgstr ""
+msgstr "上传文件允许您选择存储您上传文件的文件夹和路径。"
 
 #: wp-admin/options-media.php:41
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">媒体设置文档</a>"
 
 #: wp-admin/options-media.php:63
 msgid "Image sizes"
-msgstr ""
+msgstr "图像尺寸"
 
 #: wp-admin/options-media.php:64
 msgid "The sizes listed below determine the maximum dimensions in pixels to use when adding an image to the Media Library."
-msgstr ""
+msgstr "下面列出的大小决定了向媒体库添加图像时使用的以像素计的最大尺寸。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-media.php:68
 #: wp-admin/options-media.php:72
 msgid "Thumbnail size"
-msgstr ""
+msgstr "缩略图尺寸"
 
 #: wp-admin/options-media.php:75
 msgid "Width"
@@ -15788,217 +15788,217 @@ msgstr "此插件可能在网络中的其他站点处于活跃状态。"
 
 #: wp-admin/plugins.php:345
 msgid "You are about to remove the following plugin:"
-msgstr ""
+msgstr "您即将删除下列插件："
 
 #: wp-admin/plugins.php:347
 msgid "Delete Plugins"
-msgstr ""
+msgstr "删除插件"
 
 #: wp-admin/plugins.php:349
 msgid "These plugins may be active on other sites in the network."
-msgstr ""
+msgstr "这些插件可能在网络中的其他站点处于活跃状态。"
 
 #: wp-admin/plugins.php:351
 msgid "You are about to remove the following plugins:"
-msgstr ""
+msgstr "您即将删除下列插件："
 
 #. translators: 1: Plugin name, 2: Plugin author.
 #: wp-admin/plugins.php:361
 msgid "%1$s by %2$s (will also <strong>delete its data</strong>)"
-msgstr ""
+msgstr "由 %2$s 编写的「%1$s」（也将<strong>删除其数据</strong>）"
 
 #. translators: 1: Plugin name, 2: Plugin author.
 #: wp-admin/plugins.php:365
 msgctxt "plugin"
 msgid "%1$s by %2$s"
-msgstr ""
+msgstr "由 %2$s 制作的「%1$s」"
 
 #: wp-admin/plugins.php:375
 msgid "Are you sure you want to delete these files and data?"
-msgstr ""
+msgstr "您确定要删除这些文件和数据吗？"
 
 #: wp-admin/plugins.php:377
 msgid "Are you sure you want to delete these files?"
-msgstr ""
+msgstr "您确定要删除这些文件吗？"
 
 #: wp-admin/plugins.php:393
 msgid "Yes, delete these files and data"
-msgstr ""
+msgstr "是，删除这些文件和数据"
 
 #: wp-admin/plugins.php:393
 msgid "Yes, delete these files"
-msgstr ""
+msgstr "是，删除这些文件"
 
 #: wp-admin/plugins.php:401
 msgid "No, return me to the plugin list"
-msgstr ""
+msgstr "否，返回插件列表"
 
 #: wp-admin/plugins.php:432
 msgid "Sorry, you are not allowed to resume this plugin."
-msgstr ""
+msgstr "对不起，您无权恢复此插件。"
 
 #: wp-admin/plugins.php:450
 msgid "Sorry, you are not allowed to manage plugins automatic updates."
-msgstr ""
+msgstr "对不起，您无权管理此站点的插件自动更新设置。"
 
 #: wp-admin/plugins.php:454
 msgid "Please connect to your network admin to manage plugins automatic updates."
-msgstr ""
+msgstr "请转到您的网络管理界面以管理插件自动更新设置。"
 
 #: wp-admin/plugins.php:545
 msgid "Plugins extend and expand the functionality of ClassicPress. Once a plugin is installed, you may activate it or deactivate it here."
-msgstr ""
+msgstr "插件可扩展 ClassicPress 的功能。一旦插件安装完毕，您可以在这里启用或停用它。"
 
 #: wp-admin/plugins.php:546
 msgid "The search for installed plugins will search for terms in their name, description, or author."
-msgstr ""
+msgstr "搜索已安装的插件将搜索其名称、描述或作者。"
 
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:549
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">ClassicPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "如果您希望有更多插件可供选择，请单击「添加插件」按钮，这样您就可以从 <a href=\"%s\">ClassicPress 插件目录</a>浏览或搜索新的插件。在 WordPress 插件目录中的插件是由第三方设计与编写的，并且与 WordPress 所使用的许可证兼容。还有，它们都是免费的！"
 
 #: wp-admin/plugins.php:557
 msgid "Troubleshooting"
-msgstr ""
+msgstr "排障"
 
 #: wp-admin/plugins.php:559
 msgid "Most of the time, plugins play nicely with the core of ClassicPress and with other plugins. Sometimes, though, a plugin&#8217;s code will get in the way of another plugin, causing compatibility issues. If your site starts doing strange things, this may be the problem. Try deactivating all your plugins and re-activating them in various combinations until you isolate which one(s) caused the issue."
-msgstr ""
+msgstr "在大多数情况下，插件与 ClassicPress 的核心和其他插件可以正常协作。但有时候，一个插件的代码会影响另一个插件的代码，并造成兼容性问题。如果您的站点开始做一些奇怪的事情，这可能是问题之一。尝试停用所有插件并以各种组合重新激活它们，直到确定哪（几）个插件引起了问题。"
 
 #. translators: %s: WP_PLUGIN_DIR constant value.
 #: wp-admin/plugins.php:562
 msgid "If something goes wrong with a plugin and you cannot use ClassicPress, delete or rename that file in the %s directory and it will be automatically deactivated."
-msgstr ""
+msgstr "如果插件出错，且您不能使用 ClassicPress，请在 %s 目录中删除或重命名该文件，这将自动停用对应的插件。"
 
 #: wp-admin/plugins.php:576
 msgid "Auto-updates can be enabled or disabled for each individual plugin. Plugins with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr ""
+msgstr "可以为每个插件独立启用或禁用自动更新。启用自动更新的插件将显示下一次自动更新的估计日期。自动更新取决于 WP-Cron 任务计划系统。"
 
 #: wp-admin/plugins.php:577
 msgid "Auto-updates are only available for plugins recognized by WordPress.org or ClassicPress.net, or that include a compatible update system."
-msgstr ""
+msgstr "自动更新仅适用于 WordPress.org 或 ClassicPress.net 可以识别的插件，或者包含兼容的更新系统的那些插件。"
 
 #: wp-admin/plugins.php:578
 #: wp-admin/themes.php:192
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "请注意：第三方主题和插件或自定义代码可能会覆盖 ClassicPress 的计划任务。"
 
 #: wp-admin/plugins.php:582
 #: wp-admin/themes.php:202
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">自动更新文档</a>"
 
 #: wp-admin/plugins.php:587
 msgid "<a href=\"https://wordpress.org/documentation/article/manage-plugins/\">Documentation on Managing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/manage-plugins/\">管理插件文档</a>"
 
 #: wp-admin/plugins.php:601
 #: wp-admin/update-core.php:303
 #: wp-admin/update-core.php:322
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:612
 msgid "The plugin %1$s has been deactivated due to an error: %2$s"
-msgstr ""
+msgstr "插件 %1$s 因错误而被停用：%2$s"
 
 #. translators: %d: Number of characters.
 #: wp-admin/plugins.php:627
 msgid "The plugin generated %d character of <strong>unexpected output</strong> during activation."
 msgid_plural "The plugin generated %d characters of <strong>unexpected output</strong> during activation."
-msgstr[0] ""
+msgstr[0] "插件在激活过程中生成了 %d 字符的 <strong>意外输出</strong>。"
 
 #: wp-admin/plugins.php:634
 msgid "If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
-msgstr ""
+msgstr "如果您注意到「标头已经发送」消息，同步源或其他问题的问题，请尝试停用或删除此插件。"
 
 #: wp-admin/plugins.php:636
 msgid "Plugin could not be resumed because it triggered a <strong>fatal error</strong>."
-msgstr ""
+msgstr "由于其触发了一个<strong>致命错误</strong>，无法恢复插件。"
 
 #: wp-admin/plugins.php:638
 msgid "Plugin could not be activated because it triggered a <strong>fatal error</strong>."
-msgstr ""
+msgstr "由于其触发了一个<strong>致命错误</strong>，无法启用插件。"
 
 #. translators: %s: Error message.
 #: wp-admin/plugins.php:677
 msgid "Plugin could not be deleted due to an error: %s"
-msgstr ""
+msgstr "由于出现错误，无法删除插件：%s"
 
 #: wp-admin/plugins.php:688
 msgid "The selected plugin has been deleted."
-msgstr ""
+msgstr "所选插件已被删除。"
 
 #: wp-admin/plugins.php:690
 msgid "The selected plugins have been deleted."
-msgstr ""
+msgstr "所选插件已被删除。"
 
 #: wp-admin/plugins.php:697
 msgid "Plugin activated."
-msgstr ""
+msgstr "已启用插件。"
 
 #: wp-admin/plugins.php:699
 msgid "Selected plugins activated."
-msgstr ""
+msgstr "已启用选定插件。"
 
 #: wp-admin/plugins.php:701
 msgid "Plugin deactivated."
-msgstr ""
+msgstr "已停用插件。"
 
 #: wp-admin/plugins.php:703
 msgid "Selected plugins deactivated."
-msgstr ""
+msgstr "已停用选定插件。"
 
 #: wp-admin/plugins.php:705
 msgid "All selected plugins are up to date."
-msgstr ""
+msgstr "所有选中的插件都是最新的。"
 
 #: wp-admin/plugins.php:707
 msgid "Plugin resumed."
-msgstr ""
+msgstr "插件已恢复。"
 
 #: wp-admin/plugins.php:709
 msgid "Plugin will be auto-updated."
-msgstr ""
+msgstr "插件将自动更新。"
 
 #: wp-admin/plugins.php:711
 msgid "Plugin will no longer be auto-updated."
-msgstr ""
+msgstr "插件将不再自动更新。"
 
 #: wp-admin/plugins.php:713
 msgid "Selected plugins will be auto-updated."
-msgstr ""
+msgstr "所选插件将自动更新。"
 
 #: wp-admin/plugins.php:715
 msgid "Selected plugins will no longer be auto-updated."
-msgstr ""
+msgstr "所选插件将不再自动更新。"
 
 #: wp-admin/plugins.php:765
 msgid "Search Installed Plugins"
-msgstr ""
+msgstr "搜索已安装的插件"
 
 #: wp-admin/post.php:47
 msgid "A post type mismatch has been detected."
-msgstr ""
+msgstr "检测到文章类型不匹配。"
 
 #: wp-admin/post.php:82
 msgid "Unable to submit this form, please refresh and try again."
-msgstr ""
+msgstr "无法提交此表单，请刷新并再试一次。"
 
 #: wp-admin/post.php:143
 msgid "You cannot edit this item because it is in the Trash. Please restore it and try again."
-msgstr ""
+msgstr "您不能编辑此项目，因为它在回收站中。请将其移出回收站，然后再试一次。"
 
 #: wp-admin/post.php:245
 msgid "The item you are trying to move to the Trash no longer exists."
-msgstr ""
+msgstr "您试图移入回收站的项目不再存在。"
 
 #. translators: %s: User's display name.
 #: wp-admin/post.php:260
 msgid "You cannot move this item to the Trash. %s is currently editing."
-msgstr ""
+msgstr "您不能将此项目移动到回收站。%s 正在编辑。"
 
 #: wp-admin/post.php:282
 msgid "The item you are trying to restore from the Trash no longer exists."
@@ -16663,47 +16663,47 @@ msgstr "筛选主题列表"
 #: wp-admin/theme-install.php:194
 msgctxt "themes"
 msgid "Popular"
-msgstr ""
+msgstr "热门"
 
 #: wp-admin/theme-install.php:204
 #: wp-admin/theme-install.php:226
 msgid "Apply Filters"
-msgstr ""
+msgstr "应用筛选"
 
 #: wp-admin/theme-install.php:205
 #: wp-admin/theme-install.php:227
 msgid "Clear current filters"
-msgstr ""
+msgstr "清除当前筛选条件"
 
 #: wp-admin/theme-install.php:205
 #: wp-admin/theme-install.php:227
 #: wp-admin/js/color-picker.js:154
 msgid "Clear"
-msgstr ""
+msgstr "清除"
 
 #: wp-admin/theme-install.php:230
 msgid "Filtering by:"
-msgstr ""
+msgstr "筛选方式："
 
 #: wp-admin/theme-install.php:232
 msgid "Edit Filters"
-msgstr ""
+msgstr "编辑筛选条件"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/theme-install.php:239
 msgid "Themes list"
-msgstr ""
+msgstr "主题列表"
 
 #: wp-admin/theme-install.php:348
 msgctxt "theme"
 msgid "Details &amp; Preview"
-msgstr ""
+msgstr "详情及预览"
 
 #: wp-admin/theme-install.php:370
 #: wp-admin/theme-install.php:445
 msgctxt "theme"
 msgid "Activated"
-msgstr ""
+msgstr "已启用"
 
 #. translators: %s: Theme name.
 #: wp-admin/theme-install.php:383
@@ -16712,179 +16712,180 @@ msgstr ""
 #: wp-admin/themes.php:1157
 msgctxt "theme"
 msgid "Cannot Activate %s"
-msgstr ""
+msgstr "无法启用 %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/theme-install.php:405
 msgctxt "theme"
 msgid "Cannot Install %s"
-msgstr ""
+msgstr "无法安装 %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/theme-install.php:427
 msgid "Previous theme"
-msgstr ""
+msgstr "上一款主题"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/theme-install.php:433
 msgid "Next theme"
-msgstr ""
+msgstr "下一款主题"
 
 #: wp-admin/theme-install.php:484
 msgid "This theme has not been rated yet."
-msgstr ""
+msgstr "此主题尚未被评分。"
 
 #: wp-admin/themes.php:43
 msgid "Sorry, you are not allowed to resume this theme."
-msgstr ""
+msgstr "对不起，您无权恢复此主题。"
 
 #: wp-admin/themes.php:86
 msgid "Sorry, you are not allowed to enable themes automatic updates."
-msgstr ""
+msgstr "对不起，您无权启用主题自动更新。"
 
 #: wp-admin/themes.php:106
 msgid "Sorry, you are not allowed to disable themes automatic updates."
-msgstr ""
+msgstr "对不起，您无权停用主题自动更新。"
 
 #: wp-admin/themes.php:127
 #: wp-admin/themes.php:250
 #: wp-admin/update-core.php:480
 #: wp-admin/update-core.php:493
 msgid "Themes"
-msgstr ""
+msgstr "主题"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your WordPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "此屏幕用于管理您已安装的主题。除了包含在您的 WordPress 安装中的默认主题之外，主题是由第三方设计和开发的。"
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
-msgstr ""
+msgstr "悬停或点击查看激活和实时预览按钮"
 
 #: wp-admin/themes.php:135
 msgid "Click on the theme to see the theme name, version, author, description, tags, and the Delete link"
-msgstr ""
+msgstr "点击主题查看主题名称、版本、作者、描述、标签和删除链接"
 
 #: wp-admin/themes.php:136
 msgid "Click Customize for the active theme or Live Preview for any other theme to see a live preview"
-msgstr ""
+msgstr "单击活跃主题的「自定义」链接或任何其他主题的「实时预览」链接以查看实时预览"
 
 #: wp-admin/themes.php:137
 msgid "The active theme is displayed highlighted as the first theme."
-msgstr ""
+msgstr "活跃主题将显示为第一个主题。"
 
 #: wp-admin/themes.php:138
 msgid "The search for installed themes will search for terms in their name, description, author, or tag."
-msgstr ""
+msgstr "搜索已安装的主题将搜索其名称、描述、作者、或标签。"
 
 #: wp-admin/themes.php:152
 msgid "Installing themes on Multisite can only be done from the Network Admin section."
-msgstr ""
+msgstr "在多站点上安装主题只能从网络管理界面完成。"
 
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:156
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "如果您希望有更多主题可供选择，请单击「添加主题」按钮，这样您就可以从 <a href=\"%s\">ClassicPress 主题目录</a>浏览或搜索新的主题。在 WordPress 主题目录中的主题是由第三方设计与编写的，并且与 WordPress 所使用的许可证兼容。还有，它们都是免费的！"
 
 #: wp-admin/themes.php:164
 msgid "Adding Themes"
-msgstr ""
+msgstr "添加主题"
 
 #: wp-admin/themes.php:173
 msgid "Tap or hover on any theme then click the Live Preview button to see a live preview of that theme and change theme options in a separate, full-screen view. You can also find a Live Preview button at the bottom of the theme details screen. Any installed theme can be previewed and customized in this way."
-msgstr ""
+msgstr "点击或悬停于任何主题，然后点击「实时预览」按钮查看该主题的实时预览，并在一个独立的全屏幕视图中更改主题选项。您也可以在主题详情屏幕底部找到实时预览按钮。 任何已安装的主题都可以以这种方式预览和定制。"
 
 #: wp-admin/themes.php:174
 msgid "The theme being previewed is fully interactive &mdash; navigate to different pages to see how the theme handles posts, archives, and other page templates. The settings may differ depending on what theme features the theme being previewed supports. To accept the new settings and activate the theme all in one step, click the Activate &amp; Publish button above the menu."
-msgstr ""
+msgstr "被进行实时预览的主题是完全可交互的 &mdash; 您可以浏览不同的页面以了解主题是如何处理文章、归档、以及其他页面模板的。根据主题所提供的功能不同，实时预览界面中的可用设置也不同。要同时保存设置并启用新主题，请单击菜单顶部的「启用并发表」按钮。"
 
 #: wp-admin/themes.php:175
 msgid "When previewing on smaller monitors, you can use the collapse icon at the bottom of the left-hand pane. This will hide the pane, giving you more room to preview your site in the new theme. To bring the pane back, click on the collapse icon again."
-msgstr ""
+msgstr "当在较小的显示器上预览时，您可以使用左侧面板底部的折叠图标。 这将隐藏面板，让您有更多的空间在新主题中预览您的网站。要重新展开面板，请再次点击折叠图标。"
 
 #: wp-admin/themes.php:180
 msgid "Previewing and Customizing"
-msgstr ""
+msgstr "预览和定制"
 
 #: wp-admin/themes.php:191
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr ""
+msgstr "可以为每个主题独立启用或禁用自动更新。启用自动更新的主题将显示下一次自动更新的估计日期。自动更新取决于 WP-Cron 任务计划系统。"
 
 #: wp-admin/themes.php:207
 msgid "<a href=\"https://wordpress.org/documentation/article/work-with-themes/\">Documentation on Using Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/work-with-themes/\">使用主题文档</a>"
 
 #: wp-admin/themes.php:208
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-themes-screen/\">Documentation on Managing Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-themes-screen/\">管理主题文档</a>"
 
 #: wp-admin/themes.php:228
 msgid "Are you sure you want to delete this theme?\n\n"
 "Click 'Cancel' to go back, 'OK' to confirm the delete."
-msgstr ""
+msgstr "您确定要删除此主题吗？\n\n"
+"单击「取消」返回，「确认」以删除。"
 
 #: wp-admin/themes.php:233
 msgid "Search Installed Themes"
-msgstr ""
+msgstr "搜索已安装的主题"
 
 #: wp-admin/themes.php:234
 msgid "Search installed themes..."
-msgstr ""
+msgstr "搜索已安装的主题..."
 
 #: wp-admin/themes.php:251
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:255
 msgctxt "theme"
 msgid "Add New"
-msgstr ""
+msgstr "新增主题"
 
 #: wp-admin/themes.php:264
 msgid "The active theme is broken. Reverting to the default theme."
-msgstr ""
+msgstr "活跃主题已损坏。正在恢复至默认主题。"
 
 #: wp-admin/themes.php:269
 msgid "Settings saved and theme activated."
-msgstr ""
+msgstr "已保存设置并启用了主题。"
 
 #: wp-admin/themes.php:269
 #: wp-admin/themes.php:273
 msgid "Visit site"
-msgstr ""
+msgstr "访问站点"
 
 #: wp-admin/themes.php:273
 msgid "New theme activated."
-msgstr ""
+msgstr "新主题已启用。"
 
 #: wp-admin/themes.php:278
 msgid "Theme deleted."
-msgstr ""
+msgstr "主题已删除。"
 
 #: wp-admin/themes.php:282
 msgid "You cannot delete a theme while it has an active child theme."
-msgstr ""
+msgstr "您不能删除一个有活跃子主题的主题。"
 
 #: wp-admin/themes.php:286
 msgid "Theme resumed."
-msgstr ""
+msgstr "主题已恢复。"
 
 #: wp-admin/themes.php:290
 msgid "Theme could not be resumed because it triggered a <strong>fatal error</strong>."
-msgstr ""
+msgstr "由于其触发了一个<strong>致命错误</strong>，无法恢复主题。"
 
 #: wp-admin/themes.php:294
 msgid "Theme will be auto-updated."
-msgstr ""
+msgstr "主题将会自动更新。"
 
 #: wp-admin/themes.php:298
 msgid "Theme will no longer be auto-updated."
-msgstr ""
+msgstr "主题将不再自动更新。"
 
 #: wp-admin/themes.php:401
 #: wp-admin/themes.php:752
 msgid "New version available. <button class=\"button-link\" type=\"button\">Update now</button>"
-msgstr ""
+msgstr "有新版本可用。<button class=\"button-link\" type=\"button\">立即升级</button>"
 
 #: wp-admin/themes.php:403
 #: wp-admin/themes.php:754
@@ -17125,225 +17126,225 @@ msgstr ""
 
 #: wp-admin/update-core.php:394
 msgid "<a href=\"%s\">Learn more about updating PHP.</a>"
-msgstr ""
+msgstr "<a href=\"%s\">了解更多关于更新 PHP 的信息。</a>"
 
 #. translators: %s: Plugin version.
 #: wp-admin/update-core.php:419
 msgid "View version %s details."
-msgstr ""
+msgstr "查看版本 %s 详情."
 
 #. translators: 1: Plugin version, 2: New version.
 #. translators: 1: Theme version, 2: New version.
 #: wp-admin/update-core.php:442
 #: wp-admin/update-core.php:616
 msgid "You have version %1$s installed. Update to %2$s."
-msgstr ""
+msgstr "您已安装版本 %1$s。更新到 %2$s。"
 
 #: wp-admin/update-core.php:481
 msgid "Your themes are all up to date."
-msgstr ""
+msgstr "您的所有主题都是最新的."
 
 #: wp-admin/update-core.php:498
 msgid "The following themes have new versions available. Check the ones you want to update and then click &#8220;Update Themes&#8221;."
-msgstr ""
+msgstr "以下主题有可用的新版本。请检查您想要更新的版本，然后单击「升级主题」。"
 
 #. translators: %s: Link to documentation on child themes.
 #: wp-admin/update-core.php:503
 msgid "<strong>Please Note:</strong> Any customizations you have made to theme files will be lost. Please consider using <a href=\"%s\">child themes</a> for modifications."
-msgstr ""
+msgstr "<strong>请注意：</strong>您对主题文件的任何定制都会丢失。请考虑使用<a href=\"%s\">子主题</a>进行修改。"
 
 #: wp-admin/update-core.php:510
 #: wp-admin/update-core.php:641
 #: wp-admin/update-core.php:1040
 #: wp-admin/update-core.php:1045
 msgid "Update Themes"
-msgstr ""
+msgstr "升级主题"
 
 #: wp-admin/update-core.php:537
 msgid "This update does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "此更新不适用于您的 ClassicPress 和 PHP 版本。"
 
 #: wp-admin/update-core.php:571
 msgid "This update does not work with your version of ClassicPress."
-msgstr ""
+msgstr "此更新不适用于您的 ClassicPress 版本。"
 
 #: wp-admin/update-core.php:580
 msgid "This update does not work with your version of PHP."
-msgstr ""
+msgstr "此更新不适用于您的 PHP 版本。"
 
 #: wp-admin/update-core.php:655
 #: wp-admin/update-core.php:663
 msgid "Translations"
-msgstr ""
+msgstr "翻译"
 
 #: wp-admin/update-core.php:665
 msgid "New translations are available."
-msgstr ""
+msgstr "有新的翻译可供使用。"
 
 #: wp-admin/update-core.php:706
 msgid "Update ClassicPress"
-msgstr ""
+msgstr "升级 ClassicPress"
 
 #: wp-admin/update-core.php:754
 msgid "It's possible that an update started, but the server encountered a temporary issue and could not continue."
-msgstr ""
+msgstr "升级可能已经启动，但服务器遇到了一个临时问题，无法继续升级。"
 
 #: wp-admin/update-core.php:759
 msgid "Or, you may have clicked the update button multiple times."
-msgstr ""
+msgstr "或者，您可能已多次点击升级按钮。"
 
 #: wp-admin/update-core.php:764
 msgid "Please wait <strong>15 minutes</strong> and try again."
-msgstr ""
+msgstr "请等待 <strong>15 分钟</strong>后重试。"
 
 #. translators: URL to support forum
 #: wp-admin/update-core.php:771
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "如果您在 15 分钟后尝试更新时仍然看到此消息，请在我们的<a href=\"%s\">支持论坛上</a>发帖。"
 
 #: wp-admin/update-core.php:779
 msgid "Installation Failed"
-msgstr ""
+msgstr "安装失败"
 
 #: wp-admin/update-core.php:836
 #: wp-admin/update-core.php:879
 msgid "ClassicPress Updates"
-msgstr ""
+msgstr "ClassicPress 升级"
 
 #: wp-admin/update-core.php:839
 msgid "On this screen, you can update to the latest version of ClassicPress, as well as update your themes, plugins, and translations from the ClassicPress.net repositories."
-msgstr ""
+msgstr "在这个屏幕上，您可以更新到最新版本的 ClassicPress，以及更新您的主题、插件和来自 ClassPress.net 仓库的翻译。"
 
 #: wp-admin/update-core.php:840
 msgid "If an update is available, you&#8127;ll see a notification appear in the Toolbar and navigation menu."
-msgstr ""
+msgstr "如果有更新可用，您将会在工具栏和导航菜单中看到一个通知。"
 
 #: wp-admin/update-core.php:850
 msgid "<strong>ClassicPress</strong> &mdash; Updating your ClassicPress installation is a simple one-click procedure: just <strong>click on the &#8220;Update Now&#8221; button</strong> when you are notified that a new version is available."
-msgstr ""
+msgstr "<strong>ClassicPress</strong> &mdash; 更新您的 ClassicPress 版本很简单：只需在新版本可用时，<strong>单击「立即升级」按钮</strong>。"
 
 #: wp-admin/update-core.php:850
 msgid "In most cases, ClassicPress will automatically apply maintenance and security updates in the background for you."
-msgstr ""
+msgstr "在大多数情况下，ClassicPress 将在后台自动为您安装维护和安全更新。"
 
 #: wp-admin/update-core.php:851
 msgid "<strong>Themes and Plugins</strong> &mdash; To update individual themes or plugins from this screen, use the checkboxes to make your selection, then <strong>click on the appropriate &#8220;Update&#8221; button</strong>. To update all of your themes or plugins at once, you can check the box at the top of the section to select all before clicking the update button."
-msgstr ""
+msgstr "<strong>主题和插件</strong> &mdash; 要在此屏幕上升级主题和插件，请先用复选框选中您希望升级的项目，然后<strong>单击对应的「升级」按钮</strong>。要同时更新所有的主题和插件，您可以在单击升级按钮之前，选中组件最上方的复选框以选中全部项目。"
 
 #: wp-admin/update-core.php:854
 msgid "<strong>Translations</strong> &mdash; The files translating ClassicPress into your language are updated for you whenever any other updates occur. But if these files are out of date, you can <strong>click the &#8220;Update Translations&#8221;</strong> button."
-msgstr ""
+msgstr "<strong>翻译</strong> &mdash; 用于将 ClassicPress 翻译成您的语言的文件也会随着其他更新一同更新。不过，当这些文件有单独的更新可用时，您可以<strong>点击「升级翻译」</strong>按钮。"
 
 #: wp-admin/update-core.php:860
 msgid "How to Update"
-msgstr ""
+msgstr "如何更新"
 
 #: wp-admin/update-core.php:867
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">升级 ClassicPress 文档</a>"
 
 #: wp-admin/update-core.php:880
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
-msgstr ""
+msgstr "在这里您可以找到有关更新的信息，设置自动更新，并查看哪些插件或主题需要更新。"
 
 #: wp-admin/update-core.php:886
 msgid "Please select one or more themes to update."
-msgstr ""
+msgstr "请选择一个或多个主题进行更新。"
 
 #: wp-admin/update-core.php:888
 msgid "Please select one or more plugins to update."
-msgstr ""
+msgstr "请选择一个或多个主题进行更新。"
 
 #. translators: Current version of WordPress.
 #: wp-admin/update-core.php:902
 msgid "Current version: %s"
-msgstr ""
+msgstr "当前版本：%s"
 
 #. translators: 1: Date, 2: Time.
 #: wp-admin/update-core.php:907
 msgid "Last checked on %1$s at %2$s."
-msgstr ""
+msgstr "最后一次检查于 %1$s %2$s。"
 
 #. translators: 1: Date, 2: Time.
 #: wp-admin/update-core.php:907
 msgid "g:i a T"
-msgstr ""
+msgstr "a g:i T"
 
 #: wp-admin/update-core.php:908
 msgid "Check again."
-msgstr ""
+msgstr "再次检查。"
 
 #: wp-admin/update.php:90
 msgid "Plugin Reactivation"
-msgstr ""
+msgstr "插件重新启用"
 
 #: wp-admin/update.php:92
 msgid "Plugin reactivated successfully."
-msgstr ""
+msgstr "插件重新启用成功。"
 
 #: wp-admin/update.php:96
 msgid "Plugin failed to reactivate due to a fatal error."
-msgstr ""
+msgstr "由于一个致命错误，无法重新启用插件。"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/update.php:159
 msgid "Installing Plugin: %s"
-msgstr ""
+msgstr "正在安装插件：%s"
 
 #: wp-admin/update.php:182
 #: wp-admin/update.php:334
 msgid "Only .zip archives may be uploaded."
-msgstr ""
+msgstr "只能上传 .zip 归档。"
 
 #. translators: %s: File name.
 #: wp-admin/update.php:195
 msgid "Installing plugin from uploaded file: %s"
-msgstr ""
+msgstr "正在从上传文件安装插件：%s"
 
 #: wp-admin/update.php:308
 msgid "Install Themes"
-msgstr ""
+msgstr "安装主题"
 
 #. translators: %s: Theme name and version.
 #: wp-admin/update.php:315
 msgid "Installing Theme: %s"
-msgstr ""
+msgstr "正在安装主题：%s"
 
 #. translators: %s: File name.
 #: wp-admin/update.php:347
 msgid "Installing theme from uploaded file: %s"
-msgstr ""
+msgstr "正在从上传文件安装主题：%s"
 
 #: wp-admin/upgrade.php:65
 msgid "ClassicPress &rsaquo; Update"
-msgstr ""
+msgstr "ClassicPress &rsaquo; 升级"
 
 #: wp-admin/upgrade.php:73
 msgid "No Update Required"
-msgstr ""
+msgstr "无需更新"
 
 #: wp-admin/upgrade.php:74
 msgid "Your ClassicPress database is already up to date!"
-msgstr ""
+msgstr "您的 ClassicPress 数据库已经是最新版本！"
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Minimum required MySQL version number, 5: Current PHP version number, 6: Current MySQL version number.
 #: wp-admin/upgrade.php:100
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"%1$s\">ClassicPress %2$s</a> 需要 PHP %3$s 或更高版本以及 MySQL 版本 %4$s 或更高版本。您正在运行 PHP 版本 %5$s 和 MySQL 版本 %6$s。"
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Current PHP version number.
 #: wp-admin/upgrade.php:111
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"%1$s\">ClassicPress %2$s</a> 需要 PHP %3$s 或更高版本。您正在运行版本 %4$s。"
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number.
 #: wp-admin/upgrade.php:120
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"%1$s\">ClassicPress %2$s</a> 需要 MySQL %3$s 或更高版本。您正在运行版本 %4$s。"
 
 #: wp-admin/upgrade.php:140
 msgid "Database Update Required"
-msgstr ""
+msgstr "需要更新数据库"
 
 #: wp-admin/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to update your database to the newest version."
@@ -17570,217 +17571,217 @@ msgstr ""
 
 #: wp-admin/user-edit.php:210
 msgid "Profile updated."
-msgstr ""
+msgstr "个人资料已更新。"
 
 #: wp-admin/user-edit.php:212
 msgid "User updated."
-msgstr ""
+msgstr "用户已更新。"
 
 #: wp-admin/user-edit.php:215
 msgid "&larr; Go to Users"
-msgstr ""
+msgstr "&larr; 转到用户"
 
 #: wp-admin/user-edit.php:223
 msgid "Error while saving the new email address. Please try again."
-msgstr ""
+msgstr "保存新电子邮件地址时出错。请再试一次。"
 
 #: wp-admin/user-edit.php:243
 #: wp-admin/users.php:630
 msgctxt "user"
 msgid "Add Existing"
-msgstr ""
+msgstr "添加现有用户"
 
 #: wp-admin/user-edit.php:279
 msgid "Personal Options"
-msgstr ""
+msgstr "个人选项"
 
 #: wp-admin/user-edit.php:286
 msgid "Visual Editor"
-msgstr ""
+msgstr "可视化编辑器"
 
 #: wp-admin/user-edit.php:289
 msgid "Disable the visual editor when writing"
-msgstr ""
+msgstr "写作时禁用可视化编辑器"
 
 #: wp-admin/user-edit.php:310
 msgid "Syntax Highlighting"
-msgstr ""
+msgstr "语法高亮"
 
 #: wp-admin/user-edit.php:313
 msgid "Disable syntax highlighting when editing code"
-msgstr ""
+msgstr "编辑代码时禁用语法高亮"
 
 #: wp-admin/user-edit.php:343
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "键盘快捷键"
 
 #: wp-admin/user-edit.php:347
 msgid "Enable keyboard shortcuts for comment moderation."
-msgstr ""
+msgstr "启用评论审核快捷键。"
 
 #: wp-admin/user-edit.php:355
 msgid "Toolbar"
-msgstr ""
+msgstr "工具栏"
 
 #: wp-admin/user-edit.php:359
 msgid "Show Toolbar when viewing site"
-msgstr ""
+msgstr "查看站点时显示工具栏"
 
 #. translators: The user language selection field label.
 #: wp-admin/user-edit.php:372
 #: wp-admin/user-new.php:560
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: wp-admin/user-edit.php:433
 msgid "Usernames cannot be changed."
-msgstr ""
+msgstr "用户名不能被更改。"
 
 #: wp-admin/user-edit.php:466
 msgid "Grant this user super admin privileges for the Network."
-msgstr ""
+msgstr "授予此用户超级管理员权限。"
 
 #: wp-admin/user-edit.php:468
 msgid "Super admin privileges cannot be removed because this user has the network admin email."
-msgstr ""
+msgstr "超级管理员权限不能被撤销，因为该用户的电子邮件地址为网络管理员电子邮件。"
 
 #: wp-admin/user-edit.php:475
 #: wp-admin/user-new.php:541
 msgid "First Name"
-msgstr ""
+msgstr "姓"
 
 #: wp-admin/user-edit.php:480
 #: wp-admin/user-new.php:545
 msgid "Last Name"
-msgstr ""
+msgstr "名"
 
 #: wp-admin/user-edit.php:485
 msgid "Nickname"
-msgstr ""
+msgstr "昵称"
 
 #: wp-admin/user-edit.php:491
 msgid "Display name publicly as"
-msgstr ""
+msgstr "公开显示名称为"
 
 #: wp-admin/user-edit.php:575
 msgid "Contact Info"
-msgstr ""
+msgstr "联系信息"
 
 #: wp-admin/user-edit.php:584
 msgid "If you change this, an email will be sent at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "如果您更改此设置，系统将向您的新地址发送一封电子邮件进行确认。<strong>新地址在得到确认之前不会生效。</strong>"
 
 #. translators: %s: New email.
 #: wp-admin/user-edit.php:595
 msgid "There is a pending change of your email to %s."
-msgstr ""
+msgstr "修改您电子邮件地址为 %s 的操作尚未完成。"
 
 #: wp-admin/user-edit.php:622
 #: wp-admin/user-new.php:549
 msgid "Website"
-msgstr ""
+msgstr "网址"
 
 #: wp-admin/user-edit.php:664
 msgid "About Yourself"
-msgstr ""
+msgstr "关于您自己"
 
 #: wp-admin/user-edit.php:664
 msgid "About the user"
-msgstr ""
+msgstr "关于用户"
 
 #: wp-admin/user-edit.php:676
 msgid "Biographical Info"
-msgstr ""
+msgstr "个人履历"
 
 #: wp-admin/user-edit.php:678
 msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
-msgstr ""
+msgstr "分享一些履历来充实您的个人资料。这可能会被公开显示。"
 
 #: wp-admin/user-edit.php:687
 msgid "Profile Picture"
-msgstr ""
+msgstr "个人资料图片"
 
 #. translators: %s: Gravatar URL.
 #: wp-admin/user-edit.php:695
 msgid "<a href=\"%s\" rel=\"noreferrer\">You can change your profile picture on Gravatar</a>."
-msgstr ""
+msgstr "<a href=\"%s\" rel=\"noreferrer\">您可以在 Gravatar 上更改您的个人资料图片</a>。"
 
 #: wp-admin/user-edit.php:696
 msgid "https://en.gravatar.com/"
-msgstr ""
+msgstr "https://en.gravatar.com/"
 
 #: wp-admin/user-edit.php:733
 msgid "Account Management"
-msgstr ""
+msgstr "账户管理"
 
 #: wp-admin/user-edit.php:737
 msgid "New Password"
-msgstr ""
+msgstr "新密码"
 
 #: wp-admin/user-edit.php:740
 msgid "Set New Password"
-msgstr ""
+msgstr "设置新密码"
 
 #: wp-admin/user-edit.php:749
 msgid "Cancel password change"
-msgstr ""
+msgstr "取消密码更改"
 
 #: wp-admin/user-edit.php:758
 msgid "Repeat New Password"
-msgstr ""
+msgstr "重复新密码"
 
 #: wp-admin/user-edit.php:762
 msgid "Type your new password again."
-msgstr ""
+msgstr "再次输入您的新密码。"
 
 #: wp-admin/user-edit.php:764
 msgid "Type the new password again."
-msgstr ""
+msgstr "再次输入新密码。"
 
 #: wp-admin/user-edit.php:782
 msgid "Password Reset"
-msgstr ""
+msgstr "密码重置"
 
 #: wp-admin/user-edit.php:786
 msgid "Send Reset Link"
-msgstr ""
+msgstr "发送重置链接"
 
 #. translators: %s: User's display name.
 #: wp-admin/user-edit.php:793
 msgid "Send %s a link to reset their password. This will not change their password, nor will it force a change."
-msgstr ""
+msgstr "发送一个 %s 链接重置他们的密码。这不会更改他们的密码，也不会强制更改密码。"
 
 #: wp-admin/user-edit.php:804
 #: wp-admin/user-edit.php:814
 #: wp-admin/user-edit.php:824
 msgid "Sessions"
-msgstr ""
+msgstr "会话"
 
 #: wp-admin/user-edit.php:806
 #: wp-admin/user-edit.php:816
 msgid "Log Out Everywhere Else"
-msgstr ""
+msgstr "在所有其他位置登出"
 
 #: wp-admin/user-edit.php:808
 msgid "You are only logged in at this location."
-msgstr ""
+msgstr "您只在此处登录。"
 
 #: wp-admin/user-edit.php:818
 msgid "Did you lose your phone or leave your account logged in at a public computer? You can log out everywhere else, and stay logged in here."
-msgstr ""
+msgstr "您是丢失了您的手机还是将账户登录在公共计算机上？ 您可以在任何其他地方登出，然后在这里保持登录。"
 
 #: wp-admin/user-edit.php:826
 msgid "Log Out Everywhere"
-msgstr ""
+msgstr "在所有位置登出"
 
 #. translators: %s: User's display name.
 #: wp-admin/user-edit.php:830
 msgid "Log %s out of all locations."
-msgstr ""
+msgstr "将 %s 从所有位置登出。"
 
 #: wp-admin/user-edit.php:840
 msgid "Application Passwords"
-msgstr ""
+msgstr "应用程序密码"
 
 #: wp-admin/user-edit.php:841
 msgid "Application passwords allow authentication via non-interactive systems, such as XML-RPC or the REST API, without providing your actual password. Application passwords can be easily revoked. They cannot be used for traditional logins to your website."
