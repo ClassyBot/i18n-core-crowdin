@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-01 15:53\n"
+"PO-Revision-Date: 2024-08-02 08:02\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -14564,15 +14564,15 @@ msgstr "ClassicPress URL 和站点 URL 可以是相同的（example.com），也
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
-msgstr ""
+msgstr "如果您希望访客可以自行注册账户，而非由管理员手动添加，请检查会员字段。您可以为新创建的用户分配一个默认的角色，不管是自行注册的还是由管理员手动添加的。"
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
-msgstr ""
+msgstr "您可以设置语言，翻译文件将自动下载并安装（如果您的文件系统可写的话）。"
 
 #: wp-admin/options-general.php:40
 msgid "UTC means Coordinated Universal Time."
-msgstr ""
+msgstr "UTC，即协调世界时间。"
 
 #: wp-admin/options-general.php:53
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-general-screen/\">Documentation on General Settings</a>"
