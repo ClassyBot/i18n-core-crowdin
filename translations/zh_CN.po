@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-04 15:22\n"
+"PO-Revision-Date: 2024-08-05 13:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -383,7 +383,7 @@ msgstr "忽略"
 
 #: wp-admin/async-upload.php:85 wp-includes/script-loader.php:345
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr ""
+msgstr "未能上传「%s」。"
 
 #: wp-admin/comment.php:39 wp-admin/edit-form-comment.php:16
 #: wp-admin/includes/template.php:406
@@ -1227,12 +1227,12 @@ msgstr "发布"
 
 #: wp-admin/customize.php:177 wp-includes/script-loader.php:582
 msgid "Activate &amp; Publish"
-msgstr ""
+msgstr "启用并发布"
 
 #: wp-admin/customize.php:180 wp-admin/edit-form-advanced.php:459
 #: wp-includes/script-loader.php:640
 msgid "Publish Settings"
-msgstr ""
+msgstr "发布选项"
 
 #: wp-admin/customize.php:184
 #: wp-admin/includes/class-theme-upgrader-skin.php:61
@@ -1268,18 +1268,18 @@ msgstr ""
 #: wp-admin/customize.php:222 wp-includes/script-loader.php:605
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
-msgstr ""
+msgstr "隐藏控件"
 
 #: wp-admin/customize.php:224
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
-msgstr ""
+msgstr "隐藏控件"
 
 #: wp-admin/edit-comments.php:14
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:130
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:348
 msgid "Sorry, you are not allowed to edit comments."
-msgstr ""
+msgstr "对不起，您无权编辑评论。"
 
 #. translators: 1: comments count 2: post title
 #: wp-admin/edit-comments.php:141
@@ -8594,7 +8594,7 @@ msgstr ""
 
 #: wp-admin/includes/image-edit.php:185
 msgid "Crop"
-msgstr ""
+msgstr "裁剪"
 
 #: wp-admin/includes/image-edit.php:191
 msgid "Rotate counter-clockwise"
@@ -9908,7 +9908,7 @@ msgstr ""
 #: wp-admin/includes/ms.php:42
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:809
 msgid "You have used your space quota. Please delete files before uploading."
-msgstr ""
+msgstr "您的空间配额已耗尽。请在上传之前删除文件。"
 
 #: wp-admin/includes/ms.php:46 wp-admin/theme-install.php:55
 #: wp-includes/class-wp-customize-nav-menus.php:1001
@@ -11755,7 +11755,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1068
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1078
 msgid "Sorry, you are not allowed to give users that role."
-msgstr ""
+msgstr "对不起，您无权授予用户此身份。"
 
 #: wp-admin/includes/user.php:124 wp-includes/user.php:2349
 msgid "<strong>ERROR</strong>: Please enter a username."
@@ -12426,7 +12426,7 @@ msgstr ""
 
 #: wp-admin/media-upload.php:38
 msgid "Invalid item ID."
-msgstr ""
+msgstr "无效的项目 ID。"
 
 #: wp-admin/media.php:23 wp-admin/media.php:57
 msgid "Sorry, you are not allowed to edit this attachment."
@@ -22159,7 +22159,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1108
 #: wp-includes/user.php:1499
 msgid "Sorry, that username is not allowed."
-msgstr ""
+msgstr "对不起，该用户名不被允许。"
 
 #: wp-includes/ms-functions.php:473
 msgid "You cannot use that email address to signup. We are having problems with them blocking some of our email. Please use another email provider."
@@ -23440,59 +23440,59 @@ msgstr "附件的 MIME 类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:473
 msgid "Details about the media file, specific to its type."
-msgstr ""
+msgstr "媒体文件的详细信息，根据其类型可能有所不同。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:480
 msgid "The ID for the associated post of the attachment."
-msgstr ""
+msgstr "附件相关文章的 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:486
 msgid "URL to the original attachment file."
-msgstr ""
+msgstr "原始附件文件的 URL。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:509
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:710
 msgid "No data supplied."
-msgstr ""
+msgstr "没有提供数据。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:513
 msgid "No Content-Type supplied."
-msgstr ""
+msgstr "未提供 Content-Type。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:517
 msgid "No Content-Disposition supplied."
-msgstr ""
+msgstr "未提供 Content-Disposition。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:523
 msgid "Invalid Content-Disposition supplied. Content-Disposition needs to be formatted as `attachment; filename=\"image.png\"` or similar."
-msgstr ""
+msgstr "提供了无效的 Content-Disposition。Content-Disposition 需要格式化为 `annex; filename=\"image.png\"` 或类似的形式。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:532
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:720
 msgid "Content hash did not match expected."
-msgstr ""
+msgstr "内容哈希不匹配。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:548
 msgid "Could not open file handle."
-msgstr ""
+msgstr "无法打开文件句柄。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:667
 msgid "Limit result set to attachments of a particular media type."
-msgstr ""
+msgstr "限制结果为特定媒体类型的附件。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:674
 msgid "Limit result set to attachments of a particular MIME type."
-msgstr ""
+msgstr "限制结果为特定的 MIME 类型的附件。"
 
 #. translators: %s: required disk space in kilobytes
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:800
 msgid "Not enough space to upload. %s KB needed."
-msgstr ""
+msgstr "没有足够的空间上传。需要 %s KB。"
 
 #. translators: %s: maximum allowed file size in kilobytes
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:805
 msgid "This file is too big. Files must be less than %s KB in size."
-msgstr ""
+msgstr "此文件过大。文件大小必须小于 %s KB。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:65
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1193
@@ -23506,7 +23506,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:76
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:98
 msgid "The password for the parent post of the comment (if the post is password protected)."
-msgstr ""
+msgstr "评论的父文章的密码（如果文章受密码保护）。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:95
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:113
@@ -23517,19 +23517,19 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:358
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:461
 msgid "Sorry, you are not allowed to read the post for this comment."
-msgstr ""
+msgstr "对不起，您无权阅读此文章的评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:124
 msgid "Sorry, you are not allowed to read comments without a post."
-msgstr ""
+msgstr "对不起，您无权在没有指定文章的情况下阅读评论。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:152
 msgid "Query parameter not permitted: %s"
-msgstr ""
+msgstr "不允许查询参数：%s"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:354
 msgid "Sorry, you are not allowed to read this comment."
-msgstr ""
+msgstr "对不起，您无权阅读此评论。"
 
 #. translators: %s: request parameter
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:420
@@ -23657,7 +23657,7 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1276
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1857
 msgid "URL to the object."
-msgstr ""
+msgstr "对象的 URL。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1283
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1909
@@ -23808,101 +23808,101 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:51
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:305
 msgid "An alphanumeric identifier for the status."
-msgstr ""
+msgstr "此状态的字母数字标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:129
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:179
 msgid "Invalid status."
-msgstr ""
+msgstr "无效状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:135
 msgid "Cannot view status."
-msgstr ""
+msgstr "无法查看状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:269
 msgid "The title for the status."
-msgstr ""
+msgstr "状态的标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:275
 msgid "Whether posts with this status should be private."
-msgstr ""
+msgstr "具有此状态的文章是否应该是私密的。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:281
 msgid "Whether posts with this status should be protected."
-msgstr ""
+msgstr "具有此状态的文章是否应该受到保护。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:287
 msgid "Whether posts of this status should be shown in the front end of the site."
-msgstr ""
+msgstr "此状态的文章是否应显示在站点的前端。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:293
 msgid "Whether posts with this status should be publicly-queryable."
-msgstr ""
+msgstr "具有此状态的文章是否应该是可公开查阅的。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php:299
 msgid "Whether to include posts in the edit listing for their post type."
-msgstr ""
+msgstr "是否在文章类型的编辑列表中包含文章。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:51
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:277
 msgid "An alphanumeric identifier for the post type."
-msgstr ""
+msgstr "文章类型的字母数字标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:127
 msgid "Cannot view post type."
-msgstr ""
+msgstr "无法查看文章类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:241
 msgid "All capabilities used by the post type."
-msgstr ""
+msgstr "文章类型所使用的所有能力。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:247
 msgid "A human-readable description of the post type."
-msgstr ""
+msgstr "人类可读的文章类型说明。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:253
 msgid "Whether or not the post type should have children."
-msgstr ""
+msgstr "文章类型是否应有子项目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:259
 msgid "Whether or not the post type can be viewed."
-msgstr ""
+msgstr "是否可以查看文章类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:265
 msgid "Human-readable labels for the post type for various contexts."
-msgstr ""
+msgstr "不同情况下的文章类型的人类可读标签。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:271
 msgid "The title for the post type."
-msgstr ""
+msgstr "文章类型的标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:283
 msgid "All features, supported by the post type."
-msgstr ""
+msgstr "所有功能，由文章类型支持。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:289
 msgid "Taxonomies associated with post type."
-msgstr ""
+msgstr "与文章类型相关联的分类。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:298
 msgid "REST base route for the post type."
-msgstr ""
+msgstr "针对文章类型的 REST 基础路由。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:152
 msgid "You need to define a search term to order by relevance."
-msgstr ""
+msgstr "您需要定义一个按相关性排序的搜索词。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:157
 msgid "You need to define an include parameter to order by include."
-msgstr ""
+msgstr "您需要定义包含的参数来排序。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:329
 msgid "The page number requested is larger than the number of pages available."
-msgstr ""
+msgstr "请求的页码大于可用页数。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:403
 msgid "Incorrect post password."
-msgstr ""
+msgstr "错误的文章密码。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:485
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:519
@@ -23912,47 +23912,47 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:503
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:641
 msgid "Sorry, you are not allowed to assign the provided terms."
-msgstr ""
+msgstr "对不起，您无权分配指定的条目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:633
 msgid "Sorry, you are not allowed to update posts as this user."
-msgstr ""
+msgstr "对不起，您无权以该用户的身份更新文章。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:809
 msgid "The post does not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "文章不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:814
 msgid "The post has already been deleted."
-msgstr ""
+msgstr "此文章已被删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1031
 msgid "A post can not be sticky and have a password."
-msgstr ""
+msgstr "文章不能为置顶并且有密码。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1035
 msgid "A sticky post can not be password protected."
-msgstr ""
+msgstr "不能用密码保护置顶的文章。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1042
 msgid "A password protected post can not be set to sticky."
-msgstr ""
+msgstr "不能将密码保护的文章设置为置顶。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1053
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:129
 msgid "Invalid post parent ID."
-msgstr ""
+msgstr "无效的文章父 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1147
 msgid "Invalid featured media ID."
-msgstr ""
+msgstr "无效的精选媒体 ID。"
 
 #. translators: 1: parameter, 2: list of valid values
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1189
 #: wp-includes/rest-api.php:1123
 msgid "%1$s is not one of %2$s."
-msgstr ""
+msgstr "%1$s 不在 %2$s 中。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1831
 msgid "The globally unique identifier for the object."
@@ -24142,24 +24142,24 @@ msgstr "禁止使用的状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:111
 msgid "Required to be true, as revisions do not support trashing."
-msgstr ""
+msgstr "需要为 true，因为修订版本不支持移入回收站。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:158
 msgid "Sorry, you are not allowed to view revisions of this post."
-msgstr ""
+msgstr "对不起，您无权查看此文章的修订版本。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:173
 msgid "Invalid revision ID."
-msgstr ""
+msgstr "无效的修订版本 ID。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:292
 msgid "Revisions do not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "修订版本不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php:188
 msgid "The %s property has an invalid stored value, and cannot be updated to null."
-msgstr ""
+msgstr "%s 属性有一个无效的存储值，无法更新为空。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:51
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:305
@@ -24279,34 +24279,34 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:67
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1154
 msgid "Unique identifier for the user."
-msgstr ""
+msgstr "用户的唯一标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:93
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:128
 msgid "Required to be true, as users do not support trashing."
-msgstr ""
+msgstr "需要为 true，因为用户不支持移入回收站。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:97
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:132
 msgid "Reassign the deleted user's posts and links to this user ID."
-msgstr ""
+msgstr "重新分配已删除用户的帖子和链接到此用户 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:164
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:485
 msgid "Invalid user parameter(s)."
-msgstr ""
+msgstr "无效的用户参数。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:178
 msgid "Sorry, you are not allowed to filter users by role."
-msgstr ""
+msgstr "对不起，您无权按身份筛选用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:186
 msgid "Sorry, you are not allowed to order users by this parameter."
-msgstr ""
+msgstr "对不起，您不允许通过此参数排序用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:199
 msgid "Sorry, you are not allowed to query users by this parameter."
-msgstr ""
+msgstr "对不起，您不允许通过此参数查询用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:428
 msgid "You are not currently logged in."
@@ -24314,19 +24314,19 @@ msgstr "您目前尚未登录。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:450
 msgid "Sorry, you are not allowed to create new users."
-msgstr ""
+msgstr "对不起，您无权创建新用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:466
 msgid "Cannot create existing user."
-msgstr ""
+msgstr "无法创建现有用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:502
 msgid "Error creating new user."
-msgstr ""
+msgstr "创建新用户时出错。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:583
 msgid "Sorry, you are not allowed to edit roles of this user."
-msgstr ""
+msgstr "对不起，您无权编辑此用户的角色。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:627
 msgid "Username isn't editable."
@@ -24334,30 +24334,30 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:631
 msgid "Invalid slug."
-msgstr ""
+msgstr "无效的 slug。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:730
 msgid "Sorry, you are not allowed to delete this user."
-msgstr ""
+msgstr "对不起，您无权删除此用户。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:747
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:780
 msgid "The user cannot be deleted."
-msgstr ""
+msgstr "用户不能被删除。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:761
 msgid "Users do not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "用户不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:766
 msgid "Invalid user ID for reassignment."
-msgstr ""
+msgstr "重新分配的用户 ID 无效。"
 
 #. translators: %s: role key
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1054
 msgid "The role %s does not exist."
-msgstr ""
+msgstr "身份 %s 不存在。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1101
 msgid "Username contains invalid characters."
@@ -24365,7 +24365,7 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1130
 msgid "Passwords cannot be empty."
-msgstr ""
+msgstr "密码不能为空。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1134
 msgid "Passwords cannot contain the \"\\\" character."
@@ -24373,15 +24373,15 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1160
 msgid "Login name for the user."
-msgstr ""
+msgstr "用户登录名。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1169
 msgid "Display name for the user."
-msgstr ""
+msgstr "用户显示名。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1177
 msgid "First name for the user."
-msgstr ""
+msgstr "用户姓。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1185
 msgid "Last name for the user."
@@ -24665,63 +24665,63 @@ msgstr ""
 #. translators: %d: Number of results found when using jQuery UI Autocomplete
 #: wp-includes/script-loader.php:281
 msgid "%d results found. Use up and down arrow keys to navigate."
-msgstr ""
+msgstr "找到 %d 条结果。使用上下箭头键进行导航。"
 
 #: wp-includes/script-loader.php:282
 msgid "Item selected."
-msgstr ""
+msgstr "项目已选定。"
 
 #: wp-includes/script-loader.php:308
 msgid "Next &gt;"
-msgstr ""
+msgstr "下一个 &gt;"
 
 #: wp-includes/script-loader.php:309
 msgid "&lt; Prev"
-msgstr ""
+msgstr "&lt; 上一个"
 
 #: wp-includes/script-loader.php:311
 msgid "of"
-msgstr ""
+msgstr "中的"
 
 #: wp-includes/script-loader.php:313
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-msgstr ""
+msgstr "此功能需要内嵌框。您已经禁用 iframe、或您的浏览器不支持它们。"
 
 #: wp-includes/script-loader.php:323
 msgid "You have attempted to queue too many files."
-msgstr ""
+msgstr "你试图排队太多的文件。"
 
 #: wp-includes/script-loader.php:324
 msgid "%s exceeds the maximum upload size for this site."
-msgstr ""
+msgstr "%s 超过了本站点的最大上传大小。"
 
 #: wp-includes/script-loader.php:325
 msgid "This file is empty. Please try another."
-msgstr ""
+msgstr "此文件为空。请尝试其他文件。"
 
 #: wp-includes/script-loader.php:327
 msgid "This file is not an image. Please try another."
-msgstr ""
+msgstr "此文件不是图像。请尝试其他图像。"
 
 #: wp-includes/script-loader.php:328
 msgid "Memory exceeded. Please try another smaller file."
-msgstr ""
+msgstr "内存超出。请尝试另一个较小的文件。"
 
 #: wp-includes/script-loader.php:329
 msgid "This is larger than the maximum size. Please try another."
-msgstr ""
+msgstr "这大于最大尺寸。请尝试另一个。"
 
 #: wp-includes/script-loader.php:330
 msgid "An error occurred in the upload. Please try again later."
-msgstr ""
+msgstr "上传时发生错误。请稍后再试。"
 
 #: wp-includes/script-loader.php:331
 msgid "There was a configuration error. Please contact the server administrator."
-msgstr ""
+msgstr "配置错误。请联系服务器管理员。"
 
 #: wp-includes/script-loader.php:332
 msgid "You may only upload 1 file."
-msgstr ""
+msgstr "您只能上传 1 个文件。"
 
 #: wp-includes/script-loader.php:333
 msgid "HTTP error."
@@ -24729,36 +24729,36 @@ msgstr ""
 
 #: wp-includes/script-loader.php:334
 msgid "Upload failed."
-msgstr ""
+msgstr "上传失败。"
 
 #. translators: 1: Opening link tag, 2: Closing link tag
 #: wp-includes/script-loader.php:336
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
-msgstr ""
+msgstr "请尝试使用 %1$s浏览器上传器%2$s 上传此文件。"
 
 #: wp-includes/script-loader.php:337
 msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
-msgstr ""
+msgstr "%s 在您的浏览器中使用时超过了多文件上传器的最大上传大小。"
 
 #: wp-includes/script-loader.php:338
 msgid "IO error."
-msgstr ""
+msgstr "输入输出错误。"
 
 #: wp-includes/script-loader.php:339
 msgid "Security error."
-msgstr ""
+msgstr "安全错误。"
 
 #: wp-includes/script-loader.php:340
 msgid "File canceled."
-msgstr ""
+msgstr "文件已取消。"
 
 #: wp-includes/script-loader.php:341
 msgid "Upload stopped."
-msgstr ""
+msgstr "上传已停止。"
 
 #: wp-includes/script-loader.php:343
 msgid "Crunching&hellip;"
-msgstr ""
+msgstr "压缩中&hellip;"
 
 #: wp-includes/script-loader.php:344
 msgid "moved to the trash."
@@ -24770,83 +24770,83 @@ msgstr ""
 
 #: wp-includes/script-loader.php:398
 msgid "Turn off Fullscreen"
-msgstr ""
+msgstr "关闭全屏"
 
 #: wp-includes/script-loader.php:399
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "全屏显示"
 
 #: wp-includes/script-loader.php:400
 msgid "Download Video"
-msgstr ""
+msgstr "下载视频"
 
 #: wp-includes/script-loader.php:402
 msgid "Jump forward 1 second"
-msgstr ""
+msgstr "快进 1 秒"
 
 #: wp-includes/script-loader.php:402
 msgid "Jump forward %1 seconds"
-msgstr ""
+msgstr "快进 %1 秒"
 
 #: wp-includes/script-loader.php:403
 msgid "Toggle Loop"
-msgstr ""
+msgstr "切换循环"
 
 #: wp-includes/script-loader.php:404 wp-includes/theme.php:1396
 msgid "Play"
-msgstr ""
+msgstr "播放"
 
 #: wp-includes/script-loader.php:405 wp-includes/theme.php:1395
 msgid "Pause"
-msgstr ""
+msgstr "暂停"
 
 #: wp-includes/script-loader.php:407
 msgid "Time Slider"
-msgstr ""
+msgstr "时间滑块"
 
 #: wp-includes/script-loader.php:408
 msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
-msgstr ""
+msgstr "使用左/右箭头键推进1秒，向上/向下箭头推进10秒。"
 
 #: wp-includes/script-loader.php:409
 msgid "Skip back 1 second"
-msgstr ""
+msgstr "快退 1 秒"
 
 #: wp-includes/script-loader.php:409
 msgid "Skip back %1 seconds"
-msgstr ""
+msgstr "快退 %1 秒"
 
 #: wp-includes/script-loader.php:410
 msgid "Captions/Subtitles"
-msgstr ""
+msgstr "标题/字幕"
 
 #: wp-includes/script-loader.php:411
 msgid "Chapters"
-msgstr ""
+msgstr "章节"
 
 #: wp-includes/script-loader.php:413
 msgid "Mute Toggle"
-msgstr ""
+msgstr "静音开关"
 
 #: wp-includes/script-loader.php:414
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
-msgstr ""
+msgstr "使用上/下箭头键增加或减少音量。"
 
 #: wp-includes/script-loader.php:415
 msgid "Unmute"
-msgstr ""
+msgstr "取消静音"
 
 #: wp-includes/script-loader.php:416
 msgid "Mute"
-msgstr ""
+msgstr "静音"
 
 #: wp-includes/script-loader.php:417
 msgid "Volume Slider"
-msgstr ""
+msgstr "音量滑块"
 
 #: wp-includes/script-loader.php:418
 msgid "Video Player"
-msgstr ""
+msgstr "视频播放器"
 
 #: wp-includes/script-loader.php:419
 msgid "Audio Player"
@@ -25046,55 +25046,55 @@ msgstr ""
 
 #: wp-includes/script-loader.php:468
 msgid "Serbian"
-msgstr ""
+msgstr "塞尔维亚语"
 
 #: wp-includes/script-loader.php:469
 msgid "Slovak"
-msgstr ""
+msgstr "斯洛伐克语"
 
 #: wp-includes/script-loader.php:470
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovenian"
 
 #: wp-includes/script-loader.php:471
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙语"
 
 #: wp-includes/script-loader.php:472
 msgid "Swahili"
-msgstr ""
+msgstr "斯瓦希里语"
 
 #: wp-includes/script-loader.php:473
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典语"
 
 #: wp-includes/script-loader.php:474
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: wp-includes/script-loader.php:475
 msgid "Thai"
-msgstr ""
+msgstr "泰语"
 
 #: wp-includes/script-loader.php:476
 msgid "Turkish"
-msgstr ""
+msgstr "土耳其语"
 
 #: wp-includes/script-loader.php:477
 msgid "Ukrainian"
-msgstr ""
+msgstr "乌克兰语"
 
 #: wp-includes/script-loader.php:478
 msgid "Vietnamese"
-msgstr ""
+msgstr "越南语"
 
 #: wp-includes/script-loader.php:479
 msgid "Welsh"
-msgstr ""
+msgstr "威尔士语"
 
 #: wp-includes/script-loader.php:480
 msgid "Yiddish"
-msgstr ""
+msgstr "伊迪什语"
 
 #: wp-includes/script-loader.php:513
 msgid "Something went wrong. Your change may not have been saved. Please try again. There is also a chance that you may need to manually fix and upload the file over FTP."
@@ -25109,32 +25109,32 @@ msgstr[0] ""
 #: wp-includes/script-loader.php:531
 msgctxt "password strength"
 msgid "Password strength unknown"
-msgstr ""
+msgstr "密码强度未知"
 
 #: wp-includes/script-loader.php:532
 msgctxt "password strength"
 msgid "Very weak"
-msgstr ""
+msgstr "极弱"
 
 #: wp-includes/script-loader.php:533
 msgctxt "password strength"
 msgid "Weak"
-msgstr ""
+msgstr "弱"
 
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr ""
+msgstr "中"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
 msgid "Strong"
-msgstr ""
+msgstr "强"
 
 #: wp-includes/script-loader.php:536
 msgctxt "password mismatch"
 msgid "Mismatch"
-msgstr ""
+msgstr "不匹配"
 
 #: wp-includes/script-loader.php:541
 msgid "Your new password has not been saved."
@@ -25142,73 +25142,73 @@ msgstr ""
 
 #: wp-includes/script-loader.php:563
 msgid "Link selected."
-msgstr ""
+msgstr "已选择链接。"
 
 #: wp-includes/script-loader.php:564
 msgid "Link inserted."
-msgstr ""
+msgstr "链接已插入。"
 
 #: wp-includes/script-loader.php:583
 msgid "Save &amp; Publish"
-msgstr ""
+msgstr "保存并发布"
 
 #: wp-includes/script-loader.php:587
 msgid "Draft Saved"
-msgstr ""
+msgstr "草稿已保存"
 
 #: wp-includes/script-loader.php:588
 msgid "Updating"
-msgstr ""
+msgstr "正在更新"
 
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr ""
+msgstr "已计划"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
-msgstr ""
+msgstr "无效"
 
 #: wp-includes/script-loader.php:592
 msgid "Please save your changes in order to share the preview."
-msgstr ""
+msgstr "请保存您的更改以分享预览。"
 
 #: wp-includes/script-loader.php:595 wp-includes/script-loader.php:769
 msgid "Saved"
-msgstr ""
+msgstr "已保存"
 
 #: wp-includes/script-loader.php:599
 msgid "Discard changes"
-msgstr ""
+msgstr "放弃更改"
 
 #: wp-includes/script-loader.php:603
 msgid "Site Preview"
-msgstr ""
+msgstr "站点预览"
 
 #: wp-includes/script-loader.php:606
 msgctxt "label for hide controls button without length constraints"
 msgid "Show Controls"
-msgstr ""
+msgstr "显示控件"
 
 #: wp-includes/script-loader.php:607
 msgid "(Untitled)"
-msgstr ""
+msgstr "（无标题）"
 
 #: wp-includes/script-loader.php:608
 msgid "Looks like something&#8217;s gone wrong. Wait a couple seconds, and then try again."
-msgstr ""
+msgstr "发生了一些错误。请等待几秒，然后再试一次。"
 
 #: wp-includes/script-loader.php:609
 msgid "Downloading your new theme&hellip;"
-msgstr ""
+msgstr "正在下载您的新主题&hellip;"
 
 #: wp-includes/script-loader.php:610
 msgid "Setting up your live preview. This may take a bit."
-msgstr ""
+msgstr "正在配置您的实时预览。这可能需要一点时间。"
 
 #: wp-includes/script-loader.php:611
 msgid "Reverting unpublished changes&hellip;"
-msgstr ""
+msgstr "还原未发布的更改&hellip;"
 
 #: wp-includes/script-loader.php:612
 msgid "Are you sure you&#8217;d like to discard your unpublished changes?"
@@ -25218,12 +25218,12 @@ msgstr ""
 #. in customizer.
 #: wp-includes/script-loader.php:614
 msgid "%s has taken over and is currently customizing."
-msgstr ""
+msgstr "%s 已经接管，且目前正在定制。"
 
 #. translators: %s: URL to the Customizer to load the autosaved version
 #: wp-includes/script-loader.php:616
 msgid "There is a more recent autosave of your changes than the one you are previewing. <a href=\"%s\">Restore the autosave</a>"
-msgstr ""
+msgstr "有一个比您现在正在预览的版本更新的自动保存。<a href=\"%s\">还原自动保存</a>"
 
 #: wp-includes/script-loader.php:617
 msgid "This theme doesn&#8217;t support video headers on this page. Navigate to the front page or another page that supports video headers."
@@ -25231,7 +25231,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:619
 msgid "Allowed Files"
-msgstr ""
+msgstr "允许的文件"
 
 #. translators: %d: error count
 #: wp-includes/script-loader.php:622 wp-includes/script-loader.php:624
@@ -25239,15 +25239,15 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-custom-html.php:219
 msgid "There is %d error which must be fixed before you can save."
 msgid_plural "There are %d errors which must be fixed before you can save."
-msgstr[0] ""
+msgstr[0] "必须先修复 %d 错误，才可以保存。"
 
 #: wp-includes/script-loader.php:626
 msgid "Homepage and posts page must be different."
-msgstr ""
+msgstr "首页和文章页面必须不同。"
 
 #: wp-includes/script-loader.php:633
 msgid "Schedule your customization changes to publish (\"go live\") at a future date."
-msgstr ""
+msgstr "计划您的定制更改在以后发布。"
 
 #: wp-includes/script-loader.php:634
 msgid "Sorry, you can&#8217;t preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
@@ -25690,11 +25690,11 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:381 wp-includes/taxonomy.php:382
 msgid "Taxonomy names must be between 1 and 32 characters in length."
-msgstr ""
+msgstr "类型名称必须介于 1 到 32 个字符之间。"
 
 #: wp-includes/taxonomy.php:427
 msgid "Unregistering a built-in taxonomy is not allowed."
-msgstr ""
+msgstr "不允许取消注册内置的类型."
 
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
@@ -25837,50 +25837,50 @@ msgstr ""
 #: wp-includes/taxonomy.php:748 wp-includes/taxonomy.php:2657
 #: wp-includes/taxonomy.php:3958
 msgid "Empty Term."
-msgstr ""
+msgstr "空条目。"
 
 #: wp-includes/taxonomy.php:1144 wp-includes/taxonomy.php:1226
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
-msgstr ""
+msgstr "条目元不能添加到在分类之间共享的条目。"
 
 #: wp-includes/taxonomy.php:2055 wp-includes/taxonomy.php:2681
 msgid "A name is required for this term."
-msgstr ""
+msgstr "此条目需要一个名称。"
 
 #: wp-includes/taxonomy.php:2141
 msgid "A term with the name provided already exists with this parent."
-msgstr ""
+msgstr "包含此名称的条目已经存在于其父级中。"
 
 #: wp-includes/taxonomy.php:2144
 msgid "A term with the name provided already exists in this taxonomy."
-msgstr ""
+msgstr "包含此名称的条目已经存在于其类别中。"
 
 #: wp-includes/taxonomy.php:2165
 msgid "Could not insert term into the database."
-msgstr ""
+msgstr "无法将条目插入数据库。"
 
 #: wp-includes/taxonomy.php:2389
 msgid "Could not insert term relationship into the database."
-msgstr ""
+msgstr "无法将条目关系插入数据库。"
 
 #. translators: 1: Taxonomy term slug
 #: wp-includes/taxonomy.php:2743
 msgid "The slug &#8220;%s&#8221; is already in use by another term."
-msgstr ""
+msgstr "Slug「%s」已被另一个条目使用。"
 
 #: wp-includes/taxonomy.php:3595
 msgid "Could not split shared term."
-msgstr ""
+msgstr "无法分割共享条目。"
 
 #. translators: %s: taxonomy label, %l: list of terms formatted as per
 #. $term_template
 #: wp-includes/taxonomy.php:4099
 msgid "%s: %l."
-msgstr ""
+msgstr "%s：%l。"
 
 #: wp-includes/taxonomy.php:4170
 msgid "Invalid object ID."
-msgstr ""
+msgstr "无效的对象 ID。"
 
 #. translators: %s: template name
 #: wp-includes/theme-compat/comments.php:12
@@ -25888,7 +25888,7 @@ msgstr ""
 #: wp-includes/theme-compat/header.php:11
 #: wp-includes/theme-compat/sidebar.php:11
 msgid "Theme without %s"
-msgstr ""
+msgstr "没有 %s 的主题"
 
 #. translators: %s: template name
 #: wp-includes/theme-compat/comments.php:16
@@ -25896,26 +25896,26 @@ msgstr ""
 #: wp-includes/theme-compat/header.php:15
 #: wp-includes/theme-compat/sidebar.php:15
 msgid "Please include a %s template in your theme."
-msgstr ""
+msgstr "请在主题中包含一个 %s 模板。"
 
 #: wp-includes/theme-compat/comments.php:24
 msgid "This post is password protected. Enter the password to view comments."
-msgstr ""
+msgstr "此文章受密码保护。请输入密码以查看评论。"
 
 #. translators: %s: post title
 #: wp-includes/theme-compat/comments.php:37
 msgid "One response to %s"
-msgstr ""
+msgstr "一个对 %s 的回应"
 
 #. translators: 1: number of comments, 2: post title
 #: wp-includes/theme-compat/comments.php:40
 msgid "%1$s response to %2$s"
 msgid_plural "%1$s responses to %2$s"
-msgstr[0] ""
+msgstr[0] "%1$s 个对 %2$s 的回应"
 
 #: wp-includes/theme-compat/comments.php:66
 msgid "Comments are closed."
-msgstr ""
+msgstr "评论已关闭。"
 
 #: wp-includes/theme-compat/embed-404.php:14
 msgid "Oops! That embed can&#8217;t be found."
@@ -25924,89 +25924,89 @@ msgstr ""
 #. translators: %s: a link to the embedded site
 #: wp-includes/theme-compat/embed-404.php:21
 msgid "It looks like nothing was found at this location. Maybe try visiting %s directly?"
-msgstr ""
+msgstr "看起来在这个地方没有找到任何东西。或许尝试直接访问 %s？"
 
 #. translators: 1: blog name, 2: ClassicPress
 #: wp-includes/theme-compat/footer.php:26
 msgid "%1$s is proudly powered by %2$s"
-msgstr ""
+msgstr "%1$s 自豪地由 %2$s 提供支持"
 
 #. translators: %s: category name
 #: wp-includes/theme-compat/sidebar.php:39
 msgid "You are currently browsing the archives for the %s category."
-msgstr ""
+msgstr "您正在浏览 %s 分类的归档。"
 
 #. translators: 1: site link, 2: archive date
 #: wp-includes/theme-compat/sidebar.php:46
 msgid "You are currently browsing the %1$s blog archives for the day %2$s."
-msgstr ""
+msgstr "您正在浏览 %1$s 的发表于 %2$s 的文章归档。"
 
 #: wp-includes/theme-compat/sidebar.php:48
 msgid "l, F jS, Y"
-msgstr ""
+msgstr "Y F j I"
 
 #. translators: 1: site link, 2: archive month
 #: wp-includes/theme-compat/sidebar.php:54
 msgid "You are currently browsing the %1$s blog archives for %2$s."
-msgstr ""
+msgstr "您正在浏览 %1$s 的发表于 %2$s 的文章归档。"
 
 #: wp-includes/theme-compat/sidebar.php:56
 msgid "F, Y"
-msgstr ""
+msgstr "Y F"
 
 #. translators: 1: site link, 2: archive year
 #: wp-includes/theme-compat/sidebar.php:62
 msgid "You are currently browsing the %1$s blog archives for the year %2$s."
-msgstr ""
+msgstr "您正在浏览 %1$s 的发表于 %2$s 的文章归档。"
 
 #. translators: 1: site link, 2: search query
 #: wp-includes/theme-compat/sidebar.php:70
 msgid "You have searched the %1$s blog archives for <strong>&#8216;%2$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
-msgstr ""
+msgstr "您搜索了 <strong>&#8216;%2$s&#8217;</strong> 的 %1$s 博客归档。如果您无法在这些搜索结果中找到任何内容，您可以尝试这些链接之一。"
 
 #. translators: %s: site link
 #: wp-includes/theme-compat/sidebar.php:78
 msgid "You are currently browsing the %s blog archives."
-msgstr ""
+msgstr "您正在浏览 %s 的文章归档。"
 
 #: wp-includes/theme-compat/sidebar.php:103
 #: wp-includes/widgets/class-wp-widget-meta.php:32
 #: wp-includes/widgets/class-wp-widget-meta.php:45
 msgid "Meta"
-msgstr ""
+msgstr "元"
 
 #: wp-includes/theme.php:1397
 msgid "Video is paused."
-msgstr ""
+msgstr "视频已暂停。"
 
 #: wp-includes/theme.php:1398
 msgid "Video is playing."
-msgstr ""
+msgstr "视频正在播放。"
 
 #: wp-includes/theme.php:1944
 msgctxt "Theme starter content"
 msgid "Find Us"
-msgstr ""
+msgstr "寻找我们"
 
 #: wp-includes/theme.php:1946
 msgctxt "Theme starter content"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 #: wp-includes/theme.php:1947
 msgctxt "Theme starter content"
 msgid "123 Main Street"
-msgstr ""
+msgstr "某某路 123 号"
 
 #: wp-includes/theme.php:1947
 msgctxt "Theme starter content"
 msgid "New York, NY 10001"
-msgstr ""
+msgstr "100001，北京"
 
 #: wp-includes/theme.php:1948
 msgctxt "Theme starter content"
 msgid "Hours"
-msgstr ""
+msgstr "开放时间"
 
 #: wp-includes/theme.php:1949
 msgctxt "Theme starter content"
@@ -26016,12 +26016,12 @@ msgstr ""
 #: wp-includes/theme.php:1949
 msgctxt "Theme starter content"
 msgid "Saturday &amp; Sunday: 11:00AM&ndash;3:00PM"
-msgstr ""
+msgstr "周六至周日：上午11 点至下午 3 点"
 
 #: wp-includes/theme.php:1955
 msgctxt "Theme starter content"
 msgid "About This Site"
-msgstr ""
+msgstr "关于此站点"
 
 #: wp-includes/theme.php:1956
 msgctxt "Theme starter content"
