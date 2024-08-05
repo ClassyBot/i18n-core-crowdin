@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-02 20:00\n"
+"PO-Revision-Date: 2024-08-05 01:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -15341,42 +15341,42 @@ msgstr "您可以选择站点的首页要显示的内容。这可以是按反转
 #. translators: %s: Documentation URL.
 #: wp-admin/options-reading.php:34
 msgid "You can also control the display of your content in RSS feeds, including the maximum number of posts to display and whether to show full text or an excerpt. <a href=\"%s\">Learn more about feeds</a>."
-msgstr ""
+msgstr "您也可以在 RSS 源中控制您内容的显示，包括要显示的文章的最大数目，以及是否显示全文或摘要。<a href=\"%s\">了解更多关于订阅源的信息</a>。"
 
 #: wp-admin/options-reading.php:35
 #: wp-admin/options-reading.php:184
 msgid "https://wordpress.org/documentation/article/wordpress-feeds/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/wordpress-feeds/"
 
 #: wp-admin/options-reading.php:45
 msgid "You can choose whether or not your site will be crawled by robots, ping services, and spiders. If you want those services to ignore your site, click the checkbox next to &#8220;Discourage search engines from indexing this site&#8221; and click the Save Changes button at the bottom of the screen."
-msgstr ""
+msgstr "您可以选择您的网站是否会被机器人、Ping 服务和蜘蛛爬网。如果您想要这些服务忽略您的站点，单击「不鼓励搜索引擎爬网」旁边的复选框，然后点击屏幕底部的“保存更改”按钮。"
 
 #: wp-admin/options-reading.php:46
 msgid "Note that even when set to discourage search engines, your site is still visible on the web and not all search engines adhere to this directive."
-msgstr ""
+msgstr "注意，即使设置为阻止搜索引擎， 您的站点仍可能在网络上可见；并非所有搜索引擎都遵守此指令。"
 
 #: wp-admin/options-reading.php:47
 msgid "When this setting is in effect, a reminder is shown in the At a Glance box of the Dashboard that says, &#8220;Search engines discouraged&#8221;, to remind you that you have directed search engines to not crawl your site."
-msgstr ""
+msgstr "当此设置生效时，在仪表盘的「一目了然」组件中将中显示提醒：「已阻止搜索引擎爬网」，以提醒您您已指示搜索引擎不要爬网。"
 
 #: wp-admin/options-reading.php:53
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">阅读设置文档</a>"
 
 #: wp-admin/options-reading.php:68
 msgid "Encoding for pages and feeds"
-msgstr ""
+msgstr "页面和订阅源编码"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-reading.php:87
 #: wp-admin/options-reading.php:92
 msgid "Your homepage displays"
-msgstr ""
+msgstr "您的主页显示"
 
 #: wp-admin/options-reading.php:97
 msgid "Your latest posts"
-msgstr ""
+msgstr "您的最新文章"
 
 #. translators: %s: URL to Pages screen.
 #: wp-admin/options-reading.php:105
