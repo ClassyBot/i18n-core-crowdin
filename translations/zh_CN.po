@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-05 13:51\n"
+"PO-Revision-Date: 2024-08-06 03:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -9953,12 +9953,12 @@ msgstr "限制结果为特定类型的评论。需要授权。"
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1679
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:102
 msgid "The password for the post if it is password protected."
-msgstr ""
+msgstr "如果文章受密码保护，它的密码。"
 
 #. translators: %s: register_routes()
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:53
 msgid "Method '%s' must be overridden."
-msgstr ""
+msgstr "必须覆盖方法 '%s' 。"
 
 #. translators: %s: Method name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:70
@@ -9974,214 +9974,214 @@ msgstr ""
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:240
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:258
 msgid "Method '%s' not implemented. Must be overridden in subclass."
-msgstr ""
+msgstr "方法%s未实现。必须在子类中覆盖。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:345
 msgid "Current page of the collection."
-msgstr ""
+msgstr "收藏的当前页面。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:353
 msgid "Maximum number of items to be returned in result set."
-msgstr ""
+msgstr "在结果中返回的最大项目数。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:362
 msgid "Limit results to those matching a string."
-msgstr ""
+msgstr "将结果限制为匹配字符串的结果。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:382
 msgid "Scope under which the request is made; determines fields present in response."
-msgstr ""
+msgstr "提出请求的范围；确定答复中的字段。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:99
 msgid "Sorry, you are not allowed to view menu items."
-msgstr ""
+msgstr "对不起，您无权查看菜单项。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:114
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:591
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:645
 msgid "Cannot create existing post."
-msgstr ""
+msgstr "无法创建现有文章。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:286
 msgid "Menu items do not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "菜单项不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:294
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1076
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:488
 msgid "The post cannot be deleted."
-msgstr ""
+msgstr "文章不能被删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:449
 msgid "The title is required when using a custom menu item type."
-msgstr ""
+msgstr "使用自定义菜单项类型时需要标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:452
 msgid "The url is required when using a custom menu item type."
-msgstr ""
+msgstr "使用自定义菜单项类型时需要 URL。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:690
 msgid "Get linked object."
-msgstr ""
+msgstr "获取链接对象。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:720
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:259
 msgid "The title for the object."
-msgstr ""
+msgstr "对象的标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:725
 msgid "Title for the object, as it exists in the database."
-msgstr ""
+msgstr "对象会存储在数据库中的标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:730
 msgid "HTML title for the object, transformed for display."
-msgstr ""
+msgstr "对象的 HTML 格式的内容，其在显示时将会被转换。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:739
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:253
 msgid "Unique identifier for the object."
-msgstr ""
+msgstr "对象的唯一标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:748
 msgid "The singular label used to describe this type of menu item."
-msgstr ""
+msgstr "用于描述此类型菜单项的独特的标签。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:755
 msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
-msgstr ""
+msgstr "原来代表的对象类，如“post_type”或“taxonomy”。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:763
 msgid "A named status for the object."
-msgstr ""
+msgstr "对象的命名状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:771
 msgid "The ID for the parent of the object."
-msgstr ""
+msgstr "对象的上级 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:779
 msgid "Text for the title attribute of the link element for this menu item."
-msgstr ""
+msgstr "此菜单项链接元素的标题属性文本。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:788
 msgid "Class names for the link element of this menu item."
-msgstr ""
+msgstr "此菜单项链接元素的类名。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:802
 msgid "The description of this menu item."
-msgstr ""
+msgstr "此菜单项的描述。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:811
 msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
-msgstr ""
+msgstr "nav_menu_item 的 DB ID（如果有的话）是该项目的菜单上级，否则为 0。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:819
 msgid "The type of object originally represented, such as \"category\", \"post\", or \"attachment\"."
-msgstr ""
+msgstr "原来代表的对象类型，例如“category”、“post”或“attachment”。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:828
 msgid "The database ID of the original object this menu item represents, for example the ID for posts or the term_id for categories."
-msgstr ""
+msgstr "此菜单项所代表的原始对象的数据库ID，例如文章的ID或分类的term_id。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:836
 msgid "The target attribute of the link element for this menu item."
-msgstr ""
+msgstr "此菜单项链接元素的目标属性。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:846
 msgid "The URL to which this menu item points."
-msgstr ""
+msgstr "菜单项指向的 URL。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:869
 msgid "The XFN relationship expressed in the link of this menu item."
-msgstr ""
+msgstr "此菜单项链接中表示的 XFN 关系。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:883
 msgid "Whether the menu item represents an object that no longer exists."
-msgstr ""
+msgstr "菜单项是否代表一个不再存在的对象。"
 
 #. translators: %s: taxonomy name
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:895
 msgid "The terms assigned to the object in the %s taxonomy."
-msgstr ""
+msgstr "在 %s 分类中分配给对象的类别。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:931
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2824
 msgid "Limit result set to posts with a specific menu_order value."
-msgstr ""
+msgstr "限制结果为具有特定 menu_order 值的文章。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:943
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:804
 msgid "Sort collection by object attribute."
-msgstr ""
+msgstr "按对象属性排序集合。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:57
 msgid "An alphanumeric identifier for the menu location."
-msgstr ""
+msgstr "菜单位置的字母数字标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:86
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:129
 msgid "Sorry, you are not allowed to view menu locations."
-msgstr ""
+msgstr "对不起，您无权查看菜单位置。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:148
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:497
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:550
 msgid "Invalid menu location."
-msgstr ""
+msgstr "无效的菜单位置。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:268
 msgid "The name of the menu location."
-msgstr ""
+msgstr "菜单位置的名称。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:274
 msgid "The description of the menu location."
-msgstr ""
+msgstr "菜单位置的描述。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php:280
 msgid "The ID of the assigned menu."
-msgstr ""
+msgstr "指定菜单的 ID。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:103
 msgid "Sorry, you are not allowed to view menus."
-msgstr ""
+msgstr "对不起，您无权查看菜单。"
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:376
 msgid "Menus do not support trashing. Set '%s' to delete."
-msgstr ""
+msgstr "菜单不支持放入回收站。设置「%s」以删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:386
 msgid "The menu cannot be deleted."
-msgstr ""
+msgstr "菜单不能被删除。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:530
 msgid "The locations assigned to the menu."
-msgstr ""
+msgstr "分配给菜单的位置。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:564
 msgid "Whether to automatically add top level pages to this menu."
-msgstr ""
+msgstr "是否自动将顶级页面添加到此菜单。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:55
 msgid "WordPress.org plugin directory slug."
-msgstr ""
+msgstr "WordPress.org 插件目录 slug。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:59
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:896
 msgid "The plugin activation status."
-msgstr ""
+msgstr "插件启用状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:116
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:166
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:429
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:499
 msgid "Sorry, you are not allowed to manage plugins for this site."
-msgstr ""
+msgstr "对不起，您无权管理此站点的插件。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:215
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:657
 msgid "Plugin not found."
-msgstr ""
+msgstr "找不到插件。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:228
 msgid "Sorry, you are not allowed to manage this plugin."
@@ -10912,110 +10912,110 @@ msgstr "描述测试的标签。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:372
 msgid "The status of the test."
-msgstr ""
+msgstr "测试状态。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:378
 msgid "The category this test is grouped in."
-msgstr ""
+msgstr "此测试分组的类别。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:394
 msgid "A more descriptive explanation of what the test looks for, and why it is important for the user."
-msgstr ""
+msgstr "更详细地解释测试的期望值，以及为什么它对用户是重要的。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php:399
 msgid "HTML containing an action to direct the user to where they can resolve the issue."
-msgstr ""
+msgstr "HTML，包含一个将用户引导到他们可以解决问题的位置。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:58
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:362
 msgid "An alphanumeric identifier for the taxonomy."
-msgstr ""
+msgstr "类别的字母数字标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:99
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:166
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在该分类上管理条目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:332
 msgid "All capabilities used by the taxonomy."
-msgstr ""
+msgstr "类别使用的所有能力。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:338
 msgid "A human-readable description of the taxonomy."
-msgstr ""
+msgstr "人类可读的类别说明。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:344
 msgid "Whether or not the taxonomy should have children."
-msgstr ""
+msgstr "类别是否应该有子类。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:350
 msgid "Human-readable labels for the taxonomy for various contexts."
-msgstr ""
+msgstr "不同情况下的类别的人类可读标签。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:356
 msgid "The title for the taxonomy."
-msgstr ""
+msgstr "类别的标题。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:368
 msgid "Whether or not the term cloud should be displayed."
-msgstr ""
+msgstr "是否显示该词云。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:374
 msgid "Types associated with the taxonomy."
-msgstr ""
+msgstr "与分类相关联的类型。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:383
 msgid "REST base route for the taxonomy."
-msgstr ""
+msgstr "针对类别的 REST 基础路由。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:389
 msgid "REST namespace route for the taxonomy."
-msgstr ""
+msgstr "类别的 REST 命名空间。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:395
 msgid "The visibility settings for the taxonomy."
-msgstr ""
+msgstr "类别的可见性设置。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:401
 msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
-msgstr ""
+msgstr "类别是否打算通过管理界面或前端用户公开使用。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:405
 msgid "Whether the taxonomy is publicly queryable."
-msgstr ""
+msgstr "类别是否可公开查询。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:409
 msgid "Whether to generate a default UI for managing this taxonomy."
-msgstr ""
+msgstr "是否生成管理此类别的默认界面。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:413
 msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
-msgstr ""
+msgstr "是否允许在相关的分类类型表上自动创建分类列。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:417
 msgid "Whether to make the taxonomy available for selection in navigation menus."
-msgstr ""
+msgstr "是否在导航菜单中启用选择此类别。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:421
 msgid "Whether to show the taxonomy in the quick/bulk edit panel."
-msgstr ""
+msgstr "是否在快速/批量编辑面板中显示类别。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:446
 msgid "Limit results to taxonomies associated with a specific post type."
-msgstr ""
+msgstr "限制结果到与特定文章类型相关联的类别。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:111
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1020
 msgid "Unique identifier for the term."
-msgstr ""
+msgstr "条目的唯一标识符。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:137
 msgid "Required to be true, as terms do not support trashing."
-msgstr ""
+msgstr "需要为 true，因为条目不支持移入回收站。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:194
 msgid "Sorry, you are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "对不起，您无权在该分类上编辑条目。"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:215
 msgid "Sorry, you are not allowed to view terms for this post."
