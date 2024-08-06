@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-05 13:51\n"
+"PO-Revision-Date: 2024-08-06 15:09\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -61,7 +61,7 @@ msgstr "感谢您使用 ClassicPress，<a href=\"%s\">为创作者而生的 CMS�
 #: wp-admin/credits.php:37
 #: wp-admin/freedoms.php:51
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr "愿薪火相传，美德不灭。"
+msgstr "稳定。轻量。快速上手。"
 
 #: wp-admin/about.php:40
 #: wp-admin/credits.php:43
