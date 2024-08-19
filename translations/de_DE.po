@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-08-18 13:40\n"
+"PO-Revision-Date: 2024-08-19 01:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2515,7 +2515,7 @@ msgstr ""
 
 #: wp-admin/freedoms.php:70
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s GPL first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr ".."
+msgstr "Jedes Plugin und Theme im Verzeichnis von ClassicPress.net besitzt zu 100%% die GPL oder eine ähnlich freie und kompatible Lizenz, damit Sie sicher <a href=\"%1$s\">Plugins</a> und <a href=\"%2$s\">Themen</a> finden können. Wenn Sie ein Plugin oder Theme von einer anderen Quelle nehmen, stellen Sie sicher, dass Sie zuerst fragen, ob sie der GPL entspricht. Wenn die Quelle die Lizenz von ClassicPress nicht respektiert, empfehlen wir sie Ihnen nicht."
 
 #: wp-admin/freedoms.php:72
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -5414,7 +5414,7 @@ msgstr "Dieses <a href=\"%1$s\">Child-Theme</a> benötigt das Eltern-Theme %2$s,
 #: wp-admin/theme-editor.php:39 wp-admin/theme-editor.php:325
 #: wp-admin/update-core.php:386 wp-includes/class-wp-theme.php:269
 msgid "https://codex.wordpress.org/Child_Themes"
-msgstr ""
+msgstr "https://codex.wordpress.org/Child_Themes"
 
 #: wp-admin/includes/class-wp-upgrader.php:148
 msgid "Invalid data provided."
@@ -8856,7 +8856,7 @@ msgstr ""
 
 #: wp-admin/includes/media.php:464
 msgid "Uploads"
-msgstr ""
+msgstr "Uploads"
 
 #: wp-admin/includes/media.php:464 wp-admin/includes/misc.php:1919
 #: wp-admin/includes/template.php:1637 wp-admin/install.php:310
