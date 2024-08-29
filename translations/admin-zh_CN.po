@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-06 15:09\n"
+"PO-Revision-Date: 2024-08-29 23:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -10678,7 +10678,7 @@ msgstr "好友"
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1375
 msgid "contact"
-msgstr "联系人"
+msgstr "熟人"
 
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1378
@@ -12449,7 +12449,7 @@ msgstr "查找主题"
 
 #: wp-admin/includes/theme-install.php:197
 msgid "If you have a theme in a .zip format, you may install or update it by uploading it here."
-msgstr "如果你有一个 .zip 格式的插主题，你可以在这里上传它来安装或更新它。"
+msgstr "如果你有一个 .zip 格式的主题，你可以在这里上传它来安装或更新它。"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/theme-install.php:203
