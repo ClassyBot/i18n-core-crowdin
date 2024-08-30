@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-29 23:50\n"
+"PO-Revision-Date: 2024-08-30 11:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2425,7 +2425,7 @@ msgstr "当您点击下面的按钮时，ClassicPress 将为您创建一个 XML 
 
 #: wp-admin/export.php:174
 msgid "This format, which is called ClassicPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr "此格式称为ClassicPress eXtendRSS 或 WXR，它将包含您的文章、页面、评论、自定义字段和标签。"
+msgstr "此格式称为 ClassicPress eXtendRSS 或 WXR，它将包含您的文章、页面、评论、自定义字段和标签。"
 
 #: wp-admin/export.php:175
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another ClassicPress installation to import the content from this site."
@@ -6441,7 +6441,7 @@ msgstr[0] "活跃 <span class=\"count\">（%s）</span>"
 #: wp-admin/includes/class-wp-plugins-list-table.php:513
 msgid "Recently Active <span class=\"count\">(%s)</span>"
 msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
-msgstr[0] "最近启用过 <span class=\"count\">(%s</span>"
+msgstr[0] "最近启用过<span class=\"count\">（%s）</span>"
 
 #. translators: %s: Number of plugins.
 #: wp-admin/includes/class-wp-plugins-list-table.php:521
@@ -7525,7 +7525,7 @@ msgstr "有新的小版本更新可供使用。由于小版本更新通常会修
 #. translators: %s: The current version of ClassicPress installed on this site.
 #: wp-admin/includes/class-wp-site-health.php:330
 msgid "Your version of ClassicPress (%s) is up to date"
-msgstr "您的 ClassicPresse 版本（%s）是最新版本"
+msgstr "您的 ClassicPress 版本（%s）是最新版本"
 
 #: wp-admin/includes/class-wp-site-health.php:336
 msgid "You are currently running the latest version of ClassicPress available, keep it up!"
@@ -7675,7 +7675,7 @@ msgstr "在您的站点上找不到任何默认主题。ClassicPress 在当前�
 #. translators: %s: The current PHP version.
 #: wp-admin/includes/class-wp-site-health.php:732
 msgid "Your site is running PHP version (%s)"
-msgstr "您的网站正在运行 PHP %s"
+msgstr "您的站点正在运行 PHP %s"
 
 #. translators: %s: The minimum recommended PHP version.
 #: wp-admin/includes/class-wp-site-health.php:744
@@ -8181,7 +8181,7 @@ msgstr "%1$s 的设置小于 %2$s，这可能会在尝试上传文件时造成�
 
 #: wp-admin/includes/class-wp-site-health.php:2199
 msgid "The Authorization header is working as expected"
-msgstr "授权表头按预期工作"
+msgstr "授权标头按预期工作"
 
 #: wp-admin/includes/class-wp-site-health.php:2207
 msgid "The Authorization header is used by third-party applications you have approved for this site. Without this header, those apps cannot connect to your site."
@@ -8683,7 +8683,7 @@ msgstr "%1$s<span class=\"count\">（%2$s）</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:246
 msgid "No role"
-msgstr "无角色"
+msgstr "无身份"
 
 #: wp-admin/includes/class-wp-users-list-table.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:525
@@ -8694,14 +8694,14 @@ msgstr "发送密码重置邮件"
 #: wp-admin/includes/class-wp-users-list-table.php:309
 #: wp-admin/includes/class-wp-users-list-table.php:313
 msgid "Change role to&hellip;"
-msgstr "将角色变更为&hellip;"
+msgstr "将身份变更为&hellip;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:315
 #: wp-admin/user-edit.php:451
 #: wp-admin/user-edit.php:453
 #: wp-admin/users.php:127
 msgid "&mdash; No role for this site &mdash;"
-msgstr "&mdash; 此站点没有角色 &mdash;"
+msgstr "&mdash; 在此站点上没有身份 &mdash;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:318
 msgid "Change"
@@ -8722,7 +8722,7 @@ msgstr "用户名"
 #: wp-admin/user-new.php:467
 #: wp-admin/user-new.php:628
 msgid "Role"
-msgstr "角色"
+msgstr "身份"
 
 #: wp-admin/includes/class-wp-users-list-table.php:474
 #: wp-admin/user-edit.php:463
@@ -11399,7 +11399,7 @@ msgstr "社交网络建设"
 #: wp-admin/options-general.php:337
 #: wp-admin/options-general.php:341
 msgid "Membership"
-msgstr "会员"
+msgstr "成员资格"
 
 #: wp-admin/includes/plugin-install.php:385
 msgid "Newsletters"
@@ -13107,7 +13107,7 @@ msgstr "您的新 ClassicPress 站点已经成功于如下地址创建：\n\n"
 "登录链接：%4$s\n\n"
 "我们希望您喜欢您的新站点。谢谢！\n\n"
 "—— ClassicPress 团队\n"
-"https://www.classicpress.net/"
+"https://www.classicpress.net/\n"
 
 #: wp-admin/includes/upgrade.php:604
 msgid "New ClassicPress Site"
@@ -14623,7 +14623,7 @@ msgstr "浏览器图标预览：当前图像：%s"
 #: wp-admin/options-general.php:165
 #: wp-admin/options-general.php:174
 msgid "Choose a Site Icon"
-msgstr "选择一个站点图标"
+msgstr "选择一个站点徽标"
 
 #: wp-admin/options-general.php:166
 #: wp-admin/options-general.php:172
@@ -14713,7 +14713,7 @@ msgstr "任何人都可以注册"
 
 #: wp-admin/options-general.php:350
 msgid "New User Default Role"
-msgstr "新用户默认角色"
+msgstr "新用户默认身份"
 
 #. translators: 1: WPLANG, 2: wp-config.php
 #: wp-admin/options-general.php:392
@@ -15403,7 +15403,7 @@ msgstr "<strong>警告：</strong>这些页面不应当与您的隐私政策页�
 
 #: wp-admin/options-reading.php:157
 msgid "Blog pages show at most"
-msgstr "最多允许显示的博客页面"
+msgstr "博客页面至多显示"
 
 #: wp-admin/options-reading.php:159
 msgid "posts"
@@ -15411,7 +15411,7 @@ msgstr "文章"
 
 #: wp-admin/options-reading.php:163
 msgid "Syndication feeds show the most recent"
-msgstr "同步源显示最新的"
+msgstr "订阅源显示最新的"
 
 #: wp-admin/options-reading.php:164
 msgid "items"
@@ -17905,11 +17905,11 @@ msgstr "当您完成后，请记住点击此屏幕底部的「添加新用户」
 
 #: wp-admin/user-new.php:287
 msgid "User Roles"
-msgstr "用户角色"
+msgstr "用户身份"
 
 #: wp-admin/user-new.php:288
 msgid "Here is a basic overview of the different user roles and the permissions associated with each one:"
-msgstr "以下是不同用户角色和与每个角色相关的权限的基本概述："
+msgstr "以下是不同用户身份和与每个身份相关的权限的基本概述："
 
 #: wp-admin/user-new.php:290
 msgid "Subscribers can read comments/comment/receive newsletters, etc. but cannot create regular site content."
@@ -18046,7 +18046,7 @@ msgstr "通过「屏幕选项」选项卡，您可以根据您的需要隐藏/�
 
 #: wp-admin/users.php:47
 msgid "You can filter the list of users by User Role using the text links above the users list to show All, Administrator, Editor, Author, Contributor, or Subscriber. The default view is to show all users. Unused User Roles are not listed."
-msgstr "您可以使用用户列表上方的文本链接，按用户身份筛选用户列表以显示全部、管理员、编辑、作者、寄稿者或订阅者。 默认视图将显示所有用户。未使用的用户角色不会被列出。"
+msgstr "您可以使用用户列表上方的文本链接，按用户身份筛选用户列表以显示全部、管理员、编辑、作者、寄稿者或订阅者。 默认视图将显示所有用户。未使用的用户身份不会被列出。"
 
 #: wp-admin/users.php:48
 msgid "You can view all posts made by a user by clicking on the number under the Posts column."
@@ -18234,11 +18234,11 @@ msgstr "身份修改成功。"
 
 #: wp-admin/users.php:580
 msgid "The current user&#8217;s role must have user editing capabilities."
-msgstr "当前用户的角色必须具有编辑用户权限。"
+msgstr "当前用户的身份必须具有编辑用户权限。"
 
 #: wp-admin/users.php:581
 msgid "Other user roles have been changed."
-msgstr "其他用户的角色已更改。"
+msgstr "其他用户的身份已更改。"
 
 #: wp-admin/users.php:584
 msgid "You cannot delete the current user."
