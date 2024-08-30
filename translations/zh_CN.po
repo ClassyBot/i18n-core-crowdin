@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-06 15:09\n"
+"PO-Revision-Date: 2024-08-30 11:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5647,7 +5647,7 @@ msgstr "选择图像"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:246
 msgid "Select Site Icon"
-msgstr "选择站点图标"
+msgstr "选择站点徽标"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:247
 msgid "Change image"
@@ -6975,7 +6975,7 @@ msgstr "%1$s %2$s 作者 %3$s 的文章订阅源"
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Search query.
 #: wp-includes/general-template.php:3135
 msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
-msgstr "%1$s %2$s 搜索结果「%3$s」订阅源\n"
+msgstr "%1$s %2$s 搜索结果「%3$s」订阅源"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Post type name.
 #: wp-includes/general-template.php:3137
