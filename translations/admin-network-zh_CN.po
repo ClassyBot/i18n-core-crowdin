@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-01 12:40\n"
+"PO-Revision-Date: 2024-08-30 11:50\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -664,7 +664,7 @@ msgstr "<strong>概述</strong> &mdash; 站点地址很少被编辑，因为这�
 
 #: wp-admin/includes/ms.php:1138
 msgid "<strong>Users</strong> &mdash; This displays the users associated with this site. You can also change their role, reset their password, or remove them from the site. Removing the user from the site does not remove the user from the network."
-msgstr "<strong>用户</strong> &mdash; 显示与此站点相关联的用户。您也可以更改他们的角色，重设他们的密码，或从站点中删除他们。从站点中删除用户并不会将用户从网络中删除。"
+msgstr "<strong>用户</strong> &mdash; 显示与此站点相关联的用户。您也可以更改他们的身份，重设他们的密码，或从站点中删除他们。从站点中删除用户并不会将用户从网络中删除。"
 
 #. translators: %s: URL to Network Themes screen.
 #: wp-admin/includes/ms.php:1141
@@ -1572,7 +1572,7 @@ msgstr "添加现有用户"
 #: wp-admin/network/site-users.php:326
 #: wp-admin/network/site-users.php:364
 msgid "Role"
-msgstr "角色"
+msgstr "身份"
 
 #: wp-admin/network/site-users.php:337
 #: wp-admin/network/user-new.php:146
