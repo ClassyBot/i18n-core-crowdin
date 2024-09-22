@@ -7,8 +7,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-04-16T12:25:00+00:00\n"
-"X-Generator: WP-CLI 2.10.0\n"
+"POT-Creation-Date: 2024-09-22T15:12:35+00:00\n"
+"X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-04-18 05:31\n"
+"PO-Revision-Date: 2024-09-22 21:51\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -183,7 +183,7 @@ msgstr "編集"
 #: wp-admin/network/menu.php:11
 #: wp-admin/network/site-info.php:143
 #: wp-admin/network/site-settings.php:95
-#: wp-admin/network/site-themes.php:180
+#: wp-admin/network/site-themes.php:179
 #: wp-admin/network/site-users.php:225
 msgid "Dashboard"
 msgstr "ダッシュボード"
@@ -214,7 +214,7 @@ msgstr "スパム解除"
 #: wp-admin/my-sites.php:125
 #: wp-admin/network/site-info.php:143
 #: wp-admin/network/site-settings.php:95
-#: wp-admin/network/site-themes.php:180
+#: wp-admin/network/site-themes.php:179
 #: wp-admin/network/site-users.php:225
 msgid "Visit"
 msgstr "表示"
@@ -628,7 +628,7 @@ msgstr "情報"
 
 #: wp-admin/includes/ms.php:1063
 #: wp-admin/network/menu.php:78
-#: wp-admin/network/themes.php:338
+#: wp-admin/network/themes.php:336
 msgid "Themes"
 msgstr "テーマ"
 
@@ -647,7 +647,7 @@ msgstr ""
 #: wp-admin/network/settings.php:49
 #: wp-admin/network/site-new.php:23
 #: wp-admin/network/sites.php:29
-#: wp-admin/network/themes.php:298
+#: wp-admin/network/themes.php:296
 #: wp-admin/network/upgrade.php:22
 #: wp-admin/network/user-new.php:20
 #: wp-admin/network/users.php:229
@@ -683,7 +683,7 @@ msgstr "<strong>設定</strong> &mdash; このページには、サイトに関�
 #: wp-admin/network/settings.php:63
 #: wp-admin/network/site-new.php:31
 #: wp-admin/network/sites.php:45
-#: wp-admin/network/themes.php:323
+#: wp-admin/network/themes.php:321
 #: wp-admin/network/upgrade.php:31
 #: wp-admin/network/user-new.php:28
 #: wp-admin/network/users.php:241
@@ -808,7 +808,7 @@ msgstr ""
 #: wp-admin/my-sites.php:53
 #: wp-admin/network.php:83
 #: wp-admin/network/settings.php:65
-#: wp-admin/network/themes.php:326
+#: wp-admin/network/themes.php:324
 #: wp-admin/network/upgrade.php:33
 msgid "<a href=\"https://wordpress.org/support/forums/\">Support forums</a>"
 msgstr ""
@@ -994,7 +994,7 @@ msgid "Installed Themes"
 msgstr "インストールされているテーマ"
 
 #: wp-admin/network/menu.php:81
-#: wp-admin/network/themes.php:352
+#: wp-admin/network/themes.php:350
 msgctxt "theme"
 msgid "Add New"
 msgstr "新規追加"
@@ -1317,7 +1317,7 @@ msgstr "サイト情報を更新しました。"
 #. translators: %s: Site title.
 #: wp-admin/network/site-info.php:132
 #: wp-admin/network/site-settings.php:84
-#: wp-admin/network/site-themes.php:171
+#: wp-admin/network/site-themes.php:170
 #: wp-admin/network/site-users.php:200
 msgid "Edit Site: %s"
 msgstr "サイトを編集: %s"
@@ -1441,41 +1441,41 @@ msgstr "サイトのテーマ一覧ナビゲーション"
 msgid "Site themes list"
 msgstr "サイトのテーマ一覧"
 
-#: wp-admin/network/site-themes.php:193
-#: wp-admin/network/themes.php:373
+#: wp-admin/network/site-themes.php:192
+#: wp-admin/network/themes.php:371
 msgid "Theme enabled."
 msgstr ""
 
 #. translators: %s: Number of themes.
-#: wp-admin/network/site-themes.php:196
-#: wp-admin/network/themes.php:376
+#: wp-admin/network/site-themes.php:195
+#: wp-admin/network/themes.php:374
 msgid "%s theme enabled."
 msgid_plural "%s themes enabled."
 msgstr[0] "%s個のテーマが有効化されました。"
 
-#: wp-admin/network/site-themes.php:202
-#: wp-admin/network/themes.php:382
+#: wp-admin/network/site-themes.php:201
+#: wp-admin/network/themes.php:380
 msgid "Theme disabled."
 msgstr ""
 
 #. translators: %s: Number of themes.
-#: wp-admin/network/site-themes.php:205
-#: wp-admin/network/themes.php:385
+#: wp-admin/network/site-themes.php:204
+#: wp-admin/network/themes.php:383
 msgid "%s theme disabled."
 msgid_plural "%s themes disabled."
 msgstr[0] "%s個のテーマが無効化されました。"
 
-#: wp-admin/network/site-themes.php:209
-#: wp-admin/network/themes.php:416
+#: wp-admin/network/site-themes.php:208
+#: wp-admin/network/themes.php:414
 msgid "No theme selected."
 msgstr "テーマが選択されていません。"
 
-#: wp-admin/network/site-themes.php:213
+#: wp-admin/network/site-themes.php:212
 msgid "Network enabled themes are not shown on this screen."
 msgstr "サイトネットワークで有効化されたテーマはこの画面には表示されていません。"
 
-#: wp-admin/network/site-themes.php:216
-#: wp-admin/network/themes.php:424
+#: wp-admin/network/site-themes.php:215
+#: wp-admin/network/themes.php:422
 msgid "Search Installed Themes"
 msgstr "インストールされているテーマを検索"
 
@@ -1751,7 +1751,7 @@ msgstr "サイトをスパムとしてマークしました。"
 
 #. translators: %s: Search query.
 #: wp-admin/network/sites.php:378
-#: wp-admin/network/themes.php:360
+#: wp-admin/network/themes.php:358
 #: wp-admin/network/users.php:296
 msgid "Search results for: %s"
 msgstr ""
@@ -1831,85 +1831,85 @@ msgstr "いいえ、テーマ一覧に戻ります"
 msgid "Sorry, you are not allowed to change themes automatic update settings."
 msgstr ""
 
-#: wp-admin/network/themes.php:300
+#: wp-admin/network/themes.php:298
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
 msgstr "この画面では、テーマを各サイトの「外観」パネルで選択できる、またはできないようにします。現在サイトが使用しているテーマの有効化または停止ではありません。"
 
-#: wp-admin/network/themes.php:301
+#: wp-admin/network/themes.php:299
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
 msgstr "サイトネットワーク管理者が利用中のテーマを停止した場合、そのテーマをサイト上で使い続けることはできます。その後に他のテーマを選ぶと、停止されたテーマはサイトの「外観 > テーマ」画面に表示されなくなります。"
 
-#: wp-admin/network/themes.php:302
+#: wp-admin/network/themes.php:300
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
 msgstr "テーマは、サイト編集画面のテーマタブからサイトごとに有効化できます。この画面にはサイト一覧画面の「編集」操作リンクからアクセスできます。テーマのインストールや編集ができるのはサイトネットワーク管理者のみです。"
 
-#: wp-admin/network/themes.php:312
+#: wp-admin/network/themes.php:310
 msgid "Auto-updates"
 msgstr ""
 
-#: wp-admin/network/themes.php:314
+#: wp-admin/network/themes.php:312
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
 msgstr ""
 
-#: wp-admin/network/themes.php:315
+#: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
 msgstr ""
 
-#: wp-admin/network/themes.php:319
+#: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
 msgstr ""
 
-#: wp-admin/network/themes.php:324
+#: wp-admin/network/themes.php:322
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
 msgstr ""
 
-#: wp-admin/network/themes.php:331
+#: wp-admin/network/themes.php:329
 msgid "Filter themes list"
 msgstr "テーマ一覧の絞り込み"
 
-#: wp-admin/network/themes.php:332
+#: wp-admin/network/themes.php:330
 msgid "Themes list navigation"
 msgstr "テーマ一覧のナビゲーション"
 
-#: wp-admin/network/themes.php:333
+#: wp-admin/network/themes.php:331
 msgid "Themes list"
 msgstr "テーマ一覧"
 
-#: wp-admin/network/themes.php:391
+#: wp-admin/network/themes.php:389
 msgid "Theme deleted."
 msgstr "テーマを削除しました。"
 
 #. translators: %s: Number of themes.
-#: wp-admin/network/themes.php:394
+#: wp-admin/network/themes.php:392
 msgid "%s theme deleted."
 msgid_plural "%s themes deleted."
 msgstr[0] "%s個のテーマが削除されました。"
 
-#: wp-admin/network/themes.php:400
+#: wp-admin/network/themes.php:398
 msgid "Theme will be auto-updated."
 msgstr ""
 
 #. translators: %s: Number of themes.
-#: wp-admin/network/themes.php:403
+#: wp-admin/network/themes.php:401
 msgid "%s theme will be auto-updated."
 msgid_plural "%s themes will be auto-updated."
 msgstr[0] ""
 
-#: wp-admin/network/themes.php:409
+#: wp-admin/network/themes.php:407
 msgid "Theme will no longer be auto-updated."
 msgstr ""
 
 #. translators: %s: Number of themes.
-#: wp-admin/network/themes.php:412
+#: wp-admin/network/themes.php:410
 msgid "%s theme will no longer be auto-updated."
 msgid_plural "%s themes will no longer be auto-updated."
 msgstr[0] ""
 
-#: wp-admin/network/themes.php:418
+#: wp-admin/network/themes.php:416
 msgid "You cannot delete a theme while it is active on the main site."
 msgstr "メインのサイトで使用中のテーマは削除できません。"
 
-#: wp-admin/network/themes.php:431
+#: wp-admin/network/themes.php:429
 msgid "The following themes are installed but incomplete."
 msgstr "以下のテーマはインストール済みですが、足りない部分があります。"
 
