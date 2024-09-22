@@ -31,6 +31,22 @@
       "strings": {
         "continue": "Continue"
       }
+    },
+    {
+      "language": "zh_CN",
+      "version": "1.0.0",
+      "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/zh_CN.zip",
+      "english_name": "Chinese Simplified",
+      "native_name": "简体中文",
+      "iso": [
+        "zh-cn",
+        null,
+        null
+      ],
+      "updated": "2024-09-22 10:06:07",
+      "strings": {
+        "continue": "Continue"
+      }
     }
   ]
 }
