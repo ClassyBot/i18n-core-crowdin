@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-09-22 21:51\n"
+"PO-Revision-Date: 2024-10-02 15:42\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -175,7 +175,7 @@ msgstr "这个版本的 ClassicPress 包含以下版本的 WordPress 的所有�
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPress 版本 %s</strong> 修复了一些安全漏洞。"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
