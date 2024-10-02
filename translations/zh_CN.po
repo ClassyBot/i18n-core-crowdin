@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-10-02 03:41\n"
+"PO-Revision-Date: 2024-10-02 15:42\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8150,24 +8150,24 @@ msgstr "无效的菜单 ID。"
 #: wp-includes/object-relationships.php:234
 #: wp-includes/object-relationships.php:333
 msgid "cp_add_object_relationship() expects parameter 1 to be a positive integer, "
-msgstr ""
+msgstr "cp_add_object_relationship() 期望参数1为正整数一个正整数，"
 
 #: wp-includes/object-relationships.php:82
 #: wp-includes/object-relationships.php:348
 msgid "cp_add_object_relationship() expects parameter 4 to be a positive integer, "
-msgstr ""
+msgstr "cp_add_object_relationship() 期望参数4为一个正整数，"
 
 #: wp-includes/object-relationships.php:101
 #: wp-includes/object-relationships.php:253
 #: wp-includes/object-relationships.php:367
 msgid "cp_add_object_relationship() expects parameter 2 to be one of "
-msgstr ""
+msgstr "cp_add_object_relationship() 期望参数2在下列值中："
 
 #: wp-includes/object-relationships.php:116
 #: wp-includes/object-relationships.php:268
 #: wp-includes/object-relationships.php:382
 msgid "cp_add_object_relationship() expects parameter 3 to be one of "
-msgstr ""
+msgstr "cp_add_object_relationship() 期望参数3在下列值中："
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104
@@ -8659,7 +8659,7 @@ msgstr "查看附件页面"
 
 #: wp-includes/post.php:80
 msgid "View Media File"
-msgstr ""
+msgstr "查看媒体文件"
 
 #: wp-includes/post.php:81
 msgid "Attachment Attributes"
@@ -12404,7 +12404,7 @@ msgstr "&larr; 转到媒体分类"
 
 #: wp-includes/taxonomy.php:213
 msgid "Filter by media category"
-msgstr ""
+msgstr "按媒体分类筛选"
 
 #: wp-includes/taxonomy.php:243
 msgid "Media Tags"
