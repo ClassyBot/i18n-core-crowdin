@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2024-10-02 15:41\n"
+"PO-Revision-Date: 2024-10-03 08:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17307,7 +17307,7 @@ msgstr ""
 
 #: wp-includes/class-walker-category.php:132
 msgid "Feed for all posts filed under %s"
-msgstr ""
+msgstr "Flöde för alla inlägg under %s"
 
 #: wp-includes/class-walker-comment.php:236
 msgid "Pingback:"
