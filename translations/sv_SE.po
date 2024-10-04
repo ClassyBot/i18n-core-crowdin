@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2024-10-04 08:40\n"
+"PO-Revision-Date: 2024-10-04 20:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2706,97 +2706,97 @@ msgstr "Infoga Sidbrytningstagg"
 #: wp-includes/class-wp-editor.php:1384
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:115
 msgid "Read more..."
-msgstr ""
+msgstr "Läs mer..."
 
 #: wp-includes/class-wp-editor.php:1385
 #: wp-includes/script-loader.php:569
 msgid "Distraction-free writing mode"
-msgstr ""
+msgstr "Störningsfritt skrivläge"
 
 #: wp-includes/class-wp-editor.php:1386
 msgid "No alignment"
-msgstr ""
+msgstr "Ingen justering"
 
 #: wp-includes/class-wp-editor.php:1389
 msgid "Paste URL or type to search"
-msgstr ""
+msgstr "Klistra in URL eller skriv för att söka"
 
 #: wp-includes/class-wp-editor.php:1391
 msgid "Link options"
-msgstr ""
+msgstr "Länkalternativ"
 
 #: wp-includes/class-wp-editor.php:1394
 msgid "Add Media"
-msgstr ""
+msgstr "Lägg till media"
 
 #: wp-includes/class-wp-editor.php:1397
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Tangentbordsgenvägar"
 
 #: wp-includes/class-wp-editor.php:1398
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:335
 msgid "Default shortcuts,"
-msgstr ""
+msgstr "Standardgenvägar,"
 
 #: wp-includes/class-wp-editor.php:1399
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:340
 msgid "Additional shortcuts,"
-msgstr ""
+msgstr "Ytterligare genvägar,"
 
 #: wp-includes/class-wp-editor.php:1400
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:370
 msgid "Focus shortcuts:"
-msgstr ""
+msgstr "Fokusgenvägar:"
 
 #: wp-includes/class-wp-editor.php:1401
 msgid "Inline toolbar (when an image, link or preview is selected)"
-msgstr ""
+msgstr "Infogat verktygsfält (när bild, länk eller förhandsgranskning är valt)"
 
 #: wp-includes/class-wp-editor.php:1402
 msgid "Editor menu (when enabled)"
-msgstr ""
+msgstr "Redigeringsmeny (när aktiverad)"
 
 #: wp-includes/class-wp-editor.php:1403
 msgid "Editor toolbar"
-msgstr ""
+msgstr "Verktygsfält för redigerare"
 
 #: wp-includes/class-wp-editor.php:1404
 msgid "Elements path"
-msgstr ""
+msgstr "Sökväg för element"
 
 #: wp-includes/class-wp-editor.php:1405
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
 msgid "Ctrl + Alt + letter:"
-msgstr ""
+msgstr "Ctrl + alt + bokstav:"
 
 #: wp-includes/class-wp-editor.php:1406
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:255
 msgid "Shift + Alt + letter:"
-msgstr ""
+msgstr "Shift + Alt + bokstav:"
 
 #: wp-includes/class-wp-editor.php:1407
 msgid "Cmd + letter:"
-msgstr ""
+msgstr "Cmd + bokstav:"
 
 #: wp-includes/class-wp-editor.php:1408
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "Ctrl + letter:"
-msgstr ""
+msgstr "Ctrl + bokstav:"
 
 #: wp-includes/class-wp-editor.php:1409
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Letter"
-msgstr ""
+msgstr "Bokstav"
 
 #: wp-includes/class-wp-editor.php:1410
 #: wp-includes/script-loader.php:1102
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Action"
-msgstr ""
+msgstr "Händelse"
 
 #: wp-includes/class-wp-editor.php:1411
 msgid "Warning: the link has been inserted but may have errors. Please test it."
-msgstr ""
+msgstr "Varning: länken är infogad men kan innehålla fel. Testa den."
 
 #: wp-includes/class-wp-editor.php:1413
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:377
@@ -2806,78 +2806,78 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:1415
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:349
 msgid "When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo."
-msgstr ""
+msgstr "När du påbörjar ett nytt stycke med en av dessa formateringsgenvägar åtföljt av ett mellanslag, kommer formateringen att tillämpas automatiskt. Tryck Bakåt eller Escape för att ångra."
 
 #: wp-includes/class-wp-editor.php:1417
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:356
 msgid "The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo."
-msgstr ""
+msgstr "Följande formateringsgenvägar ersätts när du trycker Enter. Tryck Escape eller på ångraknappen för att ångra."
 
 #: wp-includes/class-wp-editor.php:1419
 msgid "The next group of formatting shortcuts are applied as you type or when you insert them around plain text in the same paragraph. Press Escape or the Undo button to undo."
-msgstr ""
+msgstr "Nästa grupp formateringsgenvägar tillämpas när du infogar dem runt oformaterad text i samma stycke. Tryck Escape eller på ångraknappen för att ångra."
 
 #: wp-includes/class-wp-editor.php:1816
 msgid "Y/m/d"
-msgstr ""
+msgstr "Å/m/d"
 
 #: wp-includes/class-wp-editor.php:1884
 msgid "Enter the destination URL"
-msgstr ""
+msgstr "Ange mål-URL"
 
 #: wp-includes/class-wp-editor.php:1895
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:102
 #: wp-includes/media-template.php:1269
 #: wp-includes/widgets/class-wp-widget-media-image.php:144
 msgid "Open link in a new tab"
-msgstr ""
+msgstr "Öppna i ny flik"
 
 #: wp-includes/class-wp-editor.php:1898
 msgid "Or link to existing content"
-msgstr ""
+msgstr "Eller länka till befintligt innehåll"
 
 #: wp-includes/class-wp-editor.php:1915
 msgid "No search term specified. Showing recent items."
-msgstr ""
+msgstr "Inga sökord angivna. Visar de senaste objekten."
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-editor.php:1919
 msgid "Search or use up and down arrow keys to select an item."
-msgstr ""
+msgstr "Sök eller använd piltangenterna upp/ner för att välja ett objekt."
 
 #: wp-includes/class-wp-editor.php:1935
 #: wp-includes/script-loader.php:1055
 msgid "Add Link"
-msgstr ""
+msgstr "Lägg till länk"
 
 #: wp-includes/class-wp-fatal-error-handler.php:186
 msgid "There has been a critical error on this website, putting it in recovery mode. Please check the Themes and Plugins screens for more details. If you just installed or updated a theme or plugin, check the relevant page for that first."
-msgstr ""
+msgstr "Det har uppstått ett kritiskt fel på webbplatsen, vilket försatt den i återställnngsläge. Kontrollera tema- och tilläggssidorna för detaljer. Om du just har installerat ett tema eller ett tillägg, kontrollera relevant sida för detta först."
 
 #: wp-includes/class-wp-fatal-error-handler.php:189
 msgid "There has been a critical error on this website. Please reach out to your site administrator, and inform them of this error for further assistance."
-msgstr ""
+msgstr "Det har uppstått ett kritiskt fel på webbplatsen. Informera webbplatsadministratören om felet för assistans."
 
 #: wp-includes/class-wp-fatal-error-handler.php:191
 msgid "There has been a critical error on this website. Please check your site admin email inbox for instructions."
-msgstr ""
+msgstr "Det har uppstått ett kritiskt fel på webbplatsen. Kontrollera din e-post för instruktioner."
 
 #: wp-includes/class-wp-fatal-error-handler.php:194
 msgid "There has been a critical error on this website."
-msgstr ""
+msgstr "Det har uppstått ett kritiskt fel på webbplatsen."
 
 #. translators: Documentation about troubleshooting.
 #: wp-includes/class-wp-fatal-error-handler.php:201
 msgid "https://wordpress.org/documentation/article/faq-troubleshooting/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr ""
+msgstr "Läs mer om felsökning i ClassicPress."
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
-msgstr ""
+msgstr "Denna fil laddas enbart för bakåtkompabilitet med SimplePie 1.2x. Överväg att byta till en ny version av SimplePie."
 
 #. translators: 1: fopen(), 2: File name.
 #: wp-includes/class-wp-http-curl.php:194
@@ -2889,51 +2889,51 @@ msgstr ""
 #: wp-includes/class-wp-http-curl.php:293
 #: wp-includes/class-wp-http.php:1071
 msgid "Too many redirects."
-msgstr ""
+msgstr "För många omdirigeringar."
 
 #: wp-includes/class-wp-http-curl.php:278
 #: wp-includes/class-wp-http-streams.php:326
 msgid "Failed to write request to temporary file."
-msgstr ""
+msgstr "Misslyckades att skriva förfrågan till tempfil."
 
 #: wp-includes/class-wp-http-streams.php:195
 #: wp-includes/class-wp-http-streams.php:204
 msgid "The SSL certificate for the host could not be verified."
-msgstr ""
+msgstr "SSL-certifikatet för värden kunde inte verifieras."
 
 #: wp-includes/class-wp-http.php:300
 #: wp-includes/class-wp-http.php:535
 #: wp-includes/class-wp-xmlrpc-server.php:6858
 msgid "A valid URL was not provided."
-msgstr ""
+msgstr "En giltig URL har inte angetts."
 
 #: wp-includes/class-wp-http.php:307
 msgid "User has blocked requests through HTTP."
-msgstr ""
+msgstr "Användaren har blockerat HTTP-förfrågningar."
 
 #: wp-includes/class-wp-http.php:324
 msgid "Destination directory for file streaming does not exist or is not writable."
-msgstr ""
+msgstr "Målkatalog för filströmning finns inte eller är inte skrivbar."
 
 #: wp-includes/class-wp-http.php:604
 msgid "There are no HTTP transports available which can complete the requested request."
-msgstr ""
+msgstr "Det finns inga HTTP-transporter tillgängliga som kan slutföra begäran."
 
 #: wp-includes/class-wp-image-editor-gd.php:92
 #: wp-includes/class-wp-image-editor-gd.php:101
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "Existerar inte filen?"
 
 #: wp-includes/class-wp-image-editor-gd.php:115
 #: wp-includes/class-wp-image-editor-imagick.php:161
 msgid "File is not an image."
-msgstr ""
+msgstr "Filen är inte en bild."
 
 #: wp-includes/class-wp-image-editor-gd.php:121
 #: wp-includes/class-wp-image-editor-imagick.php:241
 msgid "Could not read image size."
-msgstr ""
+msgstr "Kunde inte läsa bildstorleken."
 
 #: wp-includes/class-wp-image-editor-gd.php:187
 #: wp-includes/class-wp-image-editor-gd.php:213
