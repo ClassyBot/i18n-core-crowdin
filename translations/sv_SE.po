@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2024-10-03 20:40\n"
+"PO-Revision-Date: 2024-10-04 08:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -825,7 +825,7 @@ msgstr ""
 #: wp-admin/custom-background.php:353 wp-includes/class-wp-editor.php:1207
 #: wp-includes/customize/class-wp-customize-background-position-control.php:43
 msgid "Top"
-msgstr ""
+msgstr "Topp"
 
 #: wp-admin/custom-background.php:354
 #: wp-includes/customize/class-wp-customize-background-position-control.php:44
@@ -838,7 +838,7 @@ msgstr ""
 #: wp-includes/media-template.php:620 wp-includes/media-template.php:851
 #: wp-includes/media-template.php:917
 msgid "Left"
-msgstr ""
+msgstr "Vänster"
 
 #: wp-admin/custom-background.php:358
 #: wp-admin/includes/continents-cities.php:192 wp-admin/includes/media.php:971
@@ -847,7 +847,7 @@ msgstr ""
 #: wp-includes/media-template.php:623 wp-includes/media-template.php:854
 #: wp-includes/media-template.php:920
 msgid "Center"
-msgstr ""
+msgstr "Centrera"
 
 #: wp-admin/custom-background.php:359 wp-admin/includes/media.php:971
 #: wp-admin/includes/media.php:2608 wp-includes/class-wp-editor.php:1204
@@ -855,7 +855,7 @@ msgstr ""
 #: wp-includes/media-template.php:626 wp-includes/media-template.php:857
 #: wp-includes/media-template.php:923
 msgid "Right"
-msgstr ""
+msgstr "Höger"
 
 #: wp-admin/custom-background.php:362
 #: wp-includes/customize/class-wp-customize-background-position-control.php:52
@@ -865,7 +865,7 @@ msgstr ""
 #: wp-admin/custom-background.php:363 wp-includes/class-wp-editor.php:1209
 #: wp-includes/customize/class-wp-customize-background-position-control.php:53
 msgid "Bottom"
-msgstr ""
+msgstr "Botten"
 
 #: wp-admin/custom-background.php:364
 #: wp-includes/customize/class-wp-customize-background-position-control.php:54
@@ -4342,7 +4342,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:283
 msgctxt "column name"
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 #. translators: column name
 #: wp-admin/includes/class-wp-media-list-table.php:313
@@ -4453,7 +4453,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-users-list-table.php:428
 #: wp-admin/includes/dashboard.php:647
 msgid "View"
-msgstr ""
+msgstr "Visa"
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4814,7 +4814,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:416
 msgctxt "Plugin installer group title"
 msgid "Tools"
-msgstr ""
+msgstr "Verktyg"
 
 #. translators: 1: Plugin name and version.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:470
@@ -8898,7 +8898,7 @@ msgstr ""
 #: wp-includes/media-template.php:902
 #: wp-includes/widgets/class-wp-widget-media-image.php:83
 msgid "Caption"
-msgstr ""
+msgstr "Bildtext"
 
 #: wp-admin/includes/media.php:1232
 msgid "Link URL"
@@ -8925,7 +8925,7 @@ msgstr ""
 #: wp-admin/includes/media.php:1291 wp-admin/includes/media.php:2599
 #: wp-includes/class-wp-editor.php:1200 wp-includes/media-template.php:612
 msgid "Alignment"
-msgstr ""
+msgstr "Justering"
 
 #: wp-admin/includes/media.php:1397 wp-admin/includes/media.php:2237
 #: wp-includes/script-loader.php:543
@@ -12643,7 +12643,7 @@ msgstr ""
 
 #: wp-admin/menu.php:243 wp-admin/tools.php:22
 msgid "Tools"
-msgstr ""
+msgstr "Verktyg"
 
 #: wp-admin/menu.php:244
 msgid "Available Tools"
@@ -14505,13 +14505,13 @@ msgstr ""
 #: wp-includes/media-template.php:965
 #: wp-includes/widgets/class-wp-widget-media-image.php:70
 msgid "Width"
-msgstr ""
+msgstr "Bredd"
 
 #: wp-admin/options-media.php:58 wp-includes/class-wp-editor.php:1197
 #: wp-includes/media-template.php:965
 #: wp-includes/widgets/class-wp-widget-media-image.php:76
 msgid "Height"
-msgstr ""
+msgstr "Höjd"
 
 #: wp-admin/options-media.php:62
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
@@ -18709,115 +18709,115 @@ msgstr "Klistra in tabellrad efter"
 
 #: wp-includes/class-wp-editor.php:1189
 msgid "Paste table row after"
-msgstr ""
+msgstr "Klistra in tabellrad efter"
 
 #: wp-includes/class-wp-editor.php:1190
 msgid "Delete row"
-msgstr ""
+msgstr "Radera rad"
 
 #: wp-includes/class-wp-editor.php:1191
 msgid "Delete column"
-msgstr ""
+msgstr "Radera kolumn"
 
 #: wp-includes/class-wp-editor.php:1192
 msgid "Cut table row"
-msgstr ""
+msgstr "Klipp ut tabellrad"
 
 #: wp-includes/class-wp-editor.php:1193
 msgid "Copy table row"
-msgstr ""
+msgstr "Kopiera tabellrad"
 
 #: wp-includes/class-wp-editor.php:1194
 msgid "Merge table cells"
-msgstr ""
+msgstr "Slå ihop tabellceller"
 
 #: wp-includes/class-wp-editor.php:1195
 msgid "Split table cell"
-msgstr ""
+msgstr "Dela tabellcell"
 
 #: wp-includes/class-wp-editor.php:1201
 msgctxt "horizontal table cell alignment"
 msgid "H Align"
-msgstr ""
+msgstr "Horisontell justering"
 
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
 msgid "V Align"
-msgstr ""
+msgstr "Vertikal justering"
 
 #: wp-includes/class-wp-editor.php:1208
 msgid "Middle"
-msgstr ""
+msgstr "Mitten"
 
 #: wp-includes/class-wp-editor.php:1211
 msgid "Row group"
-msgstr ""
+msgstr "Radgrupp"
 
 #: wp-includes/class-wp-editor.php:1212
 msgid "Column group"
-msgstr ""
+msgstr "Kolumngrupp"
 
 #: wp-includes/class-wp-editor.php:1213
 msgid "Row type"
-msgstr ""
+msgstr "Radtyp"
 
 #: wp-includes/class-wp-editor.php:1214
 msgid "Cell type"
-msgstr ""
+msgstr "Celltyp"
 
 #: wp-includes/class-wp-editor.php:1215
 msgid "Cell padding"
-msgstr ""
+msgstr "Cellmarginal"
 
 #: wp-includes/class-wp-editor.php:1216
 msgid "Cell spacing"
-msgstr ""
+msgstr "Cellmellanrum"
 
 #: wp-includes/class-wp-editor.php:1217
 msgctxt "table cell scope attribute"
 msgid "Scope"
-msgstr ""
+msgstr "Omfång"
 
 #: wp-includes/class-wp-editor.php:1219
 msgctxt "TinyMCE"
 msgid "Insert template"
-msgstr ""
+msgstr "Infoga mall"
 
 #: wp-includes/class-wp-editor.php:1220
 msgctxt "TinyMCE"
 msgid "Templates"
-msgstr ""
+msgstr "Mallar"
 
 #: wp-includes/class-wp-editor.php:1222
 msgid "Background color"
-msgstr ""
+msgstr "Bakgrundsfärg"
 
 #: wp-includes/class-wp-editor.php:1223
 msgid "Text color"
-msgstr ""
+msgstr "Textfärg"
 
 #: wp-includes/class-wp-editor.php:1224
 msgctxt "editor button"
 msgid "Show blocks"
-msgstr ""
+msgstr "Visa block"
 
 #: wp-includes/class-wp-editor.php:1225
 msgid "Show invisible characters"
-msgstr ""
+msgstr "Visa dolda tecken"
 
 #. translators: word count
 #: wp-includes/class-wp-editor.php:1228
 msgid "Words: %s"
-msgstr ""
+msgstr "Ord: %s"
 
 #: wp-includes/class-wp-editor.php:1230
 msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
-msgstr ""
+msgstr "Klistra in är i oformaterad text-läge. Innehållet kommer att klistras in som oformaterad text till du slår av det alternativet."
 
 #: wp-includes/class-wp-editor.php:1231
 msgid "If you&#8217;re looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
@@ -18825,69 +18825,69 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1233
 msgid "Rich Text Area. Press Alt-Shift-H for help."
-msgstr ""
+msgstr "Rich Text-yta. Tryck Alt+Shift+H för hjälp."
 
 #: wp-includes/class-wp-editor.php:1234
 msgid "Rich Text Area. Press Control-Option-H for help."
-msgstr ""
+msgstr "Rich Text-yta. Tryck Control+Option+H för hjälp."
 
 #: wp-includes/class-wp-editor.php:1236 wp-includes/script-loader.php:512
 #: wp-includes/script-loader.php:594 wp-includes/script-loader.php:747
 #: wp-includes/script-loader.php:770 wp-includes/script-loader.php:934
 #: wp-includes/theme.php:2962
 msgid "The changes you made will be lost if you navigate away from this page."
-msgstr ""
+msgstr "Ändringar du gjort kommer att förloras om du lämnar den här sidan."
 
 #: wp-includes/class-wp-editor.php:1238
 msgid "Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser&#8217;s edit menu instead."
-msgstr ""
+msgstr "Din webbläsare har inte stöd för direkt åtkomst till urklipp. Använd tangentbordsgenvägar eller webbläsarens redigeringsmeny istället."
 
 #: wp-includes/class-wp-editor.php:1241
 msgctxt "TinyMCE menu"
 msgid "Insert"
-msgstr ""
+msgstr "Infoga"
 
 #: wp-includes/class-wp-editor.php:1242
 msgctxt "TinyMCE menu"
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 #: wp-includes/class-wp-editor.php:1243
 msgctxt "TinyMCE menu"
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 #: wp-includes/class-wp-editor.php:1244
 msgctxt "TinyMCE menu"
 msgid "Tools"
-msgstr ""
+msgstr "Verktyg"
 
 #: wp-includes/class-wp-editor.php:1245
 msgctxt "TinyMCE menu"
 msgid "View"
-msgstr ""
+msgstr "Visa"
 
 #: wp-includes/class-wp-editor.php:1246
 msgctxt "TinyMCE menu"
 msgid "Table"
-msgstr ""
+msgstr "Tabell"
 
 #: wp-includes/class-wp-editor.php:1247
 msgctxt "TinyMCE menu"
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Toolbar Toggle"
-msgstr ""
+msgstr "Verktygsfält på/av"
 
 #: wp-includes/class-wp-editor.php:1251 wp-includes/script-loader.php:155
 msgid "Insert Read More tag"
-msgstr ""
+msgstr "Infoga Läs mer-tagg"
 
 #: wp-includes/class-wp-editor.php:1252
 msgid "Insert Page Break tag"
-msgstr ""
+msgstr "Infoga Sidbrytningstagg"
 
 #: wp-includes/class-wp-editor.php:1253
 msgid "Read more..."
