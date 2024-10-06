@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-09-22T15:12:31+00:00\n"
+"POT-Creation-Date: 2024-10-06T12:22:18+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-22 21:50\n"
+"PO-Revision-Date: 2024-10-06 12:28\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -390,6 +390,7 @@ msgstr "Tipo de contenido no válido."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3303
+#: wp-admin/upload.php:589
 msgid "Copy URL to clipboard"
 msgstr ""
 
@@ -399,6 +400,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-privacy-policy-content.php:409
 #: wp-admin/includes/media.php:3304
 #: wp-admin/site-health-info.php:55
+#: wp-admin/upload.php:590
 msgid "Copied!"
 msgstr ""
 
@@ -569,8 +571,8 @@ msgstr "Editar comentario"
 #: wp-admin/theme-install.php:127
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:842
-#: wp-admin/upload.php:138
-#: wp-admin/upload.php:337
+#: wp-admin/upload.php:151
+#: wp-admin/upload.php:771
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -623,8 +625,8 @@ msgstr "También puedes moderar los comentarios desde esta pantalla usando la ca
 #: wp-admin/themes.php:206
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:863
-#: wp-admin/upload.php:158
-#: wp-admin/upload.php:369
+#: wp-admin/upload.php:171
+#: wp-admin/upload.php:803
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -669,8 +671,8 @@ msgstr ""
 #: wp-admin/theme-install.php:148
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
-#: wp-admin/upload.php:160
-#: wp-admin/upload.php:371
+#: wp-admin/upload.php:173
+#: wp-admin/upload.php:805
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -1182,7 +1184,7 @@ msgstr "Lista de comentarios"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:737
-#: wp-admin/upload.php:405
+#: wp-admin/upload.php:839
 #: wp-admin/users.php:638
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1839,6 +1841,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3220
 #: wp-admin/includes/nav-menu.php:1129
 #: wp-admin/themes.php:620
+#: wp-admin/upload.php:582
 msgid "Description"
 msgstr "Descripción"
 
@@ -1924,7 +1927,7 @@ msgstr "Lo siento, no tienes permisos para crear términos en esta taxonomía."
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:301
+#: wp-admin/upload.php:735
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "Lo siento, no tienes permisos para borrar este elemento."
 
@@ -1948,7 +1951,7 @@ msgstr ""
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:253
+#: wp-admin/upload.php:687
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "Lo siento, no tienes permisos para para editar este elemento."
 
@@ -2044,31 +2047,31 @@ msgstr "Lo siento, no tienes permisos para editar publicaciones en este tipo de 
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:265
+#: wp-admin/upload.php:699
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "Lo siento, no tienes permisos para mover este elemento a la papelera."
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:269
+#: wp-admin/upload.php:703
 msgid "Error in moving the item to Trash."
 msgstr ""
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:286
+#: wp-admin/upload.php:720
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "Lo siento, no tienes permisos para restaurar este elemento de la papelera."
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:290
+#: wp-admin/upload.php:724
 msgid "Error in restoring the item from Trash."
 msgstr ""
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:305
+#: wp-admin/upload.php:739
 msgid "Error in deleting the attachment."
 msgstr ""
 
@@ -2107,7 +2110,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "Puedes refinar lo que muestra el listado de entradas haciendo que solo se muestren las de una categoría específica o de un mes determinado usando el menú desplegable que encontrarás sobre el listado de entradas. Realiza un clic sobre el botón Filtro después de realizar tu selección. También puedes refinar el listado haciendo clic sobre el autor de una entrada, categoría o etiqueta del listado de entradas."
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:347
+#: wp-admin/upload.php:781
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "Acciones disponibles"
@@ -2641,6 +2644,7 @@ msgstr ""
 #: wp-admin/import.php:64
 #: wp-admin/includes/network.php:116
 #: wp-admin/themes.php:304
+#: wp-admin/upload.php:127
 #: wp-admin/users.php:329
 msgid "Error:"
 msgstr ""
@@ -2713,6 +2717,7 @@ msgstr "Más información sobre %s"
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
+#: wp-admin/upload.php:540
 msgid "Details"
 msgstr "Detalles"
 
@@ -2865,6 +2870,7 @@ msgstr "No se han encontrado elementos."
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2591
 #: wp-admin/includes/media.php:2914
+#: wp-admin/upload.php:571
 msgid "Title"
 msgstr "Título"
 
@@ -2962,33 +2968,8 @@ msgstr ""
 msgid "File"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3354
-msgid "“"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3354
-msgid "” (Edit)"
-msgstr ""
-
 #: wp-admin/includes/ajax-actions.php:3362
 msgid "File name: "
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3368
-msgid "Delete “"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3368
-msgid "” permanently"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3370
-msgid "View “"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3370
-#: wp-admin/includes/ajax-actions.php:3379
-msgid "”"
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3370
@@ -3002,25 +2983,14 @@ msgid "View"
 msgstr "Ver"
 
 #: wp-admin/includes/ajax-actions.php:3374
-msgid "Copy “"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3374
-msgid "” URL to clipboard"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3374
 #: wp-admin/includes/class-wp-media-list-table.php:1017
 msgid "Copy URL"
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3379
-msgid "Download “"
-msgstr ""
-
-#: wp-admin/includes/ajax-actions.php:3379
 #: wp-admin/includes/class-wp-media-list-table.php:1026
 #: wp-admin/includes/media.php:3308
+#: wp-admin/upload.php:627
 msgid "Download file"
 msgstr ""
 
@@ -3075,6 +3045,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:1302
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3203
+#: wp-admin/upload.php:578
 msgid "Caption"
 msgstr "Leyenda"
 
@@ -5084,8 +5055,10 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:185
 #: wp-admin/includes/class-wp-media-list-table.php:191
 #: wp-admin/includes/class-wp-posts-list-table.php:446
+#: wp-admin/includes/media.php:3981
 #: wp-admin/includes/meta-boxes.php:366
 #: wp-admin/includes/meta-boxes.php:475
+#: wp-admin/upload.php:629
 msgid "Delete permanently"
 msgstr ""
 
@@ -6079,6 +6052,7 @@ msgstr "No hay comentarios pendientes"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1026
+#: wp-admin/upload.php:339
 msgid "First page"
 msgstr "Primera página"
 
@@ -6086,12 +6060,14 @@ msgstr "Primera página"
 #: wp-admin/includes/class-wp-list-table.php:1038
 #: wp-admin/includes/nav-menu.php:462
 #: wp-admin/includes/nav-menu.php:764
+#: wp-admin/upload.php:348
 msgid "Previous page"
 msgstr "Página anterior"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1047
 #: wp-admin/includes/class-wp-list-table.php:1054
+#: wp-admin/upload.php:351
 msgid "Current Page"
 msgstr "Página actual"
 
@@ -6105,11 +6081,13 @@ msgstr "%1$s de %2$s"
 #: wp-admin/includes/class-wp-list-table.php:1075
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
+#: wp-admin/upload.php:362
 msgid "Next page"
 msgstr "Página siguiente"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1087
+#: wp-admin/upload.php:371
 msgid "Last page"
 msgstr "Última página"
 
@@ -6125,14 +6103,17 @@ msgid "Select All"
 msgstr "Seleccionar todos"
 
 #: wp-admin/includes/class-wp-media-list-table.php:43
+#: wp-admin/upload.php:288
 msgid "List view"
 msgstr ""
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
+#: wp-admin/upload.php:291
 msgid "Grid view"
 msgstr ""
 
 #: wp-admin/includes/class-wp-media-list-table.php:134
+#: wp-admin/includes/media.php:3968
 msgid "All media items"
 msgstr "Todos los medios"
 
@@ -6165,6 +6146,7 @@ msgstr "No se encontraron archivos multimedia."
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:329
+#: wp-admin/includes/media.php:3966
 msgid "Filter by type"
 msgstr "Filtrar por tipo"
 
@@ -6180,6 +6162,7 @@ msgstr "Filtrar por tipo"
 #: wp-admin/includes/template.php:1927
 #: wp-admin/includes/template.php:1932
 #: wp-admin/includes/theme-install.php:139
+#: wp-admin/upload.php:301
 msgid "Search"
 msgstr "Búsqueda"
 
@@ -6239,6 +6222,7 @@ msgstr "&#8220;%s&#8221; (Editar)"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3311
+#: wp-admin/upload.php:546
 msgid "File name:"
 msgstr "Nombre de archivo:"
 
@@ -6928,7 +6912,7 @@ msgstr "&#8220;%s&#8221; está bloqueado"
 
 #. translators: %s: User's display name.
 #: wp-admin/includes/class-wp-posts-list-table.php:1097
-#: wp-admin/includes/misc.php:1205
+#: wp-admin/includes/misc.php:1206
 msgid "%s is currently editing"
 msgstr "%s está editando en este momento"
 
@@ -7170,6 +7154,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3194
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
+#: wp-admin/upload.php:569
 msgid "(opens in a new tab)"
 msgstr "(se abre en una nueva pestaña)"
 
@@ -7343,7 +7328,7 @@ msgstr "En esta subsección deberías anotar qué paquete de analítica usas, c�
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:537
-msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a WordPress plugin that provides analytics services. In that case, add information from that plugin here."
+msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
 msgstr ""
 
 #. translators: Default privacy policy heading.
@@ -7636,6 +7621,7 @@ msgstr[0] "%s columna"
 msgstr[1] "%s columnas"
 
 #: wp-admin/includes/class-wp-screen.php:1231
+#: wp-admin/upload.php:142
 msgid "Number of items per page:"
 msgstr "Número de elementos por página:"
 
@@ -9124,7 +9110,7 @@ msgstr "Configurar"
 #: wp-admin/includes/dashboard.php:259
 #: wp-admin/includes/template.php:2478
 #: wp-admin/nav-menus.php:847
-#: wp-admin/options.php:418
+#: wp-admin/options.php:420
 msgid "Save Changes"
 msgstr "Guardar cambios"
 
@@ -10301,8 +10287,8 @@ msgid "Gallery"
 msgstr "Galería"
 
 #: wp-admin/includes/media.php:21
-#: wp-admin/upload.php:164
-#: wp-admin/upload.php:327
+#: wp-admin/upload.php:177
+#: wp-admin/upload.php:761
 msgid "Media Library"
 msgstr "Biblioteca de medios"
 
@@ -10378,6 +10364,7 @@ msgstr "Tamaño"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
+#: wp-admin/upload.php:586
 msgid "File URL"
 msgstr "URL del archivo"
 
@@ -10401,6 +10388,7 @@ msgstr "Ubicación del archivo subido."
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2923
 #: wp-admin/includes/media.php:3180
+#: wp-admin/upload.php:566
 msgid "Alternative Text"
 msgstr "Texto alternativo"
 
@@ -10431,11 +10419,13 @@ msgstr "Ocultar"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3091
+#: wp-admin/upload.php:522
 msgid "Edit Image"
 msgstr "Editar imagen"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3314
+#: wp-admin/upload.php:547
 msgid "File type:"
 msgstr "Tipo de archivo:"
 
@@ -10445,6 +10435,7 @@ msgstr "Fecha de subida:"
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3436
+#: wp-admin/upload.php:549
 msgid "Dimensions:"
 msgstr "Dimensiones:"
 
@@ -10485,6 +10476,7 @@ msgstr "Selecciona archivos"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2250
+#: wp-admin/upload.php:268
 msgid "Maximum upload file size: %s."
 msgstr "Tamaño máximo de archivo: %s."
 
@@ -10661,6 +10653,7 @@ msgstr "(sin autor)"
 
 #: wp-admin/includes/media.php:3274
 #: wp-admin/includes/media.php:3276
+#: wp-admin/upload.php:543
 msgid "Uploaded by:"
 msgstr ""
 
@@ -10674,6 +10667,7 @@ msgid "File URL:"
 msgstr "URL del archivo:"
 
 #: wp-admin/includes/media.php:3347
+#: wp-admin/upload.php:548
 msgid "File size:"
 msgstr "Tamaño de archivo:"
 
@@ -10705,8 +10699,12 @@ msgstr ""
 msgid "Please choose the upload media category"
 msgstr ""
 
-#: wp-admin/includes/media.php:3928
+#: wp-admin/includes/media.php:3927
 msgid "Select Media Category"
+msgstr ""
+
+#: wp-admin/includes/media.php:3997
+msgid "Bulk select"
 msgstr ""
 
 #: wp-admin/includes/menu.php:364
@@ -11184,34 +11182,34 @@ msgid "folder"
 msgstr "carpeta"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/misc.php:1076
+#: wp-admin/includes/misc.php:1077
 #: wp-admin/user-edit.php:321
 msgid "Admin Color Scheme"
 msgstr "Esquema de color de administración"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/misc.php:1258
+#: wp-admin/includes/misc.php:1259
 msgid "%s has taken over and is currently editing."
 msgstr "%s ha tomado la posesión y está editando en este momento."
 
-#: wp-admin/includes/misc.php:1380
+#: wp-admin/includes/misc.php:1381
 #: wp-admin/includes/post.php:2031
 #: wp-admin/widgets-form.php:366
 msgid "Error while saving."
 msgstr "Error al guardar los cambios."
 
 #. translators: Draft saved date format, see https://www.php.net/manual/datetime.format.php
-#: wp-admin/includes/misc.php:1384
+#: wp-admin/includes/misc.php:1385
 msgid "g:i:s a"
 msgstr "G:i:s"
 
 #. translators: %s: Date and time.
-#: wp-admin/includes/misc.php:1388
+#: wp-admin/includes/misc.php:1389
 msgid "Draft saved at %s."
 msgstr "Borrador guardado a las %s."
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-admin/includes/misc.php:1491
+#: wp-admin/includes/misc.php:1492
 msgid "Hello ###USERNAME###,\n\n"
 "Someone with administrator capabilities recently requested to have the\n"
 "administration email address changed on this site:\n"
@@ -11227,12 +11225,12 @@ msgid "Hello ###USERNAME###,\n\n"
 msgstr ""
 
 #. translators: New admin email address notification email subject. %s: Site title.
-#: wp-admin/includes/misc.php:1551
+#: wp-admin/includes/misc.php:1552
 msgid "[%s] New Admin Email Address"
 msgstr "[%s] Nueva dirección de correo electrónico de administrador"
 
 #. translators: %s: Page title.
-#: wp-admin/includes/misc.php:1576
+#: wp-admin/includes/misc.php:1577
 msgid "%s (Draft)"
 msgstr "%s (Borrador)"
 
@@ -11332,7 +11330,7 @@ msgstr "La constante %s no se puede definir al crear una red."
 #: wp-admin/includes/network.php:621
 #: wp-admin/includes/network.php:683
 #: wp-admin/includes/template.php:1287
-#: wp-admin/options.php:367
+#: wp-admin/options.php:369
 msgid "Warning:"
 msgstr "Aviso:"
 
@@ -12390,48 +12388,48 @@ msgstr ""
 msgid "F j, Y g:i a"
 msgstr "j F, Y g:i a"
 
-#: wp-admin/includes/schema.php:1012
+#: wp-admin/includes/schema.php:1015
 msgid "You must provide a domain name."
 msgstr "Debes facilitarnos un nombre de dominio."
 
-#: wp-admin/includes/schema.php:1015
+#: wp-admin/includes/schema.php:1018
 msgid "You must provide a name for your network of sites."
 msgstr "Debes facilitarnos un nombre para tu red de sitios."
 
-#: wp-admin/includes/schema.php:1022
-#: wp-admin/includes/schema.php:1026
+#: wp-admin/includes/schema.php:1025
+#: wp-admin/includes/schema.php:1029
 msgid "The network already exists."
 msgstr "La red ya existe."
 
-#: wp-admin/includes/schema.php:1031
+#: wp-admin/includes/schema.php:1034
 msgid "You must provide a valid email address."
 msgstr "Debes facilitarnos una dirección de correo electrónico válida."
 
-#: wp-admin/includes/schema.php:1134
+#: wp-admin/includes/schema.php:1137
 msgid "Warning! Wildcard DNS may not be configured correctly!"
 msgstr "¡Atención! ¡Puede que las entradas wildcard de DNS no estén configuradas correctamente!"
 
 #. translators: %s: Host name.
-#: wp-admin/includes/schema.php:1138
+#: wp-admin/includes/schema.php:1141
 msgid "The installer attempted to contact a random hostname (%s) on your domain."
 msgstr "El instalador tratará de contactar con un nombre de servidor aleatorio (%s) de tu dominio."
 
 #. translators: %s: Error message.
-#: wp-admin/includes/schema.php:1143
+#: wp-admin/includes/schema.php:1146
 msgid "This resulted in an error message: %s"
 msgstr "Esto ha dado como resultado un mensaje de error: %s"
 
 #. translators: %s: Asterisk symbol (*).
-#: wp-admin/includes/schema.php:1149
+#: wp-admin/includes/schema.php:1152
 msgid "To use a subdomain configuration, you must have a wildcard entry in your DNS. This usually means adding a %s hostname record pointing at your web server in your DNS configuration tool."
 msgstr "Para usar la configuración en subdominios tienes que añadir una entrada comodín en tus DNS. Esto normalmente supone añadir un registro de nombre de alojamiento %s en tu servidor, en la herramienta de configuración de DNS."
 
-#: wp-admin/includes/schema.php:1153
+#: wp-admin/includes/schema.php:1156
 msgid "You can still use your site but any subdomain you create may not be accessible. If you know your DNS is correct, ignore this message."
 msgstr "Puedes continuar usando tu sitio, pero ningún subdominio que crees será accesible. Si sabes que tu configuración de DNS es correcta, ignora este mensaje."
 
 #. translators: Do not translate USERNAME, SITE_NAME, BLOG_URL, PASSWORD: those are placeholders.
-#: wp-admin/includes/schema.php:1237
+#: wp-admin/includes/schema.php:1240
 msgid "Hello USERNAME,\n\n"
 "Your new SITE_NAME site has been successfully set up at:\n"
 "BLOG_URL\n\n"
@@ -12443,13 +12441,13 @@ msgid "Hello USERNAME,\n\n"
 "--The Team @ SITE_NAME"
 msgstr ""
 
-#: wp-admin/includes/schema.php:1288
+#: wp-admin/includes/schema.php:1291
 msgid "My Network"
 msgstr ""
 
 #. translators: %s: Site link.
 #. translators: First post content. %s: Site link.
-#: wp-admin/includes/schema.php:1301
+#: wp-admin/includes/schema.php:1304
 #: wp-admin/includes/upgrade.php:195
 msgid "Welcome to %s. This is your first post. Edit or delete it, then start writing!"
 msgstr ""
@@ -14023,8 +14021,8 @@ msgstr ""
 #. translators: Add new file.
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
-#: wp-admin/upload.php:175
-#: wp-admin/upload.php:391
+#: wp-admin/upload.php:235
+#: wp-admin/upload.php:825
 msgctxt "file"
 msgid "Add New"
 msgstr "Añadir nueva"
@@ -15119,8 +15117,28 @@ msgstr "Solución de problemas"
 msgid "ClassicPress is incompatible with the block editor. When blocks compatibility is turned on (default), it allows more plugins and themes to work but block-related features will not work. "
 msgstr ""
 
+#. translators: Hidden accessibility text.
+#: wp-admin/options-general.php:650
+#: wp-admin/options-general.php:654
+msgid "Disable Emojis"
+msgstr ""
+
+#: wp-admin/options-general.php:658
+msgid "Emojis disabled"
+msgstr ""
+
+#. translators: Hidden accessibility text.
+#: wp-admin/options-general.php:660
+#: wp-admin/options-general.php:664
+msgid "Disable XML-RPC"
+msgstr ""
+
+#: wp-admin/options-general.php:668
+msgid "XML-RPC server disabled"
+msgstr ""
+
 #: wp-admin/options-head.php:15
-#: wp-admin/options.php:350
+#: wp-admin/options.php:352
 msgid "Settings saved."
 msgstr "Ajustes guardados."
 
@@ -15848,33 +15866,33 @@ msgstr ""
 msgid "ClassicPress is not notifying any <a href=\"%1$s\">Update Services</a> because of your site&#8217;s <a href=\"%2$s\">visibility settings</a>."
 msgstr "ClassicPress no está informando a ningún <a href=\"%1$s\">servicio de actualizaciones</a> debido a los <a href=\"%2$s\">ajustes de visibilidad</a> de tu sitio."
 
-#: wp-admin/options.php:228
+#: wp-admin/options.php:230
 msgid "Please consider writing more inclusive code."
 msgstr ""
 
 #. translators: %s: The options page name.
-#: wp-admin/options.php:253
+#: wp-admin/options.php:255
 msgid "<strong>Error:</strong> The %s options page is not in the allowed options list."
 msgstr ""
 
-#: wp-admin/options.php:261
+#: wp-admin/options.php:263
 msgid "Sorry, you are not allowed to modify unregistered settings for this site."
 msgstr "Lo siento, no tienes permisos para modificar ajustes no registrados en este sitio."
 
 #. translators: %s: The option/setting.
-#: wp-admin/options.php:312
+#: wp-admin/options.php:314
 msgid "The %s setting is unregistered. Unregistered settings are deprecated. See https://developer.wordpress.org/plugins/settings/settings-api/"
 msgstr ""
 
-#: wp-admin/options.php:341
+#: wp-admin/options.php:343
 msgid "Settings save failed."
 msgstr ""
 
-#: wp-admin/options.php:364
+#: wp-admin/options.php:366
 msgid "All Settings"
 msgstr "Todos los ajustes"
 
-#: wp-admin/options.php:367
+#: wp-admin/options.php:369
 msgid "This page allows direct access to your site settings. You can break things here. Please be cautious!"
 msgstr ""
 
@@ -17753,94 +17771,217 @@ msgstr[1] ""
 msgid "Error saving media file."
 msgstr "Error al guardar el archivo multimedia."
 
-#: wp-admin/upload.php:140
+#: wp-admin/upload.php:123
+msgid "by"
+msgstr ""
+
+#: wp-admin/upload.php:124
+msgid "pixels"
+msgstr ""
+
+#: wp-admin/upload.php:125
+#: wp-admin/upload.php:462
+msgid "Deselect"
+msgstr ""
+
+#: wp-admin/upload.php:126
+msgid "Failed to update media:"
+msgstr ""
+
+#: wp-admin/upload.php:128
+msgid "Upload failed"
+msgstr ""
+
+#: wp-admin/upload.php:129
+msgid "Tap to close"
+msgstr ""
+
+#: wp-admin/upload.php:130
+msgid "Enter new filename"
+msgstr ""
+
+#: wp-admin/upload.php:131
+msgid "Invalid file type"
+msgstr ""
+
+#: wp-admin/upload.php:132
+msgid "Check the list of accepted file types."
+msgstr ""
+
+#: wp-admin/upload.php:133
+msgid "Failed to delete attachment."
+msgstr ""
+
+#: wp-admin/upload.php:134
+msgid "You are about to permanently delete this item from your site.\n"
+"This action cannot be undone.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: wp-admin/upload.php:135
+#: wp-admin/js/common.js:527
+msgid "You are about to permanently delete these items from your site.\n"
+"This action cannot be undone.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: wp-admin/upload.php:153
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
 msgstr "Todos los archivos que has subido están en la lista de la biblioteca de medios, con los subidos más recientemente en la parte superior."
 
-#: wp-admin/upload.php:141
-#: wp-admin/upload.php:341
+#: wp-admin/upload.php:154
+#: wp-admin/upload.php:775
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "Puedes ver tus medios en una cuadrícula visual sencilla o en lista con columnas. Cambia entre estas vistas usando los iconos en la parte superior izquierda de los medios."
 
-#: wp-admin/upload.php:142
+#: wp-admin/upload.php:155
 msgid "To delete media items, click the Bulk Select button at the top of the screen. Select any items you wish to delete, then click the Delete Selected button. Clicking the Cancel Selection button takes you back to viewing your media."
 msgstr "Para borrar elementos multimedia haz clic en el botón de Selección múltiple de la parte superior de la pantalla. Elige cualesquiera elementos que quieras borrar y luego haz clic en el botón de Borrar seleccionados. Hacer clic en el botón de Cancelar selección te lleva de vuelta a la visualización de tus elementos multimedia."
 
-#: wp-admin/upload.php:149
+#: wp-admin/upload.php:162
 msgid "Attachment Details"
 msgstr "Detalles de adjuntos"
 
-#: wp-admin/upload.php:151
+#: wp-admin/upload.php:164
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
 msgstr "Al hacer clic en un elemento se mostrará la ventana de Detalles del adjunto, que te permite previsualizar el medio y hacer modificaciones rápidas. Cualquier cambio que hagas en los detalles del adjunto se guardarán automáticamente."
 
-#: wp-admin/upload.php:152
+#: wp-admin/upload.php:165
 msgid "Use the arrow buttons at the top of the dialog, or the left and right arrow keys on your keyboard, to navigate between media items quickly."
 msgstr "Utiliza los botones con flechas de la parte superior, o las teclas de flecha de tu teclado, para navegar rápidamente entre los elementos multimedia."
 
-#: wp-admin/upload.php:153
+#: wp-admin/upload.php:166
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
 msgstr "También puedes borrar elementos individualmente y acceder a la pantalla de edición extendida desde la ventana de detalles."
 
-#: wp-admin/upload.php:159
-#: wp-admin/upload.php:370
+#: wp-admin/upload.php:172
+#: wp-admin/upload.php:804
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr ""
 
-#. translators: %s: List view URL.
-#: wp-admin/upload.php:197
-msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr "La vista de cuadrícula de la biblioteca de medios necesita JavaScript. <a href=\"%s\">Cambia a vista de lista</a>."
-
-#: wp-admin/upload.php:339
-msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
-msgstr "Todos los archivos que has subido están listados en la biblioteca multimedia, con las subidas más recientes listadas primero. Puedes utilizar la pestaña de Opciones de pantalla para personalizar la visualización de esta pantalla."
-
-#: wp-admin/upload.php:340
-msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
-msgstr "Puedes ordenar la lista por tipo/estado de archivo o por fecha usando los menús desplegables superiores de la tabla de medios."
-
-#: wp-admin/upload.php:349
-msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
+#: wp-admin/upload.php:285
+msgid "Filter media"
 msgstr ""
 
-#: wp-admin/upload.php:351
-msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
+#: wp-admin/upload.php:321
+msgid "Media items navigation"
 msgstr ""
 
-#: wp-admin/upload.php:352
-msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
+#. translators: %s: Number of media items showing
+#: wp-admin/upload.php:327
+msgid "%s items"
 msgstr ""
 
 #: wp-admin/upload.php:353
+msgid "of"
+msgstr ""
+
+#. translators: %s: 1. Number of media items showing 2. Total number of media items.
+#: wp-admin/upload.php:476
+msgid "Showing %s of %s media items"
+msgstr ""
+
+#: wp-admin/upload.php:481
+msgid "No media items found."
+msgstr ""
+
+#: wp-admin/upload.php:503
+msgid "Edit previous media item"
+msgstr ""
+
+#: wp-admin/upload.php:506
+msgid "Edit next media item"
+msgstr ""
+
+#: wp-admin/upload.php:509
+msgid "Close dialog"
+msgstr ""
+
+#: wp-admin/upload.php:513
+msgid "Attachment details"
+msgstr ""
+
+#: wp-admin/upload.php:518
+msgid "Attachment Preview"
+msgstr ""
+
+#: wp-admin/upload.php:541
+msgid "Uploaded on:"
+msgstr ""
+
+#: wp-admin/upload.php:569
+msgid "Learn how to describe the purpose of the image"
+msgstr ""
+
+#: wp-admin/upload.php:569
+msgid ". Leave empty if the image is purely decorative."
+msgstr ""
+
+#: wp-admin/upload.php:575
+msgid "Saved!"
+msgstr ""
+
+#: wp-admin/upload.php:607
+msgid "Taxonomy updated successfully!"
+msgstr ""
+
+#: wp-admin/upload.php:623
+msgid "View attachment page"
+msgstr ""
+
+#: wp-admin/upload.php:625
+msgid "Edit more details"
+msgstr ""
+
+#: wp-admin/upload.php:773
+msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
+msgstr "Todos los archivos que has subido están listados en la biblioteca multimedia, con las subidas más recientes listadas primero. Puedes utilizar la pestaña de Opciones de pantalla para personalizar la visualización de esta pantalla."
+
+#: wp-admin/upload.php:774
+msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
+msgstr "Puedes ordenar la lista por tipo/estado de archivo o por fecha usando los menús desplegables superiores de la tabla de medios."
+
+#: wp-admin/upload.php:783
+msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
+msgstr ""
+
+#: wp-admin/upload.php:785
+msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
+msgstr ""
+
+#: wp-admin/upload.php:786
+msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
+msgstr ""
+
+#: wp-admin/upload.php:787
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr ""
 
-#: wp-admin/upload.php:354
+#: wp-admin/upload.php:788
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr ""
 
-#: wp-admin/upload.php:355
+#: wp-admin/upload.php:789
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr ""
 
-#: wp-admin/upload.php:362
+#: wp-admin/upload.php:796
 msgid "Attaching Files"
 msgstr "Adjuntando archivos"
 
-#: wp-admin/upload.php:364
+#: wp-admin/upload.php:798
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "Si un archivo no se ha adjuntado a ningún contenido, podrás ver eso en la columna de Adjunto a. Puedes hacer clic en Adjuntar a para lanzar un pequeño emergente que te permitirá buscar contenido existente al que adjuntar el archivo."
 
-#: wp-admin/upload.php:376
+#: wp-admin/upload.php:810
 msgid "Filter media items list"
 msgstr "Filtrar lista de elementos multimedia"
 
-#: wp-admin/upload.php:377
+#: wp-admin/upload.php:811
 msgid "Media items list navigation"
 msgstr "Navegación por la lista de elementos multimedia"
 
-#: wp-admin/upload.php:378
+#: wp-admin/upload.php:812
 msgid "Media items list"
 msgstr "Listado de elementos multimedia"
 
@@ -18755,12 +18896,6 @@ msgstr ""
 #. translators: 1: Deprecated property name, 2: Version number.
 #: wp-admin/js/common.js:45
 msgid "%1$s is deprecated since version %2$s with no alternative available."
-msgstr ""
-
-#: wp-admin/js/common.js:527
-msgid "You are about to permanently delete these items from your site.\n"
-"This action cannot be undone.\n"
-"'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
 #: wp-admin/js/common.js:1993
