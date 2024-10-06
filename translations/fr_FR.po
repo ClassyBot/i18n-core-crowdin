@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-09-22T15:12:14+00:00\n"
+"POT-Creation-Date: 2024-10-06T12:22:00+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-22 21:50\n"
+"PO-Revision-Date: 2024-10-06 12:28\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -644,17 +644,17 @@ msgstr "Ajouter"
 #: wp-includes/class-wp-xmlrpc-server.php:4009
 #: wp-includes/functions.php:3577
 #: wp-includes/script-loader.php:606
-#: wp-includes/script-loader.php:1104
+#: wp-includes/script-loader.php:1111
 msgid "Something went wrong."
 msgstr "Une mauvaise manipulation ?"
 
 #: wp-includes/class-wp-customize-manager.php:515
-#: wp-includes/script-loader.php:1105
+#: wp-includes/script-loader.php:1112
 msgid "You need a higher level of permission."
 msgstr "Vous devez avoir des droits supérieurs."
 
 #: wp-includes/class-wp-customize-manager.php:516
-#: wp-includes/script-loader.php:1106
+#: wp-includes/script-loader.php:1113
 msgid "Sorry, you are not allowed to customize this site."
 msgstr "Désolé, vous n’avez pas l’autorisation de personnaliser ce site."
 
@@ -702,7 +702,7 @@ msgstr "Non autorisé à modifier le réglage en raison de sa capacité."
 
 #: wp-includes/class-wp-customize-manager.php:2380
 #: wp-includes/class-wp-customize-setting.php:594
-#: wp-includes/script-loader.php:1148
+#: wp-includes/script-loader.php:1155
 msgid "Invalid value."
 msgstr "Valeur non valide."
 
@@ -717,14 +717,14 @@ msgstr "Le jeu de modifications précédent a déjà été publié. Veuillez ess
 
 #: wp-includes/class-wp-customize-manager.php:2675
 #: wp-includes/class-wp-customize-manager.php:2690
-#: wp-includes/script-loader.php:1097
+#: wp-includes/script-loader.php:1104
 msgid "You must supply a future date to schedule."
 msgstr "Vous devez fournir une date future pour activer la planification."
 
 #. translators: %s: Number of invalid settings.
 #: wp-includes/class-wp-customize-manager.php:2794
-#: wp-includes/script-loader.php:1134
-#: wp-includes/script-loader.php:1136
+#: wp-includes/script-loader.php:1141
+#: wp-includes/script-loader.php:1143
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
 msgstr[0] "Impossible d’enregistrer suite à %s réglage non valide."
@@ -860,17 +860,17 @@ msgid "Live Preview: %s"
 msgstr "Prévisualisation : %s"
 
 #: wp-includes/class-wp-customize-manager.php:4847
-#: wp-includes/script-loader.php:1088
+#: wp-includes/script-loader.php:1095
 msgid "Publish"
 msgstr "Publier"
 
 #: wp-includes/class-wp-customize-manager.php:4852
-#: wp-includes/script-loader.php:1090
+#: wp-includes/script-loader.php:1097
 msgid "Save Draft"
 msgstr "Enregistrer le brouillon"
 
 #: wp-includes/class-wp-customize-manager.php:4857
-#: wp-includes/script-loader.php:1093
+#: wp-includes/script-loader.php:1100
 msgctxt "customizer changeset action/button label"
 msgid "Schedule"
 msgstr "Planifier"
@@ -1170,10 +1170,10 @@ msgstr "Le champ de modification met automatiquement en surbrillance la syntaxe 
 #: wp-includes/class-wp-editor.php:1182
 #: wp-includes/class-wp-editor.php:1879
 #: wp-includes/script-loader.php:771
-#: wp-includes/script-loader.php:870
-#: wp-includes/script-loader.php:1101
-#: wp-includes/script-loader.php:1262
-#: wp-includes/script-loader.php:1626
+#: wp-includes/script-loader.php:877
+#: wp-includes/script-loader.php:1108
+#: wp-includes/script-loader.php:1269
+#: wp-includes/script-loader.php:1650
 msgid "Close"
 msgstr "Fermer"
 
@@ -1245,7 +1245,7 @@ msgstr "Archive du type de publication"
 
 #: wp-includes/class-wp-customize-nav-menus.php:336
 #: wp-includes/script-loader.php:732
-#: wp-includes/script-loader.php:1057
+#: wp-includes/script-loader.php:1064
 msgid "No results found."
 msgstr "Aucun résultat."
 
@@ -1526,7 +1526,7 @@ msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
 msgstr "Cliquez sur « Suivant » pour commencer à ajouter des liens à votre nouveau menu."
 
 #: wp-includes/class-wp-customize-nav-menus.php:1115
-#: wp-includes/script-loader.php:1630
+#: wp-includes/script-loader.php:1654
 #: wp-signup.php:653
 msgid "Next"
 msgstr "Suivant"
@@ -1950,7 +1950,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:1181
 #: wp-includes/class-wp-editor.php:1932
 #: wp-includes/media.php:4580
-#: wp-includes/script-loader.php:1100
+#: wp-includes/script-loader.php:1107
 msgid "Cancel"
 msgstr "Annuler"
 
@@ -2215,7 +2215,7 @@ msgid "Save"
 msgstr "Enregistrer"
 
 #: wp-includes/class-wp-editor.php:1251
-#: wp-includes/script-loader.php:865
+#: wp-includes/script-loader.php:872
 msgid "Fullscreen"
 msgstr "Plein écran"
 
@@ -2234,7 +2234,7 @@ msgstr "Rétablir le dernier brouillon"
 #: wp-includes/class-wp-editor.php:1255
 #: wp-includes/class-wp-editor.php:1261
 #: wp-includes/class-wp-editor.php:1875
-#: wp-includes/script-loader.php:1053
+#: wp-includes/script-loader.php:1060
 msgid "Insert/edit link"
 msgstr "Insérer/modifier un lien"
 
@@ -2646,7 +2646,7 @@ msgid "Rich Text Area. Press Control-Option-H for help."
 msgstr "Zone de texte enrichi. Appuyez sur Contrôle-Option-H (Ctrl-Alt-H) pour consulter l’aide."
 
 #: wp-includes/class-wp-editor.php:1367
-#: wp-includes/script-loader.php:1098
+#: wp-includes/script-loader.php:1105
 #: wp-includes/theme.php:3602
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "Les modifications que vous avez faites seront perdues si vous changez de page."
@@ -2789,7 +2789,7 @@ msgid "Letter"
 msgstr "Lettre"
 
 #: wp-includes/class-wp-editor.php:1410
-#: wp-includes/script-loader.php:1102
+#: wp-includes/script-loader.php:1109
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Action"
 msgstr ""
@@ -2846,7 +2846,7 @@ msgid "Search or use up and down arrow keys to select an item."
 msgstr "Cherchez ou utilisez les flèches haut et bas pour choisir un élément."
 
 #: wp-includes/class-wp-editor.php:1935
-#: wp-includes/script-loader.php:1055
+#: wp-includes/script-loader.php:1062
 msgid "Add Link"
 msgstr "Ajouter un lien"
 
@@ -6058,7 +6058,7 @@ msgstr ""
 #: wp-includes/media-template.php:1244
 #: wp-includes/media-template.php:1364
 #: wp-includes/media-template.php:1463
-#: wp-includes/script-loader.php:876
+#: wp-includes/script-loader.php:883
 msgid "None"
 msgstr "Aucun"
 
@@ -6203,7 +6203,7 @@ msgstr "Utilisez le filtre %s à la place."
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
-#: wp-includes/formatting.php:5612
+#: wp-includes/formatting.php:5614
 msgctxt "opening curly double quote"
 msgid "&#8220;"
 msgstr "« "
@@ -6326,7 +6326,7 @@ msgid "55"
 msgstr ""
 
 #: wp-includes/formatting.php:3996
-#: wp-includes/general-template.php:4561
+#: wp-includes/general-template.php:4564
 msgid "&hellip;"
 msgstr ""
 
@@ -6334,49 +6334,49 @@ msgstr ""
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
 msgstr "L’adresse de messagerie fournie ne semble pas être valide. Veuillez saisir une adresse valide."
 
-#: wp-includes/formatting.php:4920
+#: wp-includes/formatting.php:4922
 msgid "The ClassicPress address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "L’adresse de ClassicPress que vous avez saisie ne semble pas être valide. Veuillez saisir une adresse valide."
 
-#: wp-includes/formatting.php:4933
+#: wp-includes/formatting.php:4935
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
 msgstr "L’adresse de site que vous avez saisie ne semble pas être valide. Veuillez saisir une adresse valide."
 
-#: wp-includes/formatting.php:4992
+#: wp-includes/formatting.php:4994
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
 msgstr "Le fuseau horaire ne semble pas être valide. Veuillez en choisir un valide."
 
 #. translators: %s: Documentation URL.
-#: wp-includes/formatting.php:5012
+#: wp-includes/formatting.php:5014
 msgid "A structure tag is required when using custom permalinks. <a href=\"%s\">Learn more</a>"
 msgstr "Une balise structurelle est nécessaire quand les permaliens personnalisés sont utilisés. <a href=\"%s\">En savoir plus</a>."
 
-#: wp-includes/formatting.php:5013
+#: wp-includes/formatting.php:5015
 msgid "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
 msgstr ""
 
 #. translators: 1: Option name, 2: Error code.
-#: wp-includes/formatting.php:5041
+#: wp-includes/formatting.php:5043
 msgid "Could not sanitize the %1$s option. Error code: %2$s"
 msgstr ""
 
 #. translators: Used to join items in a list with more than 2 items.
-#: wp-includes/formatting.php:5257
+#: wp-includes/formatting.php:5259
 msgid "%1$s, %2$s"
 msgstr ""
 
 #. translators: Used to join last two items in a list with more than 2 times.
-#: wp-includes/formatting.php:5259
+#: wp-includes/formatting.php:5261
 msgid "%1$s, and %2$s"
 msgstr ""
 
 #. translators: Used to join items in a list with only 2 items.
-#: wp-includes/formatting.php:5261
+#: wp-includes/formatting.php:5263
 msgid "%1$s and %2$s"
 msgstr ""
 
 #. translators: 1: The function name, 2: The argument number, 3: The argument name, 4: The expected type, 5: The provided type.
-#: wp-includes/formatting.php:5445
+#: wp-includes/formatting.php:5447
 msgid "Warning: %1$s expects parameter %2$s (%3$s) to be a %4$s, %5$s given."
 msgstr ""
 
@@ -6608,7 +6608,7 @@ msgid "Close dialog"
 msgstr "Fermez la boîte de dialogue"
 
 #: wp-includes/functions.php:7277
-#: wp-includes/script-loader.php:1108
+#: wp-includes/script-loader.php:1115
 msgid "Session expired"
 msgstr "La session a expiré"
 
@@ -6991,70 +6991,70 @@ msgstr "%1$s %2$s Flux de résultats de la recherche pour &quot;%3$s&quot;"
 msgid "%1$s %2$s %3$s Feed"
 msgstr "%1$s %2$s Flux pour %3$s"
 
-#: wp-includes/general-template.php:4457
+#: wp-includes/general-template.php:4460
 msgid "&laquo; Previous"
 msgstr "« Précédent"
 
-#: wp-includes/general-template.php:4458
+#: wp-includes/general-template.php:4461
 msgid "Next &raquo;"
 msgstr "Suivant »"
 
-#: wp-includes/general-template.php:4670
+#: wp-includes/general-template.php:4673
 msgctxt "admin color scheme"
 msgid "Default"
 msgstr "Par défaut"
 
-#: wp-includes/general-template.php:4682
+#: wp-includes/general-template.php:4685
 msgctxt "admin color scheme"
 msgid "Light"
 msgstr "Lumineux"
 
-#: wp-includes/general-template.php:4694
+#: wp-includes/general-template.php:4697
 msgctxt "admin color scheme"
 msgid "Modern"
 msgstr ""
 
-#: wp-includes/general-template.php:4706
+#: wp-includes/general-template.php:4709
 msgctxt "admin color scheme"
 msgid "Blue"
 msgstr "Bleu"
 
-#: wp-includes/general-template.php:4718
+#: wp-includes/general-template.php:4721
 msgctxt "admin color scheme"
 msgid "Midnight"
 msgstr "Minuit"
 
-#: wp-includes/general-template.php:4730
+#: wp-includes/general-template.php:4733
 msgctxt "admin color scheme"
 msgid "Sunrise"
 msgstr "Lever du soleil"
 
-#: wp-includes/general-template.php:4742
+#: wp-includes/general-template.php:4745
 msgctxt "admin color scheme"
 msgid "Ectoplasm"
 msgstr "Ectoplasme"
 
-#: wp-includes/general-template.php:4754
+#: wp-includes/general-template.php:4757
 msgctxt "admin color scheme"
 msgid "Ocean"
 msgstr "Océan"
 
-#: wp-includes/general-template.php:4766
+#: wp-includes/general-template.php:4769
 msgctxt "admin color scheme"
 msgid "Coffee"
 msgstr "Café"
 
 #. translators: Character to identify required form fields.
-#: wp-includes/general-template.php:5133
+#: wp-includes/general-template.php:5136
 msgid "*"
 msgstr ""
 
 #. translators: %s: Asterisk symbol (*).
-#: wp-includes/general-template.php:5157
+#: wp-includes/general-template.php:5160
 msgid "Required fields are marked %s"
 msgstr "Les champs obligatoires sont indiqués avec %s"
 
-#: wp-includes/general-template.php:5239
+#: wp-includes/general-template.php:5242
 msgid "Powered by ClassicPress"
 msgstr "Propulsé par ClassicPress"
 
@@ -7803,7 +7803,7 @@ msgid "(no author)"
 msgstr "(aucun auteur)"
 
 #: wp-includes/media.php:4173
-#: wp-includes/script-loader.php:1056
+#: wp-includes/script-loader.php:1063
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:107
 msgid "(no title)"
 msgstr "(pas de titre)"
@@ -7818,7 +7818,7 @@ msgid "Select"
 msgstr "Sélectionner"
 
 #: wp-includes/media.php:4581
-#: wp-includes/script-loader.php:1054
+#: wp-includes/script-loader.php:1061
 #: wp-login.php:666
 msgid "Update"
 msgstr "Mettre à jour"
@@ -8155,27 +8155,31 @@ msgstr "L’ID donné pour cet objet n’est pas une entrée de menu."
 msgid "Invalid menu ID."
 msgstr "ID de menu non valide."
 
-#: wp-includes/object-relationships.php:67
-#: wp-includes/object-relationships.php:234
-#: wp-includes/object-relationships.php:333
-msgid "cp_add_object_relationship() expects parameter 1 to be a positive integer, "
+#. translators: %s: String, 0, object, or array.
+#: wp-includes/object-relationships.php:68
+#: wp-includes/object-relationships.php:247
+#: wp-includes/object-relationships.php:355
+msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
 msgstr ""
 
-#: wp-includes/object-relationships.php:82
-#: wp-includes/object-relationships.php:348
-msgid "cp_add_object_relationship() expects parameter 4 to be a positive integer, "
+#. translators: %s: String, 0, object, or array.
+#: wp-includes/object-relationships.php:86
+#: wp-includes/object-relationships.php:373
+msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
 msgstr ""
 
-#: wp-includes/object-relationships.php:101
-#: wp-includes/object-relationships.php:253
-#: wp-includes/object-relationships.php:367
-msgid "cp_add_object_relationship() expects parameter 2 to be one of "
+#. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
+#: wp-includes/object-relationships.php:108
+#: wp-includes/object-relationships.php:269
+#: wp-includes/object-relationships.php:395
+msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
 msgstr ""
 
-#: wp-includes/object-relationships.php:116
-#: wp-includes/object-relationships.php:268
-#: wp-includes/object-relationships.php:382
-msgid "cp_add_object_relationship() expects parameter 3 to be one of "
+#. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
+#: wp-includes/object-relationships.php:126
+#: wp-includes/object-relationships.php:287
+#: wp-includes/object-relationships.php:413
+msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
 msgstr ""
 
 #. translators: 1: Deprecated option key, 2: New option key.
@@ -8894,7 +8898,7 @@ msgstr "Privé"
 
 #: wp-includes/post.php:942
 #: wp-includes/post.php:962
-#: wp-includes/script-loader.php:1089
+#: wp-includes/script-loader.php:1096
 msgid "Published"
 msgstr "Publié"
 
@@ -9010,7 +9014,7 @@ msgstr "Le contenu, le titre et l’extrait sont vides."
 
 #: wp-includes/post.php:3985
 #: wp-includes/rest-api.php:2157
-#: wp-includes/script-loader.php:1147
+#: wp-includes/script-loader.php:1154
 msgid "Invalid date."
 msgstr "Date non valide."
 
@@ -11623,7 +11627,7 @@ msgid "of"
 msgstr "sur"
 
 #: wp-includes/script-loader.php:772
-#: wp-includes/script-loader.php:1263
+#: wp-includes/script-loader.php:1270
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
 msgstr "Cette fonctionnalité requiert des iframes. Les iframes sont désactivées sur votre navigateur, ou alors il ne les accepte pas."
 
@@ -11728,480 +11732,480 @@ msgstr ""
 msgid "The file URL has been copied to your clipboard"
 msgstr ""
 
-#: wp-includes/script-loader.php:862
+#: wp-includes/script-loader.php:869
 msgid "Turn off Fullscreen"
 msgstr "Quitter le plein écran"
 
-#: wp-includes/script-loader.php:863
+#: wp-includes/script-loader.php:870
 msgid "Go Fullscreen"
 msgstr "Passer en plein écran"
 
-#: wp-includes/script-loader.php:864
+#: wp-includes/script-loader.php:871
 msgid "Download Video"
 msgstr "Télécharger la vidéo"
 
-#: wp-includes/script-loader.php:866
+#: wp-includes/script-loader.php:873
 msgid "Jump forward 1 second"
 msgstr "Saut en avant d’1 seconde"
 
-#: wp-includes/script-loader.php:866
+#: wp-includes/script-loader.php:873
 msgid "Jump forward %1 seconds"
 msgstr "Avancer de %1 secondes"
 
-#: wp-includes/script-loader.php:867
+#: wp-includes/script-loader.php:874
 msgid "Toggle Loop"
 msgstr "Lire en boucle"
 
-#: wp-includes/script-loader.php:868
+#: wp-includes/script-loader.php:875
 #: wp-includes/theme.php:1637
 msgid "Play"
 msgstr "Lecture"
 
-#: wp-includes/script-loader.php:869
+#: wp-includes/script-loader.php:876
 #: wp-includes/theme.php:1636
 msgid "Pause"
 msgstr ""
 
-#: wp-includes/script-loader.php:871
+#: wp-includes/script-loader.php:878
 msgid "Time Slider"
 msgstr "Curseur de temps"
 
-#: wp-includes/script-loader.php:872
+#: wp-includes/script-loader.php:879
 msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
 msgstr "Utilisez les flèches droite/gauche pour avancer d’une seconde, haut/bas pour avancer de dix secondes."
 
-#: wp-includes/script-loader.php:873
+#: wp-includes/script-loader.php:880
 msgid "Skip back 1 second"
 msgstr "Revenir une seconde en arrière"
 
-#: wp-includes/script-loader.php:873
+#: wp-includes/script-loader.php:880
 msgid "Skip back %1 seconds"
 msgstr "Saut en arrière de %1 seconde(s)"
 
-#: wp-includes/script-loader.php:874
+#: wp-includes/script-loader.php:881
 msgid "Captions/Subtitles"
 msgstr "Légendes/Sous-titres"
 
-#: wp-includes/script-loader.php:875
+#: wp-includes/script-loader.php:882
 msgid "Chapters"
 msgstr "Chapitres"
 
-#: wp-includes/script-loader.php:877
+#: wp-includes/script-loader.php:884
 msgid "Mute Toggle"
 msgstr "Couper le son"
 
-#: wp-includes/script-loader.php:878
+#: wp-includes/script-loader.php:885
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
 msgstr "Utilisez les flèches haut/bas pour augmenter ou diminuer le volume."
 
-#: wp-includes/script-loader.php:879
+#: wp-includes/script-loader.php:886
 msgid "Unmute"
 msgstr "Réactiver le son"
 
-#: wp-includes/script-loader.php:880
+#: wp-includes/script-loader.php:887
 msgid "Mute"
 msgstr "Muet"
 
-#: wp-includes/script-loader.php:881
+#: wp-includes/script-loader.php:888
 msgid "Volume Slider"
 msgstr "Curseur de volume"
 
-#: wp-includes/script-loader.php:882
+#: wp-includes/script-loader.php:889
 msgid "Video Player"
 msgstr "Lecteur vidéo"
 
-#: wp-includes/script-loader.php:883
+#: wp-includes/script-loader.php:890
 msgid "Audio Player"
 msgstr "Lecteur audio"
 
-#: wp-includes/script-loader.php:884
+#: wp-includes/script-loader.php:891
 msgid "Skip ad"
 msgstr "Passer la publicité"
 
-#: wp-includes/script-loader.php:885
+#: wp-includes/script-loader.php:892
 msgid "Skip in 1 second"
 msgstr "Passer dans %1 seconde"
 
-#: wp-includes/script-loader.php:885
+#: wp-includes/script-loader.php:892
 msgid "Skip in %1 seconds"
 msgstr "Passer dans %1 secondes"
 
-#: wp-includes/script-loader.php:886
+#: wp-includes/script-loader.php:893
 msgid "Source Chooser"
 msgstr "Sélecteur de source"
 
-#: wp-includes/script-loader.php:887
+#: wp-includes/script-loader.php:894
 msgid "Stop"
 msgstr "Arrêter"
 
-#: wp-includes/script-loader.php:888
+#: wp-includes/script-loader.php:895
 msgid "Speed Rate"
 msgstr "Taux de vitesse"
 
-#: wp-includes/script-loader.php:889
+#: wp-includes/script-loader.php:896
 msgid "Live Broadcast"
 msgstr "Émission en direct"
 
-#: wp-includes/script-loader.php:890
+#: wp-includes/script-loader.php:897
 msgid "Afrikaans"
 msgstr ""
 
-#: wp-includes/script-loader.php:891
+#: wp-includes/script-loader.php:898
 msgid "Albanian"
 msgstr "Albanais"
 
-#: wp-includes/script-loader.php:892
+#: wp-includes/script-loader.php:899
 msgid "Arabic"
 msgstr "Arabe"
 
-#: wp-includes/script-loader.php:893
+#: wp-includes/script-loader.php:900
 msgid "Belarusian"
 msgstr "Biélorusse"
 
-#: wp-includes/script-loader.php:894
+#: wp-includes/script-loader.php:901
 msgid "Bulgarian"
 msgstr "Bulgare"
 
-#: wp-includes/script-loader.php:895
+#: wp-includes/script-loader.php:902
 msgid "Catalan"
 msgstr ""
 
-#: wp-includes/script-loader.php:896
+#: wp-includes/script-loader.php:903
 msgid "Chinese"
 msgstr "Chinois"
 
-#: wp-includes/script-loader.php:897
+#: wp-includes/script-loader.php:904
 msgid "Chinese (Simplified)"
 msgstr "Chinois (simplifié)"
 
-#: wp-includes/script-loader.php:898
+#: wp-includes/script-loader.php:905
 msgid "Chinese (Traditional)"
 msgstr "Chinois (traditionnel)"
 
-#: wp-includes/script-loader.php:899
+#: wp-includes/script-loader.php:906
 msgid "Croatian"
 msgstr "Croate"
 
-#: wp-includes/script-loader.php:900
+#: wp-includes/script-loader.php:907
 msgid "Czech"
 msgstr "Tchèque"
 
-#: wp-includes/script-loader.php:901
+#: wp-includes/script-loader.php:908
 msgid "Danish"
 msgstr "Danois"
 
-#: wp-includes/script-loader.php:902
+#: wp-includes/script-loader.php:909
 msgid "Dutch"
 msgstr "Néerlandais"
 
-#: wp-includes/script-loader.php:903
+#: wp-includes/script-loader.php:910
 msgid "English"
 msgstr "Anglais"
 
-#: wp-includes/script-loader.php:904
+#: wp-includes/script-loader.php:911
 msgid "Estonian"
 msgstr "Estonien"
 
-#: wp-includes/script-loader.php:905
+#: wp-includes/script-loader.php:912
 msgid "Filipino"
 msgstr ""
 
-#: wp-includes/script-loader.php:906
+#: wp-includes/script-loader.php:913
 msgid "Finnish"
 msgstr "Terminer"
 
-#: wp-includes/script-loader.php:907
+#: wp-includes/script-loader.php:914
 msgid "French"
 msgstr "Français"
 
-#: wp-includes/script-loader.php:908
+#: wp-includes/script-loader.php:915
 msgid "Galician"
 msgstr "Galicien"
 
-#: wp-includes/script-loader.php:909
+#: wp-includes/script-loader.php:916
 msgid "German"
 msgstr "Allemand"
 
-#: wp-includes/script-loader.php:910
+#: wp-includes/script-loader.php:917
 msgid "Greek"
 msgstr "Grec"
 
-#: wp-includes/script-loader.php:911
+#: wp-includes/script-loader.php:918
 msgid "Haitian Creole"
 msgstr "Créole haïtien"
 
-#: wp-includes/script-loader.php:912
+#: wp-includes/script-loader.php:919
 msgid "Hebrew"
 msgstr "Hébreu"
 
-#: wp-includes/script-loader.php:913
+#: wp-includes/script-loader.php:920
 msgid "Hindi"
 msgstr ""
 
-#: wp-includes/script-loader.php:914
+#: wp-includes/script-loader.php:921
 msgid "Hungarian"
 msgstr "Hongrois"
 
-#: wp-includes/script-loader.php:915
+#: wp-includes/script-loader.php:922
 msgid "Icelandic"
 msgstr "Islandais"
 
-#: wp-includes/script-loader.php:916
+#: wp-includes/script-loader.php:923
 msgid "Indonesian"
 msgstr "Indonésien"
 
-#: wp-includes/script-loader.php:917
+#: wp-includes/script-loader.php:924
 msgid "Irish"
 msgstr "Irlandais"
 
-#: wp-includes/script-loader.php:918
+#: wp-includes/script-loader.php:925
 msgid "Italian"
 msgstr "Italien"
 
-#: wp-includes/script-loader.php:919
+#: wp-includes/script-loader.php:926
 msgid "Japanese"
 msgstr "Japonais"
 
-#: wp-includes/script-loader.php:920
+#: wp-includes/script-loader.php:927
 msgid "Korean"
 msgstr "Coréen"
 
-#: wp-includes/script-loader.php:921
+#: wp-includes/script-loader.php:928
 msgid "Latvian"
 msgstr "Letton"
 
-#: wp-includes/script-loader.php:922
+#: wp-includes/script-loader.php:929
 msgid "Lithuanian"
 msgstr "Lituanien"
 
-#: wp-includes/script-loader.php:923
+#: wp-includes/script-loader.php:930
 msgid "Macedonian"
 msgstr "Macédonien"
 
-#: wp-includes/script-loader.php:924
+#: wp-includes/script-loader.php:931
 msgid "Malay"
 msgstr "Malais"
 
-#: wp-includes/script-loader.php:925
+#: wp-includes/script-loader.php:932
 msgid "Maltese"
 msgstr "Maltais"
 
-#: wp-includes/script-loader.php:926
+#: wp-includes/script-loader.php:933
 msgid "Norwegian"
 msgstr "Norvégien"
 
-#: wp-includes/script-loader.php:927
+#: wp-includes/script-loader.php:934
 msgid "Persian"
 msgstr "Perse"
 
-#: wp-includes/script-loader.php:928
+#: wp-includes/script-loader.php:935
 msgid "Polish"
 msgstr "Polonais"
 
-#: wp-includes/script-loader.php:929
+#: wp-includes/script-loader.php:936
 msgid "Portuguese"
 msgstr "Portugais"
 
-#: wp-includes/script-loader.php:930
+#: wp-includes/script-loader.php:937
 msgid "Romanian"
 msgstr "Roumain"
 
-#: wp-includes/script-loader.php:931
+#: wp-includes/script-loader.php:938
 msgid "Russian"
 msgstr "Russe"
 
-#: wp-includes/script-loader.php:932
+#: wp-includes/script-loader.php:939
 msgid "Serbian"
 msgstr "Serbe"
 
-#: wp-includes/script-loader.php:933
+#: wp-includes/script-loader.php:940
 msgid "Slovak"
 msgstr "Slovaque"
 
-#: wp-includes/script-loader.php:934
+#: wp-includes/script-loader.php:941
 msgid "Slovenian"
 msgstr "Slovénien"
 
-#: wp-includes/script-loader.php:935
+#: wp-includes/script-loader.php:942
 msgid "Spanish"
 msgstr "Espagnol"
 
-#: wp-includes/script-loader.php:936
+#: wp-includes/script-loader.php:943
 msgid "Swahili"
 msgstr ""
 
-#: wp-includes/script-loader.php:937
+#: wp-includes/script-loader.php:944
 msgid "Swedish"
 msgstr "Suédois"
 
-#: wp-includes/script-loader.php:938
+#: wp-includes/script-loader.php:945
 msgid "Tagalog"
 msgstr ""
 
-#: wp-includes/script-loader.php:939
+#: wp-includes/script-loader.php:946
 msgid "Thai"
 msgstr ""
 
-#: wp-includes/script-loader.php:940
+#: wp-includes/script-loader.php:947
 msgid "Turkish"
 msgstr "Turc"
 
-#: wp-includes/script-loader.php:941
+#: wp-includes/script-loader.php:948
 msgid "Ukrainian"
 msgstr "Ukrainien"
 
-#: wp-includes/script-loader.php:942
+#: wp-includes/script-loader.php:949
 msgid "Vietnamese"
 msgstr "Vietnamien"
 
-#: wp-includes/script-loader.php:943
+#: wp-includes/script-loader.php:950
 msgid "Welsh"
 msgstr "Gaélique"
 
-#: wp-includes/script-loader.php:944
+#: wp-includes/script-loader.php:951
 msgid "Yiddish"
 msgstr ""
 
-#: wp-includes/script-loader.php:1016
+#: wp-includes/script-loader.php:1023
 msgctxt "password strength"
 msgid "Password strength unknown"
 msgstr "Force du mot de passe inconnue."
 
-#: wp-includes/script-loader.php:1017
+#: wp-includes/script-loader.php:1024
 msgctxt "password strength"
 msgid "Very weak"
 msgstr "Très faible"
 
-#: wp-includes/script-loader.php:1018
+#: wp-includes/script-loader.php:1025
 msgctxt "password strength"
 msgid "Weak"
 msgstr "Faible"
 
-#: wp-includes/script-loader.php:1019
+#: wp-includes/script-loader.php:1026
 msgctxt "password strength"
 msgid "Medium"
 msgstr "Moyenne"
 
-#: wp-includes/script-loader.php:1020
+#: wp-includes/script-loader.php:1027
 msgctxt "password strength"
 msgid "Strong"
 msgstr "Forte"
 
-#: wp-includes/script-loader.php:1021
+#: wp-includes/script-loader.php:1028
 msgctxt "password mismatch"
 msgid "Mismatch"
 msgstr "Non concordance"
 
-#: wp-includes/script-loader.php:1058
+#: wp-includes/script-loader.php:1065
 msgid "Link selected."
 msgstr "Lien sélectionné."
 
-#: wp-includes/script-loader.php:1059
+#: wp-includes/script-loader.php:1066
 msgid "Link inserted."
 msgstr "Lien inséré."
 
 #. translators: Minimum input length in characters to start searching posts in the "Insert/edit link" modal.
-#: wp-includes/script-loader.php:1061
+#: wp-includes/script-loader.php:1068
 msgctxt "minimum input length for searching post links"
 msgid "3"
 msgstr ""
 
-#: wp-includes/script-loader.php:1086
+#: wp-includes/script-loader.php:1093
 msgid "Activate &amp; Publish"
 msgstr "Activer &amp; publier"
 
-#: wp-includes/script-loader.php:1087
+#: wp-includes/script-loader.php:1094
 msgid "Save &amp; Publish"
 msgstr "Enregistrer &amp; publier"
 
-#: wp-includes/script-loader.php:1091
+#: wp-includes/script-loader.php:1098
 msgid "Draft Saved"
 msgstr "Brouillon enregistré"
 
-#: wp-includes/script-loader.php:1092
+#: wp-includes/script-loader.php:1099
 msgid "Updating"
 msgstr "Mise à jour en cours"
 
-#: wp-includes/script-loader.php:1094
+#: wp-includes/script-loader.php:1101
 msgctxt "customizer changeset status"
 msgid "Scheduled"
 msgstr "Planifié"
 
-#: wp-includes/script-loader.php:1095
+#: wp-includes/script-loader.php:1102
 msgid "Invalid"
 msgstr "Non valide"
 
-#: wp-includes/script-loader.php:1096
+#: wp-includes/script-loader.php:1103
 msgid "Please save your changes in order to share the preview."
 msgstr "Veuillez enregistrer vos modifications pour pouvoir partager la prévisualisation."
 
-#: wp-includes/script-loader.php:1099
+#: wp-includes/script-loader.php:1106
 msgid "Saved"
 msgstr "Enregistré"
 
-#: wp-includes/script-loader.php:1103
+#: wp-includes/script-loader.php:1110
 msgid "Discard changes"
 msgstr "Annuler les modifications"
 
-#: wp-includes/script-loader.php:1107
+#: wp-includes/script-loader.php:1114
 msgid "Site Preview"
 msgstr "Aperçu du site"
 
-#: wp-includes/script-loader.php:1109
+#: wp-includes/script-loader.php:1116
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
 msgstr "Masquer les contrôles"
 
-#: wp-includes/script-loader.php:1110
+#: wp-includes/script-loader.php:1117
 msgctxt "label for hide controls button without length constraints"
 msgid "Show Controls"
 msgstr "Afficher les contrôles"
 
-#: wp-includes/script-loader.php:1111
+#: wp-includes/script-loader.php:1118
 msgid "(Untitled)"
 msgstr "(Sans titre)"
 
-#: wp-includes/script-loader.php:1112
+#: wp-includes/script-loader.php:1119
 msgid "Looks like something&#8217;s gone wrong. Wait a couple seconds, and then try again."
 msgstr "Il semble que quelque chose se passe mal. Attendez deux secondes puis veuillez réessayer."
 
-#: wp-includes/script-loader.php:1113
+#: wp-includes/script-loader.php:1120
 msgid "Downloading your new theme&hellip;"
 msgstr "Nouveau thème en cours de téléchargement…"
 
-#: wp-includes/script-loader.php:1114
+#: wp-includes/script-loader.php:1121
 msgid "Setting up your live preview. This may take a bit."
 msgstr "Mise en place de votre Prévisualisation en direct. Cela peut prendre un moment."
 
-#: wp-includes/script-loader.php:1115
+#: wp-includes/script-loader.php:1122
 msgid "Reverting unpublished changes&hellip;"
 msgstr "Rétablissement des changements non publiés…"
 
-#: wp-includes/script-loader.php:1116
+#: wp-includes/script-loader.php:1123
 msgid "Are you sure you want to discard your unpublished changes?"
 msgstr ""
 
 #. translators: %s: Display name of the user who has taken over the changeset in customizer.
-#: wp-includes/script-loader.php:1118
+#: wp-includes/script-loader.php:1125
 msgid "%s has taken over and is currently customizing."
 msgstr "%s a pris la main et personnalise actuellement."
 
 #. translators: %s: URL to the Customizer to load the autosaved version.
-#: wp-includes/script-loader.php:1120
+#: wp-includes/script-loader.php:1127
 msgid "There is a more recent autosave of your changes than the one you are previewing. <a href=\"%s\">Restore the autosave</a>"
 msgstr "Il existe une sauvegarde automatique de vos modifications plus récente que celle que vous en êtes en train de parcourir. <a href=\"%s\">Restaurer la sauvegarde</a>"
 
-#: wp-includes/script-loader.php:1121
+#: wp-includes/script-loader.php:1128
 msgid "This theme does not support video headers on this page. Navigate to the front page or another page that supports video headers."
 msgstr ""
 
-#: wp-includes/script-loader.php:1123
+#: wp-includes/script-loader.php:1130
 msgid "Allowed Files"
 msgstr "Fichiers autorisés"
 
 #. translators: %d: Error count.
-#: wp-includes/script-loader.php:1126
-#: wp-includes/script-loader.php:1128
+#: wp-includes/script-loader.php:1133
+#: wp-includes/script-loader.php:1135
 #: wp-includes/widgets/class-wp-widget-custom-html.php:229
 #: wp-includes/widgets/class-wp-widget-custom-html.php:231
 msgid "There is %d error which must be fixed before you can save."
@@ -12209,69 +12213,69 @@ msgid_plural "There are %d errors which must be fixed before you can save."
 msgstr[0] "Il y a %d erreur que vous devriez corriger avant d’enregistrer."
 msgstr[1] "Il y a %d erreurs que vous devriez corriger avant d’enregistrer."
 
-#: wp-includes/script-loader.php:1131
+#: wp-includes/script-loader.php:1138
 msgid "Homepage and posts page must be different."
 msgstr "La page d’accueil et la page des articles doivent être différentes."
 
-#: wp-includes/script-loader.php:1139
+#: wp-includes/script-loader.php:1146
 msgid "Schedule your customization changes to publish (\"go live\") at a future date."
 msgstr "Planifier les modifications de vos personnalisations pour être publiées à une date ultérieure."
 
-#: wp-includes/script-loader.php:1140
+#: wp-includes/script-loader.php:1147
 msgid "Sorry, you cannot preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
 msgstr ""
 
 #. translators: %s: URL to Add Themes admin screen.
-#: wp-includes/script-loader.php:1143
+#: wp-includes/script-loader.php:1150
 msgid "You will not be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
 msgstr ""
 
-#: wp-includes/script-loader.php:1146
+#: wp-includes/script-loader.php:1153
 msgid "Publish Settings"
 msgstr "Publier les réglages"
 
 #. translators: 1: Link to Site Editor documentation on HelpHub, 2: HTML button.
-#: wp-includes/script-loader.php:1151
+#: wp-includes/script-loader.php:1158
 msgid "Hurray! Your theme supports site editing with blocks. <a href=\"%1$s\">Tell me more</a>. %2$s"
 msgstr ""
 
-#: wp-includes/script-loader.php:1152
+#: wp-includes/script-loader.php:1159
 msgid "https://wordpress.org/documentation/article/site-editor/"
 msgstr ""
 
-#: wp-includes/script-loader.php:1156
+#: wp-includes/script-loader.php:1163
 msgid "Use Site Editor"
 msgstr ""
 
-#: wp-includes/script-loader.php:1329
+#: wp-includes/script-loader.php:1349
 msgid "Select an image"
 msgstr ""
 
-#: wp-includes/script-loader.php:1330
+#: wp-includes/script-loader.php:1350
 msgid "Use this image"
 msgstr ""
 
-#: wp-includes/script-loader.php:1331
+#: wp-includes/script-loader.php:1351
 msgid "Please choose an image!"
 msgstr ""
 
 #. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1383
+#: wp-includes/script-loader.php:1403
 msgctxt "Open Sans font: on or off"
 msgid "on"
 msgstr "le"
 
 #. translators: To add an additional Open Sans character subset specific to your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1390
+#: wp-includes/script-loader.php:1410
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
 msgstr ""
 
-#: wp-includes/script-loader.php:1627
+#: wp-includes/script-loader.php:1651
 msgid "Today"
 msgstr "Aujourd’hui"
 
-#: wp-includes/script-loader.php:1631
+#: wp-includes/script-loader.php:1655
 msgid "Previous"
 msgstr "Précédent"
 
