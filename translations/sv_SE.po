@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2024-10-06 12:29\n"
+"PO-Revision-Date: 2024-10-07 20:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2240,220 +2240,220 @@ msgstr "Infoga/redigera länk"
 
 #: wp-includes/class-wp-editor.php:1256
 msgid "Remove link"
-msgstr ""
+msgstr "Ta bort länk"
 
 #: wp-includes/class-wp-editor.php:1259
 msgid "Link"
-msgstr ""
+msgstr "Länk"
 
 #: wp-includes/class-wp-editor.php:1260
 #: wp-includes/script-loader.php:574
 msgid "Insert link"
-msgstr ""
+msgstr "Infoga länk"
 
 #: wp-includes/class-wp-editor.php:1262
 msgid "Target"
-msgstr ""
+msgstr "Mål"
 
 #: wp-includes/class-wp-editor.php:1263
 msgid "New window"
-msgstr ""
+msgstr "Nytt fönster"
 
 #: wp-includes/class-wp-editor.php:1264
 msgid "Text to display"
-msgstr ""
+msgstr "Text som visas"
 
 #: wp-includes/class-wp-editor.php:1267
 msgid "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?"
-msgstr ""
+msgstr "URL:en du skrivit verkar vara en en epostadress. Vill du lägga till prefixet mailto:?"
 
 #: wp-includes/class-wp-editor.php:1269
 msgid "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?"
-msgstr ""
+msgstr "URL:en du skrivit in verkar vara en extern länk. Vill du lägga till det nödvändiga http://?"
 
 #: wp-includes/class-wp-editor.php:1271
 msgid "Color"
-msgstr ""
+msgstr "Färg"
 
 #: wp-includes/class-wp-editor.php:1272
 msgid "Custom color"
-msgstr ""
+msgstr "Anpassad färg"
 
 #: wp-includes/class-wp-editor.php:1273
 msgctxt "label for custom color"
 msgid "Custom..."
-msgstr ""
+msgstr "Anpassa..."
 
 #: wp-includes/class-wp-editor.php:1274
 msgid "No color"
-msgstr ""
+msgstr "Ingen färg"
 
 #: wp-includes/class-wp-editor.php:1275
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1276
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1277
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1280
 msgid "Could not find the specified string."
-msgstr ""
+msgstr "Kunde inte hitta den specifika strängen"
 
 #: wp-includes/class-wp-editor.php:1281
 msgctxt "find/replace"
 msgid "Replace"
-msgstr ""
+msgstr "Ersätt"
 
 #: wp-includes/class-wp-editor.php:1282
 msgctxt "find/replace"
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 #. translators: Previous.
 #: wp-includes/class-wp-editor.php:1284
 msgctxt "find/replace"
 msgid "Prev"
-msgstr ""
+msgstr "Föregående"
 
 #: wp-includes/class-wp-editor.php:1285
 msgctxt "find/replace"
 msgid "Whole words"
-msgstr ""
+msgstr "Hela ord"
 
 #: wp-includes/class-wp-editor.php:1286
 msgid "Find and replace"
-msgstr ""
+msgstr "Sök och ersätt"
 
 #: wp-includes/class-wp-editor.php:1287
 msgctxt "find/replace"
 msgid "Replace with"
-msgstr ""
+msgstr "Ersätt med"
 
 #: wp-includes/class-wp-editor.php:1288
 msgctxt "find/replace"
 msgid "Find"
-msgstr ""
+msgstr "Sök"
 
 #: wp-includes/class-wp-editor.php:1289
 msgctxt "find/replace"
 msgid "Replace all"
-msgstr ""
+msgstr "Ersätt alla"
 
 #: wp-includes/class-wp-editor.php:1290
 msgid "Match case"
-msgstr ""
+msgstr "Matcha stor/liten bokstav"
 
 #: wp-includes/class-wp-editor.php:1291
 msgid "Check Spelling"
-msgstr ""
+msgstr "Kontrollera stavning"
 
 #: wp-includes/class-wp-editor.php:1292
 msgctxt "spellcheck"
 msgid "Finish"
-msgstr ""
+msgstr "Avsluta"
 
 #: wp-includes/class-wp-editor.php:1293
 msgctxt "spellcheck"
 msgid "Ignore all"
-msgstr ""
+msgstr "Ignorera alla"
 
 #: wp-includes/class-wp-editor.php:1294
 msgctxt "spellcheck"
 msgid "Ignore"
-msgstr ""
+msgstr "Ignorera"
 
 #: wp-includes/class-wp-editor.php:1295
 msgid "Add to Dictionary"
-msgstr ""
+msgstr "Lägg till i ordlistan"
 
 #: wp-includes/class-wp-editor.php:1298
 msgid "Insert table"
-msgstr ""
+msgstr "Infoga tabell"
 
 #: wp-includes/class-wp-editor.php:1299
 msgid "Delete table"
-msgstr ""
+msgstr "Radera tabell"
 
 #: wp-includes/class-wp-editor.php:1300
 msgid "Table properties"
-msgstr ""
+msgstr "Egenskaper för tabell"
 
 #: wp-includes/class-wp-editor.php:1301
 msgid "Table row properties"
-msgstr ""
+msgstr "Egenskaper för tabellrad"
 
 #: wp-includes/class-wp-editor.php:1302
 msgid "Table cell properties"
-msgstr ""
+msgstr "Egenskaper för tabellcell"
 
 #: wp-includes/class-wp-editor.php:1303
 msgid "Border color"
-msgstr ""
+msgstr "Kantfärg"
 
 #: wp-includes/class-wp-editor.php:1305
 msgid "Row"
-msgstr ""
+msgstr "Rad"
 
 #: wp-includes/class-wp-editor.php:1306
 msgid "Rows"
-msgstr ""
+msgstr "Rader"
 
 #: wp-includes/class-wp-editor.php:1307
 msgid "Column"
-msgstr ""
+msgstr "Kolumn"
 
 #: wp-includes/class-wp-editor.php:1308
 #: wp-includes/media-template.php:966
 msgid "Columns"
-msgstr ""
+msgstr "Kolumner"
 
 #: wp-includes/class-wp-editor.php:1309
 msgctxt "table cell"
 msgid "Cell"
-msgstr ""
+msgstr "Cell"
 
 #: wp-includes/class-wp-editor.php:1310
 msgid "Header cell"
-msgstr ""
+msgstr "Rubrikcell"
 
 #: wp-includes/class-wp-editor.php:1311
 msgctxt "table header"
 msgid "Header"
-msgstr ""
+msgstr "Rubrik"
 
 #: wp-includes/class-wp-editor.php:1312
 msgctxt "table body"
 msgid "Body"
-msgstr ""
+msgstr "Body"
 
 #: wp-includes/class-wp-editor.php:1313
 msgctxt "table footer"
 msgid "Footer"
-msgstr ""
+msgstr "Footer"
 
 #: wp-includes/class-wp-editor.php:1315
 msgid "Insert row before"
-msgstr ""
+msgstr "Infoga rad före"
 
 #: wp-includes/class-wp-editor.php:1316
 msgid "Insert row after"
-msgstr ""
+msgstr "Infoga rad efter"
 
 #: wp-includes/class-wp-editor.php:1317
 msgid "Insert column before"
-msgstr ""
+msgstr "Infoga kolumn före"
 
 #: wp-includes/class-wp-editor.php:1318
 msgid "Insert column after"
-msgstr ""
+msgstr "Infoga kolumn efter"
 
 #: wp-includes/class-wp-editor.php:1319
 msgid "Paste table row before"
@@ -2801,7 +2801,7 @@ msgstr "Varning: länken är infogad men kan innehålla fel. Testa den."
 #: wp-includes/class-wp-editor.php:1413
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:377
 msgid "To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons."
-msgstr ""
+msgstr "För att flytta fokus till andra knappar, använd tabb eller piltangenterna. För att flytta tillbaka fokus till redigeraren tryck Escape eller använd någon av knapparna."
 
 #: wp-includes/class-wp-editor.php:1415
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:349
