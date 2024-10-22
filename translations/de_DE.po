@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-08-19 01:40\n"
+"PO-Revision-Date: 2024-10-22 20:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -477,7 +477,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\">
 #: wp-admin/upload.php:67 wp-admin/upload.php:213 wp-admin/user-edit.php:62
 #: wp-admin/user-new.php:221 wp-admin/users.php:69 wp-admin/widgets.php:77
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support-Foren</a>"
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:255
 #: wp-admin/edit-comments.php:234 wp-includes/class-wp-xmlrpc-server.php:3312
@@ -699,7 +699,7 @@ msgstr "Unbekannte Aktion."
 #. translators: %s: https://www.classicpress.net/contributors/
 #: wp-admin/credits.php:48
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr ""
+msgstr "ClassicPress wird von einem <a href=\"%1$s\">weltweiten Team</a> aus leidenschaftlichen Menschen gemacht."
 
 #. translators: %s: https://www.classicpress.net/get-involved/
 #: wp-admin/credits.php:54
