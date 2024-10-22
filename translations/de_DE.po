@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-10-06 12:28\n"
+"PO-Revision-Date: 2024-10-22 08:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7292,7 +7292,7 @@ msgstr "Dateien auswählen"
 #. translators: 1: Name of media category, 2: Link to Media page in admin.
 #: wp-includes/media-template.php:295
 msgid "<p class=\"media-cat-upload-info\">Any files you upload here will be associated with the %1$s media category.</p><p class=\"media-cat-upload-info\">If you want to change this to a different media category, you can do so on the main <a href=\"%2$s\">Media</a> page.</p>"
-msgstr ""
+msgstr "<p class=\"media-cat-upload-info\">Alle Dateien, die du hier hochlädst, werden der Medienkategorie %1$s zugeordnet.</p><p class=\"media-cat-upload-info\">Wenn du diese in eine andere Kategorie ändern möchten, kannst du dies auf der <a href=\"%2$s\">Medien-Hauptseite</a> tun.</p>"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-includes/media-template.php:313
@@ -7450,7 +7450,7 @@ msgstr "Anhang-Seite anschauen"
 
 #: wp-includes/media-template.php:567
 msgid "View media file"
-msgstr ""
+msgstr "Mediendatei anzeigen"
 
 #: wp-includes/media-template.php:575
 msgid "Edit more details"
