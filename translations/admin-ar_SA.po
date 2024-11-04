@@ -12,12 +12,12 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
-"X-Crowdin-Language: ar\n"
+"X-Crowdin-Language: ar-SA\n"
 "X-Crowdin-File: /v2/admin-en_US.pot\n"
 "X-Crowdin-File-ID: 16\n"
-"Language-Team: Arabic\n"
+"Language-Team: Arabic, Saudi Arabia\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-11-03 12:58\n"
+"PO-Revision-Date: 2024-11-04 01:02\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
