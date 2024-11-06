@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-11-04 20:00\n"
+"PO-Revision-Date: 2024-11-06 22:01\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -729,7 +729,7 @@ msgstr ""
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
 msgid "Background"
-msgstr ""
+msgstr "الخلفية"
 
 #: wp-admin/custom-background.php:89
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
