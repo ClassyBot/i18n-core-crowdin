@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-11-04 20:01\n"
+"PO-Revision-Date: 2024-11-06 22:01\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -255,7 +255,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:1030
 msgid "Background"
-msgstr ""
+msgstr "الخلفية"
 
 #: wp-includes/admin-bar.php:1044
 msgid "Header"
