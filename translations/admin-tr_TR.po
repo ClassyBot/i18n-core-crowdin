@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-06T12:22:18+00:00\n"
+"POT-Creation-Date: 2024-11-16T08:51:44+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-10-06 12:29\n"
+"PO-Revision-Date: 2024-11-16 08:55\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -38,8 +38,8 @@ msgstr "ClassicPress&#8217;e hoşgeldiniz!"
 #: wp-admin/about.php:23
 #: wp-admin/credits.php:25
 #: wp-admin/freedoms.php:39
-#: wp-admin/includes/ajax-actions.php:4742
-#: wp-admin/includes/ajax-actions.php:4785
+#: wp-admin/includes/ajax-actions.php:4751
+#: wp-admin/includes/ajax-actions.php:4794
 #: wp-admin/includes/class-wp-debug-data.php:917
 #: wp-admin/includes/class-wp-debug-data.php:964
 #: wp-admin/includes/class-wp-debug-data.php:1286
@@ -390,17 +390,17 @@ msgstr "Geçersiz yazı türü."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3303
-#: wp-admin/upload.php:589
+#: wp-admin/upload.php:591
 msgid "Copy URL to clipboard"
 msgstr ""
 
 #: wp-admin/async-upload.php:73
-#: wp-admin/includes/ajax-actions.php:3375
+#: wp-admin/includes/ajax-actions.php:3384
 #: wp-admin/includes/class-wp-media-list-table.php:1018
 #: wp-admin/includes/class-wp-privacy-policy-content.php:409
 #: wp-admin/includes/media.php:3304
 #: wp-admin/site-health-info.php:55
-#: wp-admin/upload.php:590
+#: wp-admin/upload.php:592
 msgid "Copied!"
 msgstr ""
 
@@ -571,8 +571,8 @@ msgstr "Yorumu Düzenle"
 #: wp-admin/theme-install.php:127
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:842
-#: wp-admin/upload.php:151
-#: wp-admin/upload.php:771
+#: wp-admin/upload.php:152
+#: wp-admin/upload.php:773
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -625,8 +625,8 @@ msgstr "Durum kutusunu kullanarak bu ekrandan yorumları kontrol edebilirsiniz, 
 #: wp-admin/themes.php:206
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:863
-#: wp-admin/upload.php:171
-#: wp-admin/upload.php:803
+#: wp-admin/upload.php:172
+#: wp-admin/upload.php:805
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -671,8 +671,8 @@ msgstr ""
 #: wp-admin/theme-install.php:148
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
-#: wp-admin/upload.php:173
-#: wp-admin/upload.php:805
+#: wp-admin/upload.php:174
+#: wp-admin/upload.php:807
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -772,7 +772,7 @@ msgstr "Uyarı:"
 #. translators: Hidden accessibility text.
 #: wp-admin/comment.php:172
 #: wp-admin/edit-form-comment.php:48
-#: wp-admin/includes/ajax-actions.php:3386
+#: wp-admin/includes/ajax-actions.php:3395
 #: wp-admin/includes/class-plugin-installer-skin.php:218
 #: wp-admin/includes/class-theme-installer-skin.php:241
 #: wp-admin/includes/class-wp-comments-list-table.php:469
@@ -861,7 +861,7 @@ msgstr "Yorum"
 
 #: wp-admin/comment.php:238
 #: wp-admin/edit-form-comment.php:159
-#: wp-admin/includes/ajax-actions.php:3366
+#: wp-admin/includes/ajax-actions.php:3375
 #: wp-admin/includes/class-wp-comments-list-table.php:810
 #: wp-admin/includes/class-wp-links-list-table.php:337
 #: wp-admin/includes/class-wp-media-list-table.php:190
@@ -1111,7 +1111,7 @@ msgstr "Yorumlar (%s)"
 #. translators: Default privacy policy heading.
 #: wp-admin/edit-comments.php:180
 #: wp-admin/edit-comments.php:241
-#: wp-admin/includes/ajax-actions.php:3400
+#: wp-admin/includes/ajax-actions.php:3409
 #: wp-admin/includes/class-wp-comments-list-table.php:501
 #: wp-admin/includes/class-wp-media-list-table.php:413
 #: wp-admin/includes/class-wp-media-list-table.php:415
@@ -1184,7 +1184,7 @@ msgstr "Yorum listesi"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:737
-#: wp-admin/upload.php:839
+#: wp-admin/upload.php:841
 #: wp-admin/users.php:638
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1637,9 +1637,8 @@ msgstr "Yorum"
 #: wp-admin/includes/meta-boxes.php:1135
 #: wp-admin/includes/meta-boxes.php:1617
 #: wp-admin/includes/widgets.php:277
-#: wp-admin/js/widgets.js:202
-#: wp-admin/js/widgets.js:429
-#: wp-admin/js/widgets/custom-html-widgets.js:261
+#: wp-admin/js/widgets.js:204
+#: wp-admin/js/widgets.js:430
 msgid "Save"
 msgstr "Kaydet"
 
@@ -1710,7 +1709,7 @@ msgid "In reply to: %s"
 msgstr "%s için yanıt"
 
 #: wp-admin/edit-form-comment.php:242
-#: wp-admin/includes/ajax-actions.php:3368
+#: wp-admin/includes/ajax-actions.php:3377
 #: wp-admin/includes/class-wp-comments-list-table.php:793
 #: wp-admin/includes/class-wp-media-list-table.php:934
 #: wp-admin/includes/class-wp-media-list-table.php:996
@@ -1831,7 +1830,7 @@ msgstr ""
 #: wp-admin/edit-link-form.php:130
 #: wp-admin/edit-tag-form.php:203
 #: wp-admin/edit-tags.php:511
-#: wp-admin/includes/ajax-actions.php:3413
+#: wp-admin/includes/ajax-actions.php:3422
 #: wp-admin/includes/class-walker-nav-menu-edit.php:232
 #: wp-admin/includes/class-wp-media-list-table.php:1309
 #: wp-admin/includes/class-wp-plugins-list-table.php:462
@@ -1840,7 +1839,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3220
 #: wp-admin/includes/nav-menu.php:1129
 #: wp-admin/themes.php:620
-#: wp-admin/upload.php:582
+#: wp-admin/upload.php:584
 msgid "Description"
 msgstr "Tanım"
 
@@ -1926,7 +1925,7 @@ msgstr "Üzgünüm, bu sınıflandırma içinde yeni terim oluşturmanıza izin 
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:735
+#: wp-admin/upload.php:737
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "Üzgünüm, bu ogeyi silmenize izin verilmiyor."
 
@@ -1950,7 +1949,7 @@ msgstr ""
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:687
+#: wp-admin/upload.php:689
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "Üzgünüm, bu ögeyi düzenlemenize izin verilmiyor."
 
@@ -2046,31 +2045,31 @@ msgstr "Üzgünüm, bu yazı tipindeki yazıları düzenlemenize izin verilmiyor
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:699
+#: wp-admin/upload.php:701
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "Üzgünüm, bu ogeyi çöpe taşımanıza izin verilmiyor."
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:703
+#: wp-admin/upload.php:705
 msgid "Error in moving the item to Trash."
 msgstr ""
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:720
+#: wp-admin/upload.php:722
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "Üzgünüm, bu ogeyi çöpten geri almanıza izin verilmiyor."
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:724
+#: wp-admin/upload.php:726
 msgid "Error in restoring the item from Trash."
 msgstr ""
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:739
+#: wp-admin/upload.php:741
 msgid "Error in deleting the attachment."
 msgstr ""
 
@@ -2109,7 +2108,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "Yazıların üstünde yer alan açılır menü yardımıyla sadece belirli bir kategorideki yazıları ya da belirli bir aya ait yazıları gösterecek şekilde listeyi düzenleyebilirsiniz. Seçiminizi yaptıktan sonra Filtrele tuşuna basın. Ayrıca yazı listesinde yer alan yazar, kategori ya da etiketlere tıklayarak da listeyi düzenleyebilirsiniz."
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:781
+#: wp-admin/upload.php:783
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "Yapılabilecek işlemler"
@@ -2716,7 +2715,7 @@ msgstr "%s hakkında daha fazla bilgi"
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
-#: wp-admin/upload.php:540
+#: wp-admin/upload.php:542
 msgid "Details"
 msgstr "Ayrıntılar"
 
@@ -2856,7 +2855,7 @@ msgid "Item not updated."
 msgstr "Öge güncellenmedi."
 
 #: wp-admin/includes/ajax-actions.php:2176
-#: wp-admin/includes/ajax-actions.php:4045
+#: wp-admin/includes/ajax-actions.php:4054
 #: wp-admin/includes/class-wp-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:92
 msgid "No items found."
@@ -2869,7 +2868,7 @@ msgstr "Herhangi bir öge bulunamadı."
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2591
 #: wp-admin/includes/media.php:2914
-#: wp-admin/upload.php:571
+#: wp-admin/upload.php:573
 msgid "Title"
 msgstr "Başlık"
 
@@ -2878,7 +2877,7 @@ msgid "Type"
 msgstr "Tip"
 
 #: wp-admin/includes/ajax-actions.php:2179
-#: wp-admin/includes/ajax-actions.php:3414
+#: wp-admin/includes/ajax-actions.php:3423
 #: wp-admin/includes/class-wp-media-list-table.php:1207
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
@@ -2959,19 +2958,19 @@ msgstr ""
 msgid "You need to choose a media category folder before you can upload a file."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3349
+#: wp-admin/includes/ajax-actions.php:3358
 msgid "Select "
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3352
+#: wp-admin/includes/ajax-actions.php:3361
 msgid "File"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3362
+#: wp-admin/includes/ajax-actions.php:3371
 msgid "File name: "
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3370
+#: wp-admin/includes/ajax-actions.php:3379
 #: wp-admin/includes/class-wp-media-list-table.php:945
 #: wp-admin/includes/class-wp-media-list-table.php:1008
 #: wp-admin/includes/class-wp-posts-list-table.php:1509
@@ -2981,20 +2980,20 @@ msgstr ""
 msgid "View"
 msgstr "Görüntüle"
 
-#: wp-admin/includes/ajax-actions.php:3374
+#: wp-admin/includes/ajax-actions.php:3383
 #: wp-admin/includes/class-wp-media-list-table.php:1017
 msgid "Copy URL"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3379
+#: wp-admin/includes/ajax-actions.php:3388
 #: wp-admin/includes/class-wp-media-list-table.php:1026
 #: wp-admin/includes/media.php:3308
-#: wp-admin/upload.php:627
+#: wp-admin/upload.php:629
 msgid "Download file"
 msgstr ""
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/ajax-actions.php:3382
+#: wp-admin/includes/ajax-actions.php:3391
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:258
 #: wp-admin/includes/class-wp-comments-list-table.php:882
 #: wp-admin/includes/class-wp-list-table.php:650
@@ -3003,84 +3002,84 @@ msgstr ""
 msgid "Show more details"
 msgstr "Daha fazla detay göster"
 
-#: wp-admin/includes/ajax-actions.php:3390
+#: wp-admin/includes/ajax-actions.php:3399
 #: wp-admin/includes/class-wp-media-list-table.php:1117
 #: wp-admin/includes/class-wp-media-list-table.php:1259
 msgid "Media Categories"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3392
+#: wp-admin/includes/ajax-actions.php:3401
 #: wp-admin/includes/class-wp-media-list-table.php:1141
 #: wp-admin/includes/class-wp-media-list-table.php:1282
 msgid "Media Tags"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3394
+#: wp-admin/includes/ajax-actions.php:3403
 msgid "Featured Image"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3396
+#: wp-admin/includes/ajax-actions.php:3405
 msgid "Used In"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3398
+#: wp-admin/includes/ajax-actions.php:3407
 msgid "Uploaded to"
 msgstr ""
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/ajax-actions.php:3403
+#: wp-admin/includes/ajax-actions.php:3412
 #: wp-admin/includes/class-wp-list-table.php:839
 #: wp-admin/includes/class-wp-list-table.php:873
 #: wp-admin/includes/class-wp-list-table.php:900
 msgid "No comments"
 msgstr "Yorum yapılmamış"
 
-#: wp-admin/includes/ajax-actions.php:3411
+#: wp-admin/includes/ajax-actions.php:3420
 #: wp-admin/includes/class-wp-media-list-table.php:1295
 msgid "Alt Text"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3412
+#: wp-admin/includes/ajax-actions.php:3421
 #: wp-admin/includes/class-wp-media-list-table.php:1302
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3203
-#: wp-admin/upload.php:578
+#: wp-admin/upload.php:580
 msgid "Caption"
 msgstr "Altyazı"
 
 #. translators: %s: URL that could not be embedded.
-#: wp-admin/includes/ajax-actions.php:3937
+#: wp-admin/includes/ajax-actions.php:3946
 msgid "%s failed to embed."
 msgstr "%s gömmesi başarısız."
 
-#: wp-admin/includes/ajax-actions.php:3971
+#: wp-admin/includes/ajax-actions.php:3980
 msgid "This preview is unavailable in the editor."
 msgstr "Bu önizleme düzenleyici içinden yapılamaz."
 
-#: wp-admin/includes/ajax-actions.php:4100
+#: wp-admin/includes/ajax-actions.php:4109
 msgid "Could not log out user sessions. Please try again."
 msgstr "Kullanıcı oturumlarından çıkış yapılamadı. Lütfen tekrar deneyin."
 
-#: wp-admin/includes/ajax-actions.php:4109
+#: wp-admin/includes/ajax-actions.php:4118
 msgid "You are now logged out everywhere else."
 msgstr "Artık geri kalan her yerde çıkış yapmış durumdasınız."
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:4113
+#: wp-admin/includes/ajax-actions.php:4122
 msgid "%s has been logged out."
 msgstr "%s için çıkış yapıldı."
 
-#: wp-admin/includes/ajax-actions.php:4138
+#: wp-admin/includes/ajax-actions.php:4147
 msgid "Image could not be processed."
 msgstr "Görsel işlenemedi."
 
-#: wp-admin/includes/ajax-actions.php:4314
-#: wp-admin/includes/ajax-actions.php:4439
-#: wp-admin/includes/ajax-actions.php:4534
+#: wp-admin/includes/ajax-actions.php:4323
+#: wp-admin/includes/ajax-actions.php:4448
+#: wp-admin/includes/ajax-actions.php:4543
 msgid "No theme specified."
 msgstr "Temea belirtilmedi."
 
-#: wp-admin/includes/ajax-actions.php:4327
+#: wp-admin/includes/ajax-actions.php:4336
 #: wp-admin/theme-install.php:19
 #: wp-admin/update.php:286
 #: wp-admin/update.php:328
@@ -3088,32 +3087,32 @@ msgstr "Temea belirtilmedi."
 msgid "Sorry, you are not allowed to install themes on this site."
 msgstr "Üzgünüm, bu siteye tema yüklemenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4370
-#: wp-admin/includes/ajax-actions.php:4502
-#: wp-admin/includes/ajax-actions.php:4566
-#: wp-admin/includes/ajax-actions.php:4666
-#: wp-admin/includes/ajax-actions.php:4793
-#: wp-admin/includes/ajax-actions.php:4862
+#: wp-admin/includes/ajax-actions.php:4379
+#: wp-admin/includes/ajax-actions.php:4511
+#: wp-admin/includes/ajax-actions.php:4575
+#: wp-admin/includes/ajax-actions.php:4675
+#: wp-admin/includes/ajax-actions.php:4802
+#: wp-admin/includes/ajax-actions.php:4871
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr "Dosya sistemine bağlanılamıyor. Lütfen oturum bilgilerinizi kontrol edin."
 
-#: wp-admin/includes/ajax-actions.php:4453
+#: wp-admin/includes/ajax-actions.php:4462
 #: wp-admin/update.php:235
 #: wp-admin/update.php:258
 msgid "Sorry, you are not allowed to update themes for this site."
 msgstr "Üzgünüm, bu sitedeki temaları güncellemenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4513
+#: wp-admin/includes/ajax-actions.php:4522
 #: wp-admin/includes/class-theme-upgrader.php:63
 #: wp-admin/includes/class-theme-upgrader.php:100
 msgid "Theme update failed."
 msgstr "Tema güncellemesi başarısız."
 
-#: wp-admin/includes/ajax-actions.php:4546
+#: wp-admin/includes/ajax-actions.php:4555
 msgid "Sorry, you are not allowed to delete themes on this site."
 msgstr "Üzgünüm, bu siteden tema silmenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4551
+#: wp-admin/includes/ajax-actions.php:4560
 #: wp-admin/includes/file.php:440
 #: wp-admin/includes/file.php:450
 #: wp-admin/theme-editor.php:70
@@ -3123,17 +3122,17 @@ msgstr "Üzgünüm, bu siteden tema silmenize izin verilmiyor."
 msgid "The requested theme does not exist."
 msgstr "İstenen tema mevcut değil."
 
-#: wp-admin/includes/ajax-actions.php:4584
+#: wp-admin/includes/ajax-actions.php:4593
 msgid "Theme could not be deleted."
 msgstr "Tema silinemedi."
 
-#: wp-admin/includes/ajax-actions.php:4608
-#: wp-admin/includes/ajax-actions.php:4717
-#: wp-admin/includes/ajax-actions.php:4825
+#: wp-admin/includes/ajax-actions.php:4617
+#: wp-admin/includes/ajax-actions.php:4726
+#: wp-admin/includes/ajax-actions.php:4834
 msgid "No plugin specified."
 msgstr "Hiç eklenti belirtilmedi"
 
-#: wp-admin/includes/ajax-actions.php:4619
+#: wp-admin/includes/ajax-actions.php:4628
 #: wp-admin/plugin-install.php:19
 #: wp-admin/update.php:107
 #: wp-admin/update.php:176
@@ -3141,240 +3140,240 @@ msgstr "Hiç eklenti belirtilmedi"
 msgid "Sorry, you are not allowed to install plugins on this site."
 msgstr "Üzgünüm, bu siteye eklenti yüklemenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4732
+#: wp-admin/includes/ajax-actions.php:4741
 #: wp-admin/update.php:29
 #: wp-admin/update.php:57
 #: wp-admin/update.php:80
 msgid "Sorry, you are not allowed to update plugins for this site."
 msgstr "Üzgünüm, bu sitede eklentileri güncellemenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4804
+#: wp-admin/includes/ajax-actions.php:4813
 #: wp-admin/includes/class-plugin-upgrader.php:64
 #: wp-admin/includes/class-plugin-upgrader.php:91
 msgid "Plugin update failed."
 msgstr "Eklenti güncellemesi başarısız."
 
-#: wp-admin/includes/ajax-actions.php:4838
+#: wp-admin/includes/ajax-actions.php:4847
 #: wp-admin/plugins.php:269
 msgid "Sorry, you are not allowed to delete plugins for this site."
 msgstr "Üzgünüm, bu sitede eklentileri silmenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:4847
+#: wp-admin/includes/ajax-actions.php:4856
 #: wp-admin/plugins.php:623
 msgid "You cannot delete a plugin while it is active on the main site."
 msgstr "Ana sitede etkin durumdayken bir eklentiyi silemezsiniz."
 
-#: wp-admin/includes/ajax-actions.php:4878
+#: wp-admin/includes/ajax-actions.php:4887
 msgid "Plugin could not be deleted."
 msgstr "Eklenti silinemedi."
 
-#: wp-admin/includes/ajax-actions.php:4914
-#: wp-admin/includes/ajax-actions.php:4966
+#: wp-admin/includes/ajax-actions.php:4923
+#: wp-admin/includes/ajax-actions.php:4975
 #: wp-admin/plugins.php:13
 msgid "Sorry, you are not allowed to manage plugins for this site."
 msgstr "Üzgünüm, bu sitede eklentileri yönetmenize izin verilmiyor."
 
-#: wp-admin/includes/ajax-actions.php:5015
+#: wp-admin/includes/ajax-actions.php:5024
 #: wp-admin/plugin-editor.php:187
 #: wp-admin/theme-editor.php:194
 msgid "File edited successfully."
 msgstr "Dosya başarılı bir şekilde düzenlendi."
 
-#: wp-admin/includes/ajax-actions.php:5029
-#: wp-admin/includes/ajax-actions.php:5219
+#: wp-admin/includes/ajax-actions.php:5038
+#: wp-admin/includes/ajax-actions.php:5228
 msgid "Missing request ID."
 msgstr "Kayıp istek no."
 
-#: wp-admin/includes/ajax-actions.php:5035
-#: wp-admin/includes/ajax-actions.php:5225
+#: wp-admin/includes/ajax-actions.php:5044
+#: wp-admin/includes/ajax-actions.php:5234
 msgid "Invalid request ID."
 msgstr "Geçersiz istek no."
 
-#: wp-admin/includes/ajax-actions.php:5039
-#: wp-admin/includes/ajax-actions.php:5230
+#: wp-admin/includes/ajax-actions.php:5048
+#: wp-admin/includes/ajax-actions.php:5239
 msgid "Sorry, you are not allowed to perform this action."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5048
-#: wp-admin/includes/ajax-actions.php:5239
+#: wp-admin/includes/ajax-actions.php:5057
+#: wp-admin/includes/ajax-actions.php:5248
 msgid "Invalid request type."
 msgstr "Geçersiz istek tipi."
 
-#: wp-admin/includes/ajax-actions.php:5053
+#: wp-admin/includes/ajax-actions.php:5062
 msgid "A valid email address must be given."
 msgstr "Geçerli bir e-posta adresi verilmelidir."
 
-#: wp-admin/includes/ajax-actions.php:5057
+#: wp-admin/includes/ajax-actions.php:5066
 msgid "Missing exporter index."
 msgstr "Kayıp dışa aktaran indisi."
 
-#: wp-admin/includes/ajax-actions.php:5063
-#: wp-admin/includes/ajax-actions.php:5255
+#: wp-admin/includes/ajax-actions.php:5072
+#: wp-admin/includes/ajax-actions.php:5264
 msgid "Missing page index."
 msgstr "Kayıp sayfa indeksi."
 
-#: wp-admin/includes/ajax-actions.php:5092
+#: wp-admin/includes/ajax-actions.php:5101
 msgid "An exporter has improperly used the registration filter."
 msgstr "Bir dışa aktaran kayıt filtresini yanlış kullanmıştır."
 
-#: wp-admin/includes/ajax-actions.php:5098
+#: wp-admin/includes/ajax-actions.php:5107
 msgid "Exporter index cannot be negative."
 msgstr "Dışa aktaran indisi negatif olamaz."
 
-#: wp-admin/includes/ajax-actions.php:5102
+#: wp-admin/includes/ajax-actions.php:5111
 msgid "Exporter index is out of range."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5106
-#: wp-admin/includes/ajax-actions.php:5294
+#: wp-admin/includes/ajax-actions.php:5115
+#: wp-admin/includes/ajax-actions.php:5303
 msgid "Page index cannot be less than one."
 msgstr "Sayfa indeksi birden küçük olamaz."
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:5116
+#: wp-admin/includes/ajax-actions.php:5125
 msgid "Expected an array describing the exporter at index %s."
 msgstr "%s indisindeki dışa aktaranı açıklayan bir dizi bekleniyordu."
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:5123
+#: wp-admin/includes/ajax-actions.php:5132
 msgid "Exporter array at index %s does not include a friendly name."
 msgstr "%s indisindeki dışa aktaran dizisi, kolay bir isim içermiyor."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5132
+#: wp-admin/includes/ajax-actions.php:5141
 msgid "Exporter does not include a callback: %s."
 msgstr "Dışa aktaran geri çağrı içermez: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5139
+#: wp-admin/includes/ajax-actions.php:5148
 msgid "Exporter callback is not a valid callback: %s."
 msgstr "Dışa aktaran geri çağrısı geçerli bir geri çağrı değil: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5153
+#: wp-admin/includes/ajax-actions.php:5162
 msgid "Expected response as an array from exporter: %s."
 msgstr "Dışa aktarandan bir dizi olarak yanıt bekleniyordu: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5160
+#: wp-admin/includes/ajax-actions.php:5169
 msgid "Expected data in response array from exporter: %s."
 msgstr "Dışa aktarandan gelen yanıt dizisinde veri bekleniyordu: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5167
+#: wp-admin/includes/ajax-actions.php:5176
 msgid "Expected data array in response array from exporter: %s."
 msgstr "Dışa aktarandan gelen yanıt dizisinde veri dizisi bekleniyordu: %s."
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5174
+#: wp-admin/includes/ajax-actions.php:5183
 msgid "Expected done (boolean) in response array from exporter: %s."
 msgstr "Dışa aktarandan gelen yanıt dizisinde tamam yanıtı (boolean) bekleniyordu: %s."
 
-#: wp-admin/includes/ajax-actions.php:5245
+#: wp-admin/includes/ajax-actions.php:5254
 msgid "Invalid email address in request."
 msgstr "İstekte geçersiz e-posta adresi."
 
-#: wp-admin/includes/ajax-actions.php:5249
+#: wp-admin/includes/ajax-actions.php:5258
 msgid "Missing eraser index."
 msgstr "Kayıp silen indisi."
 
-#: wp-admin/includes/ajax-actions.php:5286
+#: wp-admin/includes/ajax-actions.php:5295
 msgid "Eraser index cannot be less than one."
 msgstr "Silen indisi birden küçük olamaz."
 
-#: wp-admin/includes/ajax-actions.php:5290
+#: wp-admin/includes/ajax-actions.php:5299
 msgid "Eraser index is out of range."
 msgstr "Dışa aktaran indisi aralık dışı."
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5303
+#: wp-admin/includes/ajax-actions.php:5312
 msgid "Expected an array describing the eraser at index %d."
 msgstr "%d indisindeki silen kişiyi açıklayan bir dizi bekleniyordu."
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5308
+#: wp-admin/includes/ajax-actions.php:5317
 msgid "Eraser array at index %d does not include a friendly name."
 msgstr "%d indisindeki silen dizisi, kolay bir isim içermiyor."
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5317
+#: wp-admin/includes/ajax-actions.php:5326
 msgid "Eraser does not include a callback: %s."
 msgstr ""
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5327
+#: wp-admin/includes/ajax-actions.php:5336
 msgid "Eraser callback is not valid: %s."
 msgstr ""
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5344
+#: wp-admin/includes/ajax-actions.php:5353
 msgid "Did not receive array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) dizi alınmadı."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5355
+#: wp-admin/includes/ajax-actions.php:5364
 msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) gelen yanıt dizisinde items_removed anahtarı bekleniyordu."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5366
+#: wp-admin/includes/ajax-actions.php:5375
 msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) gelen yanıt dizisinde items_retained anahtarı bekleniyordu."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5377
+#: wp-admin/includes/ajax-actions.php:5386
 msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) gelen yanıt dizisinde mesaj anahtarları bekleniyordu."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5388
+#: wp-admin/includes/ajax-actions.php:5397
 msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) gelen yanıt dizisinde mesaj anahtarlarının bir diziye referans olması bekleniyordu."
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5399
+#: wp-admin/includes/ajax-actions.php:5408
 msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
 msgstr "%1$s kişisinden (indis %2$d) gelen yanıt dizisinde tamam işareti (boolean) bekleniyordu."
 
 #. translators: 1: The Site Health action that is no longer used by core. 2: The new function that replaces it.
-#: wp-admin/includes/ajax-actions.php:5452
-#: wp-admin/includes/ajax-actions.php:5485
-#: wp-admin/includes/ajax-actions.php:5518
-#: wp-admin/includes/ajax-actions.php:5568
+#: wp-admin/includes/ajax-actions.php:5461
+#: wp-admin/includes/ajax-actions.php:5494
+#: wp-admin/includes/ajax-actions.php:5527
+#: wp-admin/includes/ajax-actions.php:5577
 msgid "The Site Health check for %1$s has been replaced with %2$s."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5640
+#: wp-admin/includes/ajax-actions.php:5649
 msgid "Invalid data. No selected item."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5646
+#: wp-admin/includes/ajax-actions.php:5655
 msgid "Invalid data. Unknown state."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5651
-#: wp-admin/includes/ajax-actions.php:5676
+#: wp-admin/includes/ajax-actions.php:5660
+#: wp-admin/includes/ajax-actions.php:5685
 msgid "Invalid data. Unknown type."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5658
+#: wp-admin/includes/ajax-actions.php:5667
 msgid "Sorry, you are not allowed to modify plugins."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5668
+#: wp-admin/includes/ajax-actions.php:5677
 msgid "Sorry, you are not allowed to modify themes."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5680
+#: wp-admin/includes/ajax-actions.php:5689
 msgid "Invalid data. The item does not exist."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:5714
+#: wp-admin/includes/ajax-actions.php:5723
 msgid "Cannot send password reset, permission denied."
 msgstr ""
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:5724
+#: wp-admin/includes/ajax-actions.php:5733
 msgid "A password reset link was emailed to %s."
 msgstr ""
 
@@ -3507,7 +3506,7 @@ msgstr "Güncelleme sırasında oluşan bir hata yüzünden ClassicPress önceki
 
 #: wp-admin/includes/class-core-upgrader.php:199
 #: wp-admin/includes/class-wp-upgrader.php:166
-#: wp-admin/includes/update-core.php:326
+#: wp-admin/includes/update-core.php:327
 msgid "The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions."
 msgstr ""
 
@@ -5057,7 +5056,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3981
 #: wp-admin/includes/meta-boxes.php:366
 #: wp-admin/includes/meta-boxes.php:475
-#: wp-admin/upload.php:629
+#: wp-admin/upload.php:631
 msgid "Delete permanently"
 msgstr ""
 
@@ -6051,7 +6050,7 @@ msgstr "Bekleyen yorum yok"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1026
-#: wp-admin/upload.php:339
+#: wp-admin/upload.php:341
 msgid "First page"
 msgstr "İlk Sayfa"
 
@@ -6059,14 +6058,14 @@ msgstr "İlk Sayfa"
 #: wp-admin/includes/class-wp-list-table.php:1038
 #: wp-admin/includes/nav-menu.php:462
 #: wp-admin/includes/nav-menu.php:764
-#: wp-admin/upload.php:348
+#: wp-admin/upload.php:350
 msgid "Previous page"
 msgstr "Önceki sayfa"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1047
 #: wp-admin/includes/class-wp-list-table.php:1054
-#: wp-admin/upload.php:351
+#: wp-admin/upload.php:353
 msgid "Current Page"
 msgstr "Geçerli sayfa"
 
@@ -6080,13 +6079,13 @@ msgstr "%1$s / %2$s"
 #: wp-admin/includes/class-wp-list-table.php:1075
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
-#: wp-admin/upload.php:362
+#: wp-admin/upload.php:364
 msgid "Next page"
 msgstr "Sonraki sayfa"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1087
-#: wp-admin/upload.php:371
+#: wp-admin/upload.php:373
 msgid "Last page"
 msgstr "Son sayfa"
 
@@ -6102,12 +6101,12 @@ msgid "Select All"
 msgstr "Tümünü seç"
 
 #: wp-admin/includes/class-wp-media-list-table.php:43
-#: wp-admin/upload.php:288
+#: wp-admin/upload.php:290
 msgid "List view"
 msgstr ""
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
-#: wp-admin/upload.php:291
+#: wp-admin/upload.php:293
 msgid "Grid view"
 msgstr ""
 
@@ -6161,7 +6160,7 @@ msgstr "Türe göre filtrele"
 #: wp-admin/includes/template.php:1927
 #: wp-admin/includes/template.php:1932
 #: wp-admin/includes/theme-install.php:139
-#: wp-admin/upload.php:301
+#: wp-admin/upload.php:303
 msgid "Search"
 msgstr "Site araması"
 
@@ -6221,7 +6220,7 @@ msgstr "&#8220;%s&#8221; (Düzenle)"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3311
-#: wp-admin/upload.php:546
+#: wp-admin/upload.php:548
 msgid "File name:"
 msgstr "Dosya adı:"
 
@@ -6545,7 +6544,7 @@ msgstr ""
 #: wp-admin/includes/theme.php:965
 #: wp-admin/includes/theme.php:979
 #: wp-admin/includes/theme.php:1002
-#: wp-admin/includes/update-core.php:370
+#: wp-admin/includes/update-core.php:371
 #: wp-admin/includes/update.php:743
 #: wp-admin/includes/update.php:756
 #: wp-admin/includes/update.php:783
@@ -7153,7 +7152,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3194
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid "(opens in a new tab)"
 msgstr "(yeni bir sekmede açılır)"
 
@@ -7620,7 +7619,7 @@ msgstr[0] "%s sütun"
 msgstr[1] "%s sütun"
 
 #: wp-admin/includes/class-wp-screen.php:1231
-#: wp-admin/upload.php:142
+#: wp-admin/upload.php:143
 msgid "Number of items per page:"
 msgstr "Sayfa başına gösterilecek öge:"
 
@@ -8943,12 +8942,12 @@ msgid "The package could not be installed."
 msgstr "Paket yüklenemedi."
 
 #: wp-admin/includes/class-wp-upgrader.php:168
-#: wp-admin/includes/update-core.php:531
+#: wp-admin/includes/update-core.php:532
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "Bakım modu etkinleştiriliyor&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:169
-#: wp-admin/includes/update-core.php:687
+#: wp-admin/includes/update-core.php:688
 msgid "Disabling Maintenance mode&#8230;"
 msgstr "Bakım modu etkisizleştiriliyor&#8230;"
 
@@ -9474,12 +9473,12 @@ msgid "Install %s"
 msgstr "Yükle %s"
 
 #. translators: 1: Script handle. 2: URL for more information.
-#: wp-admin/includes/deprecated.php:1688
+#: wp-admin/includes/deprecated.php:1696
 msgid "The enqueued script %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
 msgstr ""
 
 #. translators: 1: Stylesheet handle. 2: URL for more information.
-#: wp-admin/includes/deprecated.php:1701
+#: wp-admin/includes/deprecated.php:1709
 msgid "The enqueued stylesheet %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
 msgstr ""
 
@@ -9872,7 +9871,7 @@ msgstr "Arşivden dosya çıkartılamıyor."
 #: wp-admin/includes/file.php:1748
 #: wp-admin/includes/file.php:1878
 #: wp-admin/includes/file.php:1923
-#: wp-admin/includes/update-core.php:738
+#: wp-admin/includes/update-core.php:744
 msgid "Could not copy file."
 msgstr "Dosyalar kopyalanamıyor."
 
@@ -9990,7 +9989,7 @@ msgid "%s expects a non-empty string."
 msgstr ""
 
 #: wp-admin/includes/image-edit.php:28
-#: wp-admin/includes/image-edit.php:928
+#: wp-admin/includes/image-edit.php:937
 msgid "Image data does not exist. Please re-upload the image."
 msgstr "Görsel bilgileri bulunamadı. Lütfen görseli tekrar yükleyin."
 
@@ -10175,35 +10174,35 @@ msgstr ""
 msgid "Cannot load image metadata."
 msgstr "Görselin meta bilgileri yüklenemedi."
 
-#: wp-admin/includes/image-edit.php:850
+#: wp-admin/includes/image-edit.php:859
 msgid "Cannot save image metadata."
 msgstr "Görselin meta bilgileri kaydedilemedi."
 
-#: wp-admin/includes/image-edit.php:855
+#: wp-admin/includes/image-edit.php:864
 msgid "Image metadata is inconsistent."
 msgstr "Görselin meta bilgileri tutarlı değil."
 
-#: wp-admin/includes/image-edit.php:857
+#: wp-admin/includes/image-edit.php:866
 msgid "Image restored successfully."
 msgstr "Görsel başarılı bir şekilde eski haline döndürüldü."
 
-#: wp-admin/includes/image-edit.php:887
+#: wp-admin/includes/image-edit.php:896
 msgid "Unable to create new image."
 msgstr "Yeni görsel oluşturulamadı."
 
-#: wp-admin/includes/image-edit.php:911
+#: wp-admin/includes/image-edit.php:920
 msgid "Error while saving the scaled image. Please reload the page and try again."
 msgstr "Ölçeklenen görsel kaydedilirken hata oluştu. Lütfen sayfayı yeniden yükleyerek tekrar deneyin."
 
-#: wp-admin/includes/image-edit.php:920
+#: wp-admin/includes/image-edit.php:929
 msgid "Nothing to save, the image has not changed."
 msgstr "Kaydedilecek bir şey yok. Görsel değiştirilmemiş."
 
-#: wp-admin/includes/image-edit.php:969
+#: wp-admin/includes/image-edit.php:979
 msgid "Unable to save the image."
 msgstr "Görsel kaydedilemedi."
 
-#: wp-admin/includes/image-edit.php:1106
+#: wp-admin/includes/image-edit.php:1118
 msgid "Image saved"
 msgstr "Görsel kaydedildi"
 
@@ -10286,8 +10285,8 @@ msgid "Gallery"
 msgstr "Galeri"
 
 #: wp-admin/includes/media.php:21
-#: wp-admin/upload.php:177
-#: wp-admin/upload.php:761
+#: wp-admin/upload.php:178
+#: wp-admin/upload.php:763
 msgid "Media Library"
 msgstr "Ortam kütüphanesi"
 
@@ -10363,7 +10362,7 @@ msgstr "Boyut"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
-#: wp-admin/upload.php:586
+#: wp-admin/upload.php:588
 msgid "File URL"
 msgstr "Dosya adresi"
 
@@ -10387,7 +10386,7 @@ msgstr "Yüklenmiş dosyanın konumu."
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2923
 #: wp-admin/includes/media.php:3180
-#: wp-admin/upload.php:566
+#: wp-admin/upload.php:568
 msgid "Alternative Text"
 msgstr "Alternatif metin"
 
@@ -10418,13 +10417,13 @@ msgstr "Gizle"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3091
-#: wp-admin/upload.php:522
+#: wp-admin/upload.php:524
 msgid "Edit Image"
 msgstr "Resmi düzenle"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3314
-#: wp-admin/upload.php:547
+#: wp-admin/upload.php:549
 msgid "File type:"
 msgstr "Dosya türü:"
 
@@ -10434,7 +10433,7 @@ msgstr "Yükleme tarihi:"
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3436
-#: wp-admin/upload.php:549
+#: wp-admin/upload.php:551
 msgid "Dimensions:"
 msgstr "Ölçüler:"
 
@@ -10475,7 +10474,7 @@ msgstr "Dosya seçin"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2250
-#: wp-admin/upload.php:268
+#: wp-admin/upload.php:270
 msgid "Maximum upload file size: %s."
 msgstr "Yüklenebilecek en büyük dosya boyutu: %s."
 
@@ -10652,7 +10651,7 @@ msgstr "(yazar yok)"
 
 #: wp-admin/includes/media.php:3274
 #: wp-admin/includes/media.php:3276
-#: wp-admin/upload.php:543
+#: wp-admin/upload.php:545
 msgid "Uploaded by:"
 msgstr ""
 
@@ -10666,7 +10665,7 @@ msgid "File URL:"
 msgstr "Dosya adresi:"
 
 #: wp-admin/includes/media.php:3347
-#: wp-admin/upload.php:548
+#: wp-admin/upload.php:550
 msgid "File size:"
 msgstr "Dosya boyutu:"
 
@@ -11275,7 +11274,7 @@ msgstr "Tümünü göster"
 
 #: wp-admin/includes/nav-menu.php:606
 #: wp-admin/includes/nav-menu.php:907
-#: wp-admin/js/nav-menu.js:496
+#: wp-admin/js/nav-menu.js:494
 msgid "No results found."
 msgstr "Hiçbir sonuç bulunamadı."
 
@@ -11604,7 +11603,7 @@ msgstr ""
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:70
-#: wp-admin/includes/update-core.php:1090
+#: wp-admin/includes/update-core.php:1096
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
 msgstr ""
@@ -12387,48 +12386,48 @@ msgstr ""
 msgid "F j, Y g:i a"
 msgstr "j F Y H:i"
 
-#: wp-admin/includes/schema.php:1015
+#: wp-admin/includes/schema.php:1017
 msgid "You must provide a domain name."
 msgstr "Bir alan adı sağlamanız gerekiyor."
 
-#: wp-admin/includes/schema.php:1018
+#: wp-admin/includes/schema.php:1020
 msgid "You must provide a name for your network of sites."
 msgstr "Site ağınız için bir isim belirtmelisiniz."
 
-#: wp-admin/includes/schema.php:1025
-#: wp-admin/includes/schema.php:1029
+#: wp-admin/includes/schema.php:1027
+#: wp-admin/includes/schema.php:1031
 msgid "The network already exists."
 msgstr "Ağ zaten var."
 
-#: wp-admin/includes/schema.php:1034
+#: wp-admin/includes/schema.php:1036
 msgid "You must provide a valid email address."
 msgstr "Geçerli bir e-posta adresi sağlamanız gerekiyor."
 
-#: wp-admin/includes/schema.php:1137
+#: wp-admin/includes/schema.php:1139
 msgid "Warning! Wildcard DNS may not be configured correctly!"
 msgstr "Uyarı! Genel DNS doğru ayarlanmamış olabilir!"
 
 #. translators: %s: Host name.
-#: wp-admin/includes/schema.php:1141
+#: wp-admin/includes/schema.php:1143
 msgid "The installer attempted to contact a random hostname (%s) on your domain."
 msgstr "Yükleyici rastgele bir sunucu adını (%s) kullanmayı denedi."
 
 #. translators: %s: Error message.
-#: wp-admin/includes/schema.php:1146
+#: wp-admin/includes/schema.php:1148
 msgid "This resulted in an error message: %s"
 msgstr "İşleminiz bir hata mesajı döndürdü: %s"
 
 #. translators: %s: Asterisk symbol (*).
-#: wp-admin/includes/schema.php:1152
+#: wp-admin/includes/schema.php:1154
 msgid "To use a subdomain configuration, you must have a wildcard entry in your DNS. This usually means adding a %s hostname record pointing at your web server in your DNS configuration tool."
 msgstr "Alt alan adı ayarlarını kullanmak istiyorsanız DNS kayıtlarınıza genel bir kayıt eklemeniz gerekiyor. Bu genellikle web sitenizin DNS ayarlarında %s şeklinde bir sunucu kaydı oluşturmanız anlamına gelir."
 
-#: wp-admin/includes/schema.php:1156
+#: wp-admin/includes/schema.php:1158
 msgid "You can still use your site but any subdomain you create may not be accessible. If you know your DNS is correct, ignore this message."
 msgstr "Hala sitenizi kullanabilirsiniz fakat oluşturacağınız alt alan adlarına ulaşılamayabilir. Eğer DNS bilginizin doğru olduğundan eminseniz bu mesajı önemsemeyin."
 
 #. translators: Do not translate USERNAME, SITE_NAME, BLOG_URL, PASSWORD: those are placeholders.
-#: wp-admin/includes/schema.php:1240
+#: wp-admin/includes/schema.php:1242
 msgid "Hello USERNAME,\n\n"
 "Your new SITE_NAME site has been successfully set up at:\n"
 "BLOG_URL\n\n"
@@ -12440,13 +12439,13 @@ msgid "Hello USERNAME,\n\n"
 "--The Team @ SITE_NAME"
 msgstr ""
 
-#: wp-admin/includes/schema.php:1291
+#: wp-admin/includes/schema.php:1293
 msgid "My Network"
 msgstr ""
 
 #. translators: %s: Site link.
 #. translators: First post content. %s: Site link.
-#: wp-admin/includes/schema.php:1304
+#: wp-admin/includes/schema.php:1306
 #: wp-admin/includes/upgrade.php:195
 msgid "Welcome to %s. This is your first post. Edit or delete it, then start writing!"
 msgstr ""
@@ -13078,7 +13077,7 @@ msgid "Invalid translation type."
 msgstr "Geçersiz çeviri tipi."
 
 #: wp-admin/includes/translation-install.php:71
-#: wp-admin/includes/update-core.php:1091
+#: wp-admin/includes/update-core.php:1097
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
 msgstr "(Wordpress şu an ClassicPress.net sunucularına güvenli bir bağlantı oluşturamıyor. Lütfen sunucu yöneticiniz ile irtibat kurun.)"
@@ -13087,75 +13086,75 @@ msgstr "(Wordpress şu an ClassicPress.net sunucularına güvenli bir bağlantı
 msgid "Unable to update language pack for locales"
 msgstr ""
 
-#: wp-admin/includes/update-core.php:303
+#: wp-admin/includes/update-core.php:304
 msgid "Verifying the unpacked files&#8230;"
 msgstr "Açılan paketteki dosyalar doğrulanıyor&#8230;"
 
-#: wp-admin/includes/update-core.php:310
+#: wp-admin/includes/update-core.php:311
 msgid "The update could not be unpacked"
 msgstr "Güncelleme dosyası açılamadı."
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Minimum required MySQL version number, 4: Current PHP version number, 5: Current MySQL version number.
-#: wp-admin/includes/update-core.php:388
+#: wp-admin/includes/update-core.php:389
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
 msgstr "Bu güncelleme yüklenemez, çünkü ClassicPress %1$s PHP sürüm %2$s ya da daha üstü ve MySQL sürüm %3$s ya da daha üstünü gerektiriyor. Şu an PHP sürümü olarak %4$s ve MySQL sürümü olarak %5$s kullanıyorsunuz."
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Current PHP version number.
-#: wp-admin/includes/update-core.php:401
+#: wp-admin/includes/update-core.php:402
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
 msgstr "Bu güncelleme yüklenemez, çünkü ClassicPress %1$s PHP sürüm %2$s ya da daha üstünü gerektiriyor. Şu an %3$s sürümünü kullanıyorsunuz."
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number, 3: Current MySQL version number.
-#: wp-admin/includes/update-core.php:412
+#: wp-admin/includes/update-core.php:413
 msgid "The update cannot be installed because ClassicPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
 msgstr "Bu güncelleme yüklenemez, çünkü ClassicPress %1$s MySQL sürüm %2$s ya da daha üstünü gerektiriyor. Şu an %3$s sürümünü kullanıyorsunuz."
 
 #. translators: 1: WordPress version number, 2: The PHP extension name needed.
-#: wp-admin/includes/update-core.php:426
+#: wp-admin/includes/update-core.php:427
 msgid "The update cannot be installed because ClassicPress %1$s requires the %2$s PHP extension."
 msgstr ""
 
-#: wp-admin/includes/update-core.php:434
+#: wp-admin/includes/update-core.php:435
 msgid "Preparing to install the latest version&#8230;"
 msgstr "Son sürüm yüklenmeye hazırlanıyor&#8230;"
 
-#: wp-admin/includes/update-core.php:523
-#: wp-admin/includes/update-core.php:559
+#: wp-admin/includes/update-core.php:524
+#: wp-admin/includes/update-core.php:560
 msgid "The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr ""
 
-#: wp-admin/includes/update-core.php:540
+#: wp-admin/includes/update-core.php:541
 msgid "Copying the required files&#8230;"
 msgstr "Gerekli dosyalar kopyalanıyor&#8230;"
 
-#: wp-admin/includes/update-core.php:635
+#: wp-admin/includes/update-core.php:636
 msgid "There is not enough free disk space to complete the update."
 msgstr "Bu güncellemeye devam edebilmek için gerekli disk alanı yok."
 
-#: wp-admin/includes/update-core.php:794
+#: wp-admin/includes/update-core.php:800
 msgid "Upgrading database&#8230;"
 msgstr "Veritabanı güncelleniyor&#8230;"
 
-#: wp-admin/includes/update-core.php:932
+#: wp-admin/includes/update-core.php:938
 #: wp-admin/update-core.php:783
 msgid "ClassicPress updated successfully"
 msgstr "ClassicPress başarıyla güncellendi"
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:938
+#: wp-admin/includes/update-core.php:944
 #: wp-admin/update-core.php:784
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "ClassicPress %1$s sürümüne hoşgeldiniz. ClassicPress hakkında sayfasına yönlendirileceksiniz. İstemiyorsanız, <a href=\"%2$s\">buraya</a> tıklayın."
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:946
+#: wp-admin/includes/update-core.php:952
 #: wp-admin/update-core.php:785
 msgid "Welcome to ClassicPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "ClassicPress %1$s&#8217;e hoşgeldiniz. <a href=\"%2$s\">Daha fazla bilgi</a>."
 
 #. translators: %s: support forums URL
 #. translators: %s: Support forums URL.
-#: wp-admin/includes/update-core.php:1089
+#: wp-admin/includes/update-core.php:1095
 #: wp-admin/includes/update.php:137
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
 msgstr "Beklenmeyen bir hata oluştu. ClassicPress.net ile ya da bu sunucunun yapılandırması ile ilgili bir şeyler yanlış olabilir. Eğer problem yaşamaya devam ediyorsanız lütfen <a href=\"%s\">destek forumlarını</a> deneyin."
@@ -14020,8 +14019,8 @@ msgstr ""
 #. translators: Add new file.
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
-#: wp-admin/upload.php:235
-#: wp-admin/upload.php:825
+#: wp-admin/upload.php:237
+#: wp-admin/upload.php:827
 msgctxt "file"
 msgid "Add New"
 msgstr "Yeni ekle"
@@ -17779,7 +17778,7 @@ msgid "pixels"
 msgstr ""
 
 #: wp-admin/upload.php:125
-#: wp-admin/upload.php:462
+#: wp-admin/upload.php:464
 msgid "Deselect"
 msgstr ""
 
@@ -17824,163 +17823,163 @@ msgid "You are about to permanently delete these items from your site.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
-#: wp-admin/upload.php:153
+#: wp-admin/upload.php:154
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
 msgstr "Yüklediğiniz tüm dosyalar Ortam kütüphanesinde listelenirler ve en son yüklenen ilk gösterilir."
 
-#: wp-admin/upload.php:154
-#: wp-admin/upload.php:775
+#: wp-admin/upload.php:155
+#: wp-admin/upload.php:777
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "Ortam dosyalarınızı ızgara görünümünde görebileceğiniz gibi liste olarak da görebilirsiniz. Sol üstte yer alan ikona tıklayarak aralarında geçiş yapabilirsiniz."
 
-#: wp-admin/upload.php:155
+#: wp-admin/upload.php:156
 msgid "To delete media items, click the Bulk Select button at the top of the screen. Select any items you wish to delete, then click the Delete Selected button. Clicking the Cancel Selection button takes you back to viewing your media."
 msgstr "Ortam ögelerini silmek için ekranın üstünde yer alan toplu seçim tuşunu kullanabilirsiniz. Seçmek istediğiniz ögeleri seçtikten sonra \"Seçili olanları sil\" tuşuna basın. İptal tuşuna basarsanız görüntüleme ekranına dönersiniz."
 
-#: wp-admin/upload.php:162
+#: wp-admin/upload.php:163
 msgid "Attachment Details"
 msgstr "Eklenti detayları"
 
-#: wp-admin/upload.php:164
+#: wp-admin/upload.php:165
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
 msgstr "Bir ögeye tıkladığınızda ek detayları penceresi açılır, bu pencerede ortam dosyasına hızlıca göz atabilir ve ufak düzeltmeler yapabilirsiniz. Burada yapacağınız değişiklikler otomatik olarak kaydedilecektir."
 
-#: wp-admin/upload.php:165
+#: wp-admin/upload.php:166
 msgid "Use the arrow buttons at the top of the dialog, or the left and right arrow keys on your keyboard, to navigate between media items quickly."
 msgstr "Pencerenin üstünde yer alan ok tuşlarını kullanarak ya da tuş takımınızdaki sağ ve sol ok tuşları ile ortam ögeleri arasında hızlıca geçiş yapabilirsiniz."
 
-#: wp-admin/upload.php:166
+#: wp-admin/upload.php:167
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
 msgstr "Ayrıca detay penceresinden tekil olarak ögeleri silebilir ya da detaylı düzenleme ekranına ulaşabilirsiniz."
 
-#: wp-admin/upload.php:172
-#: wp-admin/upload.php:804
+#: wp-admin/upload.php:173
+#: wp-admin/upload.php:806
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr ""
 
-#: wp-admin/upload.php:285
+#: wp-admin/upload.php:287
 msgid "Filter media"
 msgstr ""
 
-#: wp-admin/upload.php:321
+#: wp-admin/upload.php:323
 msgid "Media items navigation"
 msgstr ""
 
 #. translators: %s: Number of media items showing
-#: wp-admin/upload.php:327
+#: wp-admin/upload.php:329
 msgid "%s items"
 msgstr ""
 
-#: wp-admin/upload.php:353
+#: wp-admin/upload.php:355
 msgid "of"
 msgstr ""
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
-#: wp-admin/upload.php:476
+#: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
 msgstr ""
 
-#: wp-admin/upload.php:481
+#: wp-admin/upload.php:483
 msgid "No media items found."
 msgstr ""
 
-#: wp-admin/upload.php:503
+#: wp-admin/upload.php:505
 msgid "Edit previous media item"
 msgstr ""
 
-#: wp-admin/upload.php:506
+#: wp-admin/upload.php:508
 msgid "Edit next media item"
 msgstr ""
 
-#: wp-admin/upload.php:509
+#: wp-admin/upload.php:511
 msgid "Close dialog"
 msgstr ""
 
-#: wp-admin/upload.php:513
+#: wp-admin/upload.php:515
 msgid "Attachment details"
 msgstr ""
 
-#: wp-admin/upload.php:518
+#: wp-admin/upload.php:520
 msgid "Attachment Preview"
 msgstr ""
 
-#: wp-admin/upload.php:541
+#: wp-admin/upload.php:543
 msgid "Uploaded on:"
 msgstr ""
 
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
 msgstr ""
 
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
 msgstr ""
 
-#: wp-admin/upload.php:575
+#: wp-admin/upload.php:577
 msgid "Saved!"
 msgstr ""
 
-#: wp-admin/upload.php:607
+#: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
 msgstr ""
 
-#: wp-admin/upload.php:623
+#: wp-admin/upload.php:625
 msgid "View attachment page"
 msgstr ""
 
-#: wp-admin/upload.php:625
+#: wp-admin/upload.php:627
 msgid "Edit more details"
 msgstr ""
 
-#: wp-admin/upload.php:773
+#: wp-admin/upload.php:775
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
 msgstr "Yüklediğiniz tüm dosyalar en güncel olanlar üst sıralarda olacak şekilde Ortam kütüphanesinde listelenirler. Ekran seçenekleri sekmesi ile bu ekranın görünümünü özelleştirebilirsiniz."
 
-#: wp-admin/upload.php:774
+#: wp-admin/upload.php:776
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
 msgstr "Ortam tablosundan açılır menüleri kullanarak dosya tipi/durumu ya da tarihe göre listeyi daraltabilirsiniz."
 
-#: wp-admin/upload.php:783
+#: wp-admin/upload.php:785
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
 msgstr ""
 
-#: wp-admin/upload.php:785
+#: wp-admin/upload.php:787
 msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
 msgstr ""
 
-#: wp-admin/upload.php:786
+#: wp-admin/upload.php:788
 msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
 msgstr ""
 
-#: wp-admin/upload.php:787
+#: wp-admin/upload.php:789
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr ""
 
-#: wp-admin/upload.php:788
+#: wp-admin/upload.php:790
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr ""
 
-#: wp-admin/upload.php:789
+#: wp-admin/upload.php:791
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr ""
 
-#: wp-admin/upload.php:796
+#: wp-admin/upload.php:798
 msgid "Attaching Files"
 msgstr "Dosya eklemek"
 
-#: wp-admin/upload.php:798
+#: wp-admin/upload.php:800
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "Eğer ortam dosyası herhangi bir içeriğe bağlı değilse, bağlantı sütununda bunu görebilirsiniz ve bağla tuşuna basarak açılacak küçük pencereden bağlamak üzere bir içerik arayabilirsiniz."
 
-#: wp-admin/upload.php:810
+#: wp-admin/upload.php:812
 msgid "Filter media items list"
 msgstr "Ortam ögeleri listesini filtrele"
 
-#: wp-admin/upload.php:811
+#: wp-admin/upload.php:813
 msgid "Media items list navigation"
 msgstr "Ortam ögeleri liste dolaşımı"
 
-#: wp-admin/upload.php:812
+#: wp-admin/upload.php:814
 msgid "Media items list"
 msgstr "Ortam ögeleri listesi"
 
@@ -18922,11 +18921,11 @@ msgid "Are you sure you want to do this?\n"
 msgstr "Bunu yapmak istediğinizden emin misiniz?\n"
 "Yorumda yaptığınız değişiklikler kaybolacak."
 
-#: wp-admin/js/image-edit.js:420
+#: wp-admin/js/image-edit.js:438
 msgid "Could not load the preview image. Please reload the page and try again."
 msgstr "Görsel ön izlemesi yüklenemiyor. Lütfen sayfayı yeniden yükleyip tekrar deneyin."
 
-#: wp-admin/js/image-edit.js:629
+#: wp-admin/js/image-edit.js:647
 msgid "Could not load the preview image."
 msgstr ""
 
@@ -18960,12 +18959,12 @@ msgstr "Değişiklikleri kaydederken hata oluştu."
 msgid "The file URL has been copied to your clipboard"
 msgstr ""
 
-#: wp-admin/js/nav-menu.js:695
+#: wp-admin/js/nav-menu.js:693
 msgid "You are about to permanently delete this menu.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
-#: wp-admin/js/nav-menu.js:1218
+#: wp-admin/js/nav-menu.js:1216
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
 msgstr "(etiket yok)"
@@ -19046,7 +19045,7 @@ msgstr ""
 msgid "The box is on the last position"
 msgstr ""
 
-#: wp-admin/js/postbox.js:328
+#: wp-admin/js/postbox.js:326
 msgid "The boxes order has been saved."
 msgstr ""
 
@@ -19407,8 +19406,8 @@ msgid "Your new password has not been saved."
 msgstr "Yeni parolanız kaydedilemedi."
 
 #: wp-admin/js/widgets.js:183
-#: wp-admin/js/widgets.js:464
-#: wp-admin/js/widgets.js:575
+#: wp-admin/js/widgets.js:465
+#: wp-admin/js/widgets.js:581
 msgid "Saved"
 msgstr "Kaydedildi"
 
