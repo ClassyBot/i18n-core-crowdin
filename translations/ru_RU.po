@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-06T12:22:00+00:00\n"
+"POT-Creation-Date: 2024-11-16T08:51:24+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-10-06 12:29\n"
+"PO-Revision-Date: 2024-11-16 08:55\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -62,7 +62,7 @@ msgid "Username:"
 msgstr "Имя пользователя:"
 
 #: wp-activate.php:202
-#: wp-includes/post-template.php:1767
+#: wp-includes/post-template.php:1764
 msgid "Password:"
 msgstr "Пароль:"
 
@@ -281,14 +281,14 @@ msgstr "Поиск"
 msgid "Exit Recovery Mode"
 msgstr ""
 
-#: wp-includes/atomlib.php:151
+#: wp-includes/atomlib.php:155
 #: wp-includes/feed.php:582
 #: wp-includes/IXR/class-IXR-message.php:48
 msgid "PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension."
 msgstr "Расширение PHP XML недоступно. Обратитесь в техподдержку хостинга чтобы включить расширение PHP XML."
 
 #. translators: 1: Error message, 2: Line number.
-#: wp-includes/atomlib.php:175
+#: wp-includes/atomlib.php:178
 msgid "XML Error: %1$s at line %2$s"
 msgstr "Ошибка XML: %1$s в строке %2$s"
 
@@ -312,8 +312,8 @@ msgstr "Записи %s"
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-includes/author-template.php:513
-#: wp-includes/user.php:856
-#: wp-includes/user.php:2273
+#: wp-includes/user.php:875
+#: wp-includes/user.php:2292
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
 msgstr ""
@@ -602,22 +602,22 @@ msgid "Each application name should be unique."
 msgstr ""
 
 #: wp-includes/class-wp-application-passwords.php:105
-#: wp-includes/class-wp-application-passwords.php:261
-#: wp-includes/class-wp-application-passwords.php:310
+#: wp-includes/class-wp-application-passwords.php:267
+#: wp-includes/class-wp-application-passwords.php:318
 msgid "Could not save application password."
 msgstr ""
 
-#: wp-includes/class-wp-application-passwords.php:279
-#: wp-includes/class-wp-application-passwords.php:317
-#: wp-includes/class-wp-application-passwords.php:355
+#: wp-includes/class-wp-application-passwords.php:287
+#: wp-includes/class-wp-application-passwords.php:325
+#: wp-includes/class-wp-application-passwords.php:363
 msgid "Could not find an application password with that id."
 msgstr ""
 
-#: wp-includes/class-wp-application-passwords.php:338
+#: wp-includes/class-wp-application-passwords.php:346
 msgid "Could not delete application password."
 msgstr ""
 
-#: wp-includes/class-wp-application-passwords.php:373
+#: wp-includes/class-wp-application-passwords.php:381
 msgid "Could not delete application passwords."
 msgstr ""
 
@@ -799,8 +799,6 @@ msgstr "Пользователь %s уже настраивает этот са�
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4291
 #: wp-includes/script-loader.php:804
-#: wp-includes/widgets/class-wp-widget-text.php:539
-#: wp-includes/widgets/class-wp-widget-text.php:554
 #: wp-includes/js/wp-pointer.js:20
 msgid "Dismiss"
 msgstr "Закрыть"
@@ -841,9 +839,9 @@ msgstr "Ссылка на предпросмотр"
 #: wp-includes/class-wp-customize-manager.php:5694
 #: wp-includes/class-wp-customize-manager.php:5715
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:58
-#: wp-includes/functions.php:8226
+#: wp-includes/functions.php:8230
 #: wp-includes/media-template.php:167
-#: wp-includes/widgets/class-wp-widget-custom-html.php:318
+#: wp-includes/widgets/class-wp-widget-custom-html.php:275
 #: wp-login.php:631
 msgid "(opens in a new tab)"
 msgstr "(откроется в новой вкладке)"
@@ -1148,28 +1146,28 @@ msgid "Learn more about CSS"
 msgstr "Узнать больше о CSS"
 
 #: wp-includes/class-wp-customize-manager.php:5698
-#: wp-includes/widgets/class-wp-widget-custom-html.php:323
+#: wp-includes/widgets/class-wp-widget-custom-html.php:280
 msgid "When using a keyboard to navigate:"
 msgstr "При использовании клавиатуры для навигации:"
 
 #: wp-includes/class-wp-customize-manager.php:5700
-#: wp-includes/widgets/class-wp-widget-custom-html.php:325
+#: wp-includes/widgets/class-wp-widget-custom-html.php:282
 msgid "In the editing area, the Tab key enters a tab character."
 msgstr "В области редактирования кнопка Tab вставляет символ табуляции."
 
 #: wp-includes/class-wp-customize-manager.php:5701
-#: wp-includes/widgets/class-wp-widget-custom-html.php:326
+#: wp-includes/widgets/class-wp-widget-custom-html.php:283
 msgid "To move away from this area, press the Esc key followed by the Tab key."
 msgstr "Чтобы покинуть эту область, нажмие Esc и следом Tab."
 
 #: wp-includes/class-wp-customize-manager.php:5702
-#: wp-includes/widgets/class-wp-widget-custom-html.php:327
+#: wp-includes/widgets/class-wp-widget-custom-html.php:284
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
 msgstr "При использовании программы чтения с экрана: в режиме форм вам потребуется нажать кнопку Esc дважды."
 
 #. translators: 1: Link to user profile, 2: Additional link attributes, 3: Accessibility text.
 #: wp-includes/class-wp-customize-manager.php:5709
-#: wp-includes/widgets/class-wp-widget-custom-html.php:312
+#: wp-includes/widgets/class-wp-widget-custom-html.php:269
 msgid "The edit field automatically highlights code syntax. You can disable this in your <a href=\"%1$s\" %2$s>user profile%3$s</a> to work in plain text mode."
 msgstr "Поле редактирования автоматически подсвечивает синтаксис кода. Вы можете отключить это у себя в <a href=\"%1$s\" %2$s>профиле пользователя%3$s</a> и работать как с обычным текстом."
 
@@ -3375,9 +3373,9 @@ msgstr ""
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
 #: wp-includes/script-loader.php:505
-#: wp-includes/js/dist/a11y.js:1676
-#: wp-includes/js/dist/api-fetch.js:1621
-#: wp-includes/js/dist/i18n.js:1941
+#: wp-includes/js/dist/a11y.js:1696
+#: wp-includes/js/dist/api-fetch.js:1641
+#: wp-includes/js/dist/i18n.js:1961
 msgctxt "text direction"
 msgid "ltr"
 msgstr ""
@@ -3818,19 +3816,19 @@ msgstr ""
 msgid "PHP version %s"
 msgstr ""
 
-#: wp-includes/class-wp-recovery-mode-key-service.php:101
+#: wp-includes/class-wp-recovery-mode-key-service.php:91
 msgid "Recovery Mode not initialized."
 msgstr ""
 
-#: wp-includes/class-wp-recovery-mode-key-service.php:109
+#: wp-includes/class-wp-recovery-mode-key-service.php:99
 msgid "Invalid recovery key format."
 msgstr ""
 
-#: wp-includes/class-wp-recovery-mode-key-service.php:118
+#: wp-includes/class-wp-recovery-mode-key-service.php:103
 msgid "Invalid recovery key."
 msgstr ""
 
-#: wp-includes/class-wp-recovery-mode-key-service.php:122
+#: wp-includes/class-wp-recovery-mode-key-service.php:107
 msgid "Recovery key expired."
 msgstr ""
 
@@ -4240,14 +4238,14 @@ msgid "User queries should not be run before the %s hook."
 msgstr ""
 
 #. translators: %s: WP_User->ID
-#: wp-includes/class-wp-user.php:278
-#: wp-includes/class-wp-user.php:311
-#: wp-includes/class-wp-user.php:352
-#: wp-includes/class-wp-user.php:377
+#: wp-includes/class-wp-user.php:279
+#: wp-includes/class-wp-user.php:312
+#: wp-includes/class-wp-user.php:353
+#: wp-includes/class-wp-user.php:378
 msgid "Use %s instead."
 msgstr "Используйте %s."
 
-#: wp-includes/class-wp-user.php:774
+#: wp-includes/class-wp-user.php:775
 msgid "Usage of user levels is deprecated. Use capabilities instead."
 msgstr "Использование уровней для пользователей устарело. Используйте возможности."
 
@@ -4615,9 +4613,9 @@ msgstr "Извините, вам не разрешено редактирова�
 #: wp-includes/class-wp-xmlrpc-server.php:2712
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:692
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:402
-#: wp-includes/user.php:2093
-#: wp-includes/user.php:2526
-#: wp-includes/user.php:2532
+#: wp-includes/user.php:2112
+#: wp-includes/user.php:2546
+#: wp-includes/user.php:2552
 msgid "Invalid user ID."
 msgstr "Неверный ID пользователя."
 
@@ -4925,7 +4923,7 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:1255
 #: wp-includes/class-wpdb.php:2024
-#: wp-includes/class-wpdb.php:2178
+#: wp-includes/class-wpdb.php:2179
 #: wp-includes/customize/class-wp-customize-themes-section.php:90
 #: wp-includes/load.php:181
 msgid "https://wordpress.org/support/forums/"
@@ -4984,58 +4982,58 @@ msgid "Are you sure you have typed the correct hostname?"
 msgstr ""
 
 #: wp-includes/class-wpdb.php:2018
-#: wp-includes/class-wpdb.php:2171
+#: wp-includes/class-wpdb.php:2172
 msgid "Are you sure the database server is running?"
 msgstr ""
 
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:2023
-#: wp-includes/class-wpdb.php:2177
+#: wp-includes/class-wpdb.php:2178
 #: wp-includes/load.php:180
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
 msgstr ""
 
-#: wp-includes/class-wpdb.php:2162
+#: wp-includes/class-wpdb.php:2163
 msgid "Error reconnecting to the database"
 msgstr "Ошибка повторного подключения к базе данных"
 
 #. translators: %s: Database host.
-#: wp-includes/class-wpdb.php:2166
+#: wp-includes/class-wpdb.php:2167
 msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
 msgstr ""
 
-#: wp-includes/class-wpdb.php:2172
+#: wp-includes/class-wpdb.php:2173
 msgid "Are you sure the database server is not under particularly heavy load?"
 msgstr ""
 
-#: wp-includes/class-wpdb.php:2242
+#: wp-includes/class-wpdb.php:2243
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
 msgstr ""
 
-#: wp-includes/class-wpdb.php:2279
+#: wp-includes/class-wpdb.php:2280
 msgid "Unable to retrieve the error message from MySQL"
 msgstr "Не удалось получить текст ошибки от MySQL"
 
 #. translators: %s: Database field where the error occurred.
-#: wp-includes/class-wpdb.php:2752
+#: wp-includes/class-wpdb.php:2753
 msgid "ClassicPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
 msgstr ""
 
 #. translators: %s: Database fields where the error occurred.
-#: wp-includes/class-wpdb.php:2758
+#: wp-includes/class-wpdb.php:2759
 msgid "ClassicPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
 msgstr ""
 
-#: wp-includes/class-wpdb.php:3086
+#: wp-includes/class-wpdb.php:3087
 msgid "Could not retrieve table charset."
 msgstr ""
 
-#: wp-includes/class-wpdb.php:3536
+#: wp-includes/class-wpdb.php:3537
 msgid "Could not strip invalid text."
 msgstr ""
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number.
-#: wp-includes/class-wpdb.php:3855
+#: wp-includes/class-wpdb.php:3856
 msgid "<strong>Error:</strong> ClassicPress %1$s requires MySQL %2$s or higher"
 msgstr ""
 
@@ -5242,7 +5240,7 @@ msgid "Name"
 msgstr "Имя"
 
 #: wp-includes/comment-template.php:2545
-#: wp-login.php:1083
+#: wp-login.php:1090
 msgid "Email"
 msgstr "E-mail"
 
@@ -5398,8 +5396,8 @@ msgid "Comment URL"
 msgstr "URL комментария"
 
 #: wp-includes/comment.php:3783
-#: wp-includes/link-template.php:3281
-#: wp-includes/link-template.php:3344
+#: wp-includes/link-template.php:3288
+#: wp-includes/link-template.php:3351
 msgid "Comments"
 msgstr "Комментарии"
 
@@ -6087,7 +6085,7 @@ msgid "Last updated"
 msgstr "Последние изменения"
 
 #: wp-includes/deprecated.php:1872
-#: wp-includes/post-template.php:1639
+#: wp-includes/post-template.php:1636
 msgid "Missing Attachment"
 msgstr "Вложение не найдено"
 
@@ -6625,46 +6623,46 @@ msgstr ""
 msgid "Function %1$s was called <strong>incorrectly</strong>. %2$s %3$s"
 msgstr ""
 
-#: wp-includes/functions.php:6516
+#: wp-includes/functions.php:6520
 msgid "Select a city"
 msgstr "Выберите город"
 
-#: wp-includes/functions.php:6568
-#: wp-includes/functions.php:6573
+#: wp-includes/functions.php:6572
+#: wp-includes/functions.php:6577
 msgid "UTC"
 msgstr ""
 
-#: wp-includes/functions.php:6577
+#: wp-includes/functions.php:6581
 msgid "Manual Offsets"
 msgstr "Ручные смещения"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/functions.php:7257
+#: wp-includes/functions.php:7261
 #: wp-includes/media-template.php:202
 #: wp-includes/media-template.php:384
 msgid "Close dialog"
 msgstr "Закрыть окно"
 
-#: wp-includes/functions.php:7277
+#: wp-includes/functions.php:7281
 #: wp-includes/script-loader.php:1115
 msgid "Session expired"
 msgstr "Сессия истекла"
 
-#: wp-includes/functions.php:7278
-#: wp-includes/user.php:306
+#: wp-includes/functions.php:7282
+#: wp-includes/user.php:318
 msgid "Please log in again."
 msgstr "Пожалуйста, войдите заново."
 
-#: wp-includes/functions.php:7279
+#: wp-includes/functions.php:7283
 msgid "The login page will open in a new tab. After logging in you can close it and return to this page."
 msgstr ""
 
-#: wp-includes/functions.php:7698
+#: wp-includes/functions.php:7702
 msgid "Only UUID V4 is supported at this time."
 msgstr "В настоящее время поддерживаются только UUID V4."
 
 #. translators: Do not translate OLD_EMAIL, NEW_EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/functions.php:7779
+#: wp-includes/functions.php:7783
 msgid "Hi,\n\n"
 "This notice confirms that the admin email address was changed on ###SITENAME###.\n\n"
 "The new admin email address is ###NEW_EMAIL###.\n\n"
@@ -6682,41 +6680,41 @@ msgstr "Привет,\n\n"
 "###SITEURL###"
 
 #. translators: Site admin email change notification email subject. %s: Site title.
-#: wp-includes/functions.php:7796
+#: wp-includes/functions.php:7800
 msgid "[%s] Admin Email Changed"
 msgstr ""
 
 #. translators: Deleted text.
-#: wp-includes/functions.php:7943
+#: wp-includes/functions.php:7947
 msgid "[deleted]"
 msgstr "[удалено]"
 
 #. translators: Deleted long text.
-#: wp-includes/functions.php:7947
+#: wp-includes/functions.php:7951
 msgid "This content was deleted by the author."
 msgstr "Содержимое было удалено автором."
 
-#: wp-includes/functions.php:8124
+#: wp-includes/functions.php:8128
 msgctxt "localized PHP upgrade information page"
 msgid "https://wordpress.org/support/update-php/"
 msgstr ""
 
 #. translators: %s: Default Update PHP page URL.
-#: wp-includes/functions.php:8167
+#: wp-includes/functions.php:8171
 msgid "This resource is provided by your web host, and is specific to your site. For more information, <a href=\"%s\" target=\"_blank\">see the official ClassicPress documentation</a>."
 msgstr ""
 
-#: wp-includes/functions.php:8224
+#: wp-includes/functions.php:8228
 msgid "Update PHP"
 msgstr ""
 
 #. translators: Documentation explaining HTTPS and why it should be used.
-#: wp-includes/functions.php:8283
+#: wp-includes/functions.php:8287
 msgid "https://wordpress.org/documentation/article/why-should-i-use-https/"
 msgstr ""
 
 #. translators: 1: Function name, 2: A variable type, like "boolean" or "integer".
-#: wp-includes/functions.php:8480
+#: wp-includes/functions.php:8484
 msgid "%1$s only accepts a non-empty path string, received %2$s."
 msgstr ""
 
@@ -6759,10 +6757,10 @@ msgid "Search"
 msgstr "Поиск"
 
 #: wp-includes/general-template.php:356
-#: wp-login.php:845
-#: wp-login.php:941
-#: wp-login.php:1002
-#: wp-login.php:1107
+#: wp-login.php:844
+#: wp-login.php:948
+#: wp-login.php:1009
+#: wp-login.php:1114
 msgid "Log in"
 msgstr "Войти"
 
@@ -6771,32 +6769,32 @@ msgid "Log out"
 msgstr "Выйти"
 
 #: wp-includes/general-template.php:495
-#: wp-login.php:825
-#: wp-login.php:1419
+#: wp-login.php:824
+#: wp-login.php:1426
 msgid "Username or Email Address"
 msgstr "Имя пользователя или e-mail"
 
 #: wp-includes/general-template.php:496
-#: wp-login.php:1424
+#: wp-login.php:1431
 msgid "Password"
 msgstr "Пароль"
 
 #: wp-includes/general-template.php:497
-#: wp-login.php:1442
+#: wp-login.php:1449
 msgid "Remember Me"
 msgstr "Запомнить меня"
 
 #: wp-includes/general-template.php:498
-#: wp-login.php:1395
-#: wp-login.php:1444
+#: wp-login.php:1402
+#: wp-login.php:1451
 msgid "Log In"
 msgstr "Войти"
 
 #: wp-includes/general-template.php:663
-#: wp-login.php:849
-#: wp-login.php:1006
-#: wp-login.php:1102
-#: wp-login.php:1476
+#: wp-login.php:848
+#: wp-login.php:1013
+#: wp-login.php:1109
+#: wp-login.php:1483
 msgid "Register"
 msgstr "Регистрация"
 
@@ -7155,73 +7153,73 @@ msgstr "Предыдущая запись"
 msgid "Next Post"
 msgstr "Следующая запись"
 
-#: wp-includes/link-template.php:2538
-#: wp-includes/link-template.php:2691
+#: wp-includes/link-template.php:2545
+#: wp-includes/link-template.php:2698
 msgid "Next Page &raquo;"
 msgstr "Следующая страница &rarr;"
 
-#: wp-includes/link-template.php:2631
-#: wp-includes/link-template.php:2690
+#: wp-includes/link-template.php:2638
+#: wp-includes/link-template.php:2697
 msgid "&laquo; Previous Page"
 msgstr "&larr; Предыдущая страница"
 
-#: wp-includes/link-template.php:2767
+#: wp-includes/link-template.php:2774
 msgid "Post navigation"
 msgstr "Навигация по записям"
 
-#: wp-includes/link-template.php:2768
-#: wp-includes/link-template.php:2852
-#: wp-includes/link-template.php:2924
+#: wp-includes/link-template.php:2775
+#: wp-includes/link-template.php:2859
+#: wp-includes/link-template.php:2931
 msgid "Posts"
 msgstr "Записи"
 
-#: wp-includes/link-template.php:2849
+#: wp-includes/link-template.php:2856
 msgid "Older posts"
 msgstr "Предыдущие записи"
 
-#: wp-includes/link-template.php:2850
+#: wp-includes/link-template.php:2857
 msgid "Newer posts"
 msgstr "Следующие записи"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/link-template.php:2851
-#: wp-includes/link-template.php:2923
-#: wp-includes/link-template.php:2991
+#: wp-includes/link-template.php:2858
+#: wp-includes/link-template.php:2930
+#: wp-includes/link-template.php:2998
 msgid "Posts navigation"
 msgstr "Навигация по записям"
 
-#: wp-includes/link-template.php:2921
+#: wp-includes/link-template.php:2928
 msgctxt "previous set of posts"
 msgid "Previous"
 msgstr "Назад"
 
-#: wp-includes/link-template.php:2922
+#: wp-includes/link-template.php:2929
 msgctxt "next set of posts"
 msgid "Next"
 msgstr "Далее"
 
-#: wp-includes/link-template.php:3111
+#: wp-includes/link-template.php:3118
 msgid "Newer Comments &raquo;"
 msgstr "Следующие комментарии &rarr;"
 
-#: wp-includes/link-template.php:3165
+#: wp-includes/link-template.php:3172
 msgid "&laquo; Older Comments"
 msgstr "&larr; Предыдущие комментарии"
 
-#: wp-includes/link-template.php:3278
+#: wp-includes/link-template.php:3285
 msgid "Older comments"
 msgstr "Предыдущие комментарии"
 
-#: wp-includes/link-template.php:3279
+#: wp-includes/link-template.php:3286
 msgid "Newer comments"
 msgstr "Следующие комментарии"
 
-#: wp-includes/link-template.php:3280
-#: wp-includes/link-template.php:3343
+#: wp-includes/link-template.php:3287
+#: wp-includes/link-template.php:3350
 msgid "Comments navigation"
 msgstr "Навигация по комментариям"
 
-#: wp-includes/link-template.php:4214
+#: wp-includes/link-template.php:4221
 msgid "This is the short link."
 msgstr "Это короткая ссылка."
 
@@ -8504,7 +8502,7 @@ msgstr "Изменён пароль пользователя: %s"
 
 #. translators: Password change notification email subject. %s: Site title.
 #: wp-includes/pluggable.php:2076
-#: wp-includes/user.php:2616
+#: wp-includes/user.php:2636
 msgid "[%s] Password Changed"
 msgstr "[%s] Пароль изменён"
 
@@ -8516,7 +8514,7 @@ msgstr "На вашем сайте «%s» зарегистрирован нов�
 #. translators: %s: User login.
 #: wp-includes/pluggable.php:2157
 #: wp-includes/pluggable.php:2222
-#: wp-includes/user.php:3170
+#: wp-includes/user.php:3179
 msgid "Username: %s"
 msgstr "Имя пользователя: %s"
 
@@ -8611,71 +8609,71 @@ msgstr "(далее&hellip;)"
 msgid "There is no excerpt because this is a protected post."
 msgstr "Отрывка нет, потому что запись защищена."
 
-#: wp-includes/post-template.php:947
+#: wp-includes/post-template.php:944
 msgid "Pages:"
 msgstr "Страницы:"
 
-#: wp-includes/post-template.php:954
+#: wp-includes/post-template.php:951
 msgid "Next page"
 msgstr "Следующая страница"
 
-#: wp-includes/post-template.php:955
+#: wp-includes/post-template.php:952
 msgid "Previous page"
 msgstr "Предыдущая страница"
 
 #. translators: %s: Post custom field name.
-#: wp-includes/post-template.php:1128
+#: wp-includes/post-template.php:1125
 msgctxt "Post custom field name"
 msgid "%s:"
 msgstr ""
 
-#: wp-includes/post-template.php:1293
+#: wp-includes/post-template.php:1290
 #: wp-includes/theme-compat/sidebar.php:117
 #: wp-includes/widgets/class-wp-widget-pages.php:31
 #: wp-includes/widgets/class-wp-widget-pages.php:44
 msgid "Pages"
 msgstr "Страницы"
 
-#: wp-includes/post-template.php:1457
+#: wp-includes/post-template.php:1454
 msgid "Home"
 msgstr "Главная"
 
-#: wp-includes/post-template.php:1766
+#: wp-includes/post-template.php:1763
 msgid "This content is password protected. To view it please enter your password below:"
 msgstr "Это содержимое защищено паролем. Для его просмотра введите, пожалуйста, пароль:"
 
-#: wp-includes/post-template.php:1767
+#: wp-includes/post-template.php:1764
 msgctxt "post password form"
 msgid "Enter"
 msgstr "Войти"
 
 #. translators: Revision date format, see https://www.php.net/manual/datetime.format.php
-#: wp-includes/post-template.php:1877
-#: wp-includes/post-template.php:1920
+#: wp-includes/post-template.php:1874
+#: wp-includes/post-template.php:1917
 msgctxt "revision date format"
 msgid "F j, Y @ H:i:s"
 msgstr "d.m.Y, H:i:s"
 
 #. translators: %s: Revision date.
 #. translators: %s: Revision date with author avatar.
-#: wp-includes/post-template.php:1879
-#: wp-includes/post-template.php:1940
+#: wp-includes/post-template.php:1876
+#: wp-includes/post-template.php:1937
 msgid "%s [Autosave]"
 msgstr "%s [Автосохранение]"
 
 #. translators: %s: Revision date.
 #. translators: %s: Revision date with author avatar.
-#: wp-includes/post-template.php:1881
-#: wp-includes/post-template.php:1942
+#: wp-includes/post-template.php:1878
+#: wp-includes/post-template.php:1939
 msgid "%s [Current Revision]"
 msgstr "%s [Текущая редакция]"
 
 #. translators: Post revision title. 1: Author avatar, 2: Author name, 3: Time ago, 4: Date.
-#: wp-includes/post-template.php:1932
+#: wp-includes/post-template.php:1929
 msgid "%1$s %2$s, %3$s ago (%4$s)"
 msgstr "%1$s %2$s, %3$s назад (%4$s)"
 
-#: wp-includes/post-template.php:2007
+#: wp-includes/post-template.php:2004
 msgid "JavaScript must be enabled to use this feature."
 msgstr "Эта функция требует JavaScript."
 
@@ -9299,7 +9297,7 @@ msgstr ""
 
 #: wp-includes/rest-api.php:2163
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:731
-#: wp-includes/user.php:4565
+#: wp-includes/user.php:4574
 msgid "Invalid email address."
 msgstr "Неверный адрес e-mail."
 
@@ -9541,7 +9539,7 @@ msgid "Sorry, you are not allowed to manage application passwords for this user.
 msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:685
-#: wp-includes/user.php:377
+#: wp-includes/user.php:389
 msgid "Application passwords are not available."
 msgstr ""
 
@@ -9551,7 +9549,7 @@ msgid "You are not currently logged in."
 msgstr "Вы не авторизованы."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:729
-#: wp-includes/user.php:382
+#: wp-includes/user.php:394
 msgid "Application passwords are not available for your account. Please contact the site administrator for assistance."
 msgstr ""
 
@@ -11455,7 +11453,7 @@ msgid "This username is invalid because it uses illegal characters. Please enter
 msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1280
-#: wp-includes/user.php:2141
+#: wp-includes/user.php:2160
 msgid "Sorry, that username is not allowed."
 msgstr "Извините, это имя пользователя не разрешено."
 
@@ -11602,7 +11600,7 @@ msgstr ""
 msgid "Sorry, you are not allowed to preview drafts."
 msgstr "Извините, вам не разрешено просматривать черновики."
 
-#: wp-includes/rss.php:910
+#: wp-includes/rss.php:909
 #: wp-includes/widgets.php:1603
 msgid "An error has occurred, which probably means the feed is down. Try again later."
 msgstr "Произошла ошибка; возможно, лента недоступна. Повторите попытку позже."
@@ -11811,7 +11809,7 @@ msgid "This image cannot be processed by the web server. Convert it to JPEG or P
 msgstr ""
 
 #: wp-includes/script-loader.php:811
-#: wp-includes/js/media-views.js:8994
+#: wp-includes/js/media-views.js:9482
 msgid "The file URL has been copied to your clipboard"
 msgstr ""
 
@@ -12289,8 +12287,6 @@ msgstr "Разрешённые файлы"
 #. translators: %d: Error count.
 #: wp-includes/script-loader.php:1133
 #: wp-includes/script-loader.php:1135
-#: wp-includes/widgets/class-wp-widget-custom-html.php:229
-#: wp-includes/widgets/class-wp-widget-custom-html.php:231
 msgid "There is %d error which must be fixed before you can save."
 msgid_plural "There are %d errors which must be fixed before you can save."
 msgstr[0] "Возникла %d ошибка, которая должна быть исправлена перед тем, как вы сможете сохранить."
@@ -13067,7 +13063,7 @@ msgstr "Произошла непредвиденная ошибка. Кажет
 
 #: wp-includes/update.php:389
 #: wp-includes/update.php:665
-#: wp-login.php:1243
+#: wp-login.php:1250
 msgid "https://forums.classicpress.net/c/support"
 msgstr "https://forums.classicpress.net/c/support"
 
@@ -13116,7 +13112,7 @@ msgid "<strong>Error:</strong> The username field is empty."
 msgstr ""
 
 #: wp-includes/user.php:152
-#: wp-includes/user.php:231
+#: wp-includes/user.php:237
 msgid "<strong>Error:</strong> The password field is empty."
 msgstr ""
 
@@ -13126,94 +13122,94 @@ msgid "<strong>Error:</strong> The username <strong>%s</strong> is not registere
 msgstr ""
 
 #. translators: %s: User name.
-#: wp-includes/user.php:190
+#: wp-includes/user.php:196
 msgid "<strong>Error:</strong> The password you entered for the username %s is incorrect."
 msgstr ""
 
-#: wp-includes/user.php:194
-#: wp-includes/user.php:266
-#: wp-login.php:1112
-#: wp-login.php:1484
+#: wp-includes/user.php:200
+#: wp-includes/user.php:278
+#: wp-login.php:1119
+#: wp-login.php:1491
 msgid "Lost your password?"
 msgstr "Забыли пароль?"
 
-#: wp-includes/user.php:227
+#: wp-includes/user.php:233
 msgid "<strong>Error:</strong> The email field is empty."
 msgstr ""
 
-#: wp-includes/user.php:246
+#: wp-includes/user.php:252
 msgid "Unknown email address. Check again or try your username."
 msgstr ""
 
 #. translators: %s: Email address.
-#: wp-includes/user.php:262
+#: wp-includes/user.php:274
 msgid "<strong>Error:</strong> The password you entered for the email address %s is incorrect."
 msgstr ""
 
-#: wp-includes/user.php:366
+#: wp-includes/user.php:378
 msgid "<strong>Error:</strong> Unknown email address. Check again or try your username."
 msgstr ""
 
-#: wp-includes/user.php:371
+#: wp-includes/user.php:383
 msgid "<strong>Error:</strong> Unknown username. Check again or try your email address."
 msgstr ""
 
-#: wp-includes/user.php:454
+#: wp-includes/user.php:473
 msgid "The provided password is an invalid application password."
 msgstr ""
 
-#: wp-includes/user.php:518
+#: wp-includes/user.php:537
 msgid "<strong>Error:</strong> Your account has been marked as a spammer."
 msgstr ""
 
 #. translators: %s: $network_id
-#: wp-includes/user.php:1354
-#: wp-includes/user.php:1378
-#: wp-includes/user.php:1411
-#: wp-includes/user.php:1459
+#: wp-includes/user.php:1373
+#: wp-includes/user.php:1397
+#: wp-includes/user.php:1430
+#: wp-includes/user.php:1478
 msgid "Unable to pass %s if not using multisite."
 msgstr ""
 
 #. translators: 1: User's display name, 2: User login.
-#: wp-includes/user.php:1710
+#: wp-includes/user.php:1729
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
 msgstr ""
 
-#: wp-includes/user.php:2122
+#: wp-includes/user.php:2141
 msgid "Cannot create a user with an empty login name."
 msgstr "Нельзя создать пользователя с пустым логином."
 
-#: wp-includes/user.php:2124
+#: wp-includes/user.php:2143
 msgid "Username may not be longer than 60 characters."
 msgstr "Имя пользователя не может быть длиннее 60 символов."
 
-#: wp-includes/user.php:2128
+#: wp-includes/user.php:2147
 msgid "Sorry, that username already exists!"
 msgstr "Извините, это имя пользователя уже существует!"
 
-#: wp-includes/user.php:2166
+#: wp-includes/user.php:2185
 msgid "Nicename may not be longer than 50 characters."
 msgstr "Ярлык пользователя не может быть длиннее 50 символов."
 
-#: wp-includes/user.php:2203
+#: wp-includes/user.php:2222
 msgid "Sorry, that email address is already used!"
 msgstr "Извините, этот адрес e-mail уже используется!"
 
-#: wp-includes/user.php:2218
+#: wp-includes/user.php:2237
 msgid "User URL may not be longer than 100 characters."
 msgstr ""
 
-#: wp-includes/user.php:2226
+#: wp-includes/user.php:2245
 msgid "Sorry, marking a user as spam is only supported on Multisite."
 msgstr ""
 
-#: wp-includes/user.php:2361
+#: wp-includes/user.php:2381
 msgid "Not enough data to create this user."
 msgstr ""
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/user.php:2598
+#: wp-includes/user.php:2618
 msgid "Hi ###USERNAME###,\n\n"
 "This notice confirms that your password was changed on ###SITENAME###.\n\n"
 "If you did not change your password, please contact the Site Administrator at\n"
@@ -13232,7 +13228,7 @@ msgstr "Привет, ###USERNAME###!\n\n"
 "###SITEURL###"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, NEW_EMAIL, EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/user.php:2656
+#: wp-includes/user.php:2676
 msgid "Hi ###USERNAME###,\n\n"
 "This notice confirms that your email address on ###SITENAME### was changed to ###NEW_EMAIL###.\n\n"
 "If you did not change your email, please contact the Site Administrator at\n"
@@ -13251,127 +13247,127 @@ msgstr "Привет, ###USERNAME###!\n\n"
 "###SITEURL###"
 
 #. translators: Email change notification email subject. %s: Site title.
-#: wp-includes/user.php:2674
+#: wp-includes/user.php:2694
 msgid "[%s] Email Changed"
 msgstr ""
 
-#: wp-includes/user.php:2797
+#: wp-includes/user.php:2817
 msgid "AIM"
 msgstr ""
 
-#: wp-includes/user.php:2798
+#: wp-includes/user.php:2818
 msgid "Yahoo IM"
 msgstr ""
 
-#: wp-includes/user.php:2799
+#: wp-includes/user.php:2819
 msgid "Jabber / Google Talk"
 msgstr ""
 
-#: wp-includes/user.php:2837
+#: wp-includes/user.php:2857
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
 msgstr "Подсказка: Рекомендуется задать пароль длиной не менее двенадцати символов. Чтобы сделать его надёжнее, используйте буквы верхнего и нижнего регистра, числа и символы наподобие ! \" ? $ % ^ &amp; )."
 
-#: wp-includes/user.php:2863
-#: wp-includes/user.php:3069
-#: wp-includes/user.php:3123
+#: wp-includes/user.php:2883
+#: wp-includes/user.php:3078
+#: wp-includes/user.php:3132
 msgid "<strong>Error:</strong> There is no account with that username or email address."
 msgstr ""
 
-#: wp-includes/user.php:2903
+#: wp-includes/user.php:2923
 msgid "Password reset is not allowed for this user"
 msgstr "Сброс пароля для этого пользователя не разрешён"
 
-#: wp-includes/user.php:2966
-#: wp-includes/user.php:2970
-#: wp-includes/user.php:2976
-#: wp-includes/user.php:3002
-#: wp-includes/user.php:3011
-#: wp-includes/user.php:3015
-#: wp-includes/user.php:3032
+#: wp-includes/user.php:2981
+#: wp-includes/user.php:2985
+#: wp-includes/user.php:2991
+#: wp-includes/user.php:3012
+#: wp-includes/user.php:3021
+#: wp-includes/user.php:3025
+#: wp-includes/user.php:3042
 msgid "Invalid key."
 msgstr ""
 
-#: wp-includes/user.php:3060
+#: wp-includes/user.php:3069
 msgid "<strong>Error:</strong> Please enter a username or email address."
 msgstr ""
 
-#: wp-includes/user.php:3166
+#: wp-includes/user.php:3175
 msgid "Someone has requested a password reset for the following account:"
 msgstr "Кто-то запросил сброс пароля для следующей учётной записи:"
 
 #. translators: %s: Site name.
-#: wp-includes/user.php:3168
+#: wp-includes/user.php:3177
 msgid "Site Name: %s"
 msgstr "Название сайта: %s"
 
-#: wp-includes/user.php:3171
+#: wp-includes/user.php:3180
 msgid "If this was a mistake, ignore this email and nothing will happen."
 msgstr ""
 
-#: wp-includes/user.php:3172
+#: wp-includes/user.php:3181
 msgid "To reset your password, visit the following address:"
 msgstr "Чтобы сбросить пароль, перейдите по следующей ссылке:"
 
 #. translators: %s: IP address of password reset requester.
-#: wp-includes/user.php:3180
+#: wp-includes/user.php:3189
 msgid "This password reset request originated from the IP address %s."
 msgstr ""
 
 #. translators: Password reset notification email subject. %s: Site title.
-#: wp-includes/user.php:3187
+#: wp-includes/user.php:3196
 msgid "[%s] Password Reset"
 msgstr "[%s] Новый пароль"
 
 #. translators: %s: Documentation URL.
-#: wp-includes/user.php:3271
+#: wp-includes/user.php:3280
 msgid "<strong>Error:</strong> The email could not be sent. Your site may not be correctly configured to send emails. <a href=\"%s\">Get support for resetting your password</a>."
 msgstr ""
 
-#: wp-includes/user.php:3272
+#: wp-includes/user.php:3281
 msgid "https://wordpress.org/documentation/article/reset-your-password/"
 msgstr ""
 
-#: wp-includes/user.php:3338
+#: wp-includes/user.php:3347
 msgid "<strong>Error:</strong> Please enter a username."
 msgstr ""
 
-#: wp-includes/user.php:3340
+#: wp-includes/user.php:3349
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
 msgstr ""
 
-#: wp-includes/user.php:3343
+#: wp-includes/user.php:3352
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
 msgstr ""
 
-#: wp-includes/user.php:3348
+#: wp-includes/user.php:3357
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
 msgstr ""
 
-#: wp-includes/user.php:3354
+#: wp-includes/user.php:3363
 msgid "<strong>Error:</strong> Please type your email address."
 msgstr ""
 
-#: wp-includes/user.php:3356
-#: wp-includes/user.php:3656
+#: wp-includes/user.php:3365
+#: wp-includes/user.php:3665
 msgid "<strong>Error:</strong> The email address is not correct."
 msgstr ""
 
 #. translators: %s: Link to the login page.
-#: wp-includes/user.php:3363
+#: wp-includes/user.php:3372
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
 msgstr ""
 
 #. translators: %s: Admin email address.
-#: wp-includes/user.php:3411
+#: wp-includes/user.php:3420
 msgid "<strong>Error:</strong> Could not register you&hellip; please contact the <a href=\"mailto:%s\">site admin</a>!"
 msgstr ""
 
-#: wp-includes/user.php:3668
+#: wp-includes/user.php:3677
 msgid "<strong>Error:</strong> The email address is already used."
 msgstr ""
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/user.php:3688
+#: wp-includes/user.php:3697
 msgid "Hello ###USERNAME###,\n\n"
 "You recently requested to have the email address on your account changed.\n\n"
 "If this is correct, please click on the following link to change it:\n"
@@ -13394,132 +13390,132 @@ msgstr "Здравствуйте ###USERNAME###,\n\n"
 "###SITEURL###"
 
 #. translators: New email address notification email subject. %s: Site title.
-#: wp-includes/user.php:3736
+#: wp-includes/user.php:3745
 msgid "[%s] Email Change Request"
 msgstr ""
 
 #. translators: %s: New email address.
-#: wp-includes/user.php:3758
+#: wp-includes/user.php:3767
 msgid "Your email address has not been updated yet. Please check your inbox at %s for a confirmation email."
 msgstr "Ваш адрес email пока не обновлен. Проверьте получение сообщения с подтверждением в ящике %s."
 
-#: wp-includes/user.php:3788
+#: wp-includes/user.php:3797
 msgid "ClassicPress User"
 msgstr "Пользователь ClassicPress"
 
-#: wp-includes/user.php:3822
+#: wp-includes/user.php:3831
 msgid "User ID"
 msgstr "ID пользователя"
 
-#: wp-includes/user.php:3823
+#: wp-includes/user.php:3832
 msgid "User Login Name"
 msgstr "Имя входа пользователя"
 
-#: wp-includes/user.php:3824
+#: wp-includes/user.php:3833
 msgid "User Nice Name"
 msgstr "Псевдоним пользователя"
 
-#: wp-includes/user.php:3825
+#: wp-includes/user.php:3834
 msgid "User Email"
 msgstr "Адрес email пользователя"
 
-#: wp-includes/user.php:3826
+#: wp-includes/user.php:3835
 msgid "User URL"
 msgstr "URL пользователя"
 
-#: wp-includes/user.php:3827
+#: wp-includes/user.php:3836
 msgid "User Registration Date"
 msgstr "Дата регистрации пользователя"
 
-#: wp-includes/user.php:3828
+#: wp-includes/user.php:3837
 msgid "User Display Name"
 msgstr "Отображаемое имя пользователя"
 
-#: wp-includes/user.php:3829
+#: wp-includes/user.php:3838
 msgid "User Nickname"
 msgstr "Ник пользователя"
 
-#: wp-includes/user.php:3830
+#: wp-includes/user.php:3839
 msgid "User First Name"
 msgstr "Имя пользователя"
 
-#: wp-includes/user.php:3831
+#: wp-includes/user.php:3840
 msgid "User Last Name"
 msgstr "Фамилия пользователя"
 
-#: wp-includes/user.php:3832
+#: wp-includes/user.php:3841
 msgid "User Description"
 msgstr "Информация о пользователе"
 
 #. translators: %s: wp_privacy_additional_user_profile_data
-#: wp-includes/user.php:3900
+#: wp-includes/user.php:3909
 msgid "Filter %s returned items with reserved names."
 msgstr ""
 
-#: wp-includes/user.php:3914
+#: wp-includes/user.php:3923
 msgid "User"
 msgstr "Пользователь"
 
-#: wp-includes/user.php:3915
+#: wp-includes/user.php:3924
 msgid "User&#8217;s profile data."
 msgstr ""
 
-#: wp-includes/user.php:3924
+#: wp-includes/user.php:3933
 msgid "City"
 msgstr ""
 
-#: wp-includes/user.php:3925
+#: wp-includes/user.php:3934
 msgid "Country"
 msgstr ""
 
-#: wp-includes/user.php:3926
+#: wp-includes/user.php:3935
 msgid "Latitude"
 msgstr ""
 
-#: wp-includes/user.php:3927
+#: wp-includes/user.php:3936
 msgid "Longitude"
 msgstr ""
 
-#: wp-includes/user.php:3928
-#: wp-includes/user.php:3956
+#: wp-includes/user.php:3937
+#: wp-includes/user.php:3965
 msgid "IP"
 msgstr ""
 
-#: wp-includes/user.php:3944
+#: wp-includes/user.php:3953
 msgid "Community Events Location"
 msgstr ""
 
-#: wp-includes/user.php:3945
+#: wp-includes/user.php:3954
 msgid "User&#8217;s location data used for the Community Events in the ClassicPress Events and News dashboard widget."
 msgstr ""
 
-#: wp-includes/user.php:3955
+#: wp-includes/user.php:3964
 msgid "Expiration"
 msgstr ""
 
-#: wp-includes/user.php:3957
+#: wp-includes/user.php:3966
 msgid "User Agent"
 msgstr ""
 
-#: wp-includes/user.php:3958
+#: wp-includes/user.php:3967
 msgid "Last Login"
 msgstr ""
 
-#: wp-includes/user.php:3979
+#: wp-includes/user.php:3988
 msgid "Session Tokens"
 msgstr ""
 
-#: wp-includes/user.php:3980
+#: wp-includes/user.php:3989
 msgid "User&#8217;s Session Tokens data."
 msgstr ""
 
 #. translators: Privacy data request confirmed notification email subject. 1: Site title, 2: Name of the confirmed action.
-#: wp-includes/user.php:4079
+#: wp-includes/user.php:4088
 msgid "[%1$s] Action Confirmed: %2$s"
 msgstr "[%1$s] Действие подтверждено: %2$s"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL, SITEURL; those are placeholders.
-#: wp-includes/user.php:4106
+#: wp-includes/user.php:4115
 msgid "Hello,\n\n"
 "A user data privacy request has been confirmed on ###SITENAME###:\n\n"
 "User: ###USER_EMAIL###\n"
@@ -13540,18 +13536,18 @@ msgstr "Здравствуйте,\n\n"
 "###SITEURL###"
 
 #. translators: 1 & 2: Deprecation replacement options.
-#: wp-includes/user.php:4161
-#: wp-includes/user.php:4401
+#: wp-includes/user.php:4170
+#: wp-includes/user.php:4410
 msgid "%1$s or %2$s"
 msgstr ""
 
 #. translators: Erasure request fulfilled notification email subject. %s: Site title.
-#: wp-includes/user.php:4283
+#: wp-includes/user.php:4292
 msgid "[%s] Erasure Request Fulfilled"
 msgstr "[%s] Запрос на удаление данных выполнен"
 
 #. translators: Do not translate SITENAME, SITEURL; those are placeholders.
-#: wp-includes/user.php:4336
+#: wp-includes/user.php:4345
 msgid "Hello,\n\n"
 "Your request to erase your personal data on ###SITENAME### has been completed.\n\n"
 "If you have any follow-up questions or concerns, please contact the site administrator.\n\n"
@@ -13566,7 +13562,7 @@ msgstr "Здравствуйте,\n\n"
 "###SITEURL###"
 
 #. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those are placeholders.
-#: wp-includes/user.php:4350
+#: wp-includes/user.php:4359
 msgid "Hello,\n\n"
 "Your request to erase your personal data on ###SITENAME### has been completed.\n\n"
 "If you have any follow-up questions or concerns, please contact the site administrator.\n\n"
@@ -13582,67 +13578,67 @@ msgstr "Здравствуйте,\n\n"
 "команда ###SITENAME###\n"
 "###SITEURL###"
 
-#: wp-includes/user.php:4517
+#: wp-includes/user.php:4526
 msgid "Action has been confirmed."
 msgstr "Действие подтверждено."
 
-#: wp-includes/user.php:4518
+#: wp-includes/user.php:4527
 msgid "The site administrator has been notified and will fulfill your request as soon as possible."
 msgstr "Администратору сайта было отослано уведомление, ваш запрос будет выполнен так скоро, насколько это возможно."
 
-#: wp-includes/user.php:4522
+#: wp-includes/user.php:4531
 msgid "Thanks for confirming your export request."
 msgstr "Спасибо за подтверждение вашего запроса на экспорт данных."
 
-#: wp-includes/user.php:4523
+#: wp-includes/user.php:4532
 msgid "The site administrator has been notified. You will receive a link to download your export via email when they fulfill your request."
 msgstr "Администрации сайта было отправлено уведомление. Вы получите ссылку на скачивание файла экспорта данных по электронной почте, когда ваш запрос выполнят."
 
-#: wp-includes/user.php:4525
+#: wp-includes/user.php:4534
 msgid "Thanks for confirming your erasure request."
 msgstr "Спасибо за подтверждение вашего запроса на удаление данных."
 
-#: wp-includes/user.php:4526
+#: wp-includes/user.php:4535
 msgid "The site administrator has been notified. You will receive an email confirmation when they erase your data."
 msgstr "Администрации сайта было отправлено уведомление. Вы получите уведомление по электронной почте при удалении ваших данных."
 
-#: wp-includes/user.php:4569
+#: wp-includes/user.php:4578
 msgid "Invalid action name."
 msgstr "Неверное имя действия."
 
-#: wp-includes/user.php:4573
+#: wp-includes/user.php:4582
 msgid "Invalid request status."
 msgstr ""
 
-#: wp-includes/user.php:4594
+#: wp-includes/user.php:4603
 msgid "An incomplete personal data request for this email address already exists."
 msgstr ""
 
-#: wp-includes/user.php:4625
+#: wp-includes/user.php:4634
 msgid "Export Personal Data"
 msgstr "Экспорт персональных данных"
 
-#: wp-includes/user.php:4628
+#: wp-includes/user.php:4637
 msgid "Erase Personal Data"
 msgstr "Удаление персональных данных"
 
 #. translators: %s: Action name.
-#: wp-includes/user.php:4632
+#: wp-includes/user.php:4641
 msgid "Confirm the \"%s\" action"
 msgstr "Подтвердите действие «%s»"
 
-#: wp-includes/user.php:4662
+#: wp-includes/user.php:4671
 #: wp-includes/user.php:4848
 msgid "Invalid personal data request."
 msgstr ""
 
 #. translators: Confirm privacy data request notification email subject. 1: Site title, 2: Name of the action.
-#: wp-includes/user.php:4689
+#: wp-includes/user.php:4698
 msgid "[%1$s] Confirm Action: %2$s"
 msgstr "[%1$s] Подтвердите действие: %2$s"
 
 #. translators: Do not translate DESCRIPTION, CONFIRM_URL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/user.php:4712
+#: wp-includes/user.php:4721
 msgid "Hello,\n\n"
 "A request has been made to perform the following action on your account:\n\n"
 "     ###DESCRIPTION###\n\n"
@@ -13664,7 +13660,7 @@ msgstr "Здравствуйте,\n\n"
 "команда ###SITENAME###\n"
 "###SITEURL###"
 
-#: wp-includes/user.php:4793
+#: wp-includes/user.php:4802
 msgid "Unable to send personal data export confirmation email."
 msgstr ""
 
@@ -13676,11 +13672,11 @@ msgstr ""
 msgid "The confirmation key is missing from this personal data request."
 msgstr ""
 
-#: wp-includes/user.php:4875
+#: wp-includes/user.php:4870
 msgid "The confirmation key is invalid for this personal data request."
 msgstr ""
 
-#: wp-includes/user.php:4879
+#: wp-includes/user.php:4874
 msgid "The confirmation key has expired for this personal data request."
 msgstr ""
 
@@ -13754,7 +13750,7 @@ msgstr "Ни одного меню ещё не создано. <a href=\"%s\">С
 #: wp-includes/widgets/class-wp-widget-archives.php:207
 #: wp-includes/widgets/class-wp-widget-calendar.php:100
 #: wp-includes/widgets/class-wp-widget-categories.php:175
-#: wp-includes/widgets/class-wp-widget-custom-html.php:266
+#: wp-includes/widgets/class-wp-widget-custom-html.php:227
 #: wp-includes/widgets/class-wp-widget-media.php:417
 #: wp-includes/widgets/class-wp-widget-meta.php:130
 #: wp-includes/widgets/class-wp-widget-pages.php:155
@@ -13762,8 +13758,8 @@ msgstr "Ни одного меню ещё не создано. <a href=\"%s\">С
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:159
 #: wp-includes/widgets/class-wp-widget-search.php:72
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:142
-#: wp-includes/widgets/class-wp-widget-text.php:492
-#: wp-includes/widgets/class-wp-widget-text.php:525
+#: wp-includes/widgets/class-wp-widget-text.php:478
+#: wp-includes/widgets/class-wp-widget-text.php:496
 msgid "Title:"
 msgstr "Заголовок:"
 
@@ -13833,22 +13829,21 @@ msgstr "Произвольный HTML-код."
 msgid "Custom HTML"
 msgstr "HTML-код"
 
-#. translators: Hidden accessibility text.
-#: wp-includes/widgets/class-wp-widget-custom-html.php:271
-#: wp-includes/widgets/class-wp-widget-text.php:503
-#: wp-includes/widgets/class-wp-widget-text.php:564
+#: wp-includes/widgets/class-wp-widget-custom-html.php:231
+#: wp-includes/widgets/class-wp-widget-text.php:483
+#: wp-includes/widgets/class-wp-widget-text.php:509
 msgid "Content:"
 msgstr "Содержимое:"
 
-#: wp-includes/widgets/class-wp-widget-custom-html.php:284
+#: wp-includes/widgets/class-wp-widget-custom-html.php:244
 msgid "Some HTML tags are not permitted, including:"
 msgstr "Некоторые HTML теги недопустимы, включая:"
 
-#: wp-includes/widgets/class-wp-widget-custom-html.php:305
+#: wp-includes/widgets/class-wp-widget-custom-html.php:262
 msgid "Use the Custom HTML widget to add arbitrary HTML code to your widget areas."
 msgstr "Используйте виджет пользовательского HTML-кода для добавления произвольного HTML кода в области виджетов."
 
-#: wp-includes/widgets/class-wp-widget-custom-html.php:334
+#: wp-includes/widgets/class-wp-widget-custom-html.php:291
 msgid "Custom HTML Widget"
 msgstr "Пользовательский HTML виджет"
 
@@ -14293,37 +14288,17 @@ msgstr "Произвольный текст."
 msgid "Text"
 msgstr "Текст"
 
-#: wp-includes/widgets/class-wp-widget-text.php:497
+#: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
 msgstr "Этот виджет содержит код, более подходящий для нового виджета &#8220;HTML-код&#8221;. Как насчет того, чтобы попробовать его?"
 
-#: wp-includes/widgets/class-wp-widget-text.php:499
+#: wp-includes/widgets/class-wp-widget-text.php:504
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you have not yet, how about trying that widget instead?"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-text.php:507
+#: wp-includes/widgets/class-wp-widget-text.php:515
 msgid "Automatically add paragraphs"
 msgstr "Автоматически добавлять абзацы"
-
-#: wp-includes/widgets/class-wp-widget-text.php:532
-msgid "New Custom HTML Widget"
-msgstr "Новый виджет пользовательского HTML"
-
-#: wp-includes/widgets/class-wp-widget-text.php:534
-msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by pressing the &#8220;<a class=\"add-widget\" href=\"#\">Add a Widget</a>&#8221; button and searching for &#8220;HTML&#8221;. Check it out to add some custom code to your site!"
-msgstr "Эй! А вы знаете что у нас теперь есть виджет &#8220;HTML-код&#8221; ? Вы можете найти его нажав кнопку &#8220;<a class=\"add-widget\" href=\"#\">Добавить виджет</a>&#8221; и поискав &#8220;HTML&#8221;. Попробуйте его для вставки пользовательского кода на ваш сайт!"
-
-#: wp-includes/widgets/class-wp-widget-text.php:536
-msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by scanning the list of available widgets on this screen. Check it out to add some custom code to your site!"
-msgstr "Эй! А вы знаете что у нас теперь есть виджет &#8220;HTML-код&#8221; ? Вы можете найти его в списке доступных виджетов на этом экране. Попробуйте его для вставки пользовательского кода на ваш сайт!"
-
-#: wp-includes/widgets/class-wp-widget-text.php:551
-msgid "Did you just paste HTML?"
-msgstr "Вы только что вставили HTML?"
-
-#: wp-includes/widgets/class-wp-widget-text.php:552
-msgid "Hey there, looks like you just pasted HTML into the &#8220;Visual&#8221; tab of the Text widget. You may want to paste your code into the &#8220;Text&#8221; tab instead. Alternately, try out the new &#8220;Custom HTML&#8221; widget!"
-msgstr "Эй! Выглядит так, как будто вы только что вставили HTML в визуальный редактор виджета Текст. Наверное лучше было вставить его в вкладку &#8220;Текст&#8221; Альтернативно, попробуйте новый виджет &#8220;Пользовательского HTML&#8221;!"
 
 #. translators: %s: Site title.
 #: wp-links-opml.php:33
@@ -14411,163 +14386,163 @@ msgstr ""
 msgid "Remind me later"
 msgstr ""
 
-#: wp-login.php:786
+#: wp-login.php:785
 msgid "<strong>Error:</strong> Your password reset link appears to be invalid. Please request a new link below."
 msgstr ""
 
-#: wp-login.php:788
+#: wp-login.php:787
 msgid "<strong>Error:</strong> Your password reset link has expired. Please request a new link below."
 msgstr ""
 
-#: wp-login.php:813
+#: wp-login.php:812
 msgid "Lost Password"
 msgstr "Забытый пароль"
 
-#: wp-login.php:813
+#: wp-login.php:812
 msgid "Please enter your username or email address. You will receive an email message with instructions on how to reset your password."
 msgstr ""
 
-#: wp-login.php:840
+#: wp-login.php:839
 msgid "Get New Password"
 msgstr "Получить новый пароль"
 
-#: wp-login.php:918
+#: wp-login.php:925
 msgid "The password cannot be a space or all spaces."
 msgstr ""
 
-#: wp-login.php:924
+#: wp-login.php:931
 msgid "<strong>Error:</strong> The passwords do not match."
 msgstr ""
 
-#: wp-login.php:941
+#: wp-login.php:948
 msgid "Password Reset"
 msgstr "Сброс пароля"
 
-#: wp-login.php:941
+#: wp-login.php:948
 msgid "Your password has been reset."
 msgstr "Ваш новый пароль вступил в силу."
 
-#: wp-login.php:949
+#: wp-login.php:956
 msgid "Reset Password"
 msgstr "Задать пароль"
 
-#: wp-login.php:949
+#: wp-login.php:956
 msgid "Enter your new password below or generate one."
 msgstr ""
 
-#: wp-login.php:957
+#: wp-login.php:964
 msgid "New password"
 msgstr "Новый пароль"
 
-#: wp-login.php:963
+#: wp-login.php:970
 msgid "Hide password"
 msgstr "Скрыть пароль"
 
-#: wp-login.php:966
+#: wp-login.php:973
 msgid "Strength indicator"
 msgstr "Индикатор надёжности"
 
-#: wp-login.php:970
+#: wp-login.php:977
 msgid "Confirm use of weak password"
 msgstr "Разрешить использование слабого пароля."
 
-#: wp-login.php:975
+#: wp-login.php:982
 msgid "Confirm new password"
 msgstr "Подтвердите новый пароль"
 
-#: wp-login.php:996
+#: wp-login.php:1003
 msgid "Generate Password"
 msgstr "Создать пароль"
 
-#: wp-login.php:997
+#: wp-login.php:1004
 msgid "Save Password"
 msgstr ""
 
-#: wp-login.php:1074
+#: wp-login.php:1081
 msgid "Registration Form"
 msgstr "Регистрационная форма"
 
-#: wp-login.php:1074
+#: wp-login.php:1081
 msgid "Register For This Site"
 msgstr "Зарегистрироваться на этом сайте"
 
-#: wp-login.php:1079
+#: wp-login.php:1086
 msgid "Username"
 msgstr "Имя пользователя"
 
-#: wp-login.php:1097
+#: wp-login.php:1104
 msgid "Registration confirmation will be emailed to you."
 msgstr "Подтверждение регистрации будет отправлено на ваш e-mail."
 
 #. translators: %s: Link to the login page.
-#: wp-login.php:1133
+#: wp-login.php:1140
 msgid "Check your email for the confirmation link, then visit the <a href=\"%s\">login page</a>."
 msgstr ""
 
 #. translators: %s: Link to the login page.
-#: wp-login.php:1143
+#: wp-login.php:1150
 msgid "Registration complete. Please check your email, then visit the <a href=\"%s\">login page</a>."
 msgstr ""
 
-#: wp-login.php:1153
+#: wp-login.php:1160
 msgid "Check your email"
 msgstr ""
 
-#: wp-login.php:1159
+#: wp-login.php:1166
 msgid "Missing request ID."
 msgstr "Отсутствует ID запроса."
 
-#: wp-login.php:1163
+#: wp-login.php:1170
 msgid "Missing confirm key."
 msgstr ""
 
-#: wp-login.php:1191
+#: wp-login.php:1198
 msgid "User action confirmed."
 msgstr "Действие пользователя подтверждено."
 
 #. translators: 1: Browser cookie documentation URL, 2: Support forums URL.
-#: wp-login.php:1241
+#: wp-login.php:1248
 msgid "<strong>Error:</strong> Cookies are blocked due to unexpected output. For help, please see <a href=\"%1$s\">this documentation</a> or try the <a href=\"%2$s\">support forums</a>."
 msgstr ""
 
-#: wp-login.php:1242
+#: wp-login.php:1249
 msgid "https://wordpress.org/documentation/article/cookies/"
 msgstr ""
 
 #. translators: %s: Browser cookie documentation URL.
-#: wp-login.php:1252
+#: wp-login.php:1259
 msgid "<strong>Error:</strong> Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use ClassicPress."
 msgstr ""
 
-#: wp-login.php:1253
+#: wp-login.php:1260
 msgid "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
 msgstr ""
 
-#: wp-login.php:1273
+#: wp-login.php:1280
 msgid "You have logged in successfully."
 msgstr "Вы успешно вошли в систему."
 
-#: wp-login.php:1349
+#: wp-login.php:1356
 msgid "Your session has expired. Please log in to continue where you left off."
 msgstr "Ваша сессия истекла. Пожалуйста, авторизуйтесь снова, чтобы продолжить работу."
 
-#: wp-login.php:1354
+#: wp-login.php:1361
 msgid "You are now logged out."
 msgstr "Вы вышли из системы."
 
-#: wp-login.php:1356
+#: wp-login.php:1363
 msgid "<strong>Error:</strong> User registration is currently not allowed."
 msgstr ""
 
-#: wp-login.php:1358
+#: wp-login.php:1365
 msgid "<strong>You have successfully updated ClassicPress!</strong> Please log back in to see what&#8217;s new."
 msgstr "<strong>Вы успешно обновили ClassicPress!</strong> Пожалуйста, войдите, чтобы узнать, что нового."
 
-#: wp-login.php:1360
+#: wp-login.php:1367
 msgid "Recovery Mode Initialized. Please log in to continue."
 msgstr ""
 
-#: wp-login.php:1427
+#: wp-login.php:1434
 msgid "Show password"
 msgstr "Показать пароль"
 
@@ -14845,23 +14820,23 @@ msgstr "Извините, обратные ссылки для этого объ
 msgid "There is already a ping from that URL for this post."
 msgstr ""
 
-#: wp-includes/js/dist/a11y.js:2243
+#: wp-includes/js/dist/a11y.js:2263
 msgid "Notifications"
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:2850
+#: wp-includes/js/dist/api-fetch.js:2871
 msgid "The response is not a valid JSON response."
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:2886
+#: wp-includes/js/dist/api-fetch.js:2907
 msgid "An unknown error occurred."
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:2963
+#: wp-includes/js/dist/api-fetch.js:2984
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:3169
+#: wp-includes/js/dist/api-fetch.js:3190
 msgid "You are probably offline."
 msgstr ""
 
@@ -14870,29 +14845,29 @@ msgid "Could not set that as the thumbnail image. Try a different attachment."
 msgstr "Не удалось задать это изображение в качестве миниатюры. Попробуйте другое вложение."
 
 #. translators: Accessibility text. %d: Number of attachments found in a search.
-#: wp-includes/js/media-views.js:7863
+#: wp-includes/js/media-views.js:8279
 msgid "Number of media items displayed: %d. Click load more for more results."
 msgstr ""
 
 #. translators: Accessibility text. %d: Number of attachments found in a search.
-#: wp-includes/js/media-views.js:7867
+#: wp-includes/js/media-views.js:8283
 msgid "Number of media items displayed: %d. Scroll the page for more results."
 msgstr ""
 
-#: wp-includes/js/media-views.js:8269
+#: wp-includes/js/media-views.js:8685
 msgid "Load more"
 msgstr ""
 
-#: wp-includes/js/media-views.js:8281
+#: wp-includes/js/media-views.js:8697
 msgid "Jump to first loaded item"
 msgstr ""
 
-#: wp-includes/js/media-views.js:8319
+#: wp-includes/js/media-views.js:8735
 msgid "Showing %1$s of %2$s media items"
 msgstr ""
 
 #. translators: %s: Number of selected media attachments.
-#: wp-includes/js/media-views.js:8543
+#: wp-includes/js/media-views.js:8967
 msgid "%s item selected"
 msgid_plural "%s items selected"
 msgstr[0] ""
