@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-11-16 08:56\n"
+"PO-Revision-Date: 2024-11-16 20:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -7333,7 +7333,7 @@ msgstr "In this subsection you should note what analytics package you use, how u
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:537
 msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
-msgstr ""
+msgstr "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:541
@@ -10709,7 +10709,7 @@ msgstr "Select Media Category"
 
 #: wp-admin/includes/media.php:3997
 msgid "Bulk select"
-msgstr ""
+msgstr "Bulk select"
 
 #: wp-admin/includes/menu.php:364
 msgid "Sorry, you are not allowed to access this page."
@@ -15161,21 +15161,21 @@ msgstr "ClassicPress is incompatible with the block editor. When blocks compatib
 #: wp-admin/options-general.php:650
 #: wp-admin/options-general.php:654
 msgid "Disable Emojis"
-msgstr ""
+msgstr "Disable Emojis"
 
 #: wp-admin/options-general.php:658
 msgid "Emojis disabled"
-msgstr ""
+msgstr "Emojis disabled"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:660
 #: wp-admin/options-general.php:664
 msgid "Disable XML-RPC"
-msgstr ""
+msgstr "Disable XML-RPC"
 
 #: wp-admin/options-general.php:668
 msgid "XML-RPC server disabled"
-msgstr ""
+msgstr "XML-RPC server disabled"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:352
@@ -17813,50 +17813,52 @@ msgstr "Error saving media file."
 
 #: wp-admin/upload.php:123
 msgid "by"
-msgstr ""
+msgstr "by"
 
 #: wp-admin/upload.php:124
 msgid "pixels"
-msgstr ""
+msgstr "pixels"
 
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:464
 msgid "Deselect"
-msgstr ""
+msgstr "Deselect"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
-msgstr ""
+msgstr "Failed to update media:"
 
 #: wp-admin/upload.php:128
 msgid "Upload failed"
-msgstr ""
+msgstr "Upload failed"
 
 #: wp-admin/upload.php:129
 msgid "Tap to close"
-msgstr ""
+msgstr "Tap to close"
 
 #: wp-admin/upload.php:130
 msgid "Enter new filename"
-msgstr ""
+msgstr "Enter new filename"
 
 #: wp-admin/upload.php:131
 msgid "Invalid file type"
-msgstr ""
+msgstr "Invalid file type"
 
 #: wp-admin/upload.php:132
 msgid "Check the list of accepted file types."
-msgstr ""
+msgstr "Check the list of accepted file types."
 
 #: wp-admin/upload.php:133
 msgid "Failed to delete attachment."
-msgstr ""
+msgstr "Failed to delete attachment."
 
 #: wp-admin/upload.php:134
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "You are about to permanently delete this item from your site.\n"
+"This action cannot be undone.\n"
+"'Cancel' to stop, 'OK' to delete."
 
 #: wp-admin/upload.php:135
 #: wp-admin/js/common.js:527
@@ -17903,77 +17905,77 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-scre
 
 #: wp-admin/upload.php:287
 msgid "Filter media"
-msgstr ""
+msgstr "Filter media"
 
 #: wp-admin/upload.php:323
 msgid "Media items navigation"
-msgstr ""
+msgstr "Media items navigation"
 
 #. translators: %s: Number of media items showing
 #: wp-admin/upload.php:329
 msgid "%s items"
-msgstr ""
+msgstr "%s items"
 
 #: wp-admin/upload.php:355
 msgid "of"
-msgstr ""
+msgstr "of"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
-msgstr ""
+msgstr "Showing %s of %s media items"
 
 #: wp-admin/upload.php:483
 msgid "No media items found."
-msgstr ""
+msgstr "No media items found."
 
 #: wp-admin/upload.php:505
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Edit previous media item"
 
 #: wp-admin/upload.php:508
 msgid "Edit next media item"
-msgstr ""
+msgstr "Edit next media item"
 
 #: wp-admin/upload.php:511
 msgid "Close dialog"
-msgstr ""
+msgstr "Close dialog"
 
 #: wp-admin/upload.php:515
 msgid "Attachment details"
-msgstr ""
+msgstr "Attachment details"
 
 #: wp-admin/upload.php:520
 msgid "Attachment Preview"
-msgstr ""
+msgstr "Attachment Preview"
 
 #: wp-admin/upload.php:543
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Uploaded on:"
 
 #: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
-msgstr ""
+msgstr "Learn how to describe the purpose of the image"
 
 #: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
-msgstr ""
+msgstr ". Leave empty if the image is purely decorative."
 
 #: wp-admin/upload.php:577
 msgid "Saved!"
-msgstr ""
+msgstr "Saved!"
 
 #: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
-msgstr ""
+msgstr "Taxonomy updated successfully!"
 
 #: wp-admin/upload.php:625
 msgid "View attachment page"
-msgstr ""
+msgstr "View attachment page"
 
 #: wp-admin/upload.php:627
 msgid "Edit more details"
-msgstr ""
+msgstr "Edit more details"
 
 #: wp-admin/upload.php:775
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
