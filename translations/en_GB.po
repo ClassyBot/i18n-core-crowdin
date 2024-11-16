@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-11-16 08:55\n"
+"PO-Revision-Date: 2024-11-16 20:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8168,27 +8168,27 @@ msgstr "Invalid menu ID."
 #: wp-includes/object-relationships.php:247
 #: wp-includes/object-relationships.php:355
 msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
 
 #. translators: %s: String, 0, object, or array.
 #: wp-includes/object-relationships.php:86
 #: wp-includes/object-relationships.php:373
 msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:108
 #: wp-includes/object-relationships.php:269
 #: wp-includes/object-relationships.php:395
 msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:126
 #: wp-includes/object-relationships.php:287
 #: wp-includes/object-relationships.php:413
 msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104
