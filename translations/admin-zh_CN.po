@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-06T12:22:18+00:00\n"
+"POT-Creation-Date: 2024-11-16T08:51:44+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-10-06 12:29\n"
+"PO-Revision-Date: 2024-11-16 08:55\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -38,8 +38,8 @@ msgstr "欢迎使用 ClassicPress！"
 #: wp-admin/about.php:23
 #: wp-admin/credits.php:25
 #: wp-admin/freedoms.php:39
-#: wp-admin/includes/ajax-actions.php:4742
-#: wp-admin/includes/ajax-actions.php:4785
+#: wp-admin/includes/ajax-actions.php:4751
+#: wp-admin/includes/ajax-actions.php:4794
 #: wp-admin/includes/class-wp-debug-data.php:917
 #: wp-admin/includes/class-wp-debug-data.php:964
 #: wp-admin/includes/class-wp-debug-data.php:1286
@@ -386,17 +386,17 @@ msgstr "无效的文章类型。"
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3303
-#: wp-admin/upload.php:589
+#: wp-admin/upload.php:591
 msgid "Copy URL to clipboard"
 msgstr "复制 URL 到剪贴板"
 
 #: wp-admin/async-upload.php:73
-#: wp-admin/includes/ajax-actions.php:3375
+#: wp-admin/includes/ajax-actions.php:3384
 #: wp-admin/includes/class-wp-media-list-table.php:1018
 #: wp-admin/includes/class-wp-privacy-policy-content.php:409
 #: wp-admin/includes/media.php:3304
 #: wp-admin/site-health-info.php:55
-#: wp-admin/upload.php:590
+#: wp-admin/upload.php:592
 msgid "Copied!"
 msgstr "已复制！"
 
@@ -565,8 +565,8 @@ msgstr "编辑评论"
 #: wp-admin/theme-install.php:127
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:842
-#: wp-admin/upload.php:151
-#: wp-admin/upload.php:771
+#: wp-admin/upload.php:152
+#: wp-admin/upload.php:773
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -619,8 +619,8 @@ msgstr "您也可以使用状态栏来管理此屏幕上的评论，在这里您
 #: wp-admin/themes.php:206
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:863
-#: wp-admin/upload.php:171
-#: wp-admin/upload.php:803
+#: wp-admin/upload.php:172
+#: wp-admin/upload.php:805
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -665,8 +665,8 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/comments-screen/\"
 #: wp-admin/theme-install.php:148
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
-#: wp-admin/upload.php:173
-#: wp-admin/upload.php:805
+#: wp-admin/upload.php:174
+#: wp-admin/upload.php:807
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -766,7 +766,7 @@ msgstr "注意："
 #. translators: Hidden accessibility text.
 #: wp-admin/comment.php:172
 #: wp-admin/edit-form-comment.php:48
-#: wp-admin/includes/ajax-actions.php:3386
+#: wp-admin/includes/ajax-actions.php:3395
 #: wp-admin/includes/class-plugin-installer-skin.php:218
 #: wp-admin/includes/class-theme-installer-skin.php:241
 #: wp-admin/includes/class-wp-comments-list-table.php:469
@@ -855,7 +855,7 @@ msgstr "评论"
 
 #: wp-admin/comment.php:238
 #: wp-admin/edit-form-comment.php:159
-#: wp-admin/includes/ajax-actions.php:3366
+#: wp-admin/includes/ajax-actions.php:3375
 #: wp-admin/includes/class-wp-comments-list-table.php:810
 #: wp-admin/includes/class-wp-links-list-table.php:337
 #: wp-admin/includes/class-wp-media-list-table.php:190
@@ -1105,7 +1105,7 @@ msgstr "评论（%s）"
 #. translators: Default privacy policy heading.
 #: wp-admin/edit-comments.php:180
 #: wp-admin/edit-comments.php:241
-#: wp-admin/includes/ajax-actions.php:3400
+#: wp-admin/includes/ajax-actions.php:3409
 #: wp-admin/includes/class-wp-comments-list-table.php:501
 #: wp-admin/includes/class-wp-media-list-table.php:413
 #: wp-admin/includes/class-wp-media-list-table.php:415
@@ -1178,7 +1178,7 @@ msgstr "评论列表"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:737
-#: wp-admin/upload.php:839
+#: wp-admin/upload.php:841
 #: wp-admin/users.php:638
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1625,9 +1625,8 @@ msgstr "评论"
 #: wp-admin/includes/meta-boxes.php:1135
 #: wp-admin/includes/meta-boxes.php:1617
 #: wp-admin/includes/widgets.php:277
-#: wp-admin/js/widgets.js:202
-#: wp-admin/js/widgets.js:429
-#: wp-admin/js/widgets/custom-html-widgets.js:261
+#: wp-admin/js/widgets.js:204
+#: wp-admin/js/widgets.js:430
 msgid "Save"
 msgstr "保存"
 
@@ -1698,7 +1697,7 @@ msgid "In reply to: %s"
 msgstr "回复到：%s"
 
 #: wp-admin/edit-form-comment.php:242
-#: wp-admin/includes/ajax-actions.php:3368
+#: wp-admin/includes/ajax-actions.php:3377
 #: wp-admin/includes/class-wp-comments-list-table.php:793
 #: wp-admin/includes/class-wp-media-list-table.php:934
 #: wp-admin/includes/class-wp-media-list-table.php:996
@@ -1819,7 +1818,7 @@ msgstr "例如：<code>https://www.classicpress.net</code> &#8212; 不要忘记 
 #: wp-admin/edit-link-form.php:130
 #: wp-admin/edit-tag-form.php:203
 #: wp-admin/edit-tags.php:511
-#: wp-admin/includes/ajax-actions.php:3413
+#: wp-admin/includes/ajax-actions.php:3422
 #: wp-admin/includes/class-walker-nav-menu-edit.php:232
 #: wp-admin/includes/class-wp-media-list-table.php:1309
 #: wp-admin/includes/class-wp-plugins-list-table.php:462
@@ -1828,7 +1827,7 @@ msgstr "例如：<code>https://www.classicpress.net</code> &#8212; 不要忘记 
 #: wp-admin/includes/media.php:3220
 #: wp-admin/includes/nav-menu.php:1129
 #: wp-admin/themes.php:620
-#: wp-admin/upload.php:582
+#: wp-admin/upload.php:584
 msgid "Description"
 msgstr "描述"
 
@@ -1914,7 +1913,7 @@ msgstr "对不起，您无权在该分类上创建条目。"
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:735
+#: wp-admin/upload.php:737
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "对不起，您无权删除此项目。"
 
@@ -1938,7 +1937,7 @@ msgstr "你正试图编辑一个不存在的项目。或许它已被删除？"
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:687
+#: wp-admin/upload.php:689
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "对不起，您无权编辑此项目。"
 
@@ -2034,31 +2033,31 @@ msgstr "对不起，您无权编辑这种类型的文章。"
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:699
+#: wp-admin/upload.php:701
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "对不起，您无权将此项目移动到回收站。"
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:703
+#: wp-admin/upload.php:705
 msgid "Error in moving the item to Trash."
 msgstr "移动项目到回收站时出错。"
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:720
+#: wp-admin/upload.php:722
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "对不起，您无权将此项目从回收站中恢复。"
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:724
+#: wp-admin/upload.php:726
 msgid "Error in restoring the item from Trash."
 msgstr "从回收站恢复项目时出错。"
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:739
+#: wp-admin/upload.php:741
 msgid "Error in deleting the attachment."
 msgstr "删除附件时出错。"
 
@@ -2097,7 +2096,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "您可以通过使用文章列表上方的下拉菜单来调整列表以只显示特定分类或特定月份的文章。进行选择后单击筛选按钮。 您也可以通过点击文章作者、分类或文章列表中的标签来进一步调整列表。"
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:781
+#: wp-admin/upload.php:783
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "可用操作"
@@ -2694,7 +2693,7 @@ msgstr "关于 %s 的更多信息"
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
-#: wp-admin/upload.php:540
+#: wp-admin/upload.php:542
 msgid "Details"
 msgstr "详情"
 
@@ -2831,7 +2830,7 @@ msgid "Item not updated."
 msgstr "项目未更新。"
 
 #: wp-admin/includes/ajax-actions.php:2176
-#: wp-admin/includes/ajax-actions.php:4045
+#: wp-admin/includes/ajax-actions.php:4054
 #: wp-admin/includes/class-wp-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:92
 msgid "No items found."
@@ -2844,7 +2843,7 @@ msgstr "未找到项目。"
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2591
 #: wp-admin/includes/media.php:2914
-#: wp-admin/upload.php:571
+#: wp-admin/upload.php:573
 msgid "Title"
 msgstr "标题"
 
@@ -2853,7 +2852,7 @@ msgid "Type"
 msgstr "类型"
 
 #: wp-admin/includes/ajax-actions.php:2179
-#: wp-admin/includes/ajax-actions.php:3414
+#: wp-admin/includes/ajax-actions.php:3423
 #: wp-admin/includes/class-wp-media-list-table.php:1207
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
@@ -2934,19 +2933,19 @@ msgstr ""
 msgid "You need to choose a media category folder before you can upload a file."
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3349
+#: wp-admin/includes/ajax-actions.php:3358
 msgid "Select "
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3352
+#: wp-admin/includes/ajax-actions.php:3361
 msgid "File"
 msgstr "文件"
 
-#: wp-admin/includes/ajax-actions.php:3362
+#: wp-admin/includes/ajax-actions.php:3371
 msgid "File name: "
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3370
+#: wp-admin/includes/ajax-actions.php:3379
 #: wp-admin/includes/class-wp-media-list-table.php:945
 #: wp-admin/includes/class-wp-media-list-table.php:1008
 #: wp-admin/includes/class-wp-posts-list-table.php:1509
@@ -2956,20 +2955,20 @@ msgstr ""
 msgid "View"
 msgstr "查看"
 
-#: wp-admin/includes/ajax-actions.php:3374
+#: wp-admin/includes/ajax-actions.php:3383
 #: wp-admin/includes/class-wp-media-list-table.php:1017
 msgid "Copy URL"
 msgstr "复制 URL"
 
-#: wp-admin/includes/ajax-actions.php:3379
+#: wp-admin/includes/ajax-actions.php:3388
 #: wp-admin/includes/class-wp-media-list-table.php:1026
 #: wp-admin/includes/media.php:3308
-#: wp-admin/upload.php:627
+#: wp-admin/upload.php:629
 msgid "Download file"
 msgstr "下载文件"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/ajax-actions.php:3382
+#: wp-admin/includes/ajax-actions.php:3391
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:258
 #: wp-admin/includes/class-wp-comments-list-table.php:882
 #: wp-admin/includes/class-wp-list-table.php:650
@@ -2978,84 +2977,84 @@ msgstr "下载文件"
 msgid "Show more details"
 msgstr "显示详情"
 
-#: wp-admin/includes/ajax-actions.php:3390
+#: wp-admin/includes/ajax-actions.php:3399
 #: wp-admin/includes/class-wp-media-list-table.php:1117
 #: wp-admin/includes/class-wp-media-list-table.php:1259
 msgid "Media Categories"
 msgstr "媒体分类"
 
-#: wp-admin/includes/ajax-actions.php:3392
+#: wp-admin/includes/ajax-actions.php:3401
 #: wp-admin/includes/class-wp-media-list-table.php:1141
 #: wp-admin/includes/class-wp-media-list-table.php:1282
 msgid "Media Tags"
 msgstr "媒体标签"
 
-#: wp-admin/includes/ajax-actions.php:3394
+#: wp-admin/includes/ajax-actions.php:3403
 msgid "Featured Image"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3396
+#: wp-admin/includes/ajax-actions.php:3405
 msgid "Used In"
 msgstr ""
 
-#: wp-admin/includes/ajax-actions.php:3398
+#: wp-admin/includes/ajax-actions.php:3407
 msgid "Uploaded to"
 msgstr "上传至"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/ajax-actions.php:3403
+#: wp-admin/includes/ajax-actions.php:3412
 #: wp-admin/includes/class-wp-list-table.php:839
 #: wp-admin/includes/class-wp-list-table.php:873
 #: wp-admin/includes/class-wp-list-table.php:900
 msgid "No comments"
 msgstr "无评论"
 
-#: wp-admin/includes/ajax-actions.php:3411
+#: wp-admin/includes/ajax-actions.php:3420
 #: wp-admin/includes/class-wp-media-list-table.php:1295
 msgid "Alt Text"
 msgstr "替代文字"
 
-#: wp-admin/includes/ajax-actions.php:3412
+#: wp-admin/includes/ajax-actions.php:3421
 #: wp-admin/includes/class-wp-media-list-table.php:1302
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3203
-#: wp-admin/upload.php:578
+#: wp-admin/upload.php:580
 msgid "Caption"
 msgstr "标题"
 
 #. translators: %s: URL that could not be embedded.
-#: wp-admin/includes/ajax-actions.php:3937
+#: wp-admin/includes/ajax-actions.php:3946
 msgid "%s failed to embed."
 msgstr "嵌入 %s 时失败。"
 
-#: wp-admin/includes/ajax-actions.php:3971
+#: wp-admin/includes/ajax-actions.php:3980
 msgid "This preview is unavailable in the editor."
 msgstr "此预览在编辑器中不可用。"
 
-#: wp-admin/includes/ajax-actions.php:4100
+#: wp-admin/includes/ajax-actions.php:4109
 msgid "Could not log out user sessions. Please try again."
 msgstr "无法注销用户会话。请重试。"
 
-#: wp-admin/includes/ajax-actions.php:4109
+#: wp-admin/includes/ajax-actions.php:4118
 msgid "You are now logged out everywhere else."
 msgstr "您现在已在其他任何地方登出。"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:4113
+#: wp-admin/includes/ajax-actions.php:4122
 msgid "%s has been logged out."
 msgstr "%s 已被登出。"
 
-#: wp-admin/includes/ajax-actions.php:4138
+#: wp-admin/includes/ajax-actions.php:4147
 msgid "Image could not be processed."
 msgstr "无法处理图像。"
 
-#: wp-admin/includes/ajax-actions.php:4314
-#: wp-admin/includes/ajax-actions.php:4439
-#: wp-admin/includes/ajax-actions.php:4534
+#: wp-admin/includes/ajax-actions.php:4323
+#: wp-admin/includes/ajax-actions.php:4448
+#: wp-admin/includes/ajax-actions.php:4543
 msgid "No theme specified."
 msgstr "未指定主题。"
 
-#: wp-admin/includes/ajax-actions.php:4327
+#: wp-admin/includes/ajax-actions.php:4336
 #: wp-admin/theme-install.php:19
 #: wp-admin/update.php:286
 #: wp-admin/update.php:328
@@ -3063,32 +3062,32 @@ msgstr "未指定主题。"
 msgid "Sorry, you are not allowed to install themes on this site."
 msgstr "对不起，您无权在该站点上安装主题。"
 
-#: wp-admin/includes/ajax-actions.php:4370
-#: wp-admin/includes/ajax-actions.php:4502
-#: wp-admin/includes/ajax-actions.php:4566
-#: wp-admin/includes/ajax-actions.php:4666
-#: wp-admin/includes/ajax-actions.php:4793
-#: wp-admin/includes/ajax-actions.php:4862
+#: wp-admin/includes/ajax-actions.php:4379
+#: wp-admin/includes/ajax-actions.php:4511
+#: wp-admin/includes/ajax-actions.php:4575
+#: wp-admin/includes/ajax-actions.php:4675
+#: wp-admin/includes/ajax-actions.php:4802
+#: wp-admin/includes/ajax-actions.php:4871
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr "无法连接到文件系统。请确认您的凭据。"
 
-#: wp-admin/includes/ajax-actions.php:4453
+#: wp-admin/includes/ajax-actions.php:4462
 #: wp-admin/update.php:235
 #: wp-admin/update.php:258
 msgid "Sorry, you are not allowed to update themes for this site."
 msgstr "对不起，您无权升级此站点的主题。"
 
-#: wp-admin/includes/ajax-actions.php:4513
+#: wp-admin/includes/ajax-actions.php:4522
 #: wp-admin/includes/class-theme-upgrader.php:63
 #: wp-admin/includes/class-theme-upgrader.php:100
 msgid "Theme update failed."
 msgstr "主题升级失败。"
 
-#: wp-admin/includes/ajax-actions.php:4546
+#: wp-admin/includes/ajax-actions.php:4555
 msgid "Sorry, you are not allowed to delete themes on this site."
 msgstr "对不起，您无权删除此站点的主题。"
 
-#: wp-admin/includes/ajax-actions.php:4551
+#: wp-admin/includes/ajax-actions.php:4560
 #: wp-admin/includes/file.php:440
 #: wp-admin/includes/file.php:450
 #: wp-admin/theme-editor.php:70
@@ -3098,17 +3097,17 @@ msgstr "对不起，您无权删除此站点的主题。"
 msgid "The requested theme does not exist."
 msgstr "所请求的主题不存在。"
 
-#: wp-admin/includes/ajax-actions.php:4584
+#: wp-admin/includes/ajax-actions.php:4593
 msgid "Theme could not be deleted."
 msgstr "主题无法被删除。"
 
-#: wp-admin/includes/ajax-actions.php:4608
-#: wp-admin/includes/ajax-actions.php:4717
-#: wp-admin/includes/ajax-actions.php:4825
+#: wp-admin/includes/ajax-actions.php:4617
+#: wp-admin/includes/ajax-actions.php:4726
+#: wp-admin/includes/ajax-actions.php:4834
 msgid "No plugin specified."
 msgstr "未指定插件。"
 
-#: wp-admin/includes/ajax-actions.php:4619
+#: wp-admin/includes/ajax-actions.php:4628
 #: wp-admin/plugin-install.php:19
 #: wp-admin/update.php:107
 #: wp-admin/update.php:176
@@ -3116,240 +3115,240 @@ msgstr "未指定插件。"
 msgid "Sorry, you are not allowed to install plugins on this site."
 msgstr "对不起，您无权在该站点上安装插件。"
 
-#: wp-admin/includes/ajax-actions.php:4732
+#: wp-admin/includes/ajax-actions.php:4741
 #: wp-admin/update.php:29
 #: wp-admin/update.php:57
 #: wp-admin/update.php:80
 msgid "Sorry, you are not allowed to update plugins for this site."
 msgstr "对不起，您无权升级此站点的插件。"
 
-#: wp-admin/includes/ajax-actions.php:4804
+#: wp-admin/includes/ajax-actions.php:4813
 #: wp-admin/includes/class-plugin-upgrader.php:64
 #: wp-admin/includes/class-plugin-upgrader.php:91
 msgid "Plugin update failed."
 msgstr "插件升级失败。"
 
-#: wp-admin/includes/ajax-actions.php:4838
+#: wp-admin/includes/ajax-actions.php:4847
 #: wp-admin/plugins.php:269
 msgid "Sorry, you are not allowed to delete plugins for this site."
 msgstr "对不起，您无权删除此站点的插件。"
 
-#: wp-admin/includes/ajax-actions.php:4847
+#: wp-admin/includes/ajax-actions.php:4856
 #: wp-admin/plugins.php:623
 msgid "You cannot delete a plugin while it is active on the main site."
 msgstr "您无法删除一个已在主站点上启用的插件。"
 
-#: wp-admin/includes/ajax-actions.php:4878
+#: wp-admin/includes/ajax-actions.php:4887
 msgid "Plugin could not be deleted."
 msgstr "插件无法被删除。"
 
-#: wp-admin/includes/ajax-actions.php:4914
-#: wp-admin/includes/ajax-actions.php:4966
+#: wp-admin/includes/ajax-actions.php:4923
+#: wp-admin/includes/ajax-actions.php:4975
 #: wp-admin/plugins.php:13
 msgid "Sorry, you are not allowed to manage plugins for this site."
 msgstr "对不起，您无权管理此站点的插件。"
 
-#: wp-admin/includes/ajax-actions.php:5015
+#: wp-admin/includes/ajax-actions.php:5024
 #: wp-admin/plugin-editor.php:187
 #: wp-admin/theme-editor.php:194
 msgid "File edited successfully."
 msgstr "文件编辑成功。"
 
-#: wp-admin/includes/ajax-actions.php:5029
-#: wp-admin/includes/ajax-actions.php:5219
+#: wp-admin/includes/ajax-actions.php:5038
+#: wp-admin/includes/ajax-actions.php:5228
 msgid "Missing request ID."
 msgstr "缺少请求 ID。"
 
-#: wp-admin/includes/ajax-actions.php:5035
-#: wp-admin/includes/ajax-actions.php:5225
+#: wp-admin/includes/ajax-actions.php:5044
+#: wp-admin/includes/ajax-actions.php:5234
 msgid "Invalid request ID."
 msgstr "无效的请求 ID。"
 
-#: wp-admin/includes/ajax-actions.php:5039
-#: wp-admin/includes/ajax-actions.php:5230
+#: wp-admin/includes/ajax-actions.php:5048
+#: wp-admin/includes/ajax-actions.php:5239
 msgid "Sorry, you are not allowed to perform this action."
 msgstr "对不起，您无权执行此操作。"
 
-#: wp-admin/includes/ajax-actions.php:5048
-#: wp-admin/includes/ajax-actions.php:5239
+#: wp-admin/includes/ajax-actions.php:5057
+#: wp-admin/includes/ajax-actions.php:5248
 msgid "Invalid request type."
 msgstr "无效的请求类型。"
 
-#: wp-admin/includes/ajax-actions.php:5053
+#: wp-admin/includes/ajax-actions.php:5062
 msgid "A valid email address must be given."
 msgstr "必须提供有效的电子邮件地址。"
 
-#: wp-admin/includes/ajax-actions.php:5057
+#: wp-admin/includes/ajax-actions.php:5066
 msgid "Missing exporter index."
 msgstr "缺少导出器索引。"
 
-#: wp-admin/includes/ajax-actions.php:5063
-#: wp-admin/includes/ajax-actions.php:5255
+#: wp-admin/includes/ajax-actions.php:5072
+#: wp-admin/includes/ajax-actions.php:5264
 msgid "Missing page index."
 msgstr "缺少页面索引。"
 
-#: wp-admin/includes/ajax-actions.php:5092
+#: wp-admin/includes/ajax-actions.php:5101
 msgid "An exporter has improperly used the registration filter."
 msgstr "某个导入器使用注册过滤器的方式不正确。"
 
-#: wp-admin/includes/ajax-actions.php:5098
+#: wp-admin/includes/ajax-actions.php:5107
 msgid "Exporter index cannot be negative."
 msgstr "导出器索引不能为负值。"
 
-#: wp-admin/includes/ajax-actions.php:5102
+#: wp-admin/includes/ajax-actions.php:5111
 msgid "Exporter index is out of range."
 msgstr "导出器索引超出范围。"
 
-#: wp-admin/includes/ajax-actions.php:5106
-#: wp-admin/includes/ajax-actions.php:5294
+#: wp-admin/includes/ajax-actions.php:5115
+#: wp-admin/includes/ajax-actions.php:5303
 msgid "Page index cannot be less than one."
 msgstr "页面索引不能小于一。"
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:5116
+#: wp-admin/includes/ajax-actions.php:5125
 msgid "Expected an array describing the exporter at index %s."
 msgstr "预期在索引 %s 中描述导出器的数组。"
 
 #. translators: %s: Exporter array index.
-#: wp-admin/includes/ajax-actions.php:5123
+#: wp-admin/includes/ajax-actions.php:5132
 msgid "Exporter array at index %s does not include a friendly name."
 msgstr "索引 %s 的导出器数组不包含友好名称。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5132
+#: wp-admin/includes/ajax-actions.php:5141
 msgid "Exporter does not include a callback: %s."
 msgstr "导出器不包含回调：%s。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5139
+#: wp-admin/includes/ajax-actions.php:5148
 msgid "Exporter callback is not a valid callback: %s."
 msgstr "导出器回调不是有效的回调：%s。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5153
+#: wp-admin/includes/ajax-actions.php:5162
 msgid "Expected response as an array from exporter: %s."
 msgstr "预期的导出器响应为数组：%s。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5160
+#: wp-admin/includes/ajax-actions.php:5169
 msgid "Expected data in response array from exporter: %s."
 msgstr "预期在导出器相应数组中包含数据：%s。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5167
+#: wp-admin/includes/ajax-actions.php:5176
 msgid "Expected data array in response array from exporter: %s."
 msgstr "预期在导出器响应数组中包含数据数组：%s。"
 
 #. translators: %s: Exporter friendly name.
-#: wp-admin/includes/ajax-actions.php:5174
+#: wp-admin/includes/ajax-actions.php:5183
 msgid "Expected done (boolean) in response array from exporter: %s."
 msgstr "预期导出器响应数组中的完成（布尔值）：%s。"
 
-#: wp-admin/includes/ajax-actions.php:5245
+#: wp-admin/includes/ajax-actions.php:5254
 msgid "Invalid email address in request."
 msgstr "请求中包含无效的电子邮件地址。"
 
-#: wp-admin/includes/ajax-actions.php:5249
+#: wp-admin/includes/ajax-actions.php:5258
 msgid "Missing eraser index."
 msgstr "缺少擦除索引。"
 
-#: wp-admin/includes/ajax-actions.php:5286
+#: wp-admin/includes/ajax-actions.php:5295
 msgid "Eraser index cannot be less than one."
 msgstr "擦除索引不能小于一。"
 
-#: wp-admin/includes/ajax-actions.php:5290
+#: wp-admin/includes/ajax-actions.php:5299
 msgid "Eraser index is out of range."
 msgstr "擦除索引超出范围。"
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5303
+#: wp-admin/includes/ajax-actions.php:5312
 msgid "Expected an array describing the eraser at index %d."
 msgstr "预期在索引 %d 中描述擦除器的数组。"
 
 #. translators: %d: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5308
+#: wp-admin/includes/ajax-actions.php:5317
 msgid "Eraser array at index %d does not include a friendly name."
 msgstr "索引 %d 的擦除器数组不包含友好名称。"
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5317
+#: wp-admin/includes/ajax-actions.php:5326
 msgid "Eraser does not include a callback: %s."
 msgstr "擦除器不包含回调：%s。"
 
 #. translators: %s: Eraser friendly name.
-#: wp-admin/includes/ajax-actions.php:5327
+#: wp-admin/includes/ajax-actions.php:5336
 msgid "Eraser callback is not valid: %s."
 msgstr "擦除器回调不是有效回调：%s。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5344
+#: wp-admin/includes/ajax-actions.php:5353
 msgid "Did not receive array from %1$s eraser (index %2$d)."
 msgstr "没有从 %1$s 擦除器接收数组（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5355
+#: wp-admin/includes/ajax-actions.php:5364
 msgid "Expected items_removed key in response array from %1$s eraser (index %2$d)."
 msgstr "在 %1$s 抹除器的响应数组中预期 items_removed 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5366
+#: wp-admin/includes/ajax-actions.php:5375
 msgid "Expected items_retained key in response array from %1$s eraser (index %2$d)."
 msgstr "在 %1$s 抹除器的响应数组中预期 items_retained 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5377
+#: wp-admin/includes/ajax-actions.php:5386
 msgid "Expected messages key in response array from %1$s eraser (index %2$d)."
 msgstr "在 %1$s 抹除器的响应数组中预期 messages 键（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5388
+#: wp-admin/includes/ajax-actions.php:5397
 msgid "Expected messages key to reference an array in response array from %1$s eraser (index %2$d)."
 msgstr "在 %1$s 抹除器的响应数组中预期 messages 键来作为一个数组的引用（索引 %2$d）。"
 
 #. translators: 1: Eraser friendly name, 2: Eraser array index.
-#: wp-admin/includes/ajax-actions.php:5399
+#: wp-admin/includes/ajax-actions.php:5408
 msgid "Expected done flag in response array from %1$s eraser (index %2$d)."
 msgstr "在 %1$s 抹除器的响应数组中预期 done 标记（索引 %2$d）。"
 
 #. translators: 1: The Site Health action that is no longer used by core. 2: The new function that replaces it.
-#: wp-admin/includes/ajax-actions.php:5452
-#: wp-admin/includes/ajax-actions.php:5485
-#: wp-admin/includes/ajax-actions.php:5518
-#: wp-admin/includes/ajax-actions.php:5568
+#: wp-admin/includes/ajax-actions.php:5461
+#: wp-admin/includes/ajax-actions.php:5494
+#: wp-admin/includes/ajax-actions.php:5527
+#: wp-admin/includes/ajax-actions.php:5577
 msgid "The Site Health check for %1$s has been replaced with %2$s."
 msgstr "%1$s 的站点健康检查已被 %2$s 替换。"
 
-#: wp-admin/includes/ajax-actions.php:5640
+#: wp-admin/includes/ajax-actions.php:5649
 msgid "Invalid data. No selected item."
 msgstr "无效数据。没有选中项目。"
 
-#: wp-admin/includes/ajax-actions.php:5646
+#: wp-admin/includes/ajax-actions.php:5655
 msgid "Invalid data. Unknown state."
 msgstr "无效数据。未知状态。"
 
-#: wp-admin/includes/ajax-actions.php:5651
-#: wp-admin/includes/ajax-actions.php:5676
+#: wp-admin/includes/ajax-actions.php:5660
+#: wp-admin/includes/ajax-actions.php:5685
 msgid "Invalid data. Unknown type."
 msgstr "无效数据。未知类型。"
 
-#: wp-admin/includes/ajax-actions.php:5658
+#: wp-admin/includes/ajax-actions.php:5667
 msgid "Sorry, you are not allowed to modify plugins."
 msgstr "对不起，您无权修改插件。"
 
-#: wp-admin/includes/ajax-actions.php:5668
+#: wp-admin/includes/ajax-actions.php:5677
 msgid "Sorry, you are not allowed to modify themes."
 msgstr "对不起，您无权修改主题。"
 
-#: wp-admin/includes/ajax-actions.php:5680
+#: wp-admin/includes/ajax-actions.php:5689
 msgid "Invalid data. The item does not exist."
 msgstr "无效数据。项目不存在。"
 
-#: wp-admin/includes/ajax-actions.php:5714
+#: wp-admin/includes/ajax-actions.php:5723
 msgid "Cannot send password reset, permission denied."
 msgstr "无法发送密码重置邮件，权限不足。"
 
 #. translators: %s: User's display name.
-#: wp-admin/includes/ajax-actions.php:5724
+#: wp-admin/includes/ajax-actions.php:5733
 msgid "A password reset link was emailed to %s."
 msgstr "密码重置链接已发送至 %s。"
 
@@ -3482,7 +3481,7 @@ msgstr "由于更新过程中出现了一个错误，ClassicPress 已回滚到�
 
 #: wp-admin/includes/class-core-upgrader.php:199
 #: wp-admin/includes/class-wp-upgrader.php:166
-#: wp-admin/includes/update-core.php:326
+#: wp-admin/includes/update-core.php:327
 msgid "The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions."
 msgstr "无法安装更新，因为某些文件无法复制。这通常是由于文件权限不一致。"
 
@@ -5033,7 +5032,7 @@ msgstr "不是垃圾"
 #: wp-admin/includes/media.php:3981
 #: wp-admin/includes/meta-boxes.php:366
 #: wp-admin/includes/meta-boxes.php:475
-#: wp-admin/upload.php:629
+#: wp-admin/upload.php:631
 msgid "Delete permanently"
 msgstr "永久删除"
 
@@ -6024,7 +6023,7 @@ msgstr "无待审评论"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1026
-#: wp-admin/upload.php:339
+#: wp-admin/upload.php:341
 msgid "First page"
 msgstr "首页"
 
@@ -6032,14 +6031,14 @@ msgstr "首页"
 #: wp-admin/includes/class-wp-list-table.php:1038
 #: wp-admin/includes/nav-menu.php:462
 #: wp-admin/includes/nav-menu.php:764
-#: wp-admin/upload.php:348
+#: wp-admin/upload.php:350
 msgid "Previous page"
 msgstr "上一页"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1047
 #: wp-admin/includes/class-wp-list-table.php:1054
-#: wp-admin/upload.php:351
+#: wp-admin/upload.php:353
 msgid "Current Page"
 msgstr "当前页"
 
@@ -6053,13 +6052,13 @@ msgstr "第 %1$s 页，共 %2$s 页"
 #: wp-admin/includes/class-wp-list-table.php:1075
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
-#: wp-admin/upload.php:362
+#: wp-admin/upload.php:364
 msgid "Next page"
 msgstr "下一页"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1087
-#: wp-admin/upload.php:371
+#: wp-admin/upload.php:373
 msgid "Last page"
 msgstr "末页"
 
@@ -6075,12 +6074,12 @@ msgid "Select All"
 msgstr "全选"
 
 #: wp-admin/includes/class-wp-media-list-table.php:43
-#: wp-admin/upload.php:288
+#: wp-admin/upload.php:290
 msgid "List view"
 msgstr "列表视图"
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
-#: wp-admin/upload.php:291
+#: wp-admin/upload.php:293
 msgid "Grid view"
 msgstr "网格视图"
 
@@ -6134,7 +6133,7 @@ msgstr "按类型筛选"
 #: wp-admin/includes/template.php:1927
 #: wp-admin/includes/template.php:1932
 #: wp-admin/includes/theme-install.php:139
-#: wp-admin/upload.php:301
+#: wp-admin/upload.php:303
 msgid "Search"
 msgstr "搜索"
 
@@ -6194,7 +6193,7 @@ msgstr "「%s」（编辑）"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3311
-#: wp-admin/upload.php:546
+#: wp-admin/upload.php:548
 msgid "File name:"
 msgstr "文件名："
 
@@ -6518,7 +6517,7 @@ msgstr "<a href=\"%1$s\">请升级 ClassicPress</a>，然后<a href=\"%2$s\">了
 #: wp-admin/includes/theme.php:965
 #: wp-admin/includes/theme.php:979
 #: wp-admin/includes/theme.php:1002
-#: wp-admin/includes/update-core.php:370
+#: wp-admin/includes/update-core.php:371
 #: wp-admin/includes/update.php:743
 #: wp-admin/includes/update.php:756
 #: wp-admin/includes/update.php:783
@@ -7112,7 +7111,7 @@ msgstr "查看隐私政策指南。"
 #: wp-admin/includes/media.php:3194
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid "(opens in a new tab)"
 msgstr "（在新标签页中打开）"
 
@@ -7572,7 +7571,7 @@ msgid_plural "%s columns"
 msgstr[0] "%s 列"
 
 #: wp-admin/includes/class-wp-screen.php:1231
-#: wp-admin/upload.php:142
+#: wp-admin/upload.php:143
 msgid "Number of items per page:"
 msgstr "每页项目数："
 
@@ -8886,12 +8885,12 @@ msgid "The package could not be installed."
 msgstr "软件包无法安装。"
 
 #: wp-admin/includes/class-wp-upgrader.php:168
-#: wp-admin/includes/update-core.php:531
+#: wp-admin/includes/update-core.php:532
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "正在启用维护模式&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:169
-#: wp-admin/includes/update-core.php:687
+#: wp-admin/includes/update-core.php:688
 msgid "Disabling Maintenance mode&#8230;"
 msgstr "正在停用维护模式&#8230;"
 
@@ -9410,12 +9409,12 @@ msgid "Install %s"
 msgstr "安装 %s"
 
 #. translators: 1: Script handle. 2: URL for more information.
-#: wp-admin/includes/deprecated.php:1688
+#: wp-admin/includes/deprecated.php:1696
 msgid "The enqueued script %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
 msgstr ""
 
 #. translators: 1: Stylesheet handle. 2: URL for more information.
-#: wp-admin/includes/deprecated.php:1701
+#: wp-admin/includes/deprecated.php:1709
 msgid "The enqueued stylesheet %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
 msgstr ""
 
@@ -9808,7 +9807,7 @@ msgstr "无法从归档中提取文件。"
 #: wp-admin/includes/file.php:1748
 #: wp-admin/includes/file.php:1878
 #: wp-admin/includes/file.php:1923
-#: wp-admin/includes/update-core.php:738
+#: wp-admin/includes/update-core.php:744
 msgid "Could not copy file."
 msgstr "无法复制文件。"
 
@@ -9926,7 +9925,7 @@ msgid "%s expects a non-empty string."
 msgstr "%s 需要一个非空字符串。"
 
 #: wp-admin/includes/image-edit.php:28
-#: wp-admin/includes/image-edit.php:928
+#: wp-admin/includes/image-edit.php:937
 msgid "Image data does not exist. Please re-upload the image."
 msgstr "图像数据不存在。请重新上传图像。"
 
@@ -10111,35 +10110,35 @@ msgstr "%1$s 需要是一个 %2$s 对象。"
 msgid "Cannot load image metadata."
 msgstr "无法加载图像元数据。"
 
-#: wp-admin/includes/image-edit.php:850
+#: wp-admin/includes/image-edit.php:859
 msgid "Cannot save image metadata."
 msgstr "无法保存图像元数据。"
 
-#: wp-admin/includes/image-edit.php:855
+#: wp-admin/includes/image-edit.php:864
 msgid "Image metadata is inconsistent."
 msgstr "图像元数据不一致。"
 
-#: wp-admin/includes/image-edit.php:857
+#: wp-admin/includes/image-edit.php:866
 msgid "Image restored successfully."
 msgstr "图像恢复成功。"
 
-#: wp-admin/includes/image-edit.php:887
+#: wp-admin/includes/image-edit.php:896
 msgid "Unable to create new image."
 msgstr "无法创建新图像。"
 
-#: wp-admin/includes/image-edit.php:911
+#: wp-admin/includes/image-edit.php:920
 msgid "Error while saving the scaled image. Please reload the page and try again."
 msgstr "保存缩放过的图像时出错。请重新加载页面并重试。"
 
-#: wp-admin/includes/image-edit.php:920
+#: wp-admin/includes/image-edit.php:929
 msgid "Nothing to save, the image has not changed."
 msgstr "没有什么可保存的，图像没有发生更改。"
 
-#: wp-admin/includes/image-edit.php:969
+#: wp-admin/includes/image-edit.php:979
 msgid "Unable to save the image."
 msgstr "无法保存此图像。"
 
-#: wp-admin/includes/image-edit.php:1106
+#: wp-admin/includes/image-edit.php:1118
 msgid "Image saved"
 msgstr "图像已保存"
 
@@ -10222,8 +10221,8 @@ msgid "Gallery"
 msgstr "相册"
 
 #: wp-admin/includes/media.php:21
-#: wp-admin/upload.php:177
-#: wp-admin/upload.php:761
+#: wp-admin/upload.php:178
+#: wp-admin/upload.php:763
 msgid "Media Library"
 msgstr "媒体库"
 
@@ -10299,7 +10298,7 @@ msgstr "尺寸"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
-#: wp-admin/upload.php:586
+#: wp-admin/upload.php:588
 msgid "File URL"
 msgstr "文件 URL"
 
@@ -10323,7 +10322,7 @@ msgstr "已上传文件的位置。"
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2923
 #: wp-admin/includes/media.php:3180
-#: wp-admin/upload.php:566
+#: wp-admin/upload.php:568
 msgid "Alternative Text"
 msgstr "替代文本"
 
@@ -10354,13 +10353,13 @@ msgstr "隐藏"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3091
-#: wp-admin/upload.php:522
+#: wp-admin/upload.php:524
 msgid "Edit Image"
 msgstr "编辑图像"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3314
-#: wp-admin/upload.php:547
+#: wp-admin/upload.php:549
 msgid "File type:"
 msgstr "文件类型："
 
@@ -10370,7 +10369,7 @@ msgstr "上传日期："
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3436
-#: wp-admin/upload.php:549
+#: wp-admin/upload.php:551
 msgid "Dimensions:"
 msgstr "分辨率："
 
@@ -10411,7 +10410,7 @@ msgstr "选择文件"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2250
-#: wp-admin/upload.php:268
+#: wp-admin/upload.php:270
 msgid "Maximum upload file size: %s."
 msgstr "最大上传文件大小：%s"
 
@@ -10588,7 +10587,7 @@ msgstr "（无作者）"
 
 #: wp-admin/includes/media.php:3274
 #: wp-admin/includes/media.php:3276
-#: wp-admin/upload.php:543
+#: wp-admin/upload.php:545
 msgid "Uploaded by:"
 msgstr "上传者："
 
@@ -10602,7 +10601,7 @@ msgid "File URL:"
 msgstr "文件 URL："
 
 #: wp-admin/includes/media.php:3347
-#: wp-admin/upload.php:548
+#: wp-admin/upload.php:550
 msgid "File size:"
 msgstr "文件大小："
 
@@ -11220,7 +11219,7 @@ msgstr "查看全部"
 
 #: wp-admin/includes/nav-menu.php:606
 #: wp-admin/includes/nav-menu.php:907
-#: wp-admin/js/nav-menu.js:496
+#: wp-admin/js/nav-menu.js:494
 msgid "No results found."
 msgstr "未找到结果。"
 
@@ -11549,7 +11548,7 @@ msgstr "发生了一个未知错误。WordPress.org，ClassicPress.net，或是�
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:70
-#: wp-admin/includes/update-core.php:1090
+#: wp-admin/includes/update-core.php:1096
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
 msgstr "https://forums.classicpress.net/c/support"
@@ -12335,48 +12334,48 @@ msgstr "0"
 msgid "F j, Y g:i a"
 msgstr "Y F j a g:i"
 
-#: wp-admin/includes/schema.php:1015
+#: wp-admin/includes/schema.php:1017
 msgid "You must provide a domain name."
 msgstr "您必须提供一个域名。"
 
-#: wp-admin/includes/schema.php:1018
+#: wp-admin/includes/schema.php:1020
 msgid "You must provide a name for your network of sites."
 msgstr "您必须为您的站点网络提供一个名称。"
 
-#: wp-admin/includes/schema.php:1025
-#: wp-admin/includes/schema.php:1029
+#: wp-admin/includes/schema.php:1027
+#: wp-admin/includes/schema.php:1031
 msgid "The network already exists."
 msgstr "该网络已存在。"
 
-#: wp-admin/includes/schema.php:1034
+#: wp-admin/includes/schema.php:1036
 msgid "You must provide a valid email address."
 msgstr "您必须提供一个有效的电子邮件地址。"
 
-#: wp-admin/includes/schema.php:1137
+#: wp-admin/includes/schema.php:1139
 msgid "Warning! Wildcard DNS may not be configured correctly!"
 msgstr "警告！通配符 DNS 可能配置不正确！"
 
 #. translators: %s: Host name.
-#: wp-admin/includes/schema.php:1141
+#: wp-admin/includes/schema.php:1143
 msgid "The installer attempted to contact a random hostname (%s) on your domain."
 msgstr "安装程序试图联系您的域名上的一个随机主机名（%s）。"
 
 #. translators: %s: Error message.
-#: wp-admin/includes/schema.php:1146
+#: wp-admin/includes/schema.php:1148
 msgid "This resulted in an error message: %s"
 msgstr "但返回了错误：%s"
 
 #. translators: %s: Asterisk symbol (*).
-#: wp-admin/includes/schema.php:1152
+#: wp-admin/includes/schema.php:1154
 msgid "To use a subdomain configuration, you must have a wildcard entry in your DNS. This usually means adding a %s hostname record pointing at your web server in your DNS configuration tool."
 msgstr "要使用子域名配置，您必须在 DNS 中配置通配符记录。这通常意味着在您的 DNS 配置工具中添加一个 %s 主机名记录，并指向您的 Web 服务器。"
 
-#: wp-admin/includes/schema.php:1156
+#: wp-admin/includes/schema.php:1158
 msgid "You can still use your site but any subdomain you create may not be accessible. If you know your DNS is correct, ignore this message."
 msgstr "您仍然可以使用您的站点，但您创建的任何子域都可能无法访问。如果您确信您的 DNS 配置正确，忽略此消息。"
 
 #. translators: Do not translate USERNAME, SITE_NAME, BLOG_URL, PASSWORD: those are placeholders.
-#: wp-admin/includes/schema.php:1240
+#: wp-admin/includes/schema.php:1242
 msgid "Hello USERNAME,\n\n"
 "Your new SITE_NAME site has been successfully set up at:\n"
 "BLOG_URL\n\n"
@@ -12396,13 +12395,13 @@ msgstr "您好 USERNAME，\n\n"
 "我们希望您享受您的新站点。谢谢！\n\n"
 "—— SITE_NAME 团队敬上"
 
-#: wp-admin/includes/schema.php:1291
+#: wp-admin/includes/schema.php:1293
 msgid "My Network"
 msgstr "我的网络"
 
 #. translators: %s: Site link.
 #. translators: First post content. %s: Site link.
-#: wp-admin/includes/schema.php:1304
+#: wp-admin/includes/schema.php:1306
 #: wp-admin/includes/upgrade.php:195
 msgid "Welcome to %s. This is your first post. Edit or delete it, then start writing!"
 msgstr "欢迎来到 %s。这是您的第一篇文章。编辑或删除它，然后开始写作！"
@@ -13033,7 +13032,7 @@ msgid "Invalid translation type."
 msgstr "无效的翻译类型。"
 
 #: wp-admin/includes/translation-install.php:71
-#: wp-admin/includes/update-core.php:1091
+#: wp-admin/includes/update-core.php:1097
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
 msgstr "（ClassicPress 无法建立与 ClassicPress.net 的安全连接。请联系您的服务器管理员。)"
@@ -13042,75 +13041,75 @@ msgstr "（ClassicPress 无法建立与 ClassicPress.net 的安全连接。请�
 msgid "Unable to update language pack for locales"
 msgstr ""
 
-#: wp-admin/includes/update-core.php:303
+#: wp-admin/includes/update-core.php:304
 msgid "Verifying the unpacked files&#8230;"
 msgstr "正在验证已解包的文件&#8230;"
 
-#: wp-admin/includes/update-core.php:310
+#: wp-admin/includes/update-core.php:311
 msgid "The update could not be unpacked"
 msgstr "无法解包更新"
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Minimum required MySQL version number, 4: Current PHP version number, 5: Current MySQL version number.
-#: wp-admin/includes/update-core.php:388
+#: wp-admin/includes/update-core.php:389
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
 msgstr "无法安装更新，因为 ClassicPress %1$s 需要 PHP %2$s 或更高版本以及 MySQL 版本 %3$s 或更高版本。您正在运行 PHP 版本 %4$s 和 MySQL 版本 %5$s。"
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Current PHP version number.
-#: wp-admin/includes/update-core.php:401
+#: wp-admin/includes/update-core.php:402
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
 msgstr "无法安装更新，因为ClassicPress %1$s 需要 PHP %2$s 或更高版本。您正在运行版本 %3$s。"
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number, 3: Current MySQL version number.
-#: wp-admin/includes/update-core.php:412
+#: wp-admin/includes/update-core.php:413
 msgid "The update cannot be installed because ClassicPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
 msgstr "无法安装更新，因为ClassicPress %1$s 需要 MySQL 版本 %2$s 或更高版本。您正在运行版本 %3$s。"
 
 #. translators: 1: WordPress version number, 2: The PHP extension name needed.
-#: wp-admin/includes/update-core.php:426
+#: wp-admin/includes/update-core.php:427
 msgid "The update cannot be installed because ClassicPress %1$s requires the %2$s PHP extension."
 msgstr "无法安装更新，因为 ClassicPress %1$s 需要 %2$s PHP 扩展。"
 
-#: wp-admin/includes/update-core.php:434
+#: wp-admin/includes/update-core.php:435
 msgid "Preparing to install the latest version&#8230;"
 msgstr "正在准备安装最新版本&#8230;"
 
-#: wp-admin/includes/update-core.php:523
-#: wp-admin/includes/update-core.php:559
+#: wp-admin/includes/update-core.php:524
+#: wp-admin/includes/update-core.php:560
 msgid "The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr "无法安装更新，因为您的站点无法复制某些文件。这通常是由于文件权限不一致。"
 
-#: wp-admin/includes/update-core.php:540
+#: wp-admin/includes/update-core.php:541
 msgid "Copying the required files&#8230;"
 msgstr "正在复制所需文件&#8230;"
 
-#: wp-admin/includes/update-core.php:635
+#: wp-admin/includes/update-core.php:636
 msgid "There is not enough free disk space to complete the update."
 msgstr "没有足够的可用磁盘空间来完成更新。"
 
-#: wp-admin/includes/update-core.php:794
+#: wp-admin/includes/update-core.php:800
 msgid "Upgrading database&#8230;"
 msgstr "正在升级数据库&#8230;"
 
-#: wp-admin/includes/update-core.php:932
+#: wp-admin/includes/update-core.php:938
 #: wp-admin/update-core.php:783
 msgid "ClassicPress updated successfully"
 msgstr "ClassicPress 升级成功。"
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:938
+#: wp-admin/includes/update-core.php:944
 #: wp-admin/update-core.php:784
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "欢迎使用 ClassicPress %1$s。您将会被重定向至「关于 ClassicPress」屏幕。如果没有自动跳转，请单击<a href=\"%2$s\">此处</a>。"
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:946
+#: wp-admin/includes/update-core.php:952
 #: wp-admin/update-core.php:785
 msgid "Welcome to ClassicPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "欢迎使用 ClassicPress %1$s。<a href=\"%2$s\">了解更多</a>。"
 
 #. translators: %s: support forums URL
 #. translators: %s: Support forums URL.
-#: wp-admin/includes/update-core.php:1089
+#: wp-admin/includes/update-core.php:1095
 #: wp-admin/includes/update.php:137
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
 msgstr "发生了一个未知错误。ClassicPress.net 或是此服务器的配置可能出现了一点问题。如果您继续遇到问题，请尝试使用<a href=\"%s\">支持论坛</a>。"
@@ -13980,8 +13979,8 @@ msgstr "您不能编辑此附件，因为它在回收站中。请将其移出回
 #. translators: Add new file.
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
-#: wp-admin/upload.php:235
-#: wp-admin/upload.php:825
+#: wp-admin/upload.php:237
+#: wp-admin/upload.php:827
 msgctxt "file"
 msgid "Add New"
 msgstr "新增文件"
@@ -17730,7 +17729,7 @@ msgid "pixels"
 msgstr ""
 
 #: wp-admin/upload.php:125
-#: wp-admin/upload.php:462
+#: wp-admin/upload.php:464
 msgid "Deselect"
 msgstr "取消选择"
 
@@ -17777,163 +17776,163 @@ msgstr "您即将从您的站点中永久删除这些项目。\n"
 "该操作不能被撤销。\n"
 "按下「取消」以终止，「确认」以继续。"
 
-#: wp-admin/upload.php:153
+#: wp-admin/upload.php:154
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
 msgstr "您已上传的所有文件都将显示在媒体库中，并且会先列出最近上传的文件。"
 
-#: wp-admin/upload.php:154
-#: wp-admin/upload.php:775
+#: wp-admin/upload.php:155
+#: wp-admin/upload.php:777
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "您可以在简单的网格或列表视图中查看您的媒体。可使用媒体上方左侧的图标以在这些视图之间切换。"
 
-#: wp-admin/upload.php:155
+#: wp-admin/upload.php:156
 msgid "To delete media items, click the Bulk Select button at the top of the screen. Select any items you wish to delete, then click the Delete Selected button. Clicking the Cancel Selection button takes you back to viewing your media."
 msgstr "要删除媒体项目，请点击屏幕顶部的批量选择按钮。 选择您想删除的任何项目，然后单击「删除选定项目」按钮。点击「取消选择」按钮可以让您返回查看您的媒体。"
 
-#: wp-admin/upload.php:162
+#: wp-admin/upload.php:163
 msgid "Attachment Details"
 msgstr "附件详情"
 
-#: wp-admin/upload.php:164
+#: wp-admin/upload.php:165
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
 msgstr "点击项目将显示附件详情对话框，允许您预览媒体并快速编辑。您对附件详细信息所作的任何更改都将自动保存。"
 
-#: wp-admin/upload.php:165
+#: wp-admin/upload.php:166
 msgid "Use the arrow buttons at the top of the dialog, or the left and right arrow keys on your keyboard, to navigate between media items quickly."
 msgstr "使用对话框顶部的箭头按钮， 或者您键盘上的左方向键和右方向键可在媒体项目之间快速导航。"
 
-#: wp-admin/upload.php:166
+#: wp-admin/upload.php:167
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
 msgstr "您也可以从详情对话框中删除个别项目并访问扩展编辑屏幕。"
 
-#: wp-admin/upload.php:172
-#: wp-admin/upload.php:804
+#: wp-admin/upload.php:173
+#: wp-admin/upload.php:806
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">媒体库文档</a>"
 
-#: wp-admin/upload.php:285
+#: wp-admin/upload.php:287
 msgid "Filter media"
 msgstr "筛选媒体"
 
-#: wp-admin/upload.php:321
+#: wp-admin/upload.php:323
 msgid "Media items navigation"
 msgstr ""
 
 #. translators: %s: Number of media items showing
-#: wp-admin/upload.php:327
+#: wp-admin/upload.php:329
 msgid "%s items"
 msgstr "%s 个项目"
 
-#: wp-admin/upload.php:353
+#: wp-admin/upload.php:355
 msgid "of"
 msgstr "中的"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
-#: wp-admin/upload.php:476
+#: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
 msgstr ""
 
-#: wp-admin/upload.php:481
+#: wp-admin/upload.php:483
 msgid "No media items found."
 msgstr "未找到媒体项目。"
 
-#: wp-admin/upload.php:503
+#: wp-admin/upload.php:505
 msgid "Edit previous media item"
 msgstr "编辑上一个媒体项目"
 
-#: wp-admin/upload.php:506
+#: wp-admin/upload.php:508
 msgid "Edit next media item"
 msgstr "编辑下一个媒体项目"
 
-#: wp-admin/upload.php:509
+#: wp-admin/upload.php:511
 msgid "Close dialog"
 msgstr "关闭对话框"
 
-#: wp-admin/upload.php:513
+#: wp-admin/upload.php:515
 msgid "Attachment details"
 msgstr "附件详情"
 
-#: wp-admin/upload.php:518
+#: wp-admin/upload.php:520
 msgid "Attachment Preview"
 msgstr "附件预览"
 
-#: wp-admin/upload.php:541
+#: wp-admin/upload.php:543
 msgid "Uploaded on:"
 msgstr "上传于："
 
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
 msgstr ""
 
-#: wp-admin/upload.php:569
+#: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
 msgstr ""
 
-#: wp-admin/upload.php:575
+#: wp-admin/upload.php:577
 msgid "Saved!"
 msgstr ""
 
-#: wp-admin/upload.php:607
+#: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
 msgstr ""
 
-#: wp-admin/upload.php:623
+#: wp-admin/upload.php:625
 msgid "View attachment page"
 msgstr "查看附件页面"
 
-#: wp-admin/upload.php:625
+#: wp-admin/upload.php:627
 msgid "Edit more details"
 msgstr "编辑更多详情"
 
-#: wp-admin/upload.php:773
+#: wp-admin/upload.php:775
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
 msgstr "您已上传的所有文件都将显示在媒体库中，并且会先列出最近上传的文件。您可以通过「屏幕选项」选项卡来自定义此屏幕的显示方式。"
 
-#: wp-admin/upload.php:774
+#: wp-admin/upload.php:776
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
 msgstr "您可以通过使用媒体表上方的下拉菜单以按文件类型、状态、或日期来缩短列表。"
 
-#: wp-admin/upload.php:783
+#: wp-admin/upload.php:785
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
 msgstr "在媒体列表中的一行上悬停将显示允许您管理您的媒体的操作链接。您可以执行以下操作："
 
-#: wp-admin/upload.php:785
+#: wp-admin/upload.php:787
 msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
 msgstr "<strong>编辑</strong>将转到一个简单的屏幕，并允许您编辑对应文件的元数据。您还可以通过单击媒体的文件名或缩略图以转到此屏幕。"
 
-#: wp-admin/upload.php:786
+#: wp-admin/upload.php:788
 msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
 msgstr "<strong>永久删除</strong>将从媒体库中（以及从它目前所附加到的任何文章中）删除文件。"
 
-#: wp-admin/upload.php:787
+#: wp-admin/upload.php:789
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr "<strong>查看</strong>将转到该文件的公开显示页面。"
 
-#: wp-admin/upload.php:788
+#: wp-admin/upload.php:790
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr "<strong>复制 URL</strong> 将会复制媒体文件的 URL 到您的剪贴板。"
 
-#: wp-admin/upload.php:789
+#: wp-admin/upload.php:791
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr "<strong>下载文件</strong>将会将媒体的原始版本下载至您的设备。"
 
-#: wp-admin/upload.php:796
+#: wp-admin/upload.php:798
 msgid "Attaching Files"
 msgstr "附加文件"
 
-#: wp-admin/upload.php:798
+#: wp-admin/upload.php:800
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "如果媒体文件没有附加到任何内容，您将会在上传到列中看到，并且可以点击「附加」来打开一个小的弹出窗口，让您能够搜索现有内容并附加文件。"
 
-#: wp-admin/upload.php:810
+#: wp-admin/upload.php:812
 msgid "Filter media items list"
 msgstr "筛选媒体项目列表"
 
-#: wp-admin/upload.php:811
+#: wp-admin/upload.php:813
 msgid "Media items list navigation"
 msgstr "媒体项目列表导航"
 
-#: wp-admin/upload.php:812
+#: wp-admin/upload.php:814
 msgid "Media items list"
 msgstr "媒体项目列表"
 
@@ -18870,11 +18869,11 @@ msgid "Are you sure you want to do this?\n"
 msgstr "您确定要这么做吗吗？\n"
 "您对评论所做的更改将会丢失。"
 
-#: wp-admin/js/image-edit.js:420
+#: wp-admin/js/image-edit.js:438
 msgid "Could not load the preview image. Please reload the page and try again."
 msgstr "无法加载预览图像。请重新加载页面并再试一次。"
 
-#: wp-admin/js/image-edit.js:629
+#: wp-admin/js/image-edit.js:647
 msgid "Could not load the preview image."
 msgstr "无法加载预览图像。"
 
@@ -18908,13 +18907,13 @@ msgstr "保存更改时出错。"
 msgid "The file URL has been copied to your clipboard"
 msgstr "文件 URL 已复制到剪贴板"
 
-#: wp-admin/js/nav-menu.js:695
+#: wp-admin/js/nav-menu.js:693
 msgid "You are about to permanently delete this menu.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr "您即将删除此菜单。\n"
 "按下「取消」以终止，「确认」以继续。"
 
-#: wp-admin/js/nav-menu.js:1218
+#: wp-admin/js/nav-menu.js:1216
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
 msgstr "（无标签）"
@@ -18995,7 +18994,7 @@ msgstr "此组件在首个位置"
 msgid "The box is on the last position"
 msgstr "此组件在最后一个位置"
 
-#: wp-admin/js/postbox.js:328
+#: wp-admin/js/postbox.js:326
 msgid "The boxes order has been saved."
 msgstr "组件顺序已保存。"
 
@@ -19354,8 +19353,8 @@ msgid "Your new password has not been saved."
 msgstr "您的新密码尚未被保存。"
 
 #: wp-admin/js/widgets.js:183
-#: wp-admin/js/widgets.js:464
-#: wp-admin/js/widgets.js:575
+#: wp-admin/js/widgets.js:465
+#: wp-admin/js/widgets.js:581
 msgid "Saved"
 msgstr "已保存"
 
