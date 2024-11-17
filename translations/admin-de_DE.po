@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-11-16 08:54\n"
+"PO-Revision-Date: 2024-11-17 12:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2954,11 +2954,11 @@ msgstr "Die hochgeladene Datei ist kein gültiges Bild. Bitte erneut versuchen."
 
 #: wp-admin/includes/ajax-actions.php:2597
 msgid "The upload media category folder has been updated."
-msgstr ""
+msgstr "Der Kategorieordner für den Medien-Upload wurde aktualisiert."
 
 #: wp-admin/includes/ajax-actions.php:2605
 msgid "You need to choose a media category folder before you can upload a file."
-msgstr ""
+msgstr "Du musst einen Medien-Kategorieordner wählen, bevor du eine Datei hochladen kannst."
 
 #: wp-admin/includes/ajax-actions.php:3358
 msgid "Select "
