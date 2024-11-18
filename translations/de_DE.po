@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-11-16 08:54\n"
+"PO-Revision-Date: 2024-11-18 00:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8189,7 +8189,7 @@ msgstr ""
 #: wp-includes/object-relationships.php:287
 #: wp-includes/object-relationships.php:413
 msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() erwartet, dass Parameter 3 eine der gegebenen %s; %s ist."
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104
@@ -12447,7 +12447,7 @@ msgstr "&larr; Gehe zu Medienkategorien"
 
 #: wp-includes/taxonomy.php:213
 msgid "Filter by media category"
-msgstr ""
+msgstr "Nach Medienkategorie filtern"
 
 #: wp-includes/taxonomy.php:243
 msgid "Media Tags"
