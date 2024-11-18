@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-11-17 12:51\n"
+"PO-Revision-Date: 2024-11-18 00:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -175,7 +175,7 @@ msgstr "ClassicPress enthält derzeit alle Änderungen aus den folgenden WordPre
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr "<strong>WordPress-Version %s</strong> hat einige Sicherheitsprobleme behoben."
+msgstr "<strong>Die WordPress-Version %s</strong> hat einige Sicherheitsprobleme behoben."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -2962,7 +2962,7 @@ msgstr "Du musst einen Medien-Kategorieordner wählen, bevor du eine Datei hochl
 
 #: wp-admin/includes/ajax-actions.php:3358
 msgid "Select "
-msgstr ""
+msgstr "Auswählen"
 
 #: wp-admin/includes/ajax-actions.php:3361
 msgid "File"
@@ -2970,7 +2970,7 @@ msgstr "Datei"
 
 #: wp-admin/includes/ajax-actions.php:3371
 msgid "File name: "
-msgstr ""
+msgstr "Dateiname:"
 
 #: wp-admin/includes/ajax-actions.php:3379
 #: wp-admin/includes/class-wp-media-list-table.php:945
@@ -3008,21 +3008,21 @@ msgstr "Mehr Details anzeigen"
 #: wp-admin/includes/class-wp-media-list-table.php:1117
 #: wp-admin/includes/class-wp-media-list-table.php:1259
 msgid "Media Categories"
-msgstr ""
+msgstr "Medienkategorien"
 
 #: wp-admin/includes/ajax-actions.php:3401
 #: wp-admin/includes/class-wp-media-list-table.php:1141
 #: wp-admin/includes/class-wp-media-list-table.php:1282
 msgid "Media Tags"
-msgstr ""
+msgstr "Medienschlagwörter"
 
 #: wp-admin/includes/ajax-actions.php:3403
 msgid "Featured Image"
-msgstr ""
+msgstr "Beitragsbild"
 
 #: wp-admin/includes/ajax-actions.php:3405
 msgid "Used In"
-msgstr ""
+msgstr "Verwendet in"
 
 #: wp-admin/includes/ajax-actions.php:3407
 msgid "Uploaded to"
@@ -3039,7 +3039,7 @@ msgstr "Keine Kommentare"
 #: wp-admin/includes/ajax-actions.php:3420
 #: wp-admin/includes/class-wp-media-list-table.php:1295
 msgid "Alt Text"
-msgstr ""
+msgstr "Alt-Text"
 
 #: wp-admin/includes/ajax-actions.php:3421
 #: wp-admin/includes/class-wp-media-list-table.php:1302
@@ -6140,7 +6140,7 @@ msgstr "In Papierkorb legen"
 
 #: wp-admin/includes/class-wp-media-list-table.php:195
 msgid "Attach to post"
-msgstr ""
+msgstr "An Beitrag anhängen"
 
 #: wp-admin/includes/class-wp-media-list-table.php:304
 msgid "No media files found in Trash."
@@ -6182,12 +6182,12 @@ msgstr "Datei"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "Beitragsbild"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
 msgid "Used In"
-msgstr ""
+msgstr "Verwendet in"
 
 #: wp-admin/includes/class-wp-media-list-table.php:408
 msgctxt "column name"
@@ -6198,7 +6198,7 @@ msgstr "Hochgeladen zu"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Alt-Text"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
@@ -6324,11 +6324,11 @@ msgstr "Mehrfachbearbeitung"
 #: wp-admin/includes/class-wp-media-list-table.php:1149
 #: wp-admin/includes/class-wp-media-list-table.php:1289
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Schlagwörter durch Komma trennen"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1155
 msgid "— No Change —"
-msgstr ""
+msgstr "— Keine Änderung —"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1194
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
@@ -6344,51 +6344,51 @@ msgstr "Monat"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1213
 msgid "01-Jan"
-msgstr ""
+msgstr "01-Jan"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1214
 msgid "02-Feb"
-msgstr ""
+msgstr "02-Feb"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1215
 msgid "03-Mar"
-msgstr ""
+msgstr "03-Mär"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1216
 msgid "04-Apr"
-msgstr ""
+msgstr "04-Apr"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1217
 msgid "05-May"
-msgstr ""
+msgstr "05-Mai"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1218
 msgid "06-Jun"
-msgstr ""
+msgstr "06-Jun"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1219
 msgid "07-Jul"
-msgstr ""
+msgstr "07-Jul"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1220
 msgid "08-Aug"
-msgstr ""
+msgstr "08-Aug"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1221
 msgid "09-Sep"
-msgstr ""
+msgstr "09-Sep"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1222
 msgid "10-Oct"
-msgstr ""
+msgstr "10-Okt"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1223
 msgid "11-Nov"
-msgstr ""
+msgstr "11-Nov"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1224
 msgid "12-Dec"
-msgstr ""
+msgstr "12-Dez"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:1227
@@ -7335,7 +7335,7 @@ msgstr "In diesem Unterabschnitt solltest du angeben, welche Analysedienste du v
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:537
 msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
-msgstr ""
+msgstr "ClassicPress sammelt standardmäßig keinerlei Analytics-Daten. Viele Webhosting-Konten sammeln aber einige anonyme Analytics-Daten. Vielleicht hast du auch ein Plugin installieren, dass Analytics-Dienste bereitstellt. Füge ggf. Informationen aus diesem Plugin hier hinzu."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:541
@@ -9484,12 +9484,12 @@ msgstr "%s wird installiert"
 #. translators: 1: Script handle. 2: URL for more information.
 #: wp-admin/includes/deprecated.php:1696
 msgid "The enqueued script %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "Das Skript %1$s in der Warteschlange ist veraltet. Es wird in Version 3.0.0 von ClassicPress entfernt. Für weitere Informationen siehe %2$s."
 
 #. translators: 1: Stylesheet handle. 2: URL for more information.
 #: wp-admin/includes/deprecated.php:1709
 msgid "The enqueued stylesheet %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "Das Stylesheet %1$s in der Warteschlange ist veraltet. Es wird in Version 3.0.0 von ClassicPress entfernt. Für weitere Informationen siehe %2$s."
 
 #: wp-admin/includes/edit-tag-messages.php:14
 msgid "Item added."
@@ -10700,19 +10700,19 @@ msgstr "Originalbild:"
 
 #: wp-admin/includes/media.php:3843
 msgid "Sorry, you are not allowed to edit media attachment pages."
-msgstr ""
+msgstr "Du bist leider nicht berechtigt, Medien-Anhangseiten zu bearbeiten."
 
 #: wp-admin/includes/media.php:3925
 msgid "Please choose the upload media category"
-msgstr ""
+msgstr "Bitte wähle die Upload-Medienkategorie"
 
 #: wp-admin/includes/media.php:3927
 msgid "Select Media Category"
-msgstr ""
+msgstr "Medienkategorie wählen"
 
 #: wp-admin/includes/media.php:3997
 msgid "Bulk select"
-msgstr ""
+msgstr "Mehrfachauswahl"
 
 #: wp-admin/includes/menu.php:364
 msgid "Sorry, you are not allowed to access this page."
@@ -13119,7 +13119,7 @@ msgstr "(ClassicPress konnte keine sichere Verbindung zu ClassicPress.net herste
 
 #: wp-admin/includes/translation-install.php:324
 msgid "Unable to update language pack for locales"
-msgstr ""
+msgstr "Das Sprachpaket für das Gebietsschema kann nicht aktualisiert werden"
 
 #: wp-admin/includes/update-core.php:304
 msgid "Verifying the unpacked files&#8230;"
@@ -15164,21 +15164,21 @@ msgstr "ClassicPress ist mit dem Blockeditor nicht kompatibel. Wenn die Blockkom
 #: wp-admin/options-general.php:650
 #: wp-admin/options-general.php:654
 msgid "Disable Emojis"
-msgstr ""
+msgstr "Emojis deaktivieren"
 
 #: wp-admin/options-general.php:658
 msgid "Emojis disabled"
-msgstr ""
+msgstr "Emojis deaktiviert"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:660
 #: wp-admin/options-general.php:664
 msgid "Disable XML-RPC"
-msgstr ""
+msgstr "XML-RPC deaktivieren"
 
 #: wp-admin/options-general.php:668
 msgid "XML-RPC server disabled"
-msgstr ""
+msgstr "XML-RPC-Server deaktiviert"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:352
@@ -15199,11 +15199,11 @@ msgstr "Im Bereich „Dateien hochladen“ bestimmst du den Ordner und Pfad für
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading."
-msgstr ""
+msgstr "Du kannst wählen, wie die Uploads nach dem Hochladen organisiert sein sollen."
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have Attachment Pages if this is supported by your Theme. You can choose to enable or disable Attachment Pages."
-msgstr ""
+msgstr "Medienanhänge, einschließlich Bild-, Audio- und Videodateien, können Anhangseiten haben, wenn deiN Theme dies unterstützt. Du kannst die Anhangseiten aktivieren oder deaktivieren."
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -15211,11 +15211,11 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/settings-media-scr
 
 #: wp-admin/options-media.php:71
 msgid "This option requires that at least one media category has been created."
-msgstr ""
+msgstr "Diese Option erfordert, dass wenigstens eine Medienkategorie angelegt wurde."
 
 #: wp-admin/options-media.php:71
 msgid "Create one now."
-msgstr ""
+msgstr "Jetzt eine erstellen."
 
 #: wp-admin/options-media.php:89
 msgid "Image sizes"
@@ -15308,19 +15308,19 @@ msgstr "Organisieren Sie Uploads in Monats- und Jahresordner."
 
 #: wp-admin/options-media.php:210
 msgid "Organize uploads according to media category."
-msgstr ""
+msgstr "Uploads nach Medienkategorie organisieren."
 
 #: wp-admin/options-media.php:221
 msgid "Attachment Pages"
-msgstr ""
+msgstr "Anhangseiten"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable attachment pages?"
-msgstr ""
+msgstr "Möchtest du Anhangseiten aktivieren?"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
-msgstr ""
+msgstr "Medien-Anhangseiten aktivieren."
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
@@ -17444,7 +17444,7 @@ msgstr "Du benutzt die aktuelle Version von ClassicPress."
 
 #: wp-admin/update-core.php:231
 msgid "Future security updates should be applied automatically."
-msgstr ""
+msgstr "Künftige Sicherheitsupdates sollten automatisch angewendet werden."
 
 #: wp-admin/update-core.php:239
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
@@ -17816,50 +17816,52 @@ msgstr "Fehler beim Speichern der Mediendatei."
 
 #: wp-admin/upload.php:123
 msgid "by"
-msgstr ""
+msgstr "von"
 
 #: wp-admin/upload.php:124
 msgid "pixels"
-msgstr ""
+msgstr "Pixel"
 
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:464
 msgid "Deselect"
-msgstr ""
+msgstr "Auswahl aufheben"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
-msgstr ""
+msgstr "Aktualisierung der Medien fehlgeschlagen:"
 
 #: wp-admin/upload.php:128
 msgid "Upload failed"
-msgstr ""
+msgstr "Hochladen fehlgeschlagen"
 
 #: wp-admin/upload.php:129
 msgid "Tap to close"
-msgstr ""
+msgstr "Zum Schließen tippen"
 
 #: wp-admin/upload.php:130
 msgid "Enter new filename"
-msgstr ""
+msgstr "Neuen Dateinamen eingeben"
 
 #: wp-admin/upload.php:131
 msgid "Invalid file type"
-msgstr ""
+msgstr "Ungültiger Dateityp"
 
 #: wp-admin/upload.php:132
 msgid "Check the list of accepted file types."
-msgstr ""
+msgstr "Überprüfe die Liste der akzeptierten Dateitypen."
 
 #: wp-admin/upload.php:133
 msgid "Failed to delete attachment."
-msgstr ""
+msgstr "Konnte Anhang nicht löschen."
 
 #: wp-admin/upload.php:134
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "Du bist im Begriff, dieses Element dauerhaft von deiner Website zu löschen.\n"
+"Diese Aktion kann nicht rückgängig gemacht werden.\n"
+"'Abbrechen' zum Beenden, 'OK' zum Löschen."
 
 #: wp-admin/upload.php:135
 #: wp-admin/js/common.js:527
@@ -17906,11 +17908,11 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-scre
 
 #: wp-admin/upload.php:287
 msgid "Filter media"
-msgstr ""
+msgstr "Medien filtern"
 
 #: wp-admin/upload.php:323
 msgid "Media items navigation"
-msgstr ""
+msgstr "Navigation der Medienelementeliste"
 
 #. translators: %s: Number of media items showing
 #: wp-admin/upload.php:329
@@ -17919,64 +17921,64 @@ msgstr "%s Einträge"
 
 #: wp-admin/upload.php:355
 msgid "of"
-msgstr ""
+msgstr "von"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
-msgstr ""
+msgstr "Zeige %s von %s Medienelementen"
 
 #: wp-admin/upload.php:483
 msgid "No media items found."
-msgstr ""
+msgstr "Keine Medienelemente gefunden."
 
 #: wp-admin/upload.php:505
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Vorheriges Medienelement bearbeiten"
 
 #: wp-admin/upload.php:508
 msgid "Edit next media item"
-msgstr ""
+msgstr "Nächstes Medienelement bearbeiten"
 
 #: wp-admin/upload.php:511
 msgid "Close dialog"
-msgstr ""
+msgstr "Dialog schließen"
 
 #: wp-admin/upload.php:515
 msgid "Attachment details"
-msgstr ""
+msgstr "Anhang-Details"
 
 #: wp-admin/upload.php:520
 msgid "Attachment Preview"
-msgstr ""
+msgstr "Anhang-Vorschau"
 
 #: wp-admin/upload.php:543
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Hochgeladen am:"
 
 #: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
-msgstr ""
+msgstr "Erfahre, wie man den Zweck des Bildes beschreibt"
 
 #: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
-msgstr ""
+msgstr ". Leer lassen, wenn es sich um ein reines Schmuckbild handelt."
 
 #: wp-admin/upload.php:577
 msgid "Saved!"
-msgstr ""
+msgstr "Gespeichert!"
 
 #: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
-msgstr ""
+msgstr "Taxonomie erfolgreich aktualisiert!"
 
 #: wp-admin/upload.php:625
 msgid "View attachment page"
-msgstr ""
+msgstr "Anhangseite anzeigen"
 
 #: wp-admin/upload.php:627
 msgid "Edit more details"
-msgstr ""
+msgstr "Weitere Details bearbeiten"
 
 #: wp-admin/upload.php:775
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
