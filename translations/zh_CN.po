@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-11-16 08:55\n"
+"PO-Revision-Date: 2025-01-03 02:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8149,27 +8149,27 @@ msgstr "无效的菜单 ID。"
 #: wp-includes/object-relationships.php:247
 #: wp-includes/object-relationships.php:355
 msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() 函数期望第1个参数是一个正整数，但给定的是 %s 。"
 
 #. translators: %s: String, 0, object, or array.
 #: wp-includes/object-relationships.php:86
 #: wp-includes/object-relationships.php:373
 msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() 函数期望第4个参数是一个正整数，但给定的是 %s 。"
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:108
 #: wp-includes/object-relationships.php:269
 #: wp-includes/object-relationships.php:395
 msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() 函数期望第2个参数是 %s 中的一个，但给定的是 %s 。"
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:126
 #: wp-includes/object-relationships.php:287
 #: wp-includes/object-relationships.php:413
 msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() 函数期望第3个参数是 %s 中的一个，但给定的是 %s 。"
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104
