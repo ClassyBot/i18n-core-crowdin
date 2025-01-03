@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-11-16 08:55\n"
+"PO-Revision-Date: 2025-01-03 02:20\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2927,15 +2927,15 @@ msgstr "上传的文件不是有效的图像。请再试一次。"
 
 #: wp-admin/includes/ajax-actions.php:2597
 msgid "The upload media category folder has been updated."
-msgstr ""
+msgstr "这个上传媒体类别的文件夹已经更新。"
 
 #: wp-admin/includes/ajax-actions.php:2605
 msgid "You need to choose a media category folder before you can upload a file."
-msgstr ""
+msgstr "在上传文件之前，您需要先选择一个媒体类别文件夹。"
 
 #: wp-admin/includes/ajax-actions.php:3358
 msgid "Select "
-msgstr ""
+msgstr "选择 "
 
 #: wp-admin/includes/ajax-actions.php:3361
 msgid "File"
@@ -2943,7 +2943,7 @@ msgstr "文件"
 
 #: wp-admin/includes/ajax-actions.php:3371
 msgid "File name: "
-msgstr ""
+msgstr "文件名称： "
 
 #: wp-admin/includes/ajax-actions.php:3379
 #: wp-admin/includes/class-wp-media-list-table.php:945
@@ -2991,11 +2991,11 @@ msgstr "媒体标签"
 
 #: wp-admin/includes/ajax-actions.php:3403
 msgid "Featured Image"
-msgstr ""
+msgstr "特色图像"
 
 #: wp-admin/includes/ajax-actions.php:3405
 msgid "Used In"
-msgstr ""
+msgstr "使用于"
 
 #: wp-admin/includes/ajax-actions.php:3407
 msgid "Uploaded to"
@@ -6105,7 +6105,7 @@ msgstr "回收站"
 
 #: wp-admin/includes/class-wp-media-list-table.php:195
 msgid "Attach to post"
-msgstr ""
+msgstr "添加到文章"
 
 #: wp-admin/includes/class-wp-media-list-table.php:304
 msgid "No media files found in Trash."
@@ -6147,12 +6147,12 @@ msgstr "文件"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "特色图像"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
 msgid "Used In"
-msgstr ""
+msgstr "使用于"
 
 #: wp-admin/includes/class-wp-media-list-table.php:408
 msgctxt "column name"
@@ -6293,7 +6293,7 @@ msgstr "使用逗号分隔标签"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1155
 msgid "— No Change —"
-msgstr ""
+msgstr "— 无变化 —"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1194
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
@@ -6309,51 +6309,51 @@ msgstr "月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1213
 msgid "01-Jan"
-msgstr ""
+msgstr "01-一月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1214
 msgid "02-Feb"
-msgstr ""
+msgstr "02-二月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1215
 msgid "03-Mar"
-msgstr ""
+msgstr "03-三月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1216
 msgid "04-Apr"
-msgstr ""
+msgstr "04-四月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1217
 msgid "05-May"
-msgstr ""
+msgstr "05-五月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1218
 msgid "06-Jun"
-msgstr ""
+msgstr "06-六月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1219
 msgid "07-Jul"
-msgstr ""
+msgstr "07-七月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1220
 msgid "08-Aug"
-msgstr ""
+msgstr "08-八月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1221
 msgid "09-Sep"
-msgstr ""
+msgstr "9-九月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1222
 msgid "10-Oct"
-msgstr ""
+msgstr "10-十月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1223
 msgid "11-Nov"
-msgstr ""
+msgstr "11-十一月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1224
 msgid "12-Dec"
-msgstr ""
+msgstr "12-十二月"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:1227
@@ -7286,7 +7286,7 @@ msgstr "在本分节中，您应当说明您正在使用的分析工具包，用
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:537
 msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
-msgstr ""
+msgstr "默认情况下，ClassicPress 不会收集任何统计信息。不过，有许多 Web 托管账户会收集一些匿名的数据。您还有可能安装了提供统计服务的插件，这种情况下，您可以在下方添加对应插件的信息。"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:541
