@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2024-11-16 08:55\n"
+"PO-Revision-Date: 2025-01-09 10:46\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -275,7 +275,7 @@ msgstr "Zoeken"
 
 #: wp-includes/admin-bar.php:1142
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "Verlaat herstelmodus"
 
 #: wp-includes/atomlib.php:155
 #: wp-includes/feed.php:582
