@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2024-11-16 08:55\n"
+"PO-Revision-Date: 2025-01-09 22:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -123,7 +123,7 @@ msgstr ""
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress support forum
 #: wp-admin/about.php:95
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr "Als je hulp nodig hebt met iets anders, kun je onze <a href=\"%1$s\"><strong>FAQ pagina</strong></a> raadplegen. Als uw vraag daar niet wordt beantwoord, kan je een nieuw bericht maken op onze <a href=\"%2$s\"><strong>ondersteuningsforum</strong></a>."
+msgstr "Als je hulp nodig hebt met iets anders, kun je onze <a href=\"%1$s\"><strong>FAQ pagina</strong></a> raadplegen. Als je vraag daar niet wordt beantwoord, kan je een nieuw bericht maken op ons  <a href=\"%2$s\"><strong>support forum</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:105
@@ -206,8 +206,8 @@ msgstr ""
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] "<strong>WordPress versie %1$s</strong> hebben sommige veiligheidsproblemen aangepakt en loste %2$s bug op."
-msgstr[1] "<strong>WordPress versie %1$s</strong> hebben sommige veiligheidsproblemen aangepakt en loste %2$s bugs op."
+msgstr[0] "<strong>WordPress Versie %1$s</strong> heeft enkele beveiligingsproblemen verholpen en %2$s bug opgelost."
+msgstr[1] "<strong>WordPress Versie %1$s</strong> heeft enkele beveiligingsproblemen verholpen en %2$s bugs opgelost."
 
 #: wp-admin/about.php:279
 msgid "Maintenance Release"
