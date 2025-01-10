@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-09 22:51\n"
+"PO-Revision-Date: 2025-01-10 22:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -447,11 +447,11 @@ msgstr "Tags: "
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "De PHPMailer class is verplaatst naar wp-includes/PHPMailer submap en gebruikt nu de PHPMailer\\PHPMailer namespace."
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
-msgstr ""
+msgstr "Geen server opgegeven"
 
 #: wp-includes/class-pop3.php:102
 #: wp-includes/class-pop3.php:114
@@ -465,25 +465,25 @@ msgstr ""
 #: wp-includes/class-pop3.php:537
 #: wp-includes/class-pop3.php:560
 msgid "Error "
-msgstr ""
+msgstr "Fout "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
-msgstr ""
+msgstr "geen login-ID verstuurd"
 
 #: wp-includes/class-pop3.php:130
 #: wp-includes/class-pop3.php:150
 msgid "connection not established"
-msgstr ""
+msgstr "verbinding niet gemaakt"
 
 #: wp-includes/class-pop3.php:147
 #: wp-includes/class-pop3.php:183
 msgid "No password submitted"
-msgstr ""
+msgstr "Geen wachtwoord ingevoerd"
 
 #: wp-includes/class-pop3.php:155
 msgid "Authentication failed"
-msgstr ""
+msgstr "Authenticatie mislukt"
 
 #: wp-includes/class-pop3.php:174
 #: wp-includes/class-pop3.php:217
@@ -496,48 +496,48 @@ msgstr ""
 #: wp-includes/class-pop3.php:525
 #: wp-includes/class-pop3.php:590
 msgid "No connection to server"
-msgstr ""
+msgstr "Geen verbinding met server"
 
 #: wp-includes/class-pop3.php:180
 msgid "No login ID submitted"
-msgstr ""
+msgstr "Geen login-ID verstuurd"
 
 #: wp-includes/class-pop3.php:188
 msgid "No server banner"
-msgstr ""
+msgstr "Geen server banner"
 
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
 msgid "abort"
-msgstr ""
+msgstr "afbreken"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
-msgstr ""
+msgstr "apop authenticatie mislukt"
 
 #: wp-includes/class-pop3.php:335
 msgid "Premature end of list"
-msgstr ""
+msgstr "Voortijdig einde van de lijst"
 
 #: wp-includes/class-pop3.php:468
 msgid "Empty command string"
-msgstr ""
+msgstr "Lege opdrachtstring"
 
 #: wp-includes/class-pop3.php:488
 msgid "connection does not exist"
-msgstr ""
+msgstr "verbinding bestaat niet"
 
 #: wp-includes/class-pop3.php:595
 msgid "No msg number submitted"
-msgstr ""
+msgstr "Geen msg nummer verstuurd"
 
 #: wp-includes/class-pop3.php:601
 msgid "Command failed "
-msgstr ""
+msgstr "Opdracht mislukt "
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "De SMTP-klasse is verplaatst naar de wp-includes/PHPMailer submap en gebruikt nu de PHPMailer\\PHPMailer namespace."
 
 #. translators: %s: Category name.
 #: wp-includes/class-walker-category.php:171
@@ -593,7 +593,7 @@ msgstr "Een applicatienaam is vereist om een applicatie wachtwoord aan te maken.
 
 #: wp-includes/class-wp-application-passwords.php:84
 msgid "Each application name should be unique."
-msgstr ""
+msgstr "Elke applicatie naam moet uniek zijn."
 
 #: wp-includes/class-wp-application-passwords.php:105
 #: wp-includes/class-wp-application-passwords.php:267
@@ -945,7 +945,7 @@ msgstr "Site icoon"
 #. translators: %s: Site Icon size in pixels.
 #: wp-includes/class-wp-customize-manager.php:5195
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "Het site icoon is wat je ziet in browser tabs, bladwijzer balken en binnen de WordPress mobiele apps. Het moet vierkant zijn en minstens %s pixels."
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
@@ -1131,7 +1131,7 @@ msgstr "Je eigen CSS code hier toevoegen om de weergave en lay-out van je site a
 
 #: wp-includes/class-wp-customize-manager.php:5691
 msgid "https://wordpress.org/documentation/article/css/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/css/"
 
 #: wp-includes/class-wp-customize-manager.php:5692
 msgid "Learn more about CSS"
@@ -2858,7 +2858,7 @@ msgstr "Er is een kritieke fout opgetreden op deze site. Neem contact op met je 
 
 #: wp-includes/class-wp-fatal-error-handler.php:191
 msgid "There has been a critical error on this website. Please check your site admin email inbox for instructions."
-msgstr ""
+msgstr "Er is een kritieke fout op deze site opgetreden. Controleer je beheer e-mail inbox voor instructies."
 
 #: wp-includes/class-wp-fatal-error-handler.php:194
 msgid "There has been a critical error on this website."
@@ -2871,7 +2871,7 @@ msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr ""
+msgstr "Leer meer over probleemoplossing in ClassicPress."
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
@@ -3401,7 +3401,7 @@ msgstr "Cache-sleutel mag geen lege string zijn."
 #. translators: %s: The type of the given cache key.
 #: wp-includes/class-wp-object-cache.php:159
 msgid "Cache key must be integer or non-empty string, %s given."
-msgstr ""
+msgstr "De cache-sleutel moet een integer of niet-lege tekenreeks zijn, %s ingegeven."
 
 #: wp-includes/class-wp-oembed-controller.php:45
 #: wp-includes/class-wp-oembed-controller.php:73
@@ -3763,7 +3763,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "Howdy!\n\n"
+"ClassicPress heeft een ingebouwde functie die herkent wanneer een plugin of thema een fatale fout veroorzaakt op je site. Die functie stelt je op de hoogte met deze automatische e-mail.\n"
+"###CAUSE###\n"
+"Bezoek eerst je site (###SITEURL###) en kijk of er zichtbare problemen zijn. Bezoek daarna de pagina waar de fout was gevonden (###PAGEURL###) en kijk of er zichtbare problemen zijn.\n\n"
+"###SUPPORT###\n\n"
+"Als je site kapot lijkt te zijn, en je je dashboard niet op de normale manier kunt bereiken, heeft WordPress nu een speciale \"herstelmodus\". Die laat je op een veilige manier op je dashboard inloggen om het probleem verder te onderzoeken.\n\n"
+"###LINK###\n\n"
+"Om je site veilig te houden verloopt deze link over ###EXPIRES###. Maar maak je niet druk, er wordt een nieuwe link naar je gestuurd als het probleem zich weer voordoet nadat de link is verlopen.\n\n"
+"Als je om hulp vraagt voor dit probleem, wordt er misschien gevraagd om de volgende informatie:\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -3773,17 +3783,17 @@ msgstr "[%s] Je site heeft een technisch probleem"
 #. translators: %s: Plugin name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:280
 msgid "In this case, ClassicPress caught an error with one of your plugins, %s."
-msgstr ""
+msgstr "In dit geval heeft ClassicPress een fout gevonden met één van je plugins, %s."
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:286
 msgid "In this case, ClassicPress caught an error with your theme, %s."
-msgstr ""
+msgstr "In dit geval heeft ClassicPress een fout gevonden in je thema, %s."
 
 #. translators: %s: Current WordPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress versie %s"
 
 #. translators: 1: Current active theme name. 2: Current active theme version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:357
@@ -4903,7 +4913,7 @@ msgstr "Op sommige systemen wordt de databasenaam voorafgegaan door je gebruiker
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:1254
 msgid "If you do not know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">Support forums</a>."
-msgstr ""
+msgstr "Als je niet weet hoe je een database moet instellen, neem dan <strong>contact op met je hostingprovider</strong>. Als al het andere niet gelukt is, kun je hulp vragen op de <a href=\"%s\">ondersteuningsforums</a>."
 
 #: wp-includes/class-wpdb.php:1255
 #: wp-includes/class-wpdb.php:2024
@@ -4975,7 +4985,7 @@ msgstr "Weet je zeker dat de databaseserver draait?"
 #: wp-includes/class-wpdb.php:2178
 #: wp-includes/load.php:180
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
-msgstr ""
+msgstr "Als je niet bekend bent met deze terminologie, kun je beter contact opnemen met je hostingprovider. Als je dan nog steeds hulp nodig hebt, kun je de <a href=\"%s\">ondersteuningsforums</a> bezoeken."
 
 #: wp-includes/class-wpdb.php:2163
 msgid "Error reconnecting to the database"
@@ -4992,7 +5002,7 @@ msgstr "Weet je zeker dat de databaseserver niet te zwaar belast wordt?"
 
 #: wp-includes/class-wpdb.php:2243
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
-msgstr ""
+msgstr "ClassicPress databasefout: kon query niet uitvoeren omdat die ongeldige gegevens bevat"
 
 #: wp-includes/class-wpdb.php:2280
 msgid "Unable to retrieve the error message from MySQL"
@@ -5001,12 +5011,12 @@ msgstr "Verkrijgen van de foutmelding van MySQL niet mogelijk"
 #. translators: %s: Database field where the error occurred.
 #: wp-includes/class-wpdb.php:2753
 msgid "ClassicPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
-msgstr ""
+msgstr "ClassicPress databasefout: het verwerken van de waarde voor het volgende veld is mislukt: %s. De geleverde waarde is mogelijk te lang of bevat ongeldige gegevens."
 
 #. translators: %s: Database fields where the error occurred.
 #: wp-includes/class-wpdb.php:2759
 msgid "ClassicPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
-msgstr ""
+msgstr "ClassicPress databasefout: het verwerken van de waarden voor de volgende velden is mislukt: %s. De geleverde waarden zijn mogelijk te lang of bevatten ongeldige gegevens."
 
 #: wp-includes/class-wpdb.php:3087
 msgid "Could not retrieve table charset."
@@ -5019,72 +5029,72 @@ msgstr "Kan ongeldige tekst niet strippen."
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number.
 #: wp-includes/class-wpdb.php:3856
 msgid "<strong>Error:</strong> ClassicPress %1$s requires MySQL %2$s or higher"
-msgstr ""
+msgstr "<strong>Fout:</strong> ClassicPress %1$s vereist MySQL %2$s of hoger"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:45
 msgid "Block Compatibility"
-msgstr ""
+msgstr "Blok compatibiliteit"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:46
 msgid "Plugins and themes using block functions."
-msgstr ""
+msgstr "Plugins en thema's die blokfuncties gebruiken."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:56
 #: wp-includes/classicpress/class-cp-debug-compat.php:69
 #: wp-includes/classicpress/class-cp-debug-compat.php:88
 msgid "Plugins using block functions"
-msgstr ""
+msgstr "Plugins die blokfuncties gebruiken"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:60
 #: wp-includes/classicpress/class-cp-debug-compat.php:104
 #: wp-includes/classicpress/class-cp-debug-compat.php:124
 msgid "Themes using block functions"
-msgstr ""
+msgstr "Thema's die blokfuncties gebruiken"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:77
 msgid "No plugins are using block functions."
-msgstr ""
+msgstr "Geen plugins gebruiken blokfuncties."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:85
 msgid "Plugins on this list may have issues."
-msgstr ""
+msgstr "Plugins op deze lijst kunnen problemen hebben."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:86
 #: wp-includes/classicpress/class-cp-debug-compat.php:122
 msgid "Learn more."
-msgstr ""
+msgstr "Meer informatie."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:112
 msgid "No themes are using block functions."
-msgstr ""
+msgstr "Geen thema's gebruiken blokfuncties."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:121
 msgid "Themes on this list may have issues."
-msgstr ""
+msgstr "Thema's op deze lijst kunnen problemen hebben."
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
 #: wp-includes/classicpress/class-wp-compat.php:69
 #: wp-includes/classicpress/class-wp-compat.php:148
 msgid "%1$s uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s gebruikt blok-gerelateerde functies en kan problemen hebben."
 
 #: wp-includes/classicpress/class-wp-compat.php:71
 #: wp-includes/classicpress/class-wp-compat.php:149
 #: wp-includes/classicpress/class-wp-compat.php:154
 msgid "Learn more"
-msgstr ""
+msgstr "Meer informatie"
 
 #: wp-includes/classicpress/class-wp-compat.php:72
 #: wp-includes/classicpress/class-wp-compat.php:150
 #: wp-includes/classicpress/class-wp-compat.php:155
 msgid "Report an issue &rsaquo;"
-msgstr ""
+msgstr "Meld een probleem &rsaquo;"
 
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
 #: wp-includes/classicpress/class-wp-compat.php:153
 msgid "%1$s parent theme (%2$s) uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s hoofd thema (%2$s) gebruikt blok-gerelateerde functies en kan problemen hebben."
 
 #: wp-includes/comment-template.php:635
 msgid "Password protected"
@@ -5884,13 +5894,13 @@ msgstr "Nu updaten"
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:118
 msgid "There is a new version of %s available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je versie van ClassicPress en PHP."
 
 #. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:125
 #: wp-includes/customize/class-wp-customize-theme-control.php:198
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Update ClassicPress</a>, en <a href=\"%2$s\">lees meer over het updaten van PHP</a>."
 
 #. translators: %s: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:132
