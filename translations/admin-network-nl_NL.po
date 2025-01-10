@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-09 22:35\n"
+"PO-Revision-Date: 2025-01-10 10:53\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -1861,11 +1861,11 @@ msgstr "Dit scherm laat je kiezen welke thema's beschikbaar zijn in het Weergave
 
 #: wp-admin/network/themes.php:299
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
-msgstr "Als de super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site eigenaren die deze site in gebruik hebben. Kiest een site eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
+msgstr "Als de super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site eigenaren die deze site in gebruik hebben. Kiest een site eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema's scherm."
 
 #: wp-admin/network/themes.php:300
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
-msgstr "Thema's kunnen worden geactiveerd per site door de netwerkbeheerder op de pagina site scherm (welke een tab Thema's heeft). Je komt daar via het de link Bewerken op het overzicht van alle sites. Alleen netwerkbeheerders kunnen thema's installeren of bewerken."
+msgstr "Thema's kunnen worden geactiveerd per site door de netwerkbeheerder op het site bewerken scherm (welke een tab Thema's heeft). Je komt daar via de link Bewerken op het overzicht van alle sites. Alleen netwerkbeheerders kunnen thema's installeren of bewerken."
 
 #: wp-admin/network/themes.php:310
 msgid "Auto-updates"
@@ -2314,14 +2314,14 @@ msgid "Hello USERNAME,\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
 msgstr "Hallo USERNAME,\n\n"
-"Uw nieuwe SITE_NAME site is succesvol klaar gezet op:\n"
+"Je nieuwe site SITE_NAME is klaar voor je op:\n"
 "BLOG_URL\n\n"
-"U kunt inloggen op het beheerdersaccount met de volgende informatie:\n\n"
+"Je kunt nu inloggen met het beheerdersaccount met de volgende informatie:\n\n"
 "Gebruikersnaam: USERNAME\n"
 "Wachtwoord: PASSWORD\n"
 "Log hier in: BLOG_URLwp-login.php\n\n"
-"Wij hopen dat u veel plezier heeft van uw nieuwe site. Dankjewel!\n\n"
-"--Het Team @ SITE_NAME"
+"We hopen dat je plezier beleeft met je nieuwe site. Bedankt.\n\n"
+"--Het team van SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2381,13 +2381,13 @@ msgid "Hello USERNAME,\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
 msgstr "Hallo USERNAME,\n\n"
-"Je nieuwe account is opgezet.\n\n"
-"Je kunt inloggen met de volgende gegevens:\n"
+"Je nieuwe account is aangemaakt.\n\n"
+"e kunt inloggen met de volgende gegevens:\n"
 "Gebruikersnaam: USERNAME\n"
 "Wachtwoord: PASSWORD\n"
 "LOGINLINK\n\n"
-"Dankjewel!\n\n"
-"--Het Team @ SITE_NAME"
+"Bedankt.\n\n"
+"--Het team van SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
