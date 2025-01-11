@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-10 22:50\n"
+"PO-Revision-Date: 2025-01-11 10:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4985,7 +4985,7 @@ msgstr "Weet je zeker dat de databaseserver draait?"
 #: wp-includes/class-wpdb.php:2178
 #: wp-includes/load.php:180
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
-msgstr "Als je niet bekend bent met deze terminologie, kun je beter contact opnemen met je hostingprovider. Als je dan nog steeds hulp nodig hebt, kun je de <a href=\"%s\">ondersteuningsforums</a> bezoeken."
+msgstr "Als je niet bekend bent met deze terminologie, kun je beter contact opnemen met je hostingprovider. Als je dan nog steeds hulp nodig hebt, kun je de <a href=\"%s\">ClassicPress ondersteuningsforums</a> bezoeken."
 
 #: wp-includes/class-wpdb.php:2163
 msgid "Error reconnecting to the database"
@@ -5002,7 +5002,7 @@ msgstr "Weet je zeker dat de databaseserver niet te zwaar belast wordt?"
 
 #: wp-includes/class-wpdb.php:2243
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
-msgstr "ClassicPress databasefout: kon query niet uitvoeren omdat die ongeldige gegevens bevat"
+msgstr "ClassicPress databasefout: kon query niet uitvoeren omdat die ongeldige gegevens bevat."
 
 #: wp-includes/class-wpdb.php:2280
 msgid "Unable to retrieve the error message from MySQL"
@@ -5266,7 +5266,7 @@ msgstr "Reactie plaatsen"
 
 #: wp-includes/comment-template.php:2742
 msgid "Array values must only be a string or `true` boolean"
-msgstr ""
+msgstr "Arraywaarden mogen alleen een string of `true` boolean zijn"
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
@@ -5918,12 +5918,12 @@ msgstr "<a href=\"%s\">Lees meer over het updaten van PHP</a>."
 #: wp-includes/customize/class-wp-customize-theme-control.php:213
 #: wp-includes/customize/class-wp-customize-theme-control.php:235
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Update ClassicPress</a>."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:156
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je versie van ClassicPress."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:171
@@ -5932,15 +5932,15 @@ msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je v
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:193
 msgid "This theme does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Dit thema werkt niet met je versies van ClassicPress en PHP."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:227
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSE thema's werken niet met ClassicPress."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:231
 msgid "This theme does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Dit thema werkt niet met je versie van ClassicPress."
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:242
 msgid "This theme does not work with your version of PHP."
@@ -6007,7 +6007,7 @@ msgstr "Je bent aan het bladeren %s"
 #. translators: %s: Support forums URL.
 #: wp-includes/customize/class-wp-customize-themes-section.php:89
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden. Er is mogelijk iets mis met WordPress.org, ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:97
 msgid "No themes found. Try a different search."
@@ -6055,7 +6055,7 @@ msgstr "In de herschikmodus zijn in de bovenstaande lijst extra knoppen beschikb
 
 #: wp-includes/deprecated.php:64
 msgid "new ClassicPress Loop"
-msgstr ""
+msgstr "nieuwe ClassicPress lus"
 
 #: wp-includes/deprecated.php:706
 #: wp-includes/media-template.php:848
@@ -6589,7 +6589,7 @@ msgstr "Lees <a href=\"%s\">Foutopsporing in ClassicPress</a> voor meer informat
 
 #: wp-includes/functions.php:5892
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 
 #. translators: Developer debugging message. 1: PHP function name, 2: Explanatory message, 3: WordPress version number.
 #: wp-includes/functions.php:5898
@@ -6674,7 +6674,7 @@ msgstr "https://wordpress.org/support/update-php/"
 #. translators: %s: Default Update PHP page URL.
 #: wp-includes/functions.php:8171
 msgid "This resource is provided by your web host, and is specific to your site. For more information, <a href=\"%s\" target=\"_blank\">see the official ClassicPress documentation</a>."
-msgstr ""
+msgstr "Deze gegevensbron is van je webhost en is specifiek voor je site. Meer informatie vind je in de <a href=\"%s\" target=\"_blank\">officiële ClassicPress documentatie</a>."
 
 #: wp-includes/functions.php:8228
 msgid "Update PHP"
@@ -6683,7 +6683,7 @@ msgstr "Update PHP"
 #. translators: Documentation explaining HTTPS and why it should be used.
 #: wp-includes/functions.php:8287
 msgid "https://wordpress.org/documentation/article/why-should-i-use-https/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/why-should-i-use-https/"
 
 #. translators: 1: Function name, 2: A variable type, like "boolean" or "integer".
 #: wp-includes/functions.php:8484
@@ -7290,7 +7290,7 @@ msgstr "Bestanden selecteren"
 #. translators: 1: Name of media category, 2: Link to Media page in admin.
 #: wp-includes/media-template.php:295
 msgid "<p class=\"media-cat-upload-info\">Any files you upload here will be associated with the %1$s media category.</p><p class=\"media-cat-upload-info\">If you want to change this to a different media category, you can do so on the main <a href=\"%2$s\">Media</a> page.</p>"
-msgstr ""
+msgstr "<p class=\"media-cat-upload-info\">Alle bestanden die je hier uploadt worden geassocieerd met de %1$s media categorie.</p><p class=\"media-cat-upload-info\">Als je dit in een andere media categorie wilt veranderen, kun je dit doen op de hoofdpagina van <a href=\"%2$s\">Media</a>.</p>"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-includes/media-template.php:313
@@ -8132,7 +8132,7 @@ msgstr "Medialijst"
 
 #: wp-includes/media.php:5244
 msgid "ClassicPress Media"
-msgstr ""
+msgstr "ClassicPress Media"
 
 #: wp-includes/media.php:5301
 msgid "User&#8217;s media data."
@@ -8169,27 +8169,27 @@ msgstr "Ongeldig menu ID."
 #: wp-includes/object-relationships.php:247
 #: wp-includes/object-relationships.php:355
 msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() verwacht als parameter 1 een positief geheel getal; %s gegeven."
 
 #. translators: %s: String, 0, object, or array.
 #: wp-includes/object-relationships.php:86
 #: wp-includes/object-relationships.php:373
 msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() verwacht als parameter 4 een positief geheel getal; %s gegeven."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:108
 #: wp-includes/object-relationships.php:269
 #: wp-includes/object-relationships.php:395
 msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() verwacht als parameter 2 één van %s; %s gegeven."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:126
 #: wp-includes/object-relationships.php:287
 #: wp-includes/object-relationships.php:413
 msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() verwacht als parameter 3 één van %s; %s gegeven."
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104
@@ -8217,15 +8217,15 @@ msgstr "Site URL."
 
 #: wp-includes/option.php:2186
 msgid "The state of the \"login custom image\" feature (0=disabled, 1=square, or 2=banner)."
-msgstr ""
+msgstr "De status van de \"login aangepaste afbeelding\" functie (0=uitgeschakeld, 1=vierkant, of 2=banner)."
 
 #: wp-includes/option.php:2196
 msgid "Attachment ID for the \"login custom image\" feature."
-msgstr ""
+msgstr "Bijlage ID voor de functie \"login aangepaste afbeelding\"."
 
 #: wp-includes/option.php:2206
 msgid "Compatibility level for block-related function support."
-msgstr ""
+msgstr "Compatibiliteitsniveau voor blok-gerelateerde functieondersteuning."
 
 #: wp-includes/option.php:2222
 msgid "This address is used for admin purposes, like new user notification."
@@ -9113,12 +9113,12 @@ msgstr "Route moet specifiek opgegeven zijn."
 
 #: wp-includes/rest-api.php:51
 msgid "Namespace must not start or end with a slash."
-msgstr ""
+msgstr "Namespace mag niet beginnen of eindigen met een schuine streep."
 
 #. translators: %s: rest_api_init
 #: wp-includes/rest-api.php:59
 msgid "REST API routes must be registered on the %s action."
-msgstr ""
+msgstr "REST API routes moeten worden geregistreerd op de %s actie."
 
 #. translators: 1: The REST API route being registered, 2: The argument name, 3: The suggested function name.
 #: wp-includes/rest-api.php:98
@@ -9760,7 +9760,7 @@ msgstr "Voorbeeldlink van het bericht."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:376
 msgid "There is nothing to save. The autosave and the post content are the same."
-msgstr ""
+msgstr "Er is niets om op te slaan. De autosave en de inhoud van het bericht zijn hetzelfde."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:74
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1391
@@ -10353,7 +10353,7 @@ msgstr "Of de plugin allen netwerkbreed kan worden geactiveerd."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:956
 msgid "Minimum required version of ClassicPress."
-msgstr ""
+msgstr "Minimale vereiste versie van ClassicPress."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php:962
 msgid "Minimum required version of PHP."
@@ -11238,7 +11238,7 @@ msgstr "De minimale PHP-versie die nodig is om het thema te laten werken."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:518
 msgid "The minimum ClassicPress version required for the theme to work."
-msgstr ""
+msgstr "De minimale ClassicPress versie die nodig is om het thema te laten werken."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:523
 msgid "The theme's screenshot URL."
@@ -11845,7 +11845,7 @@ msgstr "Kies bron"
 
 #: wp-includes/script-loader.php:894
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 #: wp-includes/script-loader.php:895
 msgid "Speed Rate"
@@ -12256,15 +12256,15 @@ msgstr "Site-editor gebruiken"
 
 #: wp-includes/script-loader.php:1349
 msgid "Select an image"
-msgstr ""
+msgstr "Afbeelding selecteren"
 
 #: wp-includes/script-loader.php:1350
 msgid "Use this image"
-msgstr ""
+msgstr "Deze afbeelding gebruiken"
 
 #: wp-includes/script-loader.php:1351
 msgid "Please choose an image!"
-msgstr ""
+msgstr "Kies een afbeelding!"
 
 #. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
 #: wp-includes/script-loader.php:1403
@@ -12323,7 +12323,7 @@ msgstr "XML sitemap"
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:48
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:162
 msgid "This XML Sitemap is generated by ClassicPress to make your content more visible for search engines."
-msgstr ""
+msgstr "Deze XML-sitemap is gegenereerd door ClassicPress om je inhoud beter zichtbaar te maken voor zoekmachines."
 
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:51
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:165
@@ -12411,79 +12411,79 @@ msgstr "Format"
 
 #: wp-includes/taxonomy.php:200
 msgid "Media Categories"
-msgstr ""
+msgstr "Media categorieën"
 
 #: wp-includes/taxonomy.php:201
 msgid "Media Category"
-msgstr ""
+msgstr "Media Categorie"
 
 #: wp-includes/taxonomy.php:202
 msgid "Search Media Categories"
-msgstr ""
+msgstr "Zoek media categorieën"
 
 #: wp-includes/taxonomy.php:204
 msgid "All Media Categories"
-msgstr ""
+msgstr "Alle media categorieën"
 
 #: wp-includes/taxonomy.php:205
 msgid "Edit Media Category"
-msgstr ""
+msgstr "Bewerk media categorie"
 
 #: wp-includes/taxonomy.php:206
 msgid "Update Media Category"
-msgstr ""
+msgstr "Media categorie bijwerken"
 
 #: wp-includes/taxonomy.php:207
 msgid "Add New Media Category"
-msgstr ""
+msgstr "Nieuwe media categorie toevoegen"
 
 #: wp-includes/taxonomy.php:208
 msgid "New Media Category Name"
-msgstr ""
+msgstr "Nieuwe media categorie naam"
 
 #: wp-includes/taxonomy.php:212
 msgid "&larr; Go to Media Categories"
-msgstr ""
+msgstr "&larr; Ga naar media categorieën"
 
 #: wp-includes/taxonomy.php:213
 msgid "Filter by media category"
-msgstr ""
+msgstr "Filter op media categorie"
 
 #: wp-includes/taxonomy.php:243
 msgid "Media Tags"
-msgstr ""
+msgstr "Media tags"
 
 #: wp-includes/taxonomy.php:244
 msgid "Media Tag"
-msgstr ""
+msgstr "Media Tag"
 
 #: wp-includes/taxonomy.php:245
 msgid "Search Media Tags"
-msgstr ""
+msgstr "Zoek media tags"
 
 #: wp-includes/taxonomy.php:247
 msgid "All Media Tags"
-msgstr ""
+msgstr "Alle media tags"
 
 #: wp-includes/taxonomy.php:248
 msgid "Edit Media Tag"
-msgstr ""
+msgstr "Bewerk Media tag"
 
 #: wp-includes/taxonomy.php:249
 msgid "Update Media Tag"
-msgstr ""
+msgstr "Media tag bijwerken"
 
 #: wp-includes/taxonomy.php:250
 msgid "Add New Media Tag"
-msgstr ""
+msgstr "Nieuwe media tag toevoegen"
 
 #: wp-includes/taxonomy.php:251
 msgid "New Media Tag Name"
-msgstr ""
+msgstr "Nieuwe Media tag naam"
 
 #: wp-includes/taxonomy.php:255
 msgid "&larr; Go to Media Tags"
-msgstr ""
+msgstr "&larr; Ga naar media tags"
 
 #: wp-includes/taxonomy.php:542
 #: wp-includes/taxonomy.php:543
@@ -12646,7 +12646,7 @@ msgstr "Meta"
 #: wp-includes/theme.php:925
 msgctxt "theme"
 msgid "<strong>Error:</strong> Current ClassicPress and PHP versions do not meet minimum requirements for %s."
-msgstr ""
+msgstr "<strong>Fout:</strong> de huidige ClassicPress en PHP-versie voldoen niet aan de minimumvereisten voor %s."
 
 #. translators: %s: Theme name.
 #: wp-includes/theme.php:934
@@ -12658,7 +12658,7 @@ msgstr "<strong>Fout:</strong> de huidige PHP-versie voldoet niet aan de minimum
 #: wp-includes/theme.php:943
 msgctxt "theme"
 msgid "<strong>Error:</strong> Current ClassicPress version does not meet minimum requirements for %s."
-msgstr ""
+msgstr "<strong>Fout:</strong> de huidige ClassicPress versie voldoet niet aan de minimumvereisten voor %s."
 
 #: wp-includes/theme.php:1638
 msgid "Video is paused."
@@ -12855,7 +12855,7 @@ msgstr "Je moet een array van bericht formats doorgeven."
 
 #: wp-includes/theme.php:2613
 msgid "HTML5 is the default."
-msgstr ""
+msgstr "HTML5 is de standaard."
 
 #. translators: 1: title-tag, 2: wp_loaded
 #: wp-includes/theme.php:2788
@@ -12989,11 +12989,11 @@ msgstr "Er is een onverwachte fout opgetreden. Er is mogelijk iets mis met WordP
 #: wp-includes/update.php:665
 #: wp-login.php:1250
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-includes/update.php:390
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress kon geen beveiligde verbinding maken met WordPress.org. Neem contact op met de serverbeheerder.)"
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:664
@@ -13007,7 +13007,7 @@ msgstr "(WordPress kon geen beveiligde verbinding maken met WordPress.org. Neem 
 #. translators: %d: Number of available WordPress updates.
 #: wp-includes/update.php:881
 msgid "%d ClassicPress Update"
-msgstr ""
+msgstr "%d ClassicPress update"
 
 #. translators: %d: Number of available plugin updates.
 #: wp-includes/update.php:886
@@ -13406,7 +13406,7 @@ msgstr "Community-evenementen locatie"
 
 #: wp-includes/user.php:3954
 msgid "User&#8217;s location data used for the Community Events in the ClassicPress Events and News dashboard widget."
-msgstr ""
+msgstr "Locatiegegevens gebruiker gebruikt voor de Community Evenementen in de ClassicPress evenementen en nieuws dashboard widget."
 
 #: wp-includes/user.php:3964
 msgid "Expiration"
@@ -14078,7 +14078,7 @@ msgstr "Mogelijk gemaakt door ClassicPress."
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
@@ -14227,7 +14227,7 @@ msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel op %2$s
 
 #: wp-load.php:94
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/editing-wp-config-php/"
 
 #. translators: %s: wp-config.php
 #: wp-load.php:99
@@ -14241,7 +14241,7 @@ msgstr "Configuratiebestand aanmaken"
 #. translators: Login screen title. 1: Login screen name, 2: Network or site name.
 #: wp-login.php:72
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Login screen title.
 #: wp-login.php:76
@@ -14417,16 +14417,16 @@ msgstr "<strong>Fout:</strong> cookies zijn geblokkeerd vanwege onverwachte uitv
 
 #: wp-login.php:1249
 msgid "https://wordpress.org/documentation/article/cookies/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/"
 
 #. translators: %s: Browser cookie documentation URL.
 #: wp-login.php:1259
 msgid "<strong>Error:</strong> Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use ClassicPress."
-msgstr ""
+msgstr "<strong>Fout:</strong> cookies worden geblokkeerd of niet ondersteund door je browser. Je moet <a href=\"%s\">cookies inschakelen</a> om ClassicPress te kunnen gebruiken."
 
 #: wp-login.php:1260
 msgid "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
 
 #: wp-login.php:1280
 msgid "You have logged in successfully."
@@ -14736,19 +14736,19 @@ msgstr "Meldingen"
 
 #: wp-includes/js/dist/api-fetch.js:2871
 msgid "The response is not a valid JSON response."
-msgstr ""
+msgstr "Het antwoord is geen geldige JSON-reactie."
 
 #: wp-includes/js/dist/api-fetch.js:2907
 msgid "An unknown error occurred."
-msgstr ""
+msgstr "Er is een onbekende fout opgetreden."
 
 #: wp-includes/js/dist/api-fetch.js:2984
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
-msgstr ""
+msgstr "Media-upload mislukt. Als dit een foto of een grote afbeelding is, verklein deze dan en probeer het opnieuw."
 
 #: wp-includes/js/dist/api-fetch.js:3190
 msgid "You are probably offline."
-msgstr ""
+msgstr "Je bent waarschijnlijk offline."
 
 #: wp-includes/js/media-editor.js:630
 msgid "Could not set that as the thumbnail image. Try a different attachment."
@@ -14757,31 +14757,31 @@ msgstr "Niet mogelijk dit als de thumbnail-afbeelding in te stellen. Probeer een
 #. translators: Accessibility text. %d: Number of attachments found in a search.
 #: wp-includes/js/media-views.js:8279
 msgid "Number of media items displayed: %d. Click load more for more results."
-msgstr ""
+msgstr "Aantal media items weergegeven: %d. Klik op meer laden voor meer resultaten."
 
 #. translators: Accessibility text. %d: Number of attachments found in a search.
 #: wp-includes/js/media-views.js:8283
 msgid "Number of media items displayed: %d. Scroll the page for more results."
-msgstr ""
+msgstr "Aantal media items weergegeven: %d. Scroll op de pagina voor meer resultaten."
 
 #: wp-includes/js/media-views.js:8685
 msgid "Load more"
-msgstr ""
+msgstr "Meer laden"
 
 #: wp-includes/js/media-views.js:8697
 msgid "Jump to first loaded item"
-msgstr ""
+msgstr "Spring naar eerste geladen item"
 
 #: wp-includes/js/media-views.js:8735
 msgid "Showing %1$s of %2$s media items"
-msgstr ""
+msgstr "Toont %1$s van %2$s media items"
 
 #. translators: %s: Number of selected media attachments.
 #: wp-includes/js/media-views.js:8967
 msgid "%s item selected"
 msgid_plural "%s items selected"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s item geselecteerd"
+msgstr[1] "%s items geselecteerd"
 
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "⌘ + letter:"
