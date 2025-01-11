@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-11 10:50\n"
+"PO-Revision-Date: 2025-01-11 22:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -10508,7 +10508,7 @@ msgstr "De <a href=\"https://codex.wordpress.org/Glossary#Character_set\">karakt
 #: wp-admin/includes/translation-install.php:93
 #: wp-admin/includes/update.php:112 wp-admin/theme-install.php:58
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr "Onverwachte fout. Er kan iets mis zijn met ClassicPress.net of de configuratie van deze server. Als de problemen aanhouden, zoek dan hulp in het <a href=\"%s\">ondersteuningsforum</a>."
+msgstr "Er is een onverwachte fout opgetreden Er is mogelijk iets mis met ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #: wp-admin/includes/plugin-install.php:165 wp-admin/includes/theme.php:465
 #: wp-admin/includes/translation-install.php:70
@@ -26386,7 +26386,7 @@ msgstr "Customizer"
 #. translators: %s: support forums URL
 #: wp-includes/update.php:157
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr "Er is een onverwachte fout opgetreden. Iets kan verkeerd zijn met ClassicPress.net of deze server&#8217;s configuratie. Als u nog steeds problemen ondervindt, meldt u dit probleem dan in onze <a href=\"%s\">ondersteuningsforum</a>."
+msgstr "Er is een onverwachte fout opgetreden. Er is mogelijk iets mis met ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:348 wp-includes/update.php:530
