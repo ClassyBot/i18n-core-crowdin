@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-01-03 02:20\n"
+"PO-Revision-Date: 2025-01-11 10:50\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -9411,12 +9411,12 @@ msgstr "安装 %s"
 #. translators: 1: Script handle. 2: URL for more information.
 #: wp-admin/includes/deprecated.php:1696
 msgid "The enqueued script %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "被加载的脚本 %1$s 已被弃用。它将于 ClassPress 的 3.0.0 版本被删除。更多详细信息可以在 %2$s 中找到。"
 
 #. translators: 1: Stylesheet handle. 2: URL for more information.
 #: wp-admin/includes/deprecated.php:1709
 msgid "The enqueued stylesheet %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "被加载的样式表 %1$s 已被弃用。它将于 ClassPress 的 3.0.0 版本被删除。更多详细信息可以在 %2$s 中找到。"
 
 #: wp-admin/includes/edit-tag-messages.php:14
 msgid "Item added."
@@ -10627,15 +10627,15 @@ msgstr "原始图像："
 
 #: wp-admin/includes/media.php:3843
 msgid "Sorry, you are not allowed to edit media attachment pages."
-msgstr ""
+msgstr "对不起，您无权编辑媒体附件页面。"
 
 #: wp-admin/includes/media.php:3925
 msgid "Please choose the upload media category"
-msgstr ""
+msgstr "请选择媒体上传分类"
 
 #: wp-admin/includes/media.php:3927
 msgid "Select Media Category"
-msgstr ""
+msgstr "选择媒体分类"
 
 #: wp-admin/includes/media.php:3997
 msgid "Bulk select"
@@ -13039,7 +13039,7 @@ msgstr "（ClassicPress 无法建立与 ClassicPress.net 的安全连接。请�
 
 #: wp-admin/includes/translation-install.php:324
 msgid "Unable to update language pack for locales"
-msgstr ""
+msgstr "无法更新语言包"
 
 #: wp-admin/includes/update-core.php:304
 msgid "Verifying the unpacked files&#8230;"
@@ -15079,21 +15079,21 @@ msgstr "ClassicPress 与区块编辑器不兼容。当启用区块兼容性时�
 #: wp-admin/options-general.php:650
 #: wp-admin/options-general.php:654
 msgid "Disable Emojis"
-msgstr ""
+msgstr "禁用表情"
 
 #: wp-admin/options-general.php:658
 msgid "Emojis disabled"
-msgstr ""
+msgstr "表情已禁用"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:660
 #: wp-admin/options-general.php:664
 msgid "Disable XML-RPC"
-msgstr ""
+msgstr "禁用 XML-RPC"
 
 #: wp-admin/options-general.php:668
 msgid "XML-RPC server disabled"
-msgstr ""
+msgstr "XML-RPC 服务器已禁用"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:352
@@ -15114,11 +15114,11 @@ msgstr "上传文件允许您选择存储您上传文件的文件夹和路径。
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading."
-msgstr ""
+msgstr "您可以选择在上传后如何组织上传的内容。"
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have Attachment Pages if this is supported by your Theme. You can choose to enable or disable Attachment Pages."
-msgstr ""
+msgstr "媒体附件，包括图片、音频、视频文件，如果您的主题支持此内容，可以包含附件页面。您可以选择启用或禁用附件页面。"
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -15126,11 +15126,11 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/settings-media-scr
 
 #: wp-admin/options-media.php:71
 msgid "This option requires that at least one media category has been created."
-msgstr ""
+msgstr "此选项要求至少创建一个媒体分类。"
 
 #: wp-admin/options-media.php:71
 msgid "Create one now."
-msgstr ""
+msgstr "现在创建一个。"
 
 #: wp-admin/options-media.php:89
 msgid "Image sizes"
@@ -15223,19 +15223,19 @@ msgstr "将上传内容分配至以年月为基准的文件夹中。"
 
 #: wp-admin/options-media.php:210
 msgid "Organize uploads according to media category."
-msgstr ""
+msgstr "按媒体分类组织上传内容。"
 
 #: wp-admin/options-media.php:221
 msgid "Attachment Pages"
-msgstr ""
+msgstr "附件页面"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable attachment pages?"
-msgstr ""
+msgstr "您希望启用附件页面吗？"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
-msgstr ""
+msgstr "启用媒体附件页面。"
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
@@ -17355,7 +17355,7 @@ msgstr "您正在运行最新版本的 ClassicPress。"
 
 #: wp-admin/update-core.php:231
 msgid "Future security updates should be applied automatically."
-msgstr ""
+msgstr "将自动应用未来的安全更新。"
 
 #: wp-admin/update-core.php:239
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
@@ -17722,11 +17722,11 @@ msgstr "保存媒体文件时出错。"
 
 #: wp-admin/upload.php:123
 msgid "by"
-msgstr ""
+msgstr "*"
 
 #: wp-admin/upload.php:124
 msgid "pixels"
-msgstr ""
+msgstr "像素"
 
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:464
@@ -17735,37 +17735,39 @@ msgstr "取消选择"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
-msgstr ""
+msgstr "更新媒体失败："
 
 #: wp-admin/upload.php:128
 msgid "Upload failed"
-msgstr ""
+msgstr "上传失败"
 
 #: wp-admin/upload.php:129
 msgid "Tap to close"
-msgstr ""
+msgstr "单击以关闭"
 
 #: wp-admin/upload.php:130
 msgid "Enter new filename"
-msgstr ""
+msgstr "输入新文件名"
 
 #: wp-admin/upload.php:131
 msgid "Invalid file type"
-msgstr ""
+msgstr "文件类型无效"
 
 #: wp-admin/upload.php:132
 msgid "Check the list of accepted file types."
-msgstr ""
+msgstr "检查可接受的文件类型列表。"
 
 #: wp-admin/upload.php:133
 msgid "Failed to delete attachment."
-msgstr ""
+msgstr "删除附件失败。"
 
 #: wp-admin/upload.php:134
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "您即将从您的站点中永久删除此项目。\n"
+"该操作不能被撤销。\n"
+"按下「取消」以终止，「确认」以继续。"
 
 #: wp-admin/upload.php:135
 #: wp-admin/js/common.js:527
@@ -17816,7 +17818,7 @@ msgstr "筛选媒体"
 
 #: wp-admin/upload.php:323
 msgid "Media items navigation"
-msgstr ""
+msgstr "媒体项目导航"
 
 #. translators: %s: Number of media items showing
 #: wp-admin/upload.php:329
@@ -17830,7 +17832,7 @@ msgstr "中的"
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
-msgstr ""
+msgstr "显示 %s 中的第 %s 个媒体项目"
 
 #: wp-admin/upload.php:483
 msgid "No media items found."
@@ -17862,19 +17864,19 @@ msgstr "上传于："
 
 #: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
-msgstr ""
+msgstr "学习如何描述图像的目的"
 
 #: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "如果图像纯粹用作装饰，则留空。"
 
 #: wp-admin/upload.php:577
 msgid "Saved!"
-msgstr ""
+msgstr "已保存！"
 
 #: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
-msgstr ""
+msgstr "类别更新成功！"
 
 #: wp-admin/upload.php:625
 msgid "View attachment page"
