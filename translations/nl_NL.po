@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-09 22:51\n"
+"PO-Revision-Date: 2025-01-11 10:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -292,7 +292,7 @@ msgstr ""
 #. name
 #: wp-admin/admin-header.php:50 wp-login.php:62
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #: wp-admin/admin-header.php:230
 msgid "Main content"
@@ -3685,7 +3685,7 @@ msgstr "Indien je problemen ervaart of hulp nodig hebt; de vrijwilligers van de 
 #: wp-includes/wp-db.php:1062 wp-includes/wp-db.php:1595
 #: wp-includes/wp-db.php:1753 wp-login.php:921
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:694
 #: wp-admin/update-core.php:616
@@ -22277,7 +22277,7 @@ msgstr "Toevoegen aan video-afspeellijst"
 
 #: wp-includes/media.php:3969
 msgid "ClassicPress Media"
-msgstr ""
+msgstr "ClassicPress Media"
 
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL, 3: wp-config.php, 4:
 #. is_subdomain_install()
@@ -25071,7 +25071,7 @@ msgstr "Kies bron"
 
 #: wp-includes/script-loader.php:423
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 #: wp-includes/script-loader.php:424
 msgid "Speed Rate"
@@ -27200,7 +27200,7 @@ msgstr "Mogelijk gemaakt door ClassicPress."
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
