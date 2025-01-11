@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-11 10:50\n"
+"PO-Revision-Date: 2025-01-11 22:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3763,7 +3763,7 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr "Howdy!\n\n"
+msgstr "Hallo!\n\n"
 "ClassicPress heeft een ingebouwde functie die herkent wanneer een plugin of thema een fatale fout veroorzaakt op je site. Die functie stelt je op de hoogte met deze automatische e-mail.\n"
 "###CAUSE###\n"
 "Bezoek eerst je site (###SITEURL###) en kijk of er zichtbare problemen zijn. Bezoek daarna de pagina waar de fout was gevonden (###PAGEURL###) en kijk of er zichtbare problemen zijn.\n\n"
@@ -12974,7 +12974,7 @@ msgstr "Of het thema de document titel tag kan beheren."
 #. translators: %s: support forums URL
 #: wp-includes/update.php:156
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr "Er is een onverwachte fout opgetreden. Iets kan verkeerd zijn met ClassicPress.net of deze server&#8217;s configuratie. Als u nog steeds problemen ondervindt, meldt u dit probleem dan in onze <a href=\"%s\">ondersteuningsforum</a>."
+msgstr "Er is een onverwachte fout opgetreden. Er is mogelijk iets mis met ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #: wp-includes/update.php:158
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
@@ -12998,7 +12998,7 @@ msgstr "(ClassicPress kon geen beveiligde verbinding maken met WordPress.org. Ne
 #. translators: %s: support forums URL
 #: wp-includes/update.php:664
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr "Onverwachte fout. Er kan iets mis zijn met ClassicPress.net of de configuratie van deze server. Als de problemen aanhouden, zoek dan hulp in het <a href=\"%s\">ondersteuningsforum</a>."
+msgstr "Er is een onverwachte fout opgetreden Er is mogelijk iets mis met ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #: wp-includes/update.php:666
 msgid "(WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
@@ -14785,7 +14785,7 @@ msgstr[1] "%s items geselecteerd"
 
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "⌘ + letter:"
-msgstr ""
+msgstr "⌘ + letter:"
 
 #: wp-includes/js/wp-auth-check.js:27
 msgid "Your session has expired. You can log in again from this page or go to the login page."
