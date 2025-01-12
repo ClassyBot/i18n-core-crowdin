@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-12 11:00\n"
+"PO-Revision-Date: 2025-01-12 23:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -96,7 +96,7 @@ msgstr "Privacy"
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:53
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr "Help ons ClassicPress te vertalen in jouw taal! <a href=\"%s\">Leer meer</a>."
+msgstr "Help ons ClassicPress te vertalen in jouw taal! <a href=\"%s\">Lees meer</a>."
 
 #: wp-admin/about.php:60
 msgid "About ClassicPress"
@@ -141,7 +141,7 @@ msgstr "ClassicPress 2.0.0"
 #. translators: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:117
 msgid "For a list of new features and other changes from WordPress %1$s, see the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr "Voor een lijst met nieuwe functies en andere wijzigingen van WordPress %1$s, zie de <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
+msgstr "Voor een lijst met nieuwe functies en andere wijzigingen van WordPress %1$s, zie de <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release log</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:127
@@ -160,7 +160,7 @@ msgstr "ClassicPress 1.0.0"
 #. translators: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:146
 msgid "For a list of new features and other changes in WordPress %1$s, see the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr "Voor een lijst met nieuwe functies en andere wijzigingen in WordPress %1$s, zie de <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
+msgstr "Voor een lijst met nieuwe functies en andere wijzigingen in WordPress %1$s, zie de <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release log</strong></a>."
 
 #: wp-admin/about.php:152
 msgid "ClassicPress Maintenance and Security Releases"
@@ -2278,7 +2278,7 @@ msgstr "Standaardgegevens"
 
 #: wp-admin/erase-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from logged-in users but then deletes it or anonymizes it. That data can include: "
-msgstr "ClassicPress verzamelt (maar publiceert <em>nooit</em>) een beperkte hoeveelheid gegevens van ingelogde gebruikers, maar verwijdert deze vervolgens of anonimiseert ze. Die gegevens kunnen bestaan uit:"
+msgstr "ClassicPress verzamelt (maar publiceert <em>nooit</em>) een beperkte hoeveelheid gegevens van ingelogde gebruikers, maar verwijdert deze vervolgens of anonimiseert ze. Die gegevens kunnen bestaan uit: "
 
 #: wp-admin/erase-personal-data.php:38
 #: wp-admin/export-personal-data.php:38
@@ -2318,7 +2318,7 @@ msgstr "Veel plugins kunnen persoonlijke gegevens verzamelen of opslaan in de Cl
 
 #: wp-admin/erase-personal-data.php:58
 msgid "If you are a plugin author, you can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr "Als je een plugin auteur bent, kun je meer leren over <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\">hoe de persoonsgegevens wisser aan een plugin toe te voegen</a>."
+msgstr "Als je een plugin auteur bent, kun je <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">meer lezen over hoe support voor de persoonsgegevens wisser aan een plugin toe te voegen</a>."
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
@@ -2580,7 +2580,7 @@ msgstr "Van tijd tot tijd kan je ClassicPress site anonieme gegevens naar Classi
 
 #: wp-admin/freedoms.php:68
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, how we use it, and what precautions we take to ensure site owners&#8217; privacy, please see the <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr "We nemen privacy en transparantie zeer serieus. Voor meer informatie over de gegevens die we verzamelen, hoe we deze gebruiken en welke voorzorgsmaatregelen we nemen om de privacy van site-eigenaren te garanderen, zie de <a href=\"%s\">ClassicPress Privacy Policy</a>."
+msgstr "We nemen privacy en transparantie zeer serieus. Voor meer informatie over de gegevens die we verzamelen, hoe we deze gebruiken en welke voorzorgsmaatregelen we nemen om de privacy van site-eigenaren te garanderen, zie het <a href=\"%s\">ClassicPress privacybeleid</a>."
 
 #: wp-admin/freedoms.php:73
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
@@ -2617,7 +2617,7 @@ msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:89
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr "Elke plugin en thema in de ClassicPress.net directory is 100% GPL of een vergelijkbare gratis en verenigbare licentie, zodat je daar zorgeloos <a href=\"%1$s\">plugins </a> en <a href=\"%2$s\">thema's</a> kunt vinden. Als je een plugin of thema uit een andere bron haalt, vraag dan of het GPL is. Als ze de ClassicPress licentie niet respecteren, dan bevelen wij het niet aan."
+msgstr "Elke plugin en elk thema in de ClassicPress.net directory is 100% GPL of een vergelijkbare gratis en verenigbare licentie, zodat je daar zorgeloos <a href=\"%1$s\">plugins </a> en <a href=\"%2$s\">thema's</a> kunt vinden. Als je een plugin of thema uit een andere bron haalt, vraag dan of het <a href=\"%3$s\">GPL</a is. Als ze de ClassicPress licentie niet respecteren, dan bevelen wij het niet aan."
 
 #: wp-admin/freedoms.php:93
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -5322,7 +5322,7 @@ msgstr "Drop-ins"
 #: wp-admin/includes/class-wp-debug-data.php:147
 #: wp-admin/includes/class-wp-plugins-list-table.php:666
 msgid "Drop-ins are single files, found in the %s directory, that replace or enhance ClassicPress features in ways that are not possible for traditional plugins."
-msgstr "Drop-ins zijn losse bestanden in de folder %s, die ClassicPress-functies verbeteren of aanpassen op manieren die niet mogelijk zijn voor gewone plugins"
+msgstr "Drop-ins zijn losse bestanden in de folder %s, die ClassicPress-functies verbeteren of aanpassen op manieren die niet mogelijk zijn voor gewone plugins."
 
 #: wp-admin/includes/class-wp-debug-data.php:154
 #: wp-admin/includes/theme.php:820
@@ -8246,12 +8246,12 @@ msgstr "Je <a href=\"%s\">Site adres</a> is niet ingesteld om HTTPS te gebruiken
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1560
 msgid "You are accessing this website using HTTPS, but your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS by default."
-msgstr "Je benadert deze site middels HTTPS, maar je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\"%s\">Site adres</a> is niet standaard ingesteld om HTTPS te gebruiken."
+msgstr "Je benadert deze site middels HTTPS, maar je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\"%2$s\">Site adres</a> is niet standaard ingesteld om HTTPS te gebruiken."
 
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1570
 msgid "Your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS."
-msgstr "Je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\\\"%2$s\\\">Site adres</a> zijn niet ingesteld om HTTPS te gebruiken."
+msgstr "Je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\"%2$s\">Site adres</a> zijn niet ingesteld om HTTPS te gebruiken."
 
 #: wp-admin/includes/class-wp-site-health.php:1581
 msgid "HTTPS is already supported for your website."
@@ -10647,7 +10647,7 @@ msgstr "Je hebt al je ruimte verbruikt van %s. Verwijder enkele bestanden om mee
 #. translators: 1: Link to tutorial, 2: Additional link attributes, 3: Accessibility text.
 #: wp-admin/includes/media.php:3188
 msgid "<a href=\"%1$s\" %2$s>Learn how to describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
-msgstr "<a href=\\\"%1$s\\\" %2$s>Leer hoe het doel van de afbeelding te beschrijven%3$s</a>. Laat leeg als de afbeelding louter decoratief is."
+msgstr "<a href=\"%1$s\" %2$s>Leer hoe het doel van de afbeelding te beschrijven%3$s</a>. Laat leeg als de afbeelding louter decoratief is."
 
 #: wp-admin/includes/media.php:3224
 msgid "Displayed on attachment pages."
@@ -11890,7 +11890,7 @@ msgstr "<strong>Fout:</strong> deze plugin <strong>vereist een nieuwere versie v
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/plugin-install.php:862
 msgid "<a href=\"%s\" target=\"_parent\">Click here to update ClassicPress</a>."
-msgstr "<a href=\"%s\" target=\\\"_parent\\\">Klik hier om ClassicPress te updaten</a>."
+msgstr "<a href=\"%s\" target=\"_parent\">Klik hier om ClassicPress te updaten</a>."
 
 #: wp-admin/includes/plugin-install.php:903
 msgid "Install Update Now"
@@ -13008,7 +13008,7 @@ msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je v
 #: wp-admin/themes.php:818
 #: wp-admin/themes.php:1134
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je versie van ClassicPress.."
+msgstr "Er is een nieuwe versie van %s beschikbaar, maar het werkt niet met je versie van ClassicPress."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:919
@@ -14909,12 +14909,12 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/settings-general-s
 #. translators: Site tagline.
 #: wp-admin/options-general.php:75
 msgid "Just another ClassicPress site"
-msgstr "En nog een ClassicPress site"
+msgstr "Gewoon een andere ClassicPress site"
 
 #. translators: %s: Network title.
 #: wp-admin/options-general.php:78
 msgid "Just another %s site"
-msgstr "Een andere %s site"
+msgstr "Gewoon een andere %s site"
 
 #: wp-admin/options-general.php:82
 msgid "Tagline"
@@ -16078,7 +16078,7 @@ msgstr "Plugins toevoegen"
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/plugin-install.php:97
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by thousands of developers all over the world. All plugins in the <a href=\"%s\">ClassicPress Plugin Directory</a> are compatible with the license ClassicPress uses, but they are not necessarily designed for ClassicPress. Be sure to confirm their compatibility prior to install!"
-msgstr "Plugins haken in op ClassicPress om de functionaliteit uit te breiden met maatwerk. Plugins worden onafhankelijk van de ClassicPress applicatie zelf ontwikkeld door duizenden ontwikkelaars van over de hele wereld. Alle plugins in de <a href=\"%s\">ClassicPress Plugin Directory</a> zijn compatible met de licentie die WordPress gebruikt. Zorg ervoor dat je de compatibiliteit bevestigt voordat je met de installatie begint!"
+msgstr "Plugins haken in op ClassicPress om de functionaliteit uit te breiden met maatwerk. Plugins worden onafhankelijk van de ClassicPress applicatie zelf ontwikkeld door duizenden ontwikkelaars van over de hele wereld. Alle plugins in de <a href=\"%s\">ClassicPress Plugin Directory</a> zijn compatible met de licentie die ClassicPress gebruikt, maar ze zijn niet per se ontworpen voor ClassicPress. Zorg ervoor dat je de compatibiliteit bevestigt voordat je met de installatie begint!"
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -17378,17 +17378,17 @@ msgstr "Nu opnieuw installeren"
 #. translators: 1: ClassicPress version number, 2: Minimum required PHP version number, 3: Minimum required MySQL version number, 4: Current PHP version number, 5: Current MySQL version number
 #: wp-admin/update-core.php:93
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of nieuwer en MySQL versie %4$s of nieuwer vereist. Je gebruikt PHP versie %5$s en MySQL versie %6$s."
+msgstr "Je kunt niet updaten omdat <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> PHP versie %2$s of nieuwer en MySQL versie %3$s of nieuwer vereist. Je gebruikt PHP versie %4$s en MySQL versie %5$s."
 
 #. translators: 1: ClassicPress version number, 2: Minimum required PHP version number, 3: Current PHP version number
 #: wp-admin/update-core.php:96
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher. You are running version %3$s."
-msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of hoger vereist. Je gebruikt versie %4$s."
+msgstr "Je kunt niet updaten omdat <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> PHP versie %2$s of hoger vereist. Je gebruikt versie %3$s."
 
 #. translators: 1: ClassicPress version number, 2: Minimum required MySQL version number, 3: Current MySQL version number
 #: wp-admin/update-core.php:99
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires MySQL version %2$s or higher. You are running version %3$s."
-msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> MySQL versie %3$s of hoger vereist. Je gebruikt versie %4$s."
+msgstr "Je kunt niet updaten omdat <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> MySQL versie %2$s of hoger vereist. Je gebruikt versie %3$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number including locale if necessary
 #: wp-admin/update-core.php:101
@@ -17925,59 +17925,59 @@ msgstr "van"
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:478
 msgid "Showing %s of %s media items"
-msgstr ""
+msgstr "Toont %s van %s media items"
 
 #: wp-admin/upload.php:483
 msgid "No media items found."
-msgstr ""
+msgstr "Geen media items gevonden."
 
 #: wp-admin/upload.php:505
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Vorig media-item bewerken"
 
 #: wp-admin/upload.php:508
 msgid "Edit next media item"
-msgstr ""
+msgstr "Volgend media-item bewerken"
 
 #: wp-admin/upload.php:511
 msgid "Close dialog"
-msgstr ""
+msgstr "Dialoogvenster sluiten"
 
 #: wp-admin/upload.php:515
 msgid "Attachment details"
-msgstr ""
+msgstr "Bijlagedetails"
 
 #: wp-admin/upload.php:520
 msgid "Attachment Preview"
-msgstr ""
+msgstr "Bijlagevoorbeeld"
 
 #: wp-admin/upload.php:543
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Geüpload op:"
 
 #: wp-admin/upload.php:571
 msgid "Learn how to describe the purpose of the image"
-msgstr ""
+msgstr "Leer hoe het doel van de afbeelding te beschrijven"
 
 #: wp-admin/upload.php:571
 msgid ". Leave empty if the image is purely decorative."
-msgstr ""
+msgstr ". Laat leeg als de afbeelding louter decoratief is."
 
 #: wp-admin/upload.php:577
 msgid "Saved!"
-msgstr ""
+msgstr "Opgeslagen!"
 
 #: wp-admin/upload.php:609
 msgid "Taxonomy updated successfully!"
-msgstr ""
+msgstr "Taxonomie succesvol geüpdatet!"
 
 #: wp-admin/upload.php:625
 msgid "View attachment page"
-msgstr ""
+msgstr "Pagina met bijlage bekijken"
 
 #: wp-admin/upload.php:627
 msgid "Edit more details"
-msgstr ""
+msgstr "Overige details bewerken"
 
 #: wp-admin/upload.php:775
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
@@ -18138,7 +18138,7 @@ msgstr "Toetsenbord snelkoppelingen inschakelen voor het modereren van reacties.
 
 #: wp-admin/user-edit.php:355
 msgid "Toolbar"
-msgstr ""
+msgstr "Toolbar"
 
 #: wp-admin/user-edit.php:359
 msgid "Show Toolbar when viewing site"
@@ -18196,7 +18196,7 @@ msgstr "Er is ook een wachtende verandering van je e-mailadres naar %s."
 #: wp-admin/user-edit.php:622
 #: wp-admin/user-new.php:549
 msgid "Website"
-msgstr ""
+msgstr "Website"
 
 #: wp-admin/user-edit.php:664
 msgid "About Yourself"
@@ -18221,11 +18221,11 @@ msgstr "Profielfoto"
 #. translators: %s: Gravatar URL.
 #: wp-admin/user-edit.php:695
 msgid "<a href=\"%s\" rel=\"noreferrer\">You can change your profile picture on Gravatar</a>."
-msgstr ""
+msgstr "<a href=\"%s\" rel=\"noreferrer\">Je kan je profielafbeelding wijzigen op Gravatar</a>."
 
 #: wp-admin/user-edit.php:696
 msgid "https://en.gravatar.com/"
-msgstr ""
+msgstr "https://en.gravatar.com/"
 
 #: wp-admin/user-edit.php:733
 msgid "Account Management"
@@ -18337,7 +18337,7 @@ msgstr "De applicatiewachtwoord-functie vereist HTTPS, dit is niet ingeschakeld 
 #. translators: %s: Documentation URL.
 #: wp-admin/user-edit.php:920
 msgid "If this is a development website you can <a href=\"%s\" target=\"_blank\">set the environment type accordingly</a> to enable application passwords."
-msgstr ""
+msgstr "Als dit een ontwikkelwebsite is, kun je <a href=\"%s\" target=\"_blank\">het omgevingstype overeenkomstig instellen</a> om applicatie wachtwoorden in te schakelen."
 
 #: wp-admin/user-edit.php:921
 msgid "https://developer.wordpress.org/apis/wp-config-php/#wp-environment-type"
@@ -18900,19 +18900,19 @@ msgstr "Het thema dat je momenteel gebruikt is niet widget bewust, wat betekent 
 
 #: wp-admin/js/application-passwords.js:85
 msgid "Are you sure you want to revoke this password? This action cannot be undone."
-msgstr ""
+msgstr "Weet je zeker dat je dit wachtwoord wilt intrekken? Deze actie kan niet ongedaan worden gemaakt."
 
 #: wp-admin/js/application-passwords.js:108
 msgid "Application password revoked."
-msgstr ""
+msgstr "Applicatie wachtwoord ingetrokken."
 
 #: wp-admin/js/application-passwords.js:116
 msgid "Are you sure you want to revoke all passwords? This action cannot be undone."
-msgstr ""
+msgstr "Weet je zeker dat je alle wachtwoorden wilt intrekken? Deze actie kan niet ongedaan worden gemaakt."
 
 #: wp-admin/js/application-passwords.js:136
 msgid "All application passwords revoked."
-msgstr ""
+msgstr "Alle applicatie wachtwoorden ingetrokken."
 
 #: wp-admin/js/color-picker.js:121
 msgid "Color value"
@@ -18941,12 +18941,12 @@ msgstr "Geplaatst op:"
 #. translators: 1: Deprecated property name, 2: Version number, 3: Alternative property name.
 #: wp-admin/js/common.js:37
 msgid "%1$s is deprecated since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "%1$s is verouderd sinds versie %2$s! Gebruik in plaats daarvan %3$s."
 
 #. translators: 1: Deprecated property name, 2: Version number.
 #: wp-admin/js/common.js:45
 msgid "%1$s is deprecated since version %2$s with no alternative available."
-msgstr ""
+msgstr "%1$s is verouderd sinds versie %2$s zonder alternatief beschikbaar."
 
 #: wp-admin/js/common.js:1993
 msgid "Expand Main menu"
@@ -18975,23 +18975,23 @@ msgstr "De voorvertoning kon niet geladen worden. Herlaad de pagina en probeer h
 
 #: wp-admin/js/image-edit.js:647
 msgid "Could not load the preview image."
-msgstr ""
+msgstr "Kan de voorbeeldafbeelding niet laden."
 
 #. translators: %s: Post title.
 #: wp-admin/js/inline-edit-post.js:359
 #: wp-admin/js/media.js:472
 msgid "Remove &#8220;%s&#8221; from Bulk Edit"
-msgstr ""
+msgstr "Verwijder &#8220;%s&#8221; uit bulk bewerken"
 
 #: wp-admin/js/inline-edit-post.js:388
 #: wp-admin/js/media.js:614
 msgid "Item removed."
-msgstr ""
+msgstr "Item verwijderd."
 
 #: wp-admin/js/inline-edit-post.js:398
 #: wp-admin/js/media.js:626
 msgid "All selected items have been removed. Select new items to use Bulk Actions."
-msgstr ""
+msgstr "Alle geselecteerde items zijn verwijderd. Selecteer nieuwe items om bulk acties te gebruiken."
 
 #: wp-admin/js/inline-edit-post.js:622
 #: wp-admin/js/inline-edit-post.js:623
@@ -19005,12 +19005,13 @@ msgstr "Fout tijdens het opslaan van de wijzigingen."
 #: wp-admin/js/media.js:721
 #: wp-admin/js/post.js:1327
 msgid "The file URL has been copied to your clipboard"
-msgstr ""
+msgstr "De bestands-URL is naar je klembord gekopieerd"
 
 #: wp-admin/js/nav-menu.js:693
 msgid "You are about to permanently delete this menu.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "Je staat op het punt om dit menu permanent te verwijderen van je site.\n"
+"'Annuleren' om te stoppen, 'Ok' om te verwijderen."
 
 #: wp-admin/js/nav-menu.js:1216
 msgctxt "missing menu item navigation label"
@@ -19020,12 +19021,12 @@ msgstr "(geen label)"
 #. translators: 1: Deprecated function name, 2: Version number, 3: Alternative function name.
 #: wp-admin/js/password-strength-meter.js:66
 msgid "%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code."
-msgstr ""
+msgstr "%1$s is verouderd sinds versie %2$s! Gebruik in plaats daarvan %3$s. Overweeg om meer inclusieve code te schrijven."
 
 #. translators: %s: Plugin name.
 #: wp-admin/js/plugin-install.js:34
 msgid "Plugin: %s"
-msgstr ""
+msgstr "Plugin: %s"
 
 #: wp-admin/js/plugin-install.js:37
 msgid "Plugin details"
@@ -19046,7 +19047,7 @@ msgstr "Niet mogelijk dit als de thumbnail-afbeelding in te stellen. Probeer een
 
 #: wp-admin/js/post.js:483
 msgid "Saving Draft…"
-msgstr ""
+msgstr "Concept opslaan…"
 
 #: wp-admin/js/post.js:510
 #: wp-admin/js/theme-plugin-editor.js:71
@@ -19075,11 +19076,11 @@ msgstr "Permalink opgeslagen"
 
 #: wp-admin/js/post.js:1083
 msgid "URL Slug"
-msgstr ""
+msgstr "URL slug"
 
 #: wp-admin/js/postbox.js:25
 msgid "Add boxes from the Screen Options menu"
-msgstr ""
+msgstr "Voeg boxen toe vanuit het Scherm opties menu"
 
 #: wp-admin/js/postbox.js:25
 msgid "Drag boxes here"
@@ -19087,23 +19088,23 @@ msgstr "Boxen hiernaartoe slepen"
 
 #: wp-admin/js/postbox.js:62
 msgid "The box is on the first position"
-msgstr ""
+msgstr "De box staat op de eerste positie"
 
 #: wp-admin/js/postbox.js:63
 msgid "The box is on the last position"
-msgstr ""
+msgstr "De box staat op de laatste positie"
 
 #: wp-admin/js/postbox.js:326
 msgid "The boxes order has been saved."
-msgstr ""
+msgstr "De volgorde van de boxen is opgeslagen."
 
 #: wp-admin/js/privacy-tools.js:80
 msgid "This user&#8217;s personal data export link was sent."
-msgstr ""
+msgstr "De persoonlijke data exportlink voor deze gebruiker is verzonden."
 
 #: wp-admin/js/privacy-tools.js:83
 msgid "This user&#8217;s personal data export file was downloaded."
-msgstr ""
+msgstr "Het persoonlijke data exportbestand voor deze gebruiker is gedownload."
 
 #: wp-admin/js/privacy-tools.js:93
 msgid "No personal data export file was generated."
@@ -19136,11 +19137,11 @@ msgstr "Er is een fout opgetreden tijdens het zoeken naar en verwijderen van per
 
 #: wp-admin/js/privacy-tools.js:317
 msgid "The suggested policy text has been copied to your clipboard."
-msgstr ""
+msgstr "De voorgestelde beleidstekst is gekopieerd naar je klembord."
 
 #: wp-admin/js/set-post-thumbnail.js:11
 msgid "Saving…"
-msgstr ""
+msgstr "Opslaan…"
 
 #: wp-admin/js/set-post-thumbnail.js:16
 msgid "Use as featured image"
@@ -19148,40 +19149,40 @@ msgstr "Als uitgelichte afbeelding gebruiken"
 
 #: wp-admin/js/site-health.js:57
 msgid "Site information has been copied to your clipboard."
-msgstr ""
+msgstr "De site informatie is gekopieerd naar je klembord."
 
 #: wp-admin/js/site-health.js:243
 msgid "Good"
-msgstr ""
+msgstr "Goed"
 
 #: wp-admin/js/site-health.js:244
 msgid "All site health tests have finished running. Your site is looking good, and the results are now available on the page."
-msgstr ""
+msgstr "Alle sitediagnose tests zijn voltooid. Je site ziet er goed uit en de resultaten zijn nu beschikbaar op de pagina."
 
 #: wp-admin/js/site-health.js:248
 msgid "Should be improved"
-msgstr ""
+msgstr "Moet worden verbeterd"
 
 #: wp-admin/js/site-health.js:249
 msgid "All site health tests have finished running. There are items that should be addressed, and the results are now available on the page."
-msgstr ""
+msgstr "Alle sitediagnose tests zijn voltooid. Er zijn items die moeten worden aangepakt, en de resultaten zijn nu beschikbaar op de pagina."
 
 #: wp-admin/js/site-health.js:307
 #: wp-admin/js/site-health.js:328
 msgid "No details available"
-msgstr ""
+msgstr "Geen details beschikbaar"
 
 #: wp-admin/js/site-health.js:359
 msgid "Unavailable"
-msgstr ""
+msgstr "Niet beschikbaar"
 
 #: wp-admin/js/site-health.js:398
 msgid "Please wait..."
-msgstr ""
+msgstr "Even geduld..."
 
 #: wp-admin/js/site-health.js:424
 msgid "All site health tests have finished running."
-msgstr ""
+msgstr "Alle sitediagnose tests zijn voltooid."
 
 #: wp-admin/js/tags-box.js:170
 msgid "Remove term:"
@@ -19207,15 +19208,15 @@ msgstr "Er is iets fout gegaan. Je wijziging is mogelijk niet opgeslagen. Probee
 #: wp-admin/js/theme-plugin-editor.js:401
 msgid "There is %s error which must be fixed before you can update this file."
 msgid_plural "There are %s errors which must be fixed before you can update this file."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Het persoonlijke data exportbestand voor deze gebruiker is gedownload."
+msgstr[1] "Er zijn %s fouten die moeten worden gerepareerd alvorens je dit bestand kunt opslaan."
 
 #. translators: %s: Total number of updates available.
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s update beschikbaar"
+msgstr[1] "%s updates beschikbaar"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/js/updates.js:467
@@ -19252,7 +19253,7 @@ msgstr "Bijwerken is afgerond."
 #: wp-admin/js/updates.js:1274
 #: wp-admin/js/updates.js:1963
 msgid "Update failed: %s"
-msgstr ""
+msgstr "Update mislukt: %s"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/js/updates.js:601
@@ -19433,17 +19434,17 @@ msgstr "Aantal gevonden plugins: %d"
 
 #: wp-admin/js/updates.js:2912
 msgid "Enabling..."
-msgstr ""
+msgstr "Inschakelen..."
 
 #: wp-admin/js/updates.js:2914
 msgid "Disabling..."
-msgstr ""
+msgstr "Uitschakelen..."
 
 #: wp-admin/js/updates.js:2938
 #: wp-admin/js/updates.js:3002
 #: wp-admin/js/updates.js:3004
 msgid "The request could not be completed."
-msgstr ""
+msgstr "Het verzoek kon niet worden voltooid."
 
 #: wp-admin/js/user-profile.js:81
 msgid "Show password"
