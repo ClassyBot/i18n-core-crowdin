@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-11 22:50\n"
+"PO-Revision-Date: 2025-01-12 11:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -14934,19 +14934,19 @@ msgstr "App icoon voorvertoning: De huidige afbeelding heeft geen alternatieve t
 #: wp-admin/options-general.php:125
 #: wp-admin/js/site-icon.js:168
 msgid "Browser icon preview: The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "Browser icoon voorbeeld: De huidige afbeelding heeft geen alternatieve tekst. De bestandsnaam is: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:132
 #: wp-admin/js/site-icon.js:150
 msgid "App icon preview: Current image: %s"
-msgstr ""
+msgstr "App icoon voorvertoning: Huidige afbeelding: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:138
 #: wp-admin/js/site-icon.js:155
 msgid "Browser icon preview: Current image: %s"
-msgstr ""
+msgstr "Browser icoon voorbeeld: Huidige afbeelding: %s"
 
 #: wp-admin/options-general.php:165
 #: wp-admin/options-general.php:174
@@ -14969,7 +14969,7 @@ msgstr "Site-icoon verwijderen"
 #. translators: %s: Site Icon size in pixels.
 #: wp-admin/options-general.php:189
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "Het site icoon is wat je ziet in browser tabs, bladwijzer balken en binnen de WordPress mobiele apps. Het moet vierkant zijn en minstens %s pixels."
 
 #: wp-admin/options-general.php:212
 msgid "ClassicPress Address (URL)"
@@ -14982,11 +14982,11 @@ msgstr "Siteadres (URL)"
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
 msgid "Enter the same address here unless you <a href=\"%s\">want your site home page to be different from your ClassicPress installation directory</a>."
-msgstr ""
+msgstr "Voer hier het adres in als je <a href=\"%s\">je site's homepage een andere wil laten zijn dan de ClassicPress installatie folder</a>."
 
 #: wp-admin/options-general.php:225
 msgid "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"
 
 #: wp-admin/options-general.php:236
 msgid "Administration Email Address"
@@ -15004,36 +15004,36 @@ msgstr "Er is een wachtende wijziging van het beheerders e-mailadres naar %s."
 #: wp-admin/options-general.php:285
 #: wp-admin/options-general.php:288
 msgid "Custom Login Image"
-msgstr ""
+msgstr "Aangepaste inlog afbeelding"
 
 #: wp-admin/options-general.php:290
 msgid "If you choose an image here and enable this option, then that image will be shown at the top of the login page instead of the ClassicPress logo."
-msgstr ""
+msgstr "Als je een afbeelding kiest en deze optie inschakelt, dan wordt die afbeelding bovenaan de inlogpagina getoond in plaats van het ClassicPress logo."
 
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:644
 msgid "Learn more."
-msgstr ""
+msgstr "Meer informatie."
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
-msgstr ""
+msgstr "Geen aangepaste afbeelding: gebruik het <strong>ClassicPress logo</strong>"
 
 #: wp-admin/options-general.php:307
 msgid "Use my custom image as a <strong>logo</strong>"
-msgstr ""
+msgstr "Mijn aangepaste afbeelding als <strong>logo</strong> gebruiken"
 
 #: wp-admin/options-general.php:317
 msgid "Use my custom image as a <strong>banner</strong>"
-msgstr ""
+msgstr "Mijn aangepaste afbeelding als <strong>banner</strong> gebruiken"
 
 #: wp-admin/options-general.php:323
 msgid "Clear Image"
-msgstr ""
+msgstr "Verwijder afbeelding"
 
 #: wp-admin/options-general.php:327
 msgid "Changing the custom login image requires JavaScript to be enabled."
-msgstr ""
+msgstr "Het wijzigen van de aangepaste inlog afbeelding vereist dat JavaScript is ingeschakeld."
 
 #: wp-admin/options-general.php:345
 msgid "Anyone can register"
@@ -15137,12 +15137,12 @@ msgstr "Week begint op"
 
 #: wp-admin/options-general.php:624
 msgid "Blocks Compatibility"
-msgstr ""
+msgstr "Blok compatibiliteit"
 
 #: wp-admin/options-general.php:630
 msgctxt "Block Compatibility"
 msgid "Off"
-msgstr ""
+msgstr "Uit"
 
 #: wp-admin/options-general.php:631
 msgctxt "Block Compatibility"
@@ -15156,27 +15156,27 @@ msgstr "Probleemoplossing"
 
 #: wp-admin/options-general.php:642
 msgid "ClassicPress is incompatible with the block editor. When blocks compatibility is turned on (default), it allows more plugins and themes to work but block-related features will not work. "
-msgstr ""
+msgstr "ClassicPress is niet compatibel met de blok-editor. Wanneer blokken compatibiliteit is ingeschakeld (standaard), laat het meer plugins en thema's toe om te werken, maar blok-gerelateerde functies zullen niet werken. "
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:650
 #: wp-admin/options-general.php:654
 msgid "Disable Emojis"
-msgstr ""
+msgstr "Emojis uitschakelen"
 
 #: wp-admin/options-general.php:658
 msgid "Emojis disabled"
-msgstr ""
+msgstr "Emojis uitgeschakeld"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:660
 #: wp-admin/options-general.php:664
 msgid "Disable XML-RPC"
-msgstr ""
+msgstr "XML-RPC uitschakelen"
 
 #: wp-admin/options-general.php:668
 msgid "XML-RPC server disabled"
-msgstr ""
+msgstr "XML-RPC server uitgeschakeld"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:352
@@ -15197,11 +15197,11 @@ msgstr "Bestanden uploaden laat je de map en het pad kiezen waar de geüploade b
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading."
-msgstr ""
+msgstr "Je kunt kiezen hoe uploads worden georganiseerd na het uploaden."
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have Attachment Pages if this is supported by your Theme. You can choose to enable or disable Attachment Pages."
-msgstr ""
+msgstr "Mediabijlagen, waaronder afbeeldingen, audio, videobestanden, kunnen bijlagepagina's hebben als dit wordt ondersteund door je thema. Je kunt kiezen om bijlagepagina's in of uit te schakelen."
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -15209,11 +15209,11 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/settings-media-scr
 
 #: wp-admin/options-media.php:71
 msgid "This option requires that at least one media category has been created."
-msgstr ""
+msgstr "Deze optie vereist dat er ten minste één mediacategorie is aangemaakt."
 
 #: wp-admin/options-media.php:71
 msgid "Create one now."
-msgstr ""
+msgstr "Maak er nu een aan."
 
 #: wp-admin/options-media.php:89
 msgid "Image sizes"
@@ -15290,35 +15290,35 @@ msgstr "Deze optie is optioneel. Standaard zou het leeg moeten zijn."
 
 #: wp-admin/options-media.php:193
 msgid "How do you want your uploads organized?"
-msgstr ""
+msgstr "Hoe wil je uploads organiseren?"
 
 #: wp-admin/options-media.php:198
 msgid "Store all uploads in the same folder."
-msgstr ""
+msgstr "Uploads opslaan in dezelfde map."
 
 #: wp-admin/options-media.php:201
 msgid "Organize uploads into year-based folders."
-msgstr ""
+msgstr "Organiseer uploads in jaarmappen."
 
 #: wp-admin/options-media.php:204
 msgid "Organize uploads into month- and year-based folders."
-msgstr ""
+msgstr "Organiseer uploads in maand- en jaarmappen."
 
 #: wp-admin/options-media.php:210
 msgid "Organize uploads according to media category."
-msgstr ""
+msgstr "Organiseeer uploads volgens media categorie."
 
 #: wp-admin/options-media.php:221
 msgid "Attachment Pages"
-msgstr ""
+msgstr "Bijlagepagina's"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable attachment pages?"
-msgstr ""
+msgstr "Wil je bijlagepagina's inschakelen?"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
-msgstr ""
+msgstr "Media bijlagepagina's inschakelen."
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
@@ -15365,7 +15365,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/customize-permalin
 
 #: wp-admin/options-permalink.php:64
 msgid "<a href=\"https://wordpress.org/documentation/article/nginx/\">Documentation on Nginx configuration</a>."
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/nginx/\">Documentatie over Nginx configuratie</a>."
 
 #: wp-admin/options-permalink.php:176
 msgid "Permalink structure updated."
@@ -15390,7 +15390,7 @@ msgstr "ClassicPress geeft je de mogelijkheid om een aangepaste URL structuur te
 
 #: wp-admin/options-permalink.php:227
 msgid "https://wordpress.org/support/article/using-permalinks/"
-msgstr ""
+msgstr "https://wordpress.org/support/article/using-permalinks/"
 
 #: wp-admin/options-permalink.php:246
 msgid "Plain"
@@ -15539,7 +15539,7 @@ msgstr "<strong>Fout:</strong> je %1$s bestand is niet <a href=\"%2$s\">schrijfb
 #: wp-admin/options-permalink.php:500
 #: wp-admin/options-permalink.php:536
 msgid "https://wordpress.org/support/article/changing-file-permissions/"
-msgstr ""
+msgstr "https://wordpress.org/support/article/changing-file-permissions/"
 
 #: wp-admin/options-permalink.php:478
 #: wp-admin/options-permalink.php:510
@@ -15688,7 +15688,7 @@ msgstr "Er zijn geen pagina's."
 
 #: wp-admin/options-privacy.php:271
 msgid "Create"
-msgstr ""
+msgstr "Maken"
 
 #: wp-admin/options-privacy.php:282
 #: wp-admin/privacy.php:190
@@ -15726,7 +15726,7 @@ msgstr "Je kunt ook de weergave van je inhoud in RSS-feeds regelen, inclusief he
 #: wp-admin/options-reading.php:35
 #: wp-admin/options-reading.php:184
 msgid "https://wordpress.org/documentation/article/wordpress-feeds/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/wordpress-feeds/"
 
 #: wp-admin/options-reading.php:45
 msgid "You can choose whether or not your site will be crawled by robots, ping services, and spiders. If you want those services to ignore your site, click the checkbox next to &#8220;Discourage search engines from indexing this site&#8221; and click the Save Changes button at the bottom of the screen."
@@ -15875,7 +15875,7 @@ msgstr "Bericht via e-mail"
 #. translators: 1, 2, 3: Examples of random email addresses.
 #: wp-admin/options-writing.php:151
 msgid "To post to ClassicPress by email, you must set up a secret email account with POP3 access. Any mail received at this address will be posted, so it&#8217;s a good idea to keep this address very secret. Here are three random strings you could use: %1$s, %2$s, %3$s."
-msgstr ""
+msgstr "Om op ClassicPress berichten via e-mail te kunnen plaatsen, moet je een geheim e-mail account instellen met POP3-toegang. Elke e-mail ontvangen op dit adres zal worden geplaatst, dus het is een goed idee om dit e-mailadres uiterst geheim te houden. Hier zijn drie willekeurige tekenreeksen die je kunt gebruiken: %1$s, %2$s, %3$s."
 
 #: wp-admin/options-writing.php:161
 msgid "Mail Server"
@@ -15896,12 +15896,12 @@ msgstr "Standaard e-mailcategorie"
 #. translators: %s: Documentation URL.
 #: wp-admin/options-writing.php:215
 msgid "When you publish a new post, ClassicPress automatically notifies the following site update services. For more about this, see the <a href=\"%s\">Update Services</a> documentation article. Separate multiple service URLs with line breaks."
-msgstr ""
+msgstr "Als je een nieuw bericht publiceert, zal ClassicPress automatisch de volgende site update services informeren. <a href=\"%s\">Update Services</a> op de Codex bezoeken voor meer informatie. Meerdere service-URL's scheiden met een nieuwe regel."
 
 #: wp-admin/options-writing.php:216
 #: wp-admin/options-writing.php:230
 msgid "https://wordpress.org/documentation/article/update-services/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/update-services/"
 
 #. translators: 1: Documentation URL, 2: URL to Reading Settings screen.
 #: wp-admin/options-writing.php:229
@@ -15910,7 +15910,7 @@ msgstr "ClassicPress zal geen <a href=\"%1$s\">Update Services</a> informeren va
 
 #: wp-admin/options.php:230
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "Overweeg om meer inclusieve code te schrijven."
 
 #. translators: %s: The options page name.
 #: wp-admin/options.php:255
@@ -15924,7 +15924,7 @@ msgstr "Je hebt geen toestemming om ongeregistreerde instellingen voor deze site
 #. translators: %s: The option/setting.
 #: wp-admin/options.php:314
 msgid "The %s setting is unregistered. Unregistered settings are deprecated. See https://developer.wordpress.org/plugins/settings/settings-api/"
-msgstr ""
+msgstr "De %s instelling is niet geregistreerd. Niet geregistreerde instellingen zijn verouderd. Zie https://developer.wordpress.org/plugins/settings/settings-api/"
 
 #: wp-admin/options.php:343
 msgid "Settings save failed."
@@ -15985,7 +15985,7 @@ msgstr "De bewerkingen op bestanden van dit scherm zullen worden weergegeven op 
 
 #: wp-admin/plugin-editor.php:143
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-editor-screen/\">Documentation on Editing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-editor-screen/\">Documentatie over het bewerken van plugins</a>"
 
 #: wp-admin/plugin-editor.php:144
 msgid "<a href=\"https://developer.wordpress.org/plugins/\">Documentation on Writing Plugins</a>"
@@ -16060,7 +16060,7 @@ msgstr "Let op!"
 
 #: wp-admin/plugin-editor.php:331
 msgid "You appear to be making direct edits to your plugin in the ClassicPress dashboard. Editing plugins directly is not recommended as it may introduce incompatibilities that break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "Je lijkt in het ClassicPress dashboard rechtstreeks bewerkingen aan te brengen aan je plugin. Plugins direct bewerken is niet aanbevolen omdat het incompatibiliteiten kan introduceren die je site kapot maken, en je veranderingen kunnen verloren gaan bij toekomstige updates."
 
 #: wp-admin/plugin-editor.php:332
 msgid "If you absolutely have to make direct edits to this plugin, use a file manager to create a copy with a new name and hang on to the original. That way, you can re-enable a functional version if something goes wrong."
@@ -16078,7 +16078,7 @@ msgstr "Plugins toevoegen"
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/plugin-install.php:97
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by thousands of developers all over the world. All plugins in the <a href=\"%s\">ClassicPress Plugin Directory</a> are compatible with the license ClassicPress uses, but they are not necessarily designed for ClassicPress. Be sure to confirm their compatibility prior to install!"
-msgstr ""
+msgstr "Plugins haken in op ClassicPress om de functionaliteit uit te breiden met maatwerk. Plugins worden onafhankelijk van de ClassicPress applicatie zelf ontwikkeld door duizenden ontwikkelaars van over de hele wereld. Alle plugins in de <a href=\"%s\">ClassicPress Plugin Directory</a> zijn compatible met de licentie die WordPress gebruikt. Zorg ervoor dat je de compatibiliteit bevestigt voordat je met de installatie begint!"
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -16097,7 +16097,7 @@ msgstr "Plugins toevoegen"
 
 #: wp-admin/plugin-install.php:109
 msgid "If you know what you are looking for, Search is your best bet. The Search screen has options to search the ClassicPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr ""
+msgstr "Als je weet waar je naar op zoek bent, dan is de Zoek optie de beste keuze om het te vinden. Het Zoek scherm biedt opties om in de ClassicPress plugin directory op een specifieke term, auteur of tag te zoeken. Je kunt de directory ook doorzoeken door het selecteren van populaire tags. Tags die groter in beeld verschijnen betekent dat meerdere plugins met die tag gelabeld zijn."
 
 #: wp-admin/plugin-install.php:110
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
@@ -16237,7 +16237,7 @@ msgstr "Het zoeken naar geïnstalleerde plugins vindt plaats op basis van termen
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:549
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">ClassicPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer plugins wil zien om uit te kiezen, klik dan op de &#8220;Nieuwe plugin toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra plugins in de <a href=\"%s\">ClassicPress Plugin Directory</a>. Plugins in de WordPress Plugin Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/plugins.php:557
 msgid "Troubleshooting"
@@ -16250,7 +16250,7 @@ msgstr "Meestal werken plugins goed samen met de kern van ClassicPress en met an
 #. translators: %s: WP_PLUGIN_DIR constant value.
 #: wp-admin/plugins.php:562
 msgid "If something goes wrong with a plugin and you cannot use ClassicPress, delete or rename that file in the %s directory and it will be automatically deactivated."
-msgstr ""
+msgstr "Als er iets misgaat met een plugin en je kunt ClassicPress niet gebruiken, verwijder of hernoem dat bestand in de %s folder en het zal automatisch worden gedeactiveerd."
 
 #: wp-admin/plugins.php:576
 msgid "Auto-updates can be enabled or disabled for each individual plugin. Plugins with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
@@ -16258,12 +16258,12 @@ msgstr "Auto-updates kan voor elke afzonderlijke plugin worden in- of uitgeschak
 
 #: wp-admin/plugins.php:577
 msgid "Auto-updates are only available for plugins recognized by WordPress.org or ClassicPress.net, or that include a compatible update system."
-msgstr ""
+msgstr "Auto-updates zijn alleen beschikbaar voor plugins die erkend worden door WordPress.org of ClassicPress.net, of die een compatibel update systeem bevatten."
 
 #: wp-admin/plugins.php:578
 #: wp-admin/themes.php:192
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "Let op: thema's en plugins van derden of aangepaste code kunnen de planning van ClassicPress overschrijven."
 
 #: wp-admin/plugins.php:582
 #: wp-admin/themes.php:202
@@ -16278,7 +16278,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/manage-plugins/\">
 #: wp-admin/update-core.php:292
 #: wp-admin/update-core.php:311
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:612
@@ -16428,7 +16428,7 @@ msgstr "Dit template helpt je om het privacybeleid van jouw site te maken."
 
 #: wp-admin/privacy-policy-guide.php:71
 msgid "The template contains a suggestion of sections you most likely will need. Under each section heading you will find a short summary of what information you should provide, which will help you to get started. Some sections include suggested policy content, others will have to be completed with information from your theme and plugins."
-msgstr ""
+msgstr "De template bevat een suggestie van de secties die je hoogstwaarschijnlijk nodig zult hebben. Onder elke sectie koptekst vind je een korte samenvatting van welke informatie je moet verstrekken, wat je zal helpen om aan de slag te gaan. Sommige secties bevatten voorgesteld beleid-inhoud, andere zullen moeten worden aangevuld met informatie van je thema en plugins."
 
 #: wp-admin/privacy-policy-guide.php:72
 msgid "Please edit your privacy policy content, making sure to delete the summaries, and adding any information from your theme and plugins. Once you publish your policy page, remember to add it to your navigation menu."
@@ -16535,28 +16535,28 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/revisions/\">Revis
 
 #: wp-admin/revision.php:179
 msgid "Revision by "
-msgstr ""
+msgstr "Revisie door "
 
 #: wp-admin/revision.php:181
 msgid "Autosave by "
-msgstr ""
+msgstr "Automatisch opgeslagen door "
 
 #: wp-admin/revision.php:183
 msgid "Current Revision by "
-msgstr ""
+msgstr "Huidige revisie door "
 
 #: wp-admin/revision.php:209
 msgid "Earlier Revision"
-msgstr ""
+msgstr "Eerdere revisie"
 
 #: wp-admin/revision.php:214
 msgid "Later Revision"
-msgstr ""
+msgstr "Latere Revisie"
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
 msgid "Sorry, I need a %s file to work from. Please re-upload this file to your ClassicPress installation."
-msgstr ""
+msgstr "Ik heb een %s bestand nodig om vanuit te werken. Graag deze opnieuw uploaden vanuit je ClassicPress installatie."
 
 #. translators: 1: wp-config.php, 2: install.php
 #: wp-admin/setup-config.php:63
@@ -16566,7 +16566,7 @@ msgstr "Het bestand %1$s bestaat al. Als je sommige configuraties in dit bestand
 #. translators: 1: wp-config.php, 2: install.php
 #: wp-admin/setup-config.php:76
 msgid "The file %1$s already exists one level above your ClassicPress installation. If you need to reset any of the configuration items in this file, please delete it first. You may try <a href=\"%2$s\">installing now</a>."
-msgstr ""
+msgstr "Het bestand %1$s is al aanwezig een niveau boven de ClassicPress installatie. Wanneer je configuratie-onderdelen wilt aanpassen in dit bestand moet je het eerst verwijderen. Je mag proberen het nu <a href=\"%2$s\">te installeren</a>."
 
 #: wp-admin/setup-config.php:111
 msgid "ClassicPress &rsaquo; Setup Configuration File"
@@ -16579,7 +16579,7 @@ msgstr "Voordat je start"
 
 #: wp-admin/setup-config.php:166
 msgid "Welcome to ClassicPress. Before getting started, you will need to know the following items."
-msgstr ""
+msgstr "Welkom bij ClassicPress. Voordat je aan de slag gaat, moet je de volgende items weten."
 
 #: wp-admin/setup-config.php:170
 msgid "Database password"
@@ -16587,7 +16587,7 @@ msgstr "Wachtwoord van de database"
 
 #: wp-admin/setup-config.php:172
 msgid "Table prefix (if you want to run more than one ClassicPress in a single database)"
-msgstr ""
+msgstr "Tabel voorvoegsel (wanneer je meer dan één ClassicPress installatie wilt gebruiken in een enkele database)"
 
 #. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:178
@@ -16602,11 +16602,11 @@ msgstr "Als om wat voor reden dan ook deze automatische bestandsaanmaak niet wer
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-admin/setup-config.php:195
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr ""
+msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel op %2$s</a>."
 
 #: wp-admin/setup-config.php:196
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/editing-wp-config-php/"
 
 #: wp-admin/setup-config.php:201
 msgid "In all likelihood, these items were supplied to you by your web host. If you do not have this information, then you will need to contact them before you can continue. If you are ready&hellip;"
@@ -16631,7 +16631,7 @@ msgstr "Databasenaam"
 
 #: wp-admin/setup-config.php:227
 msgid "The name of the database you want to use with ClassicPress."
-msgstr ""
+msgstr "De naam van de database die je wilt gebruiken voor WordPress."
 
 #: wp-admin/setup-config.php:231
 msgctxt "example username"
@@ -16666,7 +16666,7 @@ msgstr "Tabel voorvoegsel"
 
 #: wp-admin/setup-config.php:252
 msgid "If you want to run multiple ClassicPress installations in a single database, change this."
-msgstr ""
+msgstr "Wanneer je meerdere ClassicPress installaties wilt gebruiken in een database moet je dit aanpassen."
 
 #: wp-admin/setup-config.php:260
 msgid "Submit"
@@ -16721,7 +16721,7 @@ msgstr "Succesvolle database verbinding"
 
 #: wp-admin/setup-config.php:496
 msgid "All right, sparky! You&#8217;ve made it through this part of the installation. ClassicPress can now communicate with your database. If you are ready, time now to&hellip;"
-msgstr ""
+msgstr "Woohoo. Je bent door het eerste gedeelte gekomen van de installatie. ClassicPress heeft verbinding kunnen maken met de database. Als je er klaar voor bent is het tijd voor &hellip;"
 
 #: wp-admin/site-health-info.php:24
 #: wp-admin/site-health.php:218
@@ -16735,7 +16735,7 @@ msgstr "Informatie sitediagnose"
 #. translators: %s: URL to Site Health Status page.
 #: wp-admin/site-health-info.php:43
 msgid "This page can show you every detail about the configuration of your ClassicPress website. For any improvements that could be made, see the <a href=\"%s\">Site Health Status</a> page."
-msgstr ""
+msgstr "Deze pagina kan je elk detail over de configuratie van je ClassicPress site tonen. Als we iets zien wat verbeterd kan worden, laten we je dat weten op de <a href=\"%s\">Status sitediagnose</a> pagina."
 
 #: wp-admin/site-health-info.php:47
 msgid "If you want to export a handy list of all the information on this page, you can use the button below to copy it to the clipboard. You can then paste it in a text file and save it to your device, or paste it in an email exchange with a support engineer or theme/plugin developer for example."
@@ -16780,11 +16780,11 @@ msgstr "Dit scherm geeft de mogelijkheid om gezondheidsdiagnose van de site te t
 
 #: wp-admin/site-health.php:83
 msgid "In the Status tab, you can see critical information about your ClassicPress configuration, along with anything else that requires your attention."
-msgstr ""
+msgstr "Op de tab Status kan je kritieke informatie over de ClassicPress configuratie zien, samen met alle andere zaken die je aandacht vereisen."
 
 #: wp-admin/site-health.php:84
 msgid "In the Info tab, you will find all the details about the configuration of your ClassicPress site, server, and database. There is also an export feature that allows you to copy all of the information about your site to the clipboard, to help solve problems on your site when obtaining support."
-msgstr ""
+msgstr "In de Info tab vind je alle details over de configuratie van je ClassicPress site, server en database. Er is ook een export functie waarmee je alle informatie over de site naar het klembord kunt kopiëren, om te helpen bij het oplossen van problemen op je site bij het verkrijgen van ondersteuning."
 
 #: wp-admin/site-health.php:90
 msgid "<a href=\"https://wordpress.org/documentation/article/site-health-screen/\">Documentation on Site Health tool</a>"
@@ -16817,7 +16817,7 @@ msgstr "Alles hier loopt gesmeerd."
 
 #: wp-admin/site-health.php:241
 msgid "The site health check shows information about your ClassicPress configuration and items that may need your attention."
-msgstr ""
+msgstr "De sitediagnose toont kritieke informatie over je ClassicPress configuratie en items die je aandacht vereisen."
 
 #. translators: %s: Number of critical issues found.
 #: wp-admin/site-health.php:247
@@ -16894,7 +16894,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-theme-f
 
 #: wp-admin/theme-editor.php:54
 msgid "<a href=\"https://wordpress.org/documentation/article/editing-files/\">Documentation on Editing Files</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/editing-files/\">Documentatie over het bewerken van bestanden</a>"
 
 #: wp-admin/theme-editor.php:55
 msgid "<a href=\"https://developer.wordpress.org/themes/basics/template-tags/\">Documentation on Template Tags</a>"
@@ -16932,7 +16932,7 @@ msgstr "Dit is een bestand in je huidige hoofdthema."
 
 #: wp-admin/theme-editor.php:367
 msgid "You appear to be making direct edits to your theme in the ClassicPress dashboard. It is not recommended! Editing your theme directly could break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "Je lijkt in het ClassicPress dashboard rechtstreeks bewerkingen aan te brengen aan je thema. Dat is niet aanbevolen! Het direct bewerken van je thema kan je site breken en je veranderingen kunnen bij toekomstige updates verloren gaan."
 
 #. translators: %s: Link to documentation on child themes.
 #: wp-admin/theme-editor.php:375
@@ -16974,7 +16974,7 @@ msgstr "Terug"
 #. translators: %s: Support forums URL.
 #: wp-admin/theme-install.php:67
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net, or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden. Er is mogelijk iets mis met WordPress.org, ClassicPress.net of de configuratie van deze server. Als je problemen blijft ondervinden, probeer dan de <a href=\"%s\">ondersteuningsforums</a>."
 
 #. translators: %d: Number of themes.
 #: wp-admin/theme-install.php:72
@@ -17001,7 +17001,7 @@ msgstr "Eén of meerdere themafuncties selecteren om op te filteren"
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:113
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Extra thema's voor je site kun je vinden door gebruik te maken van de Thema browser/installer op dit scherm. Deze laat de thema's zien van de <a href=\"%s\">ClassicPress Thema Directory</a>. Deze thema's zijn vormgegeven en ontwikkeld door derden en zijn gratis beschikbaar en compatibel met de licentie die WordPress gebruikt."
 
 #: wp-admin/theme-install.php:116
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
@@ -17169,7 +17169,7 @@ msgstr "Thema's voor een multisite kunnen alleen via de Netwerk beheer-sectie wo
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:156
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">ClassicPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer thema's wil zien om uit te kiezen, klik dan op de &#8220;Nieuw thema toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra thema's uit de <a href=\"%s\">ClassicPress Thema Directory</a>. Thema's in de WordPress Thema Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/themes.php:164
 msgid "Adding Themes"
@@ -17219,7 +17219,7 @@ msgstr "Geïnstalleerde thema's doorzoeken..."
 
 #: wp-admin/themes.php:250
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:254
 msgctxt "theme"
@@ -17378,22 +17378,22 @@ msgstr "Nu opnieuw installeren"
 #. translators: 1: ClassicPress version number, 2: Minimum required PHP version number, 3: Minimum required MySQL version number, 4: Current PHP version number, 5: Current MySQL version number
 #: wp-admin/update-core.php:93
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of nieuwer en MySQL versie %4$s of nieuwer vereist. Je gebruikt PHP versie %5$s en MySQL versie %6$s."
 
 #. translators: 1: ClassicPress version number, 2: Minimum required PHP version number, 3: Current PHP version number
 #: wp-admin/update-core.php:96
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires PHP version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of hoger vereist. Je gebruikt versie %4$s."
 
 #. translators: 1: ClassicPress version number, 2: Minimum required MySQL version number, 3: Current MySQL version number
 #: wp-admin/update-core.php:99
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %1$s</a> requires MySQL version %2$s or higher. You are running version %3$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> MySQL versie %3$s of hoger vereist. Je gebruikt versie %4$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number including locale if necessary
 #: wp-admin/update-core.php:101
 msgid "You can update to <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> automatically:"
-msgstr ""
+msgstr "Je kunt automatisch updaten naar <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a>:"
 
 #: wp-admin/update-core.php:129
 msgid "Hide this update"
@@ -17410,7 +17410,7 @@ msgstr "Deze gelokaliseerde versie bevat zowel de vertaling als diverse andere l
 #. translators: %s: WordPress version.
 #: wp-admin/update-core.php:142
 msgid "You are about to install ClassicPress %s <strong>in English (US)</strong>. There is a chance this update will break your translation. You may prefer to wait for the localized version to be released."
-msgstr ""
+msgstr "Je staat op het punt om ClassicPress %s <strong>in het Engels (US)</strong> te installeren. Er is een kans dat deze update je vertaling zal breken. Je wacht misschien liever op de gelokaliseerde versie."
 
 #: wp-admin/update-core.php:164
 #: wp-admin/update-core.php:183
@@ -17443,7 +17443,7 @@ msgstr "De meest recente versie van ClassicPress is geïnstalleerd."
 
 #: wp-admin/update-core.php:231
 msgid "Future security updates should be applied automatically."
-msgstr ""
+msgstr "Toekomstige beveiligingsupdates moeten automatisch worden toegepast."
 
 #: wp-admin/update-core.php:239
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
@@ -17455,7 +17455,7 @@ msgstr "Een nieuwe versie van ClassicPress is beschikbaar."
 
 #: wp-admin/update-core.php:255
 msgid "BETA TESTERS:"
-msgstr ""
+msgstr "BETA TESTERS:"
 
 #: wp-admin/update-core.php:255
 msgid "This site is set up to install updates of future beta versions automatically."
@@ -17468,7 +17468,7 @@ msgstr "Tijdens het updaten van je site zal WordPress in onderhoudsmodus actief 
 #. translators: 1: URL to About screen, 2: WordPress version.
 #: wp-admin/update-core.php:274
 msgid "<a href=\"%1$s\">Learn more about ClassicPress %2$s</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Meer informatie over ClassicPress %2$s</a>."
 
 #: wp-admin/update-core.php:293
 msgid "Your plugins are all up to date."
@@ -17481,7 +17481,7 @@ msgstr "Voor de volgende plugins zijn nieuwe versies beschikbaar. Vink degene aa
 #: wp-admin/update-core.php:351
 #: wp-admin/update-core.php:364
 msgid "Expected compatibility with ClassicPress %1$s: 100%%."
-msgstr ""
+msgstr "Verwachte compatibiliteit met ClassicPress %1$s: 100%%."
 
 #: wp-admin/update-core.php:352
 #: wp-admin/update-core.php:356
@@ -17490,28 +17490,28 @@ msgstr ""
 #: wp-admin/update-core.php:369
 #: wp-admin/update-core.php:372
 msgid "More info."
-msgstr ""
+msgstr "Meer informatie."
 
 #: wp-admin/update-core.php:355
 msgid "Expected Compatibility with ClassicPress %1$s: %2$d%% (%3$d \"works\" votes out of %4$d total)."
-msgstr ""
+msgstr "Verwachte compatibiliteit met ClassicPress %1$s: %2$d%% (%3$d \"werkt\" stemmen van %4$d totaal)."
 
 #: wp-admin/update-core.php:358
 #: wp-admin/update-core.php:371
 msgid "Expected compatibility with ClassicPress %1$s: Unknown."
-msgstr ""
+msgstr "Verwachte compatibiliteit met ClassicPress %1$s: Onbekend."
 
 #: wp-admin/update-core.php:368
 msgid "Expected compatibility with ClassicPress %1$s: %2$d%% (%3$d \"works\" votes out of %4$d total)."
-msgstr ""
+msgstr "Verwachte compatibiliteit met ClassicPress %1$s: %2$d%% (%3$d \"werkt\" stemmen van %4$d total)."
 
 #: wp-admin/update-core.php:380
 msgid "This update doesn&#8217;t work with your version of PHP."
-msgstr ""
+msgstr "Deze update werkt niet met je versie van PHP."
 
 #: wp-admin/update-core.php:383
 msgid "<a href=\"%s\">Learn more about updating PHP.</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Meer informatie over het updaten van PHP.</a>"
 
 #. translators: %s: Plugin version.
 #: wp-admin/update-core.php:408
@@ -17547,11 +17547,11 @@ msgstr "Thema's updaten"
 
 #: wp-admin/update-core.php:528
 msgid "This update does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Deze update werkt niet met je versies van ClassicPress en PHP."
 
 #: wp-admin/update-core.php:568
 msgid "This update does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Deze update werkt niet met je versie van ClassicPress."
 
 #: wp-admin/update-core.php:577
 msgid "This update does not work with your version of PHP."
@@ -17585,7 +17585,7 @@ msgstr "Gelieve <strong>15 minuten</strong> te wachten en probeer het dan opnieu
 #. translators: URL to support forum
 #: wp-admin/update-core.php:768
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Als je dit bericht ziet na 15 minuten wachten en het opnieuw proberen van de update, plaats dan een bericht op ons <a href=\"%s\">ondersteuningsforum</a>."
 
 #: wp-admin/update-core.php:776
 msgid "Installation Failed"
@@ -17630,7 +17630,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documen
 
 #: wp-admin/update-core.php:877
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
-msgstr ""
+msgstr "Hier vind je informatie over updates, auto-updates instellen en kijken welke plugins of thema's geüpdatet moeten worden."
 
 #: wp-admin/update-core.php:883
 msgid "Please select one or more themes to update."
@@ -17710,22 +17710,22 @@ msgstr "Geen update vereist"
 
 #: wp-admin/upgrade.php:74
 msgid "Your ClassicPress database is already up to date!"
-msgstr ""
+msgstr "Je ClassicPress-database is al up-to-date!"
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Minimum required MySQL version number, 5: Current PHP version number, 6: Current MySQL version number.
 #: wp-admin/upgrade.php:100
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of nieuwer en MySQL versie %4$s of nieuwer vereist. Je gebruikt PHP versie %5$s en MySQL versie %6$s."
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Current PHP version number.
 #: wp-admin/upgrade.php:111
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> PHP versie %3$s of hoger vereist. Je gebruikt versie %4$s."
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number.
 #: wp-admin/upgrade.php:120
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Je kunt niet updaten omdat <a href=\"%1$s\">ClassicPress %2$s</a> MySQL versie %3$s of hoger vereist. Je gebruikt versie %4$s."
 
 #: wp-admin/upgrade.php:140
 msgid "Database Update Required"
@@ -17733,7 +17733,7 @@ msgstr "Database update vereist"
 
 #: wp-admin/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to update your database to the newest version."
-msgstr ""
+msgstr "ClassicPress is geüpdatet! De volgende en laatste stap is het updaten van je database naar de nieuwste versie."
 
 #: wp-admin/upgrade.php:142
 msgid "The database update process may take a little while, so please be patient."
@@ -17815,57 +17815,61 @@ msgstr "Fout bij opslaan mediabestand."
 
 #: wp-admin/upload.php:123
 msgid "by"
-msgstr ""
+msgstr "door"
 
 #: wp-admin/upload.php:124
 msgid "pixels"
-msgstr ""
+msgstr "pixels"
 
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:464
 msgid "Deselect"
-msgstr ""
+msgstr "Deselecteren"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
-msgstr ""
+msgstr "Bijwerken van media mislukt:"
 
 #: wp-admin/upload.php:128
 msgid "Upload failed"
-msgstr ""
+msgstr "Uploaden mislukt"
 
 #: wp-admin/upload.php:129
 msgid "Tap to close"
-msgstr ""
+msgstr "Tik om te sluiten"
 
 #: wp-admin/upload.php:130
 msgid "Enter new filename"
-msgstr ""
+msgstr "Voer nieuwe bestandsnaam in"
 
 #: wp-admin/upload.php:131
 msgid "Invalid file type"
-msgstr ""
+msgstr "Ongeldig berichttype"
 
 #: wp-admin/upload.php:132
 msgid "Check the list of accepted file types."
-msgstr ""
+msgstr "Controleer de lijst met geaccepteerde bestandstypes."
 
 #: wp-admin/upload.php:133
 msgid "Failed to delete attachment."
-msgstr ""
+msgstr "Bijlage verwijderen mislukt."
 
 #: wp-admin/upload.php:134
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "Je staat op het punt om dit item permanent te verwijderen van je site.\n"
+"Deze actie kan niet ongedaan worden gemaakt.\n"
+"'Annuleren' om te stoppen, 'Ok' om te verwijderen."
 
 #: wp-admin/upload.php:135
 #: wp-admin/js/common.js:527
 msgid "You are about to permanently delete these items from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
-msgstr ""
+msgstr "Je staat op het punt om deze items permanent te verwijderen van je site.\n"
+"Deze actie kan niet ongedaan worden gemaakt.\n"
+"'Annuleren' om te stoppen, 'Ok' om te verwijderen."
 
 #: wp-admin/upload.php:154
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first."
@@ -17903,20 +17907,20 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-scre
 
 #: wp-admin/upload.php:287
 msgid "Filter media"
-msgstr ""
+msgstr "Media filteren"
 
 #: wp-admin/upload.php:323
 msgid "Media items navigation"
-msgstr ""
+msgstr "Media items navigatie"
 
 #. translators: %s: Number of media items showing
 #: wp-admin/upload.php:329
 msgid "%s items"
-msgstr ""
+msgstr "%s items"
 
 #: wp-admin/upload.php:355
 msgid "of"
-msgstr ""
+msgstr "van"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:478
