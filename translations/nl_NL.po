@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-11 22:50\n"
+"PO-Revision-Date: 2025-01-12 11:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8217,11 +8217,11 @@ msgstr "Site URL."
 
 #: wp-includes/option.php:2186
 msgid "The state of the \"login custom image\" feature (0=disabled, 1=square, or 2=banner)."
-msgstr "De status van de \"login aangepaste afbeelding\" functie (0=uitgeschakeld, 1=vierkant, of 2=banner)."
+msgstr "De status van de \"aangepaste inlog afbeelding\" functie (0=uitgeschakeld, 1=vierkant, of 2=banner)."
 
 #: wp-includes/option.php:2196
 msgid "Attachment ID for the \"login custom image\" feature."
-msgstr "Bijlage ID voor de functie \"login aangepaste afbeelding\"."
+msgstr "Bijlage ID voor de \"aangepaste inlog afbeelding\" functie."
 
 #: wp-includes/option.php:2206
 msgid "Compatibility level for block-related function support."
