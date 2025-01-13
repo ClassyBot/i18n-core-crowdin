@@ -2,7 +2,7 @@
   "translations": [
     {
       "language": "en_GB",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/en_GB.zip",
       "english_name": "English (British)",
       "native_name": "English (British)",
@@ -11,7 +11,7 @@
         null,
         null
       ],
-      "updated": "2024-05-09 16:46:08",
+      "updated": "2024-11-16 10:49:23",
       "strings": {
         "continue": "Continue"
       }
