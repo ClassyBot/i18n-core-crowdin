@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-13 11:02\n"
+"PO-Revision-Date: 2025-01-13 23:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4856,7 +4856,7 @@ msgstr "Actief"
 #: wp-includes/script-loader.php:879
 msgctxt "plugin"
 msgid "Activate %s"
-msgstr "%s activeren"
+msgstr "Activeer %s"
 
 #. translators: %s: Plugin name
 #. translators: %s: plugin name
@@ -15435,7 +15435,7 @@ msgstr "Press This is niet geïnstalleerd. Installeer Press This vanaf <a href=\
 #: wp-admin/press-this.php:62 wp-includes/deprecated.php:3927
 #: wp-includes/deprecated.php:3944
 msgid "The Press This plugin is required."
-msgstr "De Press Deze plugin is vereist."
+msgstr "De Press This plugin is vereist."
 
 #: wp-admin/press-this.php:63 wp-admin/press-this.php:69
 msgid "Installation Required"
@@ -15888,7 +15888,7 @@ msgstr "Details &amp; voorbeeld"
 #: wp-includes/script-loader.php:881
 msgctxt "theme"
 msgid "Activate %s"
-msgstr "%s activeren"
+msgstr "Activeer %s"
 
 #: wp-admin/theme-install.php:283
 msgctxt "Button label for a theme"
@@ -17561,7 +17561,7 @@ msgstr "Gekopieerd"
 #. translators: %s: document title from the preview
 #: wp-includes/class-wp-customize-manager.php:4362
 msgid "Customize: %s"
-msgstr "%s aanpassen"
+msgstr "Aanpassen: %s"
 
 #. translators: %s: document title from the preview
 #: wp-includes/class-wp-customize-manager.php:4365
@@ -18897,7 +18897,7 @@ msgstr "Zet deze functie uit als je opgemaakte tekst uit Microsoft Word wil plak
 
 #: wp-includes/class-wp-editor.php:1233
 msgid "Rich Text Area. Press Alt-Shift-H for help."
-msgstr "Rich text-gebied. Druk op Alt-Shift-H voor hulp."
+msgstr "Verrijkt tekstgebied. Druk op Alt-Shift-H voor hulp."
 
 #: wp-includes/class-wp-editor.php:1234
 msgid "Rich Text Area. Press Control-Option-H for help."
@@ -19540,7 +19540,7 @@ msgstr "Je hebt geen toestemming om gevraagde oEmbed aanvragen via proxy te doen
 #: wp-includes/class-wp-query.php:1373
 msgctxt "Comma-separated list of search stopwords in your language"
 msgid "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,www"
-msgstr "over,een,zoals,op,zijn,door,com,voor,hoe,in,is,het,van,op,of,dat,de,dit,naar,was,wat,wanneer,waar,wie,zal,met,www,over"
+msgstr "over,een,zoals,op,zijn,door,com,voor,hoe,in,is,het,van,op,of,dat,de,dit,naar,was,wat,wanneer,waar,wie,zal,met,www"
 
 #: wp-includes/class-wp-tax-query.php:642
 msgid "Inexistent terms."
@@ -20456,22 +20456,22 @@ msgstr "Geen afbeelding ingesteld"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:174
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image that matches the size of your video &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Op &#8220;Nieuwe afbeelding&#8221; klikken om een afbeelding van je computer toe te voegen. Je thema werkt het beste als het formaat van de afbeelding met dat van de video overeenkomt.  Nadat de afbeelding is ge&#252;pload kan je deze nog bijsnijden zodat het perfect in het thema past."
+msgstr "Klik op &#8220;Nieuwe afbeelding toevoegen&#8221; om een afbeelding van je computer te uploaden. Je thema werkt het beste met een header-afbeelding die past bij je video &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect past."
 
 #. translators: %s: header size in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:177
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header size of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Op &#8220;Nieuwe afbeelding&#8221; klikken om een afbeelding van je computer toe te voegen. Je thema werkt het beste als je &#8220;header&#8221; afbeelding een hoogte heeft van %s pixels &#8212; Nadat de afbeelding is ge&#252;pload kun je deze nog bijsnijden zodat het perfect in je thema past."
+msgstr "Klik op &#8220;Nieuwe afbeelding toevoegen&#8221; om een afbeelding van je computer te uploaden. Je thema werkt het beste met een header-afbeelding grootte van %s pixels &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect past."
 
 #. translators: %s: header width in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:182
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header width of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Op &#8220;Nieuwe afbeelding&#8221; klikken om een afbeelding van je computer toe te voegen. Je thema werkt het beste met een header-afbeelding breedte van %s pixels &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect in het thema past."
+msgstr "Klik op &#8220;Nieuwe afbeelding toevoegen&#8221; om een afbeelding van je computer te uploaden. Je thema werkt het beste met een header-afbeelding breedte van %s pixels &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect past."
 
 #. translators: %s: header height in pixels
 #: wp-includes/customize/class-wp-customize-header-image-control.php:187
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header height of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr "Op &#8220;Nieuwe afbeelding&#8221; klikken om een afbeelding van je computer toe te voegen. Je thema werkt het beste met een header-afbeelding met een hoogte van %s pixels &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect in het thema past."
+msgstr "Klik op &#8220;Nieuwe afbeelding toevoegen&#8221; om een afbeelding van je computer te uploaden. Je thema werkt het beste met een header-afbeelding hoogte van %s pixels &#8212; Nadat de afbeelding is geüpload kun je deze nog bijsnijden zodat het perfect past."
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:196
 msgid "Current header"
@@ -20813,7 +20813,7 @@ msgstr "De volgende waarden beschrijven geen geldige datum: dag %3$s, maand %2$s
 #. translators: 1: month, 2: day of month
 #: wp-includes/date.php:450
 msgid "The following values do not describe a valid date: month %1$s, day %2$s."
-msgstr "De volgende waarde beschrijft geen geldige datum: maand %1$s, dag %2$s."
+msgstr "De volgende waarde beschrijft geen geldige datum: dag %2$s, maand %1$s."
 
 #: wp-includes/deprecated.php:64
 msgid "new WordPress Loop"
@@ -21130,7 +21130,7 @@ msgstr "Je probeert uit te loggen van %s"
 #. translators: %s: logout URL
 #: wp-includes/functions.php:2652
 msgid "Do you really want to <a href=\"%s\">log out</a>?"
-msgstr "Weet je zeker dat je wilt <a href='%s'>uitloggen</a>?"
+msgstr "Weet je zeker dat je wilt <a href=\"%s\">uitloggen</a>?"
 
 #: wp-includes/functions.php:2656
 msgid "The link you followed has expired."
@@ -21736,7 +21736,7 @@ msgstr "Bestanden hierheen verslepen"
 #. translators: 1: suggested width number, 2: suggested height number.
 #: wp-includes/media-template.php:240 wp-includes/media.php:3579
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
-msgstr "Voorgestelde afbeeldingafmetingen: %1$s x %2$s pixels."
+msgstr "Voorgestelde afbeeldingsafmetingen: %1$s bij %2$s pixels."
 
 #: wp-includes/media-template.php:263
 msgid "Uploading"
@@ -23988,7 +23988,7 @@ msgstr "Methode '%s' moet worden overschreven."
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:183
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:197
 msgid "Method '%s' not implemented. Must be overridden in subclass."
-msgstr "Method '%s' niet geïmplementeerd. Moet worden overschreven in een subclass."
+msgstr "Methode '%s' niet geïmplementeerd. Moet worden overschreven in een subclass."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:310
 msgid "Current page of the collection."
@@ -26208,7 +26208,7 @@ msgstr "Hoofdstraat 123"
 #: wp-includes/theme.php:1947
 msgctxt "Theme starter content"
 msgid "New York, NY 10001"
-msgstr "10001 New York, NY"
+msgstr "New York, NY 10001"
 
 #: wp-includes/theme.php:1948
 msgctxt "Theme starter content"
@@ -27304,7 +27304,7 @@ msgstr "Tekst"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
-msgstr "Deze widget kan code bevatten die mogelijk beter werkt in de nieuwe &#8220;Eigen HTML&#8221;-widget. Wat zou je er van denken om die widget te gebruiken?"
+msgstr "Deze widget bevat mogelijk code die mogelijk beter werkt in de &#8220;Aangepaste HTML&#8221; widget. Wat zou je er van denken om die widget te gebruiken?"
 
 #: wp-includes/widgets/class-wp-widget-text.php:481
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you haven&#8217;t yet, how about trying that widget instead?"
