@@ -47,6 +47,22 @@
       "strings": {
         "continue": "Continue"
       }
+    },
+    {
+      "language": "nl_NL",
+      "version": "1.0.0",
+      "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/nl_NL.zip",
+      "english_name": "Dutch",
+      "native_name": "Nederlands",
+      "iso": [
+        "nl-nl",
+        null,
+        null
+      ],
+      "updated": "2025-01-13 18:49:36",
+      "strings": {
+        "continue": "Continue"
+      }
     }
   ]
 }
