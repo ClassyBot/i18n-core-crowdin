@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-12 23:00\n"
+"PO-Revision-Date: 2025-01-13 23:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -5409,7 +5409,7 @@ msgstr "Ongedefinieerd"
 
 #: wp-admin/includes/class-wp-debug-data.php:247
 msgid "ClassicPress Constants"
-msgstr "ClassicPress Constants"
+msgstr "ClassicPress constanten"
 
 #: wp-admin/includes/class-wp-debug-data.php:248
 msgid "These settings alter where and how parts of ClassicPress are loaded."
@@ -8154,7 +8154,7 @@ msgstr "utf8mb4 vereist een nieuwere client bibliotheek"
 #: wp-admin/includes/class-wp-site-health.php:1321
 #: wp-admin/includes/class-wp-site-health.php:1337
 msgid "ClassicPress&#8217; utf8mb4 support requires MySQL client library (%1$s) version %2$s or newer. Please contact your server administrator."
-msgstr "ClassicPress&#8217; utf8mb4 ondersteuning vereist MySQL client bibliotheek (%1$s) versie %2$s of nieuwer. Neem contact op met je serverbeheerder."
+msgstr "ClassicPress&#8217; utf8mb4 ondersteuning vereist MySQL client library (%1$s) versie %2$s of nieuwer. Neem contact op met je serverbeheerder."
 
 #: wp-admin/includes/class-wp-site-health.php:1357
 msgid "Can communicate with ClassicPress.net"
@@ -8246,7 +8246,7 @@ msgstr "Je <a href=\"%s\">Site adres</a> is niet ingesteld om HTTPS te gebruiken
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1560
 msgid "You are accessing this website using HTTPS, but your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS by default."
-msgstr "Je benadert deze site middels HTTPS, maar je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\"%2$s\">Site adres</a> is niet standaard ingesteld om HTTPS te gebruiken."
+msgstr "Je benadert deze site middels HTTPS, maar je <a href=\"%1$s\">ClassicPress adres</a> en <a href=\"%2$s\">Site adres</a> zijn niet standaard ingesteld om HTTPS te gebruiken."
 
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1570
@@ -12305,7 +12305,7 @@ msgstr "Hallo,\n\n"
 "bestand automatisch verwijderen op ###EXPIRATION###,\n"
 "dus download het voor die tijd.\n\n"
 "###LINK###\n\n"
-"Groeten,\n"
+"Met vriendelijke groet,\n"
 "Iedereen van ###SITENAME###\n"
 "###SITEURL###"
 
@@ -16631,7 +16631,7 @@ msgstr "Databasenaam"
 
 #: wp-admin/setup-config.php:227
 msgid "The name of the database you want to use with ClassicPress."
-msgstr "De naam van de database die je wilt gebruiken voor WordPress."
+msgstr "De naam van de database die je wilt gebruiken voor ClassicPress."
 
 #: wp-admin/setup-config.php:231
 msgctxt "example username"
@@ -17361,7 +17361,7 @@ msgstr "Je hebt geen toestemming om deze site bij te werken."
 #. translators: %s: ClassicPress version.
 #: wp-admin/update-core.php:70
 msgid "Update to latest %s nightly"
-msgstr "Naar de laatste %s nacht versie updaten"
+msgstr "Naar de laatste %s nightly versie updaten"
 
 #: wp-admin/update-core.php:77
 msgid "You are using a development version of ClassicPress. You can update to the latest nightly build automatically:"
@@ -18748,7 +18748,7 @@ msgstr "Link voor het opnieuw instellen van het wachtwoord verzonden."
 msgid "Password reset links sent to %s user."
 msgid_plural "Password reset links sent to %s users."
 msgstr[0] "Wachtwoord reset links verzonden naar %s gebruiker."
-msgstr[1] "Wachtwoord reset links verzonden naar %s gebruiker."
+msgstr[1] "Wachtwoord reset links verzonden naar %s gebruikers."
 
 #: wp-admin/users.php:577
 msgid "Changed roles."
