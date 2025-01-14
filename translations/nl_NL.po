@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-14 11:01\n"
+"PO-Revision-Date: 2025-01-14 23:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2987,7 +2987,7 @@ msgstr "%s is mislukt tijdens het schrijven van een afbeelding om te streamen."
 #: wp-includes/functions.php:2380
 #: wp-includes/functions.php:2926
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr "Kan map %s niet aanmaken. Is de hoofdmap beschrijfbaar door de server?"
+msgstr "Kan folder %s niet maken. Is de hoofdfolder beschrijfbaar door de server?"
 
 #. translators: %s: ImageMagick method name.
 #: wp-includes/class-wp-image-editor-imagick.php:902
