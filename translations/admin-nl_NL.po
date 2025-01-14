@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-14 11:01\n"
+"PO-Revision-Date: 2025-01-14 23:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -4751,7 +4751,7 @@ msgstr "Enkele gegevens die de fout beschrijven, welke je site is tegengekomen, 
 
 #: wp-admin/includes/class-wp-automatic-updater.php:902
 msgid "Your hosting company, support forum volunteers, or a friendly developer may be able to use this information to help you:"
-msgstr "Je hostingprovider, vrijwilligers van het ondersteuningforum of een vriendelijke ontwikkelaar zullen deze informatie nodig hebben om je te helpen:"
+msgstr "Je hostingprovider, vrijwilligers van het ondersteuningsforum of een vriendelijke ontwikkelaar zullen deze informatie nodig hebben om je te helpen:"
 
 #. translators: %s: Error code.
 #: wp-admin/includes/class-wp-automatic-updater.php:919
@@ -19088,15 +19088,15 @@ msgstr "Boxen hiernaartoe slepen"
 
 #: wp-admin/js/postbox.js:62
 msgid "The box is on the first position"
-msgstr "De box staat op de eerste positie"
+msgstr "Het vak staat op de eerste positie"
 
 #: wp-admin/js/postbox.js:63
 msgid "The box is on the last position"
-msgstr "De box staat op de laatste positie"
+msgstr "Het vak staat op de laatste positie"
 
 #: wp-admin/js/postbox.js:326
 msgid "The boxes order has been saved."
-msgstr "De volgorde van de boxen is opgeslagen."
+msgstr "De vakken volgorde is opgeslagen."
 
 #: wp-admin/js/privacy-tools.js:80
 msgid "This user&#8217;s personal data export link was sent."
@@ -19208,7 +19208,7 @@ msgstr "Er is iets fout gegaan. Je wijziging is mogelijk niet opgeslagen. Probee
 #: wp-admin/js/theme-plugin-editor.js:401
 msgid "There is %s error which must be fixed before you can update this file."
 msgid_plural "There are %s errors which must be fixed before you can update this file."
-msgstr[0] "Het persoonlijke data exportbestand voor deze gebruiker is gedownload."
+msgstr[0] "Er is %s fout die moet worden gerepareerd alvorens je dit bestand kunt opslaan."
 msgstr[1] "Er zijn %s fouten die moeten worden gerepareerd alvorens je dit bestand kunt opslaan."
 
 #. translators: %s: Total number of updates available.
