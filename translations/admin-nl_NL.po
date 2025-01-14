@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-13 23:00\n"
+"PO-Revision-Date: 2025-01-14 11:01\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1521,7 +1521,7 @@ msgstr "<strong>%s</strong> &mdash; Dit stelt je in staat om een afbeelding te a
 
 #: wp-admin/edit-form-advanced.php:400
 msgid "<strong>Send Trackbacks</strong> &mdash; Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
-msgstr "<strong>Trackbacks verzenden</strong> - Met trackbacks kun je andere blogsystemen inlichten dat je naar hen linkt. Voer de link(s) in waarnaar je trackbacks wilt verzenden. Andere WordPress sites waar je naar verwijst, worden automatisch ingelicht met behulp van pingbacks. Voor deze sites is dit veld niet nodig."
+msgstr "<strong>Verzend trackbacks</strong> &mdash; trackbacks zijn een manier om verouderde blogs te informeren dat je naar hen hebt gelinkt. Voer de URL(s) in waarnaar je trackbacks wil verzenden. Als je naar andere WordPress sites linkt, worden ze automatisch op de hoogte gebracht via pingbacks, en is dit veld niet nodig."
 
 #: wp-admin/edit-form-advanced.php:401
 msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
@@ -3525,7 +3525,7 @@ msgstr "Om een achtergrondafbeelding te gebruiken, upload deze simpelweg of kies
 
 #: wp-admin/includes/class-custom-background.php:93
 msgid "You can also choose a background color by clicking the Select Color button and either typing in a legitimate HTML hex value, e.g. &#8220;#ff0000&#8221; for red, or by choosing a color using the color picker."
-msgstr "Je kunt ook een achtergrondkleur kiezen door op de Selecteer kleur knop te klikken waarna een kleurenkiezer tevoorschijn komt. Een andere manier om een kleur te selecteren is de geldige waarde in te geven zoals &#8220;#ff0000&#8221; voor rood."
+msgstr "Je kunt ook een achtergrondkleur kiezen door op de knop Kleur selecteren te klikken en een geldige HTML hex waarde in te voeren, bijvoorbeeld &#8220;#ff0000&#8221; voor rood, of door een kleur te kiezen met de kleurkiezer."
 
 #: wp-admin/includes/class-custom-background.php:94
 msgid "Do not forget to click on the Save Changes button when you are finished."
