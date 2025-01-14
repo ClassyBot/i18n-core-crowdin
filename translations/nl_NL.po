@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-13 23:00\n"
+"PO-Revision-Date: 2025-01-14 11:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18897,11 +18897,11 @@ msgstr "Zet deze functie uit als je opgemaakte tekst uit Microsoft Word wil plak
 
 #: wp-includes/class-wp-editor.php:1233
 msgid "Rich Text Area. Press Alt-Shift-H for help."
-msgstr "Verrijkt tekstgebied. Druk op Alt-Shift-H voor hulp."
+msgstr "Rich Text gebied. Druk op Alt-Shift-H voor hulp."
 
 #: wp-includes/class-wp-editor.php:1234
 msgid "Rich Text Area. Press Control-Option-H for help."
-msgstr "Verrijkt tekstgebied. Druk op Control-Option-H voor hulp."
+msgstr "Rich Text gebied. Druk op Control-Option-H voor hulp."
 
 #: wp-includes/class-wp-editor.php:1236 wp-includes/script-loader.php:512
 #: wp-includes/script-loader.php:594 wp-includes/script-loader.php:747
@@ -24087,7 +24087,7 @@ msgstr "Taxonomieën geassocieerd met berichttype."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:298
 msgid "REST base route for the post type."
-msgstr "REST-basisroute voor het berichttype."
+msgstr "REST basisroute voor het berichttype."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:152
 msgid "You need to define a search term to order by relevance."
@@ -26779,7 +26779,7 @@ msgstr "Hallo,\n\n"
 "###CONFIRM_URL###\n\n"
 "Indien je deze actie niet zelf hebt aangevraagd kun je dit verzoek eenvoudig negeren.\n\n"
 "Met vriendelijke groet,\n"
-"Iedereen van###SITENAME###\n"
+"Iedereen van ###SITENAME###\n"
 "###SITEURL###"
 
 #. translators: Privacy data request subject. 1: Site name, 2: Name of the
@@ -27304,7 +27304,7 @@ msgstr "Tekst"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
-msgstr "Deze widget bevat mogelijk code die mogelijk beter werkt in de &#8220;Aangepaste HTML&#8221; widget. Wat zou je er van denken om die widget te gebruiken?"
+msgstr "Deze widget kan code bevatten die mogelijk beter werkt in de &#8220;Aangepaste HTML&#8221; widget. Wat zou je er van denken om die widget in plaats ervan te gebruiken?"
 
 #: wp-includes/widgets/class-wp-widget-text.php:481
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you haven&#8217;t yet, how about trying that widget instead?"
