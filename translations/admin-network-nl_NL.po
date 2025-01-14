@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-13 23:00\n"
+"PO-Revision-Date: 2025-01-14 09:22\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -1861,7 +1861,7 @@ msgstr "Dit scherm laat je kiezen welke thema's beschikbaar zijn in het Weergave
 
 #: wp-admin/network/themes.php:299
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
-msgstr "Als de super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site eigenaren die deze site in gebruik hebben. Kiest een site eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
+msgstr "Als de netwerkbeheer een thema uitschakelt dat in gebruik is, kan het nog steeds geselecteerd blijven op die site. Als een ander thema wordt gekozen, zal het uitgeschakelde thema niet verschijnen op het scherm Weergave > Thema's van de site."
 
 #: wp-admin/network/themes.php:300
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
