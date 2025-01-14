@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-14 11:00\n"
+"PO-Revision-Date: 2025-01-14 23:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -21112,7 +21112,7 @@ msgstr "Eén of meer databasetabellen zijn niet beschikbaar. De database moet wa
 #. translators: %s: directory path
 #: wp-includes/functions.php:1918 wp-includes/functions.php:2187
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr "Kan map %s niet aanmaken. Is de hoofdmap beschrijfbaar door de server?"
+msgstr "Kan folder %s niet maken. Is de hoofdfolder beschrijfbaar door de server?"
 
 #: wp-includes/functions.php:2149
 msgid "Empty filename"
