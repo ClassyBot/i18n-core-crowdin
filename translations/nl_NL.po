@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-16 11:14\n"
+"PO-Revision-Date: 2025-01-16 23:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -21522,7 +21522,7 @@ msgstr "%1$s %2$s %3$s tagfeed"
 #. singular name
 #: wp-includes/general-template.php:2696
 msgid "%1$s %2$s %3$s %4$s Feed"
-msgstr "Feed %1$s %2$s %3$s %4$s"
+msgstr "%1$s %2$s %3$s %4$s feed"
 
 #. translators: 1: blog name, 2: separator(raquo), 3: author name
 #: wp-includes/general-template.php:2698
