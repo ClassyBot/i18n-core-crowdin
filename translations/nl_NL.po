@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-15 23:04\n"
+"PO-Revision-Date: 2025-01-16 11:14\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8670,7 +8670,7 @@ msgstr "Media"
 #: wp-includes/post.php:78
 msgctxt "file"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-includes/post.php:79
 msgid "Edit Media"
@@ -9345,7 +9345,7 @@ msgstr "%1$s moet tussen %2$d (inclusief) en %3$d (inclusief) zijn"
 #: wp-includes/rest-api.php:2568
 msgid "%1$s must be at least %2$s character long."
 msgid_plural "%1$s must be at least %2$s characters long."
-msgstr[0] "%1$s moet ten minste %2$s tekens lang zijn."
+msgstr[0] "%1$s moet ten minste %2$s teken lang zijn."
 msgstr[1] "%1$s moet ten minste %2$s tekens lang zijn."
 
 #. translators: 1: Parameter, 2: Number of characters.
@@ -11789,7 +11789,7 @@ msgstr "1 seconde terugspoelen"
 
 #: wp-includes/script-loader.php:880
 msgid "Skip back %1 seconds"
-msgstr "Ga %1 seconden terug"
+msgstr "%1 seconden terugspoelen"
 
 #: wp-includes/script-loader.php:881
 msgid "Captions/Subtitles"
@@ -11833,11 +11833,11 @@ msgstr "Advertentie overslaan"
 
 #: wp-includes/script-loader.php:892
 msgid "Skip in 1 second"
-msgstr "Overslaan in 1 seconde"
+msgstr "1 seconde overslaan"
 
 #: wp-includes/script-loader.php:892
 msgid "Skip in %1 seconds"
-msgstr "Overslaan in %1 seconden"
+msgstr "%1 seconden overslaan"
 
 #: wp-includes/script-loader.php:893
 msgid "Source Chooser"
