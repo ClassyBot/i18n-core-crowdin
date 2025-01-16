@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-14 23:00\n"
+"PO-Revision-Date: 2025-01-16 22:10\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -4687,12 +4687,12 @@ msgstr "Er is een poging gedaan, maar je site kon niet automatisch geüpdatet wo
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:846
 msgid "Your site at %1$s experienced a critical failure while trying to update ClassicPress to version %2$s."
-msgstr "Je website op %1$s liep tegen een kritieke fout aan toen ClassicPress probeerde bij te werken naar versie %2$s."
+msgstr "Je site op %1$s heeft een kritieke fout ervaren bij het proberen te updaten van ClassicPress naar versie %2$s."
 
 #. translators: 1: Home URL, 2: ClassicPress latest version.
 #: wp-admin/includes/class-wp-automatic-updater.php:853
 msgid "Your site at %1$s experienced a critical failure while trying to update to the latest version of ClassicPress, %2$s."
-msgstr "Je site op %1$s toonde een kritische fout tijdens het bijwerken naar de laatste versie van ClassicPress, %2$s."
+msgstr "Je site op %1$s heeft een kritieke fout ervaren bij het proberen te updaten naar de nieuwste versie van ClassicPress, %2$s."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:859
 msgid "This means your site may be offline or broken. Don't panic; this can be fixed."
@@ -4705,7 +4705,7 @@ msgstr "Je site nu controleren. Het is mogelijk dat alles goed werkt. Indien er 
 #. translators: %s: Support email address.
 #: wp-admin/includes/class-wp-automatic-updater.php:871
 msgid "The ClassicPress team is willing to help you. Forward this email to %s and the team will work with you to make sure your site is working."
-msgstr "Het ClassicPress team wil graag helpen. Stuur deze e-mail naar %s en het team zal samen met jou ervoor zorgen dat je website werkt."
+msgstr "Het ClassicPress team wil graag helpen. Stuur deze e-mail naar %s en het team zal samen met jou ervoor zorgen dat je site werkt."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:876
 #: wp-admin/includes/class-wp-automatic-updater.php:1310
@@ -7285,7 +7285,7 @@ msgstr "Cookies"
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:510
 msgid "In this subsection you should list the cookies your web site uses, including those set by your plugins, social media, and analytics. We have provided the cookies which ClassicPress installs by default."
-msgstr "In dit onderdeel moet je alle cookies opsommen waar jouw website gebruik van maakt. Inclusief diegene die door jouw plugins, social media en analytics gebruikt worden. We hebben een overzicht van alle cookies die ClassicPress standaard gebruikt toegevoegd."
+msgstr "In deze subsectie moet je alle cookies opsommen waar je site gebruik van maakt. Inclusief diegene die door je plugins, sociale media en analytics gebruikt worden. We hebben een overzicht van alle cookies die ClassicPress standaard gebruikt toegevoegd."
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:513
@@ -7365,7 +7365,7 @@ msgstr "Hoelang we je gegevens bewaren"
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:558
 msgid "In this section you should explain how long you retain personal data collected or processed by the web site. While it is your responsibility to come up with the schedule of how long you keep each dataset for and why you keep it, that information does need to be listed here. For example, you may want to say that you keep contact form entries for six months, analytics records for a year, and customer purchase records for ten years."
-msgstr "In dit onderdeel moet je uitleggen hoe lang je verzamelde persoonlijke gegevens of verwerkte gegevens door deze website bewaart. Ondanks dat het jouw verantwoordelijkheid is om een planning te maken hoe lang je deze gegevens bewaart en waarom, dient die informatie hier wel getoond te worden. Je kan bijvoorbeeld zeggen dat je gegevens van contactformulieren zes maanden bewaart, statistieken één jaar en klant aankopen tien jaar."
+msgstr "In deze sectie moet je uitleggen hoe lang je verzamelde persoonsgegevens of verwerkte gegevens door deze site bewaart. Ondanks dat het je verantwoordelijkheid is om een planning te maken hoe lang je deze gegevens bewaart en waarom, dient die informatie hier wel getoond te worden. Je kan bijvoorbeeld zeggen dat je gegevens van contactformulieren zes maanden bewaart, statistieken één jaar en klant aankopen tien jaar."
 
 #. translators: Default privacy policy text.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:561
@@ -7460,7 +7460,7 @@ msgstr "Van welke derde partijen we gegevens ontvangen"
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:622
 msgid "If your web site receives data about users from third parties, including advertisers, this information must be included within the section of your privacy policy dealing with third party data."
-msgstr "Als je website data ontvangt van gebruikers van derde partijen, inclusief adverteerders, dan moet deze informatie toegevoegd worden aan het onderdeel over derde partijen data op je privacybeleidspagina."
+msgstr "Als je site gegevens ontvangt van gebruikers van derde partijen, inclusief adverteerders, dan moet deze informatie toegevoegd worden binnen de sectie over derde partijen gegevens op je privacybeleid pagina."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:627
@@ -7470,7 +7470,7 @@ msgstr "Wat voor geautomatiseerde besluitvorming en/of profilering we doen met g
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:629
 msgid "If your web site provides a service which includes automated decision making - for example, allowing customers to apply for credit, or aggregating their data into an advertising profile - you must note that this is taking place, and include information about how that information is used, what decisions are made with that aggregated data, and what rights users have over decisions made without human intervention."
-msgstr "Indien je website een dienst levert die geautomatiseerde besluiten maakt, zoals bijvoorbeeld het aanvragen van leningen of je verzamelt gegevens in een advertentieprofiel, dan moet je aangeven dat dit gebeurt. Daarnaast moet je ook aangeven hoe deze informatie gebruikt wordt, welke besluiten genomen worden op basis van de verzamelde gegevens en welke rechten gebruikers hebben over besluiten die genomen zijn zonder menselijk ingrijpen."
+msgstr "Als je site een dienst biedt die geautomatiseerde besluitvorming omvat - bijvoorbeeld het toestaan dat klanten krediet aanvragen, of het samenvoegen van hun gegevens in een reclameprofiel - moet je aangeven dat dit gebeurt, en informatie toevoegen over hoe die informatie wordt gebruikt, welke beslissingen worden genomen met die samengevoegde gegevens, en welke rechten gebruikers hebben over beslissingen die zonder menselijke tussenkomst worden genomen."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:634
@@ -7540,7 +7540,7 @@ msgstr[1] "%d aanvragen gemarkeerd als afgerond."
 msgid "%d request failed to delete."
 msgid_plural "%d requests failed to delete."
 msgstr[0] "%d aanvraag kan niet worden verwijderd."
-msgstr[1] "%d aanvragen zijn niet verwijderd."
+msgstr[1] "%d aanvragen kunnen niet worden verwijderd."
 
 #. translators: %d: Number of requests.
 #: wp-admin/includes/class-wp-privacy-requests-table.php:341
@@ -9961,7 +9961,7 @@ msgstr "Hostnaam"
 
 #: wp-admin/includes/file.php:2461
 msgid "example: www.wordpress.org"
-msgstr "Bijvoorbeeld: www.wordpress.org"
+msgstr "bijvoorbeeld: www.wordpress.org"
 
 #: wp-admin/includes/file.php:2475
 msgid "This password will not be stored on the server."
@@ -13424,7 +13424,7 @@ msgid "Your new ClassicPress site has been successfully set up at:\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The ClassicPress Team\n"
 "https://www.classicpress.net/\n"
-msgstr "Je nieuwe ClasicPress site is succesvol klaargezet op:\n\n"
+msgstr "Je nieuwe ClassicPress site is succesvol klaargezet op:\n\n"
 "%1$s\n\n"
 "Je kunt nu inloggen met het beheerdersaccount met de volgende informatie:\n\n"
 "Gebruikersnaam: %2$s\n"
@@ -13569,11 +13569,11 @@ msgstr "Dashboard"
 
 #: wp-admin/index.php:35
 msgid "Welcome to your ClassicPress Dashboard!"
-msgstr "Welkom bij je WordPress dashboard!"
+msgstr "Welkom bij je ClassicPress dashboard!"
 
 #: wp-admin/index.php:36
 msgid "The Dashboard is the first place you will come to every time you log into your site. It is where you access to all the site management features of ClassicPress. You can get help for any screen by clicking the Help tab above the screen title."
-msgstr "Het dashboard is de eerste plaats waar je zult komen elke keer dat je inlogt op je site. Het is waar je al je WordPress gereedschappen zult vinden. Als je hulp nodig hebt, klik je op de Help tab boven de schermtitel."
+msgstr "Het dashboard is de eerste plaats waar je zult komen elke keer dat je inlogt op je site. Het is waar je al je ClassicPress gereedschappen zult vinden. Als je hulp nodig hebt, klik je op de Help tab boven de schermtitel."
 
 #: wp-admin/index.php:50
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
@@ -14888,7 +14888,7 @@ msgstr "De meeste thema's tonen de site titel bovenaan elke pagina, in de titelb
 
 #: wp-admin/options-general.php:35
 msgid "The ClassicPress URL and the site URL can be the same (example.com) or different; for example, having the ClassicPress core files (example.com/classicpress) in a subdirectory instead of the root directory."
-msgstr "De ClassicPress URL en de website URL kunnen hetzelfde zijn (voorbeeld.com) of verschillend; bijvoorbeeld het hebben van de ClassicPress core bestanden (voorbeeld.com/classicpress) in een submap in plaats van de hoofdmap."
+msgstr "De ClassicPress URL en de site URL kunnen hetzelfde zijn (voorbeeld.com) of verschillend; bijvoorbeeld het hebben van de ClassicPress core bestanden (voorbeeld.com/classicpress) in een submap in plaats van de hoofdmap."
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
@@ -16289,8 +16289,8 @@ msgstr "De plugin %1$s is gedeactiveerd als gevolg van een fout: %2$s"
 #: wp-admin/plugins.php:627
 msgid "The plugin generated %d character of <strong>unexpected output</strong> during activation."
 msgid_plural "The plugin generated %d characters of <strong>unexpected output</strong> during activation."
-msgstr[0] "De plugin heeft %d fout gegenereerd <strong>Onverwachte uitvoer</strong> tijdens activatie."
-msgstr[1] "De plugin heeft %d fouten gegenereerd <strong>Onverwachte uitvoer</strong> tijdens activatie."
+msgstr[0] "De plugin heeft %d teken <strong>Onverwachte uitvoer</strong> gegenereerd tijdens activatie."
+msgstr[1] "De plugin heeft %d tekens <strong>Onverwachte uitvoer</strong> gegenereerd tijdens activatie."
 
 #: wp-admin/plugins.php:634
 msgid "If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
@@ -16462,7 +16462,7 @@ msgstr "Privacybeleidspagina"
 
 #: wp-admin/privacy.php:130
 msgid "As a website owner, you may need to follow national or international privacy laws. For example, you may need to create and display a Privacy Policy."
-msgstr "Als website-eigenaar moet je voldoen aan nationale of internationale privacy wetgeving. Je kan bijvoorbeeld een privacybeleid maken en tonen."
+msgstr "Als site-eigenaar moet je voldoen aan nationale of internationale privacy wetgeving. Je kan bijvoorbeeld een privacybeleid maken en tonen."
 
 #: wp-admin/privacy.php:134
 msgid "The new page will include help and suggestions for your Privacy Policy."
@@ -17459,11 +17459,11 @@ msgstr "BETA TESTERS:"
 
 #: wp-admin/update-core.php:255
 msgid "This site is set up to install updates of future beta versions automatically."
-msgstr "Deze website is opgezet om toekomstige updates en beta-versies automatisch te installeren."
+msgstr "Deze site is opgezet om toekomstige updates en beta-versies automatisch te installeren."
 
 #: wp-admin/update-core.php:270
 msgid "While your site is being updated, it will be in maintenance mode. As soon as your updates are complete, this mode will be deactivated."
-msgstr "Tijdens het updaten van je site zal WordPress in onderhoudsmodus actief zijn. Zodra het updaten is afgerond zal deze modus worden gedeactiveerd."
+msgstr "Tijdens het updaten van je site zal de onderhoudsmodus actief zijn. Zodra het updaten is afgerond zal deze modus worden gedeactiveerd."
 
 #. translators: 1: URL to About screen, 2: WordPress version.
 #: wp-admin/update-core.php:274
@@ -18308,8 +18308,8 @@ msgstr "Applicatie wachtwoorden maken authenticatie mogelijk via niet-interactie
 #: wp-admin/user-edit.php:853
 msgid "Application passwords grant access to <a href=\"%1$s\">the %2$s site in this installation that you have permissions on</a>."
 msgid_plural "Application passwords grant access to <a href=\"%1$s\">all %2$s sites in this installation that you have permissions on</a>."
-msgstr[0] "Applicatie wachtwoorden verlenen toegang tot<a href=\"%1$s\">alle %2$s sites in deze installatie waarvoor je machtigingen hebt</a>."
-msgstr[1] "Applicatie wachtwoorden verlenen toegang tot<a href=\"%1$s\">alle %2$s blogs in deze installatie waarvoor je machtigingen hebt</a>."
+msgstr[0] "Applicatie wachtwoorden verlenen toegang tot <a href=\"%1$s\">de %2$s site in deze installatie waarvoor je machtigingen hebt</a>."
+msgstr[1] "Applicatie wachtwoorden verlenen toegang tot <a href=\"%1$s\">alle %2$s sites in deze installatie waarvoor je machtigingen hebt</a>."
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
 #: wp-admin/user-edit.php:861
@@ -18337,7 +18337,7 @@ msgstr "De applicatiewachtwoord-functie vereist HTTPS, dit is niet ingeschakeld 
 #. translators: %s: Documentation URL.
 #: wp-admin/user-edit.php:920
 msgid "If this is a development website you can <a href=\"%s\" target=\"_blank\">set the environment type accordingly</a> to enable application passwords."
-msgstr "Als dit een ontwikkelwebsite is, kun je <a href=\"%s\" target=\"_blank\">het omgevingstype overeenkomstig instellen</a> om applicatie wachtwoorden in te schakelen."
+msgstr "Als dit een ontwikkelingssite is, kun je <a href=\"%s\">het omgevingstype dienovereenkomstig instellen</a> om applicatiewachtwoorden in te schakelen."
 
 #: wp-admin/user-edit.php:921
 msgid "https://developer.wordpress.org/apis/wp-config-php/#wp-environment-type"
