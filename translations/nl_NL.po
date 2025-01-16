@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-15 23:04\n"
+"PO-Revision-Date: 2025-01-16 11:14\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1939,7 +1939,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentati
 #: wp-admin/menu.php:69
 msgctxt "link"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/edit-link-form.php:82
 msgid "Link added."
@@ -12572,7 +12572,7 @@ msgstr "In dit scherm kun je vijf velden voor metadata bewerken in een bestand d
 #: wp-admin/upload.php:230
 msgctxt "file"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/media.php:119 wp-admin/media.php:128
 msgid "Update Media"
@@ -12660,7 +12660,7 @@ msgstr "Ge&#239;nstalleerde plugins"
 #: wp-admin/menu.php:212 wp-admin/network/menu.php:62 wp-admin/plugins.php:526
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
@@ -12680,7 +12680,7 @@ msgstr "Alle gebruikers"
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12829,7 +12829,7 @@ msgstr "Instellingen opgeslagen."
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13202,7 +13202,7 @@ msgstr "Ge&iuml;nstalleerde thema&#39;s"
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -15978,7 +15978,7 @@ msgstr "&hellip;"
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -23047,7 +23047,7 @@ msgstr "Media"
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr "Nieuw bestand"
+msgstr "Nieuwe toevoegen"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"
@@ -25015,7 +25015,7 @@ msgstr "1 seconde terugspoelen"
 
 #: wp-includes/script-loader.php:409
 msgid "Skip back %1 seconds"
-msgstr "Ga %1 seconden terug"
+msgstr "%1 seconden terugspoelen"
 
 #: wp-includes/script-loader.php:410
 msgid "Captions/Subtitles"
@@ -25059,11 +25059,11 @@ msgstr "Advertentie overslaan"
 
 #: wp-includes/script-loader.php:421
 msgid "Skip in 1 second"
-msgstr "Overslaan in 1 seconde"
+msgstr "1 seconde overslaan"
 
 #: wp-includes/script-loader.php:421
 msgid "Skip in %1 seconds"
-msgstr "Overslaan in %1 seconden"
+msgstr "%1 seconden overslaan"
 
 #: wp-includes/script-loader.php:422
 msgid "Source Chooser"
