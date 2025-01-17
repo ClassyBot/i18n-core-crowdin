@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-16 22:10\n"
+"PO-Revision-Date: 2025-01-17 10:23\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -4687,7 +4687,7 @@ msgstr "Er is een poging gedaan, maar je site kon niet automatisch geüpdatet wo
 #. translators: 1: Home URL, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:846
 msgid "Your site at %1$s experienced a critical failure while trying to update ClassicPress to version %2$s."
-msgstr "Je site op %1$s heeft een kritieke fout ervaren bij het proberen te updaten van ClassicPress naar versie %2$s."
+msgstr "Je site op %1$s heeft een kritieke fout ervaren bij het proberen ClassicPress te updaten naar versie %2$s."
 
 #. translators: 1: Home URL, 2: ClassicPress latest version.
 #: wp-admin/includes/class-wp-automatic-updater.php:853
@@ -16289,8 +16289,8 @@ msgstr "De plugin %1$s is gedeactiveerd als gevolg van een fout: %2$s"
 #: wp-admin/plugins.php:627
 msgid "The plugin generated %d character of <strong>unexpected output</strong> during activation."
 msgid_plural "The plugin generated %d characters of <strong>unexpected output</strong> during activation."
-msgstr[0] "De plugin heeft %d teken <strong>Onverwachte uitvoer</strong> gegenereerd tijdens activatie."
-msgstr[1] "De plugin heeft %d tekens <strong>Onverwachte uitvoer</strong> gegenereerd tijdens activatie."
+msgstr[0] "De plugin genereerde %d karakter van <strong>onverwachte uitvoer</strong> tijdens activering."
+msgstr[1] "De plugin genereerde %d karakters van <strong>onverwachte uitvoer</strong> tijdens activering."
 
 #: wp-admin/plugins.php:634
 msgid "If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
