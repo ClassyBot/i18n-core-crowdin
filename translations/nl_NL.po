@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-16 22:10\n"
+"PO-Revision-Date: 2025-01-17 10:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -9345,15 +9345,15 @@ msgstr "%1$s moet tussen %2$d (inclusief) en %3$d (inclusief) zijn"
 #: wp-includes/rest-api.php:2568
 msgid "%1$s must be at least %2$s character long."
 msgid_plural "%1$s must be at least %2$s characters long."
-msgstr[0] "%1$s moet ten minste %2$s teken lang zijn."
-msgstr[1] "%1$s moet ten minste %2$s tekens lang zijn."
+msgstr[0] "%1$s moet ten minste %2$s karakter lang zijn."
+msgstr[1] "%1$s moet ten minste %2$s karakters lang zijn."
 
 #. translators: 1: Parameter, 2: Number of characters.
 #: wp-includes/rest-api.php:2584
 msgid "%1$s must be at most %2$s character long."
 msgid_plural "%1$s must be at most %2$s characters long."
-msgstr[0] "%1$s moet hooguit %2$s teken lang zijn."
-msgstr[1] "%1$s moet hooguit %2$s tekens lang zijn."
+msgstr[0] "%1$s mag maximaal %2$s karakter lang zijn."
+msgstr[1] "%1$s mag maximaal %2$s karakters lang zijn."
 
 #. translators: 1: Parameter, 2: Pattern.
 #: wp-includes/rest-api.php:2599
