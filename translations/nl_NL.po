@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-16 23:10\n"
+"PO-Revision-Date: 2025-01-19 15:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -23274,12 +23274,12 @@ msgstr "Pagina"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Nieuw bericht"
+msgstr "Nieuwe toevoegen"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Nieuwe pagina"
+msgstr "Nieuwe toevoegen"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
