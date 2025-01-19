@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-14 23:00\n"
+"PO-Revision-Date: 2025-01-19 15:00\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -846,7 +846,7 @@ msgstr "Instellingen opgeslagen."
 #: wp-admin/network/sites.php:370
 msgctxt "site"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/my-sites.php:78
 msgid "You must be a member of at least one site to use this page."
@@ -1004,7 +1004,7 @@ msgstr "Alle gebruikers"
 #: wp-admin/network/users.php:288
 msgctxt "user"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
@@ -1019,7 +1019,7 @@ msgstr "Geïnstalleerde thema's"
 #: wp-admin/network/themes.php:350
 msgctxt "theme"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
@@ -1042,7 +1042,7 @@ msgstr "Geïnstalleerde plugins"
 #: wp-admin/network/menu.php:106
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/network/menu.php:107
 msgid "Plugin File Editor"
