@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-13 08:07\n"
+"PO-Revision-Date: 2025-01-22 16:46\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:192
@@ -846,7 +846,7 @@ msgstr "Instellingen opgeslagen."
 #: wp-admin/network/sites.php:370
 msgctxt "site"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/my-sites.php:78
 msgid "You must be a member of at least one site to use this page."
@@ -1004,7 +1004,7 @@ msgstr "Alle gebruikers"
 #: wp-admin/network/users.php:288
 msgctxt "user"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
@@ -1019,7 +1019,7 @@ msgstr "Geïnstalleerde thema's"
 #: wp-admin/network/themes.php:350
 msgctxt "theme"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
@@ -1042,7 +1042,7 @@ msgstr "Geïnstalleerde plugins"
 #: wp-admin/network/menu.php:106
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuwe toevoegen"
 
 #: wp-admin/network/menu.php:107
 msgid "Plugin File Editor"
@@ -1861,11 +1861,11 @@ msgstr "Dit scherm laat je kiezen welke thema's beschikbaar zijn in het Weergave
 
 #: wp-admin/network/themes.php:299
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
-msgstr "Als de super beheerder een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site eigenaren die deze site in gebruik hebben. Kiest een site eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
+msgstr "Als het netwerkbeheer een thema uitschakelt dat in gebruik is, kan het nog steeds geselecteerd blijven op die site. Als een ander thema wordt gekozen, zal het uitgeschakelde thema niet verschijnen op het scherm Weergave > Thema's van de site."
 
 #: wp-admin/network/themes.php:300
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
-msgstr "Thema's kunnen worden geactiveerd per site door de netwerkbeheerder op het site bewerken scherm (welke een tab Thema's heeft). Je komt daar via de link Bewerken op het overzicht van alle sites. Alleen netwerkbeheerders kunnen thema's installeren of bewerken."
+msgstr "Thema's kunnen per site worden ingeschakeld door de netwerkbeheerder op het Site bewerken scherm (dat een Thema's tab heeft); ga daarheen via de Bewerken actie link op het Alle sites scherm. Alleen netwerkbeheerders kunnen thema's installeren of bewerken."
 
 #: wp-admin/network/themes.php:310
 msgid "Auto-updates"
@@ -2000,7 +2000,7 @@ msgstr "Gebruikers die zijn geregistreerd op het netwerk zonder een eigen site, 
 #: wp-admin/network/user-new.php:29
 #: wp-admin/network/users.php:242
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
-msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\" target=\"_blank\">Documentatie over Netwerk-gebruikers</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentatie over Netwerk-gebruikers</a>"
 
 #: wp-admin/network/user-new.php:41
 msgid "Cannot create an empty user."
