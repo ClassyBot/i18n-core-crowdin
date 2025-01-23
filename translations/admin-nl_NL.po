@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-19 15:00\n"
+"PO-Revision-Date: 2025-01-23 05:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2617,7 +2617,7 @@ msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:89
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr "Elke plugin en elk thema in de ClassicPress.net directory is 100% GPL of een vergelijkbare gratis en verenigbare licentie, zodat je daar zorgeloos <a href=\"%1$s\">plugins </a> en <a href=\"%2$s\">thema's</a> kunt vinden. Als je een plugin of thema uit een andere bron haalt, vraag dan of het <a href=\"%3$s\">GPL</a is. Als ze de ClassicPress licentie niet respecteren, dan bevelen wij het niet aan."
+msgstr "Elke plugin en elk thema in de ClassicPress.net directory is 100%% GPL of een vergelijkbare gratis en verenigbare licentie, zodat je daar zorgeloos <a href=\"%1$s\">plugins </a> en <a href=\"%2$s\">thema's</a> kunt vinden. Als je een plugin of thema uit een andere bron haalt, vraag dan of het <a href=\"%3$s\">GPL</a> is. Als ze de ClassicPress licentie niet respecteren, dan bevelen wij het niet aan."
 
 #: wp-admin/freedoms.php:93
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
