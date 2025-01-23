@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-23 05:00\n"
+"PO-Revision-Date: 2025-01-23 17:02\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2617,7 +2617,7 @@ msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:89
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
-msgstr "Elke plugin en elk thema in de ClassicPress.net directory is 100%% GPL of een vergelijkbare gratis en verenigbare licentie, zodat je daar zorgeloos <a href=\"%1$s\">plugins </a> en <a href=\"%2$s\">thema's</a> kunt vinden. Als je een plugin of thema uit een andere bron haalt, vraag dan of het <a href=\"%3$s\">GPL</a> is. Als ze de ClassicPress licentie niet respecteren, dan bevelen wij het niet aan."
+msgstr "Elke plugin en elk thema in de ClassicPress.org directory is 100%% GPL of heeft een gelijkwaardige gratis en compatibele licentie. Je kunt daar veilig <a href=\"%1$s\">plugins</a> en <a href=\"%2$s\">thema's</a> vinden. Als je een plugin of thema vanaf een andere bron haalt, <a href=\"%3$s\">vraag ze eerst of het GPL</a> is. Als ze de ClassicPress licentie niet respecteren, is het niet aanbevolen voor gebruik."
 
 #: wp-admin/freedoms.php:93
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -9432,7 +9432,7 @@ msgstr "Goed gedaan! Je site voldoet momenteel aan alle sitediagnose controles."
 
 #: wp-admin/includes/dashboard.php:1775
 msgid "Your site has a critical issue that should be addressed as soon as possible to improve its performance and security."
-msgstr "Je site heeft een kritiek probleem dat zo snel mogelijk opgelost moeten worden om de snelheid en beveiliging te verbeteren."
+msgstr "Je site heeft een kritiek probleem dat zo snel mogelijk opgelost moet worden om de snelheid en beveiliging te verbeteren."
 
 #: wp-admin/includes/dashboard.php:1777
 msgid "Your site has critical issues that should be addressed as soon as possible to improve its performance and security."
@@ -15147,7 +15147,7 @@ msgstr "Uit"
 #: wp-admin/options-general.php:631
 msgctxt "Block Compatibility"
 msgid "On"
-msgstr "Op"
+msgstr "Aan"
 
 #: wp-admin/options-general.php:632
 msgctxt "Block Compatibility"
