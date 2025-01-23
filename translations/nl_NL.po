@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-19 15:00\n"
+"PO-Revision-Date: 2025-01-23 17:01\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1103,7 +1103,7 @@ msgstr "Homepage instellingen"
 
 #: wp-includes/class-wp-customize-manager.php:5623
 msgid "You can choose what&#8217;s displayed on the homepage of your site. It can be posts in reverse chronological order (classic blog), or a fixed/static page. To set a static homepage, you first need to create two Pages. One will become the homepage, and the other will be where your posts are displayed."
-msgstr "Je kan zelf kiezen wat wordt weergegeven op de homepage van je site. Het kunnen berichten zijn in een omgekeerde chronologische volgorde, (de klassieke blog stijl), of een statische pagina. Om een statische pagina te kunnen gebruiken is het nodig om eerst twee pagina's te maken, één pagina wordt gebruikt als homepage en de andere wordt gebruikt om de berichten weer te geven."
+msgstr "Je kan zelf kiezen wat wordt weergegeven op de homepage van je site. Het kunnen berichten zijn in een omgekeerde chronologische volgorde (de klassieke blog stijl), of een statische pagina. Om een statische pagina te kunnen gebruiken is het nodig om eerst twee pagina's te maken. Eén pagina wordt gebruikt als homepage en de andere wordt gebruikt om de berichten weer te geven."
 
 #: wp-includes/class-wp-customize-manager.php:5640
 msgid "Your homepage displays"
