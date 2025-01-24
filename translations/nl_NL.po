@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-23 17:01\n"
+"PO-Revision-Date: 2025-01-24 05:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -4822,7 +4822,7 @@ msgstr "Sociaal"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:416
 msgctxt "Plugin installer group title"
 msgid "Tools"
-msgstr "Gereedschap"
+msgstr "Gereedschappen"
 
 #. translators: 1: Plugin name and version.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:470
@@ -12696,7 +12696,7 @@ msgstr "Nieuwe gebruiker"
 
 #: wp-admin/menu.php:243 wp-admin/tools.php:22
 msgid "Tools"
-msgstr "Gereedschap"
+msgstr "Gereedschappen"
 
 #: wp-admin/menu.php:244
 msgid "Available Tools"
@@ -18932,7 +18932,7 @@ msgstr "Bewerken"
 #: wp-includes/class-wp-editor.php:1244
 msgctxt "TinyMCE menu"
 msgid "Tools"
-msgstr "Gereedschap"
+msgstr "Gereedschappen"
 
 #: wp-includes/class-wp-editor.php:1245
 msgctxt "TinyMCE menu"
