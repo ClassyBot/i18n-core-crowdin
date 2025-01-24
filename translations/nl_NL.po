@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-23 17:01\n"
+"PO-Revision-Date: 2025-01-24 05:00\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2671,7 +2671,7 @@ msgstr "Bewerken"
 #: wp-includes/class-wp-editor.php:1375
 msgctxt "TinyMCE menu"
 msgid "Tools"
-msgstr "Gereedschap"
+msgstr "Gereedschappen"
 
 #: wp-includes/class-wp-editor.php:1376
 msgctxt "TinyMCE menu"
