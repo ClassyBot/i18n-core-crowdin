@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-23 17:02\n"
+"PO-Revision-Date: 2025-01-24 05:00\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1139,7 +1139,7 @@ msgstr "Een rode balk aan de linkerkant betekent dat de reactie wacht om door je
 
 #: wp-admin/edit-comments.php:200
 msgid "In the <strong>Author</strong> column, in addition to the author&#8217;s name, email address, and blog URL, the commenter&#8217;s IP address is shown. Clicking on this link will show you all the comments made from this IP address."
-msgstr "In de <strong>Auteur</strong> kolom, naast de auteursnaam, e-mailadres, en site URL,  wordt het IP-adres van de afzender getoond. Als je op deze link klikt worden alle reacties die op dit IP-adres gemaakt zijn, getoond."
+msgstr "In de <strong>Auteur</strong> kolom, naast de auteursnaam, het e-mailadres en de site URL, de reageerder, wordt het IP-adres getoond. Als je op deze link klikt worden alle reacties getoond die vanaf dit IP-adres gemaakt zijn."
 
 #: wp-admin/edit-comments.php:201
 msgid "In the <strong>Comment</strong> column, hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
@@ -1447,7 +1447,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/write-posts-classi
 #: wp-admin/edit-form-advanced.php:322
 #: wp-admin/edit.php:302
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr "Pagina's zijn gelijk aan berichten omdat ze een titel, tekstinhoud en geassocieerde metadata bevatten. Ze zijn echter verschillend omdat ze geen deel uitmaken van de chronologische site stream, je kunt het vergelijken met statische berichten. Pagina's hebben geen categorie of tags, maar ze kunnen wel een hiërarchie bevatten. Pagina's kunnen genest worden door er één &#8220;Hoofd&#8221; te maken van de ander, bij het maken van een groep pagina's."
+msgstr "Pagina's zijn vergelijkbaar met berichten doordat ze een titel, hoofdtekst en bijbehorende metagegevens hebben, maar ze verschillen doordat ze geen deel uitmaken van de chronologische blogstroom, een beetje zoals permanente berichten. Pagina's worden niet gecategoriseerd of getagd, maar kunnen wel een hiërarchie hebben. Je kunt pagina's onder andere pagina's plaatsen door er één het &#8220;hoofd&#8221; van te maken, waardoor een groep pagina's ontstaat."
 
 #: wp-admin/edit-form-advanced.php:323
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
@@ -2144,7 +2144,7 @@ msgstr "Je kunt ook meerdere berichten tegelijk bewerken of verplaatsen naar de 
 
 #: wp-admin/edit.php:286
 msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected posts at once. To remove a post from the grouping, just click the x next to its name in the Bulk Edit area that appears."
-msgstr "Als je voor meerdere bewerkingen tegelijk uitvoeren kiest, kun je de metadata (categorieën, auteur, enz.) voor alle geselecteerde berichten in één keer bewerken. Om een bericht van deze selectie te verwijderen, klik dan op de x knop naast de naam in het bulk bewerken gebied dat verschijnt."
+msgstr "Bij het gebruik van bulk bewerken, kun je de meta gegevens (categorieën, auteur, etc.) voor alle geselecteerde berichten tegelijkertijd wijzigen. Om een bericht uit de groep te verwijderen, klik je gewoon op de x naast de naam in het bulk bewerken gebied dat verschijnt."
 
 #: wp-admin/edit.php:292
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-screen/\">Documentation on Managing Posts</a>"
@@ -2654,7 +2654,7 @@ msgstr "De %s importeerfunctie is ongeldig of niet geïnstalleerd."
 
 #: wp-admin/import.php:72
 msgid "If you have posts or comments in another system, ClassicPress can import those into this site. To get started, choose a system to import from below:"
-msgstr "Je kunt berichten of reacties uit andere systemen importeren naar je huidige site. Kies hieronder uit welk systeem je wilt importeren."
+msgstr "Je kunt berichten of reacties uit andere systemen importeren naar deze site. Kies hieronder uit welk systeem je wilt importeren:"
 
 #: wp-admin/import.php:95
 msgid "No importers are available."
@@ -10632,7 +10632,7 @@ msgstr "Je maakt gebruik van de multi-bestand uploader. Problemen? Probeer in pl
 
 #: wp-admin/includes/media.php:3007
 msgid "You are using the browser&#8217;s built-in file uploader. The ClassicPress uploader includes multiple file selection and drag and drop capability. <a href=\"#\">Switch to the multi-file uploader</a>."
-msgstr "Je gebruikt de ingebouwde browser bestandsuploader. De ClassicPress uploader bevat meerdere bestandsselecties en de drag-en-drop mogelijkheid. <a href=\"#\">Schakel om naar de nieuwe uploader</a>."
+msgstr "Je gebruikt de ingebouwde bestand uploader van de browser. De ClassicPress uploader bevat meerdere bestanden selectie en de mogelijkheid tot verslepen. <a href=\"#\">Schakel om naar de multi-bestandsuploader</a>."
 
 #. translators: 1: Link start tag, 2: Link end tag, 3: Width, 4: Height.
 #: wp-admin/includes/media.php:3039
@@ -11175,7 +11175,7 @@ msgstr "Extra velden"
 #: wp-admin/includes/meta-boxes.php:1703
 #: wp-admin/menu.php:354
 msgid "Discussion"
-msgstr "Reacties"
+msgstr "Discussie"
 
 #: wp-admin/includes/misc.php:42
 msgid "commit %s"
@@ -13577,7 +13577,7 @@ msgstr "Het dashboard is de eerste plaats waar je zult komen elke keer dat je in
 
 #: wp-admin/index.php:50
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
-msgstr "Het navigatiemenu aan de linkerkant geeft links naar alle ClassicPress dashboardschermen, met submenu-items die worden getoond als je er overheen hovert. Je kunt dit menu verkleinen naar een smalle strip met iconen door te klikken op de menu invouwen pijl aan de onderkant."
+msgstr "Het navigatiemenu aan de linkerkant geeft links naar alle ClassicPress dashboardschermen, met submenu-items die worden getoond bij hoveren. Je kunt dit menu verkleinen naar een smalle strip met iconen door te klikken op de Menu invouwen pijl aan de onderkant."
 
 #: wp-admin/index.php:51
 msgid "Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful ClassicPress information."
@@ -14207,7 +14207,7 @@ msgstr "Nieuwe gebruiker toevoegen"
 #: wp-admin/menu.php:335
 #: wp-admin/tools.php:43
 msgid "Tools"
-msgstr "Hulpmiddelen"
+msgstr "Gereedschappen"
 
 #: wp-admin/menu.php:336
 msgid "Available Tools"
@@ -16424,7 +16424,7 @@ msgstr "Introductie"
 
 #: wp-admin/privacy-policy-guide.php:70
 msgid "This text template will help you to create your web site&#8217;s privacy policy."
-msgstr "Dit template helpt je om het privacybeleid van jouw site te maken."
+msgstr "Deze tekst-template helpt je om het privacybeleid voor je site te maken."
 
 #: wp-admin/privacy-policy-guide.php:71
 msgid "The template contains a suggestion of sections you most likely will need. Under each section heading you will find a short summary of what information you should provide, which will help you to get started. Some sections include suggested policy content, others will have to be completed with information from your theme and plugins."
@@ -16470,19 +16470,19 @@ msgstr "De nieuwe pagina bevat hulp en suggesties voor je privacybeleid."
 
 #: wp-admin/privacy.php:135
 msgid "However, it is your responsibility to use those resources correctly, to provide the information that your Privacy Policy requires, and to keep that information current and accurate."
-msgstr "Het is jouw verantwoordelijkheid om de gegevensbron op de juiste manier te gebruiken, om de informatie te verschaffen volgens je privacybeleid en om de informatie actueel en accuraat te houden."
+msgstr "Echter, het is je verantwoordelijkheid om deze gegevensbron op correcte wijze te gebruiken, om de informatie te verstrekken die je privacybeleid vereist en om die informatie actueel en accuraat te houden."
 
 #: wp-admin/privacy.php:138
 msgid "After your Privacy Policy page is set, we suggest that you edit it."
-msgstr "Nadat je privacybeleidspagina is ingesteld, stellen we voor dat je deze aanpast."
+msgstr "Nadat je privacybeleid pagina is ingesteld, moet je deze bewerken."
 
 #: wp-admin/privacy.php:139
 msgid "We would also suggest reviewing your Privacy Policy from time to time, especially after installing or updating any themes or plugins. There may be changes or new suggested information for you to consider adding to your policy."
-msgstr "We bevelen ook aan om van tijd tot tijd je privacybeleid opnieuw te beoordelen, vooral na een update. Er kunnen wijzigingen zijn of nieuwe suggesties die je zou kunnen toevoegen aan je beleid."
+msgstr "Je zou ook je privacybeleid van tijd tot tijd moeten bekijken, vooral na het installeren of updaten van thema's of plugins. Er kunnen wijzigingen of nieuwe voorgestelde informatie zijn die je moet overwegen om toe te voegen aan je beleid."
 
 #: wp-admin/privacy.php:173
 msgid "Need help putting together your new Privacy Policy page? <a href=\"%1$s\" %2$s>Check out our guide%3$s</a> for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr "Hulp nodig bij het maken van je privacybeleidspagina? <a href=\"%1$s\" %2$s>Bekijk onze gids%3$s</a> voor aanbevelingen over welke inhoud je moet toevoegen samen met policies die door jouw plugins en thema voorgesteld worden."
+msgstr "Hulp nodig bij het maken van je privacybeleid pagina? <a href=\"%1$s\" %2$s>Bekijk onze privacybeleid gids%3$s</a> voor aanbevelingen over welke inhoud je moet toevoegen samen met policies die door je plugins en thema voorgesteld worden."
 
 #: wp-admin/privacy.php:213
 msgid "Select an existing page:"
@@ -17568,7 +17568,7 @@ msgstr "Er zijn nieuwe vertalingen beschikbaar."
 
 #: wp-admin/update-core.php:703
 msgid "Update ClassicPress"
-msgstr "ClassicPress bijwerken"
+msgstr "ClassicPress updaten"
 
 #: wp-admin/update-core.php:751
 msgid "It's possible that an update started, but the server encountered a temporary issue and could not continue."
@@ -17594,7 +17594,7 @@ msgstr "Installatie is mislukt"
 #: wp-admin/update-core.php:833
 #: wp-admin/update-core.php:876
 msgid "ClassicPress Updates"
-msgstr "ClassicPress bijwerken"
+msgstr "ClassicPress updates"
 
 #: wp-admin/update-core.php:836
 msgid "On this screen, you can update to the latest version of ClassicPress, as well as update your themes, plugins, and translations from the ClassicPress.net repositories."
@@ -17606,7 +17606,7 @@ msgstr "Als er een update beschikbaar is, zie je een melding verschijnen in de t
 
 #: wp-admin/update-core.php:847
 msgid "<strong>ClassicPress</strong> &mdash; Updating your ClassicPress installation is a simple one-click procedure: just <strong>click on the &#8220;Update Now&#8221; button</strong> when you are notified that a new version is available."
-msgstr "<strong>ClassicPress</strong> &mdash; Het bijwerken van de ClassicPress installatie is een simpele een-kliks handeling: klik op de <strong>&#8220;Nu bijwerken&#8221; knop</strong> zodra je de melding ziet dat er een nieuwe versie beschikbaar is."
+msgstr "<strong>ClassicPress</strong> &mdash; Het updaten van je ClassicPress installatie is een simpele één-klik procedure: gewoon <strong>klikken op de &#8220;Update nu&#8221; knop</strong> wanneer je een bericht krijgt dat er een nieuwe versie beschikbaar is."
 
 #: wp-admin/update-core.php:847
 msgid "In most cases, ClassicPress will automatically apply maintenance and security updates in the background for you."
@@ -17618,7 +17618,7 @@ msgstr "<strong>Thema's en plugins</strong> &mdash; om individuele thema's of pl
 
 #: wp-admin/update-core.php:851
 msgid "<strong>Translations</strong> &mdash; The files translating ClassicPress into your language are updated for you whenever any other updates occur. But if these files are out of date, you can <strong>click the &#8220;Update Translations&#8221;</strong> button."
-msgstr "<strong>Vertalingen</strong> &mdash; De bestanden die ervoor zorgen om ClassicPress in je eigen taal te tonen worden bijgewerkt zodra er een nieuwe versie van uitkomt. Wanneer de bestanden verouderd zijn, kun je op de <strong>Vertaling bijwerken</strong> knop klikken."
+msgstr "<strong>Vertalingen</strong> &mdash; De bestanden die ClassicPress in je taal vertalen, worden voor je geüpdate wanneer er andere updates plaatsvinden. Maar als deze bestanden verouderd zijn, kun je <strong>op de &#8220;Update vertalingen&#8221;</strong> knop klikken."
 
 #: wp-admin/update-core.php:857
 msgid "How to Update"
@@ -18043,7 +18043,7 @@ msgstr "Gebruiker %s bewerken"
 
 #: wp-admin/user-edit.php:59
 msgid "Your profile contains information about you (your &#8220;account&#8221;) as well as some personal options related to using ClassicPress."
-msgstr "Je profiel bevat informatie over jou (je &#8220;account&#8221;) evenals een aantal persoonlijke opties met betrekking tot het gebruik van ClassicPress."
+msgstr "Je profiel bevat informatie over je (je &#8220;account&#8221;) evenals een aantal persoonlijke opties met betrekking tot het gebruik van ClassicPress."
 
 #: wp-admin/user-edit.php:60
 msgid "You can change your password, turn on keyboard shortcuts, change the color scheme of your ClassicPress administration screens, and turn off the WYSIWYG (Visual) editor, among other things. You can hide the Toolbar (formerly called the Admin Bar) from the front end of your site, however it cannot be disabled on the admin screens."
@@ -18401,7 +18401,7 @@ msgstr "[%s] Bevestiging van deelname"
 
 #: wp-admin/user-new.php:263
 msgid "To add a new user to your site, fill in the form on this screen and click the Add New User button at the bottom."
-msgstr "Teneinde een nieuwe gebruiker aan je site toe te voegen, gaarne het formulier op dit scherm invullen en onderaan op de Nieuwe gebruiker toevoegen knop klikken."
+msgstr "Om een nieuwe gebruiker aan je site toe te voegen, vul je het formulier op dit scherm in en klik je onderaan op de knop Nieuwe gebruiker toevoegen."
 
 #: wp-admin/user-new.php:266
 msgid "Because this is a multisite installation, you may add accounts that already exist on the Network by specifying a username or email, and defining a role. For more options, such as specifying a password, you have to be a Network Administrator and use the hover link under an existing user&#8217;s name to Edit the user profile under Network Admin > All Users."
@@ -18542,7 +18542,7 @@ msgstr "Gebruikersmelding versturen"
 
 #: wp-admin/user-new.php:622
 msgid "Send the new user an email about their account."
-msgstr "Nieuwe gebruiker een e-mailbericht versturen over hun account."
+msgstr "Nieuwe gebruiker een e-mail over hun account sturen."
 
 #: wp-admin/users.php:16
 msgid "Sorry, you are not allowed to list users."
@@ -18554,7 +18554,7 @@ msgstr "Dit scherm geeft een overzicht van alle bestaande gebruikers voor je sit
 
 #: wp-admin/users.php:36
 msgid "To add a new user for your site, click the Add New button at the top of the screen or Add New in the Users menu section."
-msgstr "Klik om een nieuwe gebruiker toe te voegen voor je site op de knop Toevoegen bovenin het scherm of kies Nieuwe toevoegen in het menu Gebruikers."
+msgstr "Om een nieuwe gebruiker aan je site toe te voegen, klik op de knop Nieuwe gebruiker toevoegen bovenaan het scherm of Nieuwe gebruiker toevoegen in de Gebruikers menu sectie."
 
 #: wp-admin/users.php:44
 msgid "You can customize the display of this screen in a number of ways:"
